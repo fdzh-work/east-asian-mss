@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+<!-- use this template in cases where the manuscript is NOT composed of multiple codicological units. To avoid errors in the display of the record, be sure to delete elements that are not used. -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="manuscript_00001"><!-- insert the correct xmlid in the form manuscript_12345 -->
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>MS.Chin.a.24(13)</title>
+                
+                <respStmt>
+                    <resp>Cataloguer</resp>
+                    <persName>Boya Zhang</persName>
+                </respStmt>
+                
+            </titleStmt>
+            <editionStmt>
+                <edition>TEI P5</edition>
+                <funder>HD Chung Fund</funder>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Special Collections, Bodleian Libraries</publisher>
+                <address>
+                    <orgName type="department">Special Collections</orgName>
+                    <orgName type="unit">Bodleian Libraries</orgName>
+                    <orgName type="institution">University of Oxford</orgName>
+                    <street>Weston Library, Broad Street</street>
+                    <settlement>Oxford</settlement>
+                    <postCode>OX1 3BG</postCode>
+                    <country>United Kingdom</country>
+                </address>
+                <distributor>
+                    <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                </distributor>
+                <idno type="msID"><!-- insert normalized form of shelfmark --></idno>
+                <idno type="collection"><!-- insert normalized form of collection --></idno>
+                <idno type="catalogue"><!-- insert catalogue ID --></idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:lang="en"><!-- optionally provide xmlid should as a normalized form of the shelfmark, e.g. Merton_College_MS_10 -->
+                    <msIdentifier>
+                        <settlement><!-- insert --></settlement>
+                        <repository>Bodleian Library</repository><!-- change if necessary -->
+                        <idno type="shelfmark">MS.Chin.a.24(13)</idno>
+                        
+                    </msIdentifier>
+                    
+                    <msContents>
+                        <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
+                        <summary>Travel permits for A. Bonsey, 1897-1898.</summary>
+                        <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
+                        
+                        <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
+                            <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
+                            <locus><!-- insert --></locus>
+                            <title key="">護照</title>
+                            <title>Hu zhao</title>
+                            <rubric>大英欽命駐劄漢口管理本國通商事務領事官霍為</rubric>
+                            
+                            <incipit>給發護照事照得天津條約第九欵内載英國民人准聼持照前往内地各處游歷通商。執照由領事官發給，由地方官蓋印，經過地方如飭交出執照，應可隨時呈驗無訛放行。僱船僱人裝運行李貨物不得攔阻，如其無照，其中或有訛誤，以及有不法情事就近送交領事官
+                                懲辦。沿途只可拘禁不可凌虐等云。現據牧師潘雅德稟稱欲由漢口前赴湖北、湖南、河南、四川、江西、安徽游歷，請領護照前來。據此本領事查該人素稱妥練，合行發給護照。應請大清各處地方文武員弁驗照放行，務須隨時保衛以禮相待，經過關津局卡幸勿留難攔阻，爲此給與護照須至護照者。</incipit>
+                            <explicit>右照給教士<persName>潘雅德</persName>收執</explicit>
+                            <colophon>一千八百九十七年十二月廿八日<lb/>光緒二十三年十二月初五日<lb/>給</colophon>
+                            <rubric>大清欽命監督湖北江漢關漢<persName>黃德道</persName>加印<lb/>限乙年繳銷</rubric>
+                            <note>該教士游歷湖南后往苗疆猺峝等處以照妥俱此批</note>
+                            
+                        </msItem>
+                        <!-- insert further msItem elements as appropriate -->
+                    </msContents>
+                    <physDesc>
+                        
+                        <objectDesc form="sheet"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
+                            <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
+                                <support>mulbery and bamboo mix paper</support>
+                                <extent>1 leaf
+                                    <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
+                        
+                        https://git.io/msdescdoc#leafDimensions
+                        -->                           <height>？</height>
+                                        <width>？</width>
+                                    </dimensions>
+                                    <!-- use additional dimensions elements if necessary -->
+                                </extent>
+                                
+                                <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>黑色印刷加手寫單頁,楷書印刷，行書書寫。</layout>
+                                <!-- use additional layout elements if necessary 
+                        https://git.io/msdescdoc#layoutdesc-->
+                            </layoutDesc>
+                        </objectDesc>
+                        
+                        <handDesc><!-- use the @hands attribute to record the number of scribes -->
+                            <handNote>
+                                Printed text in 楷體 (kai shu, regular) calligraphic style, written text in 行書 （xing shu,semi-cursive) calligraphic style.）</handNote>
+                            <!-- use additional handNote elements if necessary 
+                     https://git.io/msdescdoc#handdesc
+                     -->
+                        </handDesc>
+                        <musicNotation>
+                            <p><!-- insert if relevant, otherwise delete --></p>
+                            <!-- use additional p elements if necessary 
+                     https://git.io/msdescdoc#musicnotation
+                     -->
+                        </musicNotation>
+                        
+                        
+                        <bindingDesc>
+                            <binding when="1800"><!-- use dating attributes to record the date -->
+                                <p>單頁</p>
+                                <decoNote><!-- insert relevant information, otherwise delete --></decoNote>
+                            </binding>
+                        </bindingDesc>
+                        <accMat>
+                            <!-- insert if relevant, otherwise delete 
+                     https://git.io/msdescdoc#accMat
+                     -->
+                        </accMat>
+                    </physDesc>
+                    <history>
+                        <!-- see https://git.io/msdescdoc#history -->
+                        <origin>
+                            <!-- see https://git.io/msdescdoc#origin -->
+                            <origPlace>
+                                <country>China</country>,
+                                <region>湖北省 Hubei Province</region>,
+                                <settlement>漢口 Hankou（Hankow）</settlement>,
+                                
+                            </origPlace>
+                            <origDate notAfter="1900" notBefore="1800" calendar="Gregorian">清光緒二十三年[1897]</origDate>
+                            <!-- use additional origPlace and origDate elements if necessary -->
+                        </origin>
+                        <provenance>
+                            travel permits for A. Bonsey, issued on 11th April of 1889.    
+                        </provenance>
+                        <!-- use additional provenance elements if necessary -->
+                        <acquisition>
+                            <!-- insert -->
+                            <!-- use dating attributes where possible -->
+                        </acquisition>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source>
+                                    <!-- insert prose here; see https://git.io/msdescdoc#recordHist -->
+                                    <bibl><!-- insert if necesary, otherwise delete --></bibl>
+                                    <!-- links to digitized catalogues may also be provide here, e.g.: -->
+                                    <!--<listBibl>
+                              <bibl type="SC" facs="aas0046.gif">Summary Catalogue, Vol. 3, p.  31</bibl>
+                           </listBibl>-->
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                        <listBibl>
+                            <!-- a number of listBibl elements can be nested inside an outer listBibl if required -->
+                            <head><!-- use to provide a heading if required, otherwise delete --></head>
+                            <bibl><!-- insert bibliography, links to online resource, etc., otherwise delete--></bibl>
+                            
+                        </listBibl>
+                    </additional>
+                    
+                    
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change>
+                <!-- insert relevant text, e.g. 'First online publication' -->
+                <!-- provide the date of the change using the @when attribute -->
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><!--Body paragraph provided for validation and future transcription--></p>
+        </body>
+    </text>
+</TEI>

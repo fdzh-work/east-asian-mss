@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+<!-- use this template in cases where the manuscript is NOT composed of multiple codicological units. To avoid errors in the display of the record, be sure to delete elements that are not used. -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="manuscript_00000"><!-- insert the correct xmlid in the form manuscript_12345 -->
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>MS.Chin.c.24</title>
+                
+                <respStmt>
+                    <resp>Cataloguer</resp>
+                    <persName>Boya Zhang</persName>
+                </respStmt>
+                
+            </titleStmt>
+            <editionStmt>
+                <edition>TEI P5</edition>
+                <funder>HD Chung Fund</funder>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Special Collections, Bodleian Libraries</publisher>
+                <address>
+                    <orgName type="department">Special Collections</orgName>
+                    <orgName type="unit">Bodleian Libraries</orgName>
+                    <orgName type="institution">University of Oxford</orgName>
+                    <street>Weston Library, Broad Street</street>
+                    <settlement>Oxford</settlement>
+                    <postCode>OX1 3BG</postCode>
+                    <country>United Kingdom</country>
+                </address>
+                <distributor>
+                    <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                </distributor>
+                <idno type="msID"><!-- insert normalized form of shelfmark --></idno>
+                <idno type="collection"><!-- insert normalized form of collection --></idno>
+                <idno type="catalogue"><!-- insert catalogue ID --></idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:lang="en"><!-- optionally provide xmlid should as a normalized form of the shelfmark, e.g. Merton_College_MS_10 -->
+                    <msIdentifier>
+                        <settlement><!-- insert --></settlement>
+                        <repository>Bodleian Library</repository><!-- change if necessary -->
+                        <idno type="shelfmark">MS.Chin.c.24</idno>
+                        
+                        
+                    </msIdentifier>
+                    
+                    <msContents>
+                        <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
+                        <summary><!--  --></summary>
+                        <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
+                        
+                        <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
+                            <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
+                            <locus><!-- insert --></locus>
+                            <title key="">符籙秘訣 不分卷有缺</title>
+                            <title>fu lu mi jue， A secret manual of exorcism techniques</title>
+                            <author key="">佚名撰</author>
+                            <author key="">Unidentified</author>
+                            <colophon><locus from="1a" to="1a">folio 1a</locus> 人張巡太保</colophon>
+                            
+                            
+                        </msItem>
+                        <!-- insert further msItem elements as appropriate -->
+                    </msContents>
+                    <physDesc>
+                        
+                        <objectDesc form="綫裝"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
+                            <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
+                                <support>？check the material</support>
+                                <extent>98 leaves
+                                    <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
+                        
+                        https://git.io/msdescdoc#leafDimensions
+                        -->                           <height>32 cm</height>
+                                        
+                                    </dimensions>
+                                    <!-- use additional dimensions elements if necessary -->
+                                </extent>
+                                
+                                <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>明嘉靖中内府朱絲欄抄本。内頁每半頁邊框高23.5cm，半頁八行，單行。正文為小字，單行抄寫，每行19字。邊框為紅色雙行，界行爲紅色單行，正文爲墨色。</layout>
+                                <!-- use additional layout elements if necessary 
+                        https://git.io/msdescdoc#layoutdesc-->
+                            </layoutDesc>
+      
+                        </objectDesc>
+                        
+                        <handDesc><!-- use the @hands attribute to record the number of scribes -->
+                            <handNote>
+                                Text written in 楷體 (kai shu, regular) calligraphic style</handNote>
+                            <!-- use additional handNote elements if necessary 
+                     https://git.io/msdescdoc#handdes--> 
+                        </handDesc>
+                        <musicNotation>
+                            <p><!-- insert if relevant, otherwise delete --></p>
+                            <!-- use additional p elements if necessary 
+                     https://git.io/msdescdoc#musicnotation
+                     -->
+                        </musicNotation>
+                        <decoDesc>
+                            <decoNote>
+                                In traditional Chinese style thread binding. 1 volume</decoNote>
+                            <!-- use additional decoNote elements if necessary 
+                     https://git.io/msdescdoc#decodesc
+                     -->
+                        </decoDesc>
+                        <additions>
+                            <p>The text has no title, and the words [符籙秘訣] has been taken from the bottom edge of the text book. The volume was wxamined on 20 August 2010 by Professor Maruyama Hiroshi, who was of the view that the manuscript was produced in the palace during the 16th century.
+                          </p>
+                        </additions>
+                        <bindingDesc>
+                            <binding when="1500"><!-- use dating attributes to record the date -->
+                                <p> 綫裝書</p>
+                                <decoNote><!-- insert relevant information, otherwise delete --></decoNote>
+                            </binding>
+                        </bindingDesc>
+                        <accMat>
+                            <!-- insert if relevant, otherwise delete 
+                     https://git.io/msdescdoc#accMat
+                     -->
+                        </accMat>
+                    </physDesc>
+                    <history>
+                        <!-- see https://git.io/msdescdoc#history -->
+                        <origin>
+                            <!-- see https://git.io/msdescdoc#origin -->
+                            <origPlace>
+                                <country>China</country>,
+                                <region><!-- insert --></region>,
+                                <settlement><!-- insert --></settlement>,
+                                <orgName><!-- insert --></orgName>
+                            </origPlace>
+                            <origDate notAfter="1600" notBefore="1500" calendar="Gregorian">明嘉靖年間[1522-1566]</origDate>
+                            <!-- use additional origPlace and origDate elements if necessary -->
+                        </origin>
+                        <provenance>
+                          <!-- insert --> 
+                        </provenance>
+                        <!-- use additional provenance elements if necessary -->
+                        <acquisition>
+                            <!-- insert -->
+                            <!-- use dating attributes where possible -->
+                        </acquisition>
+                    </history> 
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source>
+                                    <!-- insert prose here; see https://git.io/msdescdoc#recordHist -->
+                                    <bibl><!-- insert if necesary, otherwise delete --></bibl>
+                                    <!-- links to digitized catalogues may also be provide here, e.g.: -->
+                                    <!--<listBibl>
+                              <bibl type="SC" facs="aas0046.gif">Summary Catalogue, Vol. 3, p.  31</bibl>
+                           </listBibl>-->
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                        <listBibl>
+                            <!-- a number of listBibl elements can be nested inside an outer listBibl if required -->
+                            <head><!-- use to provide a heading if required, otherwise delete --></head>
+                            <bibl><!-- insert bibliography, links to online resource, etc., otherwise delete--></bibl>
+                            
+                        </listBibl>
+                    </additional>
+                    
+                    
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change>
+                <!-- insert relevant text, e.g. 'First online publication' -->
+                <!-- provide the date of the change using the @when attribute -->
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><!--Body paragraph provided for validation and future transcription--></p>
+        </body>
+    </text>
+</TEI>
+
+
