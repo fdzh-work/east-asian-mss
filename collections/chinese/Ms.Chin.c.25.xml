@@ -49,7 +49,11 @@
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
+<<<<<<< HEAD
                         <summary>Manuscript in Chinese with 36 illustrations of traditional Chinese astronomy, including star chart and Chinese constellations depicting the Chinese constellations.</summary>
+=======
+                        <summary><!--  --></summary>
+>>>>>>> eb5314a86eb18257eec0fa3fcfce9b9c4e63e57a
                         <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
                         
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
@@ -58,6 +62,10 @@
                             <title key=""> 司天考驗圖</title>
                             <title>Si tian kao yan tu</title>
                             <author>吳維鍔</author>   
+<<<<<<< HEAD
+=======
+                            <rubric>永樂大典</rubric>
+>>>>>>> eb5314a86eb18257eec0fa3fcfce9b9c4e63e57a
                             <rubric>紫薇垣圖</rubric>
                             
                             <colophon><persName>吳維鍔</persName>撰</colophon>
@@ -113,7 +121,11 @@
                             <p>Hand written in Xingshu calligraphic style. Text accompanied with illustrations of ancient Chinese constellations</p>
                         </additions>
                         <bindingDesc>
+<<<<<<< HEAD
                             <binding when="1600"><!-- use dating attributes to record the date -->
+=======
+                            <binding when="1500"><!-- use dating attributes to record the date -->
+>>>>>>> eb5314a86eb18257eec0fa3fcfce9b9c4e63e57a
                                 <p>綫裝書</p>
                                 <decoNote><!-- insert relevant information, otherwise delete --></decoNote>
                             </binding>
@@ -138,7 +150,11 @@
                             <!-- use additional origPlace and origDate elements if necessary -->
                         </origin>
                         <provenance>
+<<<<<<< HEAD
                             On the cover of book, the Chinese characters "吳維鍔廉潔夫氏製" are shown, indicating that the book could be written by 吳維鍔. Two seals are also present on the first folio, one displaying the Chinese character of Wu Wei E 吳維諤 , the other showing the Chinese charater of Lian Fu (廉夫). Both carved in Chinese Zhuanshu calligraphic style.In the following pages, a seal carved "別有天地" in 篆書 (zhuanshu) calligraphic style is shown.
+=======
+                            On the cover of book, the Chinese characters "吳維鍔製" are shown, indicating that the book could be written by 吳維鍔. Two seals are also present, one displaying the Chinese character of Wu Wei E 吳維諤 , the other showing the Chinese charater of Lian Fu (廉夫). Both carved in Chinese Zhuanshu calligraphic style.Inside of the book, a seal carved 別有天地 in 篆書 (zhuanshu) calligraphic style is shown.
+>>>>>>> eb5314a86eb18257eec0fa3fcfce9b9c4e63e57a
                         </provenance>
                         <!-- use additional provenance elements if necessary -->
                         <acquisition>

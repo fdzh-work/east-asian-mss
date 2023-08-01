@@ -1,14 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 
 <!-- use this template in cases where the manuscript is NOT composed of multiple codicological units. To avoid errors in the display of the record, be sure to delete elements that are not used. -->
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-    xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="manuscript_00001"><!-- insert the correct xmlid in the form manuscript_12345 -->
+    xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="manuscript_00000"><!-- insert the correct xmlid in the form manuscript_12345 -->
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>MS.Chin.a.24(1)</title>
+                <title>MS.Chin.a.23</title>
                 
                 <respStmt>
                     <resp>Cataloguer</resp>
@@ -43,52 +44,47 @@
                     <msIdentifier>
                         <settlement><!-- insert --></settlement>
                         <repository>Bodleian Library</repository><!-- change if necessary -->
-                        <idno type="shelfmark">MS.Chin.a.25</idno>
+                        <idno type="shelfmark">MS.Chin.a.23</idno>
+                        <altIdentifier type="former">
+                            <idno>Arch.O.a.6/7</idno>
+                        </altIdentifier>
                         
                     </msIdentifier>
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-<<<<<<< HEAD
-                        <summary>An anti-Christian tract.</summary>
-=======
                         <summary><!--  --></summary>
->>>>>>> eb5314a86eb18257eec0fa3fcfce9b9c4e63e57a
                         <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
                         
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            <title key=""> 滅鬼歌</title>
-                            <title>Mie gui ge</title>
-                            <incipit>父兄教唱修福積德，兒童學唱消災解厄，那怕鬼多定要把他滅絕。 
-                                
-                                天誅教迷堂客醜殺人説不得家家男人要明白免得帽子變了色。 
-                                
-                                天誅教切崽腸取胞胎破胸膛熬藥水配醫方家家婦女要提防， 
-                                
-                                天誅教切腎子多少小兒遭切死家家小兒要提防怕的一刀見閻王。 
-                                
-                                天誅教容易認祇拜耶穌一個豬天地君親都不拜，一切廟宇不燒香，家中不設祖宗堂。地方倘有人如此，他家就是鬼崽子。快快捆起來灌他尿灌了屎滿屋搜搜出鬼書，火裏丟地地下畫個十字架，書個鬼相架，上掛呌他屙堆屎尿饒他罷他若不肯屙送他下河壩，看他怕不怕看他怕不怕。 </incipit>
-                       
+                            <title key="">永樂大典:卷一萬六千二百十七之一萬六千二百十八</title>
+                            <title>Yongle da dian: juan 16217-16218</title>
+                            <editor>解縉</editor>
+                            <rubric>永樂大典</rubric>
+                            <rubric>冠:諸侯大夫冠禮</rubric>
+                            <colophon>重錄總校官侍郎臣<persName>秦鳴雷</persName><lb/>學士臣<persName>王大任</persName></colophon>
+                            
+                            <colophon>分校官編修臣<persName>孫鋌</persName></colophon>
+                            <colophon>書寫儒士臣<persName>倪琩</persName></colophon>
+                            <colophon>圈點監生臣<persName>林民表</persName><lb/>臣<persName>董子翰</persName></colophon>
+                            <filiation>中外孤本 only surviving copy</filiation>
+                            
                         </msItem>
                         <!-- insert further msItem elements as appropriate -->
                     </msContents>
                     <physDesc>
                         
-<<<<<<< HEAD
-                        <objectDesc form="sheet"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
-=======
                         <objectDesc form="包背裝"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
->>>>>>> eb5314a86eb18257eec0fa3fcfce9b9c4e63e57a
                             <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                                <support>mulbery and bamboo mix paper</support>
-                                <extent>1 leaf
+                                <support>mulberry and bamboo mixed paper</support>
+                                <extent>38 leaves
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
                         https://git.io/msdescdoc#leafDimensions
-                        -->                           <height>？</height>
-                                        <width>？</width>
+                        -->                           <height>50</height>
+                                        <width>30</width>
                                     </dimensions>
                                     <!-- use additional dimensions elements if necessary -->
                                 </extent>
@@ -96,7 +92,7 @@
                                 <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>楷書手寫單頁</layout>
+                                <layout>内頁每半頁邊框高36cm，寬23，5cm，半頁八行，標題為大字，單行。正文為小字，雙行抄寫，每行28字。正文大小分作兩種，正文以大字，注則以小字。書口有三個魚尾，上書尾題“永樂大典卷某某”，下端雙魚尾内題頁碼。邊框，界行，引用書目，書口文字，句讀的小圓圈都爲紅色，其他都爲墨色。</layout>
                                 <!-- use additional layout elements if necessary 
                         https://git.io/msdescdoc#layoutdesc-->
                             </layoutDesc>
@@ -115,17 +111,19 @@
                      https://git.io/msdescdoc#musicnotation
                      -->
                         </musicNotation>
+                        <decoDesc>
+                            <decoNote>
+                                In traditional Chinese style yellow silk cover</decoNote>
+                            <!-- use additional decoNote elements if necessary 
+                     https://git.io/msdescdoc#decodesc
+                     -->
+                        </decoDesc>
                         <additions>
-                            <p> An anti-Christian tract. </p>
+                            <p> 明嘉靖隆慶間內府重寫本。There are areas of old water damage and mould in the upper part of the volume. The text includes a large plan of ritual formation. Has a printed /ms. Siku quanshu form. As shown in Zhang Chenshi's list. Reproduced in the 1960/1984 Zhonghua Shuju reprint.</p>
                         </additions>
-        
                         <bindingDesc>
-<<<<<<< HEAD
-                            <binding when="1800"><!-- use dating attributes to record the date -->
-=======
                             <binding when="1500"><!-- use dating attributes to record the date -->
->>>>>>> eb5314a86eb18257eec0fa3fcfce9b9c4e63e57a
-                                <p>單頁</p>
+                                <p> 黃絹硬面,包背裝</p>
                                 <decoNote><!-- insert relevant information, otherwise delete --></decoNote>
                             </binding>
                         </bindingDesc>
@@ -141,27 +139,15 @@
                             <!-- see https://git.io/msdescdoc#origin -->
                             <origPlace>
                                 <country>China</country>,
-<<<<<<< HEAD
-                                <region>湖北省 Hubei Province</region>,
-                                <settlement>漢口 Hankou（Hankow） </settlement>,
-                               
-                            </origPlace>
-                            <origDate notAfter="1900" notBefore="1800" calendar="Gregorian">清光緒年間 [1875-1908)]</origDate>
-                            <!-- use additional origPlace and origDate elements if necessary -->
-                        </origin>
-                        <provenance>
-                            A copied leaf from the anti-Christian work. The cause of the riots in the Yangtse valley a complete picture gallery (Hankow, 1891). 
-=======
                                 <region><!-- insert --></region>,
                                 <settlement><!-- insert --></settlement>,
                                 <orgName><!-- insert --></orgName>
                             </origPlace>
-                            <origDate notAfter="1900" notBefore="1600" calendar="Gregorian">清光緒年間 (1875-1908)</origDate>
+                            <origDate notAfter="1600" notBefore="1500" calendar="Gregorian">嘉靖四十一年-隆慶元年（1562-1567）</origDate>
                             <!-- use additional origPlace and origDate elements if necessary -->
                         </origin>
                         <provenance>
-                       
->>>>>>> eb5314a86eb18257eec0fa3fcfce9b9c4e63e57a
+                            The seven volumes MS.Chin.a.17-23 were purchased by A.F.L (“Freddie”) Beeston, Keeper of Oriental Books, from Mr. James Cleugh for £100 in November 1950 (Bodleian Library, unreferenced correspondence in a box marked “Chinese” in the New Library, Room 127) and “are said to have been in the possession of Mr. H.B. Bristow, a member of the British Consulate in Tientsin in the eighteen-seventies” (Beeston, 199). Bristow, the son of an inn keeper in South Lynn, Norfolk, entered the consular service in 1867 at the age of 18, and subsequently became consul at Chefoo and Tientsin. He retired on grounds of ill health in 1897, and does not appear to have been present during the Siege. There was however a “Student Interpreter” H.H. Bristow present at the Siege (Giles, Lancelot, 180), and it is possible that it is he who might have acquired the volumes. None of them bears any inscriptions. As shown in Yuan Tongli's list and Zhang Chenshi's list  
                         </provenance>
                         <!-- use additional provenance elements if necessary -->
                         <acquisition>
@@ -207,3 +193,4 @@
         </body>
     </text>
 </TEI>
+

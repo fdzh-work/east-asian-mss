@@ -49,7 +49,11 @@
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
+<<<<<<< HEAD
                         <summary>An anti-Christian tract.</summary>
+=======
+                        <summary><!--  --></summary>
+>>>>>>> eb5314a86eb18257eec0fa3fcfce9b9c4e63e57a
                         <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
                         
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
@@ -64,7 +68,11 @@
                     </msContents>
                     <physDesc>
                         
+<<<<<<< HEAD
                         <objectDesc form="sheet"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
+=======
+                        <objectDesc form="包背裝"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
+>>>>>>> eb5314a86eb18257eec0fa3fcfce9b9c4e63e57a
                             <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
                                 <support>mulbery and bamboo mix paper</support>
                                 <extent>1 leaf
@@ -99,10 +107,19 @@
                      https://git.io/msdescdoc#musicnotation
                      -->
                         </musicNotation>
+<<<<<<< HEAD
                       
                         
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
+=======
+                        <additions>
+                            <p> An anti-Christian tract. </p>
+                        </additions>
+                        
+                        <bindingDesc>
+                            <binding when="1500"><!-- use dating attributes to record the date -->
+>>>>>>> eb5314a86eb18257eec0fa3fcfce9b9c4e63e57a
                                 <p>單頁</p>
                                 <decoNote><!-- insert relevant information, otherwise delete --></decoNote>
                             </binding>
@@ -119,6 +136,7 @@
                             <!-- see https://git.io/msdescdoc#origin -->
                             <origPlace>
                                 <country>China</country>,
+<<<<<<< HEAD
                                 <region>湖北省 Hubei Province</region>,
                                 <settlement>漢口 Hankou（Hankow）</settlement>,
                                 
@@ -128,6 +146,17 @@
                         </origin>
                         <provenance>
                             A copied leaf from the anti-Christian work. The cause of the riots in the Yangtse valley a complete picture gallery (Hankow, 1891).  
+=======
+                                <region><!-- insert --></region>,
+                                <settlement><!-- insert --></settlement>,
+                                <orgName><!-- insert --></orgName>
+                            </origPlace>
+                            <origDate notAfter="1900" notBefore="1600" calendar="Gregorian">清光緒年間 (1875-1908)</origDate>
+                            <!-- use additional origPlace and origDate elements if necessary -->
+                        </origin>
+                        <provenance>
+                            
+>>>>>>> eb5314a86eb18257eec0fa3fcfce9b9c4e63e57a
                         </provenance>
                         <!-- use additional provenance elements if necessary -->
                         <acquisition>

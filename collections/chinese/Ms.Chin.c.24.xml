@@ -116,7 +116,11 @@
                           </p>
                         </additions>
                         <bindingDesc>
+<<<<<<< HEAD
                             <binding when="1500"><!-- use dating attributes to record the date -->
+=======
+                            <binding when="1600"><!-- use dating attributes to record the date -->
+>>>>>>> eb5314a86eb18257eec0fa3fcfce9b9c4e63e57a
                                 <p> 綫裝書</p>
                                 <decoNote><!-- insert relevant information, otherwise delete --></decoNote>
                             </binding>
@@ -137,7 +141,11 @@
                                 <settlement><!-- insert --></settlement>,
                                 <orgName><!-- insert --></orgName>
                             </origPlace>
+<<<<<<< HEAD
                             <origDate notAfter="1600" notBefore="1500" calendar="Gregorian">明嘉靖年間[1522-1566]</origDate>
+=======
+                            <origDate notAfter="1500" notBefore="1500" calendar="Gregorian">明嘉靖年間 (1522-1566)</origDate>
+>>>>>>> eb5314a86eb18257eec0fa3fcfce9b9c4e63e57a
                             <!-- use additional origPlace and origDate elements if necessary -->
                         </origin>
                         <provenance>
