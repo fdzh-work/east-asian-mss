@@ -9,7 +9,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Or.long.D.140</title>
+                <title>Sinica 3242</title>
                 
                 <respStmt>
                     <resp>Cataloguer</resp>
@@ -44,42 +44,27 @@
                     <msIdentifier>
                         <settlement><!-- insert --></settlement>
                         <repository>Bodleian Library</repository><!-- change if necessary -->
-                        <idno type="shelfmark">Or.long.D.140</idno>
-                       
+                        <idno type="shelfmark">Sinica 3242</idno>
+                        
                         
                     </msIdentifier>
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary><!--  --></summary>
+                        <summary>標題不明，該手抄本内容為道教及佛教相關内容</summary>
                         <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
                         
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            <title key="">簽書</title>
-                            <title>簽書</title>
+                            <title key="" type="desc">Sinica 3242</title>
                             
-                            <rubric>灵卦有凖發文思号灵簽書卦<locus type="page"> pp.2-3</locus></rubric>
-                            <rubric>请鬼用發文思号<locus type="page"> pp.2-3</locus></rubric>
-                            <incipit>说说今年今月今日今時拜請覌音娘娘及玉皇大帝聖主無浪壽佛？了覌音菩薩陀？五海龍王太陰陽太太白先師張天師李天師大羅眾聖鬼各先師把盃童子護盃童郎南南無南海靠佛灵神。<locus type="page"> pp.2-3</locus></incipit>
-                            <incipit>灵簽師父傳師法、老師法。到覌音經呪念用。<locus type="page"> pp.4-5</locus></incipit>
-                            <rubric>子宮：子宮神后卦属土<locus type="page"> pp.6-7</locus></rubric>
-                            <rubric>丑宮：丑宮卦簽<locus type="page"> pp.14-15</locus></rubric>
-                            <rubric>寅宮：寅宮功曹卦<locus type="page"> pp.20-21</locus></rubric>
-                            <rubric>卯宮：卯宮太衝卦<locus type="page"> pp.28-29</locus></rubric>
-                            <rubric>辰宮：辰宮天罡卦<locus type="page"> pp.34-35</locus></rubric>
-                            <rubric>巳宮：巳宮太乙卦<locus type="page"> pp.42-43</locus></rubric>
-                            <rubric>午宮：午宮勝光卦<locus type="page"> pp.48-49</locus></rubric>
-                            <rubric>未宮：未宮小吉卦<locus type="page"> pp.54-55</locus></rubric>
-                            <rubric>申宮：申宮傳并卦<locus type="page"> pp.60-61</locus></rubric>
-                            <rubric>酉宮：酉宮徒魁卦<locus type="page"> pp.68-69</locus></rubric>
-                            <rubric>戍宫：戍宫河魁卦<locus type="page"> pp.74-75</locus></rubric>
-                            <rubric>亥宫：亥宫燈明卦<locus type="page"> pp.80-81</locus></rubric>
-                            <explicit>天喜臨門大吉昌，風吹花草自然香，若問此卦如何断，也有奖藥也憂疋<locus type="page"> pp.94-95</locus></explicit>
-                            <explicit>辛丑年一九六一<locus type="page"> pp.94-95</locus></explicit>
-
-                            <filiation>手抄本，据書得知，抄于1961年。</filiation>
+                            
+                            <incipit>如來佛爺洪照如來佛也大赦釋迦佛爺洪照顧釋迦佛爺大赦覌音娘嬢洪照覌音娘嬢大赦三元主品三官大帝洪照三元主品三官大帝大赦注澊判官洪照注澊判官大赦今日今時報來上聖皇皇洪照赦之<locus type="page"> p.1</locus></incipit>
+                            
+                            
+                            <explicit>同心脇力前去太山黃河橋頭九州界内十州界外右基佛塔師人座上十度花覓天牽地獄水府裡头等處行尋法師追轉的恨陰魂陽魂姓命對取年月日時
+                                相同定限急時神冋本墰衆位祖先欲同家住合家人口真身擁護者色無錯煥果得平安<locus type="page"> p.42</locus></explicit>
                             
                         </msItem>
                         <!-- insert further msItem elements as appropriate -->
@@ -89,12 +74,12 @@
                         <objectDesc form="包背裝"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
                             <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
                                 <support>mulberry and bamboo mixed paper</support>
-                                <extent>95 pages
+                                <extent>42 pages
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
                         https://git.io/msdescdoc#leafDimensions
-                        -->                           <height>14.3</height>
-                                        <width>14.5</width>
+                        -->                           <height>16.7</height>
+                                        <width>12.1</width>
                                     </dimensions>
                                     <!-- use additional dimensions elements if necessary -->
                                 </extent>
@@ -102,14 +87,14 @@
                                 <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>手抄本，無邊框。每半頁分八行，標題紅色墨水大字抄寫並以黑色墨水勾邊，正文黑色墨水小字單行抄寫，每行約14字。每頁第一行“點”字的作用是提示内容的重點。</layout>
-                      
+                                <layout>手抄本，無邊框。無標題，每半頁分八行，每行約含十五字，正文黑色墨水小字單行抄寫。</layout>
+                                
                             </layoutDesc>
                         </objectDesc>
                         
                         <handDesc><!-- use the @hands attribute to record the number of scribes -->
                             <handNote>
-                                Text written in 楷體 (kai shu, regular) calligraphic style</handNote>
+                                Text written in 楷書 (kai shu, regular) calligraphic style</handNote>
                             <!-- use additional handNote elements if necessary 
                      https://git.io/msdescdoc#handdesc
                      -->
@@ -122,12 +107,12 @@
                         </musicNotation>
                         <decoDesc>
                             <decoNote>
-                                此手稿尾頁処紅色墨水寫成並黑色墨水勾邊的“辛丑年一九六一”外，其餘文字以藍色墨水用鋼筆以楷書書寫，同樣藍色字跡亦見於封底。</decoNote>
+                                無封皮無封底，内頁有缺損。</decoNote>
                             <!-- use additional decoNote elements if necessary 
                      https://git.io/msdescdoc#decodesc
                      -->
                         </decoDesc>
-
+                        
                         <bindingDesc>
                             <binding when="1900"><!-- use dating attributes to record the date -->
                                 <p>綫裝書</p>
@@ -150,12 +135,12 @@
                                 <settlement><!-- insert --></settlement>,
                                 <orgName><!-- insert --></orgName>
                             </origPlace>
-                            <origDate notAfter="2000" notBefore="1900" calendar="Gregorian">[1961]</origDate>
+                            <origDate notAfter="2000" notBefore="1900" calendar="Gregorian">年代不詳 unknown date</origDate>
                             <!-- use additional origPlace and origDate elements if necessary -->
                         </origin>
                         <provenance> </provenance>
-          
-                           
+                        
+                        
                         <!-- use additional provenance elements if necessary -->
                         <acquisition>
                             <!-- insert -->
@@ -200,6 +185,3 @@
         </body>
     </text>
 </TEI>
-
-
-
