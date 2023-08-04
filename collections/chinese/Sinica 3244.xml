@@ -9,7 +9,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Sinica 3243</title>
+                <title>Sinica 3244</title>
                 
                 <respStmt>
                     <resp>Cataloguer</resp>
@@ -44,7 +44,7 @@
                     <msIdentifier>
                         <settlement><!-- insert --></settlement>
                         <repository>Bodleian Library</repository><!-- change if necessary -->
-                        <idno type="shelfmark">Sinica 3243</idno>
+                        <idno type="shelfmark">Sinica 3244</idno>
                         
                         
                     </msIdentifier>
@@ -60,10 +60,29 @@
                             <title key="" type="desc">Sinica 3243</title>
                             
                             
-                            <incipit>到氣望氣出存解移不得番速变速■告奉太上老君急令敕<locus type="page"> p.1</locus></incipit>
+                            <incipit>敕發雷声發鼓，如今声壹声敕答朝天兵入魂速鬼魂遠行凖吾奉太上老君令敕<locus type="page"> p.1</locus></incipit>
+                            <rubric>咄：謹请東方天门<locus type="page"> p.1</locus></rubric>
+                            <rubric>咄：謹请東方五雷来<locus type="page"> pp.2-3</locus></rubric>
+                            <rubric>咄：謹请東方大吉利<locus type="page"> pp.2-3</locus></rubric>
+                            <rubric>咄：謹请東方天门<locus type="page"> pp.6-7</locus></rubric>
+                            <rubric>咄：壹变脚底為鉄版<locus type="page"> pp.8-9</locus></rubric>
+                            <rubric>咄：藏身法用<locus type="page"> pp.10-11</locus></rubric>
+                            <rubric>咄：变身梯柱用<locus type="page"> pp.12-13</locus></rubric>
+                            <rubric>咄：剉刀口法用<locus type="page"> pp.12-13</locus></rubric>
+                            <rubric>咄：藏变梯用<locus type="page"> pp.14-15</locus></rubric>
+                            <rubric>咄：又变刀口用<locus type="page"> pp.16-17</locus></rubric>
+                            <rubric>咄：又变身上刀山法用<locus type="page"> pp.18-19</locus></rubric>
+                            <rubric>咄：变犁頭火磗用<locus type="page"> pp.20-21</locus></rubric>
+                            <rubric>師：師变二分速变速化吾奉太上老君急急如敕令<locus type="page"> pp.20-21</locus></rubric>
+                            <rubric>咄：含犁頭法用<locus type="page"> pp.28-29</locus></rubric>
+                            <rubric>咄：变角用<locus type="page"> pp.34-35</locus></rubric>
+                            <rubric>咄：又大变法<locus type="page"> pp.38-39</locus></rubric>
+                            
+                    
                             
                             
-                            <explicit type="desc">道家符籙圖示<locus type="page"> p.42</locus></explicit>
+                            
+                            <explicit type="desc">道家符籙圖示，有磨損痕跡<locus type="page"> p.42</locus></explicit>
                             
                         </msItem>
                         <!-- insert further msItem elements as appropriate -->
@@ -77,8 +96,8 @@
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
                         https://git.io/msdescdoc#leafDimensions
-                        -->                           <height>15.8</height>
-                                        <width>10.3</width>
+                        -->                           <height>16.7</height>
+                                        <width>9.2</width>
                                     </dimensions>
                                     <!-- use additional dimensions elements if necessary -->
                                 </extent>
@@ -86,7 +105,7 @@
                                 <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>手抄本，無邊框。無標題，每半頁分七行，每行約含十七字，正文黑色墨水小字單行抄寫。道家符籙圖示配合。</layout>
+                                <layout>手抄本，無邊框。無標題，每半頁分七行，每行約含十七字，正文黑色墨水小字單行抄寫。頁面上端有用黑色筆跡圈上的“咄”字，用以提示口訣的開始。部分口訣的開頭也同時配合紅色及黑色的折綫狀標記。</layout>
                                 
                             </layoutDesc>
                         </objectDesc>
@@ -106,7 +125,7 @@
                         </musicNotation>
                         <decoDesc>
                             <decoNote>
-                                無封皮無封底，内頁有缺損。</decoNote>
+                                無封皮無封底，頁面有缺損。</decoNote>
                             <!-- use additional decoNote elements if necessary 
                      https://git.io/msdescdoc#decodesc
                      -->
