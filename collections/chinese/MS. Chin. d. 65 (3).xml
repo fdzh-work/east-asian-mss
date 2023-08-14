@@ -9,7 +9,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>MS. Chin. d. 65 (4)</title>
+                <title>MS. Chin. d. 65 (3)</title>
                 
                 <respStmt>
                     <resp>Cataloguer</resp>
@@ -44,27 +44,27 @@
                     <msIdentifier>
                         <settlement><!-- insert --></settlement>
                         <repository>Bodleian Library</repository><!-- change if necessary -->
-                        <idno type="shelfmark">MS. Chin. d. 65 (4)</idno>
+                        <idno type="shelfmark">MS. Chin. d. 65 (3)</idno>
                         
                         
                     </msIdentifier>
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>A hanging scroll of Chinese calligraphy featuring two poems, one handwritten by Cao Hongxun (曹洪勋),and the other by Jiang Gen (蔣艮). 
-                        曹洪勛，字仲銘，又字竹銘，號蘭生，濰縣人，光緒二年（1876）狀元。蔣艮，字仲仁號後山，商城伏山鄉人，光緒六年（1880）進士。</summary>
+                        <summary>A scroll of Chinese calligraphy featuring two poems, one handwritten by Wang Wenjin(王文錦),and the other by Cao Hongxun (曹洪勋). 
+                            王文錦，字云舫，直隸天津人同治十年（1871）進士，二甲五十三名。曹洪勛，字仲銘，又字竹銘，號蘭生，濰縣人，光緒二年（1876）狀元。</summary>
                         <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
                         
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
                             <title>unknown</title>
+                            <author key="Chinese">臣<persName>王文錦</persName>敬書</author>
+                            <incipit>閶闔春風起，蓬萊雪水消。相將折楊柳，爭取最長條。</incipit>
+                            <note>該詩句摘自《琴曲歌辭蔡氏五弄游春辭三首》，作者為唐代<persName>令狐楚</persName></note>
                             <author key="Chinese">臣<persName>曹洪勛</persName>敬書</author>
-                            <incipit>月彩浮鸞殿，鍾聲隔鳳樓。笙歌臨水檻，紅燭乍迎秋。</incipit>
-                            <note>該詩句摘自《雜曲歌辭.宮中樂》，作者為唐代<persName>張仲素</persName></note>
-                            <author key="Chinese">臣<persName>蔣艮</persName>敬書</author>
-                            <incipit>突兀隘空虛，他山總不如。君看道傍石，總是補天餘。</incipit>
-                            <note>該詩句為宋代<persName>蘇軾</persName>所作《儋耳山》。</note>
+                            <incipit>玉砌紅花樹，像風不散吹。春光觧天意，偏發殿南枝。</incipit>
+                            <note>該詩句為唐代<persName>盧綸</persName>所作《儋天長久詞》。</note>
                             
                             <filiation>書法卷軸，中外孤本。</filiation>  
                         </msItem>
@@ -92,7 +92,7 @@
                                 <layout>书法卷轴.墨色书写</layout>
                                 
                             </layoutDesc>
-                           
+                            
                         </objectDesc>
                         
                         <handDesc><!-- use the @hands attribute to record the number of scribes -->
@@ -102,10 +102,10 @@
                      https://git.io/msdescdoc#handdesc
                      -->
                         </handDesc>
-                      
+                        
                         <decoDesc>
                             <decoNote>
-                                </decoNote>
+                            </decoNote>
                             <!-- use additional decoNote elements if necessary 
                      https://git.io/msdescdoc#decodesc
                      -->
