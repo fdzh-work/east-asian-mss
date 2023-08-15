@@ -9,7 +9,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>MS. Chin. d. 65 (2)</title>
+                <title>Sinica 3920</title>
                 
                 <respStmt>
                     <resp>Cataloguer</resp>
@@ -44,31 +44,31 @@
                     <msIdentifier>
                         <settlement><!-- insert --></settlement>
                         <repository>Bodleian Library</repository><!-- change if necessary -->
-                        <idno type="shelfmark">MS. Chin. d. 65 (2)</idno>
+                        <idno type="shelfmark">Sinica 3920</idno>
                         
                         
                     </msIdentifier>
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>A scroll of Chinese calligraphy featuring two poems, one handwritten by Xu Fu (徐郙),and the other by Gao Zhaozhong (高釗中). 
-                            徐郙（1838-1907），字壽蘅，號頌閣，江蘇嘉定人，同治元年（1862）狀元，先後授翰林院修撰，南書房行走，安徽學政，左都御史，兵部尚書，禮部尚書等職，拜協辦大學士，世稱徐相國。
-                            高釗中，字勉之，河南項城縣人，光緒二年（1876）丙子恩科進士。改庶吉士。光緒三年任翰林院編修，光緒八年任提督湖北學政，光緒十三年任上書房行走。光緒十五年，任授溥侗讀，次年，任提督雲南學政，
-                        光緒二十年，任翰林院侍讀。</summary>
+                        <summary>A handscroll of Chinese painting of flowers, accompanied by calligraphy written in Xingshu style. 
+                            The roller on the left side is crafted as a box, containing two inksticks, a printed sheet of paper 
+                            and some cotton stored inside. The inksticks are carved, incised and coloured, while the cotton 
+                            serves a protecting purpose.  </summary>
                         <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
                         
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            <title>unknown</title>
-                            <author key="Chinese">臣<persName>徐郙</persName>敬書</author>
-                            <incipit>《易》稱“辨物正言，斷辭則備”，《書》云“辭尚體要，弗惟好異”。</incipit>
-                            <note>該詩句摘自《文心雕龍》第二篇徵聖第二，作者為南齊<persName>劉勰</persName></note>
-                            <author key="Chinese">臣<persName>高釗中</persName>敬書</author>
-                            <incipit>綠淨不可唾，此語足千古。天水澹相涵，中有數聲艣。</incipit>
-                            <note>該詩句為明代<persName>高珩</persName>所作《祭告南岳雜詩其四》。</note>
-                            
-                            <filiation>書法卷軸，中外孤本。</filiation>  
+                            <title key="desc">艷裏胭脂点綴新</title>
+                            <author key="Chinese">胡開文堂</author>
+                            <incipit>正面：置身在嫏嬛 反面：知白守黑知雄守雌 胡開文監製 </incipit>
+                            <incipit>定冊惟模有 安社稷之勲</incipit>
+                            <incipit>犀紋遠映碧雲間揮寫晴江步叠山縹緲寒煙浮繭澤松弥原不讓天關</incipit>
+                            <incipit>開文叁墨贊 質堅强而正氣清而秀獲交陳元貝賞史籀或呼以黑松使者或名以元香太守可為翰苑之菁華可助文章之錦淐惟我寳之不事雕鏤惟尔藏之永相授受 甲子小春湘陰左宗棠識 搖武林即署</incipit>
+                            <incipit>持啓者本號 先祖而在屯溪開設胡開文墨店後又替開休城往啓茂墨店胡開文監製共此兩店休城開文分授二房屯溪開文分授七房歷今百數十年貨真價實天下聞名近有派下不肖者冒名克假玷辱家聲故特加此訪帖四方 大雅須認明本號圖記 庶不致誤 徽州屯溪老胡開文七房孫佩五氏謹白</incipit>
+                            <incipit>美在其中</incipit>
+                            <explicit>藝林珎賞</explicit>
                         </msItem>
                         <!-- insert further msItem elements as appropriate --> 
                         
@@ -91,7 +91,7 @@
                                 <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>书法卷轴.墨色书写</layout>
+                                <layout>卷軸為花卉題材，伴有書法，裝裱為一色裱，邊框為藍色。左側天杆被製作為一個儲物盒，内置墨錠兩塊，紙片一張上有印刷和手寫字樣。墨錠正反兩面均有刻字或刻花。</layout>
                                 
                             </layoutDesc>
                             
@@ -116,7 +116,7 @@
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
                                 <p>卷軸</p>
-                                <decoNote>立軸，分爲上下兩部分，分別爲不同兩位書法家書寫。每部分分爲三行，每行八字。</decoNote>
+                                <decoNote>橫軸，白色宣紙，彩色花卉書畫，墨色行書書法，邊框為藍色絲織物裝裱。</decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>
@@ -135,7 +135,7 @@
                                 <settlement><!-- insert --></settlement>,
                                 <orgName><!-- insert --></orgName>
                             </origPlace>
-                            <origDate notAfter="1900" notBefore="1800" calendar="Gregorian">清光緒年間</origDate>
+                            <origDate notAfter="1900" notBefore="1800" calendar="Gregorian">晚清，約1900年以後。</origDate>
                             <!-- use additional origPlace and origDate elements if necessary -->
                         </origin>
                         <provenance> </provenance>

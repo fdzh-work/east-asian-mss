@@ -60,7 +60,7 @@
                             <locus><!-- insert --></locus>
                             <title>unknown</title>
                             <author key="Chinese">肅親王</author>
-                            <incipit>周游西宇十七年寐歷道邦詢求正教雙林水味道食風鹿苑鷲峯瞻奇異求正言於先聖受真教於上探贊妙門精寐奧業即臨唐三藏聖教序</incipit>
+                            <incipit>周游西宇十有七年窮歷道邦詢求正教雙林八水味道餐風鹿苑鷲峯瞻奇仰異求至言於先聖受真教於上賢探赜妙門精窮奧業 即臨大唐三藏聖教序</incipit>
                             <explicit>念兹先生大雅書 肅親王</explicit>
                             
                             <filiation>書法卷軸，中外孤本。</filiation>  
@@ -86,7 +86,7 @@
                                 <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>书法卷轴,墨色书写。肅親王落款下印有朱紅色“肅親王”私印。</layout>
+                                <layout>立轴,墨色书写。肅親王落款下印有朱紅色“肅親王”私印。</layout>
                                 
                             </layoutDesc>
                             
@@ -111,7 +111,7 @@
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
                                 <p>卷軸</p>
-                                <decoNote>竪版挂軸，白色宣紙，墨色書寫，邊框為藍色絲織物裝裱。</decoNote>
+                                <decoNote>竪軸，白色宣紙，墨色書寫，邊框為藍色絲織物裝裱。</decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>
@@ -130,7 +130,7 @@
                                 <settlement><!-- insert --></settlement>,
                                 <orgName><!-- insert --></orgName>
                             </origPlace>
-                            <origDate notAfter="1900" notBefore="1800" calendar="Gregorian">晚清，約1900年以後。</origDate>
+                            <origDate notAfter="1900" notBefore="1800" calendar="Gregorian">晚清，約1898年以後。</origDate>
                             <!-- use additional origPlace and origDate elements if necessary -->
                         </origin>
                         <provenance> </provenance>

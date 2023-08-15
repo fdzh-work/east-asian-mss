@@ -9,7 +9,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>MS. Chin. d. 65 (2)</title>
+                <title>MS. Chin. c. 39 (1)</title>
                 
                 <respStmt>
                     <resp>Cataloguer</resp>
@@ -44,30 +44,23 @@
                     <msIdentifier>
                         <settlement><!-- insert --></settlement>
                         <repository>Bodleian Library</repository><!-- change if necessary -->
-                        <idno type="shelfmark">MS. Chin. d. 65 (2)</idno>
+                        <idno type="shelfmark">MS. Chin. c. 39 (1)</idno>
                         
                         
                     </msIdentifier>
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>A scroll of Chinese calligraphy featuring two poems, one handwritten by Xu Fu (徐郙),and the other by Gao Zhaozhong (高釗中). 
-                            徐郙（1838-1907），字壽蘅，號頌閣，江蘇嘉定人，同治元年（1862）狀元，先後授翰林院修撰，南書房行走，安徽學政，左都御史，兵部尚書，禮部尚書等職，拜協辦大學士，世稱徐相國。
-                            高釗中，字勉之，河南項城縣人，光緒二年（1876）丙子恩科進士。改庶吉士。光緒三年任翰林院編修，光緒八年任提督湖北學政，光緒十三年任上書房行走。光緒十五年，任授溥侗讀，次年，任提督雲南學政，
-                        光緒二十年，任翰林院侍讀。</summary>
+                        <summary>A hanging scroll of Chinese calligraphy written in Kaishu style. 竪軸一幅，書寫内容為對聯的下聯。該竪軸與MS. Chin. c. 39 (2)成爲一對。</summary>
                         <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
                         
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            <title>unknown</title>
-                            <author key="Chinese">臣<persName>徐郙</persName>敬書</author>
-                            <incipit>《易》稱“辨物正言，斷辭則備”，《書》云“辭尚體要，弗惟好異”。</incipit>
-                            <note>該詩句摘自《文心雕龍》第二篇徵聖第二，作者為南齊<persName>劉勰</persName></note>
-                            <author key="Chinese">臣<persName>高釗中</persName>敬書</author>
-                            <incipit>綠淨不可唾，此語足千古。天水澹相涵，中有數聲艣。</incipit>
-                            <note>該詩句為明代<persName>高珩</persName>所作《祭告南岳雜詩其四》。</note>
-                            
+                            <title>對聯-下聯</title>
+                            <author key="Chinese">石箬</author>
+                            <incipit>靜想高吟六義清</incipit>
+
                             <filiation>書法卷軸，中外孤本。</filiation>  
                         </msItem>
                         <!-- insert further msItem elements as appropriate --> 
@@ -116,7 +109,7 @@
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
                                 <p>卷軸</p>
-                                <decoNote>立軸，分爲上下兩部分，分別爲不同兩位書法家書寫。每部分分爲三行，每行八字。</decoNote>
+                                <decoNote>立軸，單色裱，邊框為白色絲織物有花紋。</decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>
@@ -135,7 +128,7 @@
                                 <settlement><!-- insert --></settlement>,
                                 <orgName><!-- insert --></orgName>
                             </origPlace>
-                            <origDate notAfter="1900" notBefore="1800" calendar="Gregorian">清光緒年間</origDate>
+                            <origDate notAfter="1900" notBefore="1800" calendar="Gregorian">清代</origDate>
                             <!-- use additional origPlace and origDate elements if necessary -->
                         </origin>
                         <provenance> </provenance>
