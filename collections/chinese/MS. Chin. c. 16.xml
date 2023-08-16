@@ -9,7 +9,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>MS. Chin. c. 39 (1)</title>
+                <title>MS. Chin. c. 16</title>
                 
                 <respStmt>
                     <resp>Cataloguer</resp>
@@ -44,24 +44,24 @@
                     <msIdentifier>
                         <settlement><!-- insert --></settlement>
                         <repository>Bodleian Library</repository><!-- change if necessary -->
-                        <idno type="shelfmark">MS. Chin. c. 39 (1)</idno>
+                        <idno type="shelfmark">MS. Chin. c. 16</idno>
                         
                         
                     </msIdentifier>
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>A hanging scroll of Chinese calligraphy written in Kaishu style. One piece of a couplet, pairing with MS. Chin. c. 39 (2). 竪軸一幅，書寫内容為對聯的下聯。該竪軸與MS. Chin. c. 39 (2)成爲一對。</summary>
+                        <summary>A twelve-leaf album of Chinese paintings, painted by Qian Gu (circa 1509-1578).中國畫冊頁12幅，作者錢穀（約1509-1578）。</summary>
                         <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
                         
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            <title>對聯-下聯</title>
-                            <author key="Chinese">石箬</author>
-                            <incipit>靜想高吟六義清</incipit>
-
-                            <filiation>書法卷軸，中外孤本。</filiation>  
+                            <title key="desc">錢穀仿宋人風格山水人物畫十二幅</title>
+                            <author key="Chinese">錢穀</author>
+                            <note>錢穀，字叔寶，明朝南直隸蘇州府常州縣人。少時孤貧，壯年方才讀書，後學于文徵明門下，善繪山水、花鳥，亦為文徵明晚年代筆，萬曆六年仍在世。其作品在北京故宮博物院，台灣臺北國立故宮博物院和紐約大都會博物館亦見收藏。</note>
+                           <explicit>隆慶二年 清和月之朔倣宋人小幀十二頁於 彭城老屋 錢穀寫</explicit>
+                            <filiation>中國畫冊頁十二幅，中外孤本。</filiation>  
                         </msItem>
                         <!-- insert further msItem elements as appropriate --> 
                         
@@ -70,8 +70,8 @@
                         
                         <objectDesc form="卷軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
                             <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                                <support>mulberry and bamboo mixed paper</support>
-                                <extent>1 scroll
+                                <support>silk</support>
+                                <extent> 12 leaves
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
                         https://git.io/msdescdoc#leafDimensions
@@ -84,7 +84,7 @@
                                 <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>书法卷轴.墨色书写</layout>
+                                <layout>錢穀仿宋人風格山水人物冊頁。技法為皴法，苔點，人物衣紋描法等。</layout>
                                 
                             </layoutDesc>
                             
@@ -108,8 +108,8 @@
                         
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
-                                <p>卷軸</p>
-                                <decoNote>立軸，單色裱，邊框為白色絲織物有花紋。</decoNote>
+                                <p>畫冊</p>
+                                <decoNote>中國人物山水畫冊，冊頁面為木質影版式，畫心為手繪在絲織物上，裝裱于之上。共十三頁，前十二頁為畫，最後一頁為留白。</decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>
@@ -128,7 +128,7 @@
                                 <settlement><!-- insert --></settlement>,
                                 <orgName><!-- insert --></orgName>
                             </origPlace>
-                            <origDate notAfter="1900" notBefore="1800" calendar="Gregorian">清代</origDate>
+                            <origDate notAfter="1900" notBefore="1800" calendar="Gregorian">從MS. Chin. c. 38 (2)可知寫于庚戌年三月，或為1910年</origDate>
                             <!-- use additional origPlace and origDate elements if necessary -->
                         </origin>
                         <provenance> </provenance>
