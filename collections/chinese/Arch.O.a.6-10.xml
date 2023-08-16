@@ -9,7 +9,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>MS.Backhouse 1k</title>
+                <title>Arch.O.a.6/10</title>
                 
                 <respStmt>
                     <resp>Cataloguer</resp>
@@ -44,9 +44,9 @@
                     <msIdentifier>
                         <settlement><!-- insert --></settlement>
                         <repository>Bodleian Library</repository><!-- change if necessary -->
-                        <idno type="shelfmark">MS.Backhouse 1k</idno>
+                        <idno type="shelfmark">Arch.O.a.6/10</idno>
                         <altIdentifier type="former">
-                            <idno>Arch.O.a.6/18</idno>
+                            <idno>MS.Backhouse 1c</idno>
                         </altIdentifier>
                         
                     </msIdentifier>
@@ -59,17 +59,17 @@
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            <title key="">永樂大典:卷二萬一百三十九</title>
-                            <title>Yongle da dian: juan 20139</title>
+                            <title key="">永樂大典:卷七千六百七十七</title>
+                            <title>Yongle da dian: juan 7677</title>
                             <editor>解縉</editor>
                             <rubric>永樂大典</rubric>
-                            <rubric>日:諸家選日二十五</rubric>
+                            <rubric>庚:盤庚篇五</rubric>
                             
-                            <colophon>重錄總校官侍郎臣<persName>陳以勤</persName><lb/>學士臣<persName>王大任</persName></colophon>
+                            <colophon>重錄總校官侍郎臣<persName>高拱</persName><lb/>學士臣<persName>胡正蒙</persName></colophon>
                             
-                            <colophon>分校官侍讀臣<persName>王希烈</persName></colophon>
-                            <colophon>書寫儒士臣<persName>程大憲</persName></colophon>
-                            <colophon>圈點監生臣<persName>敖河</persName><lb/>臣<persName>孫世良 </persName></colophon>
+                            <colophon>分校官檢討臣<persName>馬自强</persName></colophon>
+                            <colophon>書寫儒士臣<persName>呂鳴瑒</persName></colophon>
+                            <colophon>圈點監生臣<persName>李莊春</persName><lb/>臣<persName>蘇性愚</persName></colophon>
                             <filiation>中外孤本 only surviving copy</filiation>
                             
                         </msItem>
@@ -80,7 +80,7 @@
                         <objectDesc form="包背裝"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
                             <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
                                 <support>mulberry and bamboo mixed paper</support>
-                                <extent>31 leaves
+                                <extent>30 leaves
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
                         https://git.io/msdescdoc#leafDimensions
@@ -93,7 +93,7 @@
                                 <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>内頁每半頁邊框高36cm，寬23.5cm，半頁八行，標題為大字，單行。正文為小字，雙行抄寫，每行28字。正文大小分作兩種，正文以大字，注則以小字。書口有三個魚尾，上書尾題“永樂大典卷某某”，下端雙魚尾内題頁碼。邊框，界行，引用書目，書口文字，句讀的小圓圈都爲紅色，其他都爲墨色。</layout>
+                                <layout>内頁每半頁邊框高36cm，寬23，5cm，半頁八行，標題為大字，單行。正文為小字，雙行抄寫，每行28字。正文大小分作兩種，正文以大字，注則以小字。書口有三個魚尾，上書尾題“永樂大典卷某某”，下端雙魚尾内題頁碼。邊框，界行，引用書目，書口文字，句讀的小圓圈都爲紅色，其他都爲墨色。</layout>
                                 <!-- use additional layout elements if necessary 
                         https://git.io/msdescdoc#layoutdesc-->
                             </layoutDesc>
@@ -119,9 +119,8 @@
                      https://git.io/msdescdoc#decodesc
                      -->
                         </decoDesc>
-                        
                         <additions>
-                            <p>  Both covers appear to have been replaced, but closely match the original: the cover labels are not only not present, but there is no sign that they were ever there. As shown in the Yuan Tongli's list, Zhang Chenshi's list and reproduction in the 1960/84 Zhonghua Shuju reprint.</p>
+                            <p> The cover labels are not present. Has traces of a Siku quanshu form. As shown in the Yuan Tongli's list, Zhang Chenshi's list and reproduction in the 1960/84 Zhonghua Shuju reprint.</p>
                         </additions>
                         <bindingDesc>
                             <binding when="1500"><!-- use dating attributes to record the date -->
@@ -131,7 +130,7 @@
                         </bindingDesc>
                         <accMat>
                             <!-- insert if relevant, otherwise delete 
-                     https://git.io/msdescdoc#accMat          
+                     https://git.io/msdescdoc#accMat
                      -->
                         </accMat>
                     </physDesc>
@@ -195,3 +194,5 @@
         </body>
     </text>
 </TEI>
+
+

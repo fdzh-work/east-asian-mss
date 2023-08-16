@@ -9,7 +9,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>MS.Backhouse 1f</title>
+                <title>Arch.O.a.6/12</title>
                 
                 <respStmt>
                     <resp>Cataloguer</resp>
@@ -44,9 +44,9 @@
                     <msIdentifier>
                         <settlement><!-- insert --></settlement>
                         <repository>Bodleian Library</repository><!-- change if necessary -->
-                        <idno type="shelfmark">MS.Backhouse 1f</idno>
+                        <idno type="shelfmark">Arch.O.a.6/12</idno>
                         <altIdentifier type="former">
-                            <idno>Arch.O.a.6/13</idno>
+                            <idno>MS.Backhouse 1e</idno>
                         </altIdentifier>
                         
                     </msIdentifier>
@@ -59,17 +59,17 @@
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            <title key="">永樂大典:卷一萬四百六十</title>
-                            <title>Yongle da dian: juan 10460</title>
+                            <title key="">永樂大典:卷一萬一百三十五之一萬一百三十六</title>
+                            <title>Yongle da dian: juan 10135-10136</title>
                             <editor>解縉</editor>
                             <rubric>永樂大典</rubric>
-                            <rubric>禮:周禮</rubric>
+                            <rubric>史:歷代諸史七南史北史後周書隨書</rubric>
                             
                             <colophon>重錄總校官侍郎臣<persName>高拱</persName><lb/>學士臣<persName>胡正蒙</persName></colophon>
                             
-                            <colophon>分校官侍從讀臣<persName>呂旻</persName></colophon>
-                            <colophon>書寫儒士臣<persName>孫應鳳</persName></colophon>
-                            <colophon>圈點監生臣<persName>蔣洲</persName><lb/>臣<persName>歐陽卿</persName></colophon>
+                            <colophon>分校官編修臣<persName>陶大臨</persName></colophon>
+                            <colophon>書寫儒士臣<persName>金琦</persName></colophon>
+                            <colophon>圈點監生臣<persName>徐浩</persName><lb/>臣<persName>曲成學</persName></colophon>
                             <filiation>中外孤本 only surviving copy</filiation>
                             
                         </msItem>
@@ -119,9 +119,8 @@
                      https://git.io/msdescdoc#decodesc
                      -->
                         </decoDesc>
-                        
                         <additions>
-                            <p>  Has traces of a Siku quanshu form. The volume bears the label of that containingjuan 20428, which is included in the 1960/1984 Zhonghua Shuju reprint. Yuan Tongli notes this volume as being in Peiping Library, but it is not the current Peking Library catalogue. As shown in the Yuan Tongli's list, Zhang Chenshi's list and reproduction in the 1960/84 Zhonghua Shuju reprint.</p>
+                            <p> The cover labels are not present. Has traces of a Siku quanshu form. As shown in the Yuan Tongli's list, Zhang Chenshi's list and reproduction in the 1960/84 Zhonghua Shuju reprint.</p>
                         </additions>
                         <bindingDesc>
                             <binding when="1500"><!-- use dating attributes to record the date -->
@@ -195,6 +194,5 @@
         </body>
     </text>
 </TEI>
-
 
 

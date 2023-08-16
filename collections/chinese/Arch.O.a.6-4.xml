@@ -9,13 +9,14 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>MS.Chin.a.19</title>
+            <title>Arch.O.a.6/4</title>
             
             <respStmt>
                <resp>Cataloguer</resp>
                <persName>Boya Zhang</persName>
             </respStmt>
-            
+           
+               
          </titleStmt>
          <editionStmt>
             <edition>TEI P5</edition>
@@ -44,14 +45,13 @@
                <msIdentifier>
                   <settlement><!-- insert --></settlement>
                   <repository>Bodleian Library</repository><!-- change if necessary -->
-                  <idno type="shelfmark">MS.Chin.a.19</idno>
+                  <idno type="shelfmark">Arch.O.a.6/4</idno>
                   <altIdentifier type="former">
-                     <idno>Arch.O.a.6/3</idno>
+                     <idno>MS.Chin.a.20</idno>
                   </altIdentifier>
-                 
+                  
                </msIdentifier>
-              
-               <msContents>
+                  <msContents>
                   <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
                   <summary><!--  --></summary>
                   <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
@@ -59,36 +59,34 @@
                   <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                      <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                      <locus><!-- insert --></locus>
-                     <title key="">永樂大典:卷五千二百四十四之五千二百四十五</title>
-                     <title>Yongle da dian: juan 5244-5245</title>
+                     <title key="">永樂大典：卷一萬三千八百七十二之一萬三千八百七十三</title>
+                     <title>Yongle da dian: juan 13872-13873</title>
                      <editor>解縉</editor>
                      <rubric>永樂大典</rubric>
-                     <rubric>遼:洪武正韻</rubric>
+                     <rubric>賁:洪武正韻</rubric>
                      
-                     <colophon>重錄總校官侍郎臣<persName>高拱</persName><lb/>學士臣<persName>瞿景淳</persName></colophon>
-                     <colophon>分校官修撰臣<persName>丁仕美</persName></colophon>
-                     <colophon>書寫辦事官臣<persName>梅元紹</persName></colophon>
-                     <colophon>圈點監生臣<persName>雷辰化</persName><lb/>臣<persName>馬宗孝</persName></colophon>
+                     <colophon>重錄總校官侍郎臣<persName>秦鳴雷</persName><lb/>學士臣<persName>王大任</persName></colophon>
+                     
+                     <colophon>分校官編修臣<persName>孫鋌</persName></colophon>
+                     <colophon>書寫儒士臣<persName>汪文孫</persName></colophon>
+                     <colophon>圈點監生臣<persName>林民表</persName><lb/>臣<persName>董于翰</persName></colophon>
                      <filiation>中外孤本 only surviving copy</filiation>
-                     
                   </msItem>
                   <!-- insert further msItem elements as appropriate -->
                </msContents>
                <physDesc>
-                 
                   <objectDesc form="包背裝"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
                      <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                        <support>mulberry and bamboo mixed paper</support>
-                        <extent>73 leaves
-                        <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
+                        <support>mulbery and bamboo mix paper</support>
+                        <extent>48 leaves
+                           <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
                         https://git.io/msdescdoc#leafDimensions
                         -->                           <height>50</height>
-                           <width>30</width>
-                        </dimensions>
+                              <width>30</width>
+                           </dimensions>
                            <!-- use additional dimensions elements if necessary -->
                         </extent>
-                        
                         <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
                      </supportDesc>
                      <layoutDesc>
@@ -119,7 +117,7 @@
                      -->
                   </decoDesc>
                   <additions>
-                     <p>The cover labels are not present. Has a printed /ms. Siku quanshu form. As shown in Zhang Chenshi's list. Reproduced in the 1960/1984 Zhonghua Shuju reprint.</p>
+                     <p>Has a printed /ms. Siku quanshu form. As shown in Zhang Chenshi's list. Reproduced in the 1960/1984 Zhonghua Shuju reprint.</p>
                   </additions>
                   <bindingDesc>
                      <binding when="1500"><!-- use dating attributes to record the date -->

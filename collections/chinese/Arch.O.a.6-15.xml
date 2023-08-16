@@ -9,7 +9,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>MS.Chin.b.9</title>
+                <title>Arch.O.a.6/15</title>
                 
                 <respStmt>
                     <resp>Cataloguer</resp>
@@ -44,9 +44,9 @@
                     <msIdentifier>
                         <settlement><!-- insert --></settlement>
                         <repository>Bodleian Library</repository><!-- change if necessary -->
-                        <idno type="shelfmark">MS.Chin.b.9</idno>
+                        <idno type="shelfmark">Arch.O.a.6/15</idno>
                         <altIdentifier type="former">
-                            <idno>Arch.O.a.6/20</idno>
+                            <idno>MS.Backhouse 1h</idno>
                         </altIdentifier>
                         
                     </msIdentifier>
@@ -59,17 +59,17 @@
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            <title key="">永樂大典:卷一萬四千六百七之一萬四千六百九</title>
-                            <title>Yongle da dian: juan 14067-14609 </title>
+                            <title key="">永樂大典:卷一萬四千六百二十二</title>
+                            <title>Yongle da dian: juan 14622</title>
                             <editor>解縉</editor>
                             <rubric>永樂大典</rubric>
-                            <rubric>薄:主薄</rubric>
+                            <rubric>部:吏部九 吏部條法</rubric>
                             
                             <colophon>重錄總校官侍郎臣<persName>秦鳴雷</persName><lb/>學士臣<persName>王大任</persName></colophon>
                             
-                            <colophon>分校官侍讀臣<persName>王希烈</persName></colophon>
-                            <colophon>書寫儒士臣<persName>湯應龍</persName></colophon>
-                            <colophon>圈點監生臣<persName>敖河</persName><lb/>臣<persName>孫世良 </persName></colophon>
+                            <colophon>分校官編修臣<persName>張四維</persName></colophon>
+                            <colophon>書寫儒士臣<persName>張棟</persName></colophon>
+                            <colophon>圈點監生臣<persName>傅道立</persName><lb/>臣<persName>許汝孝</persName></colophon>
                             <filiation>中外孤本 only surviving copy</filiation>
                             
                         </msItem>
@@ -80,7 +80,7 @@
                         <objectDesc form="包背裝"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
                             <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
                                 <support>mulberry and bamboo mixed paper</support>
-                                <extent>61 leaves
+                                <extent>34 leaves
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
                         https://git.io/msdescdoc#leafDimensions
@@ -121,7 +121,7 @@
                         </decoDesc>
                         
                         <additions>
-                            <p>  Both covers appear to have been replaced, but closely match the original: the cover labels are not only not present, but there is no sign that they were ever there. As shown in the Yuan Tongli's list, Zhang Chenshi's list and reproduction in the 1960/84 Zhonghua Shuju reprint.</p>
+                            <p>  The cover labels are not present. As shown in the Yuan Tongli's list, Zhang Chenshi's list and reproduction in the 1960/84 Zhonghua Shuju reprint.</p>
                         </additions>
                         <bindingDesc>
                             <binding when="1500"><!-- use dating attributes to record the date -->
@@ -149,7 +149,7 @@
                             <!-- use additional origPlace and origDate elements if necessary -->
                         </origin>
                         <provenance>
-                            "Peking 1900. One volume from a Chinese Encyclopaedia found in the ruins of the Hanlin Library during the Boxer rising, 1900... which the Chinese burnt in the expectation that it sflames would set fire to the adjacent British Legation buildings. T. Biggin." A letter tipped into the volume from Thomas Biggin dated 20 Feburary 1907 reads:"You will no doubt have received before this a volume from the Manchester Exhibition. It is part of a Chinese Encyclopaedia...I have two vols of it, one has been forwarded to you as above mentioned...in the belief that it is a book not altogether without interest for such an institution as the Bodleian." According to the letter, having asked if the Bodleian wanted it, Biggin had first sent it to "two exhibitions". There is no indication of what the second of these was, not of what happened to the second of his two volumes. The Bodleian volume is no.33981 in Madan's Summary catalogue of western manuscripts in the Bodleian Library, which confrims it sreceipt by the Library in 1907, but supplies no additional information. Also tipped into the volume is a letter from Lt. Col. J.G Birch in Cologne dated 5 November 1922, together with three photographs. The letter reads:" A few volumes were salved at the fire of the Han Lin College, Pekin in 1900; most of these were handed back to the Chinese Govt., but a very few were taken away by Europeans. One of these was presented by Giles to the Cambridge Univeirsity Library. These three volumes of which I send photos were salved by a German officer and are now for sale. I am naturally desirous that they should come into English hands. The Brit. Mus. say they would like them but have no money. if you are interested I should be pleased to act as an intermediary". The photographs are of the first pages of juan 920, 5343 and 13450. In the event, there three volumes were acquired by Leipzig University, and were returned to China by the government of the D.D.R.in December 1955. All three volumes are noe in Peking Library. Western binding, original covers missing. As shown in the Yuan Tongli's list, Zhang Chenshi's list and reproduction in the 1960/84 Zhonghua Shuju reprint. 
+                            The eleven volumes MS.Backhouse 1a-k are part of the large Backhouse Collection that was received in the stages between 1913 and 1922. Although Backhouse held himself aloof from other foreigners in Peking, he was present in the Legation during the Siege. As with almost all the other indications of ownership on any of the Backhouse volumes.
                         </provenance>
                         <!-- use additional provenance elements if necessary -->
                         <acquisition>

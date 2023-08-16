@@ -9,7 +9,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>MS.Backhouse 1g</title>
+                <title>Arch.O.a.6/16</title>
                 
                 <respStmt>
                     <resp>Cataloguer</resp>
@@ -44,9 +44,9 @@
                     <msIdentifier>
                         <settlement><!-- insert --></settlement>
                         <repository>Bodleian Library</repository><!-- change if necessary -->
-                        <idno type="shelfmark">MS.Backhouse 1g</idno>
+                        <idno type="shelfmark">Arch.O.a.6/16</idno>
                         <altIdentifier type="former">
-                            <idno>Arch.O.a.6/14</idno>
+                            <idno>MS.Backhouse 1i</idno>
                         </altIdentifier>
                         
                     </msIdentifier>
@@ -59,17 +59,13 @@
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            <title key="">永樂大典:卷一萬四千三百八十五</title>
-                            <title>Yongle da dian: juan 14385</title>
+                            <title key="">永樂大典:卷一萬四千六百二十二</title>
+                            <title>Yongle da dian: juan 14622</title>
                             <editor>解縉</editor>
                             <rubric>永樂大典</rubric>
-                            <rubric>冀:冀州二 宋薛季宣地理叢考</rubric>
+                            <rubric>部:吏部十四 吏部條法</rubric>
                             
-                            <colophon>重錄總校官侍郎臣<persName>秦鳴雷</persName><lb/>學士臣<persName>王大任</persName></colophon>
-                            
-                            <colophon>分校官編修臣<persName>張四維</persName></colophon>
-                            <colophon>書寫儒士臣<persName>張棟</persName></colophon>
-                            <colophon>圈點監生臣<persName>傅道立</persName><lb/>臣<persName>許汝孝</persName></colophon>
+                           
                             <filiation>中外孤本 only surviving copy</filiation>
                             
                         </msItem>
@@ -80,7 +76,7 @@
                         <objectDesc form="包背裝"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
                             <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
                                 <support>mulberry and bamboo mixed paper</support>
-                                <extent>27 leaves
+                                <extent>37 leaves
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
                         https://git.io/msdescdoc#leafDimensions
@@ -121,7 +117,7 @@
                         </decoDesc>
                         
                         <additions>
-                            <p>  Has traces of a Siku quanshu form. As shown in the Yuan Tongli's list, Zhang Chenshi's list and reproduction in the 1960/84 Zhonghua Shuju reprint.</p>
+                            <p>  The cover labels are not present. As shown in the Yuan Tongli's list, Zhang Chenshi's list and reproduction in the 1960/84 Zhonghua Shuju reprint.</p>
                         </additions>
                         <bindingDesc>
                             <binding when="1500"><!-- use dating attributes to record the date -->
@@ -195,6 +191,3 @@
         </body>
     </text>
 </TEI>
-
-
-

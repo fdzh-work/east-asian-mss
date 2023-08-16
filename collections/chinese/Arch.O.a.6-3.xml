@@ -1,18 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 
 <!-- use this template in cases where the manuscript is NOT composed of multiple codicological units. To avoid errors in the display of the record, be sure to delete elements that are not used. -->
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="manuscript_00001"><!-- insert the correct xmlid in the form manuscript_12345 -->
+     xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="manuscript_00000"><!-- insert the correct xmlid in the form manuscript_12345 -->
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>MS.Chin.a.17</title>
+            <title>Arch.O.a.6/3</title>
             
             <respStmt>
                <resp>Cataloguer</resp>
-               <persName>Mamtimyn Sunuodula</persName>
+               <persName>Boya Zhang</persName>
             </respStmt>
             
          </titleStmt>
@@ -43,13 +44,13 @@
                <msIdentifier>
                   <settlement><!-- insert --></settlement>
                   <repository>Bodleian Library</repository><!-- change if necessary -->
-                  <idno type="shelfmark">MS.Chin.a.17</idno>
+                  <idno type="shelfmark">Arch.O.a.6/3</idno>
                   <altIdentifier type="former">
-                     <idno>Arch.O.a.6/1</idno>
+                     <idno>MS.Chin.a.19</idno>
                   </altIdentifier>
-                  
+                 
                </msIdentifier>
-               
+              
                <msContents>
                   <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
                   <summary><!--  --></summary>
@@ -58,29 +59,27 @@
                   <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                      <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                      <locus><!-- insert --></locus>
-                     <title key="">永樂大典：卷八百七之八百八</title>
-                     <title>Yongle da dian: juan 807-808</title>
+                     <title key="">永樂大典:卷五千二百四十四之五千二百四十五</title>
+                     <title>Yongle da dian: juan 5244-5245</title>
                      <editor>解縉</editor>
                      <rubric>永樂大典</rubric>
-                     <rubric>詩：詩話四十九</rubric>
+                     <rubric>遼:洪武正韻</rubric>
                      
                      <colophon>重錄總校官侍郎臣<persName>高拱</persName><lb/>學士臣<persName>瞿景淳</persName></colophon>
-                     
-                     <colophon>分校官檢討臣<persName>吳可行</persName></colophon>
-                     <colophon>書寫儒士臣<persName>章玄</persName></colophon>
-                     <colophon>圈點監生臣<persName>尹之先</persName><lb/>臣<persName>李湄</persName></colophon>
+                     <colophon>分校官修撰臣<persName>丁仕美</persName></colophon>
+                     <colophon>書寫辦事官臣<persName>梅元紹</persName></colophon>
+                     <colophon>圈點監生臣<persName>雷辰化</persName><lb/>臣<persName>馬宗孝</persName></colophon>
                      <filiation>中外孤本 only surviving copy</filiation>
-                     
                      
                   </msItem>
                   <!-- insert further msItem elements as appropriate -->
                </msContents>
                <physDesc>
-                  
+                 
                   <objectDesc form="包背裝"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
                      <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                        <support>mulbery and bamboo mix paper</support>
-                        <extent>40 leaves
+                        <support>mulberry and bamboo mixed paper</support>
+                        <extent>73 leaves
                         <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
                         https://git.io/msdescdoc#leafDimensions
@@ -114,14 +113,13 @@
                   </musicNotation>
                   <decoDesc>
                      <decoNote>
-                        <!-- use the @type attribute to record nature of decoration -->
-                        <!-- insert if relevant, otherwise delete --></decoNote>
+                        In traditional Chinese style yellow silk cover</decoNote>
                      <!-- use additional decoNote elements if necessary 
                      https://git.io/msdescdoc#decodesc
                      -->
                   </decoDesc>
                   <additions>
-                     <p>Has a printed /ms. Siku quanshu form. As shown in Yuan Tongli's List and Zhang Chenshi's list.</p>
+                     <p>The cover labels are not present. Has a printed /ms. Siku quanshu form. As shown in Zhang Chenshi's list. Reproduced in the 1960/1984 Zhonghua Shuju reprint.</p>
                   </additions>
                   <bindingDesc>
                      <binding when="1500"><!-- use dating attributes to record the date -->

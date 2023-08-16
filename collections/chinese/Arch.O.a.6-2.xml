@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>MS.Chin.a.18</title>
+            <title>Arch.O.a.6/2</title>
             
             <respStmt>
                <resp>Cataloguer</resp>
@@ -43,9 +43,9 @@
                <msIdentifier>
                   <settlement><!-- insert --></settlement>
                   <repository>Bodleian Library</repository><!-- change if necessary -->
-                  <idno type="shelfmark">MS.Chin.a.18</idno>
+                  <idno type="shelfmark">Arch.O.a.6/2</idno>
                   <altIdentifier type="former">
-                     <idno>Arch.O.a.6/2</idno>
+                     <idno>MS.Chin.a.18</idno>
                   </altIdentifier>
                   
                </msIdentifier>
