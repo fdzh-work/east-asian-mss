@@ -9,7 +9,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>MS. Chin. b. 2</title>
+                <title>MS. Chin. c. 10a (R)</title>
                 
                 <respStmt>
                     <resp>Cataloguer</resp>
@@ -44,22 +44,22 @@
                     <msIdentifier>
                         <settlement><!-- insert --></settlement>
                         <repository>Bodleian Library</repository><!-- change if necessary -->
-                        <idno type="shelfmark">MS. Chin. b. 2</idno>
+                        <idno type="shelfmark">MS. Chin. c. 10a (R)</idno>
                         
                         
                     </msIdentifier>
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>A scroll of Chinese painting depicting a scene of accompanying the bride to the bridegroom's family on the wedding day (送親). </summary>
+                        <summary>A scroll of Chinese painting depicting a scene of a funeral in Qing dynasty (送葬). </summary>
                         <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
                         
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
                             <title>unknown</title>
-                            <title type="desc">送親圖卷軸</title>
-    
+                            <title type="desc">送葬圖卷軸</title>
+                            
                             
                             <filiation>手繪卷軸，中外孤本。</filiation>
                             
@@ -91,8 +91,8 @@
                         
                         <handDesc><!-- use the @hands attribute to record the number of scribes -->
                             <handNote>
-                                Text written in 楷體 (kai shu, regular) calligraphic style.The text is found on the lanterns depicted in the scroll.
-                                此圖描繪清代婚禮的送親環節，從畫卷的人物裝束上可以推斷出該畫年代為清代初期。從卷軸右端所描繪的府邸門前懸挂的燈籠上的字跡可以看到“奉直大夫正府”字樣。</handNote>
+                                Text written in 楷體 (kai shu, regular) calligraphic style. The text is found on the lanterns depicted in the scroll.
+                                此圖描繪清代官員家庭的葬禮中送葬的環節。從卷軸右端所描繪的府邸門前懸挂的燈籠上的字跡可以看到“王”、“文武世家”字樣。</handNote>
                             <!-- use additional handNote elements if necessary 
                      https://git.io/msdescdoc#handdesc
                      -->
@@ -104,8 +104,8 @@
                      -->
                         </musicNotation>
                         <decoDesc>
-                            <decoNote>卷軸，三色裱，隔水為淺藍色，副隔水為白色，畫心四周邊框為淡黃色。錦包首為粉色絲織物伴有紅，綠，黃三色花紋，題簽為白色，無字空白。
-                               </decoNote>
+                            <decoNote>卷軸
+                            </decoNote>
                             <!-- use additional decoNote elements if necessary 
                      https://git.io/msdescdoc#decodesc
                      -->

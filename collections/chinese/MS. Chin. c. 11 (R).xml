@@ -9,7 +9,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>MS. Chin. b. 2</title>
+                <title>MS. Chin. c. 11 (R)</title>
                 
                 <respStmt>
                     <resp>Cataloguer</resp>
@@ -44,7 +44,7 @@
                     <msIdentifier>
                         <settlement><!-- insert --></settlement>
                         <repository>Bodleian Library</repository><!-- change if necessary -->
-                        <idno type="shelfmark">MS. Chin. b. 2</idno>
+                        <idno type="shelfmark">MS. Chin. c. 11 (R)</idno>
                         
                         
                     </msIdentifier>
@@ -59,7 +59,7 @@
                             <locus><!-- insert --></locus>
                             <title>unknown</title>
                             <title type="desc">送親圖卷軸</title>
-    
+                            
                             
                             <filiation>手繪卷軸，中外孤本。</filiation>
                             
@@ -91,8 +91,8 @@
                         
                         <handDesc><!-- use the @hands attribute to record the number of scribes -->
                             <handNote>
-                                Text written in 楷體 (kai shu, regular) calligraphic style.The text is found on the lanterns depicted in the scroll.
-                                此圖描繪清代婚禮的送親環節，從畫卷的人物裝束上可以推斷出該畫年代為清代初期。從卷軸右端所描繪的府邸門前懸挂的燈籠上的字跡可以看到“奉直大夫正府”字樣。</handNote>
+                                Text written in 楷體 (kai shu, regular) calligraphic style. The text is found on the lanterns depicted in the scroll.
+                                此圖描繪清代官員家庭婚禮的送親環節。從卷軸卷軸人物手持的燈籠上可以看到“張府”、“文世家”字樣。</handNote>
                             <!-- use additional handNote elements if necessary 
                      https://git.io/msdescdoc#handdesc
                      -->
@@ -104,8 +104,8 @@
                      -->
                         </musicNotation>
                         <decoDesc>
-                            <decoNote>卷軸，三色裱，隔水為淺藍色，副隔水為白色，畫心四周邊框為淡黃色。錦包首為粉色絲織物伴有紅，綠，黃三色花紋，題簽為白色，無字空白。
-                               </decoNote>
+                            <decoNote>卷軸，隔水為白色，單色裱。錦包首為黃色絲織物，伴有藍、紅、綠、白四色雲紋。
+                                </decoNote>
                             <!-- use additional decoNote elements if necessary 
                      https://git.io/msdescdoc#decodesc
                      -->
