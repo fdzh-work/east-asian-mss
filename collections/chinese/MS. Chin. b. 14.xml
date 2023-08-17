@@ -9,7 +9,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>MS. Chin. c. 41 (2)</title>
+                <title>MS. Chin. b. 14</title>
                 
                 <respStmt>
                     <resp>Cataloguer</resp>
@@ -44,25 +44,23 @@
                     <msIdentifier>
                         <settlement><!-- insert --></settlement>
                         <repository>Bodleian Library</repository><!-- change if necessary -->
-                        <idno type="shelfmark">MS. Chin. c. 41 (2)</idno>
+                        <idno type="shelfmark">MS. Chin. b. 14</idno>
                         
                         
                     </msIdentifier>
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>A hanging scroll of Chinese calligraphy written in Kaishu style. 竪軸一幅，書寫内容為對聯的下聯。該竪軸與MS. Chin. c. 41 (1)成爲一對。</summary>
+                        <summary>A hanging scroll of Chinese calligraphy written in Kaishu style. One piece of a couplet, pairing with MS. Chin. c. 38 (4). 竪軸一幅，書寫内容為對聯的下聯。該竪軸與MS. Chin. c. 38 (4)成爲一對。</summary>
                         <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
                         
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            <title>對聯-下聯</title>
-                            <author key="Chinese">禹門鳳山</author>
-                            <incipit>論交真有古人風 </incipit>
-            
-                            <note>該對聯為<persName>吳佩孚</persName></note>
-                            
+                            <title>立軸</title>
+                            <author key="Chinese">unknown</author>
+                            <incipit>杖進蒼鳩壽延遐算</incipit>
+                            <explicit>宮保千秋榮慶</explicit>
                             <filiation>書法卷軸，中外孤本。</filiation>  
                         </msItem>
                         <!-- insert further msItem elements as appropriate --> 
@@ -111,7 +109,7 @@
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
                                 <p>立軸</p>
-                                <decoNote>立軸，單色裱，邊框為藍色絲織物。</decoNote>
+                                <decoNote>大字楷書寫於金色紙上，立軸，單色裱，邊框為彩色絲織物。</decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>
@@ -130,7 +128,7 @@
                                 <settlement><!-- insert --></settlement>,
                                 <orgName><!-- insert --></orgName>
                             </origPlace>
-                            <origDate notAfter="1900" notBefore="1800" calendar="Gregorian">民國</origDate>
+                            <origDate notAfter="1900" notBefore="1800" calendar="Gregorian">晚清</origDate>
                             <!-- use additional origPlace and origDate elements if necessary -->
                         </origin>
                         <provenance> </provenance>

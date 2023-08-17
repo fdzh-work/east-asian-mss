@@ -68,7 +68,7 @@
                     </msContents>
                     <physDesc>
                         
-                        <objectDesc form="卷軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
+                        <objectDesc form="畫冊"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
                             <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
                                 <support>silk</support>
                                 <extent> 12 leaves
@@ -84,7 +84,7 @@
                                 <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>錢穀仿宋人風格山水人物冊頁。技法為皴法，苔點，人物衣紋描法等。</layout>
+                                <layout>錢穀仿宋人風格山水人物冊頁。絹本，設色。技法為皴法，苔點，人物衣紋描法等。</layout>
                                 
                             </layoutDesc>
                             

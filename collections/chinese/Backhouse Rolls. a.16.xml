@@ -9,7 +9,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>MS. Chin. c. 41 (2)</title>
+                <title>Backhouse Rolls. a.16</title>
                 
                 <respStmt>
                     <resp>Cataloguer</resp>
@@ -44,26 +44,31 @@
                     <msIdentifier>
                         <settlement><!-- insert --></settlement>
                         <repository>Bodleian Library</repository><!-- change if necessary -->
-                        <idno type="shelfmark">MS. Chin. c. 41 (2)</idno>
+                        <idno type="shelfmark">Backhouse Rolls. a.16</idno>
                         
                         
                     </msIdentifier>
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>A hanging scroll of Chinese calligraphy written in Kaishu style. 竪軸一幅，書寫内容為對聯的下聯。該竪軸與MS. Chin. c. 41 (1)成爲一對。</summary>
+                        <summary>A hanging scroll depecting tree peony flowers by Yun Shouping(1633-1690). 牡丹書畫挂軸，作者為清代惲壽平（1633-1690）。</summary>
                         <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
                         
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            <title>對聯-下聯</title>
-                            <author key="Chinese">禹門鳳山</author>
-                            <incipit>論交真有古人風 </incipit>
-            
-                            <note>該對聯為<persName>吳佩孚</persName></note>
-                            
-                            <filiation>書法卷軸，中外孤本。</filiation>  
+                            <title key="desc">牡丹書畫軸</title>
+                            <author key="Chinese">惲壽平</author>
+                            <incipit>曾依瑤圃三珠樹長護蓬萊五色云</incipit>
+                            <incipit>甌香馆橅宋人法南田<persName>惲壽平</persName></incipit>
+                            <incipit>白頭一倍惜年華，到處敲門只看花。
+                                     榮艷紅芳三百朵，雕闌色暎日鈎斜。</incipit>
+                            <incipit>曾賔谷為楊州都轉詠牡丹押娃字
+                                     韻一時和者多涉牽强余有句云酥
+                                     餘扶倩唐宮婢貴媛稀驚越國娃
+                                     觀者咸稱歡以爲妙得天然</incipit>
+                            <explicit>庚戌夏四月既望 文治</explicit>
+                            <filiation>書花立軸，中外孤本。</filiation>  
                         </msItem>
                         <!-- insert further msItem elements as appropriate --> 
                         
@@ -86,7 +91,7 @@
                                 <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>书法卷轴.墨色书写</layout>
+                                <layout>書畫卷軸，紙本，設色。裝裱方式為宣和裝。</layout>
                                 
                             </layoutDesc>
                             
@@ -94,7 +99,9 @@
                         
                         <handDesc><!-- use the @hands attribute to record the number of scribes -->
                             <handNote>
-                                Text written in 楷體 (kai shu, regular) calligraphic style</handNote>
+                                Text written in 行書 (xing shu, regular) calligraphic style.Text on upper part of the scroll written in is written by Wang Wenzhi (王文治，1730-1802), while the text on left side of the tree peony is by Yun Shouping (惲壽平, 1633-1690).
+                                挂軸上部的文字作者為王文治，落款為“文治”并配兩枚印章“王氏禹州”和“夢樓”。挂軸左半部的文字為畫家惲壽平書寫。
+                            </handNote>
                             <!-- use additional handNote elements if necessary 
                      https://git.io/msdescdoc#handdesc
                      -->
@@ -111,7 +118,7 @@
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
                                 <p>立軸</p>
-                                <decoNote>立軸，單色裱，邊框為藍色絲織物。</decoNote>
+                                <decoNote>立軸，裝裱方式為宣和裝，天頭與地脚為藍色有花紋絲織物，上、下隔水為白色.灑金宣紙。在挂軸天杆位置的背面有貼有標簽上書“惲壽平畫”字樣。</decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>
@@ -130,10 +137,11 @@
                                 <settlement><!-- insert --></settlement>,
                                 <orgName><!-- insert --></orgName>
                             </origPlace>
-                            <origDate notAfter="1900" notBefore="1800" calendar="Gregorian">民國</origDate>
+                            <origDate notAfter="1700" notBefore="1600" calendar="Gregorian">1670</origDate>
                             <!-- use additional origPlace and origDate elements if necessary -->
                         </origin>
-                        <provenance> </provenance>
+                        <provenance>The painting was created by Yun Shouping (惲壽平). It was once collected by Wang Wenzhi (王文治，1730-1802), who provided commentary on the painting in 1790, as indicated by the inscription "庚戌夏四月既望" on the painting.
+                   </provenance>
                         
                         
                         <!-- use additional provenance elements if necessary -->
