@@ -9,7 +9,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>MS. Chin. a. 1 </title>
+                <title>MS. Chin. a. 3 (R)</title>
                 
                 <respStmt>
                     <resp>Cataloguer</resp>
@@ -44,30 +44,28 @@
                     <msIdentifier>
                         <settlement><!-- insert --></settlement>
                         <repository>Bodleian Library</repository><!-- change if necessary -->
-                        <idno type="shelfmark">MS. Chin. a. 1 </idno>
+                        <idno type="shelfmark">MS. Chin. a. 3 (R)</idno>
                         
                         
                     </msIdentifier>
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>A hand scroll featuring a portrait of the Xianfeng Emperor (1831-1861) of the Qing dynasty, accompanied by calligraphy written by the Xianfeng Emperor himself.</summary>
+                        <summary>A hanging scroll featuring s depiction of the underworld in traditional Chinese methology.</summary>
                         <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
                         
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            <title key="desc">咸豐皇帝持弓坐像軸</title>
+                            <title key="desc">四殿五官王</title>
                             <author key="Chinese">unknown</author>
-                            <incipit>弓矢承家法勤脩考訓遺黃考習射詩有家法勤脩志莫移之句和平百體順審固一心知時習所無逸成圖念在兹文皇喻國政端本契思深</incipit>
-                            <incipit type="seal">三希堂</incipit>
-                            <incipit type="seal">昭陽</incipit>
-                            <incipit type="seal">洪鐘大呂</incipit>
-                            <incipit type="seal">拙誠呈敬</incipit>
-                            <incipit type="seal">咸豐寳翰</incipit>
-                            <incipit type="seal">養心殿鑒藏寳</incipit>
-                            <explicit>咸豐癸丑嘉平下澣諱顯</explicit>
-                            <filiation>書法卷軸，中外孤本。</filiation>  
+                            <incipit type="note">二月十八日肆殿五官王聖誕</incipit>
+                            <incipit>施捨棺木并葬用錢文世世子孫富厚家有吉神保佑</incipit>
+                            <incipit>用大斗小秤出納不公難逃此獄受苦戒之戒之</incipit>
+                            <incipit>好淫惡賭窩誘子男咒詛善人盡找血污受罪</incipit>
+                            <incipit>生前常用砂水參糧貨賣死后地獄多受此刑</incipit>
+                            
+                            <filiation>書畫卷軸，中外孤本。</filiation>  
                         </msItem>
                         <!-- insert further msItem elements as appropriate --> 
                         
@@ -90,7 +88,7 @@
                                 <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>書畫卷軸，紙本，設色。裝裱方式為宣和裝。有彎折痕跡，破損后經過修復</layout>
+                                <layout>書畫卷軸，紙本，設色。</layout>
                                 
                             </layoutDesc>
                             
@@ -98,8 +96,7 @@
                         
                         <handDesc><!-- use the @hands attribute to record the number of scribes -->
                             <handNote>
-                                Text written in 行書 (xing shu, semi-cursive) calligraphic style.Text on upper part of the scroll written in is written by Wang Wenzhi (王文治，1730-1802), while the text on left side of the tree peony is by Yun Shouping (惲壽平, 1633-1690).
-                                挂軸上部的文字作者為王文治，落款為“文治”并配兩枚印章“王氏禹州”和“夢樓”。挂軸左半部的文字為畫家惲壽平書寫。
+                                Text written in 楷書 (kai shu, regular) calligraphic style. 有通假字。
                             </handNote>
                             <!-- use additional handNote elements if necessary 
                      https://git.io/msdescdoc#handdesc
@@ -117,7 +114,7 @@
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
                                 <p>立軸</p>
-                                <decoNote>立軸，裝裱方式為宣和裝，天頭與地脚為淺藍色絲織物，有褪色痕跡。上、下隔水應為白色，已汎黃。在挂軸天杆位置的背面有貼有標簽上書“和平審故”字樣。</decoNote>
+                                <decoNote>立軸，三色裱，天杆、邊為藍色，天頭為淺藍，隔水為朱色且有輕微褪色痕跡。略有破損和水印。</decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>
@@ -136,7 +133,7 @@
                                 <settlement><!-- insert --></settlement>,
                                 <orgName><!-- insert --></orgName>
                             </origPlace>
-                            <origDate notAfter="1700" notBefore="1600" calendar="Gregorian">1670</origDate>
+                            <origDate notAfter="1900" notBefore="1700" calendar="Gregorian">約爲晚清</origDate>
                             <!-- use additional origPlace and origDate elements if necessary -->
                         </origin>
                         <provenance>
