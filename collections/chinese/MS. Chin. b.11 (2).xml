@@ -9,7 +9,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>MS. Chin. c. 12 (R)</title>
+                <title>MS. Chin. b.11 (2)</title>
                 
                 <respStmt>
                     <resp>Cataloguer</resp>
@@ -44,29 +44,27 @@
                     <msIdentifier>
                         <settlement><!-- insert --></settlement>
                         <repository>Bodleian Library</repository><!-- change if necessary -->
-                        <idno type="shelfmark">MS. Chin. c. 12 (R)</idno>
+                        <idno type="shelfmark">MS. Chin. b.11 (2)</idno>
                         
                         
                     </msIdentifier>
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>A hand scroll of Chinese painting depicting eight immortals crossing the sea （八仙過海） </summary>
+                        <summary>A hanging scroll of Chinese calligraphy written in Kaishu style. 竪軸一幅，書寫内容為對聯的上聯。該竪軸與MS. Chin. b.11 (1)成爲一對。</summary>
                         <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
                         
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            <title key="desc">八仙過海 卷軸</title>
-                            <author key="Chinese">unknown</author>
-                            <title key="desc">龍 Chinese dragon</title>
-                            <title key="desc">龍王</title>
+                            <title>對聯-下聯</title>
+                            <author key="Chinese">潘祖蔭 （1830-1890）</author>
+                            <incipit>金簡文高二漢風</incipit>
+                            <incipit type="seal">潘祖蔭印</incipit>
+                            <incipit type="seal">日東</incipit>
+ 
                             
-                            <note>The "Eight Immortals Crossing the Sea" is a popular theme in Chinese art and literature, depicting a legendary group of eight immortals from Taoist mythology who are said to have crossed the sea together on various magical and whimsical means. </note>
-                            <note>The story of the "Eight Immortals Crossing the Sea" is a popular and colorful tale from Chinese mythology. It revolves around a group of eight immortal beings, each possessing unique abilities and attributes, who come together to cross the treacherous Eastern Sea to attend a gathering of the gods. The story is a mix of adventure, magic, and Taoist philosophy.
-                                The tale begins with the Eight Immortals receiving an invitation to a divine banquet held by the Queen Mother of the West, a prominent figure in Chinese mythology associated with immortality and longevity. The banquet is to take place on a distant island in the Eastern Sea, and the immortals are excited to attend. For this hand scroll, it depicts a scene of the Eight Immortals using their unique powers and attributes to overcome the obstacles set by the Dragon King and his army.</note>
-                            
-                            <filiation>中國畫卷軸，中外孤本。</filiation>  
+                            <filiation>書法卷軸，中外孤本。</filiation>  
                         </msItem>
                         <!-- insert further msItem elements as appropriate --> 
                         
@@ -89,7 +87,7 @@
                                 <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>中國畫卷軸，彩色</layout>
+                                <layout>书法卷轴.墨色书写</layout>
                                 
                             </layoutDesc>
                             
@@ -97,7 +95,7 @@
                         
                         <handDesc><!-- use the @hands attribute to record the number of scribes -->
                             <handNote>
-                                傳統工筆技法，畫風細膩生動</handNote>
+                                Text written in 楷體 (kai shu, regular) calligraphic style</handNote>
                             <!-- use additional handNote elements if necessary 
                      https://git.io/msdescdoc#handdesc
                      -->
@@ -114,7 +112,7 @@
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
                                 <p>立軸</p>
-                                <decoNote>立軸，單色裱，邊框為藍色絲織物。</decoNote>
+                                <decoNote>立軸，單色裱，邊框為藍色絲織物。背面靠近天杆部位有“潘祖蔭”字樣。</decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>
@@ -133,7 +131,7 @@
                                 <settlement><!-- insert --></settlement>,
                                 <orgName><!-- insert --></orgName>
                             </origPlace>
-                            <origDate notAfter="1600" notBefore="1300" calendar="Gregorian">從八仙特徵推斷不早于明代，從山石樹木的色彩判斷可能是晚明作品。</origDate>
+                            <origDate notAfter="1900" notBefore="1800" calendar="Gregorian">晚清</origDate>
                             <!-- use additional origPlace and origDate elements if necessary -->
                         </origin>
                         <provenance> </provenance>
