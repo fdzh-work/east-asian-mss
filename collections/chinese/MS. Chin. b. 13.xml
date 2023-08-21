@@ -9,7 +9,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Backhouse Rolls. a.16</title>
+                <title>MS. Chin. b. 13</title>
                 
                 <respStmt>
                     <resp>Cataloguer</resp>
@@ -44,7 +44,7 @@
                     <msIdentifier>
                         <settlement><!-- insert --></settlement>
                         <repository>Bodleian Library</repository><!-- change if necessary -->
-                        <idno type="shelfmark">Backhouse Rolls. a.16</idno>
+                        <idno type="shelfmark">MS. Chin. b. 13</idno>
                         
                         
                     </msIdentifier>
@@ -57,24 +57,16 @@
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            <title key="desc">牡丹書畫軸</title>
-                            <title key="desc">牡丹</title>
-                            <author key="Chinese">惲壽平 （1633-1690）</author>
-                            <incipit>曾依瑤圃三珠樹長護蓬萊五色云</incipit>
-                            <incipit>甌香馆橅宋人法南田<persName>惲壽平</persName></incipit>
-                            <incipit>白頭一倍惜年華，到處敲門只看花。
-                                     榮艷紅芳三百朵，雕闌色暎日鈎斜。</incipit>
-                            <incipit type="seal">壽平之印</incipit>
-                            <incipit type="seal">南田小隱</incipit>
-                            <incipit type="seal">叔平</incipit>
-                            <incipit>曾賔谷為楊州都轉詠牡丹押娃字
-                                     韻一時和者多涉牽强余有句云酴
-                                     餘扶倩唐宮婢貴後稀驚越國娃
-                                     觀者咸稱歡以爲妙得天然</incipit>
-                            <incipit type="seal">王氏禹州</incipit>
-                            <incipit type="seal">夢樓</incipit>
-                            <explicit>庚戌夏四月既望 文治</explicit>
-                            <filiation>書畫立軸，中外孤本。</filiation>  
+                            <title>通鑒胡注表微</title>
+                            <title type="subtitle">夷夏篇第十六</title>
+                            <author key="Chinese">陳垣（1880-1971）</author>
+                            <incipit>夷夏者謂夷與夏之觀念在今語為民族意識。</incipit>
+                            <explicit>身之生民族意識顯著之故能瞭解而發揮之非其世讀其書不知其意味之深長也。</explicit> 
+                            <explicit>有通鑒胡注表微夷夏篇敘</explicit>
+                            <explicit>丁亥秋分流方錄呈</explicit>
+                            <explicit>榮武先生正之</explicit>
+                            <explicit>新倉<persName>陳垣</persName></explicit>
+                            <filiation>書法冊頁，中外孤本。</filiation>  
                         </msItem>
                         <!-- insert further msItem elements as appropriate --> 
                         
@@ -88,8 +80,8 @@
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
                         https://git.io/msdescdoc#leafDimensions
-                        -->                           <height>135.7</height>
-                                        <width>49</width>
+                        -->                           <height>？</height>
+                                        <width>？</width>
                                     </dimensions>
                                     <!-- use additional dimensions elements if necessary -->
                                 </extent>
@@ -124,7 +116,7 @@
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
                                 <p>立軸</p>
-                                <decoNote>立軸，裝裱方式為宣和裝，天頭與地脚為藍色有花紋絲織物，上、下隔水為白色絲織物。畫心上半部由灑金宣紙構成，書法由王文治書寫，下半部載體為絲織物，書畫作者為王文治。在挂軸天杆位置的背面有貼有題簽上書“惲壽平畫”字樣。</decoNote>
+                                <decoNote>立軸，裝裱方式為宣和裝，天頭與地脚為藍色有花紋絲織物，上、下隔水為白色.灑金宣紙。在挂軸天杆位置的背面有貼有標簽上書“惲壽平畫”字樣。</decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>
@@ -146,8 +138,8 @@
                             <origDate notAfter="1700" notBefore="1600" calendar="Gregorian">1670</origDate>
                             <!-- use additional origPlace and origDate elements if necessary -->
                         </origin>
-                        <provenance>The painting was created by Yun Shouping (惲壽平). It was once collected by Wang Wenzhi (王文治，1730-1802), who provided commentary on the painting in 1790, as indicated by the inscription "庚戌夏四月既望 文治" on the painting.
-                   </provenance>
+                        <provenance>The painting was created by Yun Shouping (惲壽平). It was once collected by Wang Wenzhi (王文治，1730-1802), who provided commentary on the painting in 1790, as indicated by the inscription "庚戌夏四月既望" on the painting.
+                        </provenance>
                         
                         
                         <!-- use additional provenance elements if necessary -->
