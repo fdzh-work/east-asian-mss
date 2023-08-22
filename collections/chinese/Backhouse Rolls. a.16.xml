@@ -61,19 +61,19 @@
                             <title key="desc">牡丹</title>
                             <author key="Chinese">惲壽平 （1633-1690）</author>
                             <incipit >曾依瑤圃三珠樹長護蓬萊五色云</incipit>
-                            <incipit>甌香馆橅宋人法南田<persName>惲壽平</persName></incipit>
+                            <incipit><persName type="號">甌香馆</persName>橅宋人法南田<persName>惲壽平</persName></incipit>
                             <incipit>白頭一倍惜年華，到處敲門只看花。
                                      榮艷紅芳三百朵，雕闌色暎日鈎斜。</incipit>
                             <incipit type="seal">壽平之印</incipit>
                             <incipit type="seal">南田小隱</incipit>
                             <incipit type="seal">叔平</incipit>
-                            <incipit>曾賔谷為楊州都轉詠牡丹押娃字
+                            <incipit><persName>曾賔谷</persName>為楊州都轉詠牡丹押娃字
                                      韻一時和者多涉牽强余有句云酴
                                      餘扶倩唐宮婢貴後稀驚越國娃
                                      觀者咸稱歡以爲妙得天然</incipit>
                             <incipit type="seal">王氏禹州</incipit>
                             <incipit type="seal">夢樓</incipit>
-                            <explicit>庚戌夏四月既望 文治</explicit>
+                            <explicit><date>庚戌夏四月既望</date><persName>文治</persName></explicit>
                             <filiation>書畫立軸，中外孤本。</filiation>  
                         </msItem>
                         <!-- insert further msItem elements as appropriate --> 
