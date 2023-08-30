@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+<!-- use this template in cases where the manuscript is NOT composed of multiple codicological units. To avoid errors in the display of the record, be sure to delete elements that are not used. -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="manuscript_00000"><!-- insert the correct xmlid in the form manuscript_12345 -->
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Backhouse Rolls a. 39 (3)</title>
+                
+                <respStmt>
+                    <resp>Cataloguer</resp>
+                    <persName>Boya Zhang</persName>
+                </respStmt>
+                
+            </titleStmt>
+            <editionStmt>
+                <edition>TEI P5</edition>
+                <funder>HD Chung Fund</funder>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Special Collections, Bodleian Libraries</publisher>
+                <address>
+                    <orgName type="department">Special Collections</orgName>
+                    <orgName type="unit">Bodleian Libraries</orgName>
+                    <orgName type="institution">University of Oxford</orgName>
+                    <street>Weston Library, Broad Street</street>
+                    <settlement>Oxford</settlement>
+                    <postCode>OX1 3BG</postCode>
+                    <country>United Kingdom</country>
+                </address>
+                <distributor>
+                    <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                </distributor>
+                <idno type="msID"><!-- insert normalized form of shelfmark --></idno>
+                <idno type="collection"><!-- insert normalized form of collection --></idno>
+                <idno type="catalogue"><!-- insert catalogue ID --></idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:lang="en"><!-- optionally provide xmlid should as a normalized form of the shelfmark, e.g. Merton_College_MS_10 -->
+                    <msIdentifier>
+                        <settlement><!-- insert --></settlement>
+                        <repository>Bodleian Library</repository><!-- change if necessary -->
+                        <idno type="shelfmark">Backhouse Rolls a. 39 (3)</idno>
+                        
+                        
+                    </msIdentifier>
+                    
+                    <msContents>
+                        <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
+                        <summary>Part of a set of six Chinese calligraphy hanging scrolls, the text on this particular set of scrolls claims itself to be genuine authentic calligraphy of Wang Xizhi (王羲之 303-361) in Kai Shu style, however, it is more likely to be a replica of late Qing dynasty. One interesting feature of this set is that many paragraphs are attribute to famous Chinese historical figures, such as Du Ruhui (杜如晦 585-630), Yan Zhenqing (顔真卿 709-785), Liu Gongquan (柳公權 778-865), Sang Weihan (桑維翰 898-946), Fang Xiaoru (方孝孺 1357-1402), and others. </summary>
+                        <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
+                        
+                        <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
+                            <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
+                            <locus><!-- insert --></locus>
+                            <title type="desc">calligraphy</title>
+                            <incipit>洵觀此屏不勝忻？細展？筆法工韻獨勝世之學書去？不失此規自然名聖未識此言賢之書家以爲何乃耶賞餘爰識數言以誌之<placeName>石為</placeName><persName>王翬</persName>題</incipit>
+                            <incipit>雲影于重主異筆峰之寸倘學專似此屏使恆管可洵重名真收腕底之全功胸中之生趣也能勿貴乎<date>丙申之秋</date><persName>麓？祁</persName>題</incipit>
+                            <incipit>天無意處仍商何此有心人悠結會之興對筆蕩意到筆隨弓此之言別書時矣子佳之<date>德佑元年十月</date><persName>德佑元年十月張世俁</persName>識</incipit>
+                            <incipit>書家自古以來名重之至莫如乎王右軍筆法盖其精勁遺跡尤為罕見故此無人出其右者今偶於友人處得此跡展玩之餘雅秀異常人莫能撫之足稱至寳焉<persName>吳潛</persName>拜題</incipit>
+                            <incipit><date>景主四二年癸亥冬日</date><persName>馬光祖</persName>觀於<placeName>臨雨樓</placeName></incipit>
+                            <incipit>右軍將軍王逸少所書諸蹟人皆寳之年久而湮沒者多故世人尤罕見之則更寳也<placeName>色山</placeName><persName>陸治</persName>識</incipit>
+                            <incipit>則嘗訪古蹟於中陽尋遺踪於舊沛緬秦漢之盛衰溯項劉之運會在昔廓清海宇巳徵風勁四方至今俯仰山川猶覺風號萬籟故臺則巍峩矗聳洵堪遠矚高瞻而歌亦悲壯淋漓想見才雄畧大方高祖之擊黥布而還也凱旋淮浦酒置沛宮</incipit>
+                            <incipit>敘游子別離之情溥天家恩誼之隆關心馬齒已增兒童倏看漸長回首鴻門竟脫父老共話深衷萬歲猶樂舊邦劇憐暮景五年遂成帝業早建豐功念故人鑿井相嘻羣游化日惟大王披襟而賦此有雄風夫念其結鄉園情深桑梓節歌風臺賦二則</incipit>
+                            <incipit>前見逸少書東方朔茵賞一則支此泣折<persName>陸贄</persName>題</incipit>
+                            <incipit><date>元符戊寅冬十一月冬至後一日</date><persName>鄒浩</persName>觀于<placeName>靜怡山房</placeName></incipit>
+                            <incipit><date>嘉靖庚寅冬一月</date>行往<placeName>吳門</placeName>觀此<persName>王瓊</persName>記</incipit>
+                            <incipit><date>景泰六年乙亥正月</date><persName>于謙</persName>觀于<placeName>東麓草庵</placeName></incipit>
+                            <incipit>逸少真蹟予前任待詔時所見不少官歸後實難覆見不意今適友人携此屏來示余囑為題記遂得重玩其跡深幸之至因限於地窄未能細述其妙只得聊誌數言以識之<persName>徵明</persName>題</incipit>
+                            <incipit>所藏右軍書跡數体以爲寳貴不意今又得此屏更屬忻幸何余之有緣於右軍抑有緣於翰墨耶自爲識之<date>治平乙巳春日</date><persName>司馬光</persName>謹題</incipit>
+                            <incipit>相國潯此屏蹟以示舍展玩之餘？重筆法似喜虹飲澗蕩霰浮浦寳有緣於筠墨以陖遇之舟遇耳<persName>富弼</persName>拜題</incipit>
+                            <incipit>逸少生平所以蘭亭沒禪黃庭經道德經樂毅論為最妙？者難不及此然頗子揭洵今觀是屏見是筆法妔若銀鈎飄若騖鶯香當典為最者？妙也 <persName>葉朝棟</persName>題</incipit>
+                            <incipit><date>順始六年夔卯月上現</date>觀於<placeName>>西冷之聼潮樓</placeName>邘上<placeName></placeName><persName>宗濂</persName>題記</incipit>
+                            <filiation>書法卷軸，中外孤本。</filiation>  
+                        </msItem>
+                        <!-- insert further msItem elements as appropriate --> 
+                        
+                    </msContents>
+                    <physDesc>
+                        
+                        <objectDesc form="卷軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
+                            <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
+                                <support>mulberry and bamboo mixed paper</support>
+                                <extent>1 scroll
+                                    <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
+                        
+                        https://git.io/msdescdoc#leafDimensions
+                        -->                           <height>？</height>
+                                        <width>？</width>
+                                    </dimensions>
+                                    <!-- use additional dimensions elements if necessary -->
+                                </extent>
+                                
+                                <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>书法卷轴.墨色书写</layout>
+                                
+                            </layoutDesc>
+                            
+                        </objectDesc>
+                        
+                        <handDesc><!-- use the @hands attribute to record the number of scribes -->
+                            <handNote>
+                                Text written in 楷體 (kai shu, regular) calligraphic style</handNote>
+                            <!-- use additional handNote elements if necessary 
+                     https://git.io/msdescdoc#handdesc
+                     -->
+                        </handDesc>
+                        
+                        <decoDesc>
+                            <decoNote>
+                            </decoNote>
+                            <!-- use additional decoNote elements if necessary 
+                     https://git.io/msdescdoc#decodesc
+                     -->
+                        </decoDesc>
+                        
+                        <bindingDesc>
+                            <binding when="1800"><!-- use dating attributes to record the date -->
+                                <p>卷軸</p>
+                                <decoNote>立軸，二色裱，天頭地脚為深棕色帶黃色提花絲織物，上下隔水為藍色絲織物，每段書法分別爲不同作者書寫，也可能是一人以不同字體書寫</decoNote>
+                            </binding>
+                        </bindingDesc>
+                        <accMat>
+                            <!-- insert if relevant, otherwise delete 
+                     https://git.io/msdescdoc#accMat          
+                     -->
+                        </accMat>
+                    </physDesc>
+                    <history>
+                        <!-- see https://git.io/msdescdoc#history -->
+                        <origin>
+                            <!-- see https://git.io/msdescdoc#origin -->
+                            <origPlace>
+                                <country>China</country>,
+                                <region><!-- insert --></region>,
+                                <settlement><!-- insert --></settlement>,
+                                <orgName><!-- insert --></orgName>
+                            </origPlace>
+                            <origDate notAfter="1900" notBefore="1800" calendar="Gregorian">晚清</origDate>
+                            <!-- use additional origPlace and origDate elements if necessary -->
+                        </origin>
+                        <provenance> </provenance>
+                        
+                        
+                        <!-- use additional provenance elements if necessary -->
+                        <acquisition>
+                            <!-- insert -->
+                            <!-- use dating attributes where possible -->
+                        </acquisition>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source>
+                                    <!-- insert prose here; see https://git.io/msdescdoc#recordHist -->
+                                    <bibl><!-- insert if necesary, otherwise delete --></bibl>
+                                    <!-- links to digitized catalogues may also be provide here, e.g.: -->
+                                    <!--<listBibl>
+                              <bibl type="SC" facs="aas0046.gif">Summary Catalogue, Vol. 3, p.  31</bibl>
+                           </listBibl>-->
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                        <listBibl>
+                            <!-- a number of listBibl elements can be nested inside an outer listBibl if required -->
+                            <head><!-- use to provide a heading if required, otherwise delete --></head>
+                            <bibl><!-- insert bibliography, links to online resource, etc., otherwise delete--></bibl>
+                            
+                        </listBibl>
+                    </additional>
+                    
+                    
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change>
+                <!-- insert relevant text, e.g. 'First online publication' -->
+                <!-- provide the date of the change using the @when attribute -->
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><!--Body paragraph provided for validation and future transcription--></p>
+        </body>
+    </text>
+</TEI>
