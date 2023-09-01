@@ -9,7 +9,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Backhouse Rolls a. 34 (8)</title>
+                <title>Backhouse Rolls a. 33 (2)</title>
                 
                 <respStmt>
                     <resp>Cataloguer</resp>
@@ -44,23 +44,23 @@
                     <msIdentifier>
                         <settlement><!-- insert --></settlement>
                         <repository>Bodleian Library</repository><!-- change if necessary -->
-                        <idno type="shelfmark">Backhouse Rolls a. 34 (8)</idno>
+                        <idno type="shelfmark">Backhouse Rolls a. 33 (2)</idno>
                         
                         
                     </msIdentifier>
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>A hanging scroll of Chinese calligraphy.</summary>
+                        <summary>A hanging scroll of Chinese calligraphy written in Xingshu style. Based on the text, it is likely to be written by Xianfeng Emperor (1831-1861) of Qing dynasty.</summary>
                         <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
                         
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
                             <title>立軸</title>
-                            <author key="Chinese">unknown</author>
-                            <incipit>珠涕沸聲味甘餘之苦姿</incipit>
-                            <incipit>之高知壞笑非紋樽蟄目</incipit>
+                            <author key="Chinese">慈禧太后 (1835-1908)</author>
+                            <incipit>得路驊騮天骨開</incipit>
+                            <explicit type="題簽">顯皇后字</explicit>
                             
                             <filiation>書法卷軸，中外孤本。</filiation>  
                         </msItem>
@@ -70,8 +70,8 @@
                     <physDesc>
                         
                         <objectDesc form="立軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
-                            <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                                <support>mulberry and bamboo mixed paper</support>
+                            <supportDesc material="絹本"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
+                                <support>silk</support>
                                 <extent>1 scroll
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
@@ -93,7 +93,7 @@
                         
                         <handDesc><!-- use the @hands attribute to record the number of scribes -->
                             <handNote>
-                                Text written in 行書 (xing shu, semi-cursive) calligraphic style.</handNote>
+                                Text written in 楷書 (kai shu, regular) calligraphic style</handNote>
                             <!-- use additional handNote elements if necessary 
                      https://git.io/msdescdoc#handdesc
                      -->
@@ -110,7 +110,7 @@
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
                                 <p>立軸</p>
-                                <decoNote>立軸,一色裱。天頭地脚和邊是是米白色帶花紋絲織物。畫心為黃色紙張。</decoNote>
+                                <decoNote>立軸,一色裱。天頭地脚和邊是綠色有花紋絲織物。畫心為藍色絲織物伴有祥雲騰龍花紋，龍有五爪，書法左側印有印章兩枚。</decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>
@@ -132,9 +132,7 @@
                             <origDate notAfter="1900" notBefore="1800" calendar="Gregorian">晚清</origDate>
                             <!-- use additional origPlace and origDate elements if necessary -->
                         </origin>
-                        <provenance>本套立軸由12卷組成，由第二卷落款可知整套為蘇軾 (1037-1101)《洞庭春色賦》的贋品。《洞庭春色賦》與《中山松醪賦》二賦合卷的真跡現藏于中國吉林省博物館，是存世蘇軾書跡中篇幅最長的。
-                            Part of the set of twelve scrolls, the text claimed them to be ‘Dong Ting Chun Se Fu’ written by Su Shi (1037-1101). However, these scrolls are not authentic. The authentic calligraphy of ‘Dong Ting Chun Se Fu’ written by Su Shi is held by the Jilin Museum of China.
-                        </provenance>
+                        <provenance> </provenance>
                         
                         
                         <!-- use additional provenance elements if necessary -->
