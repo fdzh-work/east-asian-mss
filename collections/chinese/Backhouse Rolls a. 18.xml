@@ -9,7 +9,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Backhouse Rolls a. 21</title>
+                <title>Backhouse Rolls a. 18</title>
                 
                 <respStmt>
                     <resp>Cataloguer</resp>
@@ -44,14 +44,14 @@
                     <msIdentifier>
                         <settlement><!-- insert --></settlement>
                         <repository>Bodleian Library</repository><!-- change if necessary -->
-                        <idno type="shelfmark">Backhouse Rolls a. 21</idno>
+                        <idno type="shelfmark">Backhouse Rolls a. 18</idno>
                         
                         
                     </msIdentifier>
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>A hanging scroll of the calligraphy written by the Emperor Xian Feng (1831-1861) of the Qing dynasty.</summary>
+                        <summary>A hanging scroll of the calligraphy written by the Emperor Dao Guang (1782-1850) of the Qing dynasty.</summary>
                         <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
                         
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
@@ -59,13 +59,11 @@
                             <locus><!-- insert --></locus>
                             
                             <title type="desc">calligraphy</title>
-                            <author key="Chinese">咸豐皇帝</author>
-                            <incipit>虎</incipit>
-                            <incipit>御賜</incipit>
-                            <incipit>總管内務府大臣臣<persName>文豐</persName></incipit>
-                            <incipit><date>咸豐八年十二月</date></incipit>
-                            <explicit type="題簽">御賜虎字 B/362</explicit>
-
+                            <author key="Chinese">道光皇帝</author>
+                            <incipit>龍</incipit>
+                            <explicit type="題簽">emperor Tao Kuang's caligraph dragon</explicit> 
+                            <explicit type="題簽">龍</explicit>
+                            
                             
                             <filiation>書法卷軸，中外孤本。</filiation>  
                         </msItem>
@@ -90,7 +88,7 @@
                                 <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>書法橫披，紙本。</layout>
+                                <layout>>書法卷軸，中外孤本。</layout>
                                 
                             </layoutDesc>
                             
@@ -116,7 +114,7 @@
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
                                 <p>立軸</p>
-                                <decoNote>立軸，裝裱方式為二色裱，天頭地脚及邊框是藍色和金色絲織物,隔水是黃色紙,書法字跡寫在朱紅色紙上。整個立軸上有橫向摺痕多條，天杆処有破損。</decoNote>
+                                <decoNote>立軸，裝裱方式為二色裱，天頭地脚及邊框是淺藍色絲織物,隔水是明黃色紙,書法字跡寫在紅色紙上。整個立軸上有橫向摺痕多條，並有污損。</decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>
@@ -135,7 +133,7 @@
                                 <settlement><!-- insert --></settlement>,
                                 <orgName><!-- insert --></orgName>
                             </origPlace>
-                            <origDate notAfter="1900" notBefore="1800" calendar="Gregorian">1838</origDate>
+                            <origDate notAfter="1900" notBefore="1800" calendar="Gregorian">晚清</origDate>
                             <!-- use additional origPlace and origDate elements if necessary -->
                         </origin>
                         <provenance>
