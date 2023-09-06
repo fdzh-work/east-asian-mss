@@ -9,7 +9,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Backhouse Rolls a. 22</title>
+                <title>Backhouse Rolls a. 21</title>
                 
                 <respStmt>
                     <resp>Cataloguer</resp>
@@ -44,14 +44,14 @@
                     <msIdentifier>
                         <settlement><!-- insert --></settlement>
                         <repository>Bodleian Library</repository><!-- change if necessary -->
-                        <idno type="shelfmark">Backhouse Rolls a. 22</idno>
+                        <idno type="shelfmark">Backhouse Rolls a. 21</idno>
                         
                         
                     </msIdentifier>
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>A horizontal scroll of rubbing of the calligraphy written by the Emperor Xian Feng (1831-1861) of the Qing dynasty.</summary>
+                        <summary>A hanging scroll of the calligraphy written by the Emperor Xian Feng (1831-1861) of the Qing dynasty.</summary>
                         <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
                         
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
@@ -60,12 +60,14 @@
                             
                             <title type="desc">calligraphy</title>
                             <author key="Chinese">咸豐皇帝</author>
-                            <incipit>正中莊齋</incipit>
-                            <explicit>顯皇帝碟福 Rubbings of emperor Hsien Feng’s caligraph B/304</explicit>
-                            <explicit>Impression taken from a rubbing of four Changchun by the Emperor Hsien Feng / uncle of zeiprang sovereign / presented by him to the then head of the Imperial Household (Kuang Shui)</explicit>
+                            <incipit>虎</incipit>
+                            <incipit>御賜</incipit>
+                            <incipit>總管内務府大臣臣<persName>文豐</persName></incipit>
+                            <incipit><date>咸豐八年十二月</date></incipit>
+                            <explicit type="題簽">御賜虎字 B/362</explicit>
+
                             
-                            
-                            <filiation>書法橫披，中外孤本。</filiation>  
+                            <filiation>書法卷軸，中外孤本。</filiation>  
                         </msItem>
                         <!-- insert further msItem elements as appropriate --> 
                         
@@ -113,8 +115,8 @@
                         
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
-                                <p>橫披</p>
-                                <decoNote>橫批，裝裱方式為一色裱，雙耳及邊為淺藍色絲織物。朱紅色拓印在黃色紙上。</decoNote>
+                                <p>立軸</p>
+                                <decoNote>立軸，裝裱方式為二色裱，天頭地脚及邊框是藍色和金色絲織物,隔水是黃色紙,書法字跡寫在朱紅色紙上。整個立軸上有橫向摺痕多條.天杆処有破損。</decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>
@@ -133,7 +135,7 @@
                                 <settlement><!-- insert --></settlement>,
                                 <orgName><!-- insert --></orgName>
                             </origPlace>
-                            <origDate notAfter="1900" notBefore="1800" calendar="Gregorian">晚清</origDate>
+                            <origDate notAfter="1900" notBefore="1800" calendar="Gregorian">1838</origDate>
                             <!-- use additional origPlace and origDate elements if necessary -->
                         </origin>
                         <provenance>
