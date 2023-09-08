@@ -51,14 +51,14 @@
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>A hanging scroll of Chinese calligraphy written in Xingshu style by Dong Qichang (李鴻章 1823-1903)</summary>
+                        <summary>A hanging scroll of Chinese calligraphy written in Xingshu style by Dong Qichang (董其昌，1555-1636)</summary>
                         <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
                         
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
                             <title>立軸</title>
-                            <author key="Chinese">董其昌</author>
+                            <author key="Chinese">董其昌（1555-1636）</author>
                             <incipit>东逾辽水北滹沱星象风云喜共和紫气关临天地阔黄金台贮俊贤多</incipit>
                             <incipit type="seal">董其昌印</incipit>
                             <incipit type="seal">宗伯之章</incipit>
