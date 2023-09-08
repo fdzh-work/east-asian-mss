@@ -65,6 +65,7 @@
                             <incipit type="seal">董其昌印</incipit>
                             <explicit type="題簽">董其昌<note>題簽有破損</note></explicit>
                             <explicit type="題簽">specimen of writing by Tung Chi-chang, the great calligrapher of Ming dynasty. B/324</explicit>
+                            <note>原詩作者為元朝倪瓚，詩雲“曾住南湖宅於今已十年叢筠還自翳喬木故依然雨雜鳴渠溜雲連煮术煙何時重相過爛醉得佳眠過惠山”。本卷所寫略有不同。</note>
                             <filiation>書法卷軸，中外孤本。</filiation>  
                         </msItem>
                         <!-- insert further msItem elements as appropriate --> 
@@ -96,7 +97,7 @@
                         
                         <handDesc><!-- use the @hands attribute to record the number of scribes -->
                             <handNote>
-                                Text written in 行書 (xing shu, regular) calligraphic style</handNote>
+                                Text written in 行書 (xing shu, semi-cursive) calligraphic style</handNote>
                             <!-- use additional handNote elements if necessary 
                      https://git.io/msdescdoc#handdesc
                      -->
