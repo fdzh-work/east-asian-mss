@@ -58,10 +58,11 @@
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
                             <title>對聯-上聯</title>
-                            <author key="Chinese"><placeName>禹門</placeName><persName type="號">鳳山</persName></author>
+                            <author key="Chinese">鳳山</author> 
+                            <note>鳳山 （1860-1911），字禹門，號茗昌，劉氏，漢軍旗鑲白旗人，清朝軍事將領。</note>
                             <incipit>得志當爲天下雨</incipit>
                             <explicit>念兹賢弟大人雅屬</explicit>
-                            <note>該對聯為<persName>吳佩孚</persName></note>
+                            <note>該對聯原作者為<persName>吳佩孚</persName></note>
                             
                             <filiation>書法卷軸，中外孤本。</filiation>  
                         </msItem>
@@ -130,7 +131,7 @@
                                 <settlement><!-- insert --></settlement>,
                                 <orgName><!-- insert --></orgName>
                             </origPlace>
-                            <origDate notAfter="1900" notBefore="1800" calendar="Gregorian">民國</origDate>
+                            <origDate notAfter="2000" notBefore="1800" calendar="Gregorian">晚清</origDate>
                             <!-- use additional origPlace and origDate elements if necessary -->
                         </origin>
                         <provenance> </provenance>

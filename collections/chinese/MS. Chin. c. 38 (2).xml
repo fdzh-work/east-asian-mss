@@ -51,16 +51,18 @@
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>A hanging scroll of Chinese calligraphy written in Kaishu style. One piece of a couplet, pairing with MS. Chin. c. 38 (4). 竪軸一幅，書寫内容為對聯的下聯。該竪軸與MS. Chin. c. 38 (4)成爲一對。</summary>
+                        <summary>A hanging scroll of Chinese calligraphy written in Kaishu style by Zheng Xiao Xu (鄭孝胥 1860-1938). One piece of a couplet, pairing with MS. Chin. c. 38 (4). 竪軸一幅，書寫内容為對聯的下聯。該竪軸與MS. Chin. c. 38 (4)成爲一對。</summary>
                         <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
                         
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
                             <title type="對聯">對聯 上聯</title>
-                            <author key="Chinese">孝胥</author>
+                            <author key="Chinese">鄭孝胥</author>
                             <incipit>郭揣徹言</incipit>
-                            <explicit>念兹仁兄大人雅正庚戌三月孝胥</explicit>
+                            <incipit type="seal">蘇戡</incipit>
+                            <incipit type="seal">鄭氏孝胥</incipit>
+                            <explicit>念兹仁兄大人雅正庚戌三月<persName>孝胥</persName></explicit>
                             <filiation>書法卷軸，中外孤本。</filiation>  
                         </msItem>
                         <!-- insert further msItem elements as appropriate --> 
@@ -109,7 +111,7 @@
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
                                 <p>立軸</p>
-                                <decoNote>立軸，單色裱，邊框為藍色絲織物。</decoNote>
+                                <decoNote>立軸，一色裱，邊框為藍色絲織物，有污損。</decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>
@@ -128,7 +130,7 @@
                                 <settlement><!-- insert --></settlement>,
                                 <orgName><!-- insert --></orgName>
                             </origPlace>
-                            <origDate notAfter="1900" notBefore="1800" calendar="Gregorian">從庚戌年三月可知或為1910年</origDate>
+                            <origDate notAfter="1900" notBefore="1800" calendar="Gregorian">1910</origDate>
                             <!-- use additional origPlace and origDate elements if necessary -->
                         </origin>
                         <provenance> </provenance>
