@@ -62,10 +62,10 @@
                             <author key="Chinese">乾隆皇帝（1711-1799)</author>
                             <incipit>敬慎勤字</incipit>
                             <incipit type="seal">德日新</incipit>
-                            <incipit type="seal">乾隆寳翰</incipit>
+                            <incipit type="seal">乾隆宸翰</incipit>
                             <incipit type="seal">陶冶性靈</incipit>
-                            <explicit><date>壬午暮春</date>御筆</explicit>
-                            <explicit type="題簽">乾隆御筆字一捲</explicit>
+                            <incipit><date>壬午暮春</date>御筆</incipit>
+                            <explicit type="錦包首">乾隆御筆字一捲</explicit>
                             
                             <filiation>書法卷軸，中外孤本。</filiation>  
                         </msItem>
@@ -135,7 +135,7 @@
                                 <settlement><!-- insert --></settlement>,
                                 <orgName><!-- insert --></orgName>
                             </origPlace>
-                            <origDate notAfter="1800" notBefore="1700" calendar="Gregorian">1735年及以後</origDate>
+                            <origDate notAfter="1800" notBefore="1700" calendar="Gregorian">1762</origDate>
                             <!-- use additional origPlace and origDate elements if necessary -->
                         </origin>
                         <provenance>

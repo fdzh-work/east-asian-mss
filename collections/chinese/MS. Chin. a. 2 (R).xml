@@ -51,7 +51,7 @@
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>A hanging scroll featuring s depiction of the underworld in traditional Chinese methology.</summary>
+                        <summary>A hanging scroll featuring a depiction of the underworld in traditional Chinese methology.</summary>
                         <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
                         
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
@@ -59,11 +59,12 @@
                             <locus><!-- insert --></locus>
                             <title key="desc">三殿宋帝王</title>
                             <author key="Chinese">unknown</author>
-                            <incipit type="note">叁殿？誕 [注：字有缺失]</incipit>
+                            <incipit type="note">叁殿？誕 [注：問號位置字有缺失]</incipit>
                             <incipit>修補道路界殺放牲必得延年長生之樂</incipit>
                             <incipit>造千萬人來往之橋代代家有吉神穫福</incipit>
                             <incipit>傷殺禽獸屠財害命南托此報</incipit>
                             <incipit>貪屠人家財產謀妻害夫生前作業定受此獄</incipit>
+                            <explicit type="錦包首">MS. Chin. a. 2 (R)</explicit>
                             
                             <filiation>書畫卷軸，中外孤本。</filiation>  
                         </msItem>
@@ -96,7 +97,7 @@
                         
                         <handDesc><!-- use the @hands attribute to record the number of scribes -->
                             <handNote>
-                                Text written in 楷書 (kai shu, regular) calligraphic style. 有通假字。
+                                Text written in 楷書 (kai shu, regular) calligraphic style.
                             </handNote>
                             <!-- use additional handNote elements if necessary 
                      https://git.io/msdescdoc#handdesc
@@ -114,7 +115,7 @@
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
                                 <p>立軸</p>
-                                <decoNote>立軸，三色裱，天杆、邊為藍色，天頭為淺藍，隔水為朱色且有輕微褪色痕跡。略有破損和水印。</decoNote>
+                                <decoNote>立軸，三色裱，天杆、邊為藍色，天頭為淺藍，隔水為朱色且有輕微褪色痕跡。卷軸略有破損和水印，背面錦包首絲織物褪色破損嚴重。</decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>
@@ -133,7 +134,7 @@
                                 <settlement><!-- insert --></settlement>,
                                 <orgName><!-- insert --></orgName>
                             </origPlace>
-                            <origDate notAfter="1900" notBefore="1700" calendar="Gregorian">約爲晚清</origDate>
+                            <origDate notAfter="1900" notBefore="1700" calendar="Gregorian">晚清</origDate>
                             <!-- use additional origPlace and origDate elements if necessary -->
                         </origin>
                         <provenance>

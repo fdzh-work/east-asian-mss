@@ -51,7 +51,7 @@
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>A hanging scroll featuring s depiction of the underworld in traditional Chinese methology.</summary>
+                        <summary>A hanging scroll featuring a depiction of the underworld in traditional Chinese methology.</summary>
                         <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
                         
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
@@ -59,7 +59,7 @@
                             <locus><!-- insert --></locus>
                             <title key="desc">八殿平等王</title>
                             <author key="Chinese">unknown</author>
-                            <incipit type="note">四月初八日玖殿平等王聖誕 [注：此畫的最上処文字應該有錯誤，題簽上正確，一般民間傳説應是八殿都市王，九殿平等王。]</incipit>
+                            <incipit type="note">四月初八日玖殿平等王聖誕 [注：此畫的神像頭部上方文字“八殿平等王”有錯誤，題簽上正確，一般民間傳説應是八殿都市王，九殿平等王。]</incipit>
                             <incipit>凡人在世金裝佛相塑画神体捨財助善生生常得樂寿之報永遠綿綿</incipit>
                             <incipit>或為父母或為孝悌施齋供象永享長生安康之樂</incipit>
                             <incipit>施齋供像</incipit>
@@ -97,7 +97,7 @@
                         
                         <handDesc><!-- use the @hands attribute to record the number of scribes -->
                             <handNote>
-                                Text written in 楷書 (kai shu, regular) calligraphic style. 有通假字。
+                                Text written in 楷書 (kai shu, regular) calligraphic style. 
                             </handNote>
                             <!-- use additional handNote elements if necessary 
                      https://git.io/msdescdoc#handdesc
