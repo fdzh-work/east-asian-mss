@@ -45,7 +45,9 @@
                         <settlement><!-- insert --></settlement>
                         <repository>Bodleian Library</repository><!-- change if necessary -->
                         <idno type="shelfmark">Sinica 3920</idno>
-                        
+                        <altIdentifier type="former">
+                            <idno>MS.Jap.e.7(R)</idno>
+                        </altIdentifier>
                         
                     </msIdentifier>
                     
@@ -145,12 +147,12 @@
                             <origDate notAfter="1900" notBefore="1800" calendar="Gregorian">晚清，約1900年以後。</origDate>
                             <!-- use additional origPlace and origDate elements if necessary -->
                         </origin>
-                        <provenance> </provenance>
+                        <provenance>List number: S.C.36856</provenance>
                         
                         
                         <!-- use additional provenance elements if necessary -->
                         <acquisition>
-                            <!-- insert -->
+                            <date>1914</date><!-- insert -->
                             <!-- use dating attributes where possible -->
                         </acquisition>
                     </history>

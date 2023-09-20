@@ -45,7 +45,9 @@
                         <settlement><!-- insert --></settlement>
                         <repository>Bodleian Library</repository><!-- change if necessary -->
                         <idno type="shelfmark">MS. Chin. c. 13 (R)</idno>
-                        
+                        <altIdentifier type="former">
+                            <idno>Chin.232</idno>
+                        </altIdentifier> 
                         
                     </msIdentifier>
                     
@@ -57,7 +59,7 @@
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            <title>unknown</title>
+                            <title>Painting of a marriage procession</title>
                             <title type="desc">送親圖卷軸</title>
                             
                             
@@ -68,7 +70,7 @@
                     </msContents>
                     <physDesc>
                         
-                        <objectDesc form="包背裝"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
+                        <objectDesc form="卷軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
                             <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
                                 <support>mulberry and bamboo mixed paper</support>
                                 <extent>1 scroll
@@ -136,7 +138,7 @@
                             <origDate notAfter="1900" notBefore="1600" calendar="Gregorian">清代</origDate>
                             <!-- use additional origPlace and origDate elements if necessary -->
                         </origin>
-                        <provenance> </provenance>
+                        <provenance>List number: S.C.30871f</provenance>
                         
                         
                         <!-- use additional provenance elements if necessary -->

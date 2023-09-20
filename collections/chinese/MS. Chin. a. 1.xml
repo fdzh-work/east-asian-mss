@@ -9,7 +9,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>MS. Chin. a. 1 </title>
+                <title>MS. Chin. a. 1 (R)</title>
                 
                 <respStmt>
                     <resp>Cataloguer</resp>
@@ -44,7 +44,7 @@
                     <msIdentifier>
                         <settlement><!-- insert --></settlement>
                         <repository>Bodleian Library</repository><!-- change if necessary -->
-                        <idno type="shelfmark">MS. Chin. a. 1 </idno>
+                        <idno type="shelfmark">MS. Chin. a. 1 (R)</idno>
                         
                         
                     </msIdentifier>
@@ -140,14 +140,13 @@
                             <origDate notAfter="1700" notBefore="1600" calendar="Gregorian">1853</origDate>
                             <!-- use additional origPlace and origDate elements if necessary -->
                         </origin>
-                        <provenance>
+                        <provenance> Portrait of the Emperor Hsien Feng as an archer, with an autograph poem by the Emperor.
                         </provenance>
                         
                         
                         <!-- use additional provenance elements if necessary -->
                         <acquisition>
-                            <!-- insert -->
-                            <!-- use dating attributes where possible -->
+                            Acquired in 1864.
                         </acquisition>
                     </history>
                     <additional>

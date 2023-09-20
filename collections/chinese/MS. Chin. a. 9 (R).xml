@@ -51,13 +51,14 @@
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>A hanging scroll featuring a depiction of the underworld in traditional Chinese methology.</summary>
+                        <summary>A hanging scroll featuring a depiction of the underworld in traditional Chinese mythology.</summary>
                         <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
                         
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            <title key="desc">六殿卞城王</title>
+                            <title key="supplied title">Sacred Buddhist Pictures<note>Emperor Bian Cheng of the sixth hall of the underworld</note></title>
+                            <title key="supplied title">六殿卞城王</title>
                             <author key="Chinese">unknown</author>
                             <incipit type="note">三月初八日陸殿卞城王聖誕</incipit>
                             <incipit>歷年週濟貧苦結糧濟窮代代子孫身受榮華不爽</incipit>
@@ -141,10 +142,7 @@
                         
                         
                         <!-- use additional provenance elements if necessary -->
-                        <acquisition>
-                            <!-- insert -->
-                            <!-- use dating attributes where possible -->
-                        </acquisition>
+                        <acquisition>Acquired in 1927</acquisition>
                     </history>
                     <additional>
                         <adminInfo>

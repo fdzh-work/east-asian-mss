@@ -45,7 +45,9 @@
                         <settlement><!-- insert --></settlement>
                         <repository>Bodleian Library</repository><!-- change if necessary -->
                         <idno type="shelfmark">MS. Chin. b. 6</idno>
-                        
+                        <altIdentifier type="former">
+                            <idno>Chin.232</idno>
+                        </altIdentifier>   
                         
                     </msIdentifier>
                     

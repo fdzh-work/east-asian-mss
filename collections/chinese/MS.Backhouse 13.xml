@@ -45,7 +45,9 @@
                         <settlement><!-- insert --></settlement>
                         <repository>Bodleian Library</repository><!-- change if necessary -->
                         <idno type="shelfmark">MS.Backhouse 13</idno>
-                        
+                        <altIdentifier type="former">
+                            <idno>Backhouse Dep.XXIV(1)</idno>
+                        </altIdentifier>  
                         
                     </msIdentifier>
                     
@@ -71,7 +73,7 @@
                     </msContents>
                     <physDesc>
                         
-                        <objectDesc form="包背裝"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
+                        <objectDesc form="綫裝"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
                             <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
                                 <support>？check the material</support>
                                 <extent>35 leaves
