@@ -57,8 +57,10 @@
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            <title >福</title>
-                            <author key="Chinese">unknown</author>
+                            <title key="supplied title">EMPRESS DOWAGER TZ'U HSI:[CALLIGRAPHY]</title>
+                            <title type="desc">calligraphy</title>
+                            <incipit>福</incipit>
+                            <author key="Chinese">Empress Dowager Ci Xi (慈禧太后，1835-1908)</author>
  
                             <filiation>書法卷軸，中外孤本。</filiation>  
                         </msItem>

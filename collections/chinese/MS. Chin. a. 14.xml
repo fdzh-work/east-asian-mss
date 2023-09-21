@@ -51,13 +51,14 @@
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>A scroll of Chinese calligraphy written by Shan Qi (1866-1922), Prince Su of Qing dynasty. 
+                        <summary>A scroll of Chinese calligraphy written by Shan Qi (善耆, 1866-1922), Prince Su of Qing dynasty. 
                             </summary>
                         <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
                         
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
+                            <title key="supplied title">PRINCE SU: [calligraphy]</title>
                             <title>大唐三藏聖教序</title>
                             <author key="Chinese">肅親王</author>
                             <note>善耆（1866-1922），字艾堂，愛新覺羅氏，滿洲鑲白旗人，第十代肅親王，晚清皇族重臣，慶親王内閣成員，政學會會員。</note>

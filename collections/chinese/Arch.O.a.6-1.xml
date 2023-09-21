@@ -58,7 +58,8 @@
                   <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                      <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                      <locus><!-- insert --></locus>
-                     <title key="">永樂大典：卷八百七之八百八</title>
+                     <title>Yung lo ta tien<note>7 vols. chÜan 807-808; 1036-1037; 5244-45; 13872-73; 15073-75; 16217-18. For chÜan 14607-07 see Ms.Chin.b.9</note></title>
+                     <title>永樂大典：卷八百七之八百八</title>
                      <title>Yongle da dian: juan 807-808</title>
                      <editor>解縉</editor>
                      <rubric>永樂大典</rubric>
@@ -153,8 +154,7 @@
                   </provenance>
                   <!-- use additional provenance elements if necessary -->
                   <acquisition>
-                     <!-- insert -->
-                     <!-- use dating attributes where possible -->
+                     acquired in 1950
                   </acquisition>
                </history>
                <additional>

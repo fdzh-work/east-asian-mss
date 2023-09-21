@@ -59,6 +59,7 @@
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
+                            <title>Yung lo ta tien<note>7 vols. chÜan 807-808; 1036-1037; 5244-45; 13872-73; 15073-75; 16217-18. For chÜan 14607-07 see Ms.Chin.b.9</note></title>
                             <title key="">永樂大典:卷一萬五千七十三之一萬五千七十五</title>
                             <title>Yongle da dian: juan 15073-15075</title>
                             <editor>解縉</editor>
@@ -150,10 +151,7 @@
                             The seven volumes MS.Chin.a.17-23 were purchased by A.F.L (“Freddie”) Beeston, Keeper of Oriental Books, from Mr. James Cleugh for £100 in November 1950 (Bodleian Library, unreferenced correspondence in a box marked “Chinese” in the New Library, Room 127) and “are said to have been in the possession of Mr. H.B. Bristow, a member of the British Consulate in Tientsin in the eighteen-seventies” (Beeston, 199). Bristow, the son of an inn keeper in South Lynn, Norfolk, entered the consular service in 1867 at the age of 18, and subsequently became consul at Chefoo and Tientsin. He retired on grounds of ill health in 1897, and does not appear to have been present during the Siege. There was however a “Student Interpreter” H.H. Bristow present at the Siege (Giles, Lancelot, 180), and it is possible that it is he who might have acquired the volumes. None of them bears any inscriptions. As shown in Yuan Tongli's list and Zhang Chenshi's list  
                         </provenance>
                         <!-- use additional provenance elements if necessary -->
-                        <acquisition>
-                            <!-- insert -->
-                            <!-- use dating attributes where possible -->
-                        </acquisition>
+                        <acquisition>acquired in 1950</acquisition>
                     </history>
                     <additional>
                         <adminInfo>
