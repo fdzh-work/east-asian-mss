@@ -51,19 +51,22 @@
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>A hanging scroll of calligraphy in the Kai Shu style. One piece of a couplet, pairing with Backhouse Rolls a. 38 (2).</summary>
+                        <summary>A pair of hanging scrolls of calligraphy in the Kai Shu style. 楷書十四言對聯</summary>
                         <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
                         
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
                             
-                            <title type="desc">calligraphy</title>
+                            <title type="desc">楷書十四言對聯</title>
                             <author key="Chinese">unknown</author>
+                            <title type="上聯">上聯</title>
                             <incipit>勑國儲為天下之本師導</incipit>
                             <incipit>乃元良之教將以本固必</incipit>      
-                            
-                            <filiation>書法卷軸，中外孤本。</filiation>  
+                            <title type="下聯">下聯</title>
+                            <incipit>由教先非求鈡賢何以審</incipit>
+                            <incipit>諭光祿大夫行吏部尚書</incipit> 
+                            <filiation>書法卷軸，中外孤本。</filiation> 
                         </msItem>
                         <!-- insert further msItem elements as appropriate --> 
                         
@@ -131,7 +134,7 @@
                                 <settlement><!-- insert --></settlement>,
                                 <orgName><!-- insert --></orgName>
                             </origPlace>
-                            <origDate notAfter="1800" notBefore="1700" calendar="Gregorian">清代</origDate>
+                            <origDate notAfter="1800" notBefore="1700" calendar="Gregorian">疑為晚清</origDate>
                             <!-- use additional origPlace and origDate elements if necessary -->
                         </origin>
                         <provenance>

@@ -59,7 +59,7 @@
                             <locus><!-- insert --></locus>
                             <title key="supplied title">LIU YUNG:[Calligraphy: two scrolls].</title>
                             <title type="對聯">清劉墉楷書七言聯</title>
-                            <author key="Chinese">劉墉（1719-1805）</author>
+                            <author key="Chinese">可能爲<persName>劉墉（1719-1805）</persName>手跡</author>
                             <title type="上聯">上聯</title>
                             <incipit>閑尋綺思千花麗</incipit>
                             <title type="下聯">下聯</title>
@@ -77,7 +77,7 @@
                         <objectDesc form="卷軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
                             <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
                                 <support>mulberry and bamboo mixed paper</support>
-                                <extent>1 scroll
+                                <extent>2 scrolls 二軸
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
                         https://git.io/msdescdoc#leafDimensions

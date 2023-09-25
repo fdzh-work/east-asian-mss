@@ -9,7 +9,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Backhouse Rolls a. 38 (1)</title>
+                <title>Backhouse Rolls a. 32 (1)</title>
                 
                 <respStmt>
                     <resp>Cataloguer</resp>
@@ -44,24 +44,37 @@
                     <msIdentifier>
                         <settlement><!-- insert --></settlement>
                         <repository>Bodleian Library</repository><!-- change if necessary -->
-                        <idno type="shelfmark">Backhouse Rolls a. 38 (1)</idno>
+                        <idno type="shelfmark">Backhouse Rolls a.32</idno>
                         
                         
                     </msIdentifier>
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>A hanging scroll of calligraphy in the Kai Shu style. One piece of a couplet, pairing with Backhouse Rolls a. 38 (2).</summary>
+                        <summary>A pair of hanging scrolls of calligraphy in the Xing Shu style, claimed to be written by Aisin Gioro Yongxing (愛新覺羅永瑆), the eleventh son of Qianlong Emperor of Qing dyasnty.</summary>
                         <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
                         
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
                             
-                            <title type="desc">calligraphy</title>
-                            <author key="Chinese">unknown</author>
-                            <incipit>勑國儲為天下之本師導</incipit>
-                            <incipit>乃元良之教將以本固必</incipit>      
+                            <title type="desc">A pair of hanging scrolls in Xing Shu style, claimed to be written by Prince Cheng, the 11th son of Emperor Qian Long of Qing dynasty.</title>
+                            <author key="Chinese">或為<persName>愛新覺羅永瑆（1752-1823）</persName>手跡</author>
+                            <title type="對聯">清成親王行書七言聯</title>
+                            <title type="上聯">上聯</title>
+                            <incipit>雲生紫殿幡花濕</incipit>
+                            <explicit type="背面">皇十一子字</explicit>
+                            <explicit type="背面">Backhouse Rolls a.32</explicit>
+                            
+                            <title type="下聯">下聯</title>
+                            <incipit>月暎珠光貝闕寒</incipit>
+                            <incipit>皇十一子書</incipit>
+                            <incipit type="seal">皇考書印</incipit>
+                            <incipit type="seal">敬慎</incipit>
+                            <explicit type="背面">pair of scrolls by cheng ching ?. Prince  Cheng who was the 11 son of Emperor Ch'ian Lung and is considered as one of the four great calligrapher of the  Qing dynasty.</explicit>
+                            <explicit type="背面">? of ying. Weng Fang Rong, Pu Chang Chao.</explicit>
+                            <explicit type="背面">Backhouse Rolls a. 32(2)</explicit>
+                            <explicit type="背面">皇十一子字</explicit>
                             
                             <filiation>書法卷軸，中外孤本。</filiation>  
                         </msItem>
@@ -70,9 +83,9 @@
                     </msContents>
                     <physDesc>
                         
-                        <objectDesc form="橫批"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
-                            <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                                <support>mulberry and bamboo mixed paper</support>
+                        <objectDesc form="立軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
+                            <supportDesc material="絹本"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
+                                <support>絹本</support>
                                 <extent>2 scrolls 二軸
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
@@ -86,7 +99,7 @@
                                 <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>書法卷軸，紙本。</layout>
+                                <layout>書法立軸，絹本，對聯。</layout>
                                 
                             </layoutDesc>
                             
@@ -94,7 +107,7 @@
                         
                         <handDesc><!-- use the @hands attribute to record the number of scribes -->
                             <handNote>
-                                Text written in 楷書 (kai shu, regular) calligraphic style.
+                                Text written in Xing Shu calligraphic style.
                             </handNote>
                             <!-- use additional handNote elements if necessary 
                      https://git.io/msdescdoc#handdesc
@@ -111,8 +124,8 @@
                         
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
-                                <p>卷軸</p>
-                                <decoNote>卷軸，裝裱方式為一色裱，天頭與地脚為白色有花紋絲織物。背面有淡藍色絲織物錦包首，題簽為空白。</decoNote>
+                                <p>立軸</p>
+                                <decoNote>立軸，裝裱方式為一色裱，天頭地脚及邊框為藍色黃色綠色有花紋絲織物。書法寫與黃色有花紋絲織物上。兩軸背面天杆処都寫有”皇十一子付”字樣。</decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>
@@ -131,11 +144,12 @@
                                 <settlement><!-- insert --></settlement>,
                                 <orgName><!-- insert --></orgName>
                             </origPlace>
-                            <origDate notAfter="1800" notBefore="1700" calendar="Gregorian">清代</origDate>
+                            <origDate notAfter="1800" notBefore="1700" calendar="Gregorian">清中期</origDate>
                             <!-- use additional origPlace and origDate elements if necessary -->
                         </origin>
-                        <provenance>
-                        </provenance>
+                        <provenance>On the top of the back of the second scroll [Backhouse Rolls a. 38 (2)], some text are probably written by Backhouse. On the right is “Autograph of Prince Cheng, Chienlung’s son …”. 
+                            “Pair of scrolls by Cheng Ching  Pung ?eng who was the 11 son of Emperor Chienlung, who is considered as one of the four great calligrapher of present dynasty”.
+                            “jing Weng Fang Rong ching chao”.</provenance>
                         
                         
                         <!-- use additional provenance elements if necessary -->
