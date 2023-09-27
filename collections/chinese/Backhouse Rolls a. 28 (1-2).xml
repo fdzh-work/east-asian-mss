@@ -51,7 +51,7 @@
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>A hanging scroll of calligraphy in the Kai Shu style written by Zuo Zongtang (左宗棠, 1812-1885).</summary>
+                        <summary>A hanging scroll of calligraphy in the Xing Shu style written by Zuo Zong Tang (左宗棠, 1812-1885).</summary>
                         <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
                         
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
@@ -63,12 +63,13 @@
                             <title type="上聯">上聯</title>
                             <incipit>溪雲雑雨來茅屋</incipit>
                             <incipit type="seal">旂常(矛心)績</incipit>
-                            <explicit>左宗棠 对 scroll by Tso Tsung-Tang</explicit>
+                            <explicit type="背面">左宗棠 对 scroll by Tso Tsung-Tang The ? ? statesman</explicit>
                             <title type="下聯">下聯</title>
                             <incipit>庭竹移陰就小齋</incipit>
                             <incipit>左宗棠</incipit>
                             <incipit type="seal">大學士章</incipit>
                             <incipit type="seal">清宮太保恪靖侯</incipit>
+                            <explicit type="背面">B/319 左宗棠 对</explicit>
                             <filiation>書法卷軸，中外孤本。</filiation>  
                         </msItem>
                         <!-- insert further msItem elements as appropriate --> 
@@ -118,7 +119,7 @@
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
                                 <p>立軸</p>
-                                <decoNote>立軸，裝裱方式為一色裱，天頭地脚及邊框為米白色有花紋絲織物。書法寫與黃色有花紋絲織物上。</decoNote>
+                                <decoNote>立軸，裝裱方式為一色裱，天頭地脚及邊框為米白色有花紋絲織物，天頭背面有破損。書法寫與黃色紙本上。</decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>
