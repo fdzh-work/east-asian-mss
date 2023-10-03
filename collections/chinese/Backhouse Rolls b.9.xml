@@ -79,8 +79,8 @@
                     <physDesc>
                         
                         <objectDesc form="立軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
-                            <supportDesc material="絹本"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                                <support>silk</support>
+                            <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
+                                <support>mulberry and bamboo mixed paper</support>
                                 <extent>2 scrolls 二軸
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
@@ -119,7 +119,7 @@
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
                                 <p>立軸</p>
-                                <decoNote>立軸,一色裱。天頭地脚和邊是綠色有花紋絲織物。畫心為黃色絲織物伴有祥雲騰龍花紋，龍有五爪。</decoNote>
+                                <decoNote>立軸,一色裱。天頭地脚和邊是淺藍色絲織物。畫心為黃色紙本伴有祥雲騰龍花紋，龍有五爪。</decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>
