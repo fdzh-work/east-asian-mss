@@ -9,7 +9,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Backhouse Rolls b.24</title>
+                <title>Backhouse Rolls b.26</title>
                 
                 <respStmt>
                     <resp>Cataloguer</resp>
@@ -44,44 +44,38 @@
                     <msIdentifier>
                         <settlement><!-- insert --></settlement>
                         <repository>Bodleian Library</repository><!-- change if necessary -->
-                        <idno type="shelfmark">Backhouse Rolls b.24</idno>
+                        <idno type="shelfmark">Backhouse Rolls b.26</idno>
                         
                         
                     </msIdentifier>
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>A horizontal scroll of calligraphy in the Xing Shu style written attributed to Huang Ting Jian (黃庭堅, 1045-1105).</summary>
+                        <summary>A scroll of Chinese painting depicts landscapes by Dong Bang Da (董邦達, 1699-1769) of Qing dynasty. </summary>
                         <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
                         
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
+                            <title type="desc">清董邦達山水畫 軸</title>
+                            <author key="Chinese">董邦達 （1699-1769）</author>
+                            <note>董邦達，字孚聞,號東山,浙江富陽人,官至禮部尚書，善畫山水，與董源、董其昌合稱古今三董。</note>
+                            <incipit type="款識">董邦達恭敬繪</incipit>
+                            <incipit type="seal">董邦達</incipit>
+                            <incipit type="seal">東山</incipit>
+                            <explicit type="題簽">董邦達</explicit>
+                            <explicit type="背面">B/335</explicit>
+                            <filiation>手繪卷軸，中外孤本。</filiation>
                             
-                            <title type="desc">宋黃庭堅書邵雍秋懷詩</title>
-                            <author key="Chinese">黃庭堅</author>
-                            <incipit>明月生海心涼風起天末物象自呈露襟懷驟披豁悟盡周孔道解開仁義結禮灋本防姦豈為吾曹設
-                                踈雨滴高梧微風挼弱柳此景嵗嵗同世人自白首俗慮易縈仍塵襟難抖擻浮生已夢中期間強為有
-                                清湍文鴛鴦寒潭繍鸂鶒長天净如水不廢秋江碧男子一寸心壯士萬夫敵菡萏香風中扁舟會相憶
-                                昨日思沃漿今日思去扇豈止戈矛炎涼自交戰利害生乎情好尚存乎見欲人為善人必須自為善
-                                甘瓜青如藍紅桃鮮若血不忍以手拈而況用齒齧其色已可愛其味又更絕食此無珍言哀哉口與舌
-                                清風無人兼自可入吾手明月無人並自可入吾牖中心既可平外物何常誘余事豈足論但恐樽無酒
-                                青蕉葉披敷碧蘆枝偃亞風雨蕭蕭天更漏沉沉夜彼物固無嫌此情又何訝但念征路人天涯尚留掛 
-                                淡煙羃疏林輕風裊寒雨日暮人已歸群雞猶啄黍此心固不動此事極難處一言以蔽之尚恐費言語
-                                八月炎涼均氣味亦自好臨虛喬木低遠望行人小有跡事皆妄無心物都了何須更問辛願君自食蓼</incipit>
-                            <incipit type="款識"><date>元豐二年秋月二日書</date><persName>庭堅</persName></incipit>
-  
-                            <filiation>書法橫披，中外孤本。</filiation>  
                         </msItem>
-                        <!-- insert further msItem elements as appropriate --> 
-                        
+                        <!-- insert further msItem elements as appropriate -->
                     </msContents>
                     <physDesc>
                         
                         <objectDesc form="卷軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
-                            <supportDesc material="絹本"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                                <support>silk</support>
-                                <extent>1 scroll
+                            <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
+                                <support>mulberry and bamboo mixed paper</support>
+                                <extent>畫心
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
                         https://git.io/msdescdoc#leafDimensions
@@ -94,23 +88,28 @@
                                 <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>書法卷軸，絹本。</layout>
+                                <layout>卷軸，紙本，設色。</layout>
                                 
                             </layoutDesc>
-                            
                         </objectDesc>
                         
                         <handDesc><!-- use the @hands attribute to record the number of scribes -->
                             <handNote>
-                                Text written in 行書 (xing shu, semi-cursive) calligraphic style.
-                            </handNote>
+                                Text written in 楷書 (kai shu, regular) calligraphic style.
+                                設色山水畫</handNote>
                             <!-- use additional handNote elements if necessary 
                      https://git.io/msdescdoc#handdesc
                      -->
                         </handDesc>
-                        
+                        <musicNotation>
+                            <p><!-- insert if relevant, otherwise delete --></p>
+                            <!-- use additional p elements if necessary 
+                     https://git.io/msdescdoc#musicnotation
+                     -->
+                        </musicNotation>
                         <decoDesc>
-                            <decoNote>
+                            <decoNote>大鑲手卷，天為藍色絲織物，有磨損和褪色痕跡。隔水為淺藍色絲織物，有磨損待修復。引首為白色紙本，有破損，
+                                拖尾為白色紙本，略有污跡。邊為淺藍色絲織物，有破損。錦包首為藍色絲織物伴有棕紅色花紋，題簽為白色紙本，上書"董邦達"。
                             </decoNote>
                             <!-- use additional decoNote elements if necessary 
                      https://git.io/msdescdoc#decodesc
@@ -118,10 +117,9 @@
                         </decoDesc>
                         
                         <bindingDesc>
-                            <binding when="1800"><!-- use dating attributes to record the date -->
+                            <binding when="1700"><!-- use dating attributes to record the date -->
                                 <p>卷軸</p>
-                                <decoNote>小鑲手卷，錦包首為米黃色絲織物伴有藍色和綠色花紋，題簽為棕色紙本，八寶帶為棕色絲織物，別子已缺損。天為淺藍色有花紋絲織物，隔水為米白色有花紋絲織物，
-                                    引首為黃色紙本，撞邊為黃色，拖尾為白色紙本 裝裱方式為一色裱，雙耳及邊為米白色有花紋絲織物。書法寫與黃色紙上。</decoNote>
+                                <decoNote><!-- insert relevant information, otherwise delete --></decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>
@@ -140,11 +138,10 @@
                                 <settlement><!-- insert --></settlement>,
                                 <orgName><!-- insert --></orgName>
                             </origPlace>
-                            <origDate notAfter="1900" notBefore="1800" calendar="Gregorian">claimed to be created in 1079</origDate>
+                            <origDate notAfter="1900" notBefore="1600" calendar="Gregorian">清中期</origDate>
                             <!-- use additional origPlace and origDate elements if necessary -->
                         </origin>
-                        <provenance>
-                        </provenance>
+                        <provenance> </provenance>
                         
                         
                         <!-- use additional provenance elements if necessary -->
@@ -191,3 +188,6 @@
         </body>
     </text>
 </TEI>
+
+
+
