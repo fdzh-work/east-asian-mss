@@ -9,7 +9,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>MS. Chin. a. 1 (R)</title>
+                <title>MS.Chin.a.1(R)</title>
                 
                 <respStmt>
                     <resp>Cataloguer</resp>
@@ -44,14 +44,15 @@
                     <msIdentifier>
                         <settlement><!-- insert --></settlement>
                         <repository>Bodleian Library</repository><!-- change if necessary -->
-                        <idno type="shelfmark">MS. Chin. a. 1 (R)</idno>
+                        <idno type="shelfmark">MS.Chin.a.1(R)</idno>
                         
                         
                     </msIdentifier>
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>A hand scroll featuring a portrait of the Xianfeng Emperor (1831-1861) of the Qing dynasty, accompanied by calligraphy written by the Xianfeng Emperor himself.</summary>
+                        <summary>A hand scroll featuring a portrait of the Xianfeng Emperor (1831-1861) of the Qing dynasty, 
+                                 along with his own calligraphy</summary>
                         <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
                         
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
