@@ -9,8 +9,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>
-                    Backhouse Rolls c.5</title>
+                <title>Backhouse Rolls c.20</title>
                 
                 <respStmt>
                     <resp>Cataloguer</resp>
@@ -45,40 +44,38 @@
                     <msIdentifier>
                         <settlement><!-- insert --></settlement>
                         <repository>Bodleian Library</repository><!-- change if necessary -->
-                        <idno type="shelfmark">
-                            Backhouse Rolls c.5</idno>
+                        <idno type="shelfmark">Backhouse Rolls c.20</idno>
                         
                         
                     </msIdentifier>
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>A pair of scrolls of calligraphy in the Xing Shu style attributed to Liu Yong (1719-1805).</summary>
+                        <summary>A hanging scroll of Chinese painting and calligraphy attributed to Dong Qi Chang (董其昌，1555-1636).</summary>
                         <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
                         
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            <title type="desc">清劉墉行書七言聯 軸</title>
-                            <author key="Chinese">劉墉(1719-1805)</author>
-                            <title type="上聯">上聯</title>
-                            <incipit>入我澹懷秋月白</incipit>
-                            
-                            <title type="下聯">下聯</title>
-                            <incipit>迎人爽氣遠山青</incipit>    
-                            <incipit type="seal">劉墉之印</incipit>
-                            <incipit type="seal">石菴</incipit>
-                            <filiation>書法卷軸，中外孤本。</filiation>  
+                            <title>明董其昌畫山水圖 卷</title>
+                            <author key="Chinese">董其昌（1555-1636）</author>
+                            <incipit>辛亥二月</incipit>
+                            <incipit type="款識">玄宰畫</incipit>
+                            <incipit type="seal">玄賞堂</incipit>
+                            <incipit type="seal">昌</incipit>
+                            <explicit type="題簽">玄寧 畫</explicit>
+                            <explicit type="背面">B/340</explicit>
+                            <filiation>書畫卷軸，中外孤本。</filiation>  
                         </msItem>
                         <!-- insert further msItem elements as appropriate --> 
                         
                     </msContents>
                     <physDesc>
                         
-                        <objectDesc form="立軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
+                        <objectDesc form="卷軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
                             <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
                                 <support>mulberry and bamboo mixed paper</support>
-                                <extent>2 scrolls 二軸
+                                <extent>1 scroll
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
                         https://git.io/msdescdoc#leafDimensions
@@ -91,7 +88,7 @@
                                 <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>书法卷轴.墨色书写，紙本。</layout>
+                                <layout>书畫卷軸，紙本不設色。</layout>
                                 
                             </layoutDesc>
                             
@@ -115,8 +112,9 @@
                         
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
-                                <p>立軸</p>
-                                <decoNote>立軸,裝裱方式為一色裱，天頭與地脚為黑色有金色花紋絲織物。上聯的天杆和天頭以及畫心的右上角缺損。</decoNote>
+                                <p>卷軸</p>
+                                <decoNote>卷軸,大鑲手卷。錦包首為藍色帶淺棕色花紋絲織物，題簽為米黃色紙本。天為米白色絲織物，
+                                    隔水與副隔水為白色和淺黃色絲織物，邊為白色絲織物，引首和拖尾為米白色紙本。</decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>
@@ -131,11 +129,11 @@
                             <!-- see https://git.io/msdescdoc#origin -->
                             <origPlace>
                                 <country>China</country>,
-                                <region>Beijing</region>,
+                                <region><!-- insert --></region>,
                                 <settlement><!-- insert --></settlement>,
                                 <orgName><!-- insert --></orgName>
                             </origPlace>
-                            <origDate notAfter="1900" notBefore="1800" calendar="Gregorian">晚清</origDate>
+                            <origDate notAfter="1900" notBefore="1800" calendar="Gregorian">1611 （存疑）</origDate>
                             <!-- use additional origPlace and origDate elements if necessary -->
                         </origin>
                         <provenance> </provenance>

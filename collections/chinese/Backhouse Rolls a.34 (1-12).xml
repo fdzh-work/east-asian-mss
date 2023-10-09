@@ -9,7 +9,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Backhouse Rolls a.34 (1-12)</title>
+                <title>Backhouse Rolls a.34(1-12)</title>
                 
                 <respStmt>
                     <resp>Cataloguer</resp>
@@ -44,21 +44,22 @@
                     <msIdentifier>
                         <settlement><!-- insert --></settlement>
                         <repository>Bodleian Library</repository><!-- change if necessary -->
-                        <idno type="shelfmark">Backhouse Rolls a.34 (1-12)</idno>
+                        <idno type="shelfmark">Backhouse Rolls a.34(1-12)</idno>
                         
                         
                     </msIdentifier>
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>A set of 12 scrolls of calligraphy claimed to be created by Su Shi (1037-1101) of Song dynasty; however, it is more likely to be fake.</summary>
+                        <summary>A set of 12 scrolls of calligraphy claimed to be created by Su Shi (1037-1101) of Song dynasty;
+                                 however, it is more likely to be fake.</summary>
                         <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
                         
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
                             <title>洞庭春色賦</title>
-                            <author key="Chinese">蘇軾<note>疑爲贋品，并非蘇軾手跡。</note></author>
+                            <author key="Chinese">蘇軾<note>疑爲贋品，非蘇軾手跡。</note></author>
                             <note>The shelfmarks attributed to this set of scrolls do not correspond the text of Dong Ting Chun Se Fu,
                                 and the content of each scroll is displayed following the order of shelfmarks.
                                 Furthermore, the text written on the scroll does not fully match that of Dong Ting Chun Se Fu.</note>
