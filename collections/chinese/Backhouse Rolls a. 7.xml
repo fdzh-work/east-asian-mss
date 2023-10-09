@@ -57,9 +57,9 @@
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            <title>立軸</title>
+                            <title>清李鴻章書汪由敦論歷代名家法書卷節選 軸</title>
                             <author key="Chinese">李鴻章</author>
-                            <incipit>黃涪翁云大字無過瘞鶴銘小字無過遺教經今世所傳遺教直唐經生乎耳</incipit>
+                            <incipit>黃涪翁云，大字無過瘞鶴銘，小字無過遺教經。今世所傳遺教，直唐經生乎耳。</incipit>
                             <incipit type="seal">臣鴻章印</incipit>
                             <incipit type="seal">少荃</incipit>
                             <incipit type="seal">中堂肅毅伯章</incipit>
