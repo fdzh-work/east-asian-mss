@@ -9,7 +9,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Backhouse Rolls b.25</title>
+                <title>Backhouse Rolls d.3</title>
                 
                 <respStmt>
                     <resp>Cataloguer</resp>
@@ -44,31 +44,30 @@
                     <msIdentifier>
                         <settlement><!-- insert --></settlement>
                         <repository>Bodleian Library</repository><!-- change if necessary -->
-                        <idno type="shelfmark">Backhouse Rolls b.25</idno>
+                        <idno type="shelfmark">Backhouse Rolls d.3</idno>
                         
                         
                     </msIdentifier>
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>A scroll of Chinese painting depicts landscapes by Prince Shen (慎郡王, 1711-1758) of Qing dynasty. </summary>
+                        <summary>A scroll of Chinese painting depicts birds and plants by Zhang Nai Qi (張迺耆) of Qing dynasty. </summary>
                         <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
                         
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            <title type="desc">清慎郡王山水畫 卷</title>
-                            <author key="Chinese">愛新覺羅允禧（1711-1758）</author>
-                            <note>愛新覺羅允禧,康熙第二十一子,字謙齋,號紫噊,別號紫瓊道人,春浮居士，清代書畫家詩人，書畫造詣頗高，据傳與鄭板橋私交甚篤。</note>
-                            <incipit>余生平所見 慈文貴大約 似北苑更以 林壑深窈煙
-                                     靄漸茫取勝 繼於王子東 莊出觀巨幅 峰巒雄偉
-                                     屋宇精妍 廽逾常格 心竊慕之此 卷適擺其 法然稚筆
-                                     學步終未新 夢見也</incipit>
-                            <incipit type="款識">乙丑嘉平上浣<persName type="號"></persName>紫瓊道人</incipit>
-                            <incipit type="seal">寄情</incipit>
-                            <incipit type="seal">允禧</incipit>
-                            <explicit type="題簽">紫瓊道人</explicit>
-                            <explicit type="背面">B/346</explicit>
+                            <title type="desc">清張迺耆橫塘秋雨圖 卷</title>
+                            <author key="Chinese">張迺耆（生卒年不詳)</author>
+                            <note>張迺耆，字寿民,号白眉、白门,安徽桐城人,寓居江苏南京,吾从子,生卒年不详。</note>
+                            <incipit>橫塘秋雨 <persName>迺耆</persName></incipit>
+                            <incipit type="seal">張迺耆印</incipit>
+                            <incipit>山桃枝上鳥鳴聲，相是天台寄語情。蕭客劉郎今白首，詩懷綺麗答花明。</incipit>
+                            <incipit type="款識">壬午長夏奉雪植年兄大人哂政<persName>張迺耆</persName></incipit>
+                            <incipit type="seal">張迺耆印</incipit>
+                            <incipit type="seal">壽民</incipit>
+                            <explicit type="題簽">張迺耆</explicit>
+                            <explicit type="背面">B/341</explicit>
                             <filiation>手繪卷軸，中外孤本。</filiation>
                             
                         </msItem>
@@ -92,7 +91,7 @@
                                 <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>卷軸，紙本，白描。</layout>
+                                <layout>卷軸，紙本，設色。</layout>
                                 
                             </layoutDesc>
                         </objectDesc>
@@ -100,7 +99,7 @@
                         <handDesc><!-- use the @hands attribute to record the number of scribes -->
                             <handNote>
                                 Text written in 行書 (xing shu, semi-cursive) calligraphic style.
-                                白描山水畫</handNote>
+                                設色花鳥畫。沒骨法。</handNote>
                             <!-- use additional handNote elements if necessary 
                      https://git.io/msdescdoc#handdesc
                      -->
@@ -112,8 +111,8 @@
                      -->
                         </musicNotation>
                         <decoDesc>
-                            <decoNote>小鑲手卷，天為藍色絲織物。隔水為白色絲織物。引首為淡黃色紙本，拖尾為白色紙本。邊為米色絲織物。
-                                錦包首為土黃色絲織物伴有棕色花紋，題簽為黃色紙本，上書"紫瓊道人"。
+                            <decoNote>大鑲手卷，天為淡藍色有花紋絲織物，有污損和褪色痕跡。副隔水為淺藍色有花紋絲織物，隔水為白色絲織物。引首為白色紙本已汎黃，
+                                拖尾為白色紙本，略有污跡。邊為白色絲織物。錦包首為藍色絲織物伴有淺份色和淺藍色花紋，八寶帶為黃色，題簽為白色紙本。
                             </decoNote>
                             <!-- use additional decoNote elements if necessary 
                      https://git.io/msdescdoc#decodesc
@@ -121,7 +120,7 @@
                         </decoDesc>
                         
                         <bindingDesc>
-                            <binding when="1700"><!-- use dating attributes to record the date -->
+                            <binding when="1800"><!-- use dating attributes to record the date -->
                                 <p>卷軸</p>
                                 <decoNote><!-- insert relevant information, otherwise delete --></decoNote>
                             </binding>
@@ -142,7 +141,7 @@
                                 <settlement><!-- insert --></settlement>,
                                 <orgName><!-- insert --></orgName>
                             </origPlace>
-                            <origDate notAfter="1900" notBefore="1600" calendar="Gregorian">清中期</origDate>
+                            <origDate notAfter="1900" notBefore="1800" calendar="Gregorian">清中晚期</origDate>
                             <!-- use additional origPlace and origDate elements if necessary -->
                         </origin>
                         <provenance> </provenance>
