@@ -57,19 +57,18 @@
                         
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
-                            <locus><!-- insert --></locus>
-                            <title key="supplied title">An album of 12 Chinese export paintings of flowers and insects
+                            <title>Twelve paintings of flowers and insects by a Cantonese</title>
+                            <title key="desc">An album of twelve Chinese export paintings of flowers and insects
                                 清代外銷畫花卉昆蟲十二幅 冊</title>
                             <author key="Chinese">Chowkwa, Painter and Copier of Charts</author>
-                            <incipit>Chowkwa, Painter and Copier of Charts<locus>inside lower cover</locus></incipit>
-                            <incipit type="theme">butterfly</incipit>
-                            <incipit type="theme">bee</incipit>
-                            <incipit type="theme">rose</incipit>
-                            <incipit type="theme">orchid</incipit>
-                            <incipit type="theme">tree peony</incipit>
-                            <filiation>外銷畫，多為批量生產，可能多有存世。
-                                       Chinese export paintings are usually produced in large quantity,
-                                       therefore, there may be other existing copies.</filiation>  
+                            <incipit><locus>Inside upper cover</locus>S.C.33023</incipit>
+                            <incipit><locus>Inside upper cover</locus>Unrecognized scripts could be Bengali.</incipit>
+                            <incipit><locus>Inside lower cover</locus>Chowkwa, Painter and Copier of Charts</incipit>
+                            <incipit type="theme">portrait</incipit>
+                            
+                            <filiation>Chinese export paintings are usually produced in large quantity,
+                                therefore, there may be other existing copies.
+                                外銷畫，多為批量生產，可能多有存世。</filiation>  
                         </msItem>
                         <!-- insert further msItem elements as appropriate --> 
                         
@@ -77,9 +76,10 @@
                     <physDesc>
                         
                         <objectDesc form="冊"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
-                            <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                                <support>mulberry and bamboo mixed paper</support>
-                                <extent>一冊共十二頁
+                            <supportDesc material="通草紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
+                                <support>pith paper</support>
+                                <extent>Fourteen folios, including twelve paintings. 
+                                    一冊共十四頁，包含十二幅畫。
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
                         https://git.io/msdescdoc#leafDimensions
@@ -89,18 +89,19 @@
                                     <!-- use additional dimensions elements if necessary -->
                                 </extent>
                                 
-                                <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
+                                <condition>Several pages of supporting paper exhibit stains and watermarks. 
+                                            Some paintings also display signs of damage and stains.<!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>Watercolour and ink on Chinese paper</layout>
+                                <layout></layout>
                                 
                             </layoutDesc>
                             
                         </objectDesc>
                         
                         <handDesc><handNote>
-                            Text written in 楷體 (kai shu, regular) calligraphic style</handNote><!-- use the @hands attribute to record the number of scribes -->
-                           <!-- <handNote> </handNote> --> 
+                            Watercolour 水彩畫</handNote><!-- use the @hands attribute to record the number of scribes -->
+                            <!-- <handNote> </handNote> --> 
                             <!-- use additional handNote elements if necessary 
                      https://git.io/msdescdoc#handdesc
                      -->
@@ -117,7 +118,8 @@
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
                                 <p>冊</p>
-                                <decoNote>畫冊，内含十二幅畫。封面和封底由黃色帶有紅、粉、藍、綠四色花紋的絲織物裝裱，畫心由綠色條狀絲織物為框裝裱在白色紙本上。</decoNote>
+                                <decoNote>畫冊，内含十二幅畫。封面和封底由黃色帶有紅、粉、藍、綠四色花紋的絲織物裝裱，
+                                    畫心由綠色條狀絲織物為框裝裱在白色紙本上。封面和封底上包有用黑色防水織物製作的書皮。</decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>
@@ -139,14 +141,12 @@
                             <origDate notAfter="1900" notBefore="1700" calendar="Gregorian">清代</origDate>
                             <!-- use additional origPlace and origDate elements if necessary -->
                         </origin>
-                        <provenance> </provenance>
+                        <provenance>On the inside of upper cover, a seal in red colour is found, showing Chowkwa Painter and Copier of Charts, indicating the painter.
+                            Previous shelfmark: S.C.33023 (as indicated on the inside upper cover)</provenance>
                         
                         
                         <!-- use additional provenance elements if necessary -->
-                        <acquisition>
-                            <!-- insert -->
-                            <!-- use dating attributes where possible -->
-                        </acquisition>
+                        <acquisition>Acquired in 1901 </acquisition>
                     </history>
                     <additional>
                         <adminInfo>
