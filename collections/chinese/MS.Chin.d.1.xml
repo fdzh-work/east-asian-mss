@@ -9,7 +9,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>MS.Chin.c.21</title>
+                <title>MS.Chin.d.1</title>
                 
                 <respStmt>
                     <resp>Cataloguer</resp>
@@ -44,109 +44,62 @@
                     <msIdentifier>
                         <settlement><!-- insert --></settlement>
                         <repository>Bodleian Library</repository><!-- change if necessary -->
-                        <idno type="shelfmark">MS.Chin.c.21</idno>
+                        <idno type="shelfmark">MS.Chin.d.1</idno>
                         
                         
                     </msIdentifier>
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>A set of four albums featuring portraits of famous emperors and ministers from 
-                                 Chinese history, spanning from the mythological era to the Ming dynasty.</summary>
+                        <summary>An album featuring twelve Chinese paintings of figures and immortals, imitating the brush strokes of Lu Shi Dao (陸師道, 1510-1573).</summary>
                         <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
                         
-                        <msItem n="1"><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
+                        <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
-                            <title>君臣圖繪 一</title>
-                            <title key="supplied title">Portraits of great men [Chinese titles with Korean translation] 4 vols
-                                <note>name supplied from the previous catalogue</note></title>
-                            <title type="other">Jun chen tu hui yi
-                                A compilation of portraits featuring famous emperors and ministers from various eras in Chinese history </title>
-                            <author key="Chinese">Unknown</author>
-                            <note>This album is a compilation of Chinese emperors, encompassing a timeline from the mythological era to the Ming dynasty.
-                                  The emperors' portraits range from Pan Gu Shi (盤古氏) to the Ming dynasty's Shi Zong Emperor （明世宗）, also known as Emperor Jia Jing (嘉靖皇帝，1507-1567).</note>
-                            
-                            <filiation>中國畫冊，中外孤本</filiation>  
+                            <title>佚名仿陸師道神仙人物畫十二幅 冊</title>
+                            <title key="supplied title">LU SHIH_TAO: [Album of twelve paintings]<note>name supplied from the previous catalogue</note></title>
+                            <note>could be fake 或爲贋品</note>
+                            <author key="Chinese">佚名</author>
+                            <incipit type="seal">陸氏子傳 </incipit>
+                            <incipit type="seal">五湖漫郎</incipit>
+                            <incipit>辛卯屯日三月二日寫 五湖漫郎陸師道 <note>鈐印:陸氏子傳</note></incipit>
+                            <incipit type="theme">Figures of Daoism 佛道人物</incipit>
+                            <incipit><locus>Inside lower cover</locus>Bought in March 1885 for 80F from Tross of Paris (434 in his cat. no.III for 1885: binding descripbed as of 17th cent.)</incipit>
+                            <filiation>An album of Chinese paintings, only surviving copy.
+                                       中國畫畫冊，中外孤本</filiation>  
                         </msItem>
                         <!-- insert further msItem elements as appropriate --> 
                         
-                        <msItem n="2"><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
-                            <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
-                            <title>君臣圖繪 二</title>
-                            <title key="supplied title">Portraits of great men [Chinese titles with Korean translation] 4 vols
-                                <note>name supplied from the previous catalogue</note></title>
-                            <title type="other">Jun chen tu hui er
-                                A compilation of portraits featuring famous emperors and ministers from various eras in Chinese history </title>
-                            <author key="Chinese">Unknown</author>
-                            <note>This album is a compilation of Chinese ministers, encompassing a timeline from the mythological era to the early 
-                                  Tang dynasty. The ministers’ portraits range from Cang Jie （倉頡） to Xu Jing Zong (許敬宗，592-672).</note>
-                            
-                            <filiation>中國畫冊，中外孤本</filiation>  
-                         </msItem>
-                        <!-- insert further msItem elements as appropriate --> 
-                        
-                        <msItem n="3"><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
-                            <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
-                            <title>君臣圖繪 三</title>
-                            <title key="supplied title">Portraits of great men [Chinese titles with Korean translation] 4 vols
-                                <note>name supplied from the previous catalogue</note></title>
-                            <title type="other">Jun chen tu hui san
-                                A compilation of portraits featuring famous emperors and ministers from various eras in Chinese history </title>
-                            <author key="Chinese">Unknown</author>
-                            <note>This album is a compilation of Chinese ministers, spanning a timeline from the early Tang dynasty to the Yuan dynasty. 
-                                  The portraits of these ministers in this album start from Wei Zheng Gong Zheng (魏鄭公徵), also known as 
-                                  Wei Zheng (魏徵, 580-643), to Zhao Meng Fu (趙孟頫, 1254-1322).</note>
-                            
-                            <filiation>中國畫冊，中外孤本</filiation>  
-                        </msItem>
-                        <msItem n="3"><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
-                            <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
-                            <title>君臣圖繪 四</title>
-                            <title key="supplied title">Portraits of great men [Chinese titles with Korean translation] 4 vols
-                                <note>name supplied from the previous catalogue</note></title>
-                            <title type="other">Jun chen tu hui si
-                                A compilation of portraits featuring famous emperors and ministers from various eras in Chinese history </title>
-                            <author key="Chinese">Unknown</author>
-                            <note>This album is a compilation of famous Chinese ministers from the Ming dynasty, spanning from Xu Wei Gong Da 
-                                 (徐魏公達), also known as Xu Da (徐達, 1332-1385), to Hai Rui (海瑞, 1514-1587).</note>
-                            
-                            <filiation>中國畫冊，中外孤本</filiation>  
-                        </msItem>  
                     </msContents>
                     <physDesc>
                         
                         <objectDesc form="冊"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
                             <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                                <support>Mulberry and bamboo mixed paper</support>
-                                <extent>Volume 1 consists of 72 color portraits, each labeled with names written on the upper-right side. 
-                                        Korean name translations are featured on either the left or right side as tags.
-                                        Volume 2 consists of 76 color portraits, each labeled with names written on the upper-right side. 
-                                        Korean name translations are featured on either the left or right side as tags.
-                                        Volume 3 consists of 75 color portraits, each labeled with names written on the upper-right side. 
-                                        Korean name translations are featured on either the left or right side as tags.
-                                        Volume 4 consists of 66 color portraits, each labeled with names written on the upper-right side. 
-                                        Korean name translations are featured on either the left or right side as tags.
+                                <support>mulberry and bamboo mixed paper</support>
+                                <extent>Fourteen folios, including twelve paintings. 
+                                    一冊共十六開，本幅十二幅，前副頁和后副頁各二開二幅。
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
                         https://git.io/msdescdoc#leafDimensions
-                        -->                           <height>33 cm</height>
-                                        <width>20.5 cm</width>
-                                        <!-- use additional dimensions elements if necessary -->
+                        -->                            <height>26.6 cm</height>
+                                        <width>20.1 cm</width>
                                     </dimensions>
+                                    <!-- use additional dimensions elements if necessary -->
                                 </extent>
                                 
-                                <condition>封面有磨損痕跡，標題字跡模糊，有水印，封底内頁有蟲蛀痕跡，封底有脫落痕跡。</condition>
+                                <condition>The silk textile on the cover shows signs of fading and damage, 
+                                    while the paintings on the inside pages exhibit slight signs of mold, 
+                                    faded colors, and defacement.<!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>蝴蝶裝 (butterfly binding)</layout>
+                                <layout>傳統中國畫工筆技法</layout>
                                 
                             </layoutDesc>
                             
                         </objectDesc>
                         
                         <handDesc><handNote>
-                            中國畫傳統技法。
-                            Text written in 楷體 （kai shu，regular）calligraphic style.</handNote><!-- use the @hands attribute to record the number of scribes -->
+                            Text written in 楷體 (kai shu, regular) calligraphic style</handNote><!-- use the @hands attribute to record the number of scribes -->
                             <!-- <handNote> </handNote> --> 
                             <!-- use additional handNote elements if necessary 
                      https://git.io/msdescdoc#handdesc
@@ -154,7 +107,7 @@
                         </handDesc>
                         
                         <decoDesc>
-                            <decoNote>4 volumes, paper bound hard cover in yellow colour, in butterfly binding.
+                            <decoNote>
                             </decoNote>
                             <!-- use additional decoNote elements if necessary 
                      https://git.io/msdescdoc#decodesc
@@ -164,7 +117,17 @@
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
                                 <p>冊</p>
-                                <decoNote>Concertina style binding with hardback paper cover.</decoNote>
+                                <decoNote>畫冊為十六開十二幅。經摺裝。題簽空白，封皮為硬面包有紅色絲織物帶藍色綠色瑞獸祥雲幾何花紋。
+                                          封皮封底的絲織物表面有磨損抽絲。本幅為絹本設色工筆畫，對幅為空白紙本。畫心裝裱在白色絲織物上，
+                                          邊為白色，已汎黃。
+                                          This album contains twelve paintings, meticulously rendered on silk using traditional
+                                          brushwork techniques. It is a concertina-style binding, featuring a cover crafted from 
+                                          red silk embellished with intricate patterns in blue and green, portraying auspicious 
+                                          mythical creatures and celestial clouds. However, the silk covering the front and back 
+                                          displays signs of wear and slight fraying.
+                                          The paintings themselves are mounted on a white silk background, with the edges having 
+                                          acquired a yellowish hue over time. The title label on this album's cover is left blank.
+                                </decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>
@@ -179,18 +142,19 @@
                             <!-- see https://git.io/msdescdoc#origin -->
                             <origPlace>
                                 <country>China</country>,
-                                <region></region>,
+                                <region>Canton</region>,
                                 <settlement><!-- insert --></settlement>,
                                 <orgName><!-- insert --></orgName>
                             </origPlace>
-                            <origDate notAfter="1900" notBefore="1800" calendar="Gregorian">1847 and later</origDate>
+                            <origDate notAfter="1900" notBefore="1700" calendar="Gregorian">清代</origDate>
                             <!-- use additional origPlace and origDate elements if necessary -->
                         </origin>
-                        <provenance></provenance>
+                        <provenance>On the inside of upper cover, a seal in red colour is found, showing Chowkwa Painter and Copier of Charts, indicating the painter.
+                            Previous shelfmark: S.C.33023 (as indicated on the inside upper cover)</provenance>
                         
                         
                         <!-- use additional provenance elements if necessary -->
-                      <acquisition>Acquired in 1907</acquisition>
+                        <acquisition>Acquired in 1885 </acquisition>
                     </history>
                     <additional>
                         <adminInfo>
