@@ -59,8 +59,8 @@
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            <title key="supplied title">WANG WEN-CHIN and others: Four calligraphic scrolls.
-                                                        清王文錦等四人楷書四條屏 軸</title>
+                            <title key="supplied title">清王文錦等四人楷書四條屏 軸</title>
+                        <msItem>
                             <title type="subtitle">卷軸一</title>
                             <author key="Chinese">王仁堪</author>
                             <incipit>期仙磴者，蓋危磴穹窿，迥接雲路，靈仙仿彿，若可期及。</incipit>
@@ -75,7 +75,8 @@
                             <note>該詩句為唐代<persName>李隆基</persName>所作《千秋節賜群臣鏡》。</note>
                             <note>王仁堪（1849-1893），字可莊，又字忍菴，號公定，閩縣人，光緒三年（1877）狀元，後授翰林院修撰.歷任提督山西學政，貴州、江南、廣東鄉試副考官，後任武英殿纂修等職。
                                 王文錦（生卒年不詳），字云舫，直隸天津人同治十年（1871）進士，二甲五十三名。</note>
-                            
+                        </msItem>
+                        <msItem>   
                             <title type="subtitle">卷軸二</title>
                             <author key="Chinese">徐郙</author>
                             <incipit>《易》稱“辨物正言，斷辭則備”，《書》云“辭尚體要，弗惟好異”。</incipit>
@@ -92,7 +93,8 @@
                             <note> 徐郙（1838-1907），字壽蘅，號頌閣，江蘇嘉定人，同治元年（1862）狀元，先後授翰林院修撰，南書房行走，安徽學政，左都御史，兵部尚書，禮部尚書等職，拜協辦大學士，世稱徐相國。
                                 高釗中（生卒年不詳），字勉之，河南項城縣人，光緒二年（1876）丙子恩科進士。改庶吉士。光緒三年任翰林院編修，光緒八年任提督湖北學政，光緒十三年任上書房行走。光緒十五年，任授溥侗讀，次年，任提督雲南學政，
                                 光緒二十年，任翰林院侍讀。</note>
-                            
+                        </msItem> 
+                        <msItem>
                             <title type="subtitle">卷軸三</title>
                             <author key="Chinese">王文錦</author>
                             <incipit>閶闔春風起，蓬萊雪水消。相將折楊柳，爭取最長條。</incipit>
@@ -107,7 +109,8 @@
                             <incipit type="seal">敬書</incipit>
                             <note>該詩句為唐代<persName>盧綸</persName>所作《儋天長久詞》。</note>
                             <note> 王文錦 (生卒年不詳)，字云舫，直隸天津人同治十年（1871）進士，二甲五十三名。曹洪勛(生卒年不詳)，字仲銘，又字竹銘，號蘭生，濰縣人，光緒二年（1876）狀元。</note>
-                            
+                        </msItem>
+                        <msItem>
                             <title type="subtitle">卷軸四</title>
                             <author key="Chinese">曹洪勛</author>
                             <incipit>月彩浮鸞殿，鍾聲隔鳳樓。笙歌臨水檻，紅燭乍迎秋。</incipit>
@@ -122,8 +125,9 @@
                             <incipit type="seal">敬書</incipit>
                             <note>該詩句為宋代<persName>蘇軾</persName>所作《儋耳山》。</note>
                             <note> 曹洪勛，字仲銘，又字竹銘，號蘭生，濰縣人，光緒二年（1876）狀元。蔣艮，字仲仁號後山，商城伏山鄉人，光緒六年（1880）進士。</note>
-                            
+                         
                             <filiation>書法卷軸，中外孤本。</filiation>  
+                         </msItem>
                         </msItem>
                         <!-- insert further msItem elements as appropriate --> 
                         
@@ -132,7 +136,7 @@
                         
                         <objectDesc form="立軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
                             <supportDesc material="絹本"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                                <support>silk</support>
+                                <support>silk 絹本</support>
                                 <extent>4 scrolls 四軸
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
@@ -146,7 +150,8 @@
                                 <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>书法卷轴,絹本,墨色书写。</layout>
+                                <layout>Vertical Chinese calligraphy scrolls, meticulously crafted on silk with black ink.
+                                         书法卷轴,絹本,墨色书写。</layout>
                                 
                             </layoutDesc>
                             
@@ -170,7 +175,7 @@
                         
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
-                                <p>立軸</p>
+                                <p>vertical scroll 立軸</p>
                                 <decoNote>一套由四件立軸組成。每個立軸都為二色裱,天頭地脚為藍色絲織物，天頭高12.3cm，地脚高7.4cm。上下隔水為淺藍色絲織物，上隔水高18.8cm，下隔水高12.5cm。邊框寬4.5cm。畫心為米色絹本，分爲上下兩部分，分別爲不同兩位書法家書寫。每部分分爲三行，每行八字。</decoNote>
                             </binding>
                         </bindingDesc>
@@ -186,14 +191,13 @@
                             <!-- see https://git.io/msdescdoc#origin -->
                             <origPlace>
                                 <country>China</country>,
-                                <region><!-- insert --></region>,
-                                <settlement><!-- insert --></settlement>,
-                                <orgName><!-- insert --></orgName>
+
                             </origPlace>
                             <origDate notAfter="1900" notBefore="1800" calendar="Gregorian">清光緒年間</origDate>
                             <!-- use additional origPlace and origDate elements if necessary -->
                         </origin>
-                        <provenance> </provenance>
+                        <provenance>The title available from the previous catalog is 
+                                 'WANG WEN-CHIN and Others: Four Calligraphic Scrolls.'</provenance>
                         
                         
                         <!-- use additional provenance elements if necessary -->

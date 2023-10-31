@@ -61,7 +61,7 @@
                                                A Compilation of Chinese Calligraphy Critique Throughout History</title>
                             <editor><placeName>吳郡</placeName><persName>王世貞</persName><persName type="字">元美</persName>甫編
                                     <placeName>雲間</placeName><persName>王乾昌</persName><persName type="字">伯元</persName>甫校 </editor>
-                            
+                       <msItem>
                             <title key="分卷"><locus>vol.1：卷一</locus>古今法書苑 共六 壹貳叄</title>
                             <note>卷之一、卷之二、卷之三收錄於本冊。</note>
                             <title type="preface"><locus>fol.1a</locus>古今法書苑小引</title>
@@ -77,24 +77,34 @@
                             <explicit><locus>fol.6a</locus>東海<persName>王乾昌</persName>題</explicit>
                             <title type="目錄"><locus>fol.7a</locus>古今法書苑目錄</title>
                             <incipit type="seal">王戴榮</incipit>
-                   
+                        </msItem>      
+                         
+                        <msItem>
                             <title key="分卷"><locus>vol.2：卷二</locus>古今法書苑 共六 ？（字跡缺損）</title>
                             <note>卷之四、卷之五、卷之六、卷之七、卷之八、卷之九收錄於本冊。</note>  
-                            
+                        </msItem>  
+                       
+                            <msItem>    
                             <title key="分卷"><locus>vol.3：卷三</locus>古今法書苑 共六 ？（字跡缺損）</title>
                             <note>卷之十、卷之十一、卷之十二、卷之十三、卷之十四、卷之十五收錄於本冊。</note> 
-                            
+                        </msItem>    
+                        
+                        <msItem>   
                             <title key="分卷"><locus>vol.4：卷四</locus>古今法書苑 共六 ？（字跡缺損）</title>
                             <note>卷之十六、卷之十七、卷之十八、卷之十九、卷之二十收錄於本冊。</note> 
+                        </msItem> 
                             
+                        <msItem>   
                             <title key="分卷"><locus>vol.5：卷五</locus>古今法書苑 共六 ？（字跡缺損）</title>
                             <note>卷之二十一、卷之二十二、卷之二十三、卷之二十四、卷之二十五、卷之二十六、卷之二十七、
                                   卷之二十八、卷之二十九、卷之三十、卷之三十一、卷之三十二、卷之三十三收錄於本冊。</note> 
-                            
+                        </msItem> 
+                        
+                        <msItem>
                             <title key="分卷"><locus>vol.6：卷六</locus>古今法書苑 共六 ？（字跡缺損）</title>
                             <note>卷之三十四、卷之三十五、卷之三十六、卷之三十七、卷之三十八、卷之三十九、卷之四十、
                                   卷之四十一、卷之四十二、卷之四十三、卷之四十四收錄於本冊。</note>
-                   
+                        </msItem>
                    
                             <filiation>手抄本，或爲中外孤本 
                                        The book titled 'Gu Jin Fa Shu Yuan' has been published in multiple editions
@@ -122,7 +132,8 @@
                                 <condition>第一冊封面有摺痕和褪色；第二冊至第六冊封面的卷碼都已缺損，第二冊表面有墨跡水印，第五冊封面紙張缺損較大。</condition>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>内頁無邊框，半頁十行，正文墨色書寫，句讀為紅色點和圈。標題和正文均為小字，單行抄寫，每行二十字。正文大小分作兩種，正文以大字，注則以小字。
+                                <layout>内頁無邊框，半頁十行，正文墨色書寫，句讀為紅色點和圈。標題和正文均為小字，單行抄寫，每行二十字。
+                                        正文大小分作兩種，正文以大字，注則以小字。
                                         部分頁面上部有曾經收藏者的閲讀筆記，字跡為楷書，朱紅色。</layout>
                                 <!-- use additional layout elements if necessary 
                         https://git.io/msdescdoc#layoutdesc-->

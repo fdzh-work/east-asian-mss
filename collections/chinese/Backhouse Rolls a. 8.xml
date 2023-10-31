@@ -51,16 +51,21 @@
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>A hanging scroll of Chinese calligraphy written in Xingshu style. Based on the text, it is likely to be written by Xianfeng Emperor (1831-1861) of Qing dynasty.</summary>
+                        <summary>A hanging scroll of Chinese calligraphy written in Xingshu style. Based on the text, it is likely to be written by Qianlong Emperor (1711-1700) of Qing dynasty.</summary>
                         <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
                         
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            <title>清咸豐皇帝御筆 軸</title>
-                            <author key="Chinese">咸豐皇帝 (1831-1861)</author>
-                            <incipit>假山代古乃稱其高木墨元歷來久金元樓閣兹無存樓則轉為梅蒨有今樓古環碧同是亦可謂忘年友墨元不少能句人問他此趣能吟吾</incipit>
-                            <explicit>庚戌新正御題</explicit>
+                            <title>清乾隆皇帝御筆 軸</title>
+                            <author key="Chinese">乾隆皇帝 (1711-1799)</author>
+                            <incipit>假山代古得称真，乔木金元历来久。
+                                     金元楼阁兹无存，楼则新为树旧有。
+                                     今楼古木环碧同，是亦可谓忘年友。
+                                     金元不少能句人，问他此趣能吟否。</incipit>
+                            <incipit type="款識">庚戌新正御題</incipit>
+                            <incipit type="seal">八徵耄念之寳</incipit>
+                            <incipit type="seal">自疆不息</incipit>
 
                             <filiation>書法卷軸，中外孤本。</filiation>  
                         </msItem>
@@ -85,7 +90,7 @@
                                 <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>书法卷轴.墨色书写</layout>
+                                <layout>书法卷轴，墨色书写</layout>
                                 
                             </layoutDesc>
                             
@@ -110,7 +115,8 @@
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
                                 <p>立軸</p>
-                                <decoNote>立軸,宣和裝。天頭和地脚是淺藍色絲織物，隔水和驚燕是米白色絲織物天，邊為白色絲織物。畫心為淺黃色有花紋紙張，上邊拼接橙色有花紋紙張。</decoNote>
+                                <decoNote>立軸,宣和裝。天頭和地脚是淺藍色絲織物，隔水和驚燕是米白色絲織物天，邊為白色絲織物。
+                                           畫心為淺黃色有花紋紙張，上邊拼接橙色有花紋紙張。</decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>
@@ -125,11 +131,11 @@
                             <!-- see https://git.io/msdescdoc#origin -->
                             <origPlace>
                                 <country>China</country>,
-                                <region><!-- insert --></region>,
+                                <region>Beijing</region>,
                                 <settlement><!-- insert --></settlement>,
                                 <orgName><!-- insert --></orgName>
                             </origPlace>
-                            <origDate notAfter="1900" notBefore="1800" calendar="Gregorian">1850</origDate>
+                            <origDate notAfter="1900" notBefore="1800" calendar="Gregorian">1790</origDate>
                             <!-- use additional origPlace and origDate elements if necessary -->
                         </origin>
                         <provenance> </provenance>
