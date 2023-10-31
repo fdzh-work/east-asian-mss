@@ -113,7 +113,7 @@
                         <objectDesc form="包背裝"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
                             <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
                                 <support>mulberry and bamboo mixed paper</support>
-                                <extent>四冊 four books
+                                <extent>三冊 three books
                                     <dimensions unit="cm" type="leaf" n="1"><!-- use standard attribute values, e.g. leaf, written  
                         https://git.io/msdescdoc#leafDimensions
                         -->                           <height>30.2 cm</height>
