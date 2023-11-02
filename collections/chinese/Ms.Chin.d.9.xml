@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+<!-- use this template in cases where the manuscript is NOT composed of multiple codicological units. To avoid errors in the display of the record, be sure to delete elements that are not used. -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="manuscript_00000"><!-- insert the correct xmlid in the form manuscript_12345 -->
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ms.Chin.d.9</title>
+                
+                <respStmt>
+                    <resp>Cataloguer</resp>
+                    <persName>Boya Zhang</persName>
+                </respStmt>
+                
+            </titleStmt>
+            <editionStmt>
+                <edition>TEI P5</edition>
+                <funder>HD Chung Fund</funder>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Special Collections, Bodleian Libraries</publisher>
+                <address>
+                    <orgName type="department">Special Collections</orgName>
+                    <orgName type="unit">Bodleian Libraries</orgName>
+                    <orgName type="institution">University of Oxford</orgName>
+                    <street>Weston Library, Broad Street</street>
+                    <settlement>Oxford</settlement>
+                    <postCode>OX1 3BG</postCode>
+                    <country>United Kingdom</country>
+                </address>
+                <distributor>
+                    <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                </distributor>
+                <idno type="msID"><!-- insert normalized form of shelfmark --></idno>
+                <idno type="collection"><!-- insert normalized form of collection --></idno>
+                <idno type="catalogue"><!-- insert catalogue ID --></idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:lang="en"><!-- optionally provide xmlid should as a normalized form of the shelfmark, e.g. Merton_College_MS_10 -->
+                    <msIdentifier>
+                        <settlement><!-- insert --></settlement>
+                        <repository>Bodleian Library</repository><!-- change if necessary -->
+                        <idno type="shelfmark">Ms.Chin.d.9</idno>
+                        
+                    </msIdentifier>
+                    
+                    <msContents>
+                        <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
+                        <summary>This is a book written by a Chinese author in Latin, exploring the history of China's mythological era. 
+                                 It likely represents an early foray into sinology conducted by Jesuit missionaries. 
+                                 The author of this book was very likely a Christian convert</summary>
+                        <textLang mainLang="la">Latin</textLang><!-- change text and attribute if necessary -->
+                        
+                        <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
+                            <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
+                            <title xml:lang="la">Veteris Traditionis Vestigia</title>
+                            <title>古傳遺迹</title>
+                            <author>unknown</author>
+                            <note>According to the previous catalogue, this book was identified by Rev. John Witek, S.J. as a work on figurism by 
+                                  Joseph Henri de Premare. It attempts to trace elements of the Old Testament in the Chinese Classics. However, a 
+                                  note in Premare's handwriting, addressed to Étienne Souciet, as mentioned in the catalogue, was not found.</note>
+                            <filiation>手抄本,中外孤本。 only surviving copy.</filiation>
+                            
+                        </msItem>
+                        <!-- insert further msItem elements as appropriate -->
+                    </msContents>
+                    <physDesc>
+                        
+                        <objectDesc form="包背裝"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
+                            <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
+                                <support>mulberry and bamboo mixed paper</support>
+                                <extent>一冊 one book
+                                    <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
+                        https://git.io/msdescdoc#leafDimensions
+                        -->                           <height>23.4 cm</height>
+                                        <width>15.1 cm </width>
+                                    </dimensions>
+                                    <!-- use additional dimensions elements if necessary -->
+                                </extent>
+                                
+                                <condition>封皮有輕微褪色和污漬，書脊輕微磨損。内頁略有污跡。
+                                           The cover has slight traces of fading and staining, and the book spine shows 
+                                           signs of yellowing. The pages have slight staining.	
+                                </condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>内頁無邊框，橫向抄寫。拉丁文中夾有漢字對照。</layout>
+                                <!-- use additional layout elements if necessary 
+                        https://git.io/msdescdoc#layoutdesc-->
+                            </layoutDesc>
+                        </objectDesc>
+                        
+                        <handDesc><!-- use the @hands attribute to record the number of scribes -->
+                            <handNote>
+                                Text in Chinese written in 楷書 (kai shu, regular) calligraphic style</handNote>
+                            <!-- use additional handNote elements if necessary 
+                     https://git.io/msdescdoc#handdesc
+                     -->
+                        </handDesc>
+                        <musicNotation>
+                            <p><!-- insert if relevant, otherwise delete --></p>
+                            <!-- use additional p elements if necessary 
+                     https://git.io/msdescdoc#musicnotation
+                     -->
+                        </musicNotation>
+                        <decoDesc>
+                            <decoNote>
+                                西式硬皮裝訂，淺棕色封皮和封底，配合有燙金的花紋在邊緣一圈，封皮内頁貼有書商的標記。
+                                The book is written on Chinese paper and then bound in hardcover with gilded 
+                                decorations. Inside the upper cover, there is a paper carrying the symbol of 
+                                the book dealer.</decoNote>
+                            <!-- use additional decoNote elements if necessary 
+                     https://git.io/msdescdoc#decodesc
+                     -->
+                        </decoDesc>
+                        
+                        <bindingDesc>
+                            <binding when="1700"><!-- use dating attributes to record the date -->
+                                <p> a bardback book in European style.</p>
+                                <decoNote><!-- insert relevant information, otherwise delete --></decoNote>
+                            </binding>
+                        </bindingDesc>
+                        <accMat>
+                            <!-- insert if relevant, otherwise delete 
+                     https://git.io/msdescdoc#accMat          
+                     -->
+                        </accMat>
+                    </physDesc>
+                    
+                    <history>
+                        <!-- see https://git.io/msdescdoc#history -->
+                        <origin>
+                            <!-- see https://git.io/msdescdoc#origin -->
+                            <origPlace>
+                                <country>China</country>,
+                                
+                            </origPlace>
+                            <origDate notAfter="1800" notBefore="1700" calendar="Gregorian">1722或之前 prior to 1722</origDate>
+                            <!-- use additional origPlace and origDate elements if necessary -->
+                        </origin>
+                        <provenance>content: Veteria Traditionis vestigia ex Sinicis Monumentis eruta et Latine scripts cum textibus inicus per hoc opu sparis
+                                   date: 1722.
+                                   phys. descr: ff.iii,42.
+                                   acquired: 1846.
+                                   notes:[Identified by Rev. John Witek, S.J. as a work on gigurism by joseph Henri de Premare. tries to trace elements of the Old testament in the Chinese Classics. At back is a note in Premare's handwriting addressed to Étienne Souciet.]
+                        </provenance>
+                        <!-- use additional provenance elements if necessary -->
+                        <acquisition>
+                            1846
+                        </acquisition>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source>
+                                    <!-- insert prose here; see https://git.io/msdescdoc#recordHist -->
+                                    <bibl><!-- insert if necesary, otherwise delete --></bibl>
+                                    <!-- links to digitized catalogues may also be provide here, e.g.: -->
+                                    <!--<listBibl>
+                              <bibl type="SC" facs="aas0046.gif">Summary Catalogue, Vol. 3, p.  31</bibl>
+                           </listBibl>-->
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                        <listBibl>
+                            <!-- a number of listBibl elements can be nested inside an outer listBibl if required -->
+                            <head><!-- use to provide a heading if required, otherwise delete --></head>
+                            <bibl><!-- insert bibliography, links to online resource, etc., otherwise delete--></bibl>
+                            
+                        </listBibl>
+                    </additional>
+                    
+                    
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change>
+                <!-- insert relevant text, e.g. 'First online publication' -->
+                <!-- provide the date of the change using the @when attribute -->
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><!--Body paragraph provided for validation and future transcription--></p>
+        </body>
+    </text>
+</TEI>
+
+
+
