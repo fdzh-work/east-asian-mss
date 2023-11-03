@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+<!-- use this template in cases where the manuscript is NOT composed of multiple codicological units. To avoid errors in the display of the record, be sure to delete elements that are not used. -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="manuscript_00000"><!-- insert the correct xmlid in the form manuscript_12345 -->
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>MS.Chin.d.10</title>
+                
+                <respStmt>
+                    <resp>Cataloguer</resp>
+                    <persName>Boya Zhang</persName>
+                </respStmt>
+                
+            </titleStmt>
+            <editionStmt>
+                <edition>TEI P5</edition>
+                <funder>HD Chung Fund</funder>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Special Collections, Bodleian Libraries</publisher>
+                <address>
+                    <orgName type="department">Special Collections</orgName>
+                    <orgName type="unit">Bodleian Libraries</orgName>
+                    <orgName type="institution">University of Oxford</orgName>
+                    <street>Weston Library, Broad Street</street>
+                    <settlement>Oxford</settlement>
+                    <postCode>OX1 3BG</postCode>
+                    <country>United Kingdom</country>
+                </address>
+                <distributor>
+                    <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                </distributor>
+                <idno type="msID"><!-- insert normalized form of shelfmark --></idno>
+                <idno type="collection"><!-- insert normalized form of collection --></idno>
+                <idno type="catalogue"><!-- insert catalogue ID --></idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:lang="en"><!-- optionally provide xmlid should as a normalized form of the shelfmark, e.g. Merton_College_MS_10 -->
+                    <msIdentifier>
+                        <settlement><!-- insert --></settlement>
+                        <repository>Bodleian Library</repository><!-- change if necessary -->
+                        <idno type="shelfmark">MS.Chin.d.10</idno>
+                        
+                    </msIdentifier>
+                    
+                    <msContents>
+                        <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
+                        <summary>幾何原本（手抄本,抄寫人:沈拱瑛，字誠夫。） 
+                            This is a handwritten version of Euclid's 'Principles of Geometry'， encompassing volumes 1 to 4, 
+                            translated into Chinese by Xu Guang Qi and Matteo Ricci， handwritten by Shen Gong Ying.</summary>
+                        <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
+                        
+                        <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
+                            <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
+                            <title>幾何原本</title>
+                            <title xml:lang="en">Principles of Geometry, books 1-6</title>
+                            <editor key="handwritten">沈拱瑛</editor>
+                            <msItem>
+                                <title key="shelfmark">Ms/Chin.d.10/1</title>
+                                <title xml:lang="zh">幾何原本 卷一 文</title>
+                                <title type="sub"><locus>ff.1-4</locus>刻幾何原本序</title>
+                                <explicit><locus>f.4.2 </locus>自序中不傋論吳淞徐光啓書</explicit>
+                                <title type="sub"><locus>ff.5-10</locus>譯幾何原本引</title>
+                                <explicit><locus>f.10.2</locus>萬曆丁未泰西利瑪竇謹書</explicit>
+                                <title type="sub"><locus>ff.11-12 </locus>幾何原本雑議</title>
+                                <explicit><locus>f.12</locus>吳淞徐光啓記</explicit>
+                                <incipit><locus>f.13</locus>考丁校閱姓氏
+                                                            雲間許樂善
+                                                            錫山周炳謨
+                                                            南海張萱
+                                                            齊安黃建衷
+                                                            檇李姚士慎</incipit>
+                                <title type="sub"><locus>ff.14</locus>幾何原本再校本
+                                                            是書刻于丁未嵗板留
+                                                            吳淞徐光啓</title>
+                                <title type="sub"><locus>ff.15-74</locus>幾何原本第一卷之首 界說三十六 公論十九 求作四
+                                                            泰西利瑪竇口譯
+                                                            吳淞徐光啓筆受</title>
+                                <explicit><locus>f.74</locus>幾何原本第一卷終</explicit>
+                            </msItem>      
+                            
+                            <msItem>
+                                <title key="shelfmark">Ms/Chin.d.10/2</title>
+                                <title xml:lang="zh">幾何原本 卷二卷三 行</title>
+                                <title type="sub"><locus>ff.75-128</locus>幾何原本第二卷</title> 
+                                <incipit><locus>f.75</locus>本篇論缐計十四題
+                                                            泰西利瑪竇口譯
+                                                            吳淞徐光啓筆受
+                                                            後學沈拱瑛手抄</incipit>    
+                                <explicit><locus>f.94</locus>幾何原本第二卷終 卷二</explicit>
+                                <title type="sub"><locus>ff.95-128</locus>幾何原本第三卷</title>
+                                <incipit><locus>f.95</locus>幾何原本第三卷之首 一
+                                                            泰西利瑪竇口譯
+                                                            吳淞徐光啓筆受
+                                                            後學<persName>沈拱瑛</persName>手抄
+                                                            界說十則</incipit>
+                                <explicit><locus>f.128</locus>幾何原本第三卷終 卷三 四十七</explicit>
+                            </msItem>  
+                            
+                            <msItem>    
+                                <title key="shelfmark">Ms/Chin.d.10/3</title>
+                                <title xml:lang="zh">幾何原本 卷四卷五 忠</title>
+                                <title type="sub"><locus>ff.129-161</locus>幾何原本第四卷</title> 
+                                <incipit><locus>f.129</locus>幾何原本第四卷之首
+                                                             泰西利瑪竇口譯
+                                                             吳淞徐光啓筆受
+                                                             後學沈誠夫手抄
+                                                             界說二則</incipit>    
+                                <explicit><locus>f.161</locus>幾何原本第五卷之首終<note>此處筆誤,應爲第四卷</note></explicit>
+                                <title type="sub"><locus>ff.162-184</locus>幾何原本第五卷</title>
+                                <incipit><locus>f.95</locus>幾何原本第五卷 本篇論比例
+                                                            泰西利瑪竇口譯
+                                                            吳淞徐光啓筆受</incipit>
+                                <explicit><locus>f.184</locus>幾何原本第五卷之首終 卷五首二</explicit> 
+                            </msItem>    
+                            
+                            <msItem>   
+                                <title key="shelfmark">Ms/Chin.d.10/3</title>
+                                <title xml:lang="zh">幾何原本 卷六 信</title>
+                                <title type="sub"><locus>ff.185-249</locus>幾何原本第六卷</title> 
+                                <incipit><locus>f.185</locus>幾何原本第六卷 本篇論缐面之比例計三十三題
+                                                             泰西利瑪竇口譯
+                                                             吳淞徐光啓筆受
+                                                              後學沈拱瑛手抄誠夫</incipit>    
+                          </msItem> 
+                            
+                            <filiation>手抄本，或爲次版本的中外孤本 
+                                The book has been published in multiple editions
+                                over the centuries. However, this particular edition is handwritten and is 
+                                considered the only surviving copy of its kind.</filiation>
+                            
+                        </msItem>
+                        <!-- insert further msItem elements as appropriate -->
+                    </msContents>
+                    <physDesc>
+                        
+                        <objectDesc form="綫裝"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
+                            <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
+                                <support>mulberry and bamboo mixed paper</support>
+                                <extent>四冊 four books
+                                    <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
+                        
+                        https://git.io/msdescdoc#leafDimensions
+                        -->                           <height>26.1</height>
+                                        <width>17.2</width>
+                                    </dimensions>
+                                    <!-- use additional dimensions elements if necessary -->
+                                </extent>
+                                
+                                <condition>封皮封底均有輕微污漬和邊緣輕微磨損,裝訂位置有脫綫跡象。卷四卷五、卷六内部有蟲蛀痕跡。</condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>内頁無邊框，半頁十行，正文墨色書寫，句讀為紅色點和圈。標題和正文均為小字，單行抄寫，每行二十字。
+                                    正文大小分作兩種，正文以大字，注則以小字。
+                                    部分頁面上有作者畫的幾何圖形。</layout>
+                                <!-- use additional layout elements if necessary 
+                        https://git.io/msdescdoc#layoutdesc-->
+                            </layoutDesc>
+                        </objectDesc>
+                        
+                        <handDesc><!-- use the @hands attribute to record the number of scribes -->
+                            <handNote>
+                                Text written in 楷體 (kai shu, regular) calligraphic style</handNote>
+                            <!-- use additional handNote elements if necessary 
+                     https://git.io/msdescdoc#handdesc
+                     -->
+                        </handDesc>
+                        <musicNotation>
+                            <p><!-- insert if relevant, otherwise delete --></p>
+                            <!-- use additional p elements if necessary 
+                     https://git.io/msdescdoc#musicnotation
+                     -->
+                        </musicNotation>
+                        <decoDesc>
+                            <decoNote>
+                                The book cover is made of traditional Chinese paper with the sign of yellowing</decoNote>
+                            <!-- use additional decoNote elements if necessary 
+                     https://git.io/msdescdoc#decodesc
+                     -->
+                        </decoDesc>
+                        
+                        <bindingDesc>
+                            <binding when="1600"><!-- use dating attributes to record the date -->
+                                <p>Thread-binding books with paperback cover.</p>
+                                <decoNote><!-- insert relevant information, otherwise delete --></decoNote>
+                            </binding>
+                        </bindingDesc>
+                        <accMat>
+                            <!-- insert if relevant, otherwise delete 
+                     https://git.io/msdescdoc#accMat          
+                     -->
+                        </accMat>
+                    </physDesc>
+                    <history>
+                        <!-- see https://git.io/msdescdoc#history -->
+                        <origin>
+                            <!-- see https://git.io/msdescdoc#origin -->
+                            <origPlace>
+                                <country>China</country>,
+                                <region><!-- insert --></region>,
+                                <settlement><!-- insert --></settlement>,
+                                <orgName><!-- insert --></orgName>
+                            </origPlace>
+                            <origDate notAfter="1900" notBefore="1600" calendar="Gregorian">1607-1857</origDate>
+                            <!-- use additional origPlace and origDate elements if necessary -->
+                        </origin>
+                        <provenance>
+                            Past shelfmarks:	Chin.241
+                            List number:	S.C.30868a-d
+                            language:	Chinese
+                            shelfmark:	MS.Chin.d.10
+                            content:	EUCLID; Principles of Geometry, books 1-6, translated into Chinese by Matteo Ricci and Hsü Kuang-chi, with title Chi ho yüan pen. 4 pên.
+                            phys. descr:	ff.1-74; 75-128; 129-184; 185-249.
+                        </provenance>
+                        <!-- use additional provenance elements if necessary -->
+                        <acquisition>
+                            <!-- insert -->
+                            <!-- use dating attributes where possible -->
+                        </acquisition>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source>
+                                    <!-- insert prose here; see https://git.io/msdescdoc#recordHist -->
+                                    <bibl><!-- insert if necesary, otherwise delete --></bibl>
+                                    <!-- links to digitized catalogues may also be provide here, e.g.: -->
+                                    <!--<listBibl>
+                              <bibl type="SC" facs="aas0046.gif">Summary Catalogue, Vol. 3, p.  31</bibl>
+                           </listBibl>-->
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                        <listBibl>
+                            <!-- a number of listBibl elements can be nested inside an outer listBibl if required -->
+                            <head><!-- use to provide a heading if required, otherwise delete --></head>
+                            <bibl><!-- insert bibliography, links to online resource, etc., otherwise delete--></bibl>
+                            
+                        </listBibl>
+                    </additional>
+                    
+                    
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change>
+                <!-- insert relevant text, e.g. 'First online publication' -->
+                <!-- provide the date of the change using the @when attribute -->
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><!--Body paragraph provided for validation and future transcription--></p>
+        </body>
+    </text>
+</TEI>
+
+
+
