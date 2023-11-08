@@ -60,10 +60,11 @@
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
                             <title key="supplied title">Two water-colour scrolls depicting a fuenral procession.<note>the other one is MS. Chin. c. 10b (R)</note></title>
-                            <title type="subtitle">送葬圖卷軸一</title>
-                            <note>從卷軸右端所描繪的府邸門前懸挂的燈籠上的字跡可以看到“王”、“文武世家”字樣。</note>
-                            <title type="subtitle">送葬圖卷軸二</title>
-                            <note>從卷軸右端所描繪的府邸門前懸挂的燈籠上的字跡可以看到“梁”、“文武世家”字樣。</note>
+                            <msItem><title type="subtitle">送葬圖卷軸一</title>
+                            <note>從卷軸右端所描繪的府邸門前懸挂的燈籠上的字跡可以看到“王”、“文武世家”字樣。</note></msItem>
+                            <msItem><title type="subtitle">送葬圖卷軸二</title>
+                            <note>從卷軸右端所描繪的府邸門前懸挂的燈籠上的字跡可以看到“梁”、“文武世家”字樣。</note></msItem>
+                            <note>此二卷軸分別描繪清代官員家庭的葬禮中送葬的環節。</note>
                             <filiation>手繪卷軸，中外孤本。</filiation>
                             
                         </msItem>
@@ -74,7 +75,7 @@
                         <objectDesc form="卷軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
                             <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
                                 <support>mulberry and bamboo mixed paper</support>
-                                <extent>1 scroll
+                                <extent>2 scrolls
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
                         https://git.io/msdescdoc#leafDimensions
@@ -93,9 +94,9 @@
                         </objectDesc>
                         
                         <handDesc><!-- use the @hands attribute to record the number of scribes -->
-                            <handNote>
+                            <handNote>在圖中所畫的燈籠上有若干楷書字跡。
                                 On the lanterns depicted on each scroll, several Chinese characters written in the Kai shu style can be found.
-                                此二卷軸分別描繪清代官員家庭的葬禮中送葬的環節。</handNote>
+                                </handNote>
                             <!-- use additional handNote elements if necessary 
                      https://git.io/msdescdoc#handdesc
                      -->
