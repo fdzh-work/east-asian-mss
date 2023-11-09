@@ -63,7 +63,7 @@
                                     <placeName>雲間</placeName><persName>王乾昌</persName><persName type="字">伯元</persName>甫校 </editor>
                        <msItem>
                             <title key="分卷"><locus>vol.1：卷一</locus>古今法書苑 共六 壹貳叄</title>
-                            <note>卷之一、卷之二、卷之三收錄於本冊。</note>
+                           <note type="content">卷之一、卷之二、卷之三收錄於本冊。</note>
                             <title type="preface"><locus>fol.1a</locus>古今法書苑小引</title>
                             <incipit>夫書法之源流自庖犧氏，觀天地人物，始作易，以垂象鳥。</incipit>
                             <explicit><locus>fol.2a</locus>弇州山人<persName>王世貞</persName>負題 
@@ -81,28 +81,28 @@
                          
                         <msItem>
                             <title key="分卷"><locus>vol.2：卷二</locus>古今法書苑 共六 ？（字跡缺損）</title>
-                            <note>卷之四、卷之五、卷之六、卷之七、卷之八、卷之九收錄於本冊。</note>  
+                            <note type="content">卷之四、卷之五、卷之六、卷之七、卷之八、卷之九收錄於本冊。</note>  
                         </msItem>  
                        
                             <msItem>    
                             <title key="分卷"><locus>vol.3：卷三</locus>古今法書苑 共六 ？（字跡缺損）</title>
-                            <note>卷之十、卷之十一、卷之十二、卷之十三、卷之十四、卷之十五收錄於本冊。</note> 
+                                <note type="content">卷之十、卷之十一、卷之十二、卷之十三、卷之十四、卷之十五收錄於本冊。</note> 
                         </msItem>    
                         
                         <msItem>   
                             <title key="分卷"><locus>vol.4：卷四</locus>古今法書苑 共六 ？（字跡缺損）</title>
-                            <note>卷之十六、卷之十七、卷之十八、卷之十九、卷之二十收錄於本冊。</note> 
+                            <note type="content">卷之十六、卷之十七、卷之十八、卷之十九、卷之二十收錄於本冊。</note> 
                         </msItem> 
                             
                         <msItem>   
                             <title key="分卷"><locus>vol.5：卷五</locus>古今法書苑 共六 ？（字跡缺損）</title>
-                            <note>卷之二十一、卷之二十二、卷之二十三、卷之二十四、卷之二十五、卷之二十六、卷之二十七、
+                            <note type="content">卷之二十一、卷之二十二、卷之二十三、卷之二十四、卷之二十五、卷之二十六、卷之二十七、
                                   卷之二十八、卷之二十九、卷之三十、卷之三十一、卷之三十二、卷之三十三收錄於本冊。</note> 
                         </msItem> 
                         
                         <msItem>
                             <title key="分卷"><locus>vol.6：卷六</locus>古今法書苑 共六 ？（字跡缺損）</title>
-                            <note>卷之三十四、卷之三十五、卷之三十六、卷之三十七、卷之三十八、卷之三十九、卷之四十、
+                            <note type="content">卷之三十四、卷之三十五、卷之三十六、卷之三十七、卷之三十八、卷之三十九、卷之四十、
                                   卷之四十一、卷之四十二、卷之四十三、卷之四十四收錄於本冊。</note>
                         </msItem>
                    
