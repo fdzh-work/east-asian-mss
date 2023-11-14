@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+<!-- use this template in cases where the manuscript is NOT composed of multiple codicological units. To avoid errors in the display of the record, be sure to delete elements that are not used. -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="manuscript_00000"><!-- insert the correct xmlid in the form manuscript_12345 -->
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>MS.Chin.d.19</title>
+                
+                <respStmt>
+                    <resp>Cataloguer</resp>
+                    <persName>Boya Zhang</persName>
+                </respStmt>
+                
+            </titleStmt>
+            <editionStmt>
+                <edition>TEI P5</edition>
+                <funder>HD Chung Fund</funder>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Special Collections, Bodleian Libraries</publisher>
+                <address>
+                    <orgName type="department">Special Collections</orgName>
+                    <orgName type="unit">Bodleian Libraries</orgName>
+                    <orgName type="institution">University of Oxford</orgName>
+                    <street>Weston Library, Broad Street</street>
+                    <settlement>Oxford</settlement>
+                    <postCode>OX1 3BG</postCode>
+                    <country>United Kingdom</country>
+                </address>
+                <distributor>
+                    <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                </distributor>
+                <idno type="msID"><!-- insert normalized form of shelfmark --></idno>
+                <idno type="collection"><!-- insert normalized form of collection --></idno>
+                <idno type="catalogue"><!-- insert catalogue ID --></idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:lang="en"><!-- optionally provide xmlid should as a normalized form of the shelfmark, e.g. Merton_College_MS_10 -->
+                    <msIdentifier>
+                        <settlement><!-- insert --></settlement>
+                        <repository>Bodleian Library</repository><!-- change if necessary -->
+                        <idno type="shelfmark">MS.Chin.d.19</idno>
+                        <altIdentifier type="former">
+                            <idno>Chin.364</idno>
+                        </altIdentifier> 
+                        
+                    </msIdentifier>
+                    
+                    <msContents>
+                        <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
+                        <summary>A manuscript featuring calligraphy in cursive style, bound with a concertina binding, dating back to the late Qing Dynasty.</summary>
+                        <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
+                        
+                        <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
+                            <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
+                            <locus><!-- insert --></locus>
+                            
+                            <title type="desc">清高一琦行書蘇軾詩六首 卷</title>
+                            <author key="Chinese">高一琦</author>
+                            <incipit type="題簽">??公草書墨寶 上海瞿氏<note>題簽破損</note></incipit>
+                            <incipit type="seal">春甫</incipit>
+                            <incipit>上海慈云樓李氏藏書</incipit>
+                            <incipit>秋後風光雨後山，滿城流水碧潺潺。
+                                     煙雲好處無多子，及取昏鴉未到間。
+                                     洛邑從來天地中，嵩高蒼翠北邙紅。
+                                     風流耆舊消磨盡，只有青山對病翁。
+                                <note>《追和子由去歲試舉人洛下所寄詩五首暴雨初晴·其一》蘇軾</note></incipit>
+                            <incipit>千株玉槊攙雲立，一穗珠旒落鏡寒。
+                                     何處霜眉碧眼客，結為三友令相看。
+                                <note>《佛日山榮長老方丈五絕·其二》蘇軾</note></incipit>
+                            <incipit>東麓雲根露角牙，細泉幽咽走金沙。
+                                     不堪土肉埋山骨，未放蒼龍浴渥洼。
+                                <note>《佛日山榮長老方丈五絕·其三》蘇軾</note></incipit>
+                            <incipit>食罷茶甌未要深，清風一榻抵千金。
+                                     腹搖鼻息庭花落，還盡平生未足心。
+                                <note>《佛日山榮長老方丈五絕·其四》蘇軾</note></incipit>
+                            <incipit>日射回廊午枕明，水沈銷盡碧煙橫。
+                                山人睡覺無人見，只有飛蚊遶鬢鳴。。
+                                <note>《佛日山榮長老方丈五絕·其五》蘇軾</note></incipit>
+                            <explicit type="款識">高一琦</explicit>
+                            <explicit type="seal">高一琦</explicit>
+                     
+                            <filiation>書法卷軸，中外孤本。</filiation>  
+                        </msItem>
+                        <!-- insert further msItem elements as appropriate --> 
+                        
+                    </msContents>
+                    <physDesc>
+                        
+                        <objectDesc form="冊"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
+                            <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
+                                <support>mulberry and bamboo mixed paper</support>
+                                <extent>1 volume
+                                    <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
+                        
+                        https://git.io/msdescdoc#leafDimensions
+                        -->                           <height>29 cm</height>
+                                        <width>13.7 cm</width>
+                                    </dimensions>
+                                    <!-- use additional dimensions elements if necessary -->
+                                </extent>
+                                
+                                <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>書法冊頁，紙本，行書。</layout>
+                                
+                            </layoutDesc>
+                            
+                        </objectDesc>
+                        
+                        <handDesc><!-- use the @hands attribute to record the number of scribes -->
+                            <handNote>
+                                Text written in 行書 (xing shu, cursive) calligraphic style.
+                            </handNote>
+                            <!-- use additional handNote elements if necessary 
+                     https://git.io/msdescdoc#handdesc
+                     -->
+                        </handDesc>
+                        
+                        <decoDesc>
+                            <decoNote>
+                            </decoNote>
+                            <!-- use additional decoNote elements if necessary 
+                     https://git.io/msdescdoc#decodesc
+                     -->
+                        </decoDesc>
+                        
+                        <bindingDesc>
+                            <binding when="1800"><!-- use dating attributes to record the date -->
+                                <p>冊</p>
+                                <decoNote>經摺裝，一冊。封面和封底為木製,木製封面略有裂痕。封面上有紙質題簽，現已部分缺損。内頁為紙本,略有蟲蛀痕跡。</decoNote>
+                            </binding>
+                        </bindingDesc>
+                        <accMat>
+                            <!-- insert if relevant, otherwise delete 
+                     https://git.io/msdescdoc#accMat          
+                     -->
+                        </accMat>
+                    </physDesc>
+                    <history>
+                        <!-- see https://git.io/msdescdoc#history -->
+                        <origin>
+                            <!-- see https://git.io/msdescdoc#origin -->
+                            <origPlace>
+                                <country>China</country>,
+                                <region>Shanghai</region>,
+                                <settlement><!-- insert --></settlement>,
+                                <orgName><!-- insert --></orgName>
+                            </origPlace>
+                            <origDate notAfter="1800" notBefore="1700" calendar="Gregorian">清晚期</origDate>
+                            <!-- use additional origPlace and origDate elements if necessary -->
+                        </origin>
+                        <provenance>record in previous catalogue 
+                            language:	Chinese
+                            shelfmark:	MS.Chin.e.11
+                            content:	T'ou lien hsi ts'ao [questions in arithmetic or algebra]
+                            phys. descr:	21 ff.
+                            acquired:	1882.
+                            Past shelfmarks:	Chin.364
+                            List number:	S.C.30869r
+                        </provenance>
+                        
+                        
+                        <!-- use additional provenance elements if necessary -->
+                        <acquisition>
+                            acquired in 1882
+                        </acquisition>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source>
+                                    <!-- insert prose here; see https://git.io/msdescdoc#recordHist -->
+                                    <bibl><!-- insert if necesary, otherwise delete --></bibl>
+                                    <!-- links to digitized catalogues may also be provide here, e.g.: -->
+                                    <!--<listBibl>
+                              <bibl type="SC" facs="aas0046.gif">Summary Catalogue, Vol. 3, p.  31</bibl>
+                           </listBibl>-->
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                        <listBibl>
+                            <!-- a number of listBibl elements can be nested inside an outer listBibl if required -->
+                            <head><!-- use to provide a heading if required, otherwise delete --></head>
+                            <bibl><!-- insert bibliography, links to online resource, etc., otherwise delete--></bibl>
+                            
+                        </listBibl>
+                    </additional>
+                    
+                    
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change>
+                <!-- insert relevant text, e.g. 'First online publication' -->
+                <!-- provide the date of the change using the @when attribute -->
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><!--Body paragraph provided for validation and future transcription--></p>
+        </body>
+    </text>
+</TEI>
