@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+<!-- use this template in cases where the manuscript is NOT composed of multiple codicological units. To avoid errors in the display of the record, be sure to delete elements that are not used. -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="manuscript_00000"><!-- insert the correct xmlid in the form manuscript_12345 -->
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>MS.Backhouse 9/1-5</title>
+                
+                <respStmt>
+                    <resp>Cataloguer</resp>
+                    <persName>Boya Zhang</persName>
+                </respStmt>
+                
+            </titleStmt>
+            <editionStmt>
+                <edition>TEI P5</edition>
+                <funder>HD Chung Fund</funder>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Special Collections, Bodleian Libraries</publisher>
+                <address>
+                    <orgName type="department">Special Collections</orgName>
+                    <orgName type="unit">Bodleian Libraries</orgName>
+                    <orgName type="institution">University of Oxford</orgName>
+                    <street>Weston Library, Broad Street</street>
+                    <settlement>Oxford</settlement>
+                    <postCode>OX1 3BG</postCode>
+                    <country>United Kingdom</country>
+                </address>
+                <distributor>
+                    <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                </distributor>
+                <idno type="msID"><!-- insert normalized form of shelfmark --></idno>
+                <idno type="collection"><!-- insert normalized form of collection --></idno>
+                <idno type="catalogue"><!-- insert catalogue ID --></idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:lang="en"><!-- optionally provide xmlid should as a normalized form of the shelfmark, e.g. Merton_College_MS_10 -->
+                    <msIdentifier>
+                        <settlement><!-- insert --></settlement>
+                        <repository>Bodleian Library</repository><!-- change if necessary -->
+                        <idno type="shelfmark">MS.Backhouse 9/1-5</idno>
+                        
+                    </msIdentifier>
+                    
+                    <msContents>
+                        <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
+                        <summary>中西事務紀要（手抄本） 
+                            Chronicles of Sino-Western Affairs (handwritten)</summary>
+                        <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
+                        
+                        <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
+                            <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
+                            <title>中西事務紀要</title>
+                            <title xml:lang="en">Zhong xi shi wu ji yao
+                                Chronicles of Sino-Western Affairs</title>
+                            <author>夏燮 (1800-1875)</author>
+                            <note>This manuscript is a collaborative effort, handwritten by several contributors.</note>
+                            <msItem>
+                                <title key="分卷"><locus>vol.1</locus>中西事務紀要 卷一</title>
+                                <note type="content">卷一 通番之始; 卷二 猾夏之漸; 卷三 互市檔案於本冊。</note>
+                                <title type="preface"><locus>fol.1</locus>原序</title>
+                                <incipit>道光庚字之夏洋氛不靖蔓延三載</incipit>
+                                <title type="preface"><locus>fol.2</locus>次序</title>
+                                <explicit><locus>fol.2</locus>咸豐九年乙未九月 中西事務紀要後序</explicit>
+                                <title type="content"><locus>fol.5</locus>中西事務紀要定本目錄 咸豐十年</title>
+                                <incipit><locus>fol.7</locus>是編草創未就,得見同年魏默深中翰源所撰《海國圖志》愛其採摭之。</incipit>
+                                <explicit><locus>fol.8</locus>有則詳而核無則略而存蓋仿綏寇紀略補移之例云時同治四年乙丑六月</explicit>
+                            </msItem>      
+                            
+                            <msItem>
+                                <title key="分卷"><locus>vol.2</locus>中西事務紀要 卷二</title>
+                                <note type="content">卷四 漏卮本末; 卷五 英人窺邊請撫; 卷六 粵東要撫; 卷七 閩浙再犯收錄於本冊。</note>  
+                            </msItem>  
+                            
+                            <msItem>    
+                                <title key="分卷"><locus>vol.3</locus>中西事務紀要 卷三</title>
+                                <note type="content">卷八 江上議款; 卷九 白門原約; 卷十 台灣之獄; 卷十一 五口衅端; 卷十二 四國合從</note> 
+                            </msItem>    
+                            
+                            <msItem>   
+                                <title key="分卷"><locus>vol.4</locus>中西事務紀要 卷四</title>
+                                <note type="content">卷十三 奧民義師; 卷十四 大沽前後之役; 卷十五 庚申換約之役; 卷十六 天津新議續議收錄於本冊。</note> 
+                            </msItem> 
+                            
+                            <msItem>   
+                                <title key="分卷"><locus>vol.5</locus>中西事務紀要 卷五</title>
+                                <note type="content">卷十七 長江設關; 卷十八 洋藥上稅; 卷十九 小國換約; 卷二十 外夷助剿; 卷二十一 江楚黜教; 
+                                     卷二十二 剿撫異同; 卷二十三 管螽一得; 卷二十四 海疆殉難收錄於本冊。</note> 
+                            </msItem> 
+                            
+                        </msItem>
+                        <!-- insert further msItem elements as appropriate -->
+                    </msContents>
+                    <physDesc>
+                        
+                        <objectDesc form="綫裝"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
+                            <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
+                                <support>mulberry and bamboo mixed paper</support>
+                                <extent>五冊 five volumes
+                                    <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
+                        
+                        https://git.io/msdescdoc#leafDimensions
+                        -->                           <height>29.6</height>
+                                        <width>20.4</width>
+                                    </dimensions>
+                                    <!-- use additional dimensions elements if necessary -->
+                                </extent>
+                                
+                                <condition>每冊封面封底略有彎折，輕微污損。卷二題簽輕微破損，卷二卷三題簽破損。</condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>無邊框，每半頁分十二行抄寫，每行約二十五字。</layout>
+                                <!-- use additional layout elements if necessary 
+                        https://git.io/msdescdoc#layoutdesc-->
+                            </layoutDesc>
+                        </objectDesc>
+                        
+                        <handDesc><!-- use the @hands attribute to record the number of scribes -->
+                            <handNote>
+                                Text written in 楷體 (kai shu, regular) calligraphic style</handNote>
+                            <!-- use additional handNote elements if necessary 
+                     https://git.io/msdescdoc#handdesc
+                     -->
+                        </handDesc>
+                        <musicNotation>
+                            <p><!-- insert if relevant, otherwise delete --></p>
+                            <!-- use additional p elements if necessary 
+                     https://git.io/msdescdoc#musicnotation
+                     -->
+                        </musicNotation>
+                        <decoDesc>
+                            <decoNote>
+                                The book cover is made of traditional Chinese paper.</decoNote>
+                            <!-- use additional decoNote elements if necessary 
+                     https://git.io/msdescdoc#decodesc
+                     -->
+                        </decoDesc>
+                        
+                        <bindingDesc>
+                            <binding when="1500"><!-- use dating attributes to record the date -->
+                                <p>Thread-binding books with paper cover.</p>
+                                <decoNote><!-- insert relevant information, otherwise delete --></decoNote>
+                            </binding>
+                        </bindingDesc>
+                        <accMat>
+                            <!-- insert if relevant, otherwise delete 
+                     https://git.io/msdescdoc#accMat          
+                     -->
+                        </accMat>
+                    </physDesc>
+                    <history>
+                        <!-- see https://git.io/msdescdoc#history -->
+                        <origin>
+                            <!-- see https://git.io/msdescdoc#origin -->
+                            <origPlace>
+                                <country>China</country>,
+                                <region><!-- insert --></region>,
+                                <settlement><!-- insert --></settlement>,
+                                <orgName><!-- insert --></orgName>
+                            </origPlace>
+                            <origDate notAfter="1900" notBefore="1800" calendar="Gregorian">晚清</origDate>
+                            <!-- use additional origPlace and origDate elements if necessary -->
+                        </origin>
+                        <provenance>
+                            Donated by Sir Edmund Trelawny Backhouse, 2nd Baronet (20 October 1873 – 8 January 1944). 
+                        </provenance>
+                        <!-- use additional provenance elements if necessary -->
+                        <acquisition>
+                            <!-- insert -->
+                            <!-- use dating attributes where possible -->
+                        </acquisition>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source>
+                                    <!-- insert prose here; see https://git.io/msdescdoc#recordHist -->
+                                    <bibl><!-- insert if necesary, otherwise delete --></bibl>
+                                    <!-- links to digitized catalogues may also be provide here, e.g.: -->
+                                    <!--<listBibl>
+                              <bibl type="SC" facs="aas0046.gif">Summary Catalogue, Vol. 3, p.  31</bibl>
+                           </listBibl>-->
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                        <listBibl>
+                            <!-- a number of listBibl elements can be nested inside an outer listBibl if required -->
+                            <head><!-- use to provide a heading if required, otherwise delete --></head>
+                            <bibl><!-- insert bibliography, links to online resource, etc., otherwise delete--></bibl>
+                            
+                        </listBibl>
+                    </additional>
+                    
+                    
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change>
+                <!-- insert relevant text, e.g. 'First online publication' -->
+                <!-- provide the date of the change using the @when attribute -->
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><!--Body paragraph provided for validation and future transcription--></p>
+        </body>
+    </text>
+</TEI>
+
+
+
