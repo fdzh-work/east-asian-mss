@@ -59,7 +59,7 @@
                             <title>中西事務紀要</title>
                             <title xml:lang="en">Zhong xi shi wu ji yao
                                 Chronicles of Sino-Western Affairs</title>
-                            <author>夏燮 (1800-1875)</author>
+                            <author key="Chinese">夏燮 (1800-1875)</author>
                             <note>This manuscript is a collaborative effort, handwritten by several contributors.</note>
                             <msItem>
                                 <title key="分卷"><locus>vol.1</locus>中西事務紀要 卷一</title>
@@ -112,7 +112,8 @@
                                     <!-- use additional dimensions elements if necessary -->
                                 </extent>
                                 
-                                <condition>每冊封面封底略有彎折，輕微污損。卷二題簽輕微破損，卷二卷三題簽破損。</condition>
+                                <condition>每冊封面封底略有彎折，輕微污損。卷二題簽輕微破損，卷二卷三題簽破損。
+                                           Showing slight signs of bending and staining. The tags on volumes two and three are broken.</condition>
                             </supportDesc>
                             <layoutDesc>
                                 <layout>無邊框，每半頁分十二行抄寫，每行約二十五字。</layout>
