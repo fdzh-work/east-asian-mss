@@ -52,93 +52,103 @@
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>An anoynymous work on navigation</summary>
+                        <summary>An anoynymous manuscript of a rutter, or manual of compass directions. 
+                                 The title 'Shun Feng Xiang Song' can be translated as 'Favourable Winds in Escort'.</summary>
                         <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
                         
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            <title key="">順風相送 不分卷</title>
-                            <title>Shun feng xiang song，Laud Rutter</title>
+                            <title key="">順風相送 (不分卷)</title>
+                            <title  xml:lang="en">Shun feng xiang song，
+                                                  Laud Rutter,
+                                                  Favourable Winds in Escort</title>
                             <author key="">佚名撰</author>
-                            <author key="">Unidentified</author>
-                            <incipit>昔者周公設造指南之法，通自古今流行久遠，中有山形水勢，抄描啚寫終誤，或更數增減無有之或籌頭差別，無有之其古本年深破壞有無，難以比對。後人若抄寫從真本惟恐悞事予因暇日將更籌比對稽考通行較日於</incipit>
-                            <rubric>論四季電歌<locus type="folio"> fol.10r</locus></rubric>
-                            <rubric>四方電候歌<locus type="folio">folio.10r</locus></rubric>
-                            <rubric>觀星法<locus type="folio">folio.10r</locus></rubric>
-                            <rubric>定太陽出沒歌<locus type="folio">folio.11r</locus></rubric>
-                            <rubric>定太陰出沒歌<locus type="folio">folio.11r</locus></rubric>
-                            <rubric>定寅時歌<locus type="folio">folio.11v</locus></rubric>
-                            <rubric>定天德方<locus type="folio">folio.11r</locus></rubric>
-                            <rubric>定三方針法<locus type="folio">folio.11r</locus></rubric>
-                            <rubric>定四方針位<locus type="folio">folio.12r</locus></rubric>
-                            <rubric>定風用針法<locus type="folio">folio.12r</locus></rubric>
-                            <rubric>各處州府山形水勢深淺泥沙地礁石之啚<locus type="folio">folio.12r</locus></rubric>
-                            <rubric>靈山往爪蛙山形水勢法啚<locus type="folio">folio.15v</locus></rubric>
-                            <rubric>爪蛙回靈山來路<locus type="folio">folio.15v</locus></rubric>
-                            <rubric>新村爪娃至瞞喇咖山形水勢之啚<locus type="folio">folio.16v</locus></rubric>
-                            <rubric>坑山形水勢之啚<locus type="folio">folio.17r</locus></rubric>
-                            <rubric>玉皇寳號<locus type="folio">folio.17r</locus></rubric>
-                            <rubric>湄州娘媽<locus type="folio">folio.18r</locus></rubric>
-                            <rubric>福建往交趾針路<locus type="folio">folio.19r</locus></rubric>
-                            <rubric>往柬埔寨針路<locus type="folio">folio.19v</locus></rubric>
-                            <rubric>福建往暹羅針路<locus type="folio">folio.20v</locus></rubric>
-                            <rubric>浯嶼往大泥吉蘭丹<locus type="folio">folio.23r</locus></rubric>
-                            <rubric>太武往彭坊針路<locus type="folio">folio.24r</locus></rubric>
-                            <rubric>廣東往磨六甲針<locus type="folio">folio.25r</locus></rubric>
-                            <rubric>滿喇咖回廣東針路<locus type="folio">folio.26r</locus></rubric>
-                            <rubric>苧盤往舊港并順塔針路<locus type="folio">folio.26v</locus></rubric>
-                            <rubric>順塔往舊港及苧盤針路<locus type="folio">folio.27r</locus></rubric>
-                            <rubric>福建往爪蛙針路<locus type="folio">folio.27v</locus></rubric>
-                            <rubric>赤坎往柬埔寨針<locus type="folio">folio.29v</locus></rubric>
-                            <rubric>柬埔寨往大泥<locus type="folio">folio.30v</locus></rubric>
-                            <rubric>暹羅往大泥彭亨磨六甲<locus type="folio">folio.31r</locus></rubric>
-                            <rubric>羅灣頭往六甲針<locus type="folio">folio.33r</locus></rubric>
-                            <rubric>苧盤往丁機宜針<locus type="folio">folio.33v</locus></rubric>
-                            <rubric>赤坎往舊港順塔<locus type="folio">folio.34r</locus></rubric>
-                            <rubric>順塔外峽<locus type="folio">folio.35v</locus></rubric>
-                            <rubric>萬丹往池汶精妙針路<locus type="folio">folio.36r</locus></rubric>
-                            <rubric>順塔往遮里問淡目<locus type="folio">folio.37v</locus></rubric>
-                            <rubric>萬丹往馬神<locus type="folio">folio.38v</locus></rubric>
-                            <rubric>舊港往杜蠻<locus type="folio">folio.39r</locus></rubric>
-                            <rubric>大泥往池汶針路<locus type="folio">folio.39v</locus></rubric>
-                            <rubric>浯嶼往杜蠻饒潼<locus type="folio">folio.40v</locus></rubric>
-                            <rubric>偖蠻饒潼回針丹詳<locus type="folio">folio.41r</locus></rubric>
-                            <rubric>浯嶼取諸葛擔藍<locus type="folio">folio.10v</locus></rubric>
-                            <rubric>浯嶼往荖維<locus type="folio">folio.40v</locus></rubric>
-                            <rubric>馬神往高兜令銀<locus type="folio">folio.42v</locus></rubric>
-                            <rubric>阿齊回萬丹<locus type="folio">folio.43r</locus></rubric>
-                            <rubric>描律回加里仔蠻<locus type="folio">folio.44r</locus></rubric>
-                            <rubric>加里仔蠻回萬丹<locus type="folio">folio.44v</locus></rubric>
-                            <rubric>磨六甲往阿齊<locus type="folio">folio.45r</locus></rubric>
-                            <rubric>阿齊往羅里<locus type="folio">folio.45v</locus></rubric>
-                            <rubric>阿齊往傍伽喇<locus type="folio">folio.46r</locus></rubric>
-                            <rubric>阿齊往古里<locus type="folio">folio.46v</locus></rubric>
-                            <rubric>古里往忽魯謨斯<locus type="folio">folio.47v</locus></rubric>
-                            <rubric>古里往阿丹<locus type="folio">folio.47v</locus></rubric>
-                            <rubric>古里往祛法兒<locus type="folio">folio.49r</locus></rubric>
-                            <rubric>柬埔寨南港往筆架幷彭坊西<locus type="folio">folio.49v</locus></rubric>
-                            <rubric>柬埔寨往鳥丁礁林<locus type="folio">folio.50v</locus></rubric>
-                            <rubric>柬埔寨往暹羅<locus type="folio">folio.51r</locus></rubric>
-                            <rubric>暹羅往馬軍<locus type="folio">folio.51v</locus></rubric>
-                            <rubric>苧盤往文萊<locus type="folio">folio.52v</locus></rubric>
-                            <rubric>瞞咖喇往舊港<locus type="folio">folio.53v</locus></rubric>
-                            <rubric>往澎湖<locus type="folio">folio.56r</locus></rubric>
-                            <rubric>南氵粵往澎湖<locus type="folio">folio.56v</locus></rubric>
-                            <rubric>呂宋往文萊<locus type="folio">folio.57v</locus></rubric>
-                            <rubric>文萊回呂宋<locus type="folio">folio.58r</locus></rubric>
-                            <rubric>松浦往呂宋<locus type="folio">folio.58v</locus></rubric>
-                            <rubric>呂宋回松浦<locus type="folio">folio.59r</locus></rubric>
-                            <rubric>泉州往勃泥即文萊<locus type="folio">folio.59v</locus></rubric>
-                            <rubric>浯嶼麻里呂<locus type="folio">folio.60r</locus></rubric>
-                            <rubric>泉州往彭家施闌<locus type="folio">folio.60v</locus></rubric>
-                            <rubric>泉州往杉木<locus type="folio">folio.61r</locus></rubric>
-                            <rubric>杉木回浯嶼<locus type="folio">folio.61v</locus></rubric>
-                            <rubric>福建往琉球("釣魚嶼"is in this part)<locus type="folio">folio.62r</locus></rubric>
-                            <rubric>琉往日本針路球<locus type="folio">folio.63r</locus></rubric>
-                            <rubric>兵庫港回琉球針路<locus type="folio">folio.63v</locus></rubric>
-                            <rubric>琉球回福建<locus type="folio">folio.64r</locus></rubric>
-                            <rubric>日本港山水形勢<locus type="folio">folio.64v</locus></rubric>
+                            <author key="">Unknown</author>
+                            <incipit><locus type="folio"> fol.3v</locus>Libri Guil: Laud Archicri Cancillar: Vniursit: Oxon, 1634.</incipit>
+                            <incipit type="preface"><locus type="folio"> fol.4r</locus>昔者周公設造指南之法，通自古今流行久遠，中有山形水勢，抄描啚寫終誤，或更數增減無有之或籌頭差別，無有之其古本年深破壞有無，難以比對。後人若抄寫從真本惟恐悞事予因暇日將更籌比對稽考通行較日於</incipit>
+                            <title>地羅經下針神文<locus type="folio"> fol.5r</locus></title>
+                            <title>行船更數法<locus type="folio"> fol.6v</locus></title>
+                            <title>取水法<locus type="folio"> fol.7r</locus></title>
+                            <title>下針法<locus type="folio"> fol.7r</locus></title>
+                            <title>逐月惡風法<locus type="folio"> fol.7r</locus></title>
+                            <title>定潮水消長時候<locus type="folio"> fol.8r</locus></title>
+                            <title>論四季電歌<locus type="folio"> fol.10r</locus></title>
+                            <title>四方電候歌<locus type="folio">folio.10r</locus></title>
+                            <title>觀星法<locus type="folio">folio.10r</locus></title>
+                            <title>定太陽出沒歌<locus type="folio">folio.11r</locus></title>
+                            <title>定太陰出沒歌<locus type="folio">folio.11r</locus></title>
+                            <title>定寅時歌<locus type="folio">folio.11v</locus></title>
+                            <title>定天德方<locus type="folio">folio.11r</locus></title>
+                            <title>定三方針法<locus type="folio">folio.11r</locus></title>
+                            <title>定四方針位<locus type="folio">folio.12r</locus></title>
+                            <title>定風用針法<locus type="folio">folio.12r</locus></title>
+                            <title>各處州府山形水勢深淺泥沙地礁石之啚<locus type="folio">folio.12r</locus></title>
+                            <title>靈山往爪蛙山形水勢法啚<locus type="folio">folio.15v</locus></title>
+                            <title>爪蛙回靈山來路<locus type="folio">folio.15v</locus></title>
+                            <title>新村爪娃至瞞喇咖山形水勢之啚<locus type="folio">folio.16v</locus></title>
+                            <title>坑山形水勢之啚<locus type="folio">folio.17r</locus></title>
+                            <title>玉皇寳號<locus type="folio">folio.17r</locus></title>
+                            <title>湄州娘媽<locus type="folio">folio.18r</locus></title>
+                            <title>福建往交趾針路<locus type="folio">folio.19r</locus></title>
+                            <title>往柬埔寨針路<locus type="folio">folio.19v</locus></title>
+                            <title>福建往暹羅針路<locus type="folio">folio.20v</locus></title>
+                            <title>浯嶼往大泥吉蘭丹<locus type="folio">folio.23r</locus></title>
+                            <title>太武往彭坊針路<locus type="folio">folio.24r</locus></title>
+                            <title>廣東往磨六甲針<locus type="folio">folio.25r</locus></title>
+                            <title>滿喇咖回廣東針路<locus type="folio">folio.26r</locus></title>
+                            <title>苧盤往舊港并順塔針路<locus type="folio">folio.26v</locus></title>
+                            <title>順塔往舊港及苧盤針路<locus type="folio">folio.27r</locus></title>
+                            <title>福建往爪蛙針路<locus type="folio">folio.27v</locus></title>
+                            <title>赤坎往柬埔寨針<locus type="folio">folio.29v</locus></title>
+                            <title>柬埔寨往大泥<locus type="folio">folio.30v</locus></title>
+                            <title>暹羅往大泥彭亨磨六甲<locus type="folio">folio.31r</locus></title>
+                            <title>羅灣頭往六甲針<locus type="folio">folio.33r</locus></title>
+                            <title>苧盤往丁機宜針<locus type="folio">folio.33v</locus></title>
+                            <title>赤坎往舊港順塔<locus type="folio">folio.34r</locus></title>
+                            <title>順塔外峽<locus type="folio">folio.35v</locus></title>
+                            <title>萬丹往池汶精妙針路<locus type="folio">folio.36r</locus></title>
+                            <title>順塔往遮里問淡目<locus type="folio">folio.37v</locus></title>
+                            <title>萬丹往馬神<locus type="folio">folio.38v</locus></title>
+                            <title>舊港往杜蠻<locus type="folio">folio.39r</locus></title>
+                            <title>大泥往池汶針路<locus type="folio">folio.39v</locus></title>
+                            <title>浯嶼往杜蠻饒潼<locus type="folio">folio.40v</locus></title>
+                            <title>偖蠻饒潼回針丹詳<locus type="folio">folio.41r</locus></title>
+                            <title>浯嶼取諸葛擔藍<locus type="folio">folio.10v</locus></title>
+                            <title>浯嶼往荖維<locus type="folio">folio.40v</locus></title>
+                            <title>馬神往高兜令銀<locus type="folio">folio.42v</locus></title>
+                            <title>阿齊回萬丹<locus type="folio">folio.43r</locus></title>
+                            <title>描律回加里仔蠻<locus type="folio">folio.44r</locus></title>
+                            <title>加里仔蠻回萬丹<locus type="folio">folio.44v</locus></title>
+                            <title>磨六甲往阿齊<locus type="folio">folio.45r</locus></title>
+                            <title>阿齊往羅里<locus type="folio">folio.45v</locus></title>
+                            <title>阿齊往傍伽喇<locus type="folio">folio.46r</locus></title>
+                            <title>阿齊往古里<locus type="folio">folio.46v</locus></title>
+                            <title>古里往忽魯謨斯<locus type="folio">folio.47v</locus></title>
+                            <title>古里往阿丹<locus type="folio">folio.47v</locus></title>
+                            <title>古里往祛法兒<locus type="folio">folio.49r</locus></title>
+                            <title>柬埔寨南港往筆架幷彭坊西<locus type="folio">folio.49v</locus></title>
+                            <title>柬埔寨往鳥丁礁林<locus type="folio">folio.50v</locus></title>
+                            <title>柬埔寨往暹羅<locus type="folio">folio.51r</locus></title>
+                            <title>暹羅往馬軍<locus type="folio">folio.51v</locus></title>
+                            <title>苧盤往文萊<locus type="folio">folio.52v</locus></title>
+                            <title>瞞咖喇往舊港<locus type="folio">folio.53v</locus></title>
+                            <title>往澎湖<locus type="folio">folio.56r</locus></title>
+                            <title>南氵粵往澎湖<locus type="folio">folio.56v</locus></title>
+                            <title>呂宋往文萊<locus type="folio">folio.57v</locus></title>
+                            <title>文萊回呂宋<locus type="folio">folio.58r</locus></title>
+                            <title>松浦往呂宋<locus type="folio">folio.58v</locus></title>
+                            <title>呂宋回松浦<locus type="folio">folio.59r</locus></title>
+                            <title>泉州往勃泥即文萊<locus type="folio">folio.59v</locus></title>
+                            <title>浯嶼麻里呂<locus type="folio">folio.60r</locus></title>
+                            <title>泉州往彭家施闌<locus type="folio">folio.60v</locus></title>
+                            <title>泉州往杉木<locus type="folio">folio.61r</locus></title>
+                            <title>杉木回浯嶼<locus type="folio">folio.61v</locus></title>
+                            <title>福建往琉球("釣魚嶼"is in this part)<locus type="folio">folio.62r</locus></title>
+                            <title>琉往日本針路球<locus type="folio">folio.63r</locus></title>
+                            <title>兵庫港回琉球針路<locus type="folio">folio.63v</locus></title>
+                            <title>琉球回福建<locus type="folio">folio.64r</locus></title>
+                            <title>日本港山水形勢<locus type="folio">folio.64v</locus></title>
         
                             <filiation>中外孤本 only surviving copy</filiation>
                              </msItem>
@@ -146,7 +156,7 @@
                     </msContents>
                     <physDesc>
                         
-                        <objectDesc form="包背裝"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
+                        <objectDesc form="codex"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
                             <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
                                 <support>mulbery and bamboo mix paper</support>
                                 <extent>71 leaves
@@ -185,7 +195,7 @@
                         
                         <bindingDesc>
                             <binding when="1600"><!-- use dating attributes to record the date -->
-                                <p>彩色硬面，洋裝，原缐裝</p>
+                                <p>彩色硬面，缐裝改洋裝。</p>
                                 <decoNote><!-- insert relevant information, otherwise delete --></decoNote>
                             </binding>
                         </bindingDesc>
