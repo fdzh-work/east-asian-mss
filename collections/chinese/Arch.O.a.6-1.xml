@@ -59,7 +59,7 @@
                      <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                      <locus><!-- insert --></locus>
                      <title>永樂大典：卷八百七之八百八</title> 
-                     <title xml:lang="en">Yung-lo ta-tien: juan 807-808
+                     <title xml:lang="en">Yung-lo ta-tien: chüan 807-808
                              Yongle Encyclopedia: vol. 807-808</title>
                      <editor>解縉</editor>
                      <msItem><locus>fol. 1r</locus>
@@ -119,16 +119,9 @@
                      https://git.io/msdescdoc#handdesc
                      -->
                   </handDesc>
-                  <musicNotation>
-                     <p><!-- insert if relevant, otherwise delete --></p>
-                     <!-- use additional p elements if necessary 
-                     https://git.io/msdescdoc#musicnotation
-                     -->
-                  </musicNotation>
                   <decoDesc>
                      <decoNote>
-                        <!-- use the @type attribute to record nature of decoration -->
-                        <!-- insert if relevant, otherwise delete --></decoNote>
+                        In traditional Chinese style yellow silk cover</decoNote>
                      <!-- use additional decoNote elements if necessary 
                      https://git.io/msdescdoc#decodesc
                      -->

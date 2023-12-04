@@ -52,18 +52,38 @@
                
                <msContents>
                   <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                  <summary><!--  --></summary>
+                  <summary>Yongle Encyclopedia: vol. 1036-1037</summary>
                   <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
                   
                   <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                      <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                      <locus><!-- insert --></locus>
-                     <title>Yung lo ta tien<note>7 vols. chÜan 807-808; 1036-1037; 5244-45; 13872-73; 15073-75; 16217-18. For chÜan 14607-07 see Ms.Chin.b.9</note></title>
-                     <title key="">永樂大典：卷一千三十六之一千三十七</title>
-                     <title>Yongle da dian: juan 1036-1037</title>
+                     <title>永樂大典：卷一千三十六之一千三十七</title>
+                     <title xml:lang="en">Yung-lo ta-tien: chüan 1036-1037
+                        Yongle Encyclopedia: vol. 1036-1037</title>
                      <editor>解縉</editor>
-                     <rubric>永樂大典</rubric>
-                     <rubric>兒：小兒症治六十九</rubric>
+                     <incipit type="note">錢乙小兒方O
+                                          顱顖[同”囟”]經OOOOOOOOOOOOOOO
+                                          共拾六條
+                                          栖真子嬰童OOOO
+                                          寳鑑方OOO
+                                          夏子孟衛生O
+                                          陳自明外科精義O
+                                          薩伍彌実方
+                                          拾条児 </incipit>
+                     <msItem><locus>fol. 1r</locus>
+                        <title>永樂大典卷之一千三十六 二支</title>
+                        <rubric>兒：小兒症治六十九</rubric>
+                        <incipit>小兒卒死論</incipit>
+                        <explicit><locus>fol. 29v</locus>永樂大典卷之一千三十六</explicit>
+                     </msItem>
+                     
+                     <msItem><locus>fol. 30r</locus>
+                        <title>永樂大典卷之一千三十七 二支</title>
+                        <rubric>兒：小兒症治七十</rubric>
+                        <incipit>小兒諸丹論</incipit>
+                        <explicit><locus>fol. 60v</locus>永樂大典卷之一千三十七</explicit>
+                     </msItem>
                      
                      <colophon>重錄總校官侍郎臣<persName>高拱</persName><lb/>學士臣<persName>瞿景淳</persName></colophon>
                      
@@ -107,12 +127,6 @@
                      https://git.io/msdescdoc#handdesc
                      -->
                   </handDesc>
-                  <musicNotation>
-                     <p><!-- insert if relevant, otherwise delete --></p>
-                     <!-- use additional p elements if necessary 
-                     https://git.io/msdescdoc#musicnotation
-                     -->
-                  </musicNotation>
                   <decoDesc>
                      <decoNote>
                         In traditional Chinese style yellow silk cover</decoNote>
@@ -141,7 +155,7 @@
                      <!-- see https://git.io/msdescdoc#origin -->
                      <origPlace>
                         <country>China</country>,
-                        <region><!-- insert --></region>,
+                        <region>Beijing</region>,
                         <settlement><!-- insert --></settlement>,
                         <orgName><!-- insert --></orgName>
                      </origPlace>
@@ -149,8 +163,20 @@
                      <!-- use additional origPlace and origDate elements if necessary -->
                   </origin>
                   <provenance>
-                     The seven volumes MS.Chin.a.17-23 were purchased by A.F.L (“Freddie”) Beeston, Keeper of Oriental Books, from Mr. James Cleugh for £100 in November 1950 (Bodleian Library, unreferenced correspondence in a box marked “Chinese” in the New Library, Room 127) and “are said to have been in the possession of Mr. H.B. Bristow, a member of the British Consulate in Tientsin in the eighteen-seventies” (Beeston, 199). Bristow, the son of an inn keeper in South Lynn, Norfolk, entered the consular service in 1867 at the age of 18, and subsequently became consul at Chefoo and Tientsin. He retired on grounds of ill health in 1897, and does not appear to have been present during the Siege. There was however a “Student Interpreter” H.H. Bristow present at the Siege (Giles, Lancelot, 180), and it is possible that it is he who might have acquired the volumes. None of them bears any inscriptions. As shown in Yuan Tongli's list and Zhang Chenshi's list  
-                  </provenance>
+                     The seven volumes MS.Chin.a.17-23 were purchased by A.F.L (“Freddie”) Beeston, Keeper of Oriental Books, 
+                     from Mr. James Cleugh for £100 in November 1950 (Bodleian Library, unreferenced correspondence in a box 
+                     marked “Chinese” in the New Library, Room 127) and “are said to have been in the possession of Mr. H.B. Bristow, 
+                     a member of the British Consulate in Tientsin in the eighteen-seventies” (Beeston, 199). Bristow, the son of 
+                     an inn keeper in South Lynn, Norfolk, entered the consular service in 1867 at the age of 18, and subsequently 
+                     became consul at Chefoo and Tientsin. He retired on grounds of ill health in 1897, and does not appear to have 
+                     been present during the Siege. There was however a “Student Interpreter” H.H. Bristow present at the Siege 
+                     (Giles, Lancelot, 180), and it is possible that it is he who might have acquired the volumes. None of them bears 
+                     any inscriptions. As shown in Zhang Chenshi's list and reproduced in the 1960/1984 Zhonghua Shuju reprint.  
+                     notes: Beeston, A.F.L.: Seven new volumes of Yong-lo ta-tien. (The Bodleian Library record 3, 1950-1951. 198-200).
+                     Giles, Lancelot: The siege of the Peking Legations: a diary. Nedlands: University of Western Australia Press, 1970.
+                     Yongle dadian: 永樂大典. 北京: 中華書局, 1986.
+                     Zhang: 張忱石: 永樂大典史話. 北京: 中華書局,1986.
+                     牛津大學博德利圖書館藏《永樂大典》(全十九冊). 北京: 國家圖書館出版社. </provenance>
                   <!-- use additional provenance elements if necessary -->
                   <acquisition>acquired in 1950</acquisition>
                </history>
