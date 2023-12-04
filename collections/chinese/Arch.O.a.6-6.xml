@@ -53,18 +53,36 @@
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary><!--  --></summary>
+                        <summary>Yongle Encyclopedia: vol. 15073-15075</summary>
                         <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
                         
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            <title>Yung lo ta tien<note>7 vols. chÜan 807-808; 1036-1037; 5244-45; 13872-73; 15073-75; 16217-18. For chÜan 14607-07 see Ms.Chin.b.9</note></title>
-                            <title key="">永樂大典:卷一萬五千七十三之一萬五千七十五</title>
-                            <title>Yongle da dian: juan 15073-15075</title>
+                            
+                            <title>永樂大典:卷一萬五千七十三之一萬五千七十五</title>
+                            <title xml:lang="en">Yung-lo ta-tien: chüan 15073-15075
+                                         Yongle Encyclopedia: vol. 15073-15075</title>
                             <editor>解縉</editor>
-                            <rubric>永樂大典</rubric>
-                            <rubric>誡:洪武正韻</rubric>
+
+                            <msItem><locus>fol. 1r</locus>
+                                <title>永樂大典卷之一萬五千七十三 七泰</title>
+                                <rubric>誡:洪武正韻</rubric>
+                                <explicit><locus>fol. 13v</locus>永樂大典卷之一萬五千七十三</explicit>
+                            </msItem>
+                            
+                            <msItem><locus>fol. 14r</locus>
+                                <title>永樂大典卷之一萬五千七十四 七泰</title>
+                                <rubric>誡:佛說略教誡經</rubric>
+                                <explicit><locus>fol. 24r</locus>永樂大典卷之一萬五千七十四</explicit>
+                            </msItem>
+                            
+                            <msItem><locus>fol. 25r</locus>
+                                <title>永樂大典卷之一萬五千七十五 七泰</title>
+                                <rubric>悈:洪武正韻</rubric>
+                                <explicit><locus>fol. 44r</locus>永樂大典卷之一萬五千七十五</explicit>
+                            </msItem>
+
                             <colophon>重錄總校官侍郎臣<persName>秦鳴雷</persName><lb/>學士臣<persName>王大任</persName></colophon>
                             
                             <colophon>分校官洗馬臣<persName>林燫</persName></colophon>
@@ -124,7 +142,7 @@
                         </additions>
                         <bindingDesc>
                             <binding when="1500"><!-- use dating attributes to record the date -->
-                                <p> 黃絹硬面,包背裝</p>
+                                <p>明嘉靖隆慶間內府重寫本。黃絹硬面,包背裝。</p>
                                 <decoNote><!-- insert relevant information, otherwise delete --></decoNote>
                             </binding>
                         </bindingDesc>
