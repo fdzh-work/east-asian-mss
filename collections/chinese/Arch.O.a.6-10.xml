@@ -106,12 +106,7 @@
                      https://git.io/msdescdoc#handdesc
                      -->
                         </handDesc>
-                        <musicNotation>
-                            <p><!-- insert if relevant, otherwise delete --></p>
-                            <!-- use additional p elements if necessary 
-                     https://git.io/msdescdoc#musicnotation
-                     -->
-                        </musicNotation>
+
                         <decoDesc>
                             <decoNote>
                                 In traditional Chinese style yellow silk cover</decoNote>
@@ -126,7 +121,7 @@
                         </additions>
                         <bindingDesc>
                             <binding when="1500"><!-- use dating attributes to record the date -->
-                                <p> 黃絹硬面,包背裝</p>
+                                <p>明嘉靖隆慶間內府重寫本。黃絹硬面,包背裝。</p>
                                 <decoNote><!-- insert relevant information, otherwise delete --></decoNote>
                             </binding>
                         </bindingDesc>
@@ -142,7 +137,7 @@
                             <!-- see https://git.io/msdescdoc#origin -->
                             <origPlace>
                                 <country>China</country>,
-                                <region><!-- insert --></region>,
+                                <region>Beijing</region>,
                                 <settlement><!-- insert --></settlement>,
                                 <orgName><!-- insert --></orgName>
                             </origPlace>

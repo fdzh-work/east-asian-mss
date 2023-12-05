@@ -53,16 +53,17 @@
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary><!--  --></summary>
+                        <summary>Yongle Encyclopedia: vol. 8021</summary>
                         <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
                         
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            <title key="">永樂大典:卷八千二十一</title>
-                            <title>Yongle da dian: juan 8021</title>
+                            <title>永樂大典:卷八千二十一</title>
+                            <title xml:lang="en">Yung-lo ta-tien: chüan 8021
+                                     Yongle Encyclopedia: vol. 8021</title>
                             <editor>解縉</editor>
-                            <rubric>永樂大典</rubric>
+                            <rubric>永樂大典:卷八千二十一 十九庚</rubric>
                             <rubric>蒸:骨蒸證治三</rubric>
                             
                             <colophon>重錄總校官侍郎臣<persName>高拱</persName><lb/>學士臣<persName>胡正蒙</persName></colophon>
@@ -80,7 +81,7 @@
                         <objectDesc form="包背裝"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
                             <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
                                 <support>mulberry and bamboo mixed paper</support>
-                                <extent>26 leaves
+                                <extent>27 leaves
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
                         https://git.io/msdescdoc#leafDimensions
@@ -106,12 +107,7 @@
                      https://git.io/msdescdoc#handdesc
                      -->
                         </handDesc>
-                        <musicNotation>
-                            <p><!-- insert if relevant, otherwise delete --></p>
-                            <!-- use additional p elements if necessary 
-                     https://git.io/msdescdoc#musicnotation
-                     -->
-                        </musicNotation>
+
                         <decoDesc>
                             <decoNote>
                                 In traditional Chinese style yellow silk cover</decoNote>
@@ -120,7 +116,9 @@
                      -->
                         </decoDesc>
                         <additions>
-                            <p> The cover labels are not present. Has traces of a Siku quanshu form. As shown in the Yuan Tongli's list, Zhang Chenshi's list and reproduction in the 1960/84 Zhonghua Shuju reprint.</p>
+                            <p> The cover labels are not present. Has traces of a Siku quanshu form. 
+                                As shown in the Yuan Tongli's list, Zhang Chenshi's list and reproduction 
+                                in the 1960/84 Zhonghua Shuju reprint.</p>
                         </additions>
                         <bindingDesc>
                             <binding when="1500"><!-- use dating attributes to record the date -->
@@ -140,7 +138,7 @@
                             <!-- see https://git.io/msdescdoc#origin -->
                             <origPlace>
                                 <country>China</country>,
-                                <region><!-- insert --></region>,
+                                <region>Beijing</region>,
                                 <settlement><!-- insert --></settlement>,
                                 <orgName><!-- insert --></orgName>
                             </origPlace>
@@ -148,7 +146,10 @@
                             <!-- use additional origPlace and origDate elements if necessary -->
                         </origin>
                         <provenance>
-                            The eleven volumes MS.Backhouse 1a-k are part of the large Backhouse Collection that was received in the stages between 1913 and 1922. Although Backhouse held himself aloof from other foreigners in Peking, he was present in the Legation during the Siege. As with almost all the other indications of ownership on any of the Backhouse volumes.
+                            The eleven volumes MS.Backhouse 1a-k are part of the large Backhouse Collection that 
+                            was received in the stages between 1913 and 1922. Although Backhouse held himself 
+                            aloof from other foreigners in Peking, he was present in the Legation during the Siege. 
+                            As with almost all the other indications of ownership on any of the Backhouse volumes.
                         </provenance>
                         <!-- use additional provenance elements if necessary -->
                         <acquisition>
