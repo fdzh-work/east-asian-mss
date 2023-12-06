@@ -53,16 +53,17 @@
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary><!--  --></summary>
+                        <summary>Yongle Encyclopedia: vol. 19735</summary>
                         <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
                         
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            <title key="">永樂大典:卷一萬九千七百三十五</title>
-                            <title>Yongle da dian: juan 19735</title>
+                            <title>永樂大典:卷一萬九千七百三十五</title>
+                            <title xml:lang="en">Yongle da dian: juan 19735
+                                   Yongle Encyclopedia: vol. 19735</title>
                             <editor>解縉</editor>
-                            <rubric>永樂大典</rubric>
+                            <rubric>永樂大典卷之一萬九千七百三十五 一屋</rubric>
                             <rubric>錄:曾公遺錄八</rubric>
                             
                             <colophon>重錄總校官侍郎臣<persName>陳以勤</persName><lb/>學士臣<persName>王大任</persName></colophon>
@@ -121,11 +122,13 @@
                         </decoDesc>
                         
                         <additions>
-                            <p>As shown in the Yuan Tongli's list, Zhang Chenshi's list and reproduction in the 1960/84 Zhonghua Shuju reprint.</p>
+                            <p>As shown in the Yuan Tongli's list, Zhang Chenshi's list and reproduction in the 1960/84 Zhonghua Shuju reprint.
+                               
+                               明嘉靖隆慶間內府重寫本。黃絹硬面,包背裝。</p>
                         </additions>
                         <bindingDesc>
                             <binding when="1500"><!-- use dating attributes to record the date -->
-                                <p> 黃絹硬面,包背裝</p>
+                                <p>明嘉靖隆慶間內府重寫本。黃絹硬面,包背裝。</p>
                                 <decoNote><!-- insert relevant information, otherwise delete --></decoNote>
                             </binding>
                         </bindingDesc>
@@ -141,7 +144,7 @@
                             <!-- see https://git.io/msdescdoc#origin -->
                             <origPlace>
                                 <country>China</country>,
-                                <region><!-- insert --></region>,
+                                <region>Beijing</region>,
                                 <settlement><!-- insert --></settlement>,
                                 <orgName><!-- insert --></orgName>
                             </origPlace>
@@ -149,7 +152,12 @@
                             <!-- use additional origPlace and origDate elements if necessary -->
                         </origin>
                         <provenance>
-                            The eleven volumes MS.Backhouse 1a-k are part of the large Backhouse Collection that was received in the stages between 1913 and 1922. Although Backhouse held himself aloof from other foreigners in Peking, he was present in the Legation during the Siege. As with almost all the other indications of ownership on any of the Backhouse volumes.
+                            The eleven volumes MS.Backhouse 1a-k are part of the large Backhouse Collection that 
+                            was received in the stages between 1913 and 1922. Although Backhouse held himself 
+                            aloof from other foreigners in Peking, he was present in the Legation during the Siege. 
+                            As with almost all the other indications of ownership on any of the Backhouse volumes.
+                            
+                            notes:牛津大學博德利圖書館藏《永樂大典》(全十九冊). 北京: 國家圖書館出版社. 
                         </provenance>
                         <!-- use additional provenance elements if necessary -->
                         <acquisition>
