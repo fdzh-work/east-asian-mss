@@ -66,7 +66,7 @@
                                   畢飛為乾隆年間狀元，學者，收藏家。</note>
                             <incipit type="seal">唐寅私印</incipit>
                             <explicit type="題簽">圖書館</explicit>
-                            <explicit type="背面">B/34？<note>Damaged，not recognisable. 字跡有缺損，無以辨認。</note></explicit>
+                            <explicit type="背面">B/34？<note>Damaged，not recognisable. 字跡缺損，無以辨認。</note></explicit>
                             <filiation>書畫卷軸，中外孤本。</filiation>  
                         </msItem>
                         <!-- insert further msItem elements as appropriate --> 
@@ -75,9 +75,9 @@
                     <physDesc>
                         
                         <objectDesc form="卷軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
-                            <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                                <support>mulberry and bamboo mixed paper</support>
-                                <extent>1 scroll
+                            <supportDesc material="紙本"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
+                                <support>mulberry and bamboo mixed paper 紙本</support>
+                                <extent>1 scroll 一軸
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
                         https://git.io/msdescdoc#leafDimensions
@@ -97,7 +97,7 @@
                         </objectDesc>
                         
                         <handDesc><!-- use the @hands attribute to record the number of scribes -->
-                            <handNote>
+                            <handNote>白描人物山水。
                                 </handNote>
                             <!-- use additional handNote elements if necessary 
                      https://git.io/msdescdoc#handdesc
@@ -135,10 +135,10 @@
                                 <settlement><!-- insert --></settlement>,
                                 <orgName><!-- insert --></orgName>
                             </origPlace>
-                            <origDate notAfter="1600" notBefore="1400" calendar="Gregorian">明代</origDate>
+                            <origDate notAfter="1600" notBefore="1400" calendar="Gregorian">明代，約1470-1524年間。</origDate>
                             <!-- use additional origPlace and origDate elements if necessary -->
                         </origin>
-                        <provenance> </provenance>
+                        <provenance>Donated by Sir Edmund Trelawny Backhouse, Baronet (20 October 1873 – 8 January 1944).</provenance>
                         
                         
                         <!-- use additional provenance elements if necessary -->
