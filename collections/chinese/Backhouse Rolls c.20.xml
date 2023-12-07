@@ -63,7 +63,7 @@
                             <incipit type="款識">玄宰畫</incipit>
                             <incipit type="seal">玄賞堂</incipit>
                             <incipit type="seal">昌</incipit>
-                            <explicit type="題簽">玄寧 畫</explicit>
+                            <explicit type="題簽">玄宰 畫</explicit>
                             <explicit type="背面">B/340</explicit>
                             <filiation>書畫卷軸，中外孤本。</filiation>  
                         </msItem>
@@ -73,9 +73,9 @@
                     <physDesc>
                         
                         <objectDesc form="卷軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
-                            <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                                <support>mulberry and bamboo mixed paper</support>
-                                <extent>1 scroll
+                            <supportDesc material="紙本"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
+                                <support>mulberry and bamboo mixed paper 紙本</support>
+                                <extent>1 scroll 一軸
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
                         https://git.io/msdescdoc#leafDimensions
@@ -136,7 +136,7 @@
                             <origDate notAfter="1900" notBefore="1800" calendar="Gregorian">1611 （存疑）</origDate>
                             <!-- use additional origPlace and origDate elements if necessary -->
                         </origin>
-                        <provenance> </provenance>
+                        <provenance>Donated by Sir Edmund Trelawny Backhouse, Baronet (20 October 1873 – 8 January 1944).</provenance>
                         
                         
                         <!-- use additional provenance elements if necessary -->

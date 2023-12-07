@@ -60,14 +60,14 @@
                             
                             <title type="desc">清康熙御書詩二首 軸</title>
                             <author key="Chinese">愛新覺羅玄燁 (1654-1722)</author>
-                            <incipit>一樹寒梅碧玉條向臨邨野傍溪橋
-                                     應知近水花先發疑是經春雪未消
-                                     翠樓春洒蝦蟆陵長安少年皆共景
-                                     紛紛半醉綠槐道躞蹀花驄驕不勝利</incipit>
+                            <incipit>一樹寒梅碧玉條，向臨邨野傍溪橋。
+                                     應知近水花先發，疑是經春雪未消。
+                                     翠樓春洒蝦蟆陵，長安少年皆共景。
+                                     紛紛半醉綠槐道，躞蹀花驄驕不勝。</incipit>
                             <incipit type="seal">康熙宸翰</incipit>
                             <incipit type="seal">剑泉鑑藏 <note>景其濬之鈐印。景其濬，字劍泉，進士出身，晚清政治人物</note></incipit>
-                            <explicit type="題簽">Emperor Kanghis’s autograph poem</explicit>
-                            <explicit type="題簽">圖書款</explicit>
+                            <explicit type="題簽">Emperor Kanghsi’s autograph poem</explicit>
+                            <explicit type="題簽">圖書館</explicit>
                             
                             <filiation>書法卷軸，中外孤本。</filiation>  
                         </msItem>
@@ -77,9 +77,9 @@
                     <physDesc>
                         
                         <objectDesc form="卷軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
-                            <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                                <support>mulberry and bamboo mixed paper</support>
-                                <extent>1 scroll
+                            <supportDesc material="紙本"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
+                                <support>mulberry and bamboo mixed paper 紙本</support>
+                                <extent>1 scroll  一軸
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
                         https://git.io/msdescdoc#leafDimensions
@@ -134,15 +134,14 @@
                             <!-- see https://git.io/msdescdoc#origin -->
                             <origPlace>
                                 <country>China</country>,
-                                <region><!-- insert --></region>,
+                                <region>Beijing</region>,
                                 <settlement><!-- insert --></settlement>,
                                 <orgName><!-- insert --></orgName>
                             </origPlace>
-                            <origDate notAfter="1800" notBefore="1600" calendar="Gregorian">清早期</origDate>
+                            <origDate notAfter="1800" notBefore="1600" calendar="Gregorian">清早期，約1564-1722年間。</origDate>
                             <!-- use additional origPlace and origDate elements if necessary -->
                         </origin>
-                        <provenance>
-                        </provenance>
+                        <provenance>Donated by Sir Edmund Trelawny Backhouse, Baronet (20 October 1873 – 8 January 1944).</provenance>
                         
                         
                         <!-- use additional provenance elements if necessary -->

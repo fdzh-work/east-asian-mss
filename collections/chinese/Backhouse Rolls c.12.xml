@@ -132,7 +132,7 @@
                                 <settlement><!-- insert --></settlement>,
                                 <orgName><!-- insert --></orgName>
                             </origPlace>
-                            <origDate notAfter="1900" notBefore="1600" calendar="Gregorian">嘉慶四年(1799)</origDate>
+                            <origDate notAfter="1900" notBefore="1600" calendar="Gregorian">嘉慶四年，即1799年。</origDate>
                             <!-- use additional origPlace and origDate elements if necessary -->
                         </origin>
                         <provenance>Donated by Sir Edmund Trelawny Backhouse, Baronet (20 October 1873 – 8 January 1944).</provenance>
