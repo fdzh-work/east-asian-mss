@@ -52,30 +52,32 @@
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>A pair of hanging scrolls of calligraphy in the Xing Shu style written by Prince Zhi of Qing dynasty (質親王, 1744-1790).</summary>
+                        <summary>A pair of hanging scrolls of calligraphy in the Xing Shu style attributed to Prince Zhi  (質親王, 1744-1790) of Qing dynasty.</summary>
                         <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
                         
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
                             
-                            <title type="desc">清質郡王行書七言聯</title>
+                            <title type="desc">清質郡王行書七言聯 軸</title>
                             <author key="Chinese">愛琴覺羅永瑢</author>
                             <note>Yongrong was the sixth son of the Qianlong Emperor. In 1772, he was conferred the title of 
                                 Prince Zhi of the Second Rank (質郡王). In 1789, he was further promoted to Prince Zhi of 
                                 the First Rank (質親王). He passed away in 1790 and was posthumously honored as 
                                 Prince Zhi Zhuang of the First Rank (質莊親王).</note>
+                            <msItem>
                             <title type="上聯">上聯</title>
                             <incipit>和氣漸開長日景</incipit>
                             <explicit type="背面">質郡王</explicit>
-                            <explicit type="背面">Prince Chih Chien Lung's son</explicit>
-                            
+                                <explicit type="背面">Prince Chih Chien Lung's son</explicit></msItem>
+                           
+                           <msItem>
                             <title type="下聯">下聯</title>
                             <incipit>春光先上萬年枝</incipit>
                             <incipit type="款識">質郡王</incipit>
                             <incipit type="seal">心正筆正</incipit>
                             <explicit type="背面">Backhouse Rolls b.7(2)</explicit>
-                            <explicit type="背面">B/330 質郡王</explicit>
+                               <explicit type="背面">B/330 質郡王</explicit> </msItem>
                             <filiation>書法卷軸，中外孤本。</filiation>   
                         </msItem>
                         <!-- insert further msItem elements as appropriate --> 
@@ -85,7 +87,7 @@
                         
                         <objectDesc form="立軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
                             <supportDesc material="絹本"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                                <support>silk</support>
+                                <support>silk 絹本</support>
                                 <extent>2 scrolls 二軸
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
@@ -140,14 +142,14 @@
                             <!-- see https://git.io/msdescdoc#origin -->
                             <origPlace>
                                 <country>China</country>,
-                                <region><!-- insert --></region>,
+                                <region>Beijing</region>,
                                 <settlement><!-- insert --></settlement>,
                                 <orgName><!-- insert --></orgName>
                             </origPlace>
                             <origDate notAfter="1900" notBefore="1800" calendar="Gregorian">1772-1789</origDate>
                             <!-- use additional origPlace and origDate elements if necessary -->
                         </origin>
-                        <provenance>
+                        <provenance>Donated by Sir Edmund Trelawny Backhouse, Baronet (20 October 1873 – 8 January 1944).
                         </provenance>
                         
                         

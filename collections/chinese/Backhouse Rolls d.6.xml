@@ -51,7 +51,7 @@
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>A scroll of Chinese painting depicts landscapes by Li Shi Zhuo (李世倬, 1687-1770) of Qing dynasty. </summary>
+                        <summary>A scroll of Chinese painting depicts landscapes attributed to Li Shi Zhuo (李世倬, 1687-1770) of Qing dynasty. </summary>
                         <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
                         
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
@@ -76,9 +76,9 @@
                     <physDesc>
                         
                         <objectDesc form="卷軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
-                            <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                                <support>mulberry and bamboo mixed paper</support>
-                                <extent>畫心
+                            <supportDesc material="紙本"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
+                                <support>mulberry and bamboo mixed paper 紙本</support>
+                                <extent>1 scroll  一軸
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
                         https://git.io/msdescdoc#leafDimensions
@@ -104,15 +104,9 @@
                      https://git.io/msdescdoc#handdesc
                      -->
                         </handDesc>
-                        <musicNotation>
-                            <p><!-- insert if relevant, otherwise delete --></p>
-                            <!-- use additional p elements if necessary 
-                     https://git.io/msdescdoc#musicnotation
-                     -->
-                        </musicNotation>
+                       
                         <decoDesc>
-                            <decoNote>小鑲手卷，天為藍色有花紋絲織物，有磨損、褪色和汎黃痕跡。隔水為淺黃色有花紋絲織物。引首為粉色灑金紙本，基本完好，
-                                拖尾為白色紙本，略有污跡。撞邊為淺棕色。錦包首為褐色絲織物伴有棕黃色花紋，題簽為淺棕色紙本，上書"李世倬"。
+                            <decoNote>
                             </decoNote>
                             <!-- use additional decoNote elements if necessary 
                      https://git.io/msdescdoc#decodesc
@@ -122,7 +116,8 @@
                         <bindingDesc>
                             <binding when="1700"><!-- use dating attributes to record the date -->
                                 <p>卷軸</p>
-                                <decoNote><!-- insert relevant information, otherwise delete --></decoNote>
+                                <decoNote>小鑲手卷，天為藍色有花紋絲織物，有磨損、褪色和汎黃痕跡。隔水為淺黃色有花紋絲織物。引首為粉色灑金紙本，基本完好，
+                                    拖尾為白色紙本，略有污跡。撞邊為淺棕色。錦包首為褐色絲織物伴有棕黃色花紋，題簽為淺棕色紙本，上書"李世倬"。</decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>
@@ -144,7 +139,7 @@
                             <origDate notAfter="1800" notBefore="1600" calendar="Gregorian">清中期</origDate>
                             <!-- use additional origPlace and origDate elements if necessary -->
                         </origin>
-                        <provenance> </provenance>
+                        <provenance>Donated by Sir Edmund Trelawny Backhouse, Baronet (20 October 1873 – 8 January 1944).</provenance>
                         
                         
                         <!-- use additional provenance elements if necessary -->
