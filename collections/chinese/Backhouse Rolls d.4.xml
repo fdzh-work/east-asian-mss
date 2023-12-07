@@ -51,7 +51,7 @@
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>A scroll of Chinese painting depicts birds and plants by Dong Bang Da (董邦達) of Qing dynasty. </summary>
+                        <summary>A scroll of Chinese painting depicts birds and plants attributed to Dong Bang Da (董邦達) of Qing dynasty. </summary>
                         <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
                         
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
@@ -82,8 +82,8 @@
                         
                         <objectDesc form="卷軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
                             <supportDesc material="絹本"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                                <support>silk</support>
-                                <extent>畫心
+                                <support>silk 絹本</support>
+                                <extent>1 scroll  一軸
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
                         https://git.io/msdescdoc#leafDimensions
@@ -116,8 +116,7 @@
                      -->
                         </musicNotation>
                         <decoDesc>
-                            <decoNote>大鑲手卷，天為淡藍色有花紋絲織物，有磨損和褪色痕跡。副隔水為白色有花紋絲織物，隔水為淡藍色絲織物。引首為白色紙本，
-                                拖尾為白色紙本，略有污跡。邊為白色絲織物。錦包首為藍綠色絲織物伴有紅色花紋，八寶帶和別子已遺失，題簽為黃色紙本。
+                            <decoNote>
                             </decoNote>
                             <!-- use additional decoNote elements if necessary 
                      https://git.io/msdescdoc#decodesc
@@ -127,7 +126,8 @@
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
                                 <p>卷軸</p>
-                                <decoNote><!-- insert relevant information, otherwise delete --></decoNote>
+                                <decoNote>大鑲手卷，天為淡藍色有花紋絲織物，有磨損和褪色痕跡。副隔水為白色有花紋絲織物，隔水為淡藍色絲織物。引首為白色紙本，
+                                    拖尾為白色紙本，略有污跡。邊為白色絲織物。錦包首為藍綠色絲織物伴有紅色花紋，八寶帶和別子已遺失，題簽為黃色紙本。</decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>
@@ -142,14 +142,14 @@
                             <!-- see https://git.io/msdescdoc#origin -->
                             <origPlace>
                                 <country>China</country>,
-                                <region><!-- insert --></region>,
+                                <region>Beijing</region>,
                                 <settlement><!-- insert --></settlement>,
                                 <orgName><!-- insert --></orgName>
                             </origPlace>
                             <origDate notAfter="1800" notBefore="1700" calendar="Gregorian">1739</origDate>
                             <!-- use additional origPlace and origDate elements if necessary -->
                         </origin>
-                        <provenance> </provenance>
+                        <provenance>Donated by Sir Edmund Trelawny Backhouse, Baronet (20 October 1873 – 8 January 1944).</provenance>
                         
                         
                         <!-- use additional provenance elements if necessary -->
