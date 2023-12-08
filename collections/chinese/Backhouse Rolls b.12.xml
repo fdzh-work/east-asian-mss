@@ -52,27 +52,30 @@
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>A pair of hanging scrolls of calligraphy in the Xing Shu style written by Zhang Zhi Wan (張之萬, 1811-1897).</summary>
+                        <summary>A pair of hanging scrolls of calligraphy in the Xing Shu style aatributed to Zhang Zhi Wan (張之萬, 1811-1897).</summary>
                         <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
                         
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
                             
-                            <title type="desc">清張之萬行書八言聯</title>
+                            <title type="desc">清張之萬行書八言聯 轴</title>
                             <author key="Chinese">張之萬</author>
+                            <msItem>
                             <title type="上聯">上聯</title>
                             <incipit>芷潛一兄年大人正</incipit>
                             <incipit>每讀書史多求理道</incipit>
                             <explicit type="背面">張之萬 對</explicit>
-                            <explicit type="背面">B/326</explicit>
+                            <explicit type="背面">B/326</explicit></msItem>
                             
+                            <msItem>
                             <title type="下聯">下聯</title>
                             <incipit>凡所擬議必希古人</incipit>
                             <incipit type="款識">子青弟張之萬</incipit>
                             <incipit type="seal">張之萬印</incipit>
                             <incipit type="seal">子青</incipit>
-                            <explicit type="背面">張之萬 對</explicit>
+                            <explicit type="背面">張之萬 對</explicit></msItem>
+                            
                             <filiation>書法卷軸，中外孤本。</filiation>   
                         </msItem>
                         <!-- insert further msItem elements as appropriate --> 
@@ -81,8 +84,8 @@
                     <physDesc>
                         
                         <objectDesc form="立軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
-                            <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                                <support>紙本</support>
+                            <supportDesc material="紙本"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
+                                <support>mulberry and bamboo mixed paper 纸本</support>
                                 <extent>2 scrolls 二軸
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
@@ -144,8 +147,7 @@
                             <origDate notAfter="1900" notBefore="1800" calendar="Gregorian">晚清</origDate>
                             <!-- use additional origPlace and origDate elements if necessary -->
                         </origin>
-                        <provenance>
-                        </provenance>
+                        <provenance>Donated by Sir Edmund Trelawny Backhouse, Baronet (20 October 1873 – 8 January 1944).</provenance>
                         
                         
                         <!-- use additional provenance elements if necessary -->
