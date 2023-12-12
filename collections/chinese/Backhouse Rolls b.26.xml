@@ -73,9 +73,9 @@
                     <physDesc>
                         
                         <objectDesc form="卷軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
-                            <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                                <support>mulberry and bamboo mixed paper</support>
-                                <extent>畫心
+                            <supportDesc material="紙本"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
+                                <support>mulberry and bamboo mixed paper 纸本</support>
+                                <extent>1 scroll 一轴
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
                         https://git.io/msdescdoc#leafDimensions
@@ -108,8 +108,7 @@
                      -->
                         </musicNotation>
                         <decoDesc>
-                            <decoNote>大鑲手卷，天為藍色絲織物，有磨損和褪色痕跡。隔水為淺藍色絲織物，有磨損待修復。引首為白色紙本，有破損，
-                                拖尾為白色紙本，略有污跡。邊為淺藍色絲織物，有破損。錦包首為藍色絲織物伴有棕紅色花紋，題簽為白色紙本，上書"董邦達"。
+                            <decoNote>
                             </decoNote>
                             <!-- use additional decoNote elements if necessary 
                      https://git.io/msdescdoc#decodesc
@@ -119,7 +118,8 @@
                         <bindingDesc>
                             <binding when="1700"><!-- use dating attributes to record the date -->
                                 <p>卷軸</p>
-                                <decoNote><!-- insert relevant information, otherwise delete --></decoNote>
+                                <decoNote>大鑲手卷，天為藍色絲織物，有磨損和褪色痕跡。隔水為淺藍色絲織物，有磨損待修復。引首為白色紙本，有破損，
+                                    拖尾為白色紙本，略有污跡。邊為淺藍色絲織物，有破損。錦包首為藍色絲織物伴有棕紅色花紋，題簽為白色紙本，上書"董邦達"。</decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>
@@ -141,7 +141,7 @@
                             <origDate notAfter="1800" notBefore="1700" calendar="Gregorian">清中期</origDate>
                             <!-- use additional origPlace and origDate elements if necessary -->
                         </origin>
-                        <provenance> </provenance>
+                        <provenance>Donated by Sir Edmund Trelawny Backhouse, Baronet (20 October 1873 – 8 January 1944).</provenance>
                         
                         
                         <!-- use additional provenance elements if necessary -->
