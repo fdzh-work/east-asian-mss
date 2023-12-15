@@ -60,16 +60,19 @@
                             
                             <title type="desc">清左宗棠行書七言聯 軸</title>
                             <author key="Chinese">左宗棠</author>
+                            <msItem>
                             <title type="上聯">上聯</title>
                             <incipit>溪雲雑雨來茅屋</incipit>
-                            <incipit type="seal">旂常(矛心)績</incipit>
-                            <explicit type="背面">左宗棠 对 scroll by Tso Tsung-Tang The ? ? statesman</explicit>
+                            <incipit type="seal">旂常[矛心]績</incipit>
+                            <explicit type="背面">左宗棠 对 scroll by Tso Tsung-Tang The [juns?] scholar and statesman.</explicit></msItem>
+                           
+                            <msItem>
                             <title type="下聯">下聯</title>
                             <incipit>庭竹移陰就小齋</incipit>
                             <incipit type="款識">左宗棠</incipit>
                             <incipit type="seal">大學士章</incipit>
                             <incipit type="seal">清宮太保恪靖侯</incipit>
-                            <explicit type="背面">B/319 左宗棠 对</explicit>
+                            <explicit type="背面">B/319 左宗棠 对</explicit></msItem>
                             <filiation>書法卷軸，中外孤本。</filiation>  
                         </msItem>
                         <!-- insert further msItem elements as appropriate --> 
@@ -142,6 +145,7 @@
                             <!-- use additional origPlace and origDate elements if necessary -->
                         </origin>
                         <provenance>
+                            Donated by Sir Edmund Trelawny Backhouse, 2nd Baronet (20 October 1873 – 8 January 1944). 
                         </provenance>
                         
                         

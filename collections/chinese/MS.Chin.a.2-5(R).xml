@@ -60,6 +60,7 @@
                             <locus><!-- insert --></locus>
                             <title key="supplied title">Sacred Buddhist Pictures</title>
                             
+                            <msItem>
                             <title key="subtitle">三殿宋帝王<note>Emperor Song of the third hall of the underworld</note></title>
                             <author key="Chinese">unknown</author>
                             <incipit type="note">叁殿？誕 [注：問號位置字有缺失]</incipit>
@@ -67,8 +68,9 @@
                             <incipit>造千萬人來往之橋代代家有吉神穫福</incipit>
                             <incipit>傷殺禽獸屠財害命南托此報</incipit>
                             <incipit>貪屠人家財產謀妻害夫生前作業定受此獄</incipit>
-                            <explicit type="背面">MS. Chin. a. 2 (R)</explicit>
-                            
+                                <explicit type="背面">MS. Chin. a. 2 (R)</explicit></msItem>
+                           
+                           <msItem>
                             <title key="subtitle">四殿五官王<note>Emperor Wu Guan of the forth hall of the underworld</note></title>
                             <author key="Chinese">unknown</author>
                             <incipit type="note">二月十八日肆殿五官王聖誕</incipit>
@@ -76,8 +78,9 @@
                             <incipit>用大斗小秤出納不公難逃此獄受苦戒之戒之</incipit>
                             <incipit>好淫惡賭窩誘子男咒詛善人盡找血污受罪</incipit>
                             <incipit>生前常用砂水參糧貨賣死后地獄多受此刑</incipit>
-                            <explicit type="背面">MS. Chin. a. 3 (R)</explicit>
+                               <explicit type="背面">MS. Chin. a. 3 (R)</explicit></msItem>
                             
+                            <msItem>
                             <title key="subtitle">八殿平等王<note>Emperor Ping Deng of the eighth hall of the underworld</note></title>
                             <author key="Chinese">unknown</author>
                             <incipit type="note">四月初八日玖殿平等王聖誕 <note>此畫的神像頭部上方文字“八殿平等王”有錯誤，題簽上正確，一般民間傳説應是八殿都市王，九殿平等王。</note></incipit>
@@ -86,8 +89,9 @@
                             <incipit>施齋供像</incipit>
                             <incipit>多談闱闲好揚是非說己常論人短毀罵尊長咒咀天地舌地獄受苦</incipit>
                             <incipit>在世之人多憂父母受驚空之是虛假害人借刀刹人借口阙非今生不報來生受此</incipit>
-                            <explicit type="背面">MS. Chin. a. 4 (R)</explicit>
+                                <explicit type="背面">MS. Chin. a. 4 (R)</explicit></msItem>
                             
+                            <msItem>
                             <title key="subtitle">十殿轉輪王<note>Emperor Zhuan Lun of the tenth hall of the underworld</note></title>
                             <author key="Chinese">unknown</author>
                             <incipit type="note">四月十七日拾殿轉輪王聖誕</incipit>
@@ -95,7 +99,7 @@
                             <incipit>印寫善書代權善經文化人成德者果報明鏡智恚不爽</incipit>
                             <incipit>凡人防火燒山防火害人水火無情傷生过重死后準弊火坑地獄受苦之報應</incipit>
                             <incipit>凡人在世多毀壞善書經文勸素吃葷改善作惡難免多為乞丐</incipit>
-                            <explicit type="背面">MS. Chin. a. 5 (R)</explicit>
+                                <explicit type="背面">MS. Chin. a. 5 (R)</explicit> </msItem>
                             
                             <filiation>書畫卷軸，中外孤本。</filiation>  
                         </msItem>
@@ -105,8 +109,8 @@
                     <physDesc>
                         
                         <objectDesc form="卷軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
-                            <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                                <support>mulberry and bamboo mixed paper</support>
+                            <supportDesc material="紙本"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
+                                <support>mulberry and bamboo mixed paper 紙本</support>
                                 <extent>4 scrolls 四軸
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         

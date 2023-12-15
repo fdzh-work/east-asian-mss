@@ -58,15 +58,20 @@
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
                             <title key="supplied title">LIU YUNG:[Calligraphy: two scrolls].</title>
-                            <title type="對聯">清劉墉楷書七言聯</title>
+                            <title type="對聯">清劉墉楷書七言聯 軸</title>
                             <author key="Chinese">可能爲<persName>劉墉（1719-1805）</persName>手跡</author>
+                            
+                            <msItem>
                             <title type="上聯">上聯</title>
-                            <incipit>閑尋綺思千花麗</incipit>
+                            <incipit>閑尋綺思千花麗</incipit></msItem>
+                            
+                            <msItem>
                             <title type="下聯">下聯</title>
                             <incipit>靜想高吟六義清</incipit>
                             <incipit type="款識">石菴</incipit>
                             <incipit type="seal">劉墉印信</incipit>
-                            <incipit type="seal">石菴</incipit>
+                            <incipit type="seal">石菴</incipit></msItem>
+                            
                             <filiation>書法卷軸，中外孤本。</filiation>  
                         </msItem>
                         <!-- insert further msItem elements as appropriate --> 
@@ -75,8 +80,8 @@
                     <physDesc>
                         
                         <objectDesc form="卷軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
-                            <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                                <support>mulberry and bamboo mixed paper</support>
+                            <supportDesc material="紙本"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
+                                <support>mulberry and bamboo mixed paper 紙本</support>
                                 <extent>2 scrolls 二軸
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
@@ -90,7 +95,7 @@
                                 <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>书法卷轴.墨色书写</layout>
+                                <layout>书法卷轴，墨色书写。</layout>
                                 
                             </layoutDesc>
                             
@@ -115,7 +120,7 @@
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
                                 <p>立軸</p>
-                                <decoNote>立軸，單色裱，邊框為白色絲織物有花紋。</decoNote>
+                                <decoNote>立軸，一色裱，邊框為白色絲織物有花紋。</decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>

@@ -52,7 +52,7 @@
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>A pair of hanging scrolls of calligraphy in the Xing Shu style aatributed to Zhang Zhi Wan (張之萬, 1811-1897).</summary>
+                        <summary>A pair of hanging scrolls of calligraphy in the Xing Shu style atributed to Zhang Zhi Wan (張之萬, 1811-1897).</summary>
                         <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
                         
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->

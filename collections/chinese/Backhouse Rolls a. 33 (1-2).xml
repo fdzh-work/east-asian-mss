@@ -51,7 +51,7 @@
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>A hanging scroll of Chinese calligraphy written in Kaishu style written by Empress Dowager Cixi (1835-1908) 
+                        <summary>A pair of hanging scrolls of Chinese calligraphy written in Kaishu style attributed to Empress Dowager Cixi (1835-1908) 
                                  of Qing dynasty.</summary>
                         <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
                         
@@ -96,7 +96,7 @@
                                 <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>书法卷轴,墨色书写.</layout>
+                                <layout>书法卷轴,墨色书写。</layout>
                                 
                             </layoutDesc>
                             

@@ -51,7 +51,7 @@
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>A hanging scroll of Chinese painting and calligraphy attributed to Gao Qipei (高其佩 1660-1734)</summary>
+                        <summary>A hanging scroll of Chinese painting and calligraphy attributed to Gao Qipei (高其佩 1660-1734), thoughthough it is highly probable to be a replica.</summary>
                         <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
                         
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
@@ -74,9 +74,9 @@
                     <physDesc>
                         
                         <objectDesc form="立軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
-                            <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                                <support>mulberry and bamboo mixed paper</support>
-                                <extent>1 scroll
+                            <supportDesc material="紙本"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
+                                <support>mulberry and bamboo mixed paper 紙本</support>
+                                <extent>1 scroll 一軸
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
                         https://git.io/msdescdoc#leafDimensions
@@ -136,7 +136,9 @@
                             <origDate notAfter="1900" notBefore="1800" calendar="Gregorian">據稱為清早期，待鑒別。</origDate>
                             <!-- use additional origPlace and origDate elements if necessary -->
                         </origin>
-                        <provenance> </provenance>
+                        <provenance>
+                            Donated by Sir Edmund Trelawny Backhouse, 2nd Baronet (20 October 1873 – 8 January 1944).
+                        </provenance>
                         
                         
                         <!-- use additional provenance elements if necessary -->
