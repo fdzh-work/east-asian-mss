@@ -59,6 +59,7 @@
                             <locus><!-- insert --></locus>
                             
                             <title type="desc">清康熙御書詩二首 軸</title>
+                            <title key="supplie title" xml:lang="en">A calligraphy scroll attributed to Emperor Kang Xi</title>
                             <author key="Chinese">愛新覺羅玄燁 (1654-1722)</author>
                             <incipit>一樹寒梅碧玉條，向臨邨野傍溪橋。
                                      應知近水花先發，疑是經春雪未消。
@@ -92,7 +93,8 @@
                                 <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>書法卷軸，紙本。</layout>
+                                <layout>Calligraphy written on trandtional Chinese paper of yellow colour.
+                                        書法卷軸，紙本。</layout>
                                 
                             </layoutDesc>
                             
@@ -118,7 +120,12 @@
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
                                 <p>卷軸</p>
-                                <decoNote>大鑲手卷，錦包首為淺棕色絲織物伴有藍色和紅色花紋，題簽為白色紙本，有破損。八寶帶為棗紅色絲織物，別子為灰色玉製。天為淺藍色有花紋絲織物，隔水為米白色有花紋絲織物，
+                                <decoNote>
+                                    Handscroll with wide borders (大鑲手卷): The protective and decorative backing (錦包首) is crafted from brown silk adorned with blue and red 
+                                    patterns. The title label (題簽) is composed of white Chinese paper. The 'Heaven' section (天) is fashioned from pale blue silk. Vertical 
+                                    stripes (隔水) and borders feature silk of white colour. The frontispiece (引首) and colophon section (拖尾) are crafted from traditional 
+                                    Chinese paper. 
+                                    大鑲手卷，錦包首為淺棕色絲織物伴有藍色和紅色花紋，題簽為白色紙本，有破損。八寶帶為棗紅色絲織物，別子為灰色玉製。天為淺藍色有花紋絲織物，隔水為米白色有花紋絲織物，
                                     引首為黃色紙本，撞邊為黃色，拖尾為白色紙本。書法寫與黃色紙上。</decoNote>
                             </binding>
                         </bindingDesc>

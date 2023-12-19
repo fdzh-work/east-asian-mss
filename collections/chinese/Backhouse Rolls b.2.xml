@@ -60,6 +60,7 @@
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
                             <title type="desc">清劉墉臨王羲之父子十帖 軸</title>
+                            <title key="supplie title" xml:lang="en">A set of five scrolls featuring calligraphy that imitates the style of Wang Xi Zhi, attributed to Liu Yong</title>
                             <author key="Chinese">劉墉(1719-1805)</author>
                             <msItem>
                             <title type="desc">一軸</title>
@@ -147,7 +148,8 @@
                                 <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>卷軸，紙本，墨色書寫。</layout>
+                                <layout>calligraphy written on traditional Chinese paper.
+                                        卷軸，紙本，墨色書寫。</layout>
                                 
                             </layoutDesc>
                         </objectDesc>
@@ -176,7 +178,10 @@
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
                                 <p>立軸</p>
-                                <decoNote>立軸,裝裱方式為一色裱，天頭、地脚及邊框為淺藍色有花紋絲織物，書法寫在黃色灑金紙本上。</decoNote>
+                                <decoNote>A set of five hanging scrolls adorned in the one-color mount style 
+                                    with blue jacquard silk. The calligraphies are written on traditional 
+                                    Chinese paper in yellow, embellished with gilt decorations.
+                                    立軸,裝裱方式為一色裱，天頭、地脚及邊框為淺藍色有花紋絲織物，書法寫在黃色灑金紙本上。</decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>

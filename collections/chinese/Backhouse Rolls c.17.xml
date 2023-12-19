@@ -58,6 +58,7 @@
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
                             <title>明唐寅畫山水人物圖 卷</title>
+                            <title key="supplie title" xml:lang="en">An ink painting featuring landscape and figures attributed to Tang Yin</title>
                             <author key="Chinese">唐寅 （1470-1524）<note>此卷作者或爲唐寅，有待考據。</note></author>
                             <note>唐寅，字伯虎，又字子畏，號六如居士、桃花庵主、逃禪仙吏、魯國唐生等直隸蘇州府吳縣人，明代畫家，文學家，吳中四才子之一。
                                   在畫史上與沈周、文徵明、仇英合稱為“明四家”或“吳門四家”。</note>
@@ -97,7 +98,7 @@
                         </objectDesc>
                         
                         <handDesc><!-- use the @hands attribute to record the number of scribes -->
-                            <handNote>白描人物山水。
+                            <handNote>ink on paper 白描人物山水
                                 </handNote>
                             <!-- use additional handNote elements if necessary 
                      https://git.io/msdescdoc#handdesc
@@ -115,8 +116,14 @@
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
                                 <p>卷軸</p>
-                                <decoNote>卷軸,大鑲手卷。錦包首為淺棕色帶紅色、綠色、藍色花紋絲織物，題簽為黃色紙本。天為淺藍色有花紋絲織物，
-                                    副隔水為白色有花紋絲織物，副隔水為米白色絲織物，邊為白色有花紋絲織物，引首和拖尾為米白色紙本。</decoNote>
+                                <decoNote>
+                                    Handscroll with wide borders. The protective and decorative back is made of brown silk with red, 
+                                    green and blue patterns. The title label is made of yellow Chinese paper. The Tian (“heaven”) is made 
+                                    of pale blue jacquard silk. Vertical stripes and borders are made of silk of beige colour. The 
+                                    frontispiece and colophon section are made of traditional Chinese paper.
+                                    卷軸,大鑲手卷。錦包首為淺棕色帶紅色、綠色、藍色花紋絲織物，題簽為黃色紙本。天頭為淺藍色有花紋絲織物，
+                                    副隔水為米白色絲織物，邊為白色有花紋絲織物，引首和拖尾為米白色紙本。
+                                    </decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>

@@ -58,6 +58,7 @@
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
                             <title type="desc">清張敔畫花鳥 卷</title>
+                            <title key="supplie title" xml:lang="en">A Chinese painting featuring birds and plants attributed to Zhang Yu</title>
                             <author key="Chinese">張敔（1734-1803)</author>
                             <note>張敔，字虎人，又字茝園，一字芷園，亦作芷沅，號雪鴻，又號木者（一作木香），晚號止止道人，先世安徽桐城人，遷江寧（今南京），籍山東歷城。</note>
                             <incipit type="款識">嘉慶四年冬十月朔後二日雪鴻居士張敔</incipit>
@@ -96,6 +97,7 @@
                         <handDesc><!-- use the @hands attribute to record the number of scribes -->
                             <handNote>
                                 Text written in 行書 (xing shu, semi-cursive) calligraphic style.
+                                Color on paper, depicting flowers and birds in a boneless style.
                                 設色花鳥畫,沒骨法。</handNote>
                             <!-- use additional handNote elements if necessary 
                      https://git.io/msdescdoc#handdesc
@@ -111,7 +113,12 @@
                         <bindingDesc>
                             <binding when="1700"><!-- use dating attributes to record the date -->
                                 <p>卷軸</p>
-                                <decoNote>大鑲手卷，天為淡藍色有花紋絲織物，有污損和褪色痕跡。副隔水為淺黃色有花紋絲織物，隔水為白色絲織物。引首為黃色配白色紙本，
+                                <decoNote>Handscroll with wide borders (大鑲手卷): The protective and decorative backing (錦包首) is crafted 
+                                    from green silk adorned with red, and blue patterns. The title label (題簽) is composed of white Chinese 
+                                    paper. The 'Heaven' section (天) is fashioned from pale blue jacquard silk. Vertical stripes (隔水) and 
+                                    borders (邊) feature silk of pale-yellow colour. The frontispiece (引首) and colophon section (拖尾) are 
+                                    crafted from traditional Chinese paper.
+                                    大鑲手卷，天為淡藍色有花紋絲織物，有污損和褪色痕跡。副隔水為淺黃色有花紋絲織物，隔水為白色絲織物。引首為黃色配白色紙本，
                                     拖尾為白色紙本，略有污跡。邊為白色絲織物。錦包首為綠色絲織物伴有紅色藍色花紋，題簽為白色紙本，以篆書寫"張雪鴻花鳥"。
                                 </decoNote>
                             </binding>

@@ -58,6 +58,7 @@
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
                             <title>明董其昌畫山水圖 卷</title>
+                            <title key="supplie title" xml:lang="en">A Chinese painting featuring landscape attributed to Dong Qi Chang</title>
                             <author key="Chinese">董其昌（1555-1636）</author>
                             <incipit>辛亥二月</incipit>
                             <incipit type="款識">玄宰畫</incipit>
@@ -88,7 +89,8 @@
                                 <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>书畫卷軸，紙本不設色。</layout>
+                                <layout>Ink on paper
+                                       书畫卷軸，紙本白描。</layout>
                                 
                             </layoutDesc>
                             
@@ -113,7 +115,14 @@
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
                                 <p>卷軸</p>
-                                <decoNote>卷軸,大鑲手卷。錦包首為藍色帶淺棕色花紋絲織物，題簽為米黃色紙本。天為米白色絲織物，
+                                <decoNote>
+                                    Handscroll with wide borders (大鑲手卷): The protective and decorative backing (錦包首)
+                                    is crafted from blue silk adorned with light-brown patterns. The title label (題簽) 
+                                    is composed of white Chinese paper, with signs of yellowing. The 'Heaven' section (天)
+                                    is fashioned from white silk. Vertical stripes (隔水) feature silk of white and 
+                                    pale-yellow colours. Borders are made of white silk. The frontispiece (引首) and 
+                                    colophon section (拖尾) are crafted from traditional Chinese paper. 
+                                    卷軸,大鑲手卷。錦包首為藍色帶淺棕色花紋絲織物，題簽為米黃色紙本。天為米白色絲織物，
                                     隔水與副隔水為白色和淺黃色絲織物，邊為白色絲織物，引首和拖尾為米白色紙本。</decoNote>
                             </binding>
                         </bindingDesc>

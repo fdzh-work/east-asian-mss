@@ -61,17 +61,19 @@
                             
                             <title type="desc">清張之萬行書八言聯</title>
                             <author key="Chinese">張之萬</author>
+                            <msItem>
                             <title type="上聯">上聯</title>
                             <incipit>湛遠二兄大人雅屬</incipit>
                             <incipit>觀化樂天與山同靜</incipit>
-                            <explicit type="背面">張之萬</explicit>
+                            <explicit type="背面">張之萬</explicit></msItem>
                             
+                            <msItem>
                             <title type="下聯">下聯</title>
                             <incipit>逰和傳朗隨地為春</incipit>
                             <incipit type="款識">子胥張之萬</incipit>
                             <incipit type="seal">張之萬印</incipit>
                             <incipit type="seal">子青</incipit>
-                            <explicit type="背面">張之萬 cataqlogue B/305</explicit>
+                            <explicit type="背面">張之萬 cataqlogue B/305</explicit></msItem>
                             <filiation>書法卷軸，中外孤本。</filiation>   
                         </msItem>
                         <!-- insert further msItem elements as appropriate --> 
@@ -80,8 +82,8 @@
                     <physDesc>
                         
                         <objectDesc form="立軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
-                            <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                                <support>紙本</support>
+                            <supportDesc material="紙本"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
+                                <support>mulberry and bamboo mixed paper 紙本</support>
                                 <extent>2 scrolls 二軸
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         

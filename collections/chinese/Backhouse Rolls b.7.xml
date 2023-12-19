@@ -60,6 +60,7 @@
                             <locus><!-- insert --></locus>
                             
                             <title type="desc">清質郡王行書七言聯 軸</title>
+                            <title key="supplie title" xml:lang="en">A pair of calligraphy scrolls attributed to Prince Zhi</title>
                             <author key="Chinese">愛琴覺羅永瑢</author>
                             <note>Yongrong was the sixth son of the Qianlong Emperor. In 1772, he was conferred the title of 
                                 Prince Zhi of the Second Rank (質郡王). In 1789, he was further promoted to Prince Zhi of 
@@ -101,7 +102,8 @@
                                 <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>書法立軸，絹本，對聯。</layout>
+                                <layout>Hanging scrolls featuring Chinese calligraphy in couplets.
+                                        書法立軸，絹本，對聯。</layout>
                                 
                             </layoutDesc>
                             
@@ -127,7 +129,15 @@
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
                                 <p>立軸</p>
-                                <decoNote>立軸，裝裱方式為二色裱，天頭地脚及邊框為淺藍色有花紋絲織物,隔水為白色紙本,已汎黃。書法寫與淺棕黃色灑金絹本上,配有彩繪多寶花草紋樣邊框。上聯卷軸的天杆処有破損痕跡，略有水印污損。</decoNote>
+                                <decoNote>
+                                    A set of two hanging scrolls adorned in the two-color mount style, featuring 
+                                    blue jacquard silk for the 'Heaven' section (天頭) and the 'Earth' section (地脚). 
+                                    Vertical stripes (隔水) are crafted from white Chinese paper, displaying signs of 
+                                    yellowing. The calligraphies are elegantly written on traditional Chinese paper 
+                                    in yellow, adorned with gilt and intricate pattern decorations.
+                                    立軸，裝裱方式為二色裱，天頭地脚及邊框為淺藍色有花紋絲織物,隔水為白色紙本,已汎黃。
+                                    書法寫與淺棕黃色灑金絹本上,配有彩繪多寶花草紋樣邊框。上聯卷軸的天杆処有破損痕跡，
+                                    略有水印污損。</decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>

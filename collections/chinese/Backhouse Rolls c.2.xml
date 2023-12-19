@@ -59,6 +59,7 @@
                             <locus><!-- insert --></locus>
                             
                             <title type="desc">清鄭燮行書詞二首 卷</title>
+                            <title key="supplie title" xml:lang="en">A scroll of calligraphy attributed to Zheng Xie</title>
                             <author key="Chinese">鄭燮 （1693-1766）</author>
                             <incipit> 何處著煙霞，漠漠平沙，幾行鴻雁晚風斜，寫破一天秋意思，飛過漁家，切莫近蒹葭，莫宿蘆花，好來此地落生涯，
                                       只恐夜深邊塞上，驚起胡笳。<note>這一部分為明代鈡世賢所作《浪淘沙·瀟湘八景·平沙落雁》</note>
@@ -124,7 +125,13 @@
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
                                 <p>卷軸</p>
-                                <decoNote>大鑲手卷。錦包首為藍色帶金色祥雲花紋絲織物，題簽為淡粉色紙本，有破損痕跡，八寶帶為藍色，別子已丟失。天為淺藍色絲織物，
+                                <decoNote>
+                                    Handscroll with wide borders (大鑲手卷): The protective and decorative backing (錦包首) is crafted from
+                                    blue silk adorned with gilt patterns of clouds. The title label (題簽) is composed of pink Chinese paper. 
+                                    The 'Heaven' section (天) is fashioned from pale blue silk. Vertical stripes (隔水) feature silk of 
+                                    white and pale-yellow colours. Borders (邊) are made of white silk. The frontispiece (引首) and colophon 
+                                    section (拖尾) are crafted from traditional Chinese paper. 
+                                    大鑲手卷。錦包首為藍色帶金色祥雲花紋絲織物，題簽為淡粉色紙本，有破損痕跡，八寶帶為藍色，別子已丟失。天為淺藍色絲織物，
                                     隔水與副隔水為白色和淺黃色絲織物，邊為白色絲織物，引首和拖尾為米白色紙本。</decoNote>
                             </binding>
                         </bindingDesc>

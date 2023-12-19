@@ -59,19 +59,21 @@
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
                             
-                            <title type="desc">清李鴻章行書八言聯</title>
+                            <title type="desc">清李鴻章行書八言聯 軸</title>
                             <author key="Chinese">李鴻章</author>
+                            <msItem>
                             <title type="上聯">上聯</title>
                             <incipit>承齋尊兄大人屬</incipit>
                             <incipit>海東日南魷瞻五會</incipit>
-                            <explicit type="背面">autograph of Li Hongzhan 李鴻章 對 B/325</explicit>
+                            <explicit type="背面">autograph of Li Hongzhan 李鴻章 對 B/325</explicit></msItem>
                             
+                            <msItem>
                             <title type="下聯">下聯</title>
                             <incipit>佛書道藏依援聖言</incipit>
                             <incipit type="款識">儀叟李鴻章</incipit>
                             <incipit type="seal">李鴻章印</incipit>
                             <incipit type="seal">大學士肅毅伯</incipit>
-                            <explicit type="背面">李鴻章 對 Backhouse Rolls b. 20(2)</explicit>
+                            <explicit type="背面">李鴻章 對 Backhouse Rolls b. 20(2)</explicit></msItem>
                             <filiation>書法卷軸，中外孤本。</filiation>   
                         </msItem>
                         <!-- insert further msItem elements as appropriate --> 
@@ -80,8 +82,8 @@
                     <physDesc>
                         
                         <objectDesc form="立軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
-                            <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                                <support>紙本</support>
+                            <supportDesc material="紙本"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
+                                <support>mulberry and bamboo mixed paper 紙本</support>
                                 <extent>2 scrolls 二軸
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         

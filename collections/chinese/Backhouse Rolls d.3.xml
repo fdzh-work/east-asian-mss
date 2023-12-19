@@ -58,6 +58,7 @@
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
                             <title type="desc">清張迺耆橫塘秋雨圖 卷</title>
+                            <title key="supplie title" xml:lang="en">A Chinese painting featuring birds and plants attributed to Zhang Nai Qi</title>
                             <author key="Chinese">張迺耆（生卒年不詳)</author>
                             <note>張迺耆，字寿民,号白眉、白门,安徽桐城人,寓居江苏南京,吾从子,生卒年不详。</note>
                             <incipit>橫塘秋雨 <persName>迺耆</persName></incipit>
@@ -99,6 +100,7 @@
                         <handDesc><!-- use the @hands attribute to record the number of scribes -->
                             <handNote>
                                 Text written in 行書 (xing shu, semi-cursive) calligraphic style.
+                                Color on paper, depicting flowers and birds in a boneless style.
                                 設色花鳥畫，沒骨法。</handNote>
                             <!-- use additional handNote elements if necessary 
                      https://git.io/msdescdoc#handdesc
@@ -121,7 +123,13 @@
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
                                 <p>卷軸</p>
-                                <decoNote>大鑲手卷，天為淡藍色有花紋絲織物，有污損和褪色痕跡。副隔水為淺藍色有花紋絲織物，隔水為白色絲織物。引首為白色紙本已汎黃，
+                                <decoNote>Handscroll with Wide Borders (大鑲手卷): The protective and decorative backing (錦包首) is crafted 
+                                    from blue silk adorned with pink and pale-blue patterns, showing signs of fading and staining. The title 
+                                    label (題簽) is made of white Chinese paper. The 'Heaven' section (天) is fashioned from pale-blue silk. 
+                                    Vertical stripes (隔水) feature white silk, and the borders are also made of white silk. The frontispiece (引首) 
+                                    and colophon section (拖尾) are crafted from traditional Chinese paper, displaying signs of yellowing. 
+                                    The silken cord is yellow.
+                                    大鑲手卷，天為淡藍色有花紋絲織物，有污損和褪色痕跡。副隔水為淺藍色有花紋絲織物，隔水為白色絲織物。引首為白色紙本已汎黃，
                                     拖尾為白色紙本，略有污跡。邊為白色絲織物。錦包首為藍色絲織物伴有淺粉色和淺藍色花紋，八寶帶為黃色，題簽為白色紙本。</decoNote>
                             </binding>
                         </bindingDesc>

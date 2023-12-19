@@ -51,13 +51,15 @@
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>Part of a set of six Chinese calligraphy hanging scrolls, the text on this particular set of scrolls claims itself to be genuine authentic calligraphy of Wang Xizhi (王羲之 303-361) in Kai Shu style, however, it is more likely to be a replica of late Qing dynasty. One interesting feature of this set is that many paragraphs are attribute to famous Chinese historical figures, such as Du Ruhui (杜如晦 585-630), Yan Zhenqing (顔真卿 709-785), Liu Gongquan (柳公權 778-865), Sang Weihan (桑維翰 898-946), Fang Xiaoru (方孝孺 1357-1402), and others. </summary>
+                        <summary>A set of six calligraphy scrolls attributed to Wang Xi Zhi, though it is highly probable that they are replicas or forgeries.</summary>
                         <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
                         
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. --> 
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            <title key="supplied title">晉王羲之書法軸<note>疑爲贋品</note></title>
+                            <title key="supplied title">佚名仿晉王羲之書法 六軸<note>疑爲贋品</note></title>
+                            
+                            <msItem>
                             <title type="shelfmark">Backhouse Rolls a. 39 (1)</title>
                             <incipit type="題跋">古人所有傳授筆法？？？傳於崔瑗及女文姬之傳之鍾繇之傳之御古人御傳之右軍與獻之獻之傳於羊欣欣傳於王僧處傳？？?傳之虞世南及歐陽詢輩十餘人皆揚名？於世爭見此屏而論之<date>崇禎十二年七月</date><persName>妼紹基</persName>題</incipit>
                             <incipit type="題跋"><date>康熙壬辰秋七月六日</date><persName>王時敏</persName>觀于<placeName>西田艸盧</placeName></incipit>
@@ -72,7 +74,9 @@
                             <incipit type="題跋">右軍之書為舜窮逰天老宏越海鍾/絕？人力寳上天資豈臨夢家所能夢見乎爰識數重以誌之<persName>吳道之</persName>据題</incipit>
                             <incipit type="題跋">余素好書法粗識其中三昧然初猶私心自今每見人美右軍書轍為意平今於友人處潯見此屏媚秀自然筆法不讓鍾衛敢不作下風拜哉<date>開元四年五月</date><persName>李世鳳</persName>題</incipit>
                             <incipit type="題跋">書法一道心正則氣定則始活始活則筆端筆端則墨法墨法則神凝神凝則象滋此皆書中之要訣也精熟于？訣自然筆妙而化右軍之書？意加意不法自法遂有名重於今未嘗敗言？？<date>正統辛酉二月</date><persName>劉球</persName>識</incipit>
+                            </msItem>
                             
+                            <msItem>
                             <title type="shelfmark">Backhouse Rolls a. 39 (2)</title>
                             <incipit type="題跋">逸少書妙獨絕無人出其右者世人皆？之火或鍾衛而出加之天質頡敏是以古今之冠<placeName>元照</placeName><persName>王鑬</persName>題於<placeName>廉州官舎</placeName></incipit>
                             <incipit type="題跋">萬世無匹<date>雍正五年葭月</date><persName>黃鼎</persName>題</incipit>
@@ -90,7 +94,9 @@
                             <incipit type="題跋">讀右軍文知為才子聞右軍名知為大將觀右軍書知為書家今見右軍是屏知為世寳可謂古今之罕見也<date>寳歴丙午九月九日</date><persName>王守澄</persName>題</incipit>
                             <incipit type="題跋">忠信貫千煉書名百世況拜觀宇數幅悅興古同游<persName>張昌達</persName>題</incipit>
                             <incipit type="題跋">右軍沈滋戎事明日作方子厭不卷乃有是必耳<date>乾隆三十四年七月</date><persName>趙文琪</persName>觀</incipit>
+                            </msItem>
                             
+                            <msItem>
                             <title type="shelfmark">Backhouse Rolls a. 39 (3)</title>
                             <incipit type="題跋">洵觀此屏不勝忻？細展？筆法工韻獨勝世之學書去？不失此規自然名聖未識此言賢之書家以爲何乃耶賞餘爰識數言以誌之<placeName>石為</placeName><persName>王翬</persName>題</incipit>
                             <incipit type="題跋">雲影于重主異筆峰之寸倘學專似此屏使恆管可洵重名真收腕底之全功胸中之生趣也能勿貴乎<date>丙申之秋</date><persName>麓？祁</persName>題</incipit>
@@ -109,7 +115,9 @@
                             <incipit type="題跋">相國潯此屏蹟以示舍展玩之餘？重筆法似喜虹飲澗蕩霰浮浦寳有緣於筠墨以陖遇之舟遇耳<persName>富弼</persName>拜題</incipit>
                             <incipit type="題跋">逸少生平所以蘭亭沒禪黃庭經道德經樂毅論為最妙？者難不及此然頗子揭洵今觀是屏見是筆法妔若銀鈎飄若騖鶯香當典為最者？妙也 <persName>葉朝棟</persName>題</incipit>
                             <incipit type="題跋"><date>順始六年夔卯月上現</date>觀於<placeName>>西冷之聼潮樓</placeName>邘上<placeName></placeName><persName>宗濂</persName>題記</incipit>
+                            </msItem>
                             
+                            <msItem>
                             <title type="shelfmark">Backhouse Rolls a. 39 (4)</title>
                             <incipit type="題跋">張兰綞奇鍾繇特纏逸少昇能献之冠世前推為世之考聖耳此屏逸少真蹟自及拱望視之<persName>金仁毅</persName>提</incipit>
                             <incipit type="題跋">丰神標格筆韵獨絕可謂盖世無雙也<persName>韓菼</persName>提</incipit>
@@ -126,7 +134,9 @@
                             <incipit type="題跋">嘗觀右軍隷字實滋鍾繇之法楷書乃由衛夫人之格不夫前人體格加之天機聰穎遂得名冠蓋世而謂？匠美 <persName>李賢</persName>題</incipit>
                             <incipit type="題跋"><date>成化卯李三月端陽後二日</date><persName>江淦</persName>題</incipit>
                             <incipit type="題跋"><persName>歐陽</persName>借觀於東林草舎</incipit>
+                            </msItem>
                             
+                            <msItem>
                             <title type="shelfmark">Backhouse Rolls a. 39 (5)</title>
                             <incipit type="題跋">是屏十二方裝成六幅上有歷朝諸名家跋殊為世寶罕見之物也珎藏家當采知若何貴重因呂識之<persName>王時敏</persName>所題</incipit>
                             <incipit type="題跋">吾嘗觀歷代書家之名重罕少則逸少為最也此屏真跡可愛之至借觀竟日題此識之<persName type="號">甌香閣主</persName><persName>壽平</persName></incipit>
@@ -141,7 +151,9 @@
                             <incipit type="題跋">嘗觀逸少真蹟行草多而正體少是幅行楷精妙勝於前觀者<persName>顔真卿</persName>觀記</incipit>
                             <incipit type="題跋">嘗觀逸少真跡勝于前觀者召此記之<date>洪武二十九年三月</date><persName>方孝孺</persName>題</incipit>
                             <incipit type="題跋"><date>天啓甲子春正月</date><placeName>下浣</placeName><persName>李國榗</persName>觀</incipit>
-                            
+                            </msItem> 
+                          
+                            <msItem>
                             <title type="shelfmark">Backhouse Rolls a. 39 (6)</title>
                             <incipit type="題跋">右軍傳云當下筆時先以運氣則力自隨矣是以所書或千百字或萬餘字自朝操筆至暮竟首尾如一此亦不易摹之然亦湏究其原盖腕力之足而工夫深自然到此境地觀其字而知其言矣<date>康熙己亥</date><persName>蔣廷鈞</persName>所題</incipit>
                             <incipit type="題跋">超工八法盡奇六文王逸少書偏工書永以真八法之勢能通一切字格是以所書皆入妙懷名滿於天下偶觀此屏所？學法？秀字體穩遲必是真績無疑矣愛題數言以誌之<persName>虞世南</persName></incipit>
@@ -151,6 +163,7 @@
                             <incipit type="題跋">余幼時喜習王字每尋遺跡苦無所得及後畧得數冊是當寳之朝夕臨撫稍有進境今偶觀是屏乃冊頁所成字體較之余藏者勝矣想前後分別也敬題數言<placeName>信本</placeName><persName>歐陽詢</persName>題</incipit>
                             <incipit type="題跋">善笔力者多骨 不善笔力者多肉 多力豐筋者聖，无力无筋者病 斯言信能义墨屏多少书蹟而謂余以筋骨為之臨洵名世<date>貞觀五年四月</date><persName>杜如晦</persName>題</incipit>
                             <incipit type="題跋">余向潯逸少隷字如奏喜之不勝以爲奇峯也不意今又見是屏乃行楷十二方裝成六幅更屬佳妙使人展之不勝駭異又為之奇幸遂出潰購之與？字卷弦藏庶莪自謂？？<persName>色仁鈺</persName>識</incipit>
+                            </msItem>
                             
                             <filiation>書法卷軸，中外孤本。</filiation>  
                         </msItem>
@@ -175,7 +188,7 @@
                                 <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>书法卷轴.墨色书写</layout>
+                                <layout>书法卷轴，墨色书写。</layout>
                                 
                             </layoutDesc>
                             
@@ -200,7 +213,7 @@
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
                                 <p>卷軸</p>
-                                <decoNote>立軸，二色裱，天頭地脚為深棕色帶黃色提花絲織物，上下隔水為藍色絲織物，每段書法分別爲不同作者書寫，也可能是一人以不同字體書寫</decoNote>
+                                <decoNote>立軸，二色裱，天頭地脚為深棕色帶黃色提花絲織物，上下隔水為藍色絲織物，每段書法分別爲不同作者書寫，也可能是一人以不同字體書寫。</decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>
@@ -219,10 +232,10 @@
                                 <settlement><!-- insert --></settlement>,
                                 <orgName><!-- insert --></orgName>
                             </origPlace>
-                            <origDate notAfter="1900" notBefore="1800" calendar="Gregorian">晚清</origDate>
+                            <origDate notAfter="1900" notBefore="1800" calendar="Gregorian">約爲晚清</origDate>
                             <!-- use additional origPlace and origDate elements if necessary -->
                         </origin>
-                        <provenance> </provenance>
+                        <provenance>Donated by Sir Edmund Trelawny Backhouse, Baronet (20 October 1873 – 8 January 1944).</provenance>
                         
                         
                         <!-- use additional provenance elements if necessary -->

@@ -111,10 +111,12 @@
                                 <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>内頁每半頁邊框高36cm，寬23，5cm，半頁八行，標題為大字，單行。正文為小字，雙行抄寫，每行28字。正文大小分作兩種，正文以大字，注則以小字。書口有三個魚尾，上書尾題“永樂大典卷某某”，下端雙魚尾内題頁碼。邊框，界行，引用書目，書口文字，句讀的小圓圈都爲紅色，其他都爲墨色。</layout>
-                                <!-- use additional layout elements if necessary 
-                        https://git.io/msdescdoc#layoutdesc-->
-                            </layoutDesc>
+                                <layout>Manuscript, in red and black ink. Column outlines and titles of works cited in red. 
+                                    Text written in black ink and punctuated with red circles. Eight columns per half-folio; 
+                                    28 Chinese characters per column.
+                                    内頁每半頁邊框高36cm，寬23，5cm，半頁八行，標題為大字，單行。正文為小字，雙行抄寫，每行28字。
+                                    正文大小分作兩種，正文以大字，注則以小字。書口有三個魚尾，上書尾題“永樂大典卷某某”，下端雙魚尾内題頁碼。
+                                    邊框，界行，引用書目，書口文字，句讀的小圓圈都爲紅色，其他都爲墨色。</layout></layoutDesc>
                         </objectDesc>
                         
                         <handDesc><!-- use the @hands attribute to record the number of scribes -->
@@ -144,9 +146,11 @@
                         </additions>
                         <bindingDesc>
                             <binding when="1500"><!-- use dating attributes to record the date -->
-                                <p>明嘉靖隆慶間內府重寫本。黃絹硬面,包背裝。</p>
-                                <decoNote><!-- insert relevant information, otherwise delete --></decoNote>
-                            </binding>
+                                <p> This is a reproduced version created during the reigns of the Jiajing Emperor and Longqing Emperor of the Ming Dynasty.
+                                    A hardback covered in traditional Chinese yellow silk with a wrapped back binding.
+                                    明嘉靖隆慶間內府重寫本。黃絹硬面,包背裝。</p></binding>
+
+
                         </bindingDesc>
                         <accMat>
                             <!-- insert if relevant, otherwise delete 

@@ -58,6 +58,7 @@
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
                             <title type="desc">清李世倬山水畫 卷</title>
+                            <title key="supplie title" xml:lang="en">A Chinese painting featuring landscape attributed to Li Shi Zhuo</title> 
                             <author key="Chinese">李世倬（1687-1770）</author>
                             <note>李世倬（1687—1770年），字天章，一字汉章，号谷斋，别号十石居士、清在居士等，三韩（今辽宁铁岭北）人。
                                   隶籍正蓝旗汉军，著名画家高其佩的外甥。历官知州、副都御史，太常寺卿等职，故后世称之为"李太常"。
@@ -91,7 +92,8 @@
                                 <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>卷軸，紙本，設色。</layout>
+                                <layout>Chinese landscapes depicted in color on paper.
+                                    卷軸，紙本，設色。</layout>
                                 
                             </layoutDesc>
                         </objectDesc>
@@ -116,7 +118,15 @@
                         <bindingDesc>
                             <binding when="1700"><!-- use dating attributes to record the date -->
                                 <p>卷軸</p>
-                                <decoNote>小鑲手卷，天為藍色有花紋絲織物，有磨損、褪色和汎黃痕跡。隔水為淺黃色有花紋絲織物。引首為粉色灑金紙本，基本完好，
+                                <decoNote>
+                                    The handscroll with narrow borders (小鑲手卷) features a protective and decorative backing (錦包首) 
+                                    crafted from brown silk adorned with elegant yellow patterns. The title label is meticulously 
+                                    made of pale-brown Chinese paper. The 'Heaven' section (天) is elegantly fashioned from pale-blue 
+                                    silk, exhibiting subtle signs of fading and staining. Vertical stripes (隔水) are composed of 
+                                    pale-yellow silk. The frontispiece (引首) is expertly crafted from traditional Chinese paper with 
+                                    gilt detailing, while the colophon section (拖尾) is made from traditional Chinese white paper, 
+                                    displaying delicate signs of staining.
+                                    小鑲手卷，天為藍色有花紋絲織物，有磨損、褪色和汎黃痕跡。隔水為淺黃色有花紋絲織物。引首為粉色灑金紙本，基本完好，
                                     拖尾為白色紙本，略有污跡。撞邊為淺棕色。錦包首為褐色絲織物伴有棕黃色花紋，題簽為淺棕色紙本，上書"李世倬"。</decoNote>
                             </binding>
                         </bindingDesc>
