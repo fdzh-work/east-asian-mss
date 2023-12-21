@@ -58,7 +58,15 @@
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
                             <title type="desc">清董邦達山水畫 卷</title>
-                            <author key="Chinese">董邦達（1699-1769）</author>
+                            <author >   
+                                <persName key="Q16075853">董邦達</persName>
+                                <persName type="字">孚聞</persName>
+                                <persName type="字">孚存</persName>
+                                <persName type="字">爭存</persName>
+                                <persName type="號">東山</persName>
+                                <persName type="號">非聞</persName>
+                                <date notAfter="1700" notBefore="1500" calendar="Gregorian">1699-1769</date>
+                            </author>
                             <note>董邦達，字孚聞,號東山,浙江富陽人,官至禮部尚書，善畫山水，與董源、董其昌合稱古今三董。</note>
                             <incipit type="款識">董邦達恭繪</incipit>
                             <incipit type="seal">董邦達</incipit>
@@ -75,7 +83,7 @@
                         <objectDesc form="卷軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
                             <supportDesc material="紙本"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
                                 <support>mulberry and bamboo mixed paper 纸本</support>
-                                <extent>1 scroll 一轴
+                                <extent>1 scroll 一軸
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
                         https://git.io/msdescdoc#leafDimensions
@@ -96,6 +104,7 @@
                         <handDesc><!-- use the @hands attribute to record the number of scribes -->
                             <handNote>
                                 Text written in 楷書 (kai shu, regular) calligraphic style.
+                                Chinese painting in watercolour.
                                 設色山水畫</handNote>
                             <!-- use additional handNote elements if necessary 
                      https://git.io/msdescdoc#handdesc
@@ -118,7 +127,15 @@
                         <bindingDesc>
                             <binding when="1700"><!-- use dating attributes to record the date -->
                                 <p>卷軸</p>
-                                <decoNote>大鑲手卷，天為藍色絲織物，有磨損和褪色痕跡。隔水為淺藍色絲織物，有磨損待修復。引首為白色紙本，有破損，
+                                <decoNote>
+                                    The handscroll with wide borders (大鑲手卷) features a protective and decorative backing (錦包首) 
+                                    crafted from blue silk adorned with brownish-red patterns. The title label (題簽) is composed of 
+                                    white Chinese paper. The 'Heaven' section (天) is elegantly fashioned from pale-blue silk, 
+                                    displaying signs of damage. Vertical stripes (隔水) are made of white paper. The borders are 
+                                    skilfully crafted from pale-blue silk, showing indications of damage. The frontispiece (引首) 
+                                    and colophon section (拖尾) are made from traditional Chinese paper, exhibiting delicate signs 
+                                    of staining and damage. 
+                                    大鑲手卷，天為藍色絲織物，有磨損和褪色痕跡。隔水為淺藍色絲織物，有磨損待修復。引首為白色紙本，有破損，
                                     拖尾為白色紙本，略有污跡。邊為淺藍色絲織物，有破損。錦包首為藍色絲織物伴有棕紅色花紋，題簽為白色紙本，上書"董邦達"。</decoNote>
                             </binding>
                         </bindingDesc>

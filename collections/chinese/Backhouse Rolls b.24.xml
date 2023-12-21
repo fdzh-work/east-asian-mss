@@ -59,7 +59,14 @@
                             <locus><!-- insert --></locus>
                             
                             <title type="desc">宋黃庭堅書邵雍秋懷詩 軸</title>
-                            <author key="Chinese">黃庭堅</author>
+                            <author >   
+                                <persName key="Q709460">黃庭堅</persName>
+                                <persName type="字">鲁直</persName>
+                                <persName type="號">山谷道人</persName>
+                                <persName type="號">豫章先生</persName>
+                                <persName type="號">涪翁</persName>
+                                <date notAfter="1200" notBefore="1000" calendar="Gregorian">1045-1105</date>
+                            </author>  
                             <incipit>明月生海心，涼風起天末。物象自呈露，襟懷驟披豁。悟盡周孔道，解開仁義結。禮灋本防姦，豈為吾曹設。
                                 踈雨滴高梧，微風挼弱柳。此景嵗嵗同，世人自白首。俗慮易縈仍，塵襟難抖擻。浮生已夢中，期間強為有。
                                 清湍文鴛鴦，寒潭繍鸂鶒。長天净如水，不廢秋江碧。男子一寸心，壯士萬夫敵。菡萏香風中，扁舟會相憶。
@@ -94,7 +101,8 @@
                                 <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>書法卷軸，墨色书写，絹本。</layout>
+                                <layout>calligraphy, ink on silk.
+                                        書法卷軸，墨色书写，絹本。</layout>
                                 
                             </layoutDesc>
                             
@@ -120,7 +128,13 @@
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
                                 <p>卷軸</p>
-                                <decoNote>小鑲手卷，錦包首為米黃色絲織物伴有藍色和綠色花紋，題簽為棕色紙本，八寶帶為棕色絲織物，別子已缺損。天為淺藍色有花紋絲織物，隔水為米白色有花紋絲織物，
+                                <decoNote>
+                                    The handscroll with narrow borders (小鑲手卷) features a protective and decorative backing (錦包首) crafted from yellowish beige 
+                                    silk adorned with green and blue patterns. The title label is made of pale-brown Chinese paper. The 'Heaven' section (天) is 
+                                    elegantly fashioned from pale-blue silk, exhibiting subtle signs of fading and staining. Vertical stripes (隔水) are composed 
+                                    of white silk. The frontispiece (引首) is crafted from traditional Chinese paper in yellow, while the colophon section (拖尾) 
+                                    is made from traditional Chinese white paper. The 'painted heart' (畫心) is crafted from yellow paper.
+                                    小鑲手卷，錦包首為米黃色絲織物伴有藍色和綠色花紋，題簽為棕色紙本，八寶帶為棕色絲織物，別子已缺損。天為淺藍色有花紋絲織物，隔水為米白色有花紋絲織物，
                                     引首為黃色紙本，撞邊為黃色，拖尾為白色紙本。書法寫與黃色紙上。</decoNote>
                             </binding>
                         </bindingDesc>

@@ -58,7 +58,15 @@
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
                             <title type="desc">清慎郡王山水畫 卷</title>
-                            <author key="Chinese">愛新覺羅允禧（1711-1758）</author>
+                            <author>   
+                                <persName key="Q7361731">愛新覺羅允禧</persName>
+                                <persName type="字">谦斋</persName>
+                                <persName type="號">紫噊</persName>
+                                <persName type="號">紫琼崖道人</persName>
+                                <persName type="號">紫琼道人</persName>
+                                <persName type="title">多羅慎郡王</persName>
+                                <date notAfter="1800" notBefore="1700" calendar="Gregorian">1711-1758</date>
+                            </author>  
                             <note>愛新覺羅允禧,康熙第二十一子,字謙齋,號紫噊,別號紫瓊道人,春浮居士，清代書畫家詩人，書畫造詣頗高，据傳與鄭板橋私交甚篤。</note>
                             <incipit>余生平所見慈文貴,大約似北苑。更以林壑深窈，煙
                                      靄漸茫取勝。繼於王子東莊出，觀巨幅峰巒雄偉，
@@ -100,6 +108,7 @@
                         <handDesc><!-- use the @hands attribute to record the number of scribes -->
                             <handNote>
                                 Text written in 行書 (xing shu, semi-cursive) calligraphic style.
+                                Chinese painting, ink on paper.
                                 白描山水畫</handNote>
                             <!-- use additional handNote elements if necessary 
                      https://git.io/msdescdoc#handdesc
@@ -122,7 +131,15 @@
                         <bindingDesc>
                             <binding when="1700"><!-- use dating attributes to record the date -->
                                 <p>卷軸</p>
-                                <decoNote>小鑲手卷，天為藍色絲織物。隔水為白色絲織物。引首為淡黃色紙本，拖尾為白色紙本。邊為米色絲織物。
+                                <decoNote>
+                                    The handscroll with narrow borders (小鑲手卷) features a protective and decorative 
+                                    backing (錦包首) crafted from yellowsilk adorned with brown patterns. The title 
+                                    label is made of yellow Chinese paper. The 'Heaven' section (天) is elegantly 
+                                    fashioned from blue silk, exhibiting subtle signs of fading and staining. Vertical 
+                                    stripes (隔水) are composed of white silk. The frontispiece (引首) is crafted 
+                                    from traditional Chinese paper in yellow, while the colophon section (拖尾) is 
+                                    made from traditional Chinese white paper. 
+                                    小鑲手卷，天為藍色絲織物。隔水為白色絲織物。引首為淡黃色紙本，拖尾為白色紙本。邊為米色絲織物。
                                     錦包首為土黃色絲織物伴有棕色花紋，題簽為黃色紙本，上書"紫瓊道人"。</decoNote>
                             </binding>
                         </bindingDesc>
