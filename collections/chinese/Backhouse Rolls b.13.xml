@@ -60,7 +60,11 @@
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
                             <title>清慈禧太后行書七言聯 轴</title>
-                            <author key="Chinese">慈禧太后 (1835-1908)</author>
+                            <title type="shelfmark">Backhouse Rolls b.13</title>
+                            <author >   
+                                <persName key="Q47842">慈禧太后</persName>
+                                    <date notAfter="2000" notBefore="1800" calendar="Gregorian">1835-1908</date>
+                            </author> 
                             <msItem>
                             <title type="上聯">上聯</title>
                             <incipit>漢璧秦璆千古品</incipit>
@@ -120,7 +124,12 @@
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
                                 <p>立軸</p>
-                                <decoNote>立軸,一色裱。天頭地脚和邊是淺藍色有花紋絲織物。畫心為黃色紙本伴有祥雲騰龍花紋，龍有五爪。</decoNote>
+                                <decoNote>
+                                    A set of two hanging scrolls adorned in the one-color mount style with pale-blue silk 
+                                    featuring patterns for the 'Heaven' section (天頭), the 'Earth' section (地脚), and 
+                                    the borders. The 'painted heart' (畫心) is crafted from yellow paper adorned with 
+                                    patterns of dragons and clouds.  
+                                    立軸,一色裱。天頭地脚和邊是淺藍色有花紋絲織物。畫心為黃色紙本伴有祥雲騰龍花紋，龍有五爪。</decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>

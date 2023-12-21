@@ -59,7 +59,15 @@
                             <locus><!-- insert --></locus>
                             <title type="desc">清李世倬山水畫 卷</title>
                             <title key="supplie title" xml:lang="en">A Chinese painting featuring landscape attributed to Li Shi Zhuo</title> 
-                            <author key="Chinese">李世倬（1687-1770）</author>
+                            <author >   
+                                <persName key="Q45666889">李世倬</persName>
+                                    <persName type="字">天章</persName>
+                                    <persName type="字">汉章</persName>
+                                    <persName type="號">谷齋</persName>
+                                    <persName type="號">十石居士</persName>
+                                    <persName type="號">清在居士</persName>
+                                    <date notAfter="1800" notBefore="1600" calendar="Gregorian">1687-1770</date>
+                            </author>  
                             <note>李世倬（1687—1770年），字天章，一字汉章，号谷斋，别号十石居士、清在居士等，三韩（今辽宁铁岭北）人。
                                   隶籍正蓝旗汉军，著名画家高其佩的外甥。历官知州、副都御史，太常寺卿等职，故后世称之为"李太常"。
                                   工画，山水、人物、花卉俱臻其妙。山水师法王原祁，上溯倪瓒；花鸟学蒋廷锡，人物取法宋李公麟白描，笔法秀俊。

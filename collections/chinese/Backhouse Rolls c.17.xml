@@ -59,9 +59,18 @@
                             <locus><!-- insert --></locus>
                             <title>明唐寅畫山水人物圖 卷</title>
                             <title key="supplie title" xml:lang="en">An ink painting featuring landscape and figures attributed to Tang Yin</title>
-                            <author key="Chinese">唐寅 （1470-1524）<note>此卷作者或爲唐寅，有待考據。</note></author>
-                            <note>唐寅，字伯虎，又字子畏，號六如居士、桃花庵主、逃禪仙吏、魯國唐生等直隸蘇州府吳縣人，明代畫家，文學家，吳中四才子之一。
-                                  在畫史上與沈周、文徵明、仇英合稱為“明四家”或“吳門四家”。</note>
+                            <author key="Q2248916">        
+                                <persName>唐寅</persName>
+                                <persName type="字">伯虎</persName>
+                                <persName type="字">子畏</persName>
+                                <persName type="號">六如居士</persName>
+                                <persName type="號">桃花庵主</persName>
+                                <persName type="號">逃禪仙吏</persName>
+                                <persName type="號">魯國唐生</persName>
+                                <date notAfter="1600" notBefore="1400" calendar="Gregorian">1470-1524</date>
+                            </author>
+                            <note>此印或許為畢瀧之印，有待考據。<persName key="Q2248916">畢瀧</persName>，乾隆、嘉慶年間人，字<persName type="字">澗飛</persName>，號<persName type="號">竹癡</persName>，江蘇鎮洋人，書畫家，收藏家。畢飛之弟，
+                                畢飛為乾隆年間狀元，學者，收藏家。</note>
                             <incipit type="seal">靜逸菴書畫印</incipit>
                             <note>此印或許為畢瀧之印，有待考據。畢瀧，乾隆、嘉慶年間人，字澗飛，號竹癡，江蘇鎮洋人，書畫家，收藏家。畢飛之弟，
                                   畢飛為乾隆年間狀元，學者，收藏家。</note>

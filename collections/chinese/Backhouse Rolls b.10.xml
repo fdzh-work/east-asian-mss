@@ -61,7 +61,11 @@
                             <locus><!-- insert --></locus>
                             <title>清惇親王楷書八言聯 轴</title>
                             <title key="supplie title" xml:lang="en">A pair of calligraphy scrolls attributed to Prince Dun</title>
-                            <author key="Chinese">惇親王 (1831-1889)</author>
+                            <author>   
+                                <persName key="Q7821688">愛琴覺羅奕誴</persName>
+                                <persName type="title">惇親王</persName>
+                                <date notAfter="1800" notBefore="1700" calendar="Gregorian">1831-1889</date>
+                            </author> 
                            
                             <msItem>
                             <title type="上聯">上聯</title>

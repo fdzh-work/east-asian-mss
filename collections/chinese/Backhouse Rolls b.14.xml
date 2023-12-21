@@ -60,7 +60,16 @@
                             <locus><!-- insert --></locus>
                             
                             <title type="desc">清潘祖蔭行書四屏</title>
-                            <author key="Chinese">潘祖蔭</author>
+                            <author >   
+                                <persName key="Q11565617">潘祖蔭</persName>
+                                    <persName type="字">伯寅</persName>
+                                    <persName type="字">東鏞</persName>
+                                    <persName type="字">鳳笙</persName>
+                                    <persName type="號">鄭盦</persName>
+                                    <persName type="號">龜盦</persName>
+                                    <persName type="號">龍威洞天主</persName>
+                                    <date notAfter="1900" notBefore="1800" calendar="Gregorian">1830-1890</date>
+                            </author>  
                             
                             <msItem><title type="屏條">其一</title>
                             <incipit>虞書皋陶謨
@@ -146,7 +155,11 @@
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
                                 <p>立軸</p>
-                                <decoNote>立軸，裝裱方式為一色裱，天頭地脚及邊框為淺黃色色有花紋絲織物。書法寫與黃色紙本上。每一軸的天杆処均有破損，待修復。</decoNote>
+                                <decoNote>
+                                    A set of two hanging scrolls adorned in the one-color mount style with pale-yellow silk featuring 
+                                    patterns for the 'Heaven' section (天頭), the 'Earth' section (地脚), and the borders. The 'painted heart' 
+                                    (畫心) is crafted from yellow paper. Notably, each scroll exhibits signs of damage specifically on the 'Heaven section.   
+                                    立軸，裝裱方式為一色裱，天頭地脚及邊框為淺黃色色有花紋絲織物。書法寫與黃色紙本上。每一軸的天杆処均有破損，待修復。</decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>

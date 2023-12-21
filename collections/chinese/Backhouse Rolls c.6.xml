@@ -60,7 +60,10 @@
                             
                             <title type="desc">清康熙御書詩二首 軸</title>
                             <title key="supplie title" xml:lang="en">A calligraphy scroll attributed to Emperor Kang Xi</title>
-                            <author key="Chinese">愛新覺羅玄燁 (1654-1722)</author>
+                            <author>        
+                                <persName key="Q17790">愛新覺羅玄燁</persName>
+                                <date notAfter="1800" notBefore="1600" calendar="Gregorian">1654-1722</date>
+                            </author>
                             <incipit>一樹寒梅碧玉條，向臨邨野傍溪橋。
                                      應知近水花先發，疑是經春雪未消。
                                      翠樓春洒蝦蟆陵，長安少年皆共景。

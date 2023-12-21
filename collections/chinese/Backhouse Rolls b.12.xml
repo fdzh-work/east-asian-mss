@@ -60,7 +60,12 @@
                             <locus><!-- insert --></locus>
                             
                             <title type="desc">清張之萬行書八言聯 軸</title>
-                            <author key="Chinese">張之萬</author>
+                            <author >   
+                                <persName key="Q11068035">張之萬</persName>
+                                    <persName type="字">子青</persName>
+                                    <persName type="號">鑾坡</persName>
+                                    <date notAfter="1900" notBefore="1800" calendar="Gregorian">1811-1897</date>
+                            </author> 
                             <msItem>
                             <title type="上聯">上聯</title>
                             <incipit>芷潛一兄年大人正</incipit>
@@ -125,7 +130,12 @@
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
                                 <p>立軸</p>
-                                <decoNote>立軸，裝裱方式為一色裱，天頭地脚及邊框為白色有花紋絲織物。書法寫與黃色灑金紙本上。</decoNote>
+                                <decoNote>
+                                    A set of two hanging scrolls adorned in the one-color mount style with 
+                                    silver silk featuring patterns for the 'Heaven' section (天頭), the 'Earth' 
+                                    section (地脚), and the borders. The 'painted heart' (畫心) is crafted 
+                                    from yellow paper adorned with gilt decorations.  
+                                    立軸，裝裱方式為一色裱，天頭地脚及邊框為白色有花紋絲織物。書法寫與黃色灑金紙本上。</decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>

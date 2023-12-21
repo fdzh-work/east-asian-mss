@@ -60,7 +60,14 @@
                             
                             <title type="desc">清鄭燮行書詞二首 卷</title>
                             <title key="supplie title" xml:lang="en">A scroll of calligraphy attributed to Zheng Xie</title>
-                            <author key="Chinese">鄭燮 （1693-1766）</author>
+                            <author key="Q712007">        
+                                <persName>鄭燮</persName>
+                                <persName type="字">克柔</persName>
+                                <persName type="號">板橋居士</persName>
+                                <persName type="號">板橋</persName>
+                                <persName type="號">理庵</persName>
+                                <date notAfter="1800" notBefore="1600" calendar="Gregorian">1693-1766</date>
+                            </author>
                             <incipit> 何處著煙霞，漠漠平沙，幾行鴻雁晚風斜，寫破一天秋意思，飛過漁家，切莫近蒹葭，莫宿蘆花，好來此地落生涯，
                                       只恐夜深邊塞上，驚起胡笳。<note>這一部分為明代鈡世賢所作《浪淘沙·瀟湘八景·平沙落雁》</note>
                                       調寄浪淘沙生沙，落鷹一闕擊板橋。分袂已多年，褐文如一日，抱臂戒嘆浮雲空。促膝忌談芳草碧，漫將雨前茶。細點

@@ -59,7 +59,14 @@
                             <locus><!-- insert --></locus>
                             <title>明董其昌畫山水圖 卷</title>
                             <title key="supplie title" xml:lang="en">A Chinese painting featuring landscape attributed to Dong Qi Chang</title>
-                            <author key="Chinese">董其昌（1555-1636）</author>
+                            <author >   
+                                <persName key="Q537211">董其昌</persName>
+                                <persName type="字">玄宰</persName>
+                                <persName type="號"> 思白</persName>
+                                <persName type="號"> 思翁</persName>
+                                <persName type="號"> 香光居士</persName>
+                                <date notAfter="1700" notBefore="1500" calendar="Gregorian">1555-1636</date>
+                            </author>
                             <incipit>辛亥二月</incipit>
                             <incipit type="款識">玄宰畫</incipit>
                             <incipit type="seal">玄賞堂</incipit>

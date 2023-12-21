@@ -61,7 +61,18 @@
                             <locus><!-- insert --></locus>
                             <title type="desc">清劉墉臨王羲之父子十帖 軸</title>
                             <title key="supplie title" xml:lang="en">A set of five scrolls featuring calligraphy that imitates the style of Wang Xi Zhi, attributed to Liu Yong</title>
-                            <author key="Chinese">劉墉(1719-1805)</author>
+                            <author >   
+                                <persName key="Q6653873">劉墉</persName>
+                                <persName type="字">崇如</persName>
+                                <persName type="號">石庵</persName>
+                                <persName type="號">青原</persName>
+                                <persName type="號">香岩</persName>
+                                <persName type="號">東武</persName>
+                                <persName type="號">穆庵</persName>
+                                <persName type="號">溟華</persName>
+                                <persName type="號">日觀峰道人</persName>
+                                <date notAfter="1900" notBefore="1700" calendar="Gregorian">1719-1805</date>
+                            </author> 
                             <msItem>
                             <title type="desc">一軸</title>
                             <incipit>獻之白奉別告承安和慶慰極冷不

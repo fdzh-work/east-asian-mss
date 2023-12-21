@@ -60,7 +60,14 @@
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
                             <title>清英和行書八言聯 軸</title>
-                            <author key="Chinese">英和 (1771-1840)</author>
+                            <author>   
+                                <persName key="Q7812813">英和</persName>
+                                <persName type="曾用名">石桐</persName>
+                                <persName type="字">樹琴</persName>
+                                <persName type="號">煦齋</persName>
+                                <persName type="號">粵溪生</persName>
+                                <date notAfter="1900" notBefore="1700" calendar="Gregorian">1771-1840</date>
+                            </author>
                             <note>英和(1771-1840),索綽絡氏,初名石桐,字樹琴,號煦齋,又號粵溪生,内務府滿洲正白旗人,清朝政治人物。</note>
                             <msItem>
                             <title type="上聯">上聯</title>
@@ -125,7 +132,11 @@
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
                                 <p>立軸</p>
-                                <decoNote>立軸,一色裱。天頭地脚和邊是銀白色有花紋絲織物，有污漬和破損。畫心為橙色紙本伴有幾何花卉花紋，有磨損彎折及褪色痕跡。</decoNote>
+                                <decoNote>
+                                    A set of two hanging scrolls adorned in the one-color mount style with silver silk featuring patterns 
+                                    for the 'Heaven' section (天頭), the 'Earth' section (地脚), and the borders. The 'painted heart' (畫心) 
+                                    is crafted from orange paper adorned with geometric patterns, showing signs of bending and fading.      
+                                    立軸,一色裱。天頭地脚和邊是銀白色有花紋絲織物，有污漬和破損。畫心為橙色紙本伴有幾何花卉花紋，有磨損彎折及褪色痕跡。</decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>
@@ -144,7 +155,7 @@
                                 <settlement><!-- insert --></settlement>,
                                 <orgName><!-- insert --></orgName>
                             </origPlace>
-                            <origDate notAfter="1900" notBefore="1800" calendar="Gregorian">中晚清至晚清</origDate>
+                            <origDate notAfter="1900" notBefore="1700" calendar="Gregorian">中晚清至晚清</origDate>
                             <!-- use additional origPlace and origDate elements if necessary -->
                         </origin>
                         <provenance>Donated by Sir Edmund Trelawny Backhouse, Baronet (20 October 1873 – 8 January 1944).</provenance>

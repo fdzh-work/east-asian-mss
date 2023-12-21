@@ -59,7 +59,18 @@
                             <locus><!-- insert --></locus>
                             <title type="desc">清張敔畫花鳥 卷</title>
                             <title key="supplie title" xml:lang="en">A Chinese painting featuring birds and plants attributed to Zhang Yu</title>
-                            <author key="Chinese">張敔（1734-1803)</author>
+                            <author key="Q45679020">        
+                                <persName>張敔</persName>
+                                <persName type="字">虎人</persName>
+                                <persName type="字">茝園</persName>
+                                <persName type="字">芷園</persName>
+                                <persName type="字">芷沅</persName>
+                                <persName type="號">雪鴻</persName>
+                                <persName type="號">木者</persName>
+                                <persName type="號">木香</persName>
+                                <persName type="號">止止道人</persName>
+                                <date notAfter="2000" notBefore="1800" calendar="Gregorian">1734-1803</date>
+                            </author>
                             <note>張敔，字虎人，又字茝園，一字芷園，亦作芷沅，號雪鴻，又號木者（一作木香），晚號止止道人，先世安徽桐城人，遷江寧（今南京），籍山東歷城。</note>
                             <incipit type="款識">嘉慶四年冬十月朔後二日雪鴻居士張敔</incipit>
                             <incipit type="seal">雪鴻</incipit>

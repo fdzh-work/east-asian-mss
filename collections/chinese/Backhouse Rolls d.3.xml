@@ -59,7 +59,12 @@
                             <locus><!-- insert --></locus>
                             <title type="desc">清張迺耆橫塘秋雨圖 卷</title>
                             <title key="supplie title" xml:lang="en">A Chinese painting featuring birds and plants attributed to Zhang Nai Qi</title>
-                            <author key="Chinese">張迺耆（生卒年不詳)</author>
+                            <author>   
+                                <persName>張迺耆</persName>
+                                <persName type="字">壽民</persName>
+                                <persName type="號">白眉</persName>
+                                <persName type="號">白門</persName>
+                            </author>
                             <note>張迺耆，字寿民,号白眉、白门,安徽桐城人,寓居江苏南京,吾从子,生卒年不详。</note>
                             <incipit>橫塘秋雨 <persName>迺耆</persName></incipit>
                             <incipit type="seal">張迺耆印</incipit>
