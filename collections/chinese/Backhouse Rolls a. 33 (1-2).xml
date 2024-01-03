@@ -60,7 +60,10 @@
                             <locus><!-- insert --></locus>
                             <title key="supplie title" xml:lang="en">A pair of calligraphy scrolls attributed to Empress Dowager Cixi</title>
                             <title>清慈禧太后行書七言聯 軸</title>
-                            <author key="Chinese">慈禧太后 (1835-1908)</author>
+                            <author >   
+                                <persName key="Q47842">慈禧太后</persName>
+                                <date notAfter="2000" notBefore="1800" calendar="Gregorian">1835-1908</date>
+                            </author> 
                             <msItem>
                             <title type="上聯">上聯</title>
                             <incipit>凌霄鸞鶴仙姿舉</incipit>
@@ -97,7 +100,7 @@
                                 <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>书法卷轴,墨色书写。</layout>
+                                <layout>ink on silk. 书法卷轴,墨色书写。</layout>
                                 
                             </layoutDesc>
                             
@@ -122,7 +125,12 @@
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
                                 <p>立軸</p>
-                                <decoNote>立軸,一色裱。天頭地脚和邊是綠色有花紋絲織物。畫心為藍色絲織物伴有祥雲騰龍花紋，龍有五爪。</decoNote>
+                                <decoNote>
+                                    A set of two hanging scrolls adorned in the one-colour mount style with green 
+                                    jacquard silk as the ‘Heaven’ section (天頭), the ‘Earth’ section (地脚) and 
+                                    the borders. The 'painted heart' (畫心) is meticulously crafted from blue 
+                                    silk with patterns of dragons and clouds.
+                                    立軸,一色裱。天頭地脚和邊是綠色有花紋絲織物。畫心為藍色絲織物伴有祥雲騰龍花紋，龍有五爪。</decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>

@@ -60,7 +60,16 @@
                             <title key="supplied title" xml:lang="en">Cheng Hsiao-HSÜ:[Four scrolls]
                                                                       Zheng Xiao Xu: Four scrolls</title>
                             <title key="supplied title">清鄭孝胥書法對聯兩對 軸</title>
-                            <author key="Chinese">鄭孝胥</author>
+                            <author >   
+                                <persName key="Q230200">鄭孝胥</persName>
+                                <persName type="字">太夷</persName>
+                                <persName type="號">蘇龕</persName>
+                                <persName type="號">蘇戡</persName>
+                                <persName type="號">海藏</persName>
+                                <persName type="號">海藏楼主人</persName>
+                                <persName type="號">夜起庵叟</persName>
+                                <persName type="號">苏庵</persName>
+                                <date notAfter="2000" notBefore="1800" calendar="Gregorian">1860-1960</date></author>
                             <note>郑孝胥，字苏戡、太夷，号苏庵、海藏楼主人、夜起庵叟等，福建闽县人,光绪八年举人。</note>
                            
                             <msItem><title type="對聯">對聯 下聯 <note>MS.Chin.c.38-1</note></title>
@@ -107,7 +116,8 @@
                                 <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>书法卷轴，墨色书写。</layout>
+                                <layout>书法卷轴，墨色书写。
+                                        calligraphy on paper.</layout>
                                 
                             </layoutDesc>
                             
@@ -132,7 +142,11 @@
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
                                 <p>立軸</p>
-                                <decoNote>立軸，一色裱，邊框為藍色絲織物。天杆処有破損,背面錦綉包首処有污跡。</decoNote>
+                                <decoNote>立軸，一色裱，邊框為藍色絲織物。天杆処有破損,背面錦綉包首処有污跡。
+                                    A pair of hanging scrolls adorned in the one-colour mount style 
+                                    with blue silk as the ‘Heaven’ section (天頭), the ‘Earth’ section 
+                                    (地脚) and the borders. The ‘Heaven’ section shows signs of damage. 
+                                </decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>

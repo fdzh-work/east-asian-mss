@@ -58,7 +58,16 @@
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
                             <title>清李鴻章書汪由敦論歷代名家法書卷節選 軸</title>
-                            <author key="Chinese">李鴻章</author>
+                            <author >   
+                                <persName key="Q378517">李鴻章</persName>
+                                <persName type="字">訓名：章銅</persName>
+                                <persName type="字">少荃</persName>
+                                <persName type="字">子黻</persName>
+                                <persName type="字">漸甫</persName>
+                                <persName type="號">儀叟</persName>
+                                <persName type="號">省心</persName>
+                                <date notAfter="2000" notBefore="1800" calendar="Gregorian">1823-1901</date>
+                            </author> 
                             <incipit>黃涪翁云，大字無過瘞鶴銘，小字無過遺教經。今世所傳遺教，直唐經生乎耳。</incipit>
                             <incipit type="seal">臣鴻章印</incipit>
                             <incipit type="seal">少荃</incipit>
@@ -87,7 +96,7 @@
                                 <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>书法卷轴.墨色书写</layout>
+                                <layout>书法卷轴，墨色书写。</layout>
                                 
                             </layoutDesc>
                             
@@ -112,7 +121,12 @@
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
                                 <p>立軸</p>
-                                <decoNote>立軸,一色裱,天頭地脚和邊框都爲米色絲織物,行書字跡書寫于白色紙上,背面有淺藍色錦包首。</decoNote>
+                                <decoNote>
+                                    A hanging scroll adorned in the one-color mount style with white silk for 
+                                    the 'Heaven' section (天頭), the 'Earth' section (地脚), and the borders. 
+                                    The 'painted heart' (畫心) is crafted from white Chinese paper. The back of 
+                                    scroll features a protective and decorative backing (錦包首) crafted from pale-blue silk.
+                                    立軸,一色裱,天頭地脚和邊框都爲米色絲織物,行書字跡書寫于白色紙上,背面有淺藍色錦包首。</decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>

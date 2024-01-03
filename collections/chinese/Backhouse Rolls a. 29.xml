@@ -58,9 +58,17 @@
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
                             
-                            <title type="desc">清成親王書董其昌秣陵旅舍送會稽章生 卷</title>
-                            <author key="Chinese">愛新覺羅永瑆</author>
-                            <incipit>君不見禹穴高峰百丈奇，千年王氣山之垂；又不見蘭亭觴詠飛雄筆，天花盡灑分顏色。
+                            <title type="desc">清永瑆書董其昌秣陵旅舍送會稽章生 卷</title>
+                            <author>   
+                                <persName key="Q7824142">愛新覺羅永瑆</persName>
+                                <persName type="號">少厂(ān)</persName>
+                                <persName type="號">鏡泉</persName>
+                                <persName type="號">詒晉齋主人</persName>
+                                <persName type="title">成哲親王</persName>
+                                <persName type="title">成親王</persName>
+                                <date notAfter="1900" notBefore="1700" calendar="Gregorian">1752-1823</date>
+                            </author> 
+                            <incipit type="釋文">君不見禹穴高峰百丈奇，千年王氣山之垂；又不見蘭亭觴詠飛雄筆，天花盡灑分顏色。
                                      會稽山水鍾韻士，風雅翩翩多羽翼；章生磊落名家駒，湖海意氣無人如；全越文章歸領袖，
                                      三吳人物爭吹噓；烏衣幾齣蕭關路，千里青山兩擔書；涼秋八月都門，逆旅相逢如夙好；
                                      黃公之壚酒新釀，唾壺擊缺仍悲嘯；令我神情太王生，三杯耳熱都傾倒；我本吳中俠更儒，
@@ -121,7 +129,11 @@
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
                                 <p>橫披</p>
-                                <decoNote>橫披，裝裱方式為一色裱，耳和邊為黃色有花紋絲織物,有破損。書法寫與汎黃紙上,紙張有破損后修復痕跡。</decoNote>
+                                <decoNote>
+                                    A handscroll, adorned in the one-color mount style with yellow silk, exhibits 
+                                    noticeable signs of damage. The 'painted heart' (畫心) is crafted from white 
+                                    Chinese paper, showing signs of yellowing and traces of conservation efforts.
+                                    橫披，裝裱方式為一色裱，耳和邊為黃色有花紋絲織物,有破損。書法寫與汎黃紙上,紙張有破損后修復痕跡。</decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>

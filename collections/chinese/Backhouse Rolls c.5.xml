@@ -60,7 +60,18 @@
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
                             <title type="desc">清劉墉行書七言聯 軸</title>
-                            <author key="Chinese">劉墉(1719-1805)</author>
+                            <author >   
+                                <persName key="Q6653873">劉墉</persName>
+                                <persName type="字">崇如</persName>
+                                <persName type="號">石庵</persName>
+                                <persName type="號">青原</persName>
+                                <persName type="號">香岩</persName>
+                                <persName type="號">東武</persName>
+                                <persName type="號">穆庵</persName>
+                                <persName type="號">溟華</persName>
+                                <persName type="號">日觀峰道人</persName>
+                                <date notAfter="1900" notBefore="1700" calendar="Gregorian">1719-1805</date>
+                            </author> 
                             <title type="上聯">上聯</title>
                             <incipit>入我澹懷秋月白</incipit>
                             
@@ -91,7 +102,7 @@
                                 <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>书法卷轴.墨色书写，紙本。</layout>
+                                <layout>书法卷轴，墨色书写，紙本。</layout>
                                 
                             </layoutDesc>
                             
@@ -116,7 +127,12 @@
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
                                 <p>立軸</p>
-                                <decoNote>立軸,裝裱方式為一色裱，天頭與地脚為黑色有金色花紋絲織物。上聯的天杆和天頭以及畫心的右上角缺損。</decoNote>
+                                <decoNote>
+                                    A set of two hanging scrolls adorned in the one-color mount style with black silk 
+                                    featuring golden patterns for the 'Heaven' section (天頭), the 'Earth' section (地脚), 
+                                    and the borders. The 'painted heart' (畫心) is crafted from white paper adorned with 
+                                    gild decorations, showing signs of bending and damaging.   
+                                    立軸,裝裱方式為一色裱，天頭與地脚為黑色有金色花紋絲織物。上聯的天杆和天頭以及畫心的右上角缺損。</decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>

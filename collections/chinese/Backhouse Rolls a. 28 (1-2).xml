@@ -59,7 +59,13 @@
                             <locus><!-- insert --></locus>
                             
                             <title type="desc">清左宗棠行書七言聯 軸</title>
-                            <author key="Chinese">左宗棠</author>
+                            <author >   
+                                <persName key="Q230200">左宗棠</persName>
+                                <persName type="字">季高</persName>
+                                <persName type="號">湘上農人</persName>
+                                <persName type="號">自署名：今亮</persName>
+                                <date notAfter="1900" notBefore="1800" calendar="Gregorian">1812-1885</date>
+                            </author> 
                             <msItem>
                             <title type="上聯">上聯</title>
                             <incipit>溪雲雑雨來茅屋</incipit>
@@ -122,7 +128,12 @@
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
                                 <p>立軸</p>
-                                <decoNote>立軸，裝裱方式為一色裱，天頭地脚及邊框為米白色有花紋絲織物，天頭背面有破損。書法寫與黃色紙本上。</decoNote>
+                                <decoNote>
+                                    A pair of hanging scrolls adorned in the one-colour mount style with jacquard white 
+                                    silk as the ‘Heaven’ section (天頭), the ‘Earth’ section (地脚) and the borders. 
+                                    The ‘Heaven’ section shows signs of damage. The 'painted heart' (畫心) is meticulously 
+                                    crafted from Chinese paper of yellow. 
+                                    立軸，裝裱方式為一色裱，天頭地脚及邊框為米白色有花紋絲織物，天頭背面有破損。書法寫與黃色紙本上。</decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>

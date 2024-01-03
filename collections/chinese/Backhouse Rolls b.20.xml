@@ -60,7 +60,16 @@
                             <locus><!-- insert --></locus>
                             
                             <title type="desc">清李鴻章行書八言聯 軸</title>
-                            <author key="Chinese">李鴻章</author>
+                            <author >   
+                                <persName key="Q378517">李鴻章</persName>
+                                <persName type="字">訓名：章銅</persName>
+                                <persName type="字">少荃</persName>
+                                <persName type="字">子黻</persName>
+                                <persName type="字">漸甫</persName>
+                                <persName type="號">儀叟</persName>
+                                <persName type="號">省心</persName>
+                                <date notAfter="2000" notBefore="1800" calendar="Gregorian">1823-1901</date>
+                            </author> 
                             <msItem>
                             <title type="上聯">上聯</title>
                             <incipit>承齋尊兄大人屬</incipit>
@@ -123,7 +132,11 @@
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
                                 <p>立軸</p>
-                                <decoNote>立軸，裝裱方式為一色裱，天頭地脚及邊框為淡藍色有花紋絲織物。書法寫與大紅色有花草紋樣的紙本上。上聯卷軸的天杆処有破損后修復痕跡，下聯卷軸的天杆処有破損。</decoNote>
+                                <decoNote>
+                                    A pair of hanging scrolls, adorned in the one-color mount style, showcases blue silk for the 'Heaven' section (天頭), the 'Earth' 
+                                    section (地脚), and the borders. The 'painted heart' (畫心) is meticulously crafted from red Chinese paper with floral patterns. 
+                                    The first scroll displays traces of conservation, while the second scroll exhibits signs of damage.
+                                    立軸，裝裱方式為一色裱，天頭地脚及邊框為淡藍色有花紋絲織物。書法寫與大紅色有花草紋樣的紙本上。上聯卷軸的天杆処有破損后修復痕跡，下聯卷軸的天杆処有破損。</decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>

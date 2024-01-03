@@ -58,7 +58,13 @@
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
                             <title>清高其佩餘樂圖 軸</title>
-                            <author key="Chinese">高其佩 （1660-1734）</author>
+                            <author >   
+                                <persName key="Q698454">高其佩</persName>
+                                <persName type="字">韋之</persName>
+                                <persName type="號">且園</persName>
+                                <persName type="號">南村</persName>
+                                <date notAfter="1800" notBefore="1600" calendar="Gregorian">1660-1734</date>
+                            </author> 
                             <incipit>戍子蒼朝前一日</incipit>
                             <incipit type="款識">鐵嶺高其佩指腹畫法</incipit>
                             <incipit type="seal">高其佩</incipit>
@@ -89,7 +95,8 @@
                                 <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>书畫卷轴，紙本設色。</layout>
+                                <layout>书畫卷轴，紙本設色。
+                                       Chinese pianting with colour</layout>
                                 
                             </layoutDesc>
                             
@@ -114,7 +121,12 @@
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
                                 <p>立軸</p>
-                                <decoNote>立軸,一色裱。天頭地脚和邊是白色有花紋絲織物。畫心為白色紙本。背面題簽為紅色紙本。</decoNote>
+                                <decoNote>
+                                    A hanging scrolls adorned in the one-colour mount style with jacquard 
+                                    white silk as the ‘Heaven’ section (天頭), the ‘Earth’ section (地脚) 
+                                    and the borders. The 'painted heart' (畫心) is meticulously crafted 
+                                    from white Chinese paper. The label is made of red Chinese paper.
+                                    立軸,一色裱。天頭地脚和邊是白色有花紋絲織物。畫心為白色紙本。背面題簽為紅色紙本。</decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>

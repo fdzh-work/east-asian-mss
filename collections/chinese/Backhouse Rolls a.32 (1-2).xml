@@ -59,8 +59,16 @@
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            <title type="對聯">清成親王行書七言聯 軸</title>
-                            <author key="Chinese">或為<persName>愛新覺羅永瑆（1752-1823）</persName>手跡</author>
+                            <title type="對聯">清永瑆行書七言聯 軸</title>
+                            <author>   
+                                <persName key="Q7824142">愛新覺羅永瑆</persName>
+                                <persName type="號">少厂(ān)</persName>
+                                <persName type="號">鏡泉</persName>
+                                <persName type="號">詒晉齋主人</persName>
+                                <persName type="title">成哲親王</persName>
+                                <persName type="title">成親王</persName>
+                                <date notAfter="1900" notBefore="1700" calendar="Gregorian">1752-1823</date>
+                            </author>
                             <msItem>
                             <title type="上聯">上聯</title>
                             <incipit>雲生紫殿幡花濕</incipit>

@@ -60,17 +60,25 @@
                             <locus><!-- insert --></locus>
                             
                             <title type="desc">清左宗棠行書八言聯</title>
-                            <author key="Chinese">左宗棠</author>
+                            <author >   
+                                <persName key="Q230200">左宗棠</persName>
+                                <persName type="字">季高</persName>
+                                <persName type="號">湘上農人</persName>
+                                <persName type="號">自署名：今亮</persName>
+                                <date notAfter="1900" notBefore="1800" calendar="Gregorian">1812-1885</date>
+                            </author> 
+                            <msItem>
                             <title type="上聯">上聯</title>
                             <incipit>禮樂其文金石其質</incipit>
-                            <explicit type="背面">左宗棠对 B/331</explicit>
+                            <explicit type="背面">左宗棠对 B/331</explicit></msItem>
                             
+                            <msItem>
                             <title type="下聯">下聯</title>
                             <incipit>道德為父清净為師</incipit>
                             <incipit type="款識">左宗棠</incipit>
                             <incipit type="seal">清宮太保</incipit>
                             <incipit type="seal">恪靖侯章</incipit>
-                            <explicit type="背面">左宗棠 对</explicit>
+                            <explicit type="背面">左宗棠 对</explicit></msItem>
                             <filiation>書法卷軸，中外孤本。</filiation>   
                         </msItem>
                         <!-- insert further msItem elements as appropriate --> 
@@ -94,7 +102,8 @@
                                 <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>書法立軸，紙本，對聯。</layout>
+                                <layout>書法立軸，紙本，對聯。
+                                        Calligraphy on paper</layout>
                                 
                             </layoutDesc>
                             
@@ -120,7 +129,11 @@
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
                                 <p>立軸</p>
-                                <decoNote>立軸，裝裱方式為一色裱，天頭地脚及邊框為米白色有花紋絲織物。書法寫與黃色漸變至紫色的紙本上，紙本上端為黃色，下端為紫色。</decoNote>
+                                <decoNote>
+                                    A pair of hanging scrolls adorned in the one-colour mount style with jacquard white silk as the ‘Heaven’ 
+                                    section (天頭), the ‘Earth’ section (地脚) and the borders. The 'painted heart' (畫心) is meticulously 
+                                    crafted from Chinese paper of yellow and purple. 
+                                    立軸，裝裱方式為一色裱，天頭地脚及邊框為米白色有花紋絲織物。書法寫與黃色漸變至紫色的紙本上，紙本上端為黃色，下端為紫色。</decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>

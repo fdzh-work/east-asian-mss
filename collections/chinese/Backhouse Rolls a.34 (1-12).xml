@@ -59,7 +59,14 @@
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
                             <title>佚名書宋蘇軾洞庭春色賦行書 十二軸</title>
-                            <author key="Chinese">蘇軾<note>疑爲贋品，非蘇軾手跡。</note></author>
+                            <author >   
+                                <persName key="Q36020">蘇軾</persName>
+                                <persName type="字">子瞻</persName>
+                                <persName type="字">和仲</persName>
+                                <persName type="號">東坡居士</persName>
+                                <persName type="號">鐵冠道人</persName>
+                                <date notAfter="1200" notBefore="1000" calendar="Gregorian">1037-1101</date>
+                            </author> 
                             <note>The shelfmarks attributed to this set of scrolls do not correspond the text of Dong Ting Chun Se Fu,
                                 and the content of each scroll is displayed following the order of shelfmarks.
                                 Furthermore, the text written on the scroll does not fully match that of Dong Ting Chun Se Fu.</note>
@@ -176,7 +183,11 @@
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
                                 <p>立軸</p>
-                                <decoNote>立軸,一色裱。天頭地脚和邊是是米白色帶花紋絲織物。畫心為黃色紙。</decoNote>
+                                <decoNote>
+                                    A set of twelve hanging scrolls adorned in the one-color mount style with white silk 
+                                    featuring patterns for the 'Heaven' section (天頭), the 'Earth' section (地脚), and the 
+                                    borders. The 'painted heart' (畫心) is crafted from yellow paper. 
+                                    立軸,一色裱。天頭地脚和邊是是米白色帶花紋絲織物。畫心為黃色紙。</decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>

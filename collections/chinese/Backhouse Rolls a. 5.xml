@@ -58,7 +58,10 @@
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
                             <title>清慈禧太后畫花草 軸</title>
-                            <author key="Chinese">慈禧太后</author>
+                            <author >   
+                                <persName key="Q47842">慈禧太后</persName>
+                                <date notAfter="2000" notBefore="1800" calendar="Gregorian">1835-1908</date>
+                            </author> 
                             <author key="Chinese">徐郙</author>
                             <author key="Chinese">吳樹梅</author>
                             <incipit>一抹秋痕映曉霧，蕭蕭瘦影寫橫斜。滋今蓬島三山住，江上芙蓉未足誇。</incipit>
@@ -120,9 +123,14 @@
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
                                 <p>立軸</p>
-                                <decoNote>立軸,一色裱。天頭地脚和邊是黃色絲織物，有祥雲和五爪龍花紋。畫心上加裱了一小幅徐郙的書法。
-                                          書法和繪畫在白色紙本上。立軸背面有淺藍色絲織物製成的錦包首，上有Backhouse手寫英文“Picturing
-                                          of Empress dowager, presents by 1 statesman”,以及中文字跡“顯皇后御筆畫 徐郙吳樹梅二公題”。</decoNote>
+                                <decoNote>
+                                    A hanging scroll adorned in the one-color mount style with yellow silk featuring patterns for 
+                                    the 'Heaven' section (天頭), the 'Earth' section (地脚), and the borders. The 'painted heart' 
+                                    (畫心) is crafted from white Chinese paper. The back of scroll features a protective and decorative 
+                                    backing (錦包首) crafted from pale-blue silk.
+                                    立軸,一色裱。天頭地脚和邊是黃色絲織物，有祥雲和五爪龍花紋。畫心上加裱了一小幅徐郙的書法。
+                                    書法和繪畫在白色紙本上。立軸背面有淺藍色絲織物製成的錦包首，上有Backhouse手寫英文“Picturing
+                                    of Empress dowager, presents by 1 statesman”,以及中文字跡“顯皇后御筆畫 徐郙吳樹梅二公題”。</decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>

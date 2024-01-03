@@ -60,16 +60,22 @@
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
                             <title>清慈禧太后行書七言聯</title>
-                            <author key="Chinese">慈禧太后 (1835-1908)</author>
+                            <author >   
+                                <persName key="Q47842">慈禧太后</persName>
+                                <date notAfter="2000" notBefore="1800" calendar="Gregorian">1835-1908</date>
+                            </author> 
+                            <msItem>
                             <title type="上聯">上聯</title>
                             <incipit>玉昭三采寳所貴</incipit>
                             <incipit type="seal">慈禧皇太后御筆之寳</incipit>
-                            <explicit type="背面">顯皇后御筆 Backhouse Rolls b.9(1) Empress dowager's autograph</explicit>
+                            <explicit type="背面">顯皇后御筆 Backhouse Rolls b.9(1) Empress dowager's autograph</explicit></msItem>
+                            
+                            <msItem>
                             <title type="下聯">下聯</title>
                             <incipit>鳳翔千仞極其游</incipit>
                             <incipit type="seal">海涵春育</incipit>
                             <incipit type="seal">萬古長青？</incipit>
-                            <explicit type="背面">顯皇后字</explicit>
+                            <explicit type="背面">顯皇后字</explicit></msItem>
                             
                             <filiation>書法卷軸，中外孤本。</filiation>  
                         </msItem>
@@ -119,7 +125,12 @@
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
                                 <p>立軸</p>
-                                <decoNote>立軸,一色裱。天頭地脚和邊是淺藍色絲織物。畫心為黃色紙本伴有祥雲騰龍花紋，龍有五爪。</decoNote>
+                                <decoNote>
+                                    A set of two hanging scrolls adorned in the one-colour mount style with green 
+                                    jacquard silk as the ‘Heaven’ section (天頭), the ‘Earth’ section (地脚) and 
+                                    the borders. The 'painted heart' (畫心) is meticulously crafted from blue 
+                                    silk with patterns of dragons and clouds.
+                                    立軸,一色裱。天頭地脚和邊是淺藍色絲織物。畫心為黃色紙本伴有祥雲騰龍花紋，龍有五爪。</decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>

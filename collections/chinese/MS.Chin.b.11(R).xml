@@ -59,8 +59,17 @@
                             <locus><!-- insert --></locus>
                             <title key="supplie title" xml:lang="en">PAN TSU-YING: [Two scrolls].</title>
                             <title>清潘祖蔭行書七言聯 軸</title>
-                            <author key="Chinese">潘祖蔭 （1830-1890）</author>
-                            <msItem>
+                            <author >   
+                                <persName key="Q11565617">潘祖蔭</persName>
+                                <persName type="字">伯寅</persName>
+                                <persName type="字">東鏞</persName>
+                                <persName type="字">鳳笙</persName>
+                                <persName type="號">鄭盦</persName>
+                                <persName type="號">龜盦</persName>
+                                <persName type="號">龍威洞天主</persName>
+                                <date notAfter="1900" notBefore="1800" calendar="Gregorian">1830-1890</date></author>
+                           
+                    <msItem>
                             <incipit>珠林墨妙三唐字</incipit>
                             <incipit type="seal">賜</incipit></msItem>
                             
@@ -79,7 +88,7 @@
                         <objectDesc form="卷軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
                             <supportDesc material="紙本"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
                                 <support>mulberry and bamboo mixed paper 紙本</support>
-                                <extent>2 scrolls
+                                <extent>2 scrolls 二軸
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
                         https://git.io/msdescdoc#leafDimensions
@@ -117,10 +126,11 @@
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
                                 <p>立軸</p>
-                                <decoNote>立軸，單色裱，邊框為藍色絲織物。背面靠近地棍部位有“潘祖蔭”字樣。地棍処有破損。
+                                <decoNote>
                                     Couplet of two hanging scrolls made in the style of a one-color mount. 
                                     The borders are made of pale blue silk. Both scrolls show signs of damage 
-                                    near the Tiantou part.</decoNote>
+                                    near the Tiantou part.
+                                    立軸，單色裱，邊框為藍色絲織物。背面靠近地棍部位有“潘祖蔭”字樣。地棍処有破損。</decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>
