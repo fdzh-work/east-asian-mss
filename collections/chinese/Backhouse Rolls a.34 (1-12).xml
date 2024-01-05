@@ -59,82 +59,82 @@
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
                             <title>佚名書宋蘇軾洞庭春色賦行書 十二軸</title>
-                            <author >   
-                                <persName key="Q36020">蘇軾</persName>
+                            <author key="Q36020">   
+                                <persName>蘇軾</persName>
                                 <persName type="字">子瞻</persName>
                                 <persName type="字">和仲</persName>
                                 <persName type="號">東坡居士</persName>
                                 <persName type="號">鐵冠道人</persName>
                                 <date notAfter="1200" notBefore="1000" calendar="Gregorian">1037-1101</date>
                             </author> 
-                            <note>The shelfmarks attributed to this set of scrolls do not correspond the text of Dong Ting Chun Se Fu,
+                            <note type="注">The shelfmarks attributed to this set of scrolls do not correspond the text of Dong Ting Chun Se Fu,
                                 and the content of each scroll is displayed following the order of shelfmarks.
                                 Furthermore, the text written on the scroll does not fully match that of Dong Ting Chun Se Fu.</note>
-                            <note>本套立軸由12卷組成，由第二卷落款可知整套為蘇軾 (1037-1101)《洞庭春色賦》的贋品。《洞庭春色賦》與《中山松醪賦》二賦合卷的真跡現藏于中國吉林省博物館，是存世蘇軾書跡中篇幅最長的。
+                            <note type="注">本套立軸由12卷組成，由第二卷落款可知整套為蘇軾 (1037-1101)《洞庭春色賦》的贋品。《洞庭春色賦》與《中山松醪賦》二賦合卷的真跡現藏于中國吉林省博物館，是存世蘇軾書跡中篇幅最長的。
                                 Part of the set of twelve scrolls, the text claimed them to be ‘Dong Ting Chun Se Fu’ written by Su Shi (1037-1101). However, these scrolls are not authentic. 
                                 The authentic calligraphy of ‘Dong Ting Chun Se Fu’ written by Su Shi is held by the Jilin Museum of China.
                                 
                                 衣若芬 (2018)。遞藏·題跋·複製：蘇軾《洞庭春色賦》、《中山松醪賦》書跡。《嶺南學報》，復刊 第九輯，頁143-161。檢自 https://commons.ln.edu.hk/ljcs_new/vol9/iss1/8 </note> 
                             <msItem>
                             <title type="shelfmark">Backhouse Rolls a. 34 (1)</title>
-                            <incipit>覺天拄杖遨峰之賦遠離</incipit>
-                            <incipit>騷也見親家晨光是飄門</incipit></msItem>
+                                <incipit type="釋文">覺天拄杖遨峰之賦遠離騷也見親家晨光是飄門</incipit>
+                           </msItem>
                            
                            <msItem>
                             <title type="shelfmark">Backhouse Rolls a. 34 (2)</title>
-                            <incipit>寄時歸息馬</incipit>
-                            <incipit>眉山蘇軾書</incipit>
+                               <incipit type="款識">寄時歸息馬眉山蘇軾書</incipit>
+                            
                             <incipit type="seal">眉山某蘇軾印</incipit></msItem>
                             
                             <msItem>
                             <title type="shelfmark">Backhouse Rolls a. 34 (3)</title>
-                            <incipit>賢王之達觀逸想於人寰</incipit>
-                            <incipit>焰兮春風天庭之白浪漲北</incipit></msItem>
+                                <incipit type="釋文">賢王之達觀逸想於人寰焰兮春風天庭之白浪漲北</incipit>
+                           </msItem>
                             
                             <msItem>
                             <title type="shelfmark">Backhouse Rolls a. 34 (4)</title> 
-                            <incipit>泡幻藏千里於一斑舉勺</incipit>
-                            <incipit>罌青綸隨屬車鴟夷木門</incipit></msItem>
+                                <incipit type="釋文">泡幻藏千里於一斑舉勺罌青綸隨屬車鴟夷木門</incipit>
+                            </msItem>
                             
                             <msItem>
                             <title type="shelfmark">Backhouse Rolls a. 34 (5)</title>
-                            <incipit>洞庭春色賦</incipit>
-                            <incipit>吾聞橘中之樂不減商山</incipit></msItem>
+                                <incipit type="題目">洞庭春色賦</incipit>
+                                <incipit type="釋文">吾聞橘中之樂不減商山</incipit></msItem>
                             
                             <msItem>
                             <title type="shelfmark">Backhouse Rolls a. 34 (6)</title>
-                            <incipit>記求淺散星宿皋香歲之</incipit>
-                                <incipit>妙質毛區爛曾和束蒿驚</incipit></msItem>
+                                <incipit type="釋文">記求淺散星宿皋香歲之妙質毛區爛曾和束蒿驚</incipit>
+                               </msItem>
                             
                             <msItem>
                             <title type="shelfmark">Backhouse Rolls a. 34 (7)</title>
-                            <incipit>渚蒼灣佳往游勤鬢鬟命</incipit>
-                            <incipit>黃千奴震還米之禾三而旌</incipit></msItem>
+                                <incipit type="釋文">渚蒼灣佳往游勤鬢鬟命黃千奴震還米之禾三而旌</incipit>
+                            </msItem>
                             
                             <msItem>
                             <title type="shelfmark">Backhouse Rolls a. 34 (8)</title>
-                            <incipit>珠涕沸聲味甘餘之苦姿</incipit>
-                            <incipit>之高知壞笑非紋樽蟄目</incipit></msItem>
+                                <incipit type="釋文">珠涕沸聲味甘餘之苦姿之高知壞笑非紋樽蟄目</incipit>
+                          </msItem>
                             
                             <msItem>
                             <title type="shelfmark">Backhouse Rolls a. 34 (9)</title>
-                            <incipit>镮兮帝之觴書散江吸神</incipit>
-                            <incipit>夢始如髦蠻玻色山林屋</incipit></msItem>
+                                <incipit type="釋文">镮兮帝之觴書散江吸神夢始如髦蠻玻色山林屋</incipit>
+                            </msItem>
                             
                             <msItem>
                             <title type="shelfmark">Backhouse Rolls a. 34 (10)</title>
-                            <incipit>醉以授鳥山為我刪松始</incipit>
-                            <incipit>予濟于衡漳泩而夜燧明</incipit></msItem>
+                                <incipit type="釋文">醉以授鳥山為我刪松始予濟于衡漳泩而夜燧明</incipit>
+                            </msItem>
                             
                             <msItem>
                             <title type="shelfmark">Backhouse Rolls a. 34 (11)</title>
-                            <incipit>豈霜餘之不食而四老人</incipit>
-                            <incipit>者游戲於其間悟此世之</incipit></msItem>
+                                <incipit type="釋文">豈霜餘之不食而四老人者游戲於其間悟此世之</incipit>
+                            </msItem>
                             
                             <msItem>
                             <title type="shelfmark">Backhouse Rolls a. 34 (12)</title>
-                            <incipit>其已遠石之軎收用榆製之</incipit>
-                            <incipit>山松磔通盤出救何艱葉</incipit></msItem>
+                                <incipit type="釋文">其已遠石之軎收用榆製之山松磔通盤出救何艱葉</incipit>
+                            </msItem>
                             <filiation>書法卷軸，中外孤本。</filiation>  
                         </msItem>
                         <!-- insert further msItem elements as appropriate --> 

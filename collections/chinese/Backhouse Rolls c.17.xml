@@ -71,13 +71,14 @@
                             </author>
                             
                             <incipit type="seal">靜逸菴書畫印</incipit>
-                            <note>此印或許為畢瀧之印，有待考據。<persName key="Q2248916">畢瀧</persName>，乾隆、嘉慶年間人，字<persName type="字">澗飛</persName>，號<persName type="號">竹癡</persName>，江蘇鎮洋人，書畫家，收藏家。畢飛之弟，
+                            <note type="注">此印或許為畢瀧之印，有待考據。<persName key="Q2248916">畢瀧</persName>，乾隆、嘉慶年間人，字<persName type="字">澗飛</persName>，號<persName type="號">竹癡</persName>，江蘇鎮洋人，書畫家，收藏家。畢飛之弟，
                                 畢飛為乾隆年間狀元，學者，收藏家。</note>
                             <incipit type="seal">唐寅私印</incipit>
-                            <note>此卷作者或爲<persName></persName>唐寅，有待考據。
+                            <note type="注">此卷作者或爲唐寅，有待考據。
                                 唐寅，字伯虎，又字子畏，號六如居士、桃花庵主、逃禪仙吏、魯國唐生等直隸蘇州府吳縣人，明代畫家，文學家，吳中四才子之一。在畫史上與沈周、文徵明、仇英合稱為“明四家”或“吳門四家”。</note>
                             <explicit type="題簽">圖書館</explicit>
-                            <explicit type="背面">B/34？<note>Damaged，not recognisable. 字跡缺損，無以辨認。</note></explicit>
+                            <explicit type="背面">B/34？
+                            <note type="注">Damaged，not recognisable. 字跡缺損，無以辨認。</note></explicit>
                             <filiation>書畫卷軸，中外孤本。</filiation>  
                         </msItem>
                         <!-- insert further msItem elements as appropriate --> 

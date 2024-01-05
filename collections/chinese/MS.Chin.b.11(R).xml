@@ -59,8 +59,8 @@
                             <locus><!-- insert --></locus>
                             <title key="supplie title" xml:lang="en">PAN TSU-YING: [Two scrolls].</title>
                             <title>清潘祖蔭行書七言聯 軸</title>
-                            <author >   
-                                <persName key="Q11565617">潘祖蔭</persName>
+                            <author key="Q11565617">   
+                                <persName>潘祖蔭</persName>
                                 <persName type="字">伯寅</persName>
                                 <persName type="字">東鏞</persName>
                                 <persName type="字">鳳笙</persName>
@@ -70,10 +70,12 @@
                                 <date notAfter="1900" notBefore="1800" calendar="Gregorian">1830-1890</date></author>
                            
                     <msItem>
+                        <title type="上聯">上聯</title>
                             <incipit>珠林墨妙三唐字</incipit>
                             <incipit type="seal">賜</incipit></msItem>
                             
                             <msItem>
+                                <title type="下聯">下聯</title>    
                             <incipit>金簡文高二漢風</incipit>
                             <incipit type="seal">潘祖蔭印</incipit>
                             <incipit type="seal">日東</incipit></msItem>

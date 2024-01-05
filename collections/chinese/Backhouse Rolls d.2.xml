@@ -57,10 +57,10 @@
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            <title type="desc">清王文志行書 卷</title>
+                            <title type="desc">清王文治行書 卷</title>
                             <title key="supplie title" xml:lang="en">A scroll of Chinese calligraphy attributed to Wang Wen Zhi</title>
                             <author key="Q45472534">   
-                                <persName>王文志</persName>
+                                <persName>王文治</persName>
                                 <persName type="字">禹卿</persName>
                                 <persName type="號">夢樓</persName>
                                 <date notAfter="1900" notBefore="1700" calendar="Gregorian">1730-1902</date>
@@ -72,8 +72,7 @@
                                   應帆影蕩江【暮？兮？】。集空中唯有龍【往？來？】，其下都為蛟蠖，蟄遂與雙姑鬥眉黛近【得？】五【州？】
                                   於拱揖狎霸真【集？】鼎足之爭雄，各為張軍一海門重鎖落最牢天塹偏安，古堪【迷？】溯從銕甕築京鎮【如？】
                                   目生？方建考邑羱石曾固臥龍語揣？兒豈是豚大遂不虞巴蜀樓船下</incipit>
-                            <incipit type="款識">嘉慶三年嵗在戊午孟春穀日丹後
-                                           王文志題</incipit>
+                            <incipit type="款識">嘉慶三年嵗在戊午孟春穀日丹後王文治題</incipit>
                             <incipit type="seal">王文治印</incipit>
                             <incipit type="seal">曾經滄海</incipit>
                             <explicit type="題簽">王文治</explicit>

@@ -60,19 +60,19 @@
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
                             <title>清英和行書八言聯 軸</title>
-                            <author>   
-                                <persName key="Q7812813">英和</persName>
+                            <author key="Q7812813">   
+                                <persName>英和</persName>
                                 <persName type="曾用名">石桐</persName>
                                 <persName type="字">樹琴</persName>
                                 <persName type="號">煦齋</persName>
                                 <persName type="號">粵溪生</persName>
                                 <date notAfter="1900" notBefore="1700" calendar="Gregorian">1771-1840</date>
                             </author>
-                            <note>英和(1771-1840),索綽絡氏,初名石桐,字樹琴,號煦齋,又號粵溪生,内務府滿洲正白旗人,清朝政治人物。</note>
+                            <note type="注">英和(1771-1840),索綽絡氏,初名石桐,字樹琴,號煦齋,又號粵溪生,内務府滿洲正白旗人,清朝政治人物。</note>
                             <msItem>
-                            <title type="上聯">上聯</title>
-                            <incipit>東雲館文</incipit>
+                            <title type="上聯">上聯</title>    
                             <incipit>信敏謙恭樂有利福</incipit>
+                           <incipit type="款識">東雲館文</incipit>
                             <explicit type="背面">Backhouse Rolls b.11(1)</explicit>
                                 <explicit type="背面">英和</explicit> </msItem>
                             

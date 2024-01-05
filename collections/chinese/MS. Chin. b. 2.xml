@@ -58,7 +58,9 @@
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
                             <title key="supplied title">[Paper roll:" a wedding procession"；scene on the banks of the Tsing Ming]</title>
-                            <title type="desc">送親圖卷軸</title>
+                            <title type="desc">清佚名繪送親圖 軸</title>
+                            <note type="注">此圖描繪清代婚禮的送親環節，從畫卷的人物裝束上可以推斷出該畫年代為清代乾隆之前。
+                                從卷軸右端所描繪的府邸門前懸挂的燈籠上的字跡可以看到“奉直大夫正府”字樣。注：奉直大夫為從五品散階。</note>
                           <filiation>手繪卷軸，中外孤本。</filiation>
                             
                         </msItem>
@@ -73,8 +75,8 @@
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
                         https://git.io/msdescdoc#leafDimensions
-                        -->                           <height>36.2</height>
-                                        <width>354.5</width>
+                        -->                           <height>36.2 cm</height>
+                                        <width>354.5 cm</width>
                                     </dimensions>
                                     <!-- use additional dimensions elements if necessary -->
                                 </extent>
@@ -90,7 +92,7 @@
                         <handDesc><!-- use the @hands attribute to record the number of scribes -->
                             <handNote>
                                 Text written in 楷體 (kai shu, regular) calligraphic style.The text is found on the lanterns depicted in the scroll.
-                                此圖描繪清代婚禮的送親環節，從畫卷的人物裝束上可以推斷出該畫年代為清代乾隆之前。從卷軸右端所描繪的府邸門前懸挂的燈籠上的字跡可以看到“奉直大夫正府”字樣。注：奉直大夫為從五品散階。</handNote>
+                                </handNote>
                             <!-- use additional handNote elements if necessary 
                      https://git.io/msdescdoc#handdesc
                      -->
@@ -102,7 +104,13 @@
                      -->
                         </musicNotation>
                         <decoDesc>
-                            <decoNote>小鑲手卷，天為淺藍色絲織物，寬31.6cm。隔水為白色絲織物，寬9.4cm。引首為淡黃色絲織物，寬57.6cm。撞邊為白色絲織物，寬9.6cm。錦包首為粉色絲織物伴有紅，綠，黃三色花紋，題簽為白色汎黃絲織物，無字空白。
+                            <decoNote>The handscroll with narrow borders (小鑲手卷) features a protective and decorative backing (錦包首) 
+                                crafted from pink silk adorned with patterns in red, green, and yellow. The title label is made of white 
+                                silk, showing signs of yellowing. The 'Heaven' section (天) is elegantly fashioned from blue silk (31.6cm 
+                                in width), exhibiting subtle signs of fading and staining. Vertical stripes (隔水) are composed of white 
+                                silk (9.4 cm in width). The frontispiece (引首) is crafted from yellow silk (57.6 cm in width).
+                                小鑲手卷，天為淺藍色絲織物，寬31.6cm。隔水為白色絲織物，寬9.4cm。引首為淡黃色絲織物，寬57.6cm。
+                                撞邊為白色絲織物，寬9.6cm。錦包首為粉色絲織物伴有紅，綠，黃三色花紋，題簽為白色汎黃絲織物，無字空白。
                                </decoNote>
                             <!-- use additional decoNote elements if necessary 
                      https://git.io/msdescdoc#decodesc

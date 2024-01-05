@@ -60,16 +60,16 @@
                             <locus><!-- insert --></locus>
                             
                             <title type="desc">清張之萬行書八言聯 軸</title>
-                            <author >   
-                                <persName key="Q11068035">張之萬</persName>
+                            <author key="Q11068035">   
+                                <persName>張之萬</persName>
                                     <persName type="字">子青</persName>
                                     <persName type="號">鑾坡</persName>
                                     <date notAfter="1900" notBefore="1800" calendar="Gregorian">1811-1897</date>
                             </author> 
                             <msItem>
-                            <title type="上聯">上聯</title>
-                            <incipit>芷潛一兄年大人正</incipit>
+                            <title type="上聯">上聯</title>  
                             <incipit>每讀書史多求理道</incipit>
+                            <incipit type="款識">芷潛一兄年大人正</incipit>
                             <explicit type="背面">張之萬 對</explicit>
                             <explicit type="背面">B/326</explicit></msItem>
                             

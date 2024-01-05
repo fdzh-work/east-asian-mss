@@ -60,8 +60,8 @@
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
                             <title type="對聯">清永瑆行書七言聯 軸</title>
-                            <author>   
-                                <persName key="Q7824142">愛新覺羅永瑆</persName>
+                            <author key="Q7824142">   
+                                <persName>愛新覺羅永瑆</persName>
                                 <persName type="號">少厂(ān)</persName>
                                 <persName type="號">鏡泉</persName>
                                 <persName type="號">詒晉齋主人</persName>
@@ -78,7 +78,7 @@
                            <msItem>
                             <title type="下聯">下聯</title>
                             <incipit>月暎珠光貝闕寒</incipit>
-                            <incipit>皇十一子書</incipit>
+                               <incipit type="款識">皇十一子書</incipit>
                             <incipit type="seal">皇考書印</incipit>
                             <incipit type="seal">敬慎</incipit>
                             <explicit type="背面">pair of scrolls by cheng ching [?wang] Prince [Cheng] who was the 11 son of Emperor Ch'ian Lung and is considered as one of the four great calligrapher of the present dynasty.</explicit>

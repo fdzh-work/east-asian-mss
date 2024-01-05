@@ -58,22 +58,30 @@
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
                             <title>清慈禧太后畫花草 軸</title>
-                            <author >   
-                                <persName key="Q47842">慈禧太后</persName>
+                            <author key="Q47842" >   
+                                <persName>慈禧太后</persName>
                                 <date notAfter="2000" notBefore="1800" calendar="Gregorian">1835-1908</date>
                             </author> 
-                            <author key="Chinese">徐郙</author>
-                            <author key="Chinese">吳樹梅</author>
-                            <incipit>一抹秋痕映曉霧，蕭蕭瘦影寫橫斜。滋今蓬島三山住，江上芙蓉未足誇。</incipit>
+                            <author key="Q45699502">   
+                                <persName>徐郙</persName>
+                                <persName type="字">頌閣</persName>
+                                <date notAfter="1900" notBefore="1800" calendar="Gregorian">1836-1908</date>
+                            </author>
+                            <author key="Q10918953">   
+                                <persName>吳樹梅</persName>
+                                <persName type="字">燮臣</persName>
+                                <date notAfter="1900" notBefore="1800" calendar="Gregorian">1852-?</date>
+                            </author>
+                            <incipit type="釋文">一抹秋痕映曉霧，蕭蕭瘦影寫橫斜。滋今蓬島三山住，江上芙蓉未足誇。</incipit>
                             <incipit type="seal">慈禧皇太后御覽之寳</incipit>
                             <incipit type="seal">鉴空衡平</incipit>
                             <incipit type="seal">徐郙之印</incipit>
-                            <explicit>徐郙敬題</explicit>
-                            <incipit>微霜天氣雁來時老圃秋寒挺勁姿綽約風前生意暢汀蘭岸芷共紛披</incipit>
+                            <explicit type="款識">徐郙敬題</explicit>
+                            <incipit type="釋文">微霜天氣雁來時老圃秋寒挺勁姿綽約風前生意暢汀蘭岸芷共紛披</incipit>
                             <incipit type="seal">長春宮精鑒璽</incipit>
                             <incipit type="seal">御賞</incipit>
                             <incipit type="seal">吳樹梅章</incipit>
-                            <explicit>吳樹梅敬題</explicit>
+                            <explicit type="款識">吳樹梅敬題</explicit>
                             <explicit type="題簽">顯皇后御筆畫 徐郙吳樹梅二公題 Picturing of Empress dowager, presents by 1 statesman.</explicit>
                             <filiation>書法卷軸，中外孤本。</filiation>  
                         </msItem>

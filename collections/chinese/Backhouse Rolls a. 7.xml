@@ -58,8 +58,8 @@
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
                             <title>清李鴻章書汪由敦論歷代名家法書卷節選 軸</title>
-                            <author >   
-                                <persName key="Q378517">李鴻章</persName>
+                            <author key="Q378517">   
+                                <persName>李鴻章</persName>
                                 <persName type="字">訓名：章銅</persName>
                                 <persName type="字">少荃</persName>
                                 <persName type="字">子黻</persName>
@@ -68,7 +68,7 @@
                                 <persName type="號">省心</persName>
                                 <date notAfter="2000" notBefore="1800" calendar="Gregorian">1823-1901</date>
                             </author> 
-                            <incipit>黃涪翁云，大字無過瘞鶴銘，小字無過遺教經。今世所傳遺教，直唐經生乎耳。</incipit>
+                            <incipit type="釋文">黃涪翁云，大字無過瘞鶴銘，小字無過遺教經。今世所傳遺教，直唐經生乎耳。</incipit>
                             <incipit type="seal">臣鴻章印</incipit>
                             <incipit type="seal">少荃</incipit>
                             <incipit type="seal">中堂肅毅伯章</incipit>
@@ -82,7 +82,7 @@
                         
                         <objectDesc form="立軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
                             <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                                <support>mulberry and bamboo mixed paper</support>
+                                <support>mulberry and bamboo mixed paper 紙本</support>
                                 <extent>1 scroll
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
@@ -145,7 +145,7 @@
                                 <settlement><!-- insert --></settlement>,
                                 <orgName><!-- insert --></orgName>
                             </origPlace>
-                            <origDate notAfter="1900" notBefore="1800" calendar="Gregorian">晚清</origDate>
+                            <origDate notAfter="1900" notBefore="1800" calendar="Gregorian">由印章“大學士肅毅伯”可知，此書法應爲晚清1864-1901之間作品。</origDate>
                             <!-- use additional origPlace and origDate elements if necessary -->
                         </origin>
                         <provenance> </provenance>

@@ -60,8 +60,8 @@
                             <title key="supplied title" xml:lang="en">Cheng Hsiao-HSÜ:[Four scrolls]
                                                                       Zheng Xiao Xu: Four scrolls</title>
                             <title key="supplied title">清鄭孝胥書法對聯兩對 軸</title>
-                            <author >   
-                                <persName key="Q230200">鄭孝胥</persName>
+                            <author key="Q230200">   
+                                <persName>鄭孝胥</persName>
                                 <persName type="字">太夷</persName>
                                 <persName type="號">蘇龕</persName>
                                 <persName type="號">蘇戡</persName>
@@ -70,23 +70,23 @@
                                 <persName type="號">夜起庵叟</persName>
                                 <persName type="號">苏庵</persName>
                                 <date notAfter="2000" notBefore="1800" calendar="Gregorian">1860-1960</date></author>
-                            <note>郑孝胥，字苏戡、太夷，号苏庵、海藏楼主人、夜起庵叟等，福建闽县人,光绪八年举人。</note>
+                            <note type="注">郑孝胥，字苏戡、太夷，号苏庵、海藏楼主人、夜起庵叟等，福建闽县人,光绪八年举人。</note>
                            
-                            <msItem><title type="對聯">對聯 下聯 <note>MS.Chin.c.38-1</note></title>
+                            <msItem><title type="對聯">上聯 <note>MS.Chin.c.38-1</note></title>
                             <incipit>魯君博覽</incipit>
                             <incipit type="seal">海藏樓</incipit></msItem>
                            
-                            <msItem><title type="對聯">對聯 下聯<note>MS.Chin.c.38-2</note></title>
+                            <msItem><title type="對聯">下聯<note>MS.Chin.c.38-2</note></title>
                             <incipit>郭揣徹言</incipit>
                             <incipit type="seal">蘇戡</incipit>
                             <incipit type="seal">鄭氏孝胥</incipit>
                                <incipit type="款識">念兹仁兄大人雅正庚戌三月<persName>孝胥</persName></incipit></msItem>
                            
-                            <msItem><title type="對聯">對聯 上聯<note>MS.Chin.c.38-3</note></title>
+                            <msItem><title type="對聯">上聯<note>MS.Chin.c.38-3</note></title>
                                 <incipit>提壺勸酒意雖重</incipit>
-                                <incipit>念兹仁兄大人雅鑒</incipit></msItem>
+                                <incipit type="款識">念兹仁兄大人雅鑒</incipit></msItem>
                             
-                            <msItem><title type="對聯">對聯 下聯<note>MS.Chin.c.38-4</note></title>
+                            <msItem><title type="對聯">下聯<note>MS.Chin.c.38-4</note></title>
                                 <incipit>救月裁詩語最真</incipit>
                                 <incipit type="seal">蘇戡</incipit>
                                 <incipit type="seal">鄭氏孝胥</incipit>
@@ -143,7 +143,7 @@
                             <binding when="1800"><!-- use dating attributes to record the date -->
                                 <p>立軸</p>
                                 <decoNote>立軸，一色裱，邊框為藍色絲織物。天杆処有破損,背面錦綉包首処有污跡。
-                                    A pair of hanging scrolls adorned in the one-colour mount style 
+                                    Hanging scrolls adorned in the one-colour mount style 
                                     with blue silk as the ‘Heaven’ section (天頭), the ‘Earth’ section 
                                     (地脚) and the borders. The ‘Heaven’ section shows signs of damage. 
                                 </decoNote>

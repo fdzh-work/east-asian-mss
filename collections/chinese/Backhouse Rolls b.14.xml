@@ -60,8 +60,8 @@
                             <locus><!-- insert --></locus>
                             
                             <title type="desc">清潘祖蔭行書四屏</title>
-                            <author >   
-                                <persName key="Q11565617">潘祖蔭</persName>
+                            <author key="Q11565617">   
+                                <persName>潘祖蔭</persName>
                                     <persName type="字">伯寅</persName>
                                     <persName type="字">東鏞</persName>
                                     <persName type="字">鳳笙</persName>
@@ -72,7 +72,7 @@
                             </author>  
                             
                             <msItem><title type="屏條">其一</title>
-                            <incipit>虞書皋陶謨
+                                <incipit type="釋文">虞書皋陶謨
                                      曰若稽古皋陶曰：”允迪厥德，謨明弼諧。“禹曰：”俞，如何？“
                                      皋陶曰：”都！慎厥身，修思永。惇敘九族，庶明勵翼，邇可
                                      遠在茲。“ 禹拜昌言曰：”俞！“ 皋陶曰：”都！在知人，在安民。“ 禹
@@ -80,7 +80,7 @@
                             
                             <msItem>
                             <title type="屏條">其二</title>
-                            <incipit>惠，黎民懷之。能哲而惠，何憂乎驩兜？何遷乎有苗？何
+                                <incipit type="釋文">惠，黎民懷之。能哲而惠，何憂乎驩兜？何遷乎有苗？何
                                      畏乎巧言令色孔壬？“ 皋陶曰：”都！亦行有九德。亦言，其
                                      人有德，乃言曰，載采采。“ 禹曰：”何？“ 皋陶曰：”寬而栗，柔而
                                      立，愿而恭，亂而敬，擾而毅，直而溫，簡而廉，剛而塞，彊
@@ -89,7 +89,7 @@
                            
                            <msItem>
                             <title type="屏條">其三</title>
-                            <incipit>祗敬六德，亮采有邦。翕受敷施，九德咸事，俊乂在官。
+                               <incipit type="釋文">祗敬六德，亮采有邦。翕受敷施，九德咸事，俊乂在官。
                                      百僚師師，百工惟時，撫于五辰，庶績其凝。無教逸欲，
                                      有邦兢兢業業，一日二日萬幾。無曠庶官，天工，人其
                                      代之。天敘有典，勑我五典五惇哉！天秩有禮，自我五
@@ -98,7 +98,7 @@
                             
                             <msItem>
                             <title type="屏條">其四</title>
-                            <incipit>天討有罪，五刑五用哉！政事懋哉懋哉！“ ”天聰明，自我
+                                <incipit type="釋文">天討有罪，五刑五用哉！政事懋哉懋哉！“ ”天聰明，自我
                                      民聰明。天明畏，自我民明威。達于上下，敬哉有土！“ 皋
                                      陶曰：”朕言惠可厎行？“ 禹曰：”俞！乃言厎可績。皋陶曰：“予
                                      未有知，思曰贊贊襄哉！”</incipit>
@@ -156,7 +156,7 @@
                             <binding when="1800"><!-- use dating attributes to record the date -->
                                 <p>立軸</p>
                                 <decoNote>
-                                    A set of two hanging scrolls adorned in the one-color mount style with pale-yellow silk featuring 
+                                    A set of four hanging scrolls adorned in the one-color mount style with pale-yellow silk featuring 
                                     patterns for the 'Heaven' section (天頭), the 'Earth' section (地脚), and the borders. The 'painted heart' 
                                     (畫心) is crafted from yellow paper. Notably, each scroll exhibits signs of damage specifically on the 'Heaven section.   
                                     立軸，裝裱方式為一色裱，天頭地脚及邊框為淺黃色色有花紋絲織物。書法寫與黃色紙本上。每一軸的天杆処均有破損，待修復。</decoNote>

@@ -61,8 +61,8 @@
                             <locus><!-- insert --></locus>
                             <title type="desc">清劉墉臨王羲之父子十帖 軸</title>
                             <title key="supplie title" xml:lang="en">A set of five scrolls featuring calligraphy that imitates the style of Wang Xi Zhi, attributed to Liu Yong</title>
-                            <author >   
-                                <persName key="Q6653873">劉墉</persName>
+                            <author key="Q6653873">   
+                                <persName>劉墉</persName>
                                 <persName type="字">崇如</persName>
                                 <persName type="號">石庵</persName>
                                 <persName type="號">青原</persName>
@@ -75,64 +75,64 @@
                             </author> 
                             <msItem>
                             <title type="desc">一軸</title>
-                            <incipit>獻之白奉別告承安和慶慰極冷不
+                                <incipit type="釋文">獻之白奉別告承安和慶慰極冷不
                                 審尊體復何如獻之比日如復小勝因夜行
                                 忽復下如欲作㿃今服藥盡温燥理冀當
-                                可耳 
-                                <note>出自<persName>王獻之</persName>《安和帖》又名《奉別帖》</note></incipit>
-                            <incipit>獻之白承姑比日復小進退其尔不得一極知憂懸猶深
-                            <note><persName>出自王獻之</persName>法帖錄于《欽定四庫全書法帖釋文卷九》</note></incipit>
+                                可耳</incipit>
+                                <note type="注">出自王獻之《安和帖》又名《奉別帖》</note>
+                                <incipit type="釋文">獻之白承姑比日復小進退其尔不得一極知憂懸猶深
+                                <note type="注">出自王獻之法帖錄于《欽定四庫全書法帖釋文卷九》</note></incipit>
                             <incipit type="seal">日觀峰道人</incipit>
                             <explicit type="題簽">王羲之字屏五塊</explicit>
                             </msItem>
                            
                            <msItem>
                             <title type="desc">二軸</title>
-                            <incipit>不審阿姨所患得差否令懸惻想東
+                               <incipit type="釋文">不審阿姨所患得差否令懸惻想東
                                 陽諸妹當復平安不審頃者情事漸
                                 差耶彼郡今載甚不能佳不知早晚至當遂
-                                至郡深想望
-                                <note>出自<persName>王羲之</persName>《阿姨帖》</note></incipit>
-                            <incipit>嘉慶辛酉仲冬 石菴劉墉</incipit>
+                                至郡深想望</incipit>
+                               <note type="注">出自王羲之《阿姨帖》</note>
+                            <incipit type="款識">嘉慶辛酉仲冬 石菴劉墉</incipit>
                             <incipit type="seal">劉墉之印</incipit>
                             <incipit type="seal">石盦</incipit>
                            </msItem>
                            
                            <msItem>
                             <title type="desc">三軸</title>
-                            <incipit>適太常司州領軍諸人廿五六書皆佳司
+                               <incipit type="釋文">適太常司州領軍諸人廿五六書皆佳司
                                 州以爲平復此慶慶可言余親親皆佳大奴
-                                以還吳也冀或見之
-                                <note>出自<persName>王羲之</persName>《適太常帖》</note></incipit>
-                            <incipit>噉豆鼠傷如佳今送能噉
+                                以還吳也冀或見之</incipit>
+                               <note type="注">出自王羲之《適太常帖》</note>
+                               <incipit type="釋文">噉豆鼠傷如佳今送能噉
                                 <note><persName>出自王羲之</persName>《噉豆鼠帖》</note></incipit>
-                            <incipit>夫人遂善平康也足下各可不異行復面王羲之頓
-                                <note><persName>出自王羲之</persName>《平康帖》</note></incipit>
+                               <incipit type="釋文">夫人遂善平康也足下各可不異行復面王羲之頓</incipit>
+                               <note type="注">出自王羲之《平康帖》</note>
                             <incipit type="seal">御賜清愛堂</incipit>
                            </msItem>
                             
                            <msItem>
                             <title type="desc">四軸</title>
-                            <incipit>司州供給寥落去無期也不果者（一釋「去」）公
+                               <incipit type="釋文">司州供給寥落去無期也不果者（一釋「去」）公
                                 私之望無理或復是福得大等書慰心今
-                                因書也墅數言疏平安定太宰中郎  
-                                <note>出自<persName>王羲之</persName>《司州帖》</note></incipit>
-                            <incipit>昨得熙廿六日
-                                書云患氣懸情小佳更致問一一適修載書平安 
-                                <note><persName>出自王羲之</persName>法帖錄于《昨得熙帖》</note></incipit>
-                            <incipit>廿四日臨</incipit>
+                                因書也墅數言疏平安定太宰中郎</incipit>
+                               <note type="注">出自王羲之《司州帖》</note>
+                               <incipit type="釋文">昨得熙廿六日
+                                書云患氣懸情小佳更致問一一適修載書平安</incipit> 
+                               <note type="注">出自王羲之法帖錄于《昨得熙帖》</note>
+                               <incipit type="釋文">廿四日臨</incipit>
                             <incipit type="seal">石盦</incipit>
                            </msItem> 
                            
                            <msItem>
                             <title type="desc">五軸</title>
-                            <incipit>适者十五日问清和为慰复得南后问不
+                               <incipit type="釋文">适者十五日问清和为慰复得南后问不
                                 想二康（一釋「庾」）速至之始兴奴长就令人邑邑想无
-                                所至耳还具示问
-                                <note>出自<persName>王羲之</persName>《適者帖》</note></incipit>
-                            <incipit>想小大悉佳蔡家賔至君情感益深唯當撥攝遣之耳
-                                <note>出自<persName>王羲之</persName>《蔡家帖》</note></incipit>
-                            <incipit>此書似李懷琳所作也 燈下臨</incipit>
+                                所至耳还具示问</incipit>
+                               <note type="注">出自王羲之《適者帖》</note>
+                               <incipit type="釋文">想小大悉佳蔡家賔至君情感益深唯當撥攝遣之耳</incipit>
+                               <note type="注">出自王羲之《蔡家帖》</note>
+                               <incipit type="釋文">此書似李懷琳所作也 燈下臨</incipit>
                             <incipit type="seal">日觀峰道人</incipit>
                            </msItem>
 

@@ -59,8 +59,8 @@
                             <locus><!-- insert --></locus>
                             <title type="desc">清董邦達秋嶺齊雲圖 卷</title>
                             <title key="supplie title" xml:lang="en">A scroll of Chinese painting featuring landscape attributed to Dong Bang Da</title>
-                            <author >   
-                                <persName key="Q16075853">董邦達</persName>
+                            <author key="Q16075853">   
+                                <persName>董邦達</persName>
                                 <persName type="字">孚聞</persName>
                                 <persName type="字">孚存</persName>
                                 <persName type="字">爭存</persName>
@@ -68,7 +68,7 @@
                                 <persName type="號">非聞</persName>
                                 <date notAfter="1700" notBefore="1500" calendar="Gregorian">1699-1769</date>
                             </author>
-                            <note>董邦達，字孚聞,號東山,浙江富陽人,官至禮部尚書，善畫山水，與董源、董其昌合稱古今三董。</note>
+                            <note type="注">董邦達，字孚聞,號東山,浙江富陽人,官至禮部尚書，善畫山水，與董源、董其昌合稱古今三董。</note>
                             <incipit type="釋文">仿黃公望筆意，以明白石翁詩咏之。</incipit>
                             <note type="注">黃公望 （129-1354），字子久，號大痴，大痴道人，一峰道人，元朝畫家。
                                   沈周 （1427-1509），字啓南，號石田，白石翁，玉田生，有竹居主人等，明朝畫家，吳門畫派的創始人之一，明四家之一。</note>

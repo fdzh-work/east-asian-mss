@@ -60,8 +60,8 @@
                             <locus><!-- insert --></locus>
                             
                             <title type="desc">清李鴻章行書八言聯 軸</title>
-                            <author >   
-                                <persName key="Q378517">李鴻章</persName>
+                            <author key="Q378517">   
+                                <persName>李鴻章</persName>
                                 <persName type="字">訓名：章銅</persName>
                                 <persName type="字">少荃</persName>
                                 <persName type="字">子黻</persName>
@@ -72,8 +72,8 @@
                             </author> 
                             <msItem>
                             <title type="上聯">上聯</title>
-                            <incipit>承齋尊兄大人屬</incipit>
-                            <incipit>海東日南魷瞻五會</incipit>
+                            <incipit>海東日南魷瞻五會</incipit> 
+                            <incipit type="款識">承齋尊兄大人屬</incipit>
                             <explicit type="背面">autograph of Li Hongzhan 李鴻章 對 B/325</explicit></msItem>
                             
                             <msItem>
@@ -155,7 +155,7 @@
                                 <settlement><!-- insert --></settlement>,
                                 <orgName><!-- insert --></orgName>
                             </origPlace>
-                            <origDate notAfter="1900" notBefore="1800" calendar="Gregorian">晚清1864-1901</origDate>
+                            <origDate notAfter="1900" notBefore="1800" calendar="Gregorian">由印章“大學士肅毅伯”可知，此書法應爲晚清1864-1901之間作品。</origDate>
                             <!-- use additional origPlace and origDate elements if necessary -->
                         </origin>
                         <provenance>Donated by Sir Edmund Trelawny Backhouse, 2nd Baronet (20 October 1873 – 8 January 1944).</provenance>

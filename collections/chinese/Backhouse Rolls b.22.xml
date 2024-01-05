@@ -60,13 +60,14 @@
                             <locus><!-- insert --></locus>
                             
                             <title type="desc">清左宗棠行書八言聯</title>
-                            <author >   
-                                <persName key="Q230200">左宗棠</persName>
+                            <author key="Q230200">   
+                                <persName>左宗棠</persName>
                                 <persName type="字">季高</persName>
                                 <persName type="號">湘上農人</persName>
                                 <persName type="號">自署名：今亮</persName>
                                 <date notAfter="1900" notBefore="1800" calendar="Gregorian">1812-1885</date>
-                            </author> 
+                            </author>
+                            
                             <msItem>
                             <title type="上聯">上聯</title>
                             <incipit>禮樂其文金石其質</incipit>

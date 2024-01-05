@@ -58,15 +58,14 @@
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
                             <title>清高其佩餘樂圖 軸</title>
-                            <author >   
-                                <persName key="Q698454">高其佩</persName>
+                            <author key="Q698454">   
+                                <persName>高其佩</persName>
                                 <persName type="字">韋之</persName>
                                 <persName type="號">且園</persName>
                                 <persName type="號">南村</persName>
                                 <date notAfter="1800" notBefore="1600" calendar="Gregorian">1660-1734</date>
                             </author> 
-                            <incipit>戍子蒼朝前一日</incipit>
-                            <incipit type="款識">鐵嶺高其佩指腹畫法</incipit>
+                            <incipit type="款識">戍子蒼朝前一日 鐵嶺高其佩指腹畫法</incipit>
                             <incipit type="seal">高其佩</incipit>
                             <incipit type="seal">指頭畫</incipit>
                             <explicit type="題簽">高其佩 山水</explicit>
@@ -145,7 +144,7 @@
                                 <settlement><!-- insert --></settlement>,
                                 <orgName><!-- insert --></orgName>
                             </origPlace>
-                            <origDate notAfter="1900" notBefore="1800" calendar="Gregorian">據稱為清早期，待鑒別。</origDate>
+                            <origDate notAfter="1900" notBefore="1800" calendar="Gregorian">據稱為1708年，待鑒別。</origDate>
                             <!-- use additional origPlace and origDate elements if necessary -->
                         </origin>
                         <provenance>
