@@ -59,74 +59,100 @@
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            <title key="supplied title">清王文錦等四人楷書四條屏 軸</title>
+                            <title key="supplied title">清王文錦等六人楷書四條屏 軸</title>
+                            <author key="Q45607205">
+                                <persName>王文錦</persName>
+                                <persName type="字">云舫</persName>
+                                <date notAfter="1900" notBefore="1800" calendar="Gregorian">1835-1896</date>
+                            </author>
+                            <author key="Q15943465">        
+                                <persName>王仁堪</persName>
+                                <persName type="字">可庄</persName>
+                                <persName type="字">忍庵</persName>
+                                <persName type="號"> 公定</persName>
+                                <date notAfter="1900" notBefore="1800" calendar="Gregorian">1848-1893</date>
+                            </author>
+                            <author key="Q45699502">        
+                                <persName>徐郙</persName>
+                                <persName type="字">壽蘅</persName>
+                                <persName type="號">頌閣</persName>
+                                <date notAfter="2000" notBefore="1800" calendar="Gregorian">1836-1908</date>
+                            </author>
+                            <author key="Q16075982">        
+                                <persName>高釗中</persName>
+                                <persName type="字">勉之</persName>
+                            </author>
+                            <author key="_caohongxun">        
+                                <persName>曹洪勛</persName>
+                                <persName type="字">仲銘</persName>
+                                <persName type="字">竹銘</persName>
+                                <persName type="號"> 蘭生</persName>
+                            </author>
+                            <author key="Q45616720">        
+                                <persName>蔣艮</persName>
+                                <persName type="字">仲仁</persName>
+                                <persName type="號"> 後山</persName>
+                            </author>
                         <msItem>
                             <title type="subtitle">卷軸一</title>
-                            <author key="Chinese">王仁堪</author>
-                            <incipit>期仙磴者，蓋危磴穹窿，迥接雲路，靈仙仿彿，若可期及。</incipit>
-                            <incipit type="款識">臣<persName>王仁堪</persName>敬書</incipit>
+                            <incipit type="釋文">期仙磴者，蓋危磴穹窿，迥接雲路，靈仙仿彿，若可期及。</incipit>
+                            <incipit type="款識">臣王仁堪敬書</incipit>
                             <incipit type="seal">敬書</incipit>
-                            <note>該詩句摘自《草堂十志》，作者為明代<persName>文徵明</persName></note>
-                            <author key="Chinese">王文錦</author>
-                            <incipit>瑞露垂花綬，寒冰澈寳輪。對兹臺上月，共以慶良辰。</incipit>
-                            <incipit type="款識">臣<persName>王文錦</persName>敬書</incipit>
+                            <note type="注">該詩句摘自《草堂十志》，作者為明代文徵明</note>
+                            <incipit type="釋文">瑞露垂花綬，寒冰澈寳輪。對兹臺上月，共以慶良辰。</incipit>
+                            <incipit type="款識">臣王文錦敬書</incipit>
                             <incipit type="seal">臣王文錦</incipit>
                             <incipit type="seal">敬書</incipit>
-                            <note>該詩句為唐代<persName>李隆基</persName>所作《千秋節賜群臣鏡》。</note>
-                            <note>王仁堪（1849-1893），字可莊，又字忍菴，號公定，閩縣人，光緒三年（1877）狀元，後授翰林院修撰.歷任提督山西學政，貴州、江南、廣東鄉試副考官，後任武英殿纂修等職。
+                            <note type="注">該詩句為唐代李隆基所作《千秋節賜群臣鏡》。</note>
+                            <note type="注">王仁堪（1849-1893），字可莊，又字忍菴，號公定，閩縣人，光緒三年（1877）狀元，後授翰林院修撰.歷任提督山西學政，貴州、江南、廣東鄉試副考官，後任武英殿纂修等職。
                                 王文錦（1835-1896），字云舫，直隸天津人同治十年（1871）進士，二甲五十三名。</note>
                         </msItem>
                         
                             <msItem>   
                             <title type="subtitle">卷軸二</title>
-                            <author key="Chinese">徐郙</author>
-                            <incipit>《易》稱“辨物正言，斷辭則備”，《書》云“辭尚體要，弗惟好異”。</incipit>
-                            <incipit type="款識">臣<persName>徐郙</persName>敬書</incipit>
+                                <incipit type="釋文">《易》稱“辨物正言，斷辭則備”，《書》云“辭尚體要，弗惟好異”。</incipit>
+                            <incipit type="款識">臣徐郙敬書</incipit>
                             <incipit type="seal">臣郙</incipit>
                             <incipit type="seal">敬書</incipit>
-                            <note>該詩句摘自《文心雕龍》第二篇徵聖第二，作者為南齊<persName>劉勰</persName></note>
-                            <author key="Chinese">高釗中</author>
-                            <incipit>綠淨不可唾，此語足千古。天水澹相涵，中有數聲艣。</incipit>
-                            <incipit type="款識">臣<persName>高釗中</persName>敬書</incipit>
+                                <note type="注">該詩句摘自《文心雕龍》第二篇徵聖第二，作者為南齊劉勰</note>
+                                <incipit type="釋文">綠淨不可唾，此語足千古。天水澹相涵，中有數聲艣。</incipit>
+                            <incipit type="款識">臣高釗中敬書</incipit>
                             <incipit type="seal">臣高釗中</incipit>
                             <incipit type="seal">敬書</incipit>
-                            <note>該詩句為明代<persName>高珩</persName>所作《祭告南岳雜詩其四》。</note>
-                            <note> 徐郙（1836-1908），字壽蘅，號頌閣，江蘇嘉定人，同治元年（1862）狀元，先後授翰林院修撰，南書房行走，安徽學政，左都御史，兵部尚書，禮部尚書等職，拜協辦大學士，世稱徐相國。
+                                <note type="注">該詩句為明代高珩所作《祭告南岳雜詩其四》。</note>
+                                <note type="注"> 徐郙（1836-1908），字壽蘅，號頌閣，江蘇嘉定人，同治元年（1862）狀元，先後授翰林院修撰，南書房行走，安徽學政，左都御史，兵部尚書，禮部尚書等職，拜協辦大學士，世稱徐相國。
                                 高釗中（生卒年不詳），字勉之，河南項城縣人，光緒二年（1876）丙子恩科進士。改庶吉士。光緒三年任翰林院編修，光緒八年任提督湖北學政，光緒十三年任上書房行走。光緒十五年，任授溥侗讀，次年，任提督雲南學政，
                                 光緒二十年，任翰林院侍讀。</note>
                         </msItem> 
                         
                             <msItem>
                             <title type="subtitle">卷軸三</title>
-                            <author key="Chinese">王文錦</author>
-                            <incipit>閶闔春風起，蓬萊雪水消。相將折楊柳，爭取最長條。</incipit>
-                            <incipit type="款識">臣<persName>王文錦</persName>敬書</incipit>
+                                <incipit type="釋文">閶闔春風起，蓬萊雪水消。相將折楊柳，爭取最長條。</incipit>
+                            <incipit type="款識">臣王文錦敬書</incipit>
                             <incipit type="seal">臣王文錦</incipit>
                             <incipit type="seal">敬書</incipit>
-                            <note>該詩句摘自《琴曲歌辭蔡氏五弄游春辭三首》，作者為唐代<persName>令狐楚</persName></note>
-                            <author key="Chinese">曹洪勛</author>
-                            <incipit>玉砌紅花樹，像風不散吹。春光觧天意，偏發殿南枝。</incipit>
-                            <incipit type="款識">臣<persName>曹洪勛</persName>敬書</incipit>
+                                <note type="注">該詩句摘自《琴曲歌辭蔡氏五弄游春辭三首》，作者為唐代令狐楚</note>
+                                <incipit type="釋文">玉砌紅花樹，像風不散吹。春光觧天意，偏發殿南枝。</incipit>
+                            <incipit type="款識">臣曹洪勛敬書</incipit>
                             <incipit type="seal">臣曹洪勛</incipit>
                             <incipit type="seal">敬書</incipit>
-                            <note>該詩句為唐代<persName>盧綸</persName>所作《儋天長久詞》。</note>
-                            <note> 王文錦 (生卒年不詳)，字云舫，直隸天津人同治十年（1871）進士，二甲五十三名。曹洪勛(生卒年不詳)，字仲銘，又字竹銘，號蘭生，濰縣人，光緒二年（1876）狀元。</note>
+                                <note type="注">該詩句為唐代盧綸所作《儋天長久詞》。</note>
+                                <note type="注"> 王文錦 (生卒年不詳)，字云舫，直隸天津人同治十年（1871）進士，二甲五十三名。
+                                    曹洪勛(生卒年不詳)，字仲銘，又字竹銘，號蘭生，濰縣人，光緒二年（1876）狀元。</note>
                         </msItem>
                         <msItem>
                             <title type="subtitle">卷軸四</title>
-                            <author key="Chinese">曹洪勛</author>
-                            <incipit>月彩浮鸞殿，鍾聲隔鳳樓。笙歌臨水檻，紅燭乍迎秋。</incipit>
-                            <incipit type="款識">臣<persName>曹洪勛</persName>敬書</incipit>
+                            <incipit type="釋文">月彩浮鸞殿，鍾聲隔鳳樓。笙歌臨水檻，紅燭乍迎秋。</incipit>
+                            <incipit type="款識">臣曹洪勛敬書</incipit>
                             <incipit type="seal">臣曹洪勛</incipit>
                             <incipit type="seal">敬書</incipit>
-                            <note>該詩句摘自《雜曲歌辭.宮中樂》，作者為唐代<persName>張仲素</persName></note>
-                            <author key="Chinese">蔣艮</author>
-                            <incipit>突兀隘空虛，他山總不如。君看道傍石，總是補天餘。</incipit>
-                            <incipit type="款識">臣<persName>蔣艮</persName>敬書</incipit>
+                            <note type="注">該詩句摘自《雜曲歌辭.宮中樂》，作者為唐代張仲素</note>
+                            <incipit type="釋文">突兀隘空虛，他山總不如。君看道傍石，總是補天餘。</incipit>
+                            <incipit type="款識">臣蔣艮敬書</incipit>
                             <incipit type="seal">臣蔣艮</incipit>
                             <incipit type="seal">敬書</incipit>
-                            <note>該詩句為宋代<persName>蘇軾</persName>所作《儋耳山》。</note>
-                            <note> 曹洪勛，字仲銘，又字竹銘，號蘭生，濰縣人，光緒二年（1876）狀元。蔣艮，字仲仁，號後山，商城伏山鄉人，光緒六年（1880）進士。</note>
+                            <note type="注">該詩句為宋代蘇軾所作《儋耳山》。</note>
+                            <note type="注">蔣艮，字仲仁，號後山，商城伏山鄉人，光緒六年（1880）進士。</note>
                          
                             <filiation>書法卷軸，中外孤本。</filiation>  
                          </msItem>
@@ -178,7 +204,12 @@
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
                                 <p> 立軸</p>
-                                <decoNote>一套由四件立軸組成。每個立軸都為二色裱,天頭地脚為藍色絲織物，天頭高12.3cm，地脚高7.4cm。上下隔水為淺藍色絲織物，上隔水高18.8cm，下隔水高12.5cm。邊框寬4.5cm。畫心為米色絹本，分爲上下兩部分，分別爲不同兩位書法家書寫。每部分分爲三行，每行八字。</decoNote>
+                                <decoNote>A set of four hanging scrolls adorned in the two-colour mount style with blue jacquard silk 
+                                    as the ‘Heaven’ section (天頭) and the ‘Earth’ section (地脚). Vertical stripes (隔水) are composed 
+                                    of light blue silk. The calligraphies are written on silk in beige colour.
+                                    一套由四件立軸組成。每個立軸都為二色裱,天頭地脚為藍色絲織物，天頭高12.3cm，地脚高7.4cm。
+                                    上下隔水為淺藍色絲織物，上隔水高18.8cm，下隔水高12.5cm。邊框寬4.5cm。畫心為米色絹本，分爲上下兩部分，
+                                    分別爲不同兩位書法家書寫。每部分分爲三行，每行八字。</decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>
