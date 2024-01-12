@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+<!-- use this template in cases where the manuscript is NOT composed of multiple codicological units. To avoid errors in the display of the record, be sure to delete elements that are not used. -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="manuscript_00000"><!-- insert the correct xmlid in the form manuscript_12345 -->
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>MS.Chin.c.40(R)</title>
+                
+                <respStmt>
+                    <resp>Cataloguer</resp>
+                    <persName>Boya Zhang</persName>
+                </respStmt>
+                
+            </titleStmt>
+            <editionStmt>
+                <edition>TEI P5</edition>
+                <funder>HD Chung Fund</funder>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Special Collections, Bodleian Libraries</publisher>
+                <address>
+                    <orgName type="department">Special Collections</orgName>
+                    <orgName type="unit">Bodleian Libraries</orgName>
+                    <orgName type="institution">University of Oxford</orgName>
+                    <street>Weston Library, Broad Street</street>
+                    <settlement>Oxford</settlement>
+                    <postCode>OX1 3BG</postCode>
+                    <country>United Kingdom</country>
+                </address>
+                <distributor>
+                    <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                </distributor>
+                <idno type="msID"><!-- insert normalized form of shelfmark --></idno>
+                <idno type="collection"><!-- insert normalized form of collection --></idno>
+                <idno type="catalogue"><!-- insert catalogue ID --></idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:lang="en"><!-- optionally provide xmlid should as a normalized form of the shelfmark, e.g. Merton_College_MS_10 -->
+                    <msIdentifier>
+                        <settlement><!-- insert --></settlement>
+                        <repository>Bodleian Library</repository><!-- change if necessary -->
+                        <idno type="shelfmark">MS.Chin.c.40(R)</idno>
+                        
+                        
+                    </msIdentifier>
+                    
+                    <msContents>
+                        <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
+                        <summary>A horizontal scroll featuring Chinese calligraphy and painting, attributed to multiple authors including Zhao Mengfu (1254-1322), Meng Qian Qiu, Liu Xun, Zhang Bao, etc.</summary>
+                        <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
+                        
+                        <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
+                            <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
+                            <locus><!-- insert --></locus>
+                            <title>清佚名仿元趙孟頫羲獻像書畫 卷</title>
+                            <author key="Q197461">   
+                                <persName>趙孟頫</persName>
+                                <persName type="字">子昂</persName>
+                                <persName type="號">松雪道人</persName>
+                                <persName type="號">鷗波</persName>
+                                <persName type="號">水精宮道人</persName>
+                                <date notAfter="1400" notBefore="1200" calendar="Gregorian">1254-1322</date>
+                            </author>
+                            <author key="_mengqianqiu">        
+                                <persName>孟千秋</persName>
+                            </author>
+                            
+                            <author key="_liuxun">        
+                                <persName>劉勲</persName>
+                            </author>
+                            
+                            <author key="_zhangbao">        
+                                <persName>張褒</persName>
+                            </author>
+                            
+                            <author key="_wuzhaorong">        
+                                <persName>吳肇榮</persName>
+                            </author>
+                           <msItem>
+                            <incipit type="釋文">僕於京師見周文矩畫羲獻像歸而摹之時皇慶二年夏五月也</incipit>
+                            <incipit type="款識">吳興趙孟頫</incipit>
+                            <incipit type="seal">松雪齋</incipit>
+                            <incipit type="seal">馮仙湜印</incipit>
+                            <incipit type="seal">程光國珍賞印</incipit>
+                            <incipit type="seal">趙氏子昂</incipit>
+                            <incipit type="seal">孟頫</incipit>
+                            <incipit type="seal">魏之璜印</incipit>
+                            <incipit type="seal">成親王</incipit>
+                            <incipit type="seal">墨林項氏家藏</incipit>
+                            <incipit type="seal">【善舉】</incipit></msItem> 
+                          
+                          <msItem>
+                            <incipit type="釋文">王逸少善書，為古今之冠。論者稱爲，筆勢飄若浮雲矯若驚龍。子敬書不減其父，
+                                袁昂乃謂：“如河朔少年充悅舉禮，杳拖而不可耐。“謝安石嘗問子敬：“君書何如君家尊？”答曰：“故黨不同。“
+                                則其父子鑒裁優劣，【概】可見矣。趙魏之研精，翰墨兼得，二王法擅美一時，相玄上下千餘年而人品風流醖藉。
+                                無足相當益書者心畫也，潯之心應之乎始。克臻其妙，後難以形似言也，令觀魏公所寫羲獻像，誰自謂摹周文矩
+                                作。熟視其神情超邁飄飄晉人襟韻，非有潯於心術之微者，烏能及此，又豈若優孟襲叔敖衣冠，徒效其抵掌談笑
+                                而口者哉。</incipit>
+                            <incipit type="款識">乙酉嵗正月二十七日壬戍淳安孟千秋書</incipit>
+                            <incipit type="seal">孟千秋印</incipit></msItem>
+                           
+                           <msItem>
+                            <incipit type="釋文">蘭亭千載求真跡，藻鑑令朝覩右軍。晉代衣冠【？】素練，周家喬梓接青雲。風流如在人空羡，
+                                筆陣通神【去？】莫羣。卻憶吳興趙學士，妙將妙手寫人文。</incipit>
+                            <incipit type="款識">文溪劉勲題</incipit>
+                            <incipit type="seal">劉勲</incipit></msItem>
+                           
+                           <msItem>
+                            <incipit type="釋文">子昂旅京師，皇慶二年夏游神翰墨間入趣，用即畫濟之晉衣冠風流加蘊藉，而見白鵝群清風動
+                                林野。臨摹入生綃，金玉偕儒稚故此安及之【？】【岱？】傯下愚泉題黨此連城假。莆田孟君拜題時？？十年？正月
+                                二十七也游泮鎮之清觀丹房偕游此黃伯厚</incipit>
+                            <incipit type="款識">刋江張褒</incipit>
+                            <incipit type="seal">張褒</incipit>
+                            <incipit type="seal">梁清標印</incipit></msItem>
+                            
+                               <msItem>
+                                   <incipit type="釋文">羲之小傳
+                                       羲之，字逸少，晉司徒導之從子，尚書郎正之孫，淮南太守曠之子。幼納於言年，十三謁周顗，察而異之。
+                                       及長，辨贍，以骨鯁稱，擊書冠古今。論者稱其：飄若浮雲，矯若驚龍。深為諸父敦、導所器重。主薄阮
+                                       裕常目，承、悅與羲之為王氏三少，太尉郗鋻使門生求婿於導，令就東廂遍觀，後謁鋻曰：“王氏諸少並佳，
+                                       聞則咸自矜持，惟一人在牀坦腹食，獨若不聞。訪之乃羲之也，鋻遂以女妻之。
+                                       庾亮請為參軍，累遷長史。亮臨薨，上疏稱羲之有鋻才器，頻召為侍中、吏部尚書，皆不就。復授護軍無不
+                                       拜。楊州刺史殷浩勸使應命，答以、、廊廟直誓不？内自兒娶女嫁更懷尚子之志，若蒙驅使関隴巴蜀皆所不
+                                       辭，乃任護軍。
+                                       命求宣城郡，不許，遂為右軍將軍。會稽内使時，殷浩與桓溫不協，羲之謁國家之安在内外和，以書誡浩，
+                                       不從。浩將北伐，羲之止，不勝。果為姚襄所敗。復圖再舉，遺浩書語甚切，直又與會稽王【牘】陳浩不
+                                       宜北伐。弄論時？中云重，以區區吳越經緯天下十分之八九，而不度德量力，不弊不已。欲令浩、荀羡還
+                                       據合肥，諸軍皆還保淮，為不可勝之機，根立勢擧，謀之未晚。
+                                       東土饑荒，羲之輒開倉賑貸，賦役繁重，吳會尤甚，每疏爭，事多見從。又遺謝僕射安書且言：“臺司及考
+                                       水御史行臺文符錯背，吏民趨走，工費萬計，理尋揚州一良刺史統之，又言倉盜官米，余姚諸縣皆爾，重斂
+                                       以資奸吏，令囯空乏。從軍興以來，征役、充運、死亡、叛散，其源在此。
+                                       羲之雅好服食養性，不樂在京師。初度浙江，便有終焉之志。會計有佳山水，名士多居之。孫綽、李充、許
+                                       詢、支遁鄧文藝冠世並築室於此。與羲之同好。永和九年上巳宴集，同志與山陰蘭亭為脩禊事。為流觴曲水
+                                       之樂，眾秀賦詩，羲之為序。飲中事藁妙郭後充。
+                                       性愛鵝，聞某姥所養者善鳴，遂携親友就觀，姥烹以待之。羲之嘆息彌日。山陰道士亦養鵝，羲之固求之，
+                                       為寫《道德經》從籠子而歸，常詣門生家，見架几滑净，因書之，真草相半，後其父誤刮去，門生驚懊累日。
+                                       常在一戢山見老姥持六角竹扇，書各五字，姥有慍色因謂曰：“但言王右軍書”。姥如其言，人競買之，它日，
+                                       又携扇來，笑而不答。每自稱為: “
+                                       吾書比鍾繇，當抗行；比張芝，猶雁行。” 曾與人書云：“張芝臨池學書，池水盡墨，【】【】【】耽之若是，
+                                       未必後之也。”是書初不勝庾翼，郗愔，及暮年才妙。嘗以章草十紙，過江亡失，常嘆妙跡永絕，忽見足下答
+                                       家兄書，煥若神明，頓還舊觀。
+                                       時驃騎將軍王述與羲之齊名，而羲之甚輕之，由是不協，先為會稽以母喪居郡境，羲之代述一吊而不重詣，
+                                       及述為揚州刺史，臨嵗一別，羲之而不去。述蒙顯授，羲之恥為其下，遺使詣朝廷，求分會稽為越州。行人失
+                                       辭，大爲時賢所笑。既而愧嘆。述又檢察至郡刑政，主者疲於簡對，羲之遂稱去，誓與父母墓前，再無苟進之心。
+                                       既去，乃與東土人盡山水，鈎弋之娛，又道士許邁共脩服食採藥，諸郡窮山泛海，嘆曰：“我後當樂死。”謝安謂
+                                       羲之曰：“在桑榆自然至此，賴絲竹陶然，恆恐兒輩覺頓，損其趣。”朝廷以其誓苦，亦不復徵。時揚尹許詢常
+                                       就劉掞宿，賓主語答羲之在坐，曰：“令巢由遇稷契，當無此言。”二人並有愧色。
+                                       初，羲之與弟謝書曰：古之辭世者，或披髮嘩狂，或汗身滅跡，可謂難矣。今僕坐而獲逸，遂其宿心，其爲慶幸，
+                                       豈非天賜！頃東游還，脩植桑果，承子抱孫，游觀其間，有一位之甘，割而分之，以娛目前。且欲人教養子孫以
+                                       敦退讓。盡去輕蕩又雖與親和時共歡謙語田裏所行以資撫掌，年五十七卒，贈紫金光祿大夫，有子七，知名者五
+                                       人焉。
+                                       論者曰：“羲之在晉，以骨鯁稱，而直傳不屑之於進用謙論，人事中共病常十之八九與當道書，無避諱。叢票賑
+                                       饑上疏爭事，悉不阿順凡所處分勸合時，宜當為晉室第一流人物，奈何名為能書者所掩耶？書，心畫也，百世之
+                                       下觀既石刻，遒勁正健，即生人欤，所惜溺意，東土適性山水不顯，居内倨傲王述功各及業止是而已，亦無晉室
+                                       之氣，數有在也，晉之政無足言表，【濟？】世曰寳晉政以羲之書跡耳。黃庭蘭亭霜密墓田裏鮓等貼，墨跡已不
+                                       可及，若唐之褚權宋之米蔡照本之二不可潯也，更有百代後而寶晉之名猶一【日？】也，其重于人之國也，為專
+                                       授因前元趙承旨孟頫摹像竊附此論。
+                                       獻之小傳
+                                       獻之字子敬，羲之第五子，少有盛名而高邁不羈，雖閑居，終日容止不殆。年數嵗，觀門生樗蒲因其愛窺之誚怒，
+                                       曰：“遠塹荀奉倩，近愧劉真長”。遂拂衣去。與兄【徽】之操之俱詣謝安。二兄多言，獻之寒溫而已。既出，客
+                                       問其兄弟優劣，安曰：“小者佳，吉人之辭寡”。常與【徽】之共一室，忽然火發，【徽】之遽步，不遑取履，獻
+                                       之神色怡然，徐呼左右扶出。夜臥齋中，有偷人入取物，盜盡徐曰：“偷兒，青氈，我家舊物也，可置”。群盜驚
+                                       走。工草隸，善丹青，七八嵗時學書，羲之從後掣其筆，不得，嘆曰：“次兒後當有大名“。桓溫嘗使書扇，筆誤
+                                       落，因畫作駁犢牛，甚妙。
+                                       起泉州主簿，秘書郎，轉丞，以選尚新安公主。嘗經吳郡，聞顧辟彊有名園。先不相識，乘肩輿徑入。時辟彊方集
+                                       賓友，獻之遊歷既畢，傍若無人。辟彊勃然數之，獻之傲如也。謝安甚欽愛之，請為長史。安進號衛將軍，復為長
+                                       史。太元中，新起太極殿，安欲使獻之題榜，而難言，乃以魏時凌雲臺榜及試之。獻之正色曰：“仲將，魏之大臣，
+                                       甯有此事！使其若此，有以知魏德之不長“。安遂不之追。安又問曰：“君書何如君家尊？”答曰：“故當不同”。尋
+                                       除建威將軍、吳興太守，徵拜中書令。
+                                       及安薨，贈禮有同異之議，獻之疏曰：“故太傅臣安少振玄譽泮溢。弱冠遐棲，則契齊商皓，應運釋褐，而王猷允塞。
+                                       及至載宣威靈，強猾消殄。功勳既融，投韍高讓。且服事先帝，眷隆布衣。陛下踐阼，陽秋尚富。伏惟陛下劉心宗臣，
+                                       澄神省察“。孝武遂加安殊禮。
+                                       未幾，而獻之遇疾，卒于官。追贈侍中、特進、光祿大夫、太宰，諡曰憲。無子，以兄子靜之嗣，位至義興太守。時
+                                       議者以為羲之草隸，江左中朝莫有及者，獻之有力遠不迨父，而頗有媚趣。桓玄雅愛其父子書，會為一帙，置左右以玩。
+                                       論者曰：羲之為晉室第一流人物，為君子也，雅矣。獻之少有甚名，何愧其父。之特出三少謁謝安而見許，何愧其父之
+                                       與周顯也。徐誓偷見以書譚舊物，游顧辟強園而閔訕傲為何，實其父之在東廂袒腹食時也，至於下題太極殿榜、疏陳謝
+                                       安始終則又何愧其父之辨瞻。骨鯁之難學擊自劣於父。當時恆玄獨愛其父子書會一佚置諸左右，觀其父掣筆時也，自遂
+                                       知其有大名，嗚呼，知子莫若為父，信哉！元方季方雜為兄弟，愚於羲獻，不曰雜為父，雜為子。
+                                       右松雪翁摹周文矩羲獻像，衣紋染色越二伯，餘年為出，今日不意唐人畫三復及見也，羲獻書名冠晉時，松雪自幼臨摹，
+                                       壯而書，老且及黃庭三昧，則其當古人非一朝夕宜其見之，必摹之妙未，後文矩所畫者，何為綬私【淑】於翁，恨人品
+                                       庸下，不能妙人，不能等而上之，謹攝晉傳之要。為二小傳，附諸像末，遺之後人，故夾識松雪翁數語，見其勤法晉唐，
+                                       豈遂世好也哉.
+                                       
+                                   </incipit>
+                                   <incipit type="款識">成化十六年壬寅秋日皖南吳肇榮書</incipit>
+                                   <incipit type="seal">吳肇榮印</incipit>
+                                   <incipit type="seal">中憲大夫之章</incipit>
+                                   <incipit type="seal">梁清標</incipit></msItem>
+
+                            <filiation>書畫卷軸，中外孤本。</filiation>  
+                        </msItem>
+                        <!-- insert further msItem elements as appropriate --> 
+                        
+                    </msContents>
+                    <physDesc>
+                        
+                        <objectDesc form="卷軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
+                            <supportDesc material="絹本"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
+                                <support>silk 絹本</support>
+                                <extent>1 scroll 一軸
+                                    <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
+                        
+                        https://git.io/msdescdoc#leafDimensions
+                        -->                           <height>？</height>
+                                        <width>？</width>
+                                    </dimensions>
+                                    <!-- use additional dimensions elements if necessary -->
+                                </extent>
+                                
+                                <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>书法卷轴，墨色书写。</layout>
+                                
+                            </layoutDesc>
+                            
+                        </objectDesc>
+                        
+                        <handDesc><!-- use the @hands attribute to record the number of scribes -->
+                            <handNote>
+                                Text written in 行書 (xing shu, semi-cursive) calligraphic style</handNote>
+                            <!-- use additional handNote elements if necessary 
+                     https://git.io/msdescdoc#handdesc
+                     -->
+                        </handDesc>
+                        
+                        <decoDesc>
+                            <decoNote>
+                            </decoNote>
+                            <!-- use additional decoNote elements if necessary 
+                     https://git.io/msdescdoc#decodesc
+                     -->
+                        </decoDesc>
+                        
+                        <bindingDesc>
+                            <binding when="1800"><!-- use dating attributes to record the date -->
+                                <p>卷軸</p>
+                                <decoNote>
+                                    Handscroll with wide borders (大鑲手卷): The protective and decorative backing (錦包首)
+                                    is crafted from brown silk adorned with blue and green patterns. The title label (題簽) 
+                                    is composed of light-brown Chinese paper. The 'Heaven' section (天) is fashioned from 
+                                    pale-blue silk. Vertical stripes (隔水) feature silk of white and pale-yellow colours. 
+                                    Borders are made of white silk. The frontispiece (引首) and colophon section (拖尾) are 
+                                    crafted from traditional Chinese paper in beige colour. 
+                                    卷軸,大鑲手卷。錦包首為棕色帶藍色綠色花紋絲織物，題簽為淺棕色紙本。天為淺藍色絲織物，隔水與副隔水為白色
+                                    和淺黃色絲織物，邊為白色絲織物，引首和拖尾為米白色紙本。
+                                </decoNote>
+                            </binding>
+                        </bindingDesc>
+                        <accMat>
+                            <!-- insert if relevant, otherwise delete 
+                     https://git.io/msdescdoc#accMat          
+                     -->
+                        </accMat>
+                    </physDesc>
+                    <history>
+                        <!-- see https://git.io/msdescdoc#history -->
+                        <origin>
+                            <!-- see https://git.io/msdescdoc#origin -->
+                            <origPlace>
+                                <country>China</country>,
+                                <region><!-- insert --></region>,
+                                <settlement><!-- insert --></settlement>,
+                                <orgName><!-- insert --></orgName>
+                            </origPlace>
+                            <origDate notAfter="1900" notBefore="1800" calendar="Gregorian">年代待考證，約爲1600以後作品。</origDate>
+                            <!-- use additional origPlace and origDate elements if necessary -->
+                        </origin>
+                        <provenance> </provenance>
+                        
+                        
+                        <!-- use additional provenance elements if necessary -->
+                        <acquisition>
+                            <!-- insert -->
+                            <!-- use dating attributes where possible -->
+                        </acquisition>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source>
+                                    <!-- insert prose here; see https://git.io/msdescdoc#recordHist -->
+                                    <bibl><!-- insert if necesary, otherwise delete --></bibl>
+                                    <!-- links to digitized catalogues may also be provide here, e.g.: -->
+                                    <!--<listBibl>
+                              <bibl type="SC" facs="aas0046.gif">Summary Catalogue, Vol. 3, p.  31</bibl>
+                           </listBibl>-->
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                        <listBibl>
+                            <!-- a number of listBibl elements can be nested inside an outer listBibl if required -->
+                            <head><!-- use to provide a heading if required, otherwise delete --></head>
+                            <bibl><!-- insert bibliography, links to online resource, etc., otherwise delete--></bibl>
+                            
+                        </listBibl>
+                    </additional>
+                    
+                    
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change>
+                <!-- insert relevant text, e.g. 'First online publication' -->
+                <!-- provide the date of the change using the @when attribute -->
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><!--Body paragraph provided for validation and future transcription--></p>
+        </body>
+    </text>
+</TEI>
