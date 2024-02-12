@@ -59,7 +59,8 @@
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            <title type="desc">清劉墉行書七言聯 軸</title>
+                            <title key="supplied title">清劉墉行書七言聯 軸</title>
+                            <title key="supplie title" xml:lang="en">A pair of calligraphy scrolls attributed to Liu Yong</title>
                             <author key="Q6653873">   
                                 <persName>劉墉</persName>
                                 <persName type="字">崇如</persName>
@@ -72,13 +73,15 @@
                                 <persName type="號">日觀峰道人</persName>
                                 <date notAfter="1900" notBefore="1700" calendar="Gregorian">1719-1805</date>
                             </author> 
+                            <msItem>
                             <title type="上聯">上聯</title>
-                            <incipit>入我澹懷秋月白</incipit>
+                            <incipit>入我澹懷秋月白</incipit></msItem>
                             
+                            <msItem>
                             <title type="下聯">下聯</title>
                             <incipit>迎人爽氣遠山青</incipit>    
                             <incipit type="seal">劉墉之印</incipit>
-                            <incipit type="seal">石菴</incipit>
+                            <incipit type="seal">石菴</incipit></msItem>
                             <filiation>書法卷軸，中外孤本。</filiation>  
                         </msItem>
                         <!-- insert further msItem elements as appropriate --> 

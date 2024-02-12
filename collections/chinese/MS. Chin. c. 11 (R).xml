@@ -59,8 +59,9 @@
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            <title key="supplied title">Water-colour of a Chinese marriage procession</title>
-                            <title type="desc">送親圖卷軸</title>
+                            <title key="supplied title" xml:lang="en">Water-colour of a Chinese marriage procession</title>
+                            <title key="supplied title">清佚名繪送親圖 卷</title>
+                            <author key="_unknown">unknown</author>
                         <filiation>手繪卷軸，中外孤本。</filiation>
                             
                         </msItem>
@@ -69,9 +70,9 @@
                     <physDesc>
                         
                         <objectDesc form="卷軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
-                            <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                                <support>mulberry and bamboo mixed paper</support>
-                                <extent>1 scroll
+                            <supportDesc material="紙本"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
+                                <support>mulberry and bamboo mixed paper 紙本</support>
+                                <extent>1 scroll 一軸
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
                         https://git.io/msdescdoc#leafDimensions
@@ -104,7 +105,7 @@
                      -->
                         </musicNotation>
                         <decoDesc>
-                            <decoNote>卷軸，隔水為白色，單色裱。錦包首為黃色絲織物，伴有藍、紅、綠、白四色雲紋。
+                            <decoNote>
                                 </decoNote>
                             <!-- use additional decoNote elements if necessary 
                      https://git.io/msdescdoc#decodesc
@@ -114,7 +115,8 @@
                         <bindingDesc>
                             <binding when="1600"><!-- use dating attributes to record the date -->
                                 <p>卷軸</p>
-                                <decoNote><!-- insert relevant information, otherwise delete --></decoNote>
+                                <decoNote>Scroll, single-color mounting, the painting is mounted on white paper. The brocade wrapper (錦包首) is crafted from yellow silk fabric, adorned with cloud patterns in blue, red, green, and white.
+                                    卷軸，一色裱，畫心裝裱在白色紙上。錦包首為黃色絲織物，伴有藍、紅、綠、白四色雲紋。</decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>

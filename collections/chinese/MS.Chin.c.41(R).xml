@@ -57,15 +57,19 @@
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            <title key="supplie title" xml:lang="en"> FENG SHAN:[Two scrolls].</title>
+                            <title key="supplie title" xml:lang="en"> A pair of hanging scrolls written in Lishu style attributed to Feng Shan</title>
                             <title key="supplie title">清鳳山隸書七言聯 軸</title>
-                            <author key="Chinese">鳳山</author> 
-                            <note>鳳山 （1860-1911），字禹門，號茗昌，劉氏，漢軍旗鑲白旗人，清朝軍事將領。</note>
-                            
+                            <author key="_fengshan">        
+                                <persName>鳳山</persName>
+                                <persName type="字">禹門</persName>
+                                <persName type="號">茗昌</persName>
+                                <date notAfter="2000" notBefore="1800" calendar="Gregorian">1860-1911</date>
+                            </author>
+
                             <msItem>
                             <title>上聯</title>
                             <incipit>得志當爲天下雨</incipit>
-                            <incipit>念兹賢弟大人雅屬</incipit>
+                                <incipit type="款識">念兹賢弟大人雅屬</incipit>
                             <explicit type="題簽">鳳禹門 對</explicit></msItem>
                             
                             <msItem><title>下聯</title>
@@ -73,7 +77,8 @@
                                 <incipit type="seal">禹門</incipit>
                                 <incipit type="款識">禹門鳳山</incipit>
                                 <explicit type="題簽"><locus>下聯天杆処背面</locus>鳳禹門 對</explicit></msItem>
-                            <note>該對聯原作者據傳為<persName>吳佩孚</persName>。</note>
+                            <note type="注">鳳山 （1860-1911），字禹門，號茗昌，劉氏，漢軍旗鑲白旗人，清朝軍事將領。</note>
+                            <note type="注">該對聯原作者據傳為吳佩孚</note>
 
                             <filiation>書法卷軸，中外孤本。</filiation>  
                         </msItem>
@@ -83,8 +88,8 @@
                     <physDesc>
                         
                         <objectDesc form="立軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
-                            <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                                <support>mulberry and bamboo mixed paper</support>
+                            <supportDesc material="紙本"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
+                                <support>mulberry and bamboo mixed paper 紙本</support>
                                 <extent>2 scrolls 二軸
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
@@ -123,7 +128,9 @@
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
                                 <p>立軸</p>
-                                <decoNote>立軸，單色裱，邊框為藍色絲織物。</decoNote>
+                                <decoNote>
+                                    A set of two hanging scrolls adorned in the one-color mount style with blue silk for the 'Heaven' section (天頭), the 'Earth' section (地脚), and the borders. 
+                                    立軸，單色裱，邊框為藍色絲織物。</decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>
@@ -145,7 +152,10 @@
                             <origDate notAfter="2000" notBefore="1800" calendar="Gregorian">晚清</origDate>
                             <!-- use additional origPlace and origDate elements if necessary -->
                         </origin>
-                        <provenance> </provenance>
+                        <provenance>The record of this scroll in the Bodleian Oriental Manuscript Catalogue is as follows: 
+                                    language:	Chinese
+                                    shelfmark:	MS.Chin.c.41(R)
+                                    content:	FENG SHAN: [Two scrolls]</provenance>
                         
                         
                         <!-- use additional provenance elements if necessary -->

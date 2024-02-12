@@ -51,15 +51,26 @@
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>A hanging scroll of Chinese calligraphy written in Kaishu style, claimed to be created by Liu Yong (劉墉，1719-1805). One piece of a couplet, pairing with MS. Chin. c. 39 (2). </summary>
+                        <summary>A pair of scrolls of calligraphy in the Xing Shu style attributed to Liu Yong (1719-1805). </summary>
                         <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
                         
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            <title key="supplied title">LIU YUNG:[Calligraphy: two scrolls].</title>
-                            <title type="對聯">清劉墉楷書七言聯 軸</title>
-                            <author key="Chinese">可能爲<persName>劉墉（1719-1805）</persName>手跡</author>
+                            <title key="supplied title">清劉墉行書七言聯 軸</title>
+                            <title key="supplie title" xml:lang="en">A pair of calligraphy scrolls attributed to Liu Yong</title>
+                            <author >   
+                                <persName key="Q6653873">劉墉</persName>
+                                <persName type="字">崇如</persName>
+                                <persName type="號">石庵</persName>
+                                <persName type="號">青原</persName>
+                                <persName type="號">香岩</persName>
+                                <persName type="號">東武</persName>
+                                <persName type="號">穆庵</persName>
+                                <persName type="號">溟華</persName>
+                                <persName type="號">日觀峰道人</persName>
+                                <date notAfter="1900" notBefore="1700" calendar="Gregorian">1719-1805</date>
+                            </author> 
                             
                             <msItem>
                             <title type="上聯">上聯</title>
@@ -120,7 +131,8 @@
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
                                 <p>立軸</p>
-                                <decoNote>立軸，一色裱，邊框為白色絲織物有花紋。</decoNote>
+                                <decoNote>一色裱，書法裝裱在白色有花紋絲織物上。
+                                    A pair of scrolls in single-color mounting. The calligraphy is mounted on white jacquard silk.</decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>
@@ -142,7 +154,10 @@
                             <origDate notAfter="1900" notBefore="1800" calendar="Gregorian">清中期</origDate>
                             <!-- use additional origPlace and origDate elements if necessary -->
                         </origin>
-                        <provenance> </provenance>
+                        <provenance>The record of this scroll in the Bodleian Oriental Manuscript Catalogue is as follows: 
+                                    language:	Chinese
+                                    shelfmark:	MS.Chin.c.39(R)
+                                    content:	LIU YUNG: [Calligraphy; two scrolls]</provenance>
                         
                         
                         <!-- use additional provenance elements if necessary -->

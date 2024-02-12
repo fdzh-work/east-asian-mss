@@ -51,17 +51,17 @@
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>A hanging scroll of Chinese calligraphy written in Kaishu style. One piece of a couplet, pairing with MS. Chin. c. 38 (4). 竪軸一幅，書寫内容為對聯的下聯。該竪軸與MS. Chin. c. 38 (4)成爲一對。</summary>
+                        <summary>A hanging scroll of Chinese calligraphy written in Kaishu style.</summary>
                         <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
                         
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            <title key="supplied title">Calligraphic scroll: birthday greetings to the "guardian of the Heir Apparent" (order conferred postumously on Sir Robert Hart).</title>
-                            <title key="supplied title">立軸</title>
+                            <title key="supplied title" xml:lang="en">A hanging scroll of calligraphy featuring birthday greetings.</title>
+                            <title  key="supplied title">清佚名書祝壽詞 軸</title>
                             <author key="Chinese">unknown</author>
-                            <incipit>杖進蒼鳩壽延遐算</incipit>
-                            <explicit>宮保千秋榮慶</explicit>
+                            <incipit type="釋文">杖進蒼鳩壽延遐算</incipit>
+                                <incipit type="釋文">宮保千秋榮慶</incipit>
                             <filiation>書法卷軸，中外孤本。</filiation>  
                         </msItem>
                         <!-- insert further msItem elements as appropriate --> 
@@ -70,9 +70,9 @@
                     <physDesc>
                         
                         <objectDesc form="卷軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
-                            <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                                <support>mulberry and bamboo mixed paper</support>
-                                <extent>1 scroll
+                            <supportDesc material="絹本"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
+                                <support>silk 絹本</support>
+                                <extent>1 scroll  一軸
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
                         https://git.io/msdescdoc#leafDimensions
@@ -85,7 +85,7 @@
                                 <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>书法卷轴.墨色书写</layout>
+                                <layout>书法卷轴，墨色书写</layout>
                                 
                             </layoutDesc>
                             
@@ -110,7 +110,8 @@
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
                                 <p>立軸</p>
-                                <decoNote>大字楷書寫於金色紙上，立軸，單色裱，邊框為彩色絲織物。</decoNote>
+                                <decoNote>Scroll, single-color mount. The calligraphy is written on silk, mounted on light brown silk decorated with red, blue, yellow, and green floral patterns.
+                                    一色裱，畫心為絹本，裝裱在淺棕色帶紅、藍、黃、綠花紋的絲綢上。</decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>
@@ -132,7 +133,12 @@
                             <origDate notAfter="1900" notBefore="1800" calendar="Gregorian">晚清</origDate>
                             <!-- use additional origPlace and origDate elements if necessary -->
                         </origin>
-                        <provenance>Order conferred posthumously on Sir Robert Hart, From the papers of Sir Robert Hart, purchased 9-ii-72 Mr George Greer.</provenance>
+                        <provenance>The record of this scroll in the Bodleian Oriental Manuscript Catalogue is as follows:
+                                    language:	Chinese
+                                    shelfmark:	MS.Chin.b.14(R)
+                                    content:	Calligraphic scroll: birthday greetings to the "Guardian of the Heir Apparent" (order conferred posthumously on Sir Robert Hart)
+                                    notes:	From the papers of Sir Robert Hart, purchased 9-ii-72 from Mr George Greer
+                        </provenance>
                         
                         
                         <!-- use additional provenance elements if necessary -->

@@ -58,14 +58,18 @@
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            <title key="supplied title">PRINCE SU: [calligraphy]</title>
-                            <title>大唐三藏聖教序</title>
-                            <author key="Chinese">肅親王</author>
-                            <note>善耆（1866-1922），字艾堂，愛新覺羅氏，滿洲鑲白旗人，第十代肅親王，晚清皇族重臣，慶親王内閣成員，政學會會員。</note>
-                            <incipit>周游西宇十有七年窮歷道邦詢求正教雙林八水味道餐風鹿苑鷲峯瞻奇仰異求至言於先聖受真教於上賢探赜妙門精窮奧業</incipit>
-                            <incipit>即臨大唐三藏聖教序</incipit>
+                            <title type="desc">清肅親王行書大唐三藏聖教序 軸</title>
+                            <title key="supplie title" xml:lang="en">A scroll of calligraphy attributed to Shan Qi</title>
+                            <author>   
+                                <persName key="Q7821688">愛新覺羅善耆</persName>
+                                <persName type="字">艾堂</persName>
+                                <persName type="title">肅親王</persName>
+                                <date notAfter="1800" notBefore="1700" calendar="Gregorian">1866-1922</date>
+                            </author> 
+                            <incipit type="釋文">周游西宇，十有七年。窮歷道邦，詢求正教。雙林八水，味道餐風。鹿苑鷲峯，瞻奇仰異，求至言於先聖，受真教於上賢。探赜妙門，精窮奧業。 即臨大唐三藏聖教序。</incipit>
                             <incipit type="款識">念兹先生大雅書 肅親王</incipit>
                             <incipit type="seal">肅親王</incipit>
+                            <note type="注">善耆（1866-1922），字艾堂，愛新覺羅氏，滿洲鑲白旗人，第十代肅親王，晚清皇族重臣，慶親王内閣成員，政學會會員。</note>
                             <explicit type="錦包首">Ms. (R.) Chin.a.14</explicit>
                             <filiation>書法卷軸，中外孤本。</filiation>  
                         </msItem>
@@ -77,7 +81,7 @@
                         <objectDesc form="立軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
                             <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
                                 <support>mulberry and bamboo mixed paper</support>
-                                <extent>1 scroll
+                                <extent>1 scroll  一軸
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
                         https://git.io/msdescdoc#leafDimensions
@@ -90,7 +94,8 @@
                                 <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>立轴,墨色书写。肅親王落款下印有朱紅色“肅親王”私印。部分可見破損。 fragile，some damage.</layout>
+                                <layout>Vertical Chinese calligraphy scrolls, ink on paper.
+                                    書法卷軸，紙本。</layout>
                                 
                             </layoutDesc>
                             
@@ -98,7 +103,7 @@
                         
                         <handDesc><!-- use the @hands attribute to record the number of scribes -->
                             <handNote>
-                                Text written in 楷體 (kai shu, regular) calligraphic style.</handNote>
+                                Text written in 行書 (xing shu, semi-cursive) calligraphic style.</handNote>
                             <!-- use additional handNote elements if necessary 
                      https://git.io/msdescdoc#handdesc
                      -->
@@ -114,8 +119,10 @@
                         
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
-                                <p>卷軸</p>
-                                <decoNote>竪軸，白色宣紙，墨色書寫，邊框為藍色絲織物裝裱。</decoNote>
+                                <p>立軸</p>
+                                <decoNote>A scroll adorned in the one-colour mount style with pale-blue silk as the ‘Heaven’ section (天頭), the ‘Earth’ section (地脚) and borders. The calligraphy is written on paper in white colour. The scroll display signs of damage and stain.
+                                    書法立軸，一色裱，天頭地脚和邊為藍色絲織物，畫心為白色紙本。卷軸微有破損和污跡。
+                                </decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>
@@ -130,7 +137,7 @@
                             <!-- see https://git.io/msdescdoc#origin -->
                             <origPlace>
                                 <country>China</country>,
-                                <region><!-- insert --></region>,
+                                <region>Beijing</region>,
                                 <settlement><!-- insert --></settlement>,
                                 <orgName><!-- insert --></orgName>
                             </origPlace>

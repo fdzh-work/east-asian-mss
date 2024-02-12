@@ -51,24 +51,25 @@
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>A hand scroll featuring a portrait of the Xianfeng Emperor (1831-1861) of the Qing dynasty, 
+                        <summary>A hanging scroll featuring a portrait of the Xianfeng Emperor (1831-1861) of the Qing dynasty, 
                                  along with his own calligraphy</summary>
                         <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
                         
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            <title key="desc">咸豐皇帝持弓坐像軸</title>
+                            <title key="supplied title">清佚名繪咸豐皇帝持弓坐像圖 軸</title>
+                            <title key="supplied title" xml:lang="en">A hanging scroll featuring portrait of Xianfeng Emperor</title>
                             <author key="Chinese">unknown</author>
-                            <incipit>弓矢承家法勤脩考訓遺黃考習射詩有家法勤脩志莫移之句和平百體順審固一心知時習所無逸成圖念在兹文皇喻國政端本契思深</incipit>
-                            <incipit>咸豐癸丑嘉平下澣御題</incipit>
+                            <incipit type="釋文">弓矢承家法，勤脩考訓遺。黃考《習射詩》有“家法勤脩志莫移”之句。和平百體順，審固一心知，時習所無逸，成圖念在兹，文皇喻國政，端本契思深。</incipit>
+                            <incipit type="款識">咸豐癸丑嘉平下澣御題</incipit>
                             <incipit type="seal">三希堂</incipit>
                             <incipit type="seal">昭陽</incipit>
                             <incipit type="seal">洪鐘大呂</incipit>
                             <incipit type="seal">拙誠呈敬</incipit>
                             <incipit type="seal">咸豐寳翰</incipit>
                             <incipit type="seal">養心殿鑒藏寳</incipit>
-                            <explicit type="題簽">和 Harmonious 平 balance 審 stact 固 sraoz </explicit>
+                            <explicit type="題簽">和 Harmonious 平 balance 審 stact 固 【sraoz？】 </explicit>
                             <explicit type="題簽">picture of a model archer 1853</explicit>
                             <filiation>書法卷軸，中外孤本。</filiation>  
                         </msItem>
@@ -78,9 +79,9 @@
                     <physDesc>
                         
                         <objectDesc form="卷軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
-                            <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                                <support>mulberry and bamboo mixed paper</support>
-                                <extent>1 scroll
+                            <supportDesc material="紙本"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
+                                <support>mulberry and bamboo mixed paper 紙本</support>
+                                <extent>1 scroll 一軸
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
                         https://git.io/msdescdoc#leafDimensions
@@ -93,7 +94,7 @@
                                 <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>書畫卷軸，紙本，設色。裝裱方式為宣和裝。有彎折痕跡，破損后經過修復.</layout>
+                                <layout>書畫卷軸，紙本，設色。</layout>
                                 
                             </layoutDesc>
                             
@@ -119,7 +120,9 @@
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
                                 <p>立軸</p>
-                                <decoNote>立軸，裝裱方式為宣和裝，天頭與地脚為淺藍色絲織物，有褪色痕跡。上、下隔水應為白色，已汎黃。在挂軸天杆位置的背面有貼有標簽上書“和平審故”字樣。</decoNote>
+                                <decoNote>Vertical scroll, mounted in the Xuānhe style. The 'Heaven' (天) and 'Earth' (地) sections are adorned with light blue silk fabric, showing signs of fading and yellowing. The separating strips, borders, and floating ribbons (飄帶) should be made of white silk fabric, but they have turned yellow. The title label is made of light brown paper.
+                                    立軸，裝裱方式為宣和裝，天頭與地脚為淺藍色絲織物，有褪色汎黃痕跡。上、下隔水、邊及飄帶應為白色絲織物，已汎黃。題簽為淺棕色紙本。
+                                </decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>
@@ -141,7 +144,7 @@
                             <origDate notAfter="1700" notBefore="1600" calendar="Gregorian">1853</origDate>
                             <!-- use additional origPlace and origDate elements if necessary -->
                         </origin>
-                        <provenance> Portrait of the Emperor Hsien Feng as an archer, with an autograph poem by the Emperor.
+                        <provenance> Acquired in 1864.
                         </provenance>
                         
                         

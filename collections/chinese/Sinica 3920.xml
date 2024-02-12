@@ -53,28 +53,30 @@
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>A handscroll of Chinese painting of flowers, accompanied by calligraphy written in Xingshu style. 
-                            The roller on the left side is crafted as a box, containing three inksticks, a printed sheet of paper with handwritten text in red 
-                            and some cotton stored inside. The inksticks are carved, incised and coloured, while the cotton 
-                            serves a protecting purpose.  </summary>
+                        <summary>
+                            A handscroll painting with its roller on the left side is crafted as a box containing three ink sticks. The producer is Hu Kai Wen Tang (胡開文堂).A handscroll of Chinese painting of flowers, accompanied by calligraphy written in Xingshu style. </summary>
                         <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
                         
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                            
-                            <title key="desc">胡開文徽墨卷軸套裝</title>
-                            <author key="Chinese">胡開文堂</author>
+                            <title key="supplied title">胡開文堂徽墨卷軸套裝</title>
+                            <title key="supplie title" xml:lang="en">A handscroll painting with its roller on the left side is crafted as a box containing three ink sticks</title>
+                            <author key="_hukaiwentang">        
+                                <persName>胡開文堂</persName>
+                            </author>
+                            
                              <title type="subtitle">卷軸</title>
-                            <incipit>艷裏胭脂点綴新</incipit>
-                            <incipit>犀紋遠映碧雲間揮寫晴江步叠山縹緲寒煙浮繭澤松弥原不讓天關</incipit>
+                            <incipit type="釋文">艷裏胭脂点綴新</incipit>
+                            <incipit type="釋文">犀紋遠映碧雲間揮寫晴江步叠山縹緲寒煙浮繭澤松弥原不讓天關</incipit>
                             <title type="subtitle">The printed sheet of paper</title>
-                            <incipit>開文叁墨贊 質堅强而正氣清而秀獲交陳元貝賞史籀或呼以黑松使者或名以元香太守可為翰苑之菁華可助文章之錦淐惟我寳之不事雕鏤惟尔藏之永相授受 甲子小春湘陰左宗棠識 搖武林即署</incipit>
-                            <incipit>持啓者本號 先祖而在屯溪開設胡開文墨店後又替開休城往啓茂墨店胡開文監製共此兩店休城開文分授二房屯溪開文分授七房歷今百數十年貨真價實天下聞名近有派下不肖者冒名克假玷辱家聲故特加此訪帖四方 大雅須認明本號圖記 庶不致誤 徽州屯溪老胡開文七房孫佩五氏謹白</incipit>
+                            <incipit type="釋文">開文叁墨贊 質堅强而正氣清而秀獲交陳元貝賞史籀或呼以黑松使者或名以元香太守可為翰苑之菁華可助文章之錦淐惟我寳之不事雕鏤惟尔藏之永相授受 甲子小春湘陰左宗棠識 搖武林即署</incipit>
+                            <incipit type="釋文">持啓者本號 先祖而在屯溪開設胡開文墨店後又替開休城往啓茂墨店胡開文監製共此兩店休城開文分授二房屯溪開文分授七房歷今百數十年貨真價實天下聞名近有派下不肖者冒名克假玷辱家聲故特加此訪帖四方 大雅須認明本號圖記 庶不致誤 徽州屯溪老胡開文七房孫佩五氏謹白</incipit>
                             <title type="subtitle">ink stick</title>
-                            <incipit>美在其中</incipit>
-                            <incipit>正面：置身在嫏嬛 反面：知白守黑知雄守雌 胡開文監製 </incipit>
-                            <incipit>定冊惟模有 安社稷之勲</incipit>
-                            <explicit>藝林珎賞</explicit>
+                            <incipit type="釋文">美在其中</incipit>
+                            <incipit type="釋文">正面：置身在嫏嬛 反面：知白守黑知雄守雌 胡開文監製 </incipit>
+                            <incipit type="釋文">定冊惟模有 安社稷之勲</incipit>
+                            <explicit type="釋文">藝林珎賞</explicit>
                             <explicit type="seal">胡開文製</explicit>
                             <explicit type="seal">桑煙枯製</explicit>
                         </msItem>
@@ -86,7 +88,7 @@
                         <objectDesc form="卷軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
                             <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
                                 <support>mulberry and bamboo mixed paper</support>
-                                <extent>1 set
+                                <extent>1 set 一套
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
                         https://git.io/msdescdoc#leafDimensions
@@ -99,8 +101,8 @@
                                 <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>卷軸為花卉題材，伴有書法，裝裱為一色裱，邊框為藍色，錦包首為紅色配墨綠色絲織物。左側天杆被製作為一個圓柱體儲物盒高20.7cm，直徑6.9cm。盒内置墨錠兩塊、墨條一個，紙片一張上有印刷和手寫字樣。
-                                    “置身在嫏嬛”墨錠長9.2cm，寬3.6cm，高0.85cm；“定冊惟模有”墨錠長10.1cm，寬3.7cm，高8.85cm。“美在其中”墨錠高20.7cm，直徑1cm。</layout>
+                                <layout>Chinese Painting on horizontal scroll.
+                                        書畫卷軸，紙本設色。</layout>
                                 
                             </layoutDesc>
                             
@@ -125,7 +127,8 @@
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
                                 <p>卷軸</p>
-                                <decoNote>橫軸，白色宣紙，彩色花卉書畫，墨色行書書法，邊框為藍色絲織物裝裱。</decoNote>
+                                <decoNote> A scroll adorned in the one-colour mount style with pale-blue paper as the ‘Heaven’ section (天頭), the ‘Earth’ section (地脚) and borders. The roller of scroll on the left side is crafted as a box, containing three inksticks, a printed sheet of paper with handwritten text in red and some cotton stored inside. The inksticks are carved, incised and coloured, while the cotton serves a protecting purpose.
+                                    卷軸為花卉題材，伴有書法，裝裱為一色裱，邊框為藍色，錦包首為紅色配墨綠色絲織物。左側天杆被製作為一個圓柱體儲物盒高20.7cm，直徑6.9cm。盒内置墨錠兩塊、墨條一個，紙片一張上有印刷和手寫字樣。“置身在嫏嬛”墨錠長9.2cm，寬3.6cm，高0.85cm；“定冊惟模有”墨錠長10.1cm，寬3.7cm，高8.85cm。“美在其中”墨錠高20.7cm，直徑1cm。</decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>

@@ -9,7 +9,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Backhouse Rolls.a.16</title>
+                <title>Sinica 2676</title>
                 
                 <respStmt>
                     <resp>Cataloguer</resp>
@@ -44,50 +44,44 @@
                     <msIdentifier>
                         <settlement><!-- insert --></settlement>
                         <repository>Bodleian Library</repository><!-- change if necessary -->
-                        <idno type="shelfmark">Backhouse Rolls.a.16</idno>
+                        <idno type="shelfmark">Sinica 2676</idno>
                         
                         
                     </msIdentifier>
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>A hanging scroll depecting peony flowers attributed to Yun Shou Ping(惲壽平, 1633-1690) of Qing dynasty.</summary>
+                        <summary>A horizontal scroll painting attributed to Lin Chun of the Song dynasty depicts quails and plants.</summary>
                         <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
                         
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            <title key="supplied title">清惲壽平畫牡丹圖 軸</title>
-                            <title key="supplie title" xml:lang="en">A painting featuring tree peony flowers attributed to Yun Shou Ping</title>
-                            <author key="Q1329823">   
-                                <persName>惲壽平</persName>
-                                <persName type="曾用名">格</persName>
-                                <persName type="字">壽平</persName>
-                                <persName type="字">正叔</persName>
-                                <persName type="號">南田</persName>
-                                <persName type="號">雲溪外史</persName>
-                                <persName type="號">白雲外史</persName>
-                                <date notAfter="1700" notBefore="1600" calendar="Gregorian">1633-1690</date>
-                            </author>  
-                            <author key="Q45472534">   
-                                <persName>王文治</persName>
-                                <persName type="字">禹卿</persName>
-                                <persName type="號">夢樓</persName>
-                                <date notAfter="1900" notBefore="1700" calendar="Gregorian">1730-1902</date>
-                            </author>
-                            <incipit type="釋文">曾依瑤圃三珠樹，長護蓬萊五色云。</incipit>
-                            <incipit type="釋文">甌香馆模宋人法</incipit>
-                            <incipit  type="款識">南田惲壽平</incipit>
-                            <incipit type="seal">壽平之印</incipit>
-                            <incipit type="seal">南田小印</incipit>
-                            <incipit type="seal">叔平</incipit>
-                            <incipit type="釋文">白頭一倍惜年華，到處敲門只看花。榮艷紅芳三百朵，雕闌色暎日鈎斜。</incipit>
-                            <incipit type="釋文">曾賔谷為楊州都轉詠牡丹押娃字韻，一時和者多涉牽强。余有句云：“酴餘扶倩唐宮婢，貴後稀驚越國娃。”觀者咸稱歡，以爲妙得天然。</incipit>
-                            <incipit type="款識">庚戌夏四月既望 文治</incipit>
-                            <incipit type="seal">王氏禹卿</incipit>
-                            <incipit type="seal">夢樓</incipit>
-                            <explicit type="題簽">惲壽平 畫 painting by various artist</explicit>
-                            <filiation>書畫卷軸，中外孤本。</filiation>  
+                            
+                            <title type="desc">宋林椿祝壽圖 卷</title>
+                            <title key="supplie title" xml:lang="en">A scroll of painting  scroll attributed to Liu Yong</title>
+                            <author >   
+                                <persName key="Q45381344">林椿</persName>
+                            </author> 
+                            <incipit type="款識">畫院待詔臣林椿造</incipit>
+                            <incipit type="釋文">林椿錢塘人士畫花鳥翎毛竹石尤精于鵪鶉。學梅【以？】思【謹】崇嗣復以趙昌筆意換益其閒遂來大家體具設色種淡然度目【好？】淳熙召畫院待詔賜金帶，名重一時與李迪齋名凡得其今縑寸幅貴若拱璧此卷特其游戲之筆鳥足盡其技也。</incipit>
+                            <incipit type="款識">仲山喬簣成 </incipit>
+                            <incipit type="seal">喬氏簣成</incipit>
+                            <incipit type="釋文">古樹葉初凋【模？】叢多翠筱【？】易欲下時亦【？】【？】黃易</incipit>
+                            <incipit type="款識">番易周伯琦</incipit>
+                            <incipit type="款識">至正丙戍夏五月觀于綠天菴 阮文森</incipit>
+                            <incipit type="釋文">余性好鑒賞法書名繪窮研半生猶未能深得其精微蓋由取則 乎近而？于遠耳耳避暑虞山北麓適友人張句曲從？上來持宋？岫山水一卷林椿花竹鵪鶉一卷屬予題識予者且鈍不能應命漫為書此數語。</incipit>
+                            <incipit type="款識">江邨錢良右</incipit>
+                            <incipit type="seal">錢良右印</incipit>
+                            <incipit type="釋文">【至】正十九年【秋】七月既望觀於蘭陔堂</incipit>
+                            <incipit type="款識">古杭胡紹</incipit>
+                            <incipit type="seal">胡紹</incipit>
+                            <incipit type="款識">遂昌鄭元祐鑒定真蹟</incipit>
+                            <incipit type="seal">鄭元祐印</incipit>
+                            <incipit type="seal">鄭氏明德</incipit>
+                            <explicit type="題簽">林椿祝壽圖</explicit>
+                            
+                            <filiation>書法卷軸，中外孤本。</filiation>  
                         </msItem>
                         <!-- insert further msItem elements as appropriate --> 
                         
@@ -97,12 +91,12 @@
                         <objectDesc form="卷軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
                             <supportDesc material="絹本"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
                                 <support>silk 絹本</support>
-                                <extent>1 scroll 一軸
+                                <extent>1 scroll  一卷
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
                         https://git.io/msdescdoc#leafDimensions
-                        -->                           <height>135.7</height>
-                                        <width>49</width>
+                        -->                           <height>？</height>
+                                        <width>？</width>
                                     </dimensions>
                                     <!-- use additional dimensions elements if necessary -->
                                 </extent>
@@ -110,7 +104,8 @@
                                 <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>書畫卷軸，紙本，設色。</layout>
+                                <layout>Calligraphy written on trandtional Chinese paper of yellow colour.
+                                    書畫卷軸，絹本。</layout>
                                 
                             </layoutDesc>
                             
@@ -118,7 +113,7 @@
                         
                         <handDesc><!-- use the @hands attribute to record the number of scribes -->
                             <handNote>
-                                Text written in 行書 (xing shu, regular) calligraphic style.
+                                Text written in 篆書(zhuan shu, seal script), 行書 (xing shu, semi-cursive)and 楷書 (kai shu, regular) calligraphic style.
                             </handNote>
                             <!-- use additional handNote elements if necessary 
                      https://git.io/msdescdoc#handdesc
@@ -135,9 +130,10 @@
                         
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
-                                <p>立軸</p>
-                                <decoNote>小鑲手卷，天為淺藍色絲織物，有磨損痕跡。隔水為米白色有花紋絲織物。引首為黃色紙本，拖尾為白色紙本，略有污跡。邊為淺棕色絲織物。錦包首為棕色絲織物伴有淺棕色花紋，八寶帶為紫色絲織物和別子為玉制，題簽為黃色紙本。
-                                    Vertical scroll, mounted in the Xuānhe style. The ‘Heaven’ (天) and ‘Earth’ (地) section are adorned with blue jacquard silk fabric, while the separating strips (隔水) and floating ribbons (飄帶) are made of white silk. The upper half of the painting is composed of sprinkled gold Xuān paper, while the lower half uses silk. The title label is made of yellow Chinese paper.
+                                <p>卷軸</p>
+                                <decoNote>
+                                    The handscroll with narrow borders (小鑲手卷) features a protective and decorative backing (錦包首) crafted from light brown silk adorned with elegant blue and brown patterns. The title label is meticulously made of yellow Chinese paper. The 'Heaven' section (天) is elegantly fashioned from pale-blue silk, exhibiting signs of damage. Vertical stripes (隔水) are composed of jacquard beige silk. The frontispiece (引首) is expertly crafted from traditional yellow Chinese paper, while the colophon section (拖尾) is made from traditional Chinese white paper.
+                                    小鑲手卷，天為淺藍色絲織物，有磨損痕跡。隔水為米白色有花紋絲織物。引首為黃色紙本，拖尾為白色紙本，略有污跡。邊為淺棕色絲織物。錦包首為棕色絲織物伴有淺棕色花紋，八寶帶為紫色絲織物和別子為玉制，題簽為黃色紙本。
                                 </decoNote>
                             </binding>
                         </bindingDesc>
@@ -153,21 +149,18 @@
                             <!-- see https://git.io/msdescdoc#origin -->
                             <origPlace>
                                 <country>China</country>,
-                                <region><!-- insert --></region>,
+                                <region></region>,
                                 <settlement><!-- insert --></settlement>,
                                 <orgName><!-- insert --></orgName>
                             </origPlace>
-                            <origDate notAfter="1700" notBefore="1600" calendar="Gregorian">1670</origDate>
+                            <origDate notAfter="1800" notBefore="1600" calendar="Gregorian">林椿，生卒年不詳，1174-1189年間任畫院待詔。此作真僞未辯，傳為林椿所畫，辨其款識約任畫院待詔是所作。</origDate>
                             <!-- use additional origPlace and origDate elements if necessary -->
                         </origin>
-                        <provenance>Donated by Sir Edmund Trelawny Backhouse, Baronet (20 October 1873 – 8 January 1944).</provenance>
+                        <provenance></provenance>
                         
                         
                         <!-- use additional provenance elements if necessary -->
-                        <acquisition>
-                            <!-- insert -->
-                            <!-- use dating attributes where possible -->
-                        </acquisition>
+                        <acquisition>Acquired in 1982.</acquisition>
                     </history>
                     <additional>
                         <adminInfo>
