@@ -51,23 +51,32 @@
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>A horizontal scroll of calligraphy in the Xing Shu style written by Zhang Zhi Dong (張之洞, 1837-1909).</summary>
+                        <summary>A horizontal scroll of calligraphy in the Xing Shu style attributed to Zhang Zhi Dong (張之洞, 1837-1909).</summary>
                         <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
                         
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            
-                            <title type="desc">calligraphy</title>
-                            <author key="Chinese">張之洞</author>
-                            <incipit>雲林堂周围悉樹高梧青蔭極密如在碧羅天上砌石錦麗左右排列奇峰千能萬狀堂下右梅千樹如蚪卧鳳翳每凌冬花發玉雜珠綴標奪名艷</incipit>
-                            <incipit><placeName>香濤</placeName><persName>張之洞</persName></incipit>
+                            <title key="supplied title">清張之洞行書 卷</title>
+                            <title key="supplie title" xml:lang="en">A scroll of calligraphy attributed to Zhang Zhi Dong</title>
+                            <author key="Q197344">   
+                                <persName>張之洞</persName>
+                                <persName type="字">孝達</persName>
+                                <persName type="字">香濤</persName>
+                                <persName type="號">香岩</persName>
+                                <persName type="號">壺公</persName>
+                                <persName type="號">無競居士</persName>
+                                <persName type="號">抱冰</persName>
+                                <date notAfter="2000" notBefore="1800" calendar="Gregorian">1837-1909</date>
+                            </author> 
+                            <incipit type="釋文">雲林堂周围，悉樹高梧，青蔭極密，如在碧羅天上。砌石錦麗，左右排列，奇峰千能萬狀，堂下右梅千樹，如蚪卧鳳翳，每凌冬花發，玉雜珠綴，標奪名艷。</incipit>
+                            <incipit type="款識">香濤張之洞</incipit>
                             <incipit type="seal">張之洞印 </incipit>
                             <incipit type="seal">孝達</incipit>
                             <explicit type="背面">Chang Chih-tung The juan viewing</explicit>
                             <explicit type="背面">張香濤</explicit>
                             
-                            <filiation>書法橫披，中外孤本。</filiation>  
+                            <filiation>書法卷軸，中外孤本。</filiation>  
                         </msItem>
                         <!-- insert further msItem elements as appropriate --> 
                         
@@ -75,9 +84,9 @@
                     <physDesc>
                         
                         <objectDesc form="橫披"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
-                            <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                                <support>mulberry and bamboo mixed paper</support>
-                                <extent>1 scroll
+                            <supportDesc material="紙本"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
+                                <support>mulberry and bamboo mixed paper 紙本</support>
+                                <extent>1 scroll 一軸
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
                         https://git.io/msdescdoc#leafDimensions
@@ -90,7 +99,7 @@
                                 <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>書法橫披，紙本。</layout>
+                                <layout>書法卷軸，紙本。</layout>
                                 
                             </layoutDesc>
                             
@@ -115,8 +124,10 @@
                         
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
-                                <p>橫披</p>
-                                <decoNote>立軸，裝裱方式為一色裱，雙耳及邊為米白色有花紋絲織物。書法寫與黃色紙上。</decoNote>
+                                <p>卷軸</p>
+                                <decoNote>
+                                    A scroll in single-color mounting. The calligraphy is mounted on white jacquard silk.
+                                    卷軸，裝裱方式為一色裱，書法裝裱在米白色有花紋絲織物上。</decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>

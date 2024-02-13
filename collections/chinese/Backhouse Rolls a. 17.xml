@@ -57,10 +57,16 @@
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            
+                            <title key="supplied title">清道光帝御筆壽字 軸</title>
+                            <title key="supplie title" xml:lang="en">A scroll featuring calligraphy attributed to Emperor Dao Guang</title> 
                             <title type="desc">清道光皇帝御筆壽字 軸</title>
-                            <author key="Chinese">道光皇帝</author>
-                            <incipit>壽</incipit>
+                            <author key="Q334351">        
+                                <persName>愛新覺羅旻寧</persName>
+                                <persName type="曾用名">綿寧</persName>
+                                <persName type="title">道光帝</persName>
+                                <date notAfter="1900" notBefore="1700" calendar="Gregorian">1782-1850</date>
+                            </author>
+                            <incipit type="釋文">壽</incipit>
                             <explicit type="題簽">壽</explicit> 
 
                             <filiation>書法卷軸，中外孤本。</filiation>  
@@ -71,9 +77,9 @@
                     <physDesc>
                         
                         <objectDesc form="立軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
-                            <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                                <support>紙本</support>
-                                <extent>1 scroll
+                            <supportDesc material="紙本"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
+                                <support>mulberry and bamboo mixed paper 紙本</support>
+                                <extent>1 scroll 一軸
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
                         https://git.io/msdescdoc#leafDimensions
@@ -112,9 +118,8 @@
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
                                 <p>立軸</p>
-                                <decoNote>立軸，裝裱方式為三色裱，天頭地脚及邊框是淺藍色絲織物,上下副隔水是白色紙,
-                                          上下隔水是米色祥雲龍紋絲織物，書法字跡寫在紅色祥雲騰龍花紋紙上，龍紋均爲五爪。
-                                          整個立軸上有摺痕多條，並有污損多處。</decoNote>
+                                <decoNote>Vertical scroll, two-color mounting. The ‘Heaven’ section, ‘Earth’ section and borders are made of blue silk fabric, while the separating strips are white paper. The calligraphy is written on red paper. The entire scroll has multiple horizontal creases, and there is damage to the top rod.
+                                    立軸，裝裱方式為二色裱，天頭地脚及邊框是淺藍色絲織物,隔水是白色紙,書法字跡寫在紅色紙上。整個立軸上有橫向摺痕多條，並有污損。</decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>

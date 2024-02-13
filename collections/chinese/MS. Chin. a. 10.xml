@@ -51,20 +51,25 @@
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>A horizontal scroll of calligraphy in the Kai Shu style, written by Qianlong Emperor (1711-1799) of Qing dynasty.</summary>
+                        <summary>A scroll of calligraphy in the Kai Shu style attributed to Qianlong Emperor (1711-1799) of Qing dynasty.</summary>
                         <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
                         
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            <title key="supplied title">EMPEROR CH'IEN LUNG:[forged calligraphy].</title>
-                            <title type="desc">calligraphy</title>
-                            <author key="Chinese">乾隆皇帝（1711-1799)</author>
-                            <incipit>敬慎勤字</incipit>
+                            <title key="supplied title" xml:lang="en">A scroll of calligraphy attributed to Qianlong Emperor</title>
+                            <title key="supplied title">清乾隆帝楷書 卷</title>
+                            <author  key="Q19133">   
+                                <persName>愛新覺羅弘歷</persName>
+                                <persName type="title">乾隆皇帝</persName>
+                                <date notAfter="1800" notBefore="1700" calendar="Gregorian">1711-1799</date>
+                            </author> 
+                            <incipit type="釋文">敬慎勤字</incipit>
+                            <incipit type="款識">壬午暮春御筆</incipit>
                             <incipit type="seal">德日新</incipit>
                             <incipit type="seal">乾隆宸翰</incipit>
                             <incipit type="seal">陶冶性靈</incipit>
-                            <incipit><date>壬午暮春</date>御筆</incipit>
+                           <note type="注">据傳為乾隆御筆，真僞存疑待考證。</note>
                             <explicit type="背面">乾隆御筆字一捲</explicit>
                             
                             <filiation>書法卷軸，中外孤本。</filiation>  
@@ -76,8 +81,8 @@
                         
                         <objectDesc form="卷軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
                             <supportDesc material="絹本"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                                <support>絹本</support>
-                                <extent>1 scroll
+                                <support>silk 絹本</support>
+                                <extent>1 scroll 一卷
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
                         https://git.io/msdescdoc#leafDimensions
@@ -90,7 +95,7 @@
                                 <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>書法卷軸，絹本。裝裱方式為一色裱，絹本裝裱在白色絲織物上。</layout>
+                                <layout>書法卷軸，絹本，墨色書寫。</layout>
                                 
                             </layoutDesc>
                             
@@ -98,7 +103,7 @@
                         
                         <handDesc><!-- use the @hands attribute to record the number of scribes -->
                             <handNote>
-                                Text written in 楷書 (kai shu, regular) calligraphic style by Qianlong Emperor.
+                                Text written in 楷書 (kai shu, regular) calligraphic style.
                             </handNote>
                             <!-- use additional handNote elements if necessary 
                      https://git.io/msdescdoc#handdesc
@@ -116,7 +121,9 @@
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
                                 <p>卷軸</p>
-                                <decoNote>卷軸，裝裱方式為一色裱，天頭與地脚為白色有花紋絲織物。</decoNote>
+                                <decoNote>
+                                    A scroll in single-color mounting. The calligraphy is mounted on white jacquard silk.
+                                    卷軸，裝裱方式為一色裱，天頭與地脚為白色有花紋絲織物。</decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>
@@ -138,7 +145,10 @@
                             <origDate notAfter="1800" notBefore="1700" calendar="Gregorian">1762</origDate>
                             <!-- use additional origPlace and origDate elements if necessary -->
                         </origin>
-                        <provenance>
+                        <provenance>The record of this scroll in the Bodleian Oriental Manuscript Catalogue is as follows: 
+                                    language:	Chinese
+                                    shelfmark:	MS.Chin.a.10(R)
+                                    content:	EMPEROR CH'IEN LUNG: [forged calligraphy]
                         </provenance>
                         
                         

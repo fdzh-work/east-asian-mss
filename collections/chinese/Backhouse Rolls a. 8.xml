@@ -57,12 +57,17 @@
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            <title>清乾隆皇帝御筆 軸</title>
-                            <author key="Chinese">乾隆皇帝 (1711-1799)</author>
-                            <incipit>假山代古得称真，乔木金元历来久。
-                                     金元楼阁兹无存，楼则新为树旧有。
-                                     今楼古木环碧同，是亦可谓忘年友。
-                                     金元不少能句人，问他此趣能吟否。</incipit>
+                            <title key="supplied title" xml:lang="en">A scroll of calligraphy attributed to Qianlong Emperor</title>
+                            <title key="supplied title">清乾隆帝行書御詩環碧樓 軸</title>
+                            <author  key="Q19133">   
+                                <persName>愛新覺羅弘歷</persName>
+                                <persName type="title">乾隆皇帝</persName>
+                                <date notAfter="1800" notBefore="1700" calendar="Gregorian">1711-1799</date>
+                            </author> 
+                            <incipit type="釋文">假山代古得稱真，喬木金元歷來久。
+                                     金元樓閣兹無存，樓則新為樹舊有。
+                                     今樓古木環碧同，是亦可謂忘年友。
+                                    金元不少能句人，問他此趣能吟否。</incipit>
                             <incipit type="款識">庚戌新正御題</incipit>
                             <incipit type="seal">八徵耄念之寳</incipit>
                             <incipit type="seal">自疆不息</incipit>
@@ -75,9 +80,9 @@
                     <physDesc>
                         
                         <objectDesc form="立軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
-                            <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                                <support>mulberry and bamboo mixed paper</support>
-                                <extent>1 scroll
+                            <supportDesc material="紙本"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
+                                <support>mulberry and bamboo mixed paper 紙本</support>
+                                <extent>1 scroll 一軸
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
                         https://git.io/msdescdoc#leafDimensions
@@ -115,8 +120,9 @@
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
                                 <p>立軸</p>
-                                <decoNote>立軸,宣和裝。天頭和地脚是淺藍色絲織物，隔水和驚燕是米白色絲織物天，邊為白色絲織物。
-                                           畫心為淺黃色有花紋紙張，上邊拼接橙色有花紋紙張。</decoNote>
+                                <decoNote>
+                                    Vertical scroll, mounted in the Xuānhe style. The 'Heaven' (天) and 'Earth' (地) sections are adorned with light blue silk fabric, showing signs of fading and yellowing. The separating strips, borders, and floating ribbons (飄帶) should be made of white silk fabric, but they have turned yellow. 
+                                    立軸,宣和裝。天頭和地脚是淺藍色絲織物，隔水和驚燕是米白色絲織物天，邊為白色絲織物。</decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>

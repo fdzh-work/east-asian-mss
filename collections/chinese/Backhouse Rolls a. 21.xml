@@ -57,13 +57,18 @@
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            
+                            <title key="supplied title">清咸豐皇帝御筆 軸</title>
+                            <title key="supplie title" xml:lang="en">A scroll featuring calligraphy attributed to Emperor Xian Feng.</title>
                             <title type="desc">清咸豐皇帝御筆</title>
-                            <author key="Chinese">咸豐皇帝</author>
-                            <incipit>虎</incipit>
-                            <incipit>御賜</incipit>
-                            <incipit>總管内務府大臣臣<persName>文豐</persName></incipit>
-                            <incipit><date>咸豐八年十二月</date></incipit>
+                            <author  key="Q334452">   
+                                <persName>愛新覺羅奕詝</persName>
+                                <persName type="title">咸豐皇帝</persName>
+                                <date notAfter="1900" notBefore="1800" calendar="Gregorian">1831-1861</date>
+                            </author> 
+                            <incipit type="釋文">虎</incipit>
+                            <incipit type="釋文">御賜</incipit>
+                            <incipit type="釋文">總管内務府大臣臣文豐</incipit>
+                            <incipit type="釋文">咸豐八年十二月</incipit>
                             <explicit type="題簽">御賜虎字 B/362</explicit>
 
                             
@@ -75,9 +80,9 @@
                     <physDesc>
                         
                         <objectDesc form="立軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
-                            <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                                <support>紙本</support>
-                                <extent>1 scroll
+                            <supportDesc material="紙本"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
+                                <support>mulberry and bamboo mixed paper 紙本</support>
+                                <extent>1 scroll 一軸
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
                         https://git.io/msdescdoc#leafDimensions
@@ -90,7 +95,7 @@
                                 <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>書法橫披，紙本。</layout>
+                                <layout>書法卷軸，紙本。</layout>
                                 
                             </layoutDesc>
                             
@@ -116,7 +121,9 @@
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
                                 <p>立軸</p>
-                                <decoNote>立軸，裝裱方式為二色裱，天頭地脚及邊框是藍色和金色絲織物,隔水是黃色紙,書法字跡寫在朱紅色紙上。整個立軸上有橫向摺痕多條，天杆処有破損。</decoNote>
+                                <decoNote>
+                                    Vertical scroll, two-color mounting. The ‘Heaven’ section, ‘Earth’ section and borders are made of blue and golden silk fabric, while the separating strips are yellow paper. The calligraphy is written on vermilion paper. The entire scroll has multiple horizontal creases, and there is damage to the top rod.
+                                    立軸，裝裱方式為二色裱，天頭地脚及邊框是藍色和金色絲織物,隔水是黃色紙,書法字跡寫在朱紅色紙上。整個立軸上有橫向摺痕多條，天杆処有破損。</decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>

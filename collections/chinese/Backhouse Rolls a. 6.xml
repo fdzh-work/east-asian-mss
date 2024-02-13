@@ -51,21 +51,29 @@
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>A hanging scroll of Chinese calligraphy written in Kaishu style. Based on the seal and the note written by Backhouse, it is likely to be written by Jiajing Emperor (1760-1820) of Qing dynasty.</summary>
+                        <summary>A hanging scroll of Chinese calligraphy written in Kaishu style attributed to Jia Qing Emperor (1760-1820) of Qing dynasty.</summary>
                         <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
                         
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            <title>清嘉慶皇帝御筆 軸</title>
-                            <author key="Chinese">嘉慶皇帝 (1760-1820)</author>
-                            <incipit>遠人祝嘏集梯航閲是樓前綺宴張</incipit>
-                            <incipit>考定禮儀垂典則</incipit>
-                            <incipit>天申綏屢沐豐穰蕭韶律呂盈</incipit>
-                            <incipit>三閣中外衣冠列兩廊御宇年增殷保泰紹脩</incipit>
-                            <incipit>心法守經常</incipit>
-                            <incipit>己卯小春上濣錫宴即事成什御筆</incipit>
+                            <title key="supplied title" xml:lang="en">A scroll of calligraphy attributed to Jia Qing Emperor</title>
+                            <title key="supplied title">清嘉慶皇帝御筆 軸</title>
+                            <author key="Q333178">        
+                                <persName>愛新覺羅顒琰</persName>
+                                <persName type="曾用名">永琰</persName>
+                                <persName type="title">嘉慶帝</persName>
+                                <date notAfter="1900" notBefore="1700" calendar="Gregorian">1760-1820</date>
+                            </author>
+                            <incipit type="釋文">遠人祝嘏集梯航閲是樓前綺宴張</incipit>
+                            <incipit type="釋文">考定禮儀垂典則</incipit>
+                            <incipit type="釋文">天申綏屢沐豐穰蕭韶律呂盈</incipit>
+                            <incipit type="釋文">三閣中外衣冠列兩廊御宇年</incipit>
+                            <incipit type="釋文">增殷保泰紹脩</incipit>
+                            <incipit type="釋文">心法守經常</incipit>
+                            <incipit type="釋文">己卯小春上濣錫宴即事成什御筆</incipit>
                             <incipit type="seal">周甲延禧之寳</incipit>
+                            <incipit type="seal">執兩用中</incipit>
                             <explicit type="題簽">Calligraph of emperor Chia Ching (1819) 御筆</explicit>
                             <filiation>書法卷軸，中外孤本。</filiation>  
                         </msItem>
@@ -76,8 +84,8 @@
                         
                         <objectDesc form="立軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
                             <supportDesc material="絹本"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                                <support>silk</support>
-                                <extent>1 scroll
+                                <support>silk 絹本</support>
+                                <extent>1 scroll 一軸
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
                         https://git.io/msdescdoc#leafDimensions
@@ -90,7 +98,7 @@
                                 <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>书法卷轴.墨色书写</layout>
+                                <layout>书法卷轴，墨色书写</layout>
                                 
                             </layoutDesc>
                             
@@ -115,8 +123,9 @@
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
                                 <p>立軸</p>
-                                <decoNote>立軸,一色裱。天頭地脚和邊是黃色絲織物，有祥雲和五爪龍花紋。書法寫與淺棕色絹本上，共有六列，每列18個字。
-                                          立軸背面天杆処有題簽，上有Backhouse手寫英文“caligraph of emperor Chia Ching (1819)”,以及中文字跡“御筆”。</decoNote>
+                                <decoNote>
+                                    Vertical scroll, single-color mounting. The top, bottom, and edges are made of yellow silk fabric, adorned with auspicious clouds and five-clawed dragon patterns. The title label is made of yellow paper.
+                                    立軸,一色裱。天頭地脚和邊是黃色絲織物，有祥雲和五爪龍花紋。題簽為黃色紙本。</decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>

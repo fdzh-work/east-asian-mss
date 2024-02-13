@@ -51,34 +51,34 @@
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>A horizontal scroll of calligraphy in the Xing Shu style, written by Chen Yuan (陳垣1880-1971). The text is from the 夷夏篇第十六 section of the book titled 通鑒胡注表微, authored by Chen Yuan.</summary>
+                        <summary>A horizontal scroll of calligraphy in the Xing Shu style, written by Chen Yuan (陳垣,1880-1971). The text is from the 夷夏篇第十六 section of the book titled 通鑒胡注表微, authored by Chen Yuan.</summary>
                         <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
                         
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            <title key="supplied title">Specimen of calligraphy</title>
-                            <title>通鑒胡注表微</title>
-                            <title type="subtitle">夷夏篇第十六</title>
-                            <author key="Chinese">陳垣（1880-1971）</author>
-                            <incipit>夷夏者謂夷與夏之觀念在今語為民族意識。</incipit>
-                            <incipit>身之生民族意識顯著之故能瞭解而發揮之非其世讀其書不知其意味之深長也。</incipit> 
-                            <incipit>有通鑒胡注表微夷夏篇敘</incipit>
-                            <incipit><date>丁亥秋分</date>流方錄呈</incipit>
-                            <incipit><persName>榮武先生</persName>正之</incipit>
-                            <incipit type="款識">新倉陳垣</incipit>
-
-                            <filiation>書法橫批，中外孤本。</filiation>  
+                            <title key="supplied title">民國陳垣書通鑒胡注表微夷夏篇敘 卷</title>
+                            <title key="supplie title" xml:lang="en">A scroll of calligraphy attributed to Chen Yuan</title>
+                            <author key="Q8424444">   
+                                <persName>陳垣</persName>
+                                <persName type="字">援庵</persName>
+                                <persName type="號">勵耘主人</persName>
+                                <date notAfter="2000" notBefore="1800" calendar="Gregorian">1880-1971</date>
+                            </author>
+                            <incipit type="釋文">夷夏者，謂夷與夏之觀念，在今語為民族意識。《公羊·成十五年傳》：“《春秋》內其國而外諸夏，內諸夏而外夷狄。”非尊己而卑人也，非中國之自大也，內外親疏之情，根於天性，不獨夏對夷有之，夷對夏亦宜然，是之謂民族意識。當中國强盛天下一家之時，此種意識不顯也；中國被侵凌，或分割時，則此種意識特普【顯】。每顯著一次，中國民族即擴張一次，其同化力之大不可思議。身之生民族意識顯著之世，故能了解而發揮之，非其世，讀其書，不知其意味之深長也。</incipit>
+                            <incipit type="釋文">有通鑒胡注表微夷夏篇敘</incipit>
+                            <incipit type="款識">丁亥秋分流方錄呈 榮武先生正之 新倉陳垣</incipit>
+                            <filiation>書法卷軸，中外孤本。</filiation>  
                         </msItem>
                         <!-- insert further msItem elements as appropriate --> 
                         
                     </msContents>
                     <physDesc>
                         
-                        <objectDesc form="橫批"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
-                            <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                                <support>mulberry and bamboo mixed paper</support>
-                                <extent>1 scroll
+                        <objectDesc form="卷軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
+                            <supportDesc material="紙本"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
+                                <support>mulberry and bamboo mixed paper 紙本</support>
+                                <extent>1 scroll 一軸
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
                         https://git.io/msdescdoc#leafDimensions
@@ -91,7 +91,7 @@
                                 <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>書法橫披，紙本。裝裱方式為一色裱，紙本裝裱在白色絲織物上。</layout>
+                                <layout>書法卷軸，紙本，墨色書寫。</layout>
                                 
                             </layoutDesc>
                             
@@ -99,7 +99,7 @@
                         
                         <handDesc><!-- use the @hands attribute to record the number of scribes -->
                             <handNote>
-                                Text written in 行書 (xing shu, regular) calligraphic style by Chen Yuan (陳垣（1880-1971).
+                                Text written in 行書 (xing shu, semi-cursive) calligraphic style.
                             </handNote>
                             <!-- use additional handNote elements if necessary 
                      https://git.io/msdescdoc#handdesc
@@ -116,8 +116,10 @@
                         
                         <bindingDesc>
                             <binding when="1900"><!-- use dating attributes to record the date -->
-                                <p>橫披</p>
-                                <decoNote>橫披，一色裱，紙本裝裱在白色絲織物上。</decoNote>
+                                <p>卷軸</p>
+                                <decoNote>
+                                    A horizontal scroll in single-color mounting. The calligraphy is mounted on white jacquard silk.
+                                    卷軸，一色裱，紙本裝裱在白色絲織物上。</decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>

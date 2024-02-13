@@ -57,155 +57,154 @@
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            
-                            <title type="desc">清濟祿壽屏</title>
-                            <note>該套壽屏是為庆祝濟祿七十大壽所做。濟祿（1829~1903），字俊甫，滿族正白旗。同治十二年至十六年任杭州副都統，后历任杭州将军，
-                                  乍浦副都统，密雲副都統，盛京副都統，杭州將軍，荊州將軍。</note>
-                            <author key="Chinese">unknown</author>
-                            
+                            <title key="supplied title">清佚名楷書濟祿壽屏十六條 軸</title>
+                            <title key="supplie title" xml:lang="en">A set of sixteen scrolls of calligraphy featuring birthday greetings to Ji Lu (濟祿,1829-1903) of Qing dynasty.</title>
+                            <author key="_unknown">unknown</author>
+                            <note type="注">該套壽屏是為庆祝濟祿七十大壽所做。濟祿（1829~1903），字俊甫，滿族正白旗。同治十二年至十六年任杭州副都統，后历任杭州将军，
+                                乍浦副都统，密雲副都統，盛京副都統，杭州將軍，荊州將軍。</note>
                             <msItem>
-                            <title type="subtitle">第一屏<note>Shelfmark: Backhouse Rolls a.30(1)</note></title>
-                            <incipit>恭祝</incipit>
-                            <incipit>誥授振威將軍均普將軍七旬正慶壽文</incipit>
-                            <incipit>光緒二十有四年年嵗在著雍月次鶉首為我</incipit>
-                            <incipit>誥授振威將軍均普將軍憲臺七秩攬揆令辰時則溽暑未生薰風徐</incipit>
-                            <incipit>動若榴似火迎弧矢而舒紅蒲箑成茵列旌旄而映碧厰玳筵於</incipit>
+                            <title type="subtitle">第一屏 Shelfmark: Backhouse Rolls a.30(1)</title>
+                                <incipit type="釋文">恭祝</incipit>
+                                <incipit type="釋文">誥授振威將軍均普將軍七旬正慶壽文</incipit>
+                                <incipit type="釋文">光緒二十有四年年嵗在著雍月次鶉首為我</incipit>
+                                <incipit type="釋文">誥授振威將軍均普將軍憲臺七秩攬揆令辰時則溽暑未生薰風徐</incipit>
+                                <incipit type="釋文">動若榴似火迎弧矢而舒紅蒲箑成茵列旌旄而映碧厰玳筵於</incipit>
                                 <explicit type="題簽">濟帥將軍七旬大慶壽屏第壹卷</explicit></msItem>
                             
                             <msItem>
-                            <title type="subtitle">第二屏<note>Shelfmark: Backhouse Rolls a.30(2)</note></title>
-                            <incipit>四座紛華穀以盈門凡夫印纍授若之儔負弩荷盾之子莫不額</incipit>
-                            <incipit>手稱慶翹首輸枕爭欲敷袵而貢鴻詞帣鞲而奭兕酌職等衙參</incipit>
-                            <incipit>鈴閣身隸帡幪居任好之下風心傾靡巳仰子餘之冬日口說能</incipit>
-                            <incipit>詳而獨不能擘赫蹏操不點綴小文贊敭盛德竊滋恧焉然而</incipit>
-                            <incipit>評松頌柏班史祝之曼詞鏤月琱霞亦文人之華説哦將欲侑手仇</incipit>
-                                <explicit>濟帥將軍七旬大慶壽屏第貳卷</explicit></msItem>
+                            <title type="subtitle">第二屏 Shelfmark: Backhouse Rolls a.30(2)</title>
+                                <incipit type="釋文">四座紛華穀以盈門凡夫印纍授若之儔負弩荷盾之子莫不額</incipit>
+                                <incipit type="釋文">手稱慶翹首輸枕爭欲敷袵而貢鴻詞帣鞲而奭兕酌職等衙參</incipit>
+                                <incipit type="釋文">鈴閣身隸帡幪居任好之下風心傾靡巳仰子餘之冬日口說能</incipit>
+                                <incipit type="釋文">詳而獨不能擘赫蹏操不點綴小文贊敭盛德竊滋恧焉然而</incipit>
+                                <incipit type="釋文">評松頌柏班史祝之曼詞鏤月琱霞亦文人之華説哦將欲侑手仇</incipit>
+                                <explicit type="題簽">濟帥將軍七旬大慶壽屏第貳卷</explicit></msItem>
                             
                            <msItem>
-                            <title type="subtitle">第三屏<note>Shelfmark: Backhouse Rolls a.30(3)</note></title>
-                            <incipit>之爵伸心企之誠則必推靈貺所由甄丕庥所由集殊詳所由啓</incipit>
-                            <incipit>洪算所由臻而後奚斯一篇姚聲乎魯頌封人三祝答禮於齊廷</incipit>
-                            <incipit>不揣溝猶請陳顛末</incipit>
-                            <incipit>公滿洲注姓喬木故家趙盾乃公族之官厭次是嵗星之應齔鬈</incipit>
-                            <incipit>廣誦詩書之訓夙聞弱冠含章戚敞之稱允洽拈毫託詠即雄踞</incipit>
-                               <explicit>濟帥將軍七旬大慶壽屏第叁卷</explicit></msItem>
+                            <title type="subtitle">第三屏 Shelfmark: Backhouse Rolls a.30(3)</title>
+                               <incipit type="釋文">之爵伸心企之誠則必推靈貺所由甄丕庥所由集殊詳所由啓</incipit>
+                               <incipit type="釋文">洪算所由臻而後奚斯一篇姚聲乎魯頌封人三祝答禮於齊廷</incipit>
+                               <incipit type="釋文">不揣溝猶請陳顛末</incipit>
+                               <incipit type="釋文">公滿洲注姓喬木故家趙盾乃公族之官厭次是嵗星之應齔鬈</incipit>
+                               <incipit type="釋文">廣誦詩書之訓夙聞弱冠含章戚敞之稱允洽拈毫託詠即雄踞</incipit>
+                               <explicit type="題簽">濟帥將軍七旬大慶壽屏第叁卷</explicit></msItem>
                            
                            <msItem>
-                            <title type="subtitle">第四屏<note>Shelfmark: Backhouse Rolls a.30(4)</note></title>
-                            <incipit>夫詩壇搦管屬文克蜚英乎藝圃逮天葉魯谷神之製額爾德尼</incipit>
-                            <incipit>之書尤能洞爥源流精揅點畫慎逾石建從無寫馬之譌工擬右</incipit>
-                            <incipit>軍時有換鵞之事此則子雲沈默靡能識其離奇抑令叔重淵通</incipit>
-                            <incipit>罕得言其訓故洵當王之可貴亦游藝之足多者焉若乃公忠體</incipit>
-                            <incipit>國蠠沒居官毣毣以竭忠軀軀而如畏得林父事君之義有李平畫</incipit>
-                             <explicit>濟帥將軍七旬大慶壽屏第四卷</explicit></msItem>
+                            <title type="subtitle">第四屏 Shelfmark: Backhouse Rolls a.30(4)</title>
+                               <incipit type="釋文">夫詩壇搦管屬文克蜚英乎藝圃逮天葉魯谷神之製額爾德尼</incipit>
+                               <incipit type="釋文">之書尤能洞爥源流精揅點畫慎逾石建從無寫馬之譌工擬右</incipit>
+                               <incipit type="釋文">軍時有換鵞之事此則子雲沈默靡能識其離奇抑令叔重淵通</incipit>
+                               <incipit type="釋文">罕得言其訓故洵當王之可貴亦游藝之足多者焉若乃公忠體</incipit>
+                               <incipit type="釋文">國蠠沒居官毣毣以竭忠軀軀而如畏得林父事君之義有李平畫</incipit>
+                               <explicit type="題簽">濟帥將軍七旬大慶壽屏第四卷</explicit></msItem>
                             
                             <msItem>
-                            <title type="subtitle">第五屏<note>Shelfmark: Backhouse Rolls a.30(5)</note></title>
-                            <incipit>館之風照一路之福星仰如卿月承</incipit>
-                            <incipit>九重之湛露灑作甘霖蓋</incipit>
-                            <incipit>公自同治十二年由護軍參領陞任杭州副都統嗣是一調檀州</incipit>
-                            <incipit>再遷奉省所至振刷精神掎摭利弊運經綸於掌上藏甲兵於胸</incipit>
-                            <incipit>中寬猛相資鄭國僑之馭下恩威并用武鄉侯之治兵細柳亞夫</incipit>
-                                <explicit>濟帥將軍七旬大慶壽屏第伍卷</explicit> </msItem>
+                            <title type="subtitle">第五屏 Shelfmark: Backhouse Rolls a.30(5)</title>
+                                <incipit type="釋文">館之風照一路之福星仰如卿月承</incipit>
+                                <incipit type="釋文">九重之湛露灑作甘霖蓋</incipit>
+                                <incipit type="釋文">公自同治十二年由護軍參領陞任杭州副都統嗣是一調檀州</incipit>
+                                <incipit type="釋文">再遷奉省所至振刷精神掎摭利弊運經綸於掌上藏甲兵於胸</incipit>
+                                <incipit type="釋文">中寬猛相資鄭國僑之馭下恩威并用武鄉侯之治兵細柳亞夫</incipit>
+                                <explicit type="題簽">濟帥將軍七旬大慶壽屏第伍卷</explicit> </msItem>
                             
                             <msItem>
-                            <title type="subtitle">第六屏<note>Shelfmark: Backhouse Rolls a.30(6)</note></title>
-                            <incipit>至營森嚴肅穆棊局謝安之墅坐鎮雍容比跡前修亮云無媿今</incipit>
-                            <incipit>夫歲寒遒盡斯識貞松狂飆怒號迺知勁草若履康莊之道駑</incipit>
-                            <incipit>與騕褭爭長及逢艱險之秋鎉？冗共忠良異轍迺者蝦夷孽鴟</incipit>
-                            <incipit>義撟處欺秦國無人敢寒盟誓覷莒城無備突肆侵陵於斯時也</incipit>
-                            <incipit>爟火照乎遼陽戈船汎乎渤澥蓮花泊上但見蒼鵞繍峯前長</incipit>
-                                <explicit>濟帥將軍七旬大慶壽屏第陸卷</explicit></msItem>
+                            <title type="subtitle">第六屏 Shelfmark: Backhouse Rolls a.30(6)</title>
+                                <incipit type="釋文">至營森嚴肅穆棊局謝安之墅坐鎮雍容比跡前修亮云無媿今</incipit>
+                                <incipit type="釋文">夫歲寒遒盡斯識貞松狂飆怒號迺知勁草若履康莊之道駑</incipit>
+                                <incipit type="釋文">與騕褭爭長及逢艱險之秋鎉？冗共忠良異轍迺者蝦夷孽鴟</incipit>
+                                <incipit type="釋文">義撟處欺秦國無人敢寒盟誓覷莒城無備突肆侵陵於斯時也</incipit>
+                                <incipit type="釋文">爟火照乎遼陽戈船汎乎渤澥蓮花泊上但見蒼鵞繍峯前長</incipit>
+                                <explicit type="題簽">濟帥將軍七旬大慶壽屏第陸卷</explicit></msItem>
                            
                            <msItem>
-                            <title type="subtitle">第七屏<note>Shelfmark: Backhouse Rolls a.30(7)</note></title>
-                            <incipit>驅青犢</incipit>
-                            <incipit>陪都業業有同累卵之危軍府皇皇靡效守陴之計於是乞養之牘</incipit>
-                            <incipit>繹絡星馳引疾之倫紛綸雲起孫興公遂初之賦陶靖節歸去之</incipit>
-                            <incipit>辭張季膺鱸膾之思李令伯鳥私之戀平日海山清晏渺隔世而</incipit>
-                            <incipit>無聞一朝戎馬倥傯迺比肩而相望享高官厚秩敢負君恩讀賢</incipit>
-                               <explicit>濟帥將軍七旬大慶壽屏第柒卷</explicit> </msItem>
+                            <title type="subtitle">第七屏 Shelfmark: Backhouse Rolls a.30(7)</title>
+                               <incipit type="釋文">驅青犢</incipit>
+                               <incipit type="釋文">陪都業業有同累卵之危軍府皇皇靡效守陴之計於是乞養之牘</incipit>
+                               <incipit type="釋文">繹絡星馳引疾之倫紛綸雲起孫興公遂初之賦陶靖節歸去之</incipit>
+                               <incipit type="釋文">辭張季膺鱸膾之思李令伯鳥私之戀平日海山清晏渺隔世而</incipit>
+                               <incipit type="釋文">無聞一朝戎馬倥傯迺比肩而相望享高官厚秩敢負君恩讀賢</incipit>
+                               <explicit type="題簽">濟帥將軍七旬大慶壽屏第柒卷</explicit> </msItem>
                             
                             <msItem>
-                            <title type="subtitle">第八屏<note>Shelfmark: Backhouse Rolls a.30(8)</note></title>
-                            <incipit>傳聖經竟諐素志宦海爲之無色志士因而拊心維時我</incipit>
-                            <incipit>公方以</incipit>
-                            <incipit>皇太后萬壽隨班祝</incipit>
-                            <incipit>嘏禮成聞警攖心抗義動色以爲</incipit>
-                            <incipit>盛京迺我</incipit>
-                                <explicit>濟帥將軍七旬大慶壽屏第捌卷</explicit></msItem>
+                            <title type="subtitle">第八屏 Shelfmark: Backhouse Rolls a.30(8)</title>
+                                <incipit type="釋文">傳聖經竟諐素志宦海爲之無色志士因而拊心維時我</incipit>
+                                <incipit type="釋文">公方以</incipit>
+                                <incipit type="釋文">皇太后萬壽隨班祝</incipit>
+                                <incipit type="釋文">嘏禮成聞警攖心抗義動色以爲</incipit>
+                                <incipit type="釋文">盛京迺我</incipit>
+                                <explicit type="題簽">濟帥將軍七旬大慶壽屏第捌卷</explicit></msItem>
                             
                             <msItem>
-                            <title type="subtitle">第九屏<note>Shelfmark: Backhouse Rolls a.30(9)</note></title>
-                            <incipit>國根本之地奉天寳小臣職守之區豈可使封豕長蛇薦食上囯風</incipit>
-                            <incipit>聲鶴唳俶擾炎疆重</incipit>
-                            <incipit>朝廷以宵旰之憂致</incipit>
-                            <incipit>陵寢有震驚之慮遂迺奮霍票姚滅虜之氣激馬文淵裹操之懷敬</incipit>
-                            <incipit>玉闕而晨辭指瀋陽而夕赴王尊叱馭稱娖前行祖逖著鞭忼慨毅</incipit>
-                                <explicit>濟帥將軍七旬大慶壽屏第玖卷</explicit></msItem>
+                            <title type="subtitle">第九屏 Shelfmark: Backhouse Rolls a.30(9)</title>
+                                <incipit type="釋文">國根本之地奉天寳小臣職守之區豈可使封豕長蛇薦食上囯風</incipit>
+                                <incipit type="釋文">聲鶴唳俶擾炎疆重</incipit>
+                                <incipit type="釋文">朝廷以宵旰之憂致</incipit>
+                                <incipit type="釋文">陵寢有震驚之慮遂迺奮霍票姚滅虜之氣激馬文淵裹操之懷敬</incipit>
+                                <incipit type="釋文">玉闕而晨辭指瀋陽而夕赴王尊叱馭稱娖前行祖逖著鞭忼慨毅</incipit>
+                                <explicit type="題簽">濟帥將軍七旬大慶壽屏第玖卷</explicit></msItem>
                             
                             <msItem>
-                            <title type="subtitle">第十屏<note>Shelfmark: Backhouse Rolls a.30(12)</note></title>
-                            <incipit>往至則畫陳平六奇之策籌墨翟九却之謀戊己屯兵纚連相屬</incipit>
-                            <incipit>庚戍土斷次第頻增卒使鍾虛不驚金湯無恙夜見旄頭之落野</incipit>
-                            <incipit>無瑣尾之歌吳子顏在軍隱如敵國李懋功在外賢於長城此雖</incipit>
-                            <incipit>廟算發蹤元戎指示實賴</incipit>
-                            <incipit>公慎固封圻之力安輯眾庶之能信足泐勤績於旆常記姓名於</incipit>
-                                <explicit>濟帥將軍七旬大慶壽屏第拾卷</explicit></msItem>
+                            <title type="subtitle">第十屏 Shelfmark: Backhouse Rolls a.30(12)</title>
+                                <incipit type="釋文">往至則畫陳平六奇之策籌墨翟九却之謀戊己屯兵纚連相屬</incipit>
+                                <incipit type="釋文">庚戍土斷次第頻增卒使鍾虛不驚金湯無恙夜見旄頭之落野</incipit>
+                                <incipit type="釋文">無瑣尾之歌吳子顏在軍隱如敵國李懋功在外賢於長城此雖</incipit>
+                                <incipit type="釋文">廟算發蹤元戎指示實賴</incipit>
+                                <incipit type="釋文">公慎固封圻之力安輯眾庶之能信足泐勤績於旆常記姓名於</incipit>
+                                <explicit type="題簽">濟帥將軍七旬大慶壽屏第拾卷</explicit></msItem>
                             
                             <msItem>
-                            <title type="subtitle">第十一屏<note>Shelfmark: Backhouse Rolls a.30(11)</note></title>
-                            <incipit>黻座</incipit>
-                            <incipit>天子嘉乃丕烈晉以崇階遂於丙申之冬擢陞今任牙璋又至棨戟重</incipit>
-                            <incipit>臨訝竹馬之兒童鬢毛都改攬甘棠於官舍蔽芾如新塵海半生</incipit>
-                            <incipit>尋前度履綦之跡朙湖卅里作老臣湯沐之鄉固巳惠澤在人輿</incipit>
-                            <incipit>歌載路況復甲卒騰驤彌勒勤訓練士風骫骳尤廣陶甄師文翁蜀</incipit>
-                                <explicit>濟帥將軍七旬大慶壽屏第拾壹卷</explicit></msItem>
+                            <title type="subtitle">第十一屏 Shelfmark: Backhouse Rolls a.30(11)</title>
+                                <incipit type="釋文">黻座</incipit>
+                                <incipit type="釋文">天子嘉乃丕烈晉以崇階遂於丙申之冬擢陞今任牙璋又至棨戟重</incipit>
+                                <incipit type="釋文">臨訝竹馬之兒童鬢毛都改攬甘棠於官舍蔽芾如新塵海半生</incipit>
+                                <incipit type="釋文">尋前度履綦之跡朙湖卅里作老臣湯沐之鄉固巳惠澤在人輿</incipit>
+                                <incipit type="釋文">歌載路況復甲卒騰驤彌勒勤訓練士風骫骳尤廣陶甄師文翁蜀</incipit>
+                                <explicit type="題簽">濟帥將軍七旬大慶壽屏第拾壹卷</explicit></msItem>
                             
                             <msItem>
-                            <title type="subtitle">第十二屏<note>Shelfmark: Backhouse Rolls a.30(10)</note></title>
-                            <incipit>郡之規拓常袞講堂之額茂才異等咸知鼓篋譚經擧考興廉亦</incipit>
-                            <incipit>許登壇角藝是則萬間廣廈庇寒士之雨風一脈斯文用薪傳於</incipit>
-                            <incipit>髦秀宜其神明鞏固元氣洪龐嫓建福於義年絜延禧於燧代矣</incipit>
-                            <incipit>兹者蜺旌戾止屆三年孜績之期鶴酒紛醲遘百歲維祺之會梁</incipit>
-                            <incipit>等麤知梗概用述生平脩道養壽之言夙聞諸老子美意延年之</incipit>
-                                <explicit>濟帥將軍七旬大慶壽屏第拾貳卷</explicit></msItem>
+                            <title type="subtitle">第十二屏 Shelfmark: Backhouse Rolls a.30(10)</title>
+                                <incipit type="釋文">郡之規拓常袞講堂之額茂才異等咸知鼓篋譚經擧考興廉亦</incipit>
+                                <incipit type="釋文">許登壇角藝是則萬間廣廈庇寒士之雨風一脈斯文用薪傳於</incipit>
+                                <incipit type="釋文">髦秀宜其神明鞏固元氣洪龐嫓建福於義年絜延禧於燧代矣</incipit>
+                                <incipit type="釋文">兹者蜺旌戾止屆三年孜績之期鶴酒紛醲遘百歲維祺之會梁</incipit>
+                                <incipit type="釋文">等麤知梗概用述生平脩道養壽之言夙聞諸老子美意延年之</incipit>
+                                <explicit type="題簽">濟帥將軍七旬大慶壽屏第拾貳卷</explicit></msItem>
                            
                            <msItem>
-                            <title type="subtitle">第十三屏<note>Shelfmark: Backhouse Rolls a.30(13)</note></title>
-                            <incipit>頌敢借之孫卿將見師尚父耄耋之年猶仗黃銊衛武公期頤之</incipit>
-                            <incipit>嵗無玷白圭是宜淂淮南鴻寳之書入洛社耆英之會者也謹序</incipit>
-                            <incipit>麾下副都統銜 記名簡放卓異候陞花翎二品頂戴掌杭州</incipit>
-                            <incipit>左司關防統領八旗陳新洋槍隊練軍鑲白旗協領柏梁掌理</incipit>
-                            <incipit>右司關防兼八旗庫司正紅旗協領同倫二品頂戴 記名簡</incipit>
-                               <explicit>濟帥將軍七旬大慶壽屏第拾叁卷</explicit></msItem>
+                            <title type="subtitle">第十三屏 Shelfmark: Backhouse Rolls a.30(13)</title>
+                               <incipit type="釋文">頌敢借之孫卿將見師尚父耄耋之年猶仗黃銊衛武公期頤之</incipit>
+                               <incipit type="釋文">嵗無玷白圭是宜淂淮南鴻寳之書入洛社耆英之會者也謹序</incipit>
+                               <incipit type="釋文">麾下副都統銜 記名簡放卓異候陞花翎二品頂戴掌杭州</incipit>
+                               <incipit type="釋文">左司關防統領八旗陳新洋槍隊練軍鑲白旗協領柏梁掌理</incipit>
+                               <incipit type="釋文">右司關防兼八旗庫司正紅旗協領同倫二品頂戴 記名簡</incipit>
+                               <explicit type="題簽">濟帥將軍七旬大慶壽屏第拾叁卷</explicit></msItem>
                             
                             <msItem>
-                            <title type="subtitle">第十四屏<note>Shelfmark: Backhouse Rolls a.30(14)</note></title>
-                            <incipit>用花翎洋槍隊全營翼長管理八旗梅青書院並義學正白旗</incipit>
-                            <incipit>協領柏恆管理礟營八旗巡查居事務記名簡用鑲紅旗協</incipit>
-                            <incipit>領領墨爾根圖花翎洋槍營幫辦翼長 記名簡用管理八旗步</incipit>
-                            <incipit>營正黃旗協領鳳魁管理八旗箭營雜技營鑲黃旗協領崐璞</incipit>
-                            <incipit>管火藥局八旗洋槍隊總營鑲藍旗協領哲爾精額管八旗</incipit>
-                                <explicit>濟帥將軍七旬大慶壽屏第拾四卷</explicit></msItem>
+                            <title type="subtitle">第十四屏 Shelfmark: Backhouse Rolls a.30(14)</title>
+                                <incipit type="釋文">用花翎洋槍隊全營翼長管理八旗梅青書院並義學正白旗</incipit>
+                                <incipit type="釋文">協領柏恆管理礟營八旗巡查居事務記名簡用鑲紅旗協</incipit>
+                                <incipit type="釋文">領領墨爾根圖花翎洋槍營幫辦翼長 記名簡用管理八旗步</incipit>
+                                <incipit type="釋文">營正黃旗協領鳳魁管理八旗箭營雜技營鑲黃旗協領崐璞</incipit>
+                                <incipit type="釋文">管火藥局八旗洋槍隊總營鑲藍旗協領哲爾精額管八旗</incipit>
+                                <explicit type="題簽">濟帥將軍七旬大慶壽屏第拾四卷</explicit></msItem>
                             
                             <msItem>
-                            <title type="subtitle">第十五屏<note>Shelfmark: Backhouse Rolls a.30(15)</note></title>
-                            <incipit>火藥局並梅青書院各義學正藍旗協領鍾奇委前鋒左翼領</incipit>
-                            <incipit>卓異鑲紅四佐領榮增右翼領正白四佐領傑靈鑲黃旗二三</incipit>
-                            <incipit>四佐領花連佈恆隆廣隆正黃旗二三四佐領四壽蘭奎榮照</incipit>
-                            <incipit>正白旗二三佐領文會廣福正紅旗二三四佐領哈拉堪榮陞</incipit>
-                            <incipit>文林鑲白旗二佐領   記名以游記用博第蘇三四佐領經武</incipit>
-                                <explicit>濟帥將軍七旬大慶壽屏第拾伍卷</explicit> </msItem>
+                            <title type="subtitle">第十五屏 Shelfmark: Backhouse Rolls a.30(15)</title>
+                                <incipit type="釋文">火藥局並梅青書院各義學正藍旗協領鍾奇委前鋒左翼領</incipit>
+                                <incipit type="釋文">卓異鑲紅四佐領榮增右翼領正白四佐領傑靈鑲黃旗二三</incipit>
+                                <incipit type="釋文">四佐領花連佈恆隆廣隆正黃旗二三四佐領四壽蘭奎榮照</incipit>
+                                <incipit type="釋文">正白旗二三佐領文會廣福正紅旗二三四佐領哈拉堪榮陞</incipit>
+                                <incipit type="釋文">文林鑲白旗二佐領   記名以游記用博第蘇三四佐領經武</incipit>
+                                <explicit type="題簽">濟帥將軍七旬大慶壽屏第拾伍卷</explicit> </msItem>
                             
                             <msItem>
-                            <title type="subtitle">第十六屏<note>Shelfmark: Backhouse Rolls a.30(16)</note></title>
-                            <incipit>波勤忠武鑲紅旗二三佐領迎芳椿梁正藍旗二三四佐佐領</incipit>
-                            <incipit>有成貴林喜善鑲藍旗二三四佐領安瑞錫麟阿奇奔三十二</incipit>
-                            <incipit>佐防禦委防禦驍騎校左右翼筆貼式並八旗各佐世襲三等</incipit>
-                            <incipit>輕車都尉騎都尉雲騎尉六品官等衆官仝頓首拜叩祝</incipit>
-                            <incipit>龍飛光緒二十四年歲次戊戍律中甤賓之月 <persName>穀旦</persName></incipit>
-                                <explicit>濟帥將軍七旬大慶壽屏第拾陸卷</explicit></msItem>
+                            <title type="subtitle">第十六屏 Shelfmark: Backhouse Rolls a.30(16)</title>
+                                <incipit type="釋文">波勤忠武鑲紅旗二三佐領迎芳椿梁正藍旗二三四佐佐領</incipit>
+                                <incipit type="釋文">有成貴林喜善鑲藍旗二三四佐領安瑞錫麟阿奇奔三十二</incipit>
+                                <incipit type="釋文">佐防禦委防禦驍騎校左右翼筆貼式並八旗各佐世襲三等</incipit>
+                                <incipit type="釋文">輕車都尉騎都尉雲騎尉六品官等衆官仝頓首拜叩祝</incipit>
+                                <incipit type="釋文">龍飛光緒二十四年歲次戊戍律中甤賓之月 <persName>穀旦</persName></incipit>
+                                <explicit type="題簽">濟帥將軍七旬大慶壽屏第拾陸卷</explicit></msItem>
                           
                             <filiation>書法卷軸，中外孤本。</filiation>  
                         </msItem>
@@ -216,7 +215,7 @@
                         
                         <objectDesc form="立軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
                             <supportDesc material="絹本"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                                <support>silk</support>
+                                <support>silk 絹本</support>
                                 <extent>16 scrolls 十六軸
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
@@ -230,7 +229,7 @@
                                 <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>書法卷軸，絹本。</layout>
+                                <layout>書法卷軸，絹本，墨色書寫。</layout>
                                 
                             </layoutDesc>
                             
@@ -238,7 +237,8 @@
                         
                         <handDesc><!-- use the @hands attribute to record the number of scribes -->
                             <handNote>
-                                Text written in 楷書 (kai shu, regular) calligraphic style.每幅含有文字五列，每列約二十七字。
+                                Text written in 楷書 (kai shu, regular) calligraphic style.
+                                每幅含有文字五列，每列約二十七字。
                             </handNote>
                             <!-- use additional handNote elements if necessary 
                      https://git.io/msdescdoc#handdesc
@@ -256,7 +256,10 @@
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
                                 <p>卷軸</p>
-                                <decoNote>卷軸，裝裱方式為一色裱，天頭與地脚為棕色絲織物，伴有藍、黃、紅、綠、粉花紋，另有粉色鑲邊。背面有紅色絲織物錦包首，題簽為壽屏編號。</decoNote>
+                                <decoNote>
+                                    
+                                    Scroll, mounted in single-color style, with brown silk fabric at the top and bottom adorned with blue, yellow, red, green, and pink floral patterns, and additionally bordered with pink. The back features a red silk fabric brocade wrapper, and the title label is made of brown paper.
+                                    卷軸，裝裱方式為一色裱，天頭與地脚為棕色絲織物，伴有藍、黃、紅、綠、粉花紋，另有粉色鑲邊。背面有紅色絲織物錦包首，題簽為壽屏編號。</decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>

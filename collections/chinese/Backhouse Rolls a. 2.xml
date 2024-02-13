@@ -57,10 +57,20 @@
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            <title>清張照書七言絕句詩 軸</title>
-                            <author key="Chinese">張照 （1691-1745）</author>
-                            <incipit>洞遲湖裏君山巔，笑籋游人履屐穿。欲見神仙無問處，秦松五樹碧黍天。</incipit>
-                            <incipit><persName>張照</persName></incipit>
+                            <title key="supplied title">清張照書七言絕句詩 軸</title>
+                            <title key="supplie title" xml:lang="en">A scroll of calligraphy attributed to Zhang Zhao</title>
+                            <author key="Q8070430">   
+                                <persName>張照</persName>
+                                <persName type="曾用名">默</persName>
+                                <persName type="字">得天</persName>
+                                <persName type="號">涇南</persName>
+                                <persName type="號">天瓶居士</persName>
+                                <date notAfter="1800" notBefore="1600" calendar="Gregorian">1691-1745</date>
+                            </author> 
+                            <incipit type="釋文">洞遲湖裏君山巔，笑籋游人履屐穿。欲見神仙無問處，秦松五樹碧黍天。</incipit>
+                            <incipit type="款識">張照</incipit>
+                            <incipit type="seal">張照</incipit>
+                            <incipit type="seal">【？】【？】</incipit>
                             <explicit type="題簽">autograph of Chang Chao，grand secretary of scholar in chanlung's reign，for：1750. a very valuable scroll.</explicit>
                             <filiation>書法卷軸，中外孤本。</filiation>  
                         </msItem>
@@ -71,8 +81,8 @@
                         
                         <objectDesc form="立軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
                             <supportDesc material="紙本"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                                <support>paper</support>
-                                <extent>1 scroll
+                                <support>mulberry and bamboo mixed paper 紙本</support>
+                                <extent>1 scroll 一軸
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
                         https://git.io/msdescdoc#leafDimensions
@@ -85,7 +95,7 @@
                                 <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>书法卷轴.墨色书写</layout>
+                                <layout>书法卷轴，墨色书写</layout>
                                 
                             </layoutDesc>
                             
@@ -93,7 +103,7 @@
                         
                         <handDesc><!-- use the @hands attribute to record the number of scribes -->
                             <handNote>
-                                Text written in 行書 (xing shu, semi-cursive) calligraphic style. Ink on Paper.</handNote>
+                                Text written in 行書 (xing shu, semi-cursive) calligraphic style.</handNote>
                             <!-- use additional handNote elements if necessary 
                      https://git.io/msdescdoc#handdesc
                      -->
@@ -110,7 +120,9 @@
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
                                 <p>立軸</p>
-                                <decoNote>宣和裝，天頭地脚為淺藍色有花紋絲織物，上下隔水和驚燕是米白色有花紋絲織物。畫心為汎黃紙本，有水印，有破損修復痕跡。</decoNote>
+                                <decoNote>
+                                    Vertical scroll, mounted in the Xuānhe style. The 'Heaven' (天) and 'Earth' (地) sections are adorned with light blue silk fabric, showing signs of fading and yellowing. The separating strips, borders, and floating ribbons (飄帶) should be made of white silk fabric, but they have turned yellow. 
+                                    宣和裝，天頭地脚為淺藍色有花紋絲織物，上下隔水和驚燕是米白色有花紋絲織物。畫心為汎黃紙本，有水印，有破損修復痕跡。</decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>

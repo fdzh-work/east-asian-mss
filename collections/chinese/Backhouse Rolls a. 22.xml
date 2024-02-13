@@ -57,25 +57,29 @@
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
+                            <title key="supplied title">清咸豐帝御筆拓印 軸</title>
+                            <title key="supplie title" xml:lang="en">A scroll featuring rubbings of calligraphy by Emperor Xian Feng.</title>
+                            <author  key="Q334452">   
+                                <persName>愛新覺羅奕詝</persName>
+                                <persName type="title">咸豐皇帝</persName>
+                                <date notAfter="1900" notBefore="1800" calendar="Gregorian">1831-1861</date>
+                            </author> 
+                            <incipit type="釋文">正中莊齋</incipit>
+                            <incipit type="seal">咸豐御筆之寳</incipit>
+                            <explicit type="背面">顯皇帝碟福 Rubbings of emperor Hsien Feng’s caligraph B/304</explicit>
+                            <explicit type="背面">Impression taken from a rubbing of four Changchun by the Emperor Hsien Feng / uncle of zeiprang sovereign / presented by him to the then head of the Imperial Household (Kuang Shui)</explicit>
                             
-                            <title type="desc">清咸豐皇帝御筆 軸</title>
-                            <author key="Chinese">咸豐皇帝</author>
-                            <incipit>正中莊齋</incipit>
-                            <explicit>顯皇帝碟福 Rubbings of emperor Hsien Feng’s caligraph B/304</explicit>
-                            <explicit>Impression taken from a rubbing of four Changchun by the Emperor Hsien Feng / uncle of zeiprang sovereign / presented by him to the then head of the Imperial Household (Kuang Shui)</explicit>
-                            
-                            
-                            <filiation>書法橫披，中外孤本。</filiation>  
+                            <filiation>書法卷軸，中外孤本。</filiation>  
                         </msItem>
                         <!-- insert further msItem elements as appropriate --> 
                         
                     </msContents>
                     <physDesc>
                         
-                        <objectDesc form="橫披"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
-                            <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                                <support>紙本</support>
-                                <extent>1 scroll
+                        <objectDesc form="卷軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
+                            <supportDesc material="紙本"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
+                                <support>mulberry and bamboo mixed paper紙本</support>
+                                <extent>1 scroll 一軸
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
                         https://git.io/msdescdoc#leafDimensions
@@ -88,7 +92,7 @@
                                 <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>書法橫披，紙本。</layout>
+                                <layout>拓印卷軸，紙本。</layout>
                                 
                             </layoutDesc>
                             
@@ -114,7 +118,9 @@
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
                                 <p>橫披</p>
-                                <decoNote>橫批，裝裱方式為一色裱，雙耳及邊為淺藍色絲織物。朱紅色拓印在黃色紙上。</decoNote>
+                                <decoNote>
+                                    Scroll, single-color mount. The calligraphy is mounted on light blue silk.
+                                    卷軸，裝裱方式為一色裱，拓印裝裱在淺藍色絲織物上。</decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>
