@@ -51,16 +51,20 @@
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>A hanging scroll of Chinese painting and calligraphy created by Lu Xuepu (盧學溥, 1877—1956）.</summary>
+                        <summary>A hanging scroll of Chinese painting and calligraphy created by Lu Xue Pu (盧學溥, 1877—1956）.</summary>
                         <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
                         
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            <title>清盧學溥畫花鳥 軸</title>
-                            <author key="Chinese">盧學溥（1877—1956）</author>
-                            <title type="desc">仙鶴</title>
-                            <incipit>甲辰花月土濣法新羅山人大意寫為念兹大兄法家大人雅正<persName type="字">星穛鑑泉</persName>作</incipit>
+                            <title key="supplied title">民國盧學溥畫花鳥 軸</title>
+                          <title key="supplie title" xml:lang="en">A scroll of painting attributed to Lu Xue Pu</title>
+                            <author key="Q45578122">   
+                                <persName>盧學溥</persName>
+                                <persName type="字">鑑泉</persName>
+                                <date notAfter="2000" notBefore="1800" calendar="Gregorian">1877-1956</date>
+                            </author>  
+                            <incipit type="釋文">甲辰花月土濣法新羅山人大意寫為念兹大兄法家大人雅正星穛鑑泉作</incipit>
                             <incipit type="seal">盧鑑泉印</incipit>
                             <incipit type="seal">星橋</incipit>
                             <explicit type="題簽">盧星橋畫 B/308</explicit>
@@ -72,9 +76,9 @@
                     <physDesc>
                         
                         <objectDesc form="立軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
-                            <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                                <support>paper</support>
-                                <extent>1 scroll
+                            <supportDesc material="紙本"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
+                                <support>mulberry and bamboo mixed paper 紙本</support>
+                                <extent>1 scroll 一軸
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
                         https://git.io/msdescdoc#leafDimensions
@@ -112,7 +116,9 @@
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
                                 <p>立軸</p>
-                                <decoNote>一色裱，天頭地脚為淺藍色有花紋絲織物，畫心上下裝裱有白色紙本，保存狀況良好。</decoNote>
+                                <decoNote>
+                                    Scroll, single-color mount. The painting is mounted on light blue silk.
+                                    一色裱，天頭地脚為淺藍色有花紋絲織物，保存狀況良好。</decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>

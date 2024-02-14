@@ -57,15 +57,23 @@
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            <title>明董其昌書倪瓚題畫增王仲和 軸</title>
-                            <author key="Chinese">董其昌（1555-1636）</author>
-                            <incipit>曾住湖山宅，於今已十年。叢筠還自毉，蒿木故依然。兩雜鳴琴溜，雲連煮术泉。何時香過此，瀾醉得佳眠。</incipit>
-                            <incipit >其昌</incipit>
+                            <title key="supplied title">明董其昌書倪瓚題畫增王仲和 軸</title>
+                            <title key="supplie title" xml:lang="en">A scroll of calligraphy attributed to Dong Qi Chang</title>
+                            <author  key="Q537211">   
+                                <persName>董其昌</persName>
+                                <persName type="字">玄宰</persName>
+                                <persName type="號"> 思白</persName>
+                                <persName type="號"> 思翁</persName>
+                                <persName type="號"> 香光居士</persName>
+                                <date notAfter="1700" notBefore="1500" calendar="Gregorian">1555-1636</date>
+                            </author>
+                            <incipit type="釋文">曾住湖山宅，於今已十年。叢筠還自毉，蒿木故依然。兩雜鳴琴溜，雲連煮术泉。何時香過此，瀾醉得佳眠。</incipit>
+                            <incipit type="款識">其昌</incipit>
                             <incipit type="seal">太史氏</incipit>
                             <incipit type="seal">董其昌印</incipit>
                             <explicit type="題簽">董其昌<note>題簽有破損</note></explicit>
                             <explicit type="題簽">specimen of writing by Tung Chi-chang, the great calligrapher of Ming dynasty. B/324</explicit>
-                            <note>原詩為元朝倪瓚所作《題畫增王仲和》，詩雲“曾住南湖宅，於今已十年。叢筠還自翳，喬木故依然。
+                            <note type="注">原詩為元朝倪瓚所作《題畫增王仲和》，詩雲“曾住南湖宅，於今已十年。叢筠還自翳，喬木故依然。
                                   雨雜鳴渠溜，雲連煮术煙。何時重相過，爛醉得佳眠。”本卷所寫略有不同。</note>
                             <filiation>書法卷軸，中外孤本。</filiation>  
                         </msItem>
@@ -76,8 +84,8 @@
                         
                         <objectDesc form="立軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
                             <supportDesc material="絹本"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                                <support>silk</support>
-                                <extent>1 scroll
+                                <support>silk 絹本</support>
+                                <extent>1 scroll 一軸
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
                         https://git.io/msdescdoc#leafDimensions
@@ -115,7 +123,9 @@
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
                                 <p>立軸</p>
-                                <decoNote>立軸,一色表,天頭地脚原爲淺黃色絲織物,現已褪色，大部分變爲米白色，行書字跡書寫于黃色有花紋絹本上。有破損痕跡。</decoNote>
+                                <decoNote>
+                                    Vertical scroll, single-color mount. The top and bottom, originally light yellow silk fabric, have now faded, with most of it turning into beige. The running script calligraphy is written on yellow floral-patterned silk. There are traces of damage.
+                                    立軸,一色裱,天頭地脚原爲淺黃色絲織物,現已褪色，大部分變爲米白色，行書字跡書寫于黃色有花紋絹本上。有破損痕跡。</decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>
@@ -134,7 +144,7 @@
                                 <settlement><!-- insert --></settlement>,
                                 <orgName><!-- insert --></orgName>
                             </origPlace>
-                            <origDate notAfter="1700" notBefore="1500" calendar="Gregorian">晚明</origDate>
+                            <origDate notAfter="1700" notBefore="1500" calendar="Gregorian">年代不詳，概因真僞未辨。</origDate>
                             <!-- use additional origPlace and origDate elements if necessary -->
                         </origin>
                         <provenance> </provenance>

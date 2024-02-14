@@ -59,9 +59,14 @@
                             <locus><!-- insert --></locus>
                             <title key="supplied title">清董誥書李白南軒松 軸</title>
                             <title key="supplie title" xml:lang="en">A scroll of calligraphy attributed to Dong Gao</title>
-                            <author key="Chinese">董誥（1740-1818）</author>
+                            <author key="Q15725501">   
+                                <persName>董誥</persName>
+                                <persName type="字">雅倫</persName>
+                                <persName type="號">蔗林</persName>
+                                <date notAfter="1900" notBefore="1700" calendar="Gregorian">1740-1818</date>
+                            </author> 
                             <incipit type="釋文">南軒有孤松，柯葉自綿幕。清風無間時，瀟洒終日夕。陰生古苔綠，色染秋煙碧。何當凌雲霄，直上數千尺。</incipit>
-                            <incipit type="款識">柘林<persName>董誥</persName></incipit>
+                            <incipit type="款識">柘林董誥</incipit>
                             <note type="注">兩枚印章模糊</note>
                             <explicit type="題簽">B/291 m catalogue scroll of stateman Tung Kao</explicit>
                             <filiation>書法卷軸，中外孤本。</filiation>  

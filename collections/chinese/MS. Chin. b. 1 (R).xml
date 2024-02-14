@@ -51,15 +51,22 @@
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>A scroll of Chinese painting depicts a lively scene of urban life along the river during the Qingming Festival in Ming dynasty of China. </summary>
+                        <summary>A scroll of Chinese painting depicts a lively scene of urban life along the river during the Qing Ming Festival in Ming dynasty of China. </summary>
                         <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
                         
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            <title > CH'OU YING:[silk roll: scenes on the banks of the Tsing Ming]</title>
-                            <author key="Chinese">仇英</author>
-                            <title>清明上河圖</title>
+                            <title key="supplied title">明仇英繪清明上河圖 卷</title>
+                            <title key="supplie title" xml:lang="en">A scroll of Chinese painting featuring scenes on baks of the Qing Ming attributed to Qiu Ying</title>
+                            <author key="Q3576147">   
+                                <persName>仇英</persName>
+                                <persName type="字">實父</persName>
+                                <persName type="號">十洲</persName>
+                                <date notAfter="1600" notBefore="1400" calendar="Gregorian">1494-1552</date>
+                            </author>  
+                            <incipit type="款識">仇英實父製</incipit>
+                            <incipit type="seal">十州</incipit>
                             <filiation>手繪卷軸，中外孤本。</filiation>
                             
                         </msItem>
@@ -70,7 +77,7 @@
                         <objectDesc form="卷軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
                             <supportDesc material="絹本"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
                                 <support>silk</support>
-                                <extent>畫心
+                                <extent>1 scroll 絹本
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
                         https://git.io/msdescdoc#leafDimensions
@@ -83,15 +90,14 @@
                                 <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>卷軸，紙本，設色。</layout>
+                                <layout>卷軸，絹本，設色。</layout>
                                 
                             </layoutDesc>
                         </objectDesc>
                         
                         <handDesc><!-- use the @hands attribute to record the number of scribes -->
                             <handNote>
-                                Text written in 楷體 (kai shu, regular) calligraphic style.
-                                清明上河圖，据傳為仇英作品。</handNote>
+                                Text written in 楷體 (kai shu, regular) calligraphic style.</handNote>
                             <!-- use additional handNote elements if necessary 
                      https://git.io/msdescdoc#handdesc
                      -->
@@ -103,7 +109,7 @@
                      -->
                         </musicNotation>
                         <decoDesc>
-                            <decoNote>大鑲手卷，天為藍色絲織物。隔水為白色絲織物。引首為淡黃色紙本，上書“清明上河圖”，拖尾為白色紙本。邊為米色絲織物。錦包首為黃色絲織物伴有祥雲騰龍壽字紋，題簽為白色紙本，無字空白。
+                            <decoNote>
                             </decoNote>
                             <!-- use additional decoNote elements if necessary 
                      https://git.io/msdescdoc#decodesc
@@ -113,7 +119,9 @@
                         <bindingDesc>
                             <binding when="1600"><!-- use dating attributes to record the date -->
                                 <p>卷軸</p>
-                                <decoNote><!-- insert relevant information, otherwise delete --></decoNote>
+                                <decoNote>Handscroll with wide borders (大鑲手卷): The protective and decorative backing (錦包首) is crafted from yellow silk adorned with cloud and dragon patterns. The title label (題簽) is composed of white Chinese paper. The 'Heaven' section (天) is fashioned from blue silk. Vertical stripes (隔水) and borders feature white silk. The frontispiece (引首) is made of beige Chinese paper, while the colophon section (拖尾) is crafted from traditional white Chinese paper.
+                                    大鑲手卷，錦包首為黃色絲織物伴有祥雲騰龍壽字紋，題簽為白色紙本。天為藍色絲織物，隔水和邊為米白色絲織物。引首為淡黃色紙本，拖尾為白色紙本。
+                                </decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>
@@ -132,10 +140,13 @@
                                 <settlement><!-- insert --></settlement>,
                                 <orgName><!-- insert --></orgName>
                             </origPlace>
-                            <origDate notAfter="1900" notBefore="1600" calendar="Gregorian">清代</origDate>
+                            <origDate notAfter="1900" notBefore="1600" calendar="Gregorian">年代不詳，因真僞待辨</origDate>
                             <!-- use additional origPlace and origDate elements if necessary -->
                         </origin>
-                        <provenance> </provenance>
+                        <provenance>Record retrieved from the Bodleian Oriental Manuscript Catalogue: 
+                            language:	Chinese
+                            shelfmark:	MS.Chin.b.1(R)
+                            content:	CH'OU YING: [silk roll: scenes from the Ch'ing Ming festival]</provenance>
                         
                         
                         <!-- use additional provenance elements if necessary -->

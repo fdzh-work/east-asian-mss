@@ -51,15 +51,24 @@
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>A hanging scroll of Chinese calligraphy written in Xingshu style by Dong Qichang (董其昌，1555-1636)</summary>
+                        <summary>A hanging scroll of Chinese calligraphy written in Xingshu style attributed to Dong Qichang (董其昌，1555-1636)</summary>
                         <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
                         
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            <title>明董其昌書杜甫承聞河北諸節度使入朝歡喜口號絕句十二首之一 軸</title>
-                            <author key="Chinese">董其昌（1555-1636）</author>
-                            <incipit>东逾辽水北滹沱，星象风云喜共和。紫气关临天地阔，黄金台贮俊贤多。</incipit>
+                            <title key="supplied title">明董其昌書杜甫承聞河北諸節度使入朝歡喜口號絕句十二首之一 軸</title>
+                            <title key="supplie title" xml:lang="en">A scroll of calligraphy attributed to Dong Qi Chang</title>
+
+                            <author  key="Q537211">   
+                                <persName>董其昌</persName>
+                                <persName type="字">玄宰</persName>
+                                <persName type="號"> 思白</persName>
+                                <persName type="號"> 思翁</persName>
+                                <persName type="號"> 香光居士</persName>
+                                <date notAfter="1700" notBefore="1500" calendar="Gregorian">1555-1636</date>
+                            </author>
+                            <incipit type="釋文">东逾辽水北滹沱，星象风云喜共和。紫气关临天地阔，黄金台贮俊贤多。</incipit>
                             <incipit type="seal">董其昌印</incipit>
                             <incipit type="seal">宗伯之章</incipit>
                             <incipit type="seal">百賞齋</incipit>
@@ -75,9 +84,9 @@
                     <physDesc>
                         
                         <objectDesc form="立軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
-                            <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                                <support>mulberry and bamboo mixed paper</support>
-                                <extent>1 scroll
+                            <supportDesc material="紙本"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
+                                <support>mulberry and bamboo mixed paper 紙本</support>
+                                <extent>1 scroll 一軸
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
                         https://git.io/msdescdoc#leafDimensions
@@ -115,7 +124,8 @@
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
                                 <p>立軸</p>
-                                <decoNote>立軸,宣和裝,天頭地脚爲淺藍色絲織物,上下隔水和驚燕是米白色絲織物，行書字跡書寫于白色紙上,背面有淺藍色絲織物錦包首。</decoNote>
+                                <decoNote>立軸,宣和裝,天頭地脚爲淺藍色絲織物,上下隔水和驚燕是米白色絲織物，行書字跡書寫于白色紙上,背面有淺藍色絲織物錦包首。
+                                    Vertical scroll, mounted in the Xuānhe style. The 'Heaven' (天) and 'Earth' (地) sections are adorned with light blue silk fabric. The separating strips, borders, and floating ribbons (飄帶) should be made of white silk fabric. The brocade wrapper (錦包首) is crafted from light blue silk.</decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>

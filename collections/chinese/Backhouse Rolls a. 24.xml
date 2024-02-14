@@ -51,19 +51,23 @@
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>A hanging scroll of Chinese painting depicts peach blossoms and goose created by Zou Yi Gui （鄒一桂, 1686-1772）. 
-                                 書畫卷軸，作者為鄒一桂 （1686-1772）。</summary>
+                        <summary>A hanging scroll of Chinese painting depicts peach blossoms and goose created by Zou Yi Gui （鄒一桂, 1686-1772）. </summary>
                         <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
                         
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            <title>清鄒一桂畫花鳥 軸</title>
-                            <author key="Chinese">鄒一桂 （1686-1772）</author>
-                            <title type="desc">peach blossom 桃花</title>
-                            <title type="desc">daffodil 水仙</title>
-                            <title type="desc">goose 鵝</title>
-                            <incipit>晴雲紅粉覆春煙，仿佛江南二月天。記得踏春回首処，一樓畔倚山崖前。<placeName>錫山</placeName><persName>鄒一桂</persName></incipit>
+                            <title key="supplied title">清鄒一桂畫花鳥 軸</title>
+                            <title key="supplie title" xml:lang="en">A scroll of calligraphy attributed to Zou Yi Gui</title>
+                            <author key="Q3576147">        
+                                <persName>鄒一桂</persName>
+                                <persName type="字">原褒</persName>
+                                <persName type="號">小山</persName>
+                                <persName type="號">二知老人</persName>
+                                <date notAfter="1800" notBefore="1600" calendar="Gregorian">1686-1772</date>
+                            </author>
+                            <incipit type="釋文">晴雲紅粉覆春煙，仿佛江南二月天。記得踏春回首処，一樓畔倚山崖前。</incipit>
+                            <incipit type="款識">錫山鄒一桂</incipit>
                             <incipit type="seal">鄒一桂</incipit>
                             <incipit type="seal">水山</incipit>
                            <explicit type="題簽">錫山 畫</explicit>
@@ -115,7 +119,8 @@
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
                                 <p>立軸</p>
-                                <decoNote>二色裱，天頭地脚是 白色紙本，上下隔水是祥雲騰龍紋樣白色絲綢，有摺痕。</decoNote>
+                                <decoNote>Vertical scroll, two-color mounting. The 'Heaven' section, 'Earth' section are made of white Chinese paper, while the separating strips are white jacquard silk. The scroll displays signs of bending.
+                                           二色裱，天頭地脚是白色紙本，上下隔水是祥雲騰龍紋樣白色絲綢，有摺痕。</decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>

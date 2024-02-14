@@ -51,16 +51,21 @@
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>A hanging scroll of Chinese calligraphy written in Xing Shu style. Based on the seal, it is likely to be written by Kangxi Emperor (1654-1722) of Qing dynasty.</summary>
+                        <summary>A hanging scroll of Chinese calligraphy written in Xing Shu style attributed to Kang Xi Emperor (1654-1722) of Qing dynasty.</summary>
                         <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
                         
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            <title>清康熙皇帝書朱熹詩 軸</title>
-                            <author key="Chinese">康熙皇帝 (1654-1722)</author>
-                            <incipit>草閣臨喜地，江室秋月寒。亦知奇絕景，未必要人秀。</incipit>
-                            <incipit>朱子詩</incipit>
+                            <title key="supplied title">清康熙皇帝書朱熹詩 軸</title>
+                            <title key="supplie title" xml:lang="en">A scroll of calligraphy attributed to Kang Xi Emperor</title>
+                            <author key="Q17790">        
+                                <persName>愛新覺羅玄燁</persName>
+                                <persName type="title">康熙帝</persName>
+                                <date notAfter="1800" notBefore="1600" calendar="Gregorian">1654-1722</date>
+                            </author>
+                            <incipit type="釋文">草閣臨喜地，江室秋月寒。亦知奇絕景，未必要人秀。</incipit>
+                            <incipit type="釋文">朱子詩</incipit>
                             <incipit type="seal">康熙宸翰</incipit>
                             <incipit type="seal">敕幾清晏</incipit>
                             <incipit type="seal">淵鑑齋</incipit>
@@ -73,9 +78,9 @@
                     <physDesc>
                         
                         <objectDesc form="立軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
-                            <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                                <support>mulberry and bamboo mixed paper</support>
-                                <extent>1 scroll
+                            <supportDesc material="紙本"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
+                                <support>mulberry and bamboo mixed paper 紙本</support>
+                                <extent>1 scroll 一軸
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
                         https://git.io/msdescdoc#leafDimensions
@@ -88,7 +93,7 @@
                                 <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>书法卷轴.墨色书写</layout>
+                                <layout>书法卷轴，墨色书写</layout>
                                 
                             </layoutDesc>
                             
@@ -113,7 +118,9 @@
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
                                 <p>立軸</p>
-                                <decoNote>立軸,一色裱。天頭地脚和邊是明黃色祥雲龍紋絲織物，龍為五爪。書法寫與米色灑金紙本上。有摺痕</decoNote>
+                                <decoNote>
+                                    Vertical scroll with a single-color mount. The top, bottom, and borders are adorned with a bright yellow silk featuring dragon pattern. The calligraphy is inscribed on white paper with gilt decoration. The scroll exhibits signs of bending.
+                                    立軸,一色裱。天頭地脚和邊為明黃色祥雲龍紋絲織物。書法寫於米色灑金紙本上。有摺痕。</decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>
