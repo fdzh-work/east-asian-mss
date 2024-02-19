@@ -58,7 +58,7 @@
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
                             
-                            <title type="desc">清康熙御書詩二首 軸</title>
+                            <title key="supplie title">清康熙御書詩二首 卷</title>
                             <title key="supplie title" xml:lang="en">A calligraphy scroll attributed to Emperor Kang Xi</title>
                             <author key="Q17790">        
                                 <persName>愛新覺羅玄燁</persName>
@@ -70,7 +70,8 @@
                                      翠樓春洒蝦蟆陵，長安少年皆共景。
                                      紛紛半醉綠槐道，躞蹀花驄驕不勝。</incipit>
                             <incipit type="seal">康熙宸翰</incipit>
-                            <incipit type="seal">剑泉鑑藏 <note>景其濬之鈐印。景其濬，字劍泉，進士出身，晚清政治人物</note></incipit>
+                            <incipit type="seal">剑泉鑑藏</incipit>
+                            <note type="注">剑泉鑑藏為景其濬之鈐印。景其濬，字劍泉，進士出身，晚清政治人物</note>
                             <explicit type="題簽">Emperor Kanghsi’s autograph poem</explicit>
                             <explicit type="題簽">圖書館</explicit>
                             

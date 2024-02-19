@@ -58,10 +58,12 @@
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            <title key="supplied title">Sacred Buddhist Pictures</title>
+                            <title key="supplied title">清佚名繪十殿閻王圖 軸</title>
+                            <title key="supplied title" xml:lang="en">Two hanging scrolls featuring depictions of the underworld in traditional Chinese mythology</title>
                             <author key="_unknown">unknown</author>
                             <msItem>
-                            <title key="subtitle">五殿閻羅王<note>Emperor Yan Luo of the fifth hall of the underworld</note></title>
+                                <title key="subtitle">五殿閻羅王</title>
+                                <note type="注">Emperor Yan Luo of the fifth hall of the underworld</note>
                                 <incipit type="注">正月？八日五殿閻？子聖誕 (題簽有缺損，故字不全)</incipit>
                                 <incipit type="釋文">心平和象助善成功送過金橋得生福地永遺無穷</incipit>
                                 <incipit type="釋文">生前過惡大死后說好人萬般將不去惟有葉隨身望鄉薹上無好人廽之晚矣</incipit>
@@ -70,7 +72,8 @@
                             <explicit type="背面">8</explicit></msItem>
                            
                            <msItem>
-                            <title key="subtitle">六殿卞城王<note>Emperor Bian Cheng of the sixth hall of the underworld</note></title>
+                               <title key="subtitle">六殿卞城王</title>
+                               <note type="注">Emperor Bian Cheng of the sixth hall of the underworld</note>
                                <incipit type="注">三月初八日陸殿卞城王聖誕</incipit>
                                <incipit type="釋文">歷年週濟貧苦結糧濟窮代代子孫身受榮華不爽</incipit>
                                <incipit type="釋文">凡人修盖廟宇補修聖殿者後輩子孫登科甲弟福祿綿延永遠並臻</incipit>

@@ -51,13 +51,15 @@
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>A hanging scroll of Chinese painting and calligraphy attributed to Gao Qipei (高其佩 1660-1734), thoughthough it is highly probable to be a replica.</summary>
+                        <summary>A hanging scroll of Chinese painting and calligraphy attributed to Gao Qi Pei (高其佩 1660-1734), thoughthough it is highly probable to be a replica.</summary>
                         <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
                         
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            <title>清高其佩餘樂圖 軸</title>
+                            <title key="supplied title">清高其佩餘樂圖 軸</title>
+                            <title key="supplie title" xml:lang="en">A scroll of painting attributed to Gao Qi Pei</title>
+
                             <author key="Q698454">   
                                 <persName>高其佩</persName>
                                 <persName type="字">韋之</persName>
@@ -121,10 +123,7 @@
                             <binding when="1800"><!-- use dating attributes to record the date -->
                                 <p>立軸</p>
                                 <decoNote>
-                                    A hanging scrolls adorned in the one-colour mount style with jacquard 
-                                    white silk as the ‘Heaven’ section (天頭), the ‘Earth’ section (地脚) 
-                                    and the borders. The 'painted heart' (畫心) is meticulously crafted 
-                                    from white Chinese paper. The label is made of red Chinese paper.
+                                    A hanging scrolls adorned in the one-colour mount style with jacquard white silk as the ‘Heaven’ section (天頭), the ‘Earth’ section (地脚) and the borders. The 'painted heart' (畫心) is meticulously crafted from white Chinese paper. The label is made of red Chinese paper.
                                     立軸,一色裱。天頭地脚和邊是白色有花紋絲織物。畫心為白色紙本。背面題簽為紅色紙本。</decoNote>
                             </binding>
                         </bindingDesc>

@@ -59,21 +59,28 @@
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            <title type="desc">清徐桐行書七言聯 軸</title>
-                            <author key="Chinese">徐桐(1819-1900)</author>
-                            <incipit>書為</incipit>
+                            <title key="supplie title">清徐桐行書七言聯 軸</title>
+                            <title key="supplie title" xml:lang="en">A pair of calligraphy scrolls attributed to Xu Tong</title>
+                            <author key="Q11070749">   
+                                <persName>徐桐</persName>
+                                <persName type="字">豫如</persName>
+                                <persName type="號">廕軒</persName>
+                                <date notAfter="1900" notBefore="1800" calendar="Gregorian">1819-1900</date>
+                            </author>
+                            
+                            <msItem><incipit>書為</incipit>
                             <incipit>通經致用真儒者</incipit>
-                            <incipit>茀亭仁兄大人清政</incipit>
+                            <incipit type="款識">茀亭仁兄大人清政</incipit>
                             <explicit type="背面">Backhouse Rolls c.7(1)</explicit>
                             <explicit type="背面">徐桐</explicit>
-                            <explicit type="背面">B/333</explicit>
+                            <explicit type="背面">B/333</explicit></msItem>
                             
-                            <title type="下聯">下聯</title>
+                           <msItem><title type="下聯">下聯</title>
                             <incipit>治囯如家古大臣</incipit>
                             <incipit type="款識">蔭軒弟徐桐</incipit>
                             <incipit type="seal">蔭軒</incipit>
                             <incipit type="seal">徐桐印</incipit>
-                            <explicit type="背面">徐桐</explicit>
+                            <explicit type="背面">徐桐</explicit></msItem> 
                             <filiation>書法卷軸，中外孤本。</filiation>  
                         </msItem>
                         <!-- insert further msItem elements as appropriate --> 
@@ -82,8 +89,8 @@
                     <physDesc>
                         
                         <objectDesc form="立軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
-                            <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                                <support>mulberry and bamboo mixed paper</support>
+                            <supportDesc material="紙本"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
+                                <support>mulberry and bamboo mixed paper 紙本</support>
                                 <extent>2 scrolls 二軸
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
@@ -122,8 +129,9 @@
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
                                 <p>立軸</p>
-                                <decoNote>立軸,裝裱方式為一色裱，天頭與地脚為黑色帶淺棕色花紋絲織物，畫心為黃色紙本。兩軸均破損較嚴重,
-                                    上聯上半部“通”字的位置和下半部“儒”字的位置有破損痕跡,外加地棍処斷裂;下聯地棍処斷裂.兩軸背面均有磨損痕跡。</decoNote>
+                                <decoNote>
+                                    Vertical scrolls in pairs, mounted in a one-color mount, with the top and bottom adorned in black silk fabric with brown patterns. There are creases, watermarks, and signs of damage.
+                                    立軸,裝裱方式為一色裱，天頭與地脚為黑色帶淺棕色花紋絲織物，畫心為黃色紙本。兩軸均破損較嚴重。</decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>

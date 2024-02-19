@@ -57,12 +57,18 @@
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            <title>清乾隆皇帝書豐澤園演耕畢憩春耦齋作 軸</title>
-                            <author key="Chinese">乾隆皇帝 (1711-1799)</author>
-                            <incipit>演字曾無六經見，由來訓習久沿訛。可因已罷數年閱，未得仍停此日過。
+                            <title key="supplied title">清乾隆皇帝書豐澤園演耕畢憩春耦齋作 軸</title>
+                            <title key="supplie title" xml:lang="en">A scroll of calligraphy attributed to Qian Long Emperor</title>
+                            
+                            <author  key="Q19133">   
+                                <persName>愛新覺羅弘歷</persName>
+                                <persName type="title">乾隆皇帝</persName>
+                                <date notAfter="1800" notBefore="1700" calendar="Gregorian">1711-1799</date>
+                            </author> 
+                            
+                            <incipit type="釋文">演字曾無六經見，由來訓習久沿訛。可因已罷數年閱，未得仍停此日過。
                                 實以劭農爰再舉，亦堪擒藻事重哦。自疆不息傳羲象，斯即一端切己多。</incipit>
-                            <incipit>演耕毕臨憩有作</incipit>
-                            <incipit><date>甲午暮春</date>御筆</incipit>
+                            <incipit  type="款識">演耕毕臨憩有作 甲午暮春御筆</incipit>
                             <incipit type="seal">乾隆御筆</incipit>
                             <incipit type="seal">正誼明道</incipit>
                             <explicit type="題簽">乾隆御筆</explicit>
@@ -74,9 +80,9 @@
                     <physDesc>
                         
                         <objectDesc form="立軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
-                            <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                                <support>mulberry and bamboo mixed paper</support>
-                                <extent>1 scroll
+                            <supportDesc material="紙本"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
+                                <support>mulberry and bamboo mixed paper 紙本</support>
+                                <extent>1 scroll 一軸
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
                         https://git.io/msdescdoc#leafDimensions
@@ -114,7 +120,9 @@
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
                                 <p>立軸</p>
-                                <decoNote>立軸,二色裱。天頭地脚和邊是藍色絲織物，有祥雲騰龍花紋，隔水是米白色有花紋絲織物。書法寫與黃色紙本上。立軸背面有米黃色絲織物錦包首，天杆処有題簽，上有字跡“乾隆御筆”。</decoNote>
+                                <decoNote>Vertical scroll, two-color mount. The 'Heaven' section, 'Earth' section, and borders are made of light-blue jacquard silk fabric, while the separating strips are white jacquard silk fabric. The calligraphy is written on yellow paper. The title label is crafted from light-brown paper.
+                                    立軸,二色裱。天頭地脚和邊是藍色絲織物，有祥雲騰龍花紋，隔水是米白色有花紋絲織物。書法寫於黃色紙上。立軸背面有淺黃色絲織物錦包首，題簽為棕色紙本。
+                                </decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>

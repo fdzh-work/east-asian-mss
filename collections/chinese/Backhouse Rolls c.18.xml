@@ -59,21 +59,27 @@
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            <title type="desc">清何展采行書七言聯 軸</title>
-                            <author key="Chinese">何展采</author>
-                            <incipit>念兹仁兄大人雅正</incipit>
+                            <title key="supplie title">清何展采行書七言聯 軸</title>
+                            <title key="supplie title" xml:lang="en">A pair of calligraphy scrolls attributed to He Zhan Cai</title>
+                            
+                            <author key="_hezhancai">        
+                                <persName>何展采</persName>
+                            </author>
+                            
+                            <msItem><title type="上聯">上聯</title>
+                            <incipit type="款識">念兹仁兄大人雅正</incipit>
                             <incipit>清譚久領陳驚座</incipit>
                             <explicit type="背面">Backhouse Rolls c.18(1)</explicit>
-                            <explicit type="背面">何展采 對</explicit>
+                                <explicit type="背面">何展采 對</explicit></msItem>
                             
-                            <title type="下聯">下聯</title>
+                            <msItem><title type="下聯">下聯</title>
                             <incipit>後句新傳趙依樓</incipit>
                             <incipit type="款識">蔭甫何展采</incipit>
                             <incipit type="seal">何展采印</incipit>
                             <incipit type="seal">蔭甫</incipit>
                             <explicit type="背面">何展采 對</explicit>
                             <explicit type="背面">B/329</explicit>
-                            <explicit type="背面">Backhouse Rolls c.18(2)</explicit>
+                                <explicit type="背面">Backhouse Rolls c.18(2)</explicit></msItem>
                             <filiation>書法卷軸，中外孤本。</filiation>  
                         </msItem>
                         <!-- insert further msItem elements as appropriate --> 
@@ -82,8 +88,8 @@
                     <physDesc>
                         
                         <objectDesc form="立軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
-                            <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                                <support>mulberry and bamboo mixed paper</support>
+                            <supportDesc material="紙本"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
+                                <support>mulberry and bamboo mixed paper 紙本</support>
                                 <extent>2 scrolls 二軸
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
@@ -122,7 +128,9 @@
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
                                 <p>立軸</p>
-                                <decoNote>立軸,裝裱方式為一色裱，天頭與地脚為淺藍色絲織物，畫心為黃色紙本。有輕微的污跡和摺痕。</decoNote>
+                                <decoNote>
+                                    Vertical scroll with a single-color mount. The top, bottom, and borders are adorned with a light blue silk. The calligraphy is inscribed on yellow paper. The screens has signs of bending and watermark. 
+                                    立軸,裝裱方式為一色裱，天頭與地脚為淺藍色絲織物，畫心為黃色紙本。有輕微的污跡和摺痕。</decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>

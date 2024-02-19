@@ -53,27 +53,33 @@
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>A pair of scrolls of calligraphy in the Xing Shu style by Emperor Qianlong (1711-1799) of Qing dynasty.</summary>
+                        <summary>A pair of scrolls of calligraphy in the Xing Shu style by Emperor Qian Long (1711-1799) of Qing dynasty.</summary>
                         <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
                         
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            <title type="desc">清高宗行書七言聯</title>
-                            <author key="Chinese">愛新覺羅弘歷(1711-1799)</author>
-                            <title type="上聯">上聯</title>
+                            <title key="supplie title">清乾隆帝行書七言聯 軸</title>
+                            <title key="supplie title" xml:lang="en">A pair of calligraphy scrolls attributed to Emperor Qian Long</title>
+                            <author  key="Q19133">   
+                                <persName>愛新覺羅弘歷</persName>
+                                <persName type="title">乾隆皇帝</persName>
+                                <date notAfter="1800" notBefore="1700" calendar="Gregorian">1711-1799</date>
+                            </author> 
+                           
+                            <msItem><title type="上聯">上聯</title>
                             <incipit>自覺雲林延靜賞</incipit>
                             <incipit type="seal">奉三無私</incipit>
                             <explicit type="背面">Pair of scrolls</explicit>
                             <explicit type="背面">Autograph of Emperor Chianlung</explicit>
-                            <explicit type="背面">乾隆御筆</explicit>
+                            <explicit type="背面">乾隆御筆</explicit></msItem>
                             
-                            <title type="下聯">下聯</title>
+                           <msItem><title type="下聯">下聯</title>
                             <incipit>喜從香界覓新題</incipit>    
                             <incipit type="seal">乾隆宸翰</incipit>
                             <incipit type="seal">惟精惟一</incipit>
                             <explicit type="背面">Backhouse Rolls c.16(2)</explicit>
-                            <explicit type="背面">乾隆御筆</explicit>
+                            <explicit type="背面">乾隆御筆</explicit></msItem> 
                             <filiation>書法卷軸，中外孤本。</filiation>  
                         </msItem>
                         <!-- insert further msItem elements as appropriate --> 
@@ -82,8 +88,8 @@
                     <physDesc>
                         
                         <objectDesc form="立軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
-                            <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                                <support>mulberry and bamboo mixed paper</support>
+                            <supportDesc material="紙本"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
+                                <support>mulberry and bamboo mixed paper 紙本</support>
                                 <extent>2 scrolls 二軸
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
@@ -97,7 +103,7 @@
                                 <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>书法卷轴.墨色书写，紙本。</layout>
+                                <layout>书法卷轴，墨色书写，紙本。</layout>
                                 
                             </layoutDesc>
                             
@@ -122,7 +128,9 @@
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
                                 <p>立軸</p>
-                                <decoNote>立軸,裝裱方式為一色裱，天頭與地脚為黃色絲織物。書法寫於粉紅色描金花卉紋紙本上。有彎折水印污損痕跡.</decoNote>
+                                <decoNote>
+                                    Vertical scrolls in pair, mounted in a single-color mount, with the top and bottom adorned in yellow silk fabric. The calligraphy is written on pink paper with a gold floral pattern. There are creases, watermarks, and traces of staining.
+                                    立軸,裝裱方式為一色裱，天頭與地脚為黃色絲織物。書法寫於粉紅色描金花卉紋紙本上。有彎折水印污損痕跡。</decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>

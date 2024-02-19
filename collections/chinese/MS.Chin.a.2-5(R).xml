@@ -58,10 +58,12 @@
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            <title key="supplied title">Sacred Buddhist Pictures</title>
+                            <title key="supplied title">清佚名繪十殿閻王圖 軸</title>
+                            <title key="supplied title" xml:lang="en">Four hanging scrolls featuring depictions of the underworld in traditional Chinese mythology</title>
                             <author key="_unknown">unknown</author>
                             <msItem>
-                            <title key="subtitle">三殿宋帝王<note>Emperor Song of the third hall of the underworld</note></title>
+                            <title key="subtitle">三殿宋帝王</title>
+                                <note type="注">Emperor Song of the third hall of the underworld</note>
                             <incipit type="注">叁殿[？]誕</incipit>
                                 <incipit type="釋文">修補道路界殺放牲必得延年長生之樂</incipit>
                                 <incipit type="釋文">造千萬人來往之橋代代家有吉神穫福</incipit>
@@ -70,7 +72,8 @@
                                 <explicit type="背面">MS. Chin. a. 2 (R)</explicit></msItem>
                            
                            <msItem>
-                            <title key="subtitle">四殿五官王<note>Emperor Wu Guan of the forth hall of the underworld</note></title>
+                               <title key="subtitle">四殿五官王</title>
+                               <note type="注">Emperor Wu Guan of the forth hall of the underworld</note>
                                <incipit  type="注">二月十八日肆殿五官王聖誕</incipit>
                                <incipit type="釋文">施捨棺木并葬用錢文世世子孫富厚家有吉神保佑</incipit>
                                <incipit type="釋文">用大斗小秤出納不公難逃此獄受苦戒之戒之</incipit>
@@ -79,7 +82,8 @@
                                <explicit type="背面">MS. Chin. a. 3 (R)</explicit></msItem>
                             
                             <msItem>
-                            <title key="subtitle">八殿平等王<note>Emperor Ping Deng of the eighth hall of the underworld</note></title>
+                                <title key="subtitle">八殿平等王</title>
+                                <note type="注">Emperor Ping Deng of the eighth hall of the underworld</note>
                                 <incipit  type="注">四月初八日玖殿平等王聖誕 （此畫的神像頭部上方文字“八殿平等王”有錯誤，題簽上正確，一般民間傳説應是八殿都市王，九殿平等王。）</incipit>
                                 <incipit type="釋文">凡人在世金裝佛相塑画神体捨財助善生生常得樂寿之報永遠綿綿</incipit>
                                 <incipit type="釋文">或為父母或為孝悌施齋供象永享長生安康之樂</incipit>
@@ -89,7 +93,8 @@
                                 <explicit type="背面">MS. Chin. a. 4 (R)</explicit></msItem>
                             
                             <msItem>
-                            <title key="subtitle">十殿轉輪王<note>Emperor Zhuan Lun of the tenth hall of the underworld</note></title>
+                                <title key="subtitle">十殿轉輪王</title>
+                                <note type="注">Emperor Zhuan Lun of the tenth hall of the underworld</note>
                                 <incipit  type="注">四月十七日拾殿轉輪王聖誕</incipit>
                                 <incipit type="釋文">惟善者施始度船接修橋路後代子孫登科貴顯之兆</incipit>
                                 <incipit type="釋文">印寫善書代權善經文化人成德者果報明鏡智恚不爽</incipit>

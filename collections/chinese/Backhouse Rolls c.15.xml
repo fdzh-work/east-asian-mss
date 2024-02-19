@@ -60,23 +60,30 @@
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            <title type="desc">清翁方綱行書七言聯</title>
-                            <author key="Chinese">翁方綱 (1733-1818)</author>
-                            <note>翁方綱 (1771-1840),字忠叙，一字正三,號覃谿,晚號蘇齋,順天府大興縣人,清代書法家，文學家，金石學家。</note>
-                            <title type="上聯">上聯</title>
+                            <title key="supplie title">清翁方綱行書七言聯  轴</title>
+                            <title key="supplie title" xml:lang="en">A pair of calligraphy scrolls attributed to Weng Fang Gang</title>
+                            <author key="Q11610448">   
+                                <persName>翁方綱</persName>
+                                <persName type="字">忠敘</persName>
+                                <persName type="字">正三</persName>
+                                <persName type="號">覃谿</persName>
+                                <persName type="號">蘇齋</persName>
+                                <date notAfter="1900" notBefore="1733" calendar="Gregorian">1733-1818</date>
+                            </author>
+                            <note type="注">翁方綱 (1771-1840),字忠叙，一字正三,號覃谿,晚號蘇齋,順天府大興縣人,清代書法家，文學家，金石學家。</note>
+                            <msItem><title type="上聯">上聯</title>
                             <incipit>客來翠竹茶煙外</incipit>
                             <explicit type="背面">Backhouse Rolls c.15(1)</explicit>
-                            <explicit type="背面">翁方綱 B/309</explicit>
+                            <explicit type="背面">翁方綱 B/309</explicit></msItem>
                             
-                            <title type="下聯">下聯</title>
+                            <msItem><title type="下聯">下聯</title>
                             <incipit>詩在幽蘭雪意閒</incipit>
                             <incipit type="款識">翁方綱</incipit>
                             <incipit type="seal">翁方綱印</incipit>
                             <incipit type="seal">覃谿</incipit>
                             <explicit type="背面">Backhouse Rolls b. 11(2)</explicit>
-                            <explicit type="背面">Rolls of scholar ? Weng Fang Gang. one of the four 
-                                                 famous calligraphers of Qing dynasty.</explicit>
-                            <explicit type="背面">翁方綱</explicit>
+                            <explicit type="背面">Rolls of scholar ? Weng Fang Gang. one of the four famous calligraphers of Qing dynasty.</explicit>
+                            <explicit type="背面">翁方綱</explicit></msItem>
                             
                             <filiation>書法卷軸，中外孤本。</filiation>  
                         </msItem>
@@ -86,8 +93,8 @@
                     <physDesc>
                         
                         <objectDesc form="立軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
-                            <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                                <support>mulberry and bamboo mixed paper</support>
+                            <supportDesc material="紙本"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
+                                <support>mulberry and bamboo mixed paper  紙本</support>
                                 <extent>2 scrolls 二軸
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
@@ -101,7 +108,7 @@
                                 <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>书法卷轴.墨色书写</layout>
+                                <layout>書法卷軸，墨色书写。</layout>
                                 
                             </layoutDesc>
                             
@@ -126,7 +133,8 @@
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
                                 <p>立軸</p>
-                                <decoNote>立軸,一色裱。天頭地脚和邊是銀白色有花紋絲織物，有污漬和破損。畫心為黃色紙本伴有花卉花紋，有磨損彎折及褪色痕跡。上聯有修復痕跡。</decoNote>
+                                <decoNote>Vertical scrolls in pairs with a single-color mount. The top, bottom, and borders are adorned with white jacquard silk. The calligraphy is inscribed on light brown paper with a decorative clouds pattern.
+                                    立軸,一色裱。天頭地脚和邊是銀白色有花紋絲織物，有污漬和破損。畫心為淺棕色紙本伴有祥雲花紋，有磨損彎折及褪色痕跡。上聯有修復痕跡。</decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>

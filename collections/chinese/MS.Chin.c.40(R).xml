@@ -51,13 +51,15 @@
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>A horizontal scroll featuring Chinese calligraphy and painting, attributed to multiple authors including Zhao Mengfu (1254-1322), Meng Qian Qiu, Liu Xun, Zhang Bao, etc.</summary>
+                        <summary>A horizontal scroll featuring Chinese calligraphy and painting attributed to multiple authors; however, the authenticity of this scroll is doubted.</summary>
                         <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
                         
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            <title>清佚名仿元趙孟頫羲獻像書畫 卷</title>
+                            <title key="supplie title">清佚名仿元趙孟頫羲獻像書畫 卷</title>
+                            <title key="supplie title" xml:lang="en">A horizontal scroll featuring Chinese calligraphy and painting attributed to multiple authors</title>
+                          
                             <author key="Q197461">   
                                 <persName>趙孟頫</persName>
                                 <persName type="字">子昂</persName>
@@ -69,19 +71,16 @@
                             <author key="_mengqianqiu">        
                                 <persName>孟千秋</persName>
                             </author>
-                            
                             <author key="_liuxun">        
                                 <persName>劉勲</persName>
                             </author>
-                            
                             <author key="_zhangbao">        
                                 <persName>張褒</persName>
                             </author>
-                            
                             <author key="_wuzhaorong">        
                                 <persName>吳肇榮</persName>
                             </author>
-                           <msItem>
+
                             <incipit type="釋文">僕於京師見周文矩畫羲獻像歸而摹之時皇慶二年夏五月也</incipit>
                             <incipit type="款識">吳興趙孟頫</incipit>
                             <incipit type="seal">松雪齋</incipit>
@@ -92,9 +91,8 @@
                             <incipit type="seal">魏之璜印</incipit>
                             <incipit type="seal">成親王</incipit>
                             <incipit type="seal">墨林項氏家藏</incipit>
-                            <incipit type="seal">善學古人</incipit></msItem> 
-                          
-                          <msItem>
+                            <incipit type="seal">善學古人</incipit> 
+
                             <incipit type="釋文">王逸少善書，為古今之冠。論者稱爲，筆勢飄若浮雲矯若驚龍。子敬書不減其父，
                                 袁昂乃謂：“如河朔少年充悅舉禮，杳拖而不可耐。“謝安石嘗問子敬：“君書何如君家尊？”答曰：“故黨不同。“
                                 則其父子鑒裁優劣，【概】可見矣。趙魏之研精，翰墨兼得，二王法擅美一時，相玄上下千餘年而人品風流醖藉。
@@ -102,24 +100,21 @@
                                 作。熟視其神情超邁飄飄晉人襟韻，非有潯於心術之微者，烏能及此，又豈若優孟襲叔敖衣冠，徒效其抵掌談笑
                                 而口者哉。</incipit>
                             <incipit type="款識">乙酉嵗正月二十七日壬戍淳安孟千秋書</incipit>
-                            <incipit type="seal">孟千秋印</incipit></msItem>
+                            <incipit type="seal">孟千秋印</incipit>
                            
-                           <msItem>
                             <incipit type="釋文">蘭亭千載求真跡，藻鑑令朝覩右軍。晉代衣冠【？】素練，周家喬梓接青雲。風流如在人空羡，
                                 筆陣通神【去？】莫羣。卻憶吳興趙學士，妙將妙手寫人文。</incipit>
                             <incipit type="款識">文溪劉勲題</incipit>
-                            <incipit type="seal">劉勲</incipit></msItem>
+                            <incipit type="seal">劉勲</incipit>
                            
-                           <msItem>
                             <incipit type="釋文">子昂旅京師，皇慶二年夏游神翰墨間入趣，用即畫濟之晉衣冠風流加蘊藉，而見白鵝群清風動
                                 林野。臨摹入生綃，金玉偕儒稚故此安及之【？】【岱？】傯下愚泉題黨此連城假。莆田孟君拜題時？？十年？正月
                                 二十七也游泮鎮之清觀丹房偕游此黃伯厚</incipit>
                             <incipit type="款識">刋江張褒</incipit>
                             <incipit type="seal">張褒</incipit>
-                            <incipit type="seal">梁清標印</incipit></msItem>
+                            <incipit type="seal">梁清標印</incipit>
                             
-                               <msItem>
-                                   <incipit type="釋文">羲之小傳
+                            <incipit type="釋文">羲之小傳
                                        羲之，字逸少，晉司徒導之從子，尚書郎正之孫，淮南太守曠之子。幼納於言年，十三謁周顗，察而異之。
                                        及長，辨贍，以骨鯁稱，擊書冠古今。論者稱其：飄若浮雲，矯若驚龍。深為諸父敦、導所器重。主薄阮
                                        裕常目，承、悅與羲之為王氏三少，太尉郗鋻使門生求婿於導，令就東廂遍觀，後謁鋻曰：“王氏諸少並佳，
@@ -184,13 +179,11 @@
                                        右松雪翁摹周文矩羲獻像，衣紋染色越二伯，餘年為出，今日不意唐人畫三復及見也，羲獻書名冠晉時，松雪自幼臨摹，
                                        壯而書，老且及黃庭三昧，則其當古人非一朝夕宜其見之，必摹之妙未，後文矩所畫者，何為綬私【淑】於翁，恨人品
                                        庸下，不能妙人，不能等而上之，謹攝晉傳之要。為二小傳，附諸像末，遺之後人，故夾識松雪翁數語，見其勤法晉唐，
-                                       豈遂世好也哉.
-                                       
-                                   </incipit>
+                                       豈遂世好也哉。</incipit>
                                    <incipit type="款識">成化十六年壬寅秋日皖南吳肇榮書</incipit>
                                    <incipit type="seal">吳肇榮印</incipit>
                                    <incipit type="seal">中憲大夫之章</incipit>
-                                   <incipit type="seal">梁清標</incipit></msItem>
+                                   <incipit type="seal">梁清標</incipit>
 
                             <filiation>書畫卷軸，中外孤本。</filiation>  
                         </msItem>

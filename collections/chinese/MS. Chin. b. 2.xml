@@ -57,8 +57,8 @@
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            <title key="supplied title">[Paper roll:" a wedding procession"；scene on the banks of the Tsing Ming]</title>
-                            <title type="desc">清佚名繪送親圖 軸</title>
+                            <title key="supplie title" xml:lang="en">[Paper roll:" a wedding procession"；scene on the banks of the Tsing Ming]</title>
+                            <title key="supplie title">清佚名繪送親圖 軸</title>
                             <note type="注">此圖描繪清代婚禮的送親環節，從畫卷的人物裝束上可以推斷出該畫年代為清代乾隆之前。
                                 從卷軸右端所描繪的府邸門前懸挂的燈籠上的字跡可以看到“奉直大夫正府”字樣。注：奉直大夫為從五品散階。</note>
                           <filiation>手繪卷軸，中外孤本。</filiation>
@@ -69,9 +69,9 @@
                     <physDesc>
                         
                         <objectDesc form="卷軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
-                            <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                                <support>mulberry and bamboo mixed paper</support>
-                                <extent>畫心
+                            <supportDesc material="紙本"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
+                                <support>mulberry and bamboo mixed paper 紙本</support>
+                                <extent>一卷
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
                         https://git.io/msdescdoc#leafDimensions

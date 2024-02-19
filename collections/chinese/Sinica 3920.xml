@@ -65,20 +65,25 @@
                             <author key="_hukaiwentang">        
                                 <persName>胡開文堂</persName>
                             </author>
-                            
+                            <msItem>
                              <title type="subtitle">卷軸</title>
                             <incipit type="釋文">艷裏胭脂点綴新</incipit>
-                            <incipit type="釋文">犀紋遠映碧雲間揮寫晴江步叠山縹緲寒煙浮繭澤松弥原不讓天關</incipit>
+                                <incipit type="釋文">犀紋遠映碧雲間揮寫晴江步叠山縹緲寒煙浮繭澤松弥原不讓天關</incipit></msItem>
+                            
+                            <msItem>
                             <title type="subtitle">The printed sheet of paper</title>
                             <incipit type="釋文">開文叁墨贊 質堅强而正氣清而秀獲交陳元貝賞史籀或呼以黑松使者或名以元香太守可為翰苑之菁華可助文章之錦淐惟我寳之不事雕鏤惟尔藏之永相授受 甲子小春湘陰左宗棠識 搖武林即署</incipit>
                             <incipit type="釋文">持啓者本號 先祖而在屯溪開設胡開文墨店後又替開休城往啓茂墨店胡開文監製共此兩店休城開文分授二房屯溪開文分授七房歷今百數十年貨真價實天下聞名近有派下不肖者冒名克假玷辱家聲故特加此訪帖四方 大雅須認明本號圖記 庶不致誤 徽州屯溪老胡開文七房孫佩五氏謹白</incipit>
+                            </msItem>
+                            
+                            <msItem>
                             <title type="subtitle">ink stick</title>
                             <incipit type="釋文">美在其中</incipit>
                             <incipit type="釋文">正面：置身在嫏嬛 反面：知白守黑知雄守雌 胡開文監製 </incipit>
                             <incipit type="釋文">定冊惟模有 安社稷之勲</incipit>
-                            <explicit type="釋文">藝林珎賞</explicit>
-                            <explicit type="seal">胡開文製</explicit>
-                            <explicit type="seal">桑煙枯製</explicit>
+                                <incipit type="釋文">藝林珎賞</incipit>
+                                <incipit type="seal">胡開文製</incipit>
+                                <incipit type="seal">桑煙枯製</incipit></msItem>
                         </msItem>
                         <!-- insert further msItem elements as appropriate --> 
                         
@@ -86,8 +91,8 @@
                     <physDesc>
                         
                         <objectDesc form="卷軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
-                            <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                                <support>mulberry and bamboo mixed paper</support>
+                            <supportDesc material="紙本"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
+                                <support>mulberry and bamboo mixed paper 紙本</support>
                                 <extent>1 set 一套
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         

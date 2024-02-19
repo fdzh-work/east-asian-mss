@@ -57,10 +57,15 @@
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            
-                            <title type="desc">清恭親王書 橫批</title>
-                            <author key="Chinese">愛新覺羅奕訢</author>
-                            <incipit>朗潤</incipit>
+                            <title key="supplied title">清恭親王楷書橫批 卷</title>
+                            <title key="supplie title" xml:lang="en">A pair of calligraphy scrolls attributed to Prince Gong</title> 
+                            <author key="Q509360">   
+                                <persName>愛新覺羅奕訢</persName>
+                                <persName type="title">恭親王</persName>
+                                <persName type="號">樂善堂主</persName>
+                                <date notAfter="1800" notBefore="1700" calendar="Gregorian">1833-1898</date>
+                            </author> 
+                            <incipit type="釋文">朗潤</incipit>
                             <incipit type="seal">和碩恭親王寳</incipit>
                             <explicit type="背面">B/333 in catalogue</explicit>
                             <explicit type="背面">橫皮 朗潤 二字</explicit>
@@ -72,10 +77,10 @@
                     </msContents>
                     <physDesc>
                         
-                        <objectDesc form="立軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
+                        <objectDesc form="卷軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
                             <supportDesc material="絹本"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                                <support>silk</support>
-                                <extent>1 scroll
+                                <support>silk 絹本</support>
+                                <extent>1 scroll 一軸
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
                         https://git.io/msdescdoc#leafDimensions
@@ -113,8 +118,9 @@
                         
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
-                                <p>立軸</p>
-                                <decoNote>立軸，裝裱方式為一色裱，天頭地脚及邊框淡藍色絲織物,書法字跡寫在黃色絹本。整個立軸上微有橫向摺痕。</decoNote>
+                                <p>橫批</p>
+                                <decoNote>Horizontal scroll with a single-color mount. The top, bottom, and borders are adorned with a light blue silk. The calligraphy is written on yellow silk. The scroll displays signs of bending.
+                                    橫批，裝裱方式為一色裱，天頭地脚及邊框淡藍色絲織物,書法字跡寫在黃色絹本。整個立軸上微有橫向摺痕。</decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>

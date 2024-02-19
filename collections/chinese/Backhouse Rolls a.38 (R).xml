@@ -51,7 +51,7 @@
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>A pair of hanging scrolls of calligraphy in the Xing Shu style. 行書十四言對聯</summary>
+                        <summary>A pair of hanging scrolls of calligraphy in the Kai Shu style.</summary>
                         <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
                         
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
@@ -59,17 +59,18 @@
                             <locus><!-- insert --></locus>
                             
                             <title type="desc">佚名楷書十四言聯 軸</title>
+                            <title key="supplie title" xml:lang="en">A pair of scrolls featuring calligraphy in Kai Shu style</title>
                             <author key="_unknown">unknown</author>
                             
                             <msItem>
                             <title type="上聯">上聯</title>
-                            <incipit>勑國儲為天下之本師導</incipit>
-                            <incipit>乃元良之教將以本固必</incipit> </msItem>     
+                                <incipit>勑國儲為天下之本師導,乃元良之教將以本固必</incipit>
+                            </msItem>     
                             
                             <msItem>
                             <title type="下聯">下聯</title>
-                            <incipit>由教先非求鈡賢何以審</incipit>
-                            <incipit>諭光祿大夫行吏部尚書</incipit> </msItem>
+                                <incipit>由教先非求鈡賢何以審,諭光祿大夫行吏部尚書</incipit>
+                           </msItem>
                             <filiation>書法卷軸，中外孤本。</filiation> 
                         </msItem>
                         <!-- insert further msItem elements as appropriate --> 
@@ -78,8 +79,8 @@
                     <physDesc>
                         
                         <objectDesc form="立軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
-                            <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                                <support>mulberry and bamboo mixed paper</support>
+                            <supportDesc material="紙本"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
+                                <support>mulberry and bamboo mixed paper 紙本</support>
                                 <extent>2 scrolls 二軸
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         

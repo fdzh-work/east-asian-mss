@@ -58,8 +58,8 @@
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
                             
-                            <title type="desc">明董其昌書朱熹廬山臥龍庵記 卷</title>
-                            <title type="shelfmark">Backhouse Rolls c.20</title>
+                            <title key="supplie title" >明董其昌書朱熹廬山臥龍庵記 卷</title>
+                            <title key="supplie title" xml:lang="en">A scroll featuring calligraphy attributed to Dong Qi Chang</title> 
                             <author key="Q537211">   
                                 <persName>董其昌</persName>
                                 <persName type="字">玄宰</persName>

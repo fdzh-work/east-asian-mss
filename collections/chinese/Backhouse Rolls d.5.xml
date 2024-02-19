@@ -58,7 +58,7 @@
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
                             
-                            <title type="desc">清劉墉臨晉王羲之十七帖 卷</title>
+                            <title key="supplie title">清劉墉臨晉王羲之十七帖 卷</title>
                             <title key="supplie title" xml:lang="en">A calligraphy scroll attributed to Liu Yong</title>
                             <author >   
                                 <persName key="Q6653873">劉墉</persName>
@@ -72,11 +72,16 @@
                                 <persName type="號">日觀峰道人</persName>
                                 <date notAfter="1900" notBefore="1700" calendar="Gregorian">1719-1805</date>
                             </author> 
-                            <incipit type="釋文">吾前東，粗足作佳觀。吾為逸民之懷久矣，足下得以方復及此，似夢中語耶！無緣言面，為嘆，書何能悉。<note type="注">此釋文内容為《十七帖之逸民帖》。</note>
-                                嚴君平，司馬相如，楊子雲皆有后不？<note type="注">此釋文内容為《十七帖之嚴君平帖》。</note>
-                                知有漢時講堂在，是漢和帝時立此？知畫三皇五帝以來備有。畫又精妙，甚可觀也。彼有能畫者不？欲因摹取，當可得不？信具告。 <note type="注">此釋文内容為《十七帖之講堂帖》。</note>
-                                天鼠膏，治耳聾有驗不？有驗者乃是要藥。 <note type="注">此釋文内容為《十七帖之天鼠膏帖》。</note>
-                                今往絲布單衣財一端。示致意。<note type="注">此釋文内容為《十七帖之絲布衣帖》。</note></incipit>
+                            <incipit type="釋文">吾前東，粗足作佳觀。吾為逸民之懷久矣，足下得以方復及此，似夢中語耶！無緣言面，為嘆，書何能悉。</incipit>
+                            <note type="注">此釋文内容為《十七帖之逸民帖》。</note>
+                            <incipit type="釋文"> 嚴君平，司馬相如，楊子雲皆有后不？</incipit>
+                            <note type="注">此釋文内容為《十七帖之嚴君平帖》。</note>
+                            <incipit type="釋文">知有漢時講堂在，是漢和帝時立此？知畫三皇五帝以來備有。畫又精妙，甚可觀也。彼有能畫者不？欲因摹取，當可得不？信具告。</incipit> 
+                            <note type="注">此釋文内容為《十七帖之講堂帖》。</note>
+                            <incipit type="釋文">天鼠膏，治耳聾有驗不？有驗者乃是要藥。</incipit> 
+                            <note type="注">此釋文内容為《十七帖之天鼠膏帖》。</note>
+                            <incipit type="釋文">今往絲布單衣財一端。示致意。</incipit>
+                            <note type="注">此釋文内容為《十七帖之絲布衣帖》。</note>
                             <incipit type="款識">臨唐橅右軍帖試千叟宴 恩賜硯 劉墉</incipit>
                             <incipit type="seal">劉墉印信</incipit>
                             <incipit type="seal">石菴</incipit>

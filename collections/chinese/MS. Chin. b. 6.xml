@@ -53,16 +53,14 @@
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>A scroll of Chinese painting depicting the Eighteen Arhats (or Luohan).十八羅漢圖 </summary>
+                        <summary>A scroll of Chinese painting depicting the Eighteen Arhats (or Luohan).</summary>
                         <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
                         
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            <title key="suplied title">Ink drawing of BUddhist figures (thirty monks and Arhats).</title>
-                          <title type="desc">十八羅漢圖</title>
-                            <title type="desc">龍</title> 
-                            <title type="desc">虎</title>  
+                            <title key="supplie title">佚名繪十八羅漢圖 卷</title>
+                            <title key="supplie title" xml:lang="en">A horizontal scroll features eighteen Arhats</title>
                             
                             <filiation>手繪卷軸，中外孤本。</filiation>
                             
@@ -72,9 +70,9 @@
                     <physDesc>
                         
                         <objectDesc form="包背裝"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
-                            <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                                <support>mulberry and bamboo mixed paper</support>
-                                <extent>1 scroll
+                            <supportDesc material="紙本"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
+                                <support>mulberry and bamboo mixed paper 紙本</support>
+                                <extent>1 scroll 一軸
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
                         https://git.io/msdescdoc#leafDimensions
@@ -93,7 +91,7 @@
                         </objectDesc>
                         
                         <handDesc><!-- use the @hands attribute to record the number of scribes -->
-                            <handNote>本圖以白描手法描繪十八羅漢圖，羅漢們或持法器，或用法力，群像構圖分爲左中右三組。根據人物特徵可以判斷爲清代乾隆時期或以後作品。</handNote>
+                            <handNote>No calligraphy or seal on this painting.</handNote>
                             <!-- use additional handNote elements if necessary 
                      https://git.io/msdescdoc#handdesc
                      -->
@@ -105,7 +103,8 @@
                      -->
                         </musicNotation>
                         <decoDesc>
-                            <decoNote>卷軸，二色裱，隔水為淺藍色，副隔水為白色。錦包首為藍色絲織物伴已褪色，伴有有紅，綠，黃，藍四色花紋，卷軸背面裱有藍色絲織物，略有破損。
+                            <decoNote>
+                                
                             </decoNote>
                             <!-- use additional decoNote elements if necessary 
                      https://git.io/msdescdoc#decodesc
@@ -115,7 +114,8 @@
                         <bindingDesc>
                             <binding when="1600"><!-- use dating attributes to record the date -->
                                 <p>卷軸</p>
-                                <decoNote><!-- insert relevant information, otherwise delete --></decoNote>
+                                <decoNote>Horizontal scroll in a two-color mount, featuring light blue at the 'Heaven' section and white jacquard silk with vertical stripes. The brocade wrapper is composed of blue silk adorned with red, green, yellow, and blue floral patterns, showing signs of fading. The back of the scroll is mounted with blue silk fabric and exhibits damage.
+                                    卷軸，二色裱，天為淺藍色，隔水為白色。錦包首為藍色絲織物伴已褪色，伴有有紅，綠，黃，藍四色花紋，卷軸背面裱有藍色絲織物，有破損。</decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>

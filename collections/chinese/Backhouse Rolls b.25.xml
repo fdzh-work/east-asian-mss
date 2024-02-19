@@ -57,7 +57,8 @@
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            <title type="desc">清慎郡王山水畫 卷</title>
+                            <title key="supplie title">清慎郡王山水畫 卷</title>
+                            <title key="supplie title" xml:lang="en">A scroll featuring painting attributed to Prince Shen</title>
                             <author key="Q7361731">   
                                 <persName>愛新覺羅允禧</persName>
                                 <persName type="字">谦斋</persName>
@@ -68,7 +69,7 @@
                                 <date notAfter="1800" notBefore="1700" calendar="Gregorian">1711-1758</date>
                             </author>  
                             <note type="注">愛新覺羅允禧,康熙第二十一子,字謙齋,號紫噊,別號紫瓊道人,春浮居士，清代書畫家詩人，書畫造詣頗高，据傳與鄭板橋私交甚篤。</note>
-                            <incipit type="釋文">余生平所見慈文貴,大約似北苑。更以林壑深窈，煙
+                            <incipit type="釋文">余生平所見慈文貴大約似北苑。更以林壑深窈，煙
                                      靄漸茫取勝。繼於王子東莊出，觀巨幅峰巒雄偉，
                                      屋宇精妍，廽逾常格，心竊慕之。此卷適擺其法，然稚筆
                                      學步終未我夢見也。</incipit>

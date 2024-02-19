@@ -57,7 +57,7 @@
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            <title type="desc">清李世倬山水畫 卷</title>
+                            <title key="supplie title">清李世倬山水畫 卷</title>
                             <title key="supplie title" xml:lang="en">A Chinese painting featuring landscape attributed to Li Shi Zhuo</title> 
                             <author  key="Q45666889">   
                                 <persName>李世倬</persName>
@@ -71,7 +71,7 @@
                             <note type="注">李世倬（1687—1770年），字天章，一字汉章，号谷斋，别号十石居士、清在居士等，三韩（今辽宁铁岭北）人。
                                   隶籍正蓝旗汉军，著名画家高其佩的外甥。历官知州、副都御史，太常寺卿等职，故后世称之为"李太常"。
                                   工画，山水、人物、花卉俱臻其妙。山水师法王原祁，上溯倪瓒；花鸟学蒋廷锡，人物取法宋李公麟白描，笔法秀俊。
-                                  幼学其舅指头画法，并曾为高其佩代笔指画。<bibl>故宮博物院，詳見：https://www.dpm.org.cn/lemmas/244937</bibl></note>
+                                  幼学其舅指头画法，并曾为高其佩代笔指画。（故宮博物院，詳見：https://www.dpm.org.cn/lemmas/244937）</note>
                             <incipit type="款識">臣李世倬恭繪</incipit>
                             <incipit type="seal">世</incipit>
                             <incipit type="seal">倬</incipit>

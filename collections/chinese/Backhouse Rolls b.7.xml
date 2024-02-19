@@ -52,7 +52,7 @@
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>A pair of hanging scrolls of calligraphy in the Xing Shu style attributed to Prince Zhi  (質親王, 1744-1790) of Qing dynasty.</summary>
+                        <summary>A pair of hanging scrolls of calligraphy in the Xing Shu style attributed to Prince Zhi (質親王, 1744-1790) of Qing dynasty.</summary>
                         <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
                         
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
@@ -110,7 +110,7 @@
                             </supportDesc>
                             <layoutDesc>
                                 <layout>Hanging scrolls featuring Chinese calligraphy in couplets.
-                                        書法立軸，絹本，對聯。</layout>
+                                        書法立軸，絹本。</layout>
                                 
                             </layoutDesc>
                             
@@ -139,7 +139,7 @@
                                 <decoNote>
                                     A set of two hanging scrolls adorned in the two-color mount style, featuring 
                                     blue jacquard silk for the 'Heaven' section (天頭) and the 'Earth' section (地脚). 
-                                    Vertical stripes (隔水) are crafted from white Chinese paper, displaying signs of 
+                                    Separating stripes (隔水) are crafted from white Chinese paper, displaying signs of 
                                     yellowing. The calligraphies are elegantly written on traditional Chinese paper 
                                     in yellow, adorned with gilt and intricate pattern decorations.
                                     立軸，裝裱方式為二色裱，天頭地脚及邊框為淺藍色有花紋絲織物,隔水為白色紙本,已汎黃。
