@@ -76,13 +76,14 @@
                                 <persName type="title">乾隆皇帝</persName>
                                 <date notAfter="1800" notBefore="1700" calendar="Gregorian">1711-1799</date>
                             </author> 
-                            <msItem n="1">
-                                <title>part 1<locus>pp.[5]-[6]</locus></title>
+                            <msItem n="1"><locus from="pp.[5]-[6]" to="pp.[7]-[8]">(pp.[5]-[6], line 1 - pp.[7]-[8], line 4)</locus>
+                                <title>Part 1: 御製漁樵二十詠有序</title>
                                 
                             <incipit type="釋文">御製漁樵二十詠有序
                                             昔陸龜蒙皮日休相與倡和，為漁樵詩。樵祇十首，而漁乃增至二十。多寡不倫，且網𠉁滬𥶠。雖殊製而其為捕魚具，則一也。因刪複取，獨亦存其十，為漁樵二十詠。俾眉目清，而體製合，且使設色繪事者，易於取裁也。若夫龜蒙所云：“失民之具也，如彼誰其嗣之。”吾當引以爲愧，又何能措一辭哉。</incipit></msItem>
-                            <msItem n="2">
-                                <title>part 2<locus>pp.[7]-[18]</locus></title>
+                            
+                            <msItem n="2"><locus from="pp.[7]-[8]" to="pp.[17]-[18]">(pp.[7]-[8], line 5 - pp.[17]-[18], line 8)</locus>
+                                <title>Part 2: 漁具十詠</title>
                                <incipit type="釋文">
                                   
                                 漁網 
@@ -178,8 +179,8 @@
                                 
                                 右漁具十詠 </incipit></msItem>
                             
-                            <msItem n="3"> 
-                                <title>part 3<locus>pp.[18]-[28]</locus></title>
+                            <msItem n="3"> <locus from="pp.[17]-[18]" to="pp.[27]-[28]">(pp.[17]-[18], line 9 - pp.[27]-[28], line 9)</locus>
+                                <title>Part 3: 樵具十詠</title>
                                <incipit type="釋文">
                                 樵谿 
                                 峯髙谿必深，陟髙由深進。 
@@ -273,8 +274,8 @@
                                 
                                 右樵具十詠 </incipit> </msItem> 
                                
-                            <msItem n="4"> 
-                                <title>part 4<locus>pp.[28]-[35]</locus></title>
+                            <msItem n="4">  <locus from="pp.[27]-[28]" to="pp.[35]-[36]">(pp.[27]-[28], line 10 - pp.[35]-[36], line 10)</locus>
+                                <title>Part 4: 跋</title>
                                 <incipit type="釋文">
                                 臣向誦《魯論》仁智山 
                                 
