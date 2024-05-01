@@ -84,29 +84,23 @@
                         
                         <objectDesc form="冊"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
                             <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                                <support>MS.Chin.c.1: mulberry and bamboo paper 紙本
-                                    MS.Chin.c.2: Silk 絹本</support>
+                              <support>MS.Chin.c.1: mulberry and bamboo paper 紙本
+                                    </support>
                                 <extent>Fifteen folios, including twelve paintings. 
                                     一冊共十五開，本幅十二開，前副頁二開，后副頁一開。
-                                    <dimensions unit="cm" type="item"><!-- use standard attribute values, e.g. leaf, written  
-                        https://git.io/msdescdoc#leafDimensions
-                        -->                           <height>32.3 cm</height>
+                                    <dimensions unit="cm" type="冊">                          
+                                        <height>32.3 cm</height>
                                         <width>29.3 cm</width>
-                                    <!-- use additional dimensions elements if necessary -->
-                                    </dimensions>
-                                    <dimensions unit="cm" type="item"><!-- use standard attribute values, e.g. leaf, written  
-                        
-                        https://git.io/msdescdoc#leafDimensions
-                        -->                           <height>34.6 cm</height>
-                                        <width>23.7 cm</width>
-                                        <!-- use additional dimensions elements if necessary -->
                                     </dimensions>
                                 </extent>
-                                
                                 <condition>The paper used for decoration on the cover is damaged. The paper glued to the front cover fell off halfway.</condition>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>畫冊，MS.Chin.c.1為紙本設色，MS.Chin.c.2為絹本設色。</layout>
+                                <layout>MS.Chin.c.2: Silk 絹本。Fifteen folios, including twelve paintings. 
+                                    一冊共十五開，本幅十二開，前副頁二開，后副頁一開。<dimensions unit="cm" type="冊">                          
+                                    <height>34.6 cm</height>
+                                    <width>23.7 cm</width>
+                                </dimensions></layout>
                                 
                             </layoutDesc>
                             
