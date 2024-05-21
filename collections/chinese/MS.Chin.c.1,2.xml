@@ -48,112 +48,27 @@
                         
                         
                     </msIdentifier>
-                    
                     <msContents>
-                        <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
                         <summary>Two albums showcasing painted pictures depicting daily life scenes</summary>
-                        <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
-                        
-                        <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
-                            <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
-                            <title key="supplied title">Picture-books</title>
-                            <title key="desc">清代佚名人物畫冊 共二冊</title>
-                            <author key="Chinese">Unknown</author>
-                            <msItem>
-                                <title key="Shelfmark">MS.Chin.c.1</title>
-                                <note type="quote"><locus>Inside lower cover</locus>Julia Louther from Marcus R N.</note>
-                                <note type="quote"><locus>Inside lower cover</locus><date>10th Sep. 1847</date></note>
-                            </msItem>
-                            <msItem>
-                                <title key="Shelfmark">MS.Chin.c.2</title>
-                            <note type="quote"><locus>Inside upper cover</locus>S.C.296159</note>
-                                <note type="quote"><locus>Inside upper cover</locus>Bought in March 1885 for 50F from Tross of Paris 
-                                            (436 in his cat. no.III for 1885; said to Date "over 1750 succession")</note>
-                                <note type="quote"><locus>Inside lower cover</locus>Julia Louther from Marcus</note>
-                                <note type="quote"><locus>Inside lower cover</locus><date>Sep 10th 1847</date></note>
-                                <note type="quote"><locus>on the back of Inside lower cover</locus>Original Chinese Drawings
-                                            Purchased to Julia Louther by Marcus Louther, M.N.
-                                            Sepr 10th 1847</note>
-                            </msItem>
-                            <filiation>中國畫冊，中外孤本</filiation>  
+                        <msItem>
+                            <filiation xml:lang="zh">中國畫冊，中外孤本</filiation>
+                            <textLang mainLang="zh">Chinese</textLang>
                         </msItem>
-                        <!-- insert further msItem elements as appropriate --> 
-                        
                     </msContents>
-                    <physDesc>
-                        
-                        <objectDesc form="冊"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
-                            <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                              <support>MS.Chin.c.1: mulberry and bamboo paper 紙本
-                                    </support>
-                                <extent>Fifteen folios, including twelve paintings. 
-                                    一冊共十五開，本幅十二開，前副頁二開，后副頁一開。
-                                    <dimensions unit="cm" type="冊">                          
-                                        <height>32.3 cm</height>
-                                        <width>29.3 cm</width>
-                                    </dimensions>
-                                </extent>
-                                <condition>The paper used for decoration on the cover is damaged. The paper glued to the front cover fell off halfway.</condition>
-                            </supportDesc>
-                            <layoutDesc>
-                                <layout>MS.Chin.c.2: Silk 絹本。Fifteen folios, including twelve paintings. 
-                                    一冊共十五開，本幅十二開，前副頁二開，后副頁一開。<dimensions unit="cm" type="冊">                          
-                                    <height>34.6 cm</height>
-                                    <width>23.7 cm</width>
-                                </dimensions></layout>
-                                
-                            </layoutDesc>
-                            
-                        </objectDesc>
-                        
-                        <handDesc><handNote>
-                            中國畫傳統技法</handNote><!-- use the @hands attribute to record the number of scribes -->
-                            <!-- <handNote> </handNote> --> 
-                            <!-- use additional handNote elements if necessary 
-                     https://git.io/msdescdoc#handdesc
-                     -->
-                        </handDesc>
-                        
-                        <decoDesc>
-                            <decoNote>
-                            </decoNote>
-                            <!-- use additional decoNote elements if necessary 
-                     https://git.io/msdescdoc#decodesc
-                     -->
-                        </decoDesc>
-                        
-                        <bindingDesc>
-                            <binding when="1800"><!-- use dating attributes to record the date -->
-                                <p>冊</p>
-                                <decoNote>Concertina binding.
-                                    MS.Chin.c.1： 畫冊，經摺裝，内含十二幅畫。封面和封底由藍色底帶深藍色和紅色銅錢花紋的絲織物裝裱，本幅畫心為米白色絹本，對幅為畫心淺藍色灑金紙本。題簽為白色絹本，有破損和污跡。
-                                    Concertina binding. The front cover and back cover are bound with blue silk fabric featuring dark blue and red patterns. The main painting surface is made of off-white silk while the accompanying composition on the left-hand page is light blue with gold specks. The title label is made of white silk, showing signs of damage and stains.
-                                    
-                                    MS.Chin.c.2： 畫冊，經摺裝，内含十二幅畫。封面和封底由白色底帶藍色紅色銅錢花紋的紙本裝裱。本幅畫心為白色紙本，對幅為畫心棕色紙本。題簽為黃色灑金紙本，有褪色和污跡。
-                                    Concertina binding. The front cover and back cover are bound with paper featuring blue and red coin patterns on a white background. The main painting on the right-hand page is made of white paper, while the accompanying composition on the left-hand page is made of brown paper. The title label is made of yellow paper with gold specks, showing signs of fading and stains.</decoNote>
-                            </binding>
-                        </bindingDesc>
-                        <accMat>
-                            <!-- insert if relevant, otherwise delete 
-                     https://git.io/msdescdoc#accMat          
-                     -->
-                        </accMat>
-                    </physDesc>
                     <history>
                         <!-- see https://git.io/msdescdoc#history -->
                         <origin>
                             <!-- see https://git.io/msdescdoc#origin -->
                             <origPlace>
-                                <country>China</country>,
-                                <region></region>,
-                                <settlement><!-- insert --></settlement>,
-                                <orgName><!-- insert --></orgName>
+                                <country>China</country>
                             </origPlace>
-                            <origDate notAfter="1900" notBefore="1800" calendar="Gregorian">1847 and later</origDate>
+                            <origDate notAfter="1847" notBefore="1750" calendar="Gregorian">1750 and later</origDate>
                             <!-- use additional origPlace and origDate elements if necessary -->
                         </origin>
-                        <provenance>On the inside of the upper cover of both volumes, it is indicated that this album was purchased from Tross of Paris in March 1885 for 50 francs by Marcus Louther and later given to Julia Louther. Records show that the two albums reached the Bodleian Libraries in 1885.</provenance>
-                        
+                        <provenance>On the inside of the upper cover of both volumes, it is indicated that this album was purchased from Tross of Paris in March 1885 for 50 francs by Marcus Lowther and later given to Julia Lowther. <note><persName key="Q100376063">Marcus Lowther</persName>(1820-1908), a British Royal Navy officer, amateur artist and Fellow of the Royal Geographical Society.</note></provenance>
+                        <acquisition>Records show that the two albums reached the Bodleian Libraries in 1885.
+                           </acquisition>
+                       
                         
                         <!-- use additional provenance elements if necessary -->
                         <!-- <acquisition> </acquisition> -->
@@ -179,7 +94,101 @@
                         </listBibl>
                     </additional>
                     
+                    <msPart>
+                        <msIdentifier>
+                            <altIdentifier>
+                                <idno type="part">MS.Chin.c.1</idno>
+                            </altIdentifier>
+                        </msIdentifier>
+                    <msContents>
+                        
+                        <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
+                       <!-- change text and attribute if necessary -->
+                        
+                        <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
+                            <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
+                            <title type="sub">Album：MS.Chin.c.1</title>
+                            <title key="desc" xml:lang="zh">清代佚名人物畫冊: MS.Chin.c.1</title>
+                            <author key="_unknown">unknown</author>
+                            <note><locus>Inside upper cover: </locus><q>S.C.29615f</q></note>
+                            <note><locus>Inside lower cover: </locus><q>Julia Lowther from Marcus R N.</q></note>
+                            <note><locus>Inside lower cover: </locus><q><date>10th Sep. 1847</date></q></note>
+                            <filiation xml:lang="zh">中國畫冊，中外孤本</filiation>  
+                        </msItem>
+                    </msContents>
+                        <physDesc>
+                            <objectDesc form="冊">
+                            <supportDesc material="桑紙">
+                                <support>mulberry and bamboo paper <foreign xml:lang="zh">紙本</foreign>
+                                </support>
+                                <extent>Fifteen folios, including twelve paintings. <foreign xml:lang="zh">一冊共十五開，本幅十二開，前副頁二開，后副頁一開。</foreign>
+                                    <dimensions unit="cm" type="冊">                          
+                                        <height>32.3</height>
+                                        <width>29.3</width>
+                                    </dimensions>
+                                </extent>
+                                <condition>The paper used for decoration on the cover is damaged. The paper glued to the front cover fell off halfway.</condition>
+                            </supportDesc>
+                            </objectDesc>
+                            <bindingDesc>
+                                <binding when="1800">
+                                    <p xml:lang="zh">冊</p>
+                                    <decoNote>Concertina binding. The front cover and back cover are bound with blue silk fabric featuring dark blue and red patterns. The main painting surface is made of off-white silk while the accompanying composition on the left-hand page is light blue with gold specks. The title label is made of white silk, showing signs of damage and stains.
+                                        <foreign xml:lang="zh">畫冊，經摺裝，内含十二幅畫。封面和封底由藍色底帶深藍色和紅色銅錢花紋的絲織物裝裱，本幅畫心為米白色絹本，對幅為畫心淺藍色灑金紙本。題簽為白色絹本，有破損和污跡。</foreign>
+                                    </decoNote>
+                                </binding>
+                            </bindingDesc>
+                        </physDesc>
+                    </msPart>
                     
+                    <msPart>
+                        <msIdentifier>
+                            <altIdentifier>
+                                <idno type="part">MS.Chin.c.2</idno>
+                            </altIdentifier>
+                        </msIdentifier>
+                        <msContents>
+                            <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
+                            <!-- change text and attribute if necessary -->
+                            <msItem>
+                                <title type="sub">Album：MS.Chin.c.2</title>
+                                <title key="desc" xml:lang="zh">清代佚名人物畫冊: MS.Chin.c.2</title>
+                                    <note><locus>Inside upper cover: </locus><q>S.C.29615g</q></note>
+                                    <note><locus>Inside upper cover: </locus><q>Bought in March 1885 for 50F from Tross of Paris 
+                                        (436 in his cat. no.III for 1885; said to Date "over 1750 succession")</q></note>
+                                    <note><locus>Inside lower cover: </locus><q>Julia Lowther from Marcus</q></note>
+                                    <note><locus>Inside lower cover: </locus><q><date>Sep 10th 1847</date></q></note>
+                                    <note><locus>on the back of Inside lower cover: </locus><q>Original Chinese Drawings
+                                        Purchased to Julia Lowther by Marcus Lowther, M.N.
+                                        Sepr 10th 1847</q></note>
+                                <filiation xml:lang="zh">中國畫冊，中外孤本</filiation>  
+                            </msItem>
+                        </msContents>
+                        <physDesc>
+                            <objectDesc form="冊">
+                                <supportDesc material="桑紙">
+                                    <support>Silk <foreign xml:lang="zh">絹本。</foreign>
+                                    </support>
+                                    <extent>Fifteen folios, including twelve paintings. <foreign xml:lang="zh">一冊共十五開，本幅十二開，前副頁二開，后副頁一開。</foreign>
+                                        <dimensions unit="cm" type="冊">                          
+                                            <height>34.6</height>
+                                            <width>23.7</width>
+                                        </dimensions>
+                                    </extent>
+                                    <condition>The paper used for decoration on the cover is damaged. The paper glued to the front cover fell off halfway.</condition>
+                                </supportDesc>
+                            </objectDesc>
+                            <bindingDesc>
+                                <binding when="1800">
+                                    <p xml:lang="zh">冊</p>
+                                    <decoNote>Concertina binding. The front cover and back cover are bound with paper featuring blue and red coin patterns on a white background. The main painting on the right-hand page is made of white paper, while the accompanying composition on the left-hand page is made of brown paper. The title label is made of yellow paper with gold specks, showing signs of fading and stains.
+                                        <foreign xml:lang="zh">畫冊，經摺裝，内含十二幅畫。封面和封底由白色底帶藍色紅色銅錢花紋的紙本裝裱。本幅畫心為白色紙本，對幅為畫心棕色紙本。題簽為黃色灑金紙本，有褪色和污跡。
+                                        </foreign>
+                                    </decoNote>
+                                </binding>
+                            </bindingDesc>
+                        </physDesc>
+                    </msPart>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
