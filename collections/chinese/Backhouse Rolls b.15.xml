@@ -186,6 +186,12 @@
                                 </source>
                             </recordHist>
                         </adminInfo>
+                        <surrogates>
+                            <bibl type="digital-facsimile" subtype="full">
+                                <ref target="https://digital.bodleian.ox.ac.uk/objects/a939d235-cb95-486c-a2f6-08068a2ac17f/">
+                                    <title>Digital Bodleian</title></ref> <note>(full digital facsimile)</note>
+                            </bibl>
+                        </surrogates>
                         <listBibl>
                             <!-- a number of listBibl elements can be nested inside an outer listBibl if required -->
                             <head><!-- use to provide a heading if required, otherwise delete --></head>
