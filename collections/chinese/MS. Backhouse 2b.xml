@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+<!-- use this template in cases where the manuscript is NOT composed of multiple codicological units. To avoid errors in the display of the record, be sure to delete elements that are not used. -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="manuscript_00000"><!-- insert the correct xmlid in the form manuscript_12345 -->
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>MS. Backhouse 2b</title>
+                
+                <respStmt>
+                    <resp>Cataloguer</resp>
+                    <persName>Boya Zhang</persName>
+                </respStmt>
+                
+            </titleStmt>
+            <editionStmt>
+                <edition>TEI P5</edition>
+                <funder>HD Chung Fund</funder>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Special Collections, Bodleian Libraries</publisher>
+                <address>
+                    <orgName type="department">Special Collections</orgName>
+                    <orgName type="unit">Bodleian Libraries</orgName>
+                    <orgName type="institution">University of Oxford</orgName>
+                    <street>Weston Library, Broad Street</street>
+                    <settlement>Oxford</settlement>
+                    <postCode>OX1 3BG</postCode>
+                    <country>United Kingdom</country>
+                </address>
+                <distributor>
+                    <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                </distributor>
+                <idno type="msID"><!-- insert normalized form of shelfmark --></idno>
+                <idno type="collection"><!-- insert normalized form of collection --></idno>
+                <idno type="catalogue"><!-- insert catalogue ID --></idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:lang="en"><!-- optionally provide xmlid should as a normalized form of the shelfmark, e.g. Merton_College_MS_10 -->
+                    <msIdentifier>
+                        <settlement><!-- insert --></settlement>
+                        <repository>Bodleian Library</repository><!-- change if necessary -->
+                        <idno type="shelfmark">MS. Backhouse 2a</idno>
+                        
+                    </msIdentifier>
+                    
+                    <msContents>
+                        <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
+                        <summary>皇朝武功紀盛</summary>
+                        <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
+                        
+                        <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
+                            <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
+                            <title>皇朝武功紀盛</title>
+                            <author key="Q4388724">        
+                                <persName>趙翼</persName>
+                                <persName type="字">雲崧</persName>
+                                <persName type="號">甌北</persName>
+                                <date notAfter="1814" notBefore="1727" calendar="Gregorian">1727-1814</date>
+                            </author>
+
+                            <filiation>手抄本,中外孤本。 only surviving copy.</filiation>
+                            
+                        </msItem>
+                        <!-- insert further msItem elements as appropriate -->
+                    </msContents>
+                    <physDesc>
+                        
+                        <objectDesc form="包背裝"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
+                            <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
+                                <support>mulberry and bamboo mixed paper</support>
+                                <extent> 二冊 two volumes
+                                    
+                                    
+                                    <!-- use additional dimensions elements if necessary -->
+                                </extent>
+                                
+                                
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>内頁黑色單綫邊框，每半頁含11列每列21字。</layout>
+                                <!-- use additional layout elements if necessary 
+                        https://git.io/msdescdoc#layoutdesc-->
+                            </layoutDesc>
+                        </objectDesc>
+                        
+                        <handDesc><!-- use the @hands attribute to record the number of scribes -->
+                            <handNote>
+                                Chinese characters written in 楷體 (kai shu, regular) calligraphic style</handNote>
+                            <!-- use additional handNote elements if necessary 
+                     https://git.io/msdescdoc#handdesc
+                     -->
+                        </handDesc>
+                        
+                        <decoDesc>
+                            <decoNote>
+                                The book cover is made of traditional Chinese paper in light-brown colour.</decoNote>
+                            <!-- use additional decoNote elements if necessary 
+                     https://git.io/msdescdoc#decodesc
+                     -->
+                        </decoDesc>
+                        
+                        <bindingDesc>
+                            <binding when="1500"><!-- use dating attributes to record the date -->
+                                <p>綫裝書</p>
+                                <decoNote><!-- insert relevant information, otherwise delete --></decoNote>
+                            </binding>
+                        </bindingDesc>
+                        <accMat>
+                            <!-- insert if relevant, otherwise delete 
+                     https://git.io/msdescdoc#accMat          
+                     -->
+                        </accMat>
+                    </physDesc>
+                    
+                    <history>
+                        <!-- see https://git.io/msdescdoc#history -->
+                        <origin>
+                            <!-- see https://git.io/msdescdoc#origin -->
+                            <origPlace>
+                                <country>China</country>,
+                                <region>Guangdong Province</region>,
+                                
+                            </origPlace>
+                            <origDate notAfter="1900" notBefore="1800" calendar="Gregorian">清代</origDate>
+                            <!-- use additional origPlace and origDate elements if necessary -->
+                        </origin>
+                        
+                        <!-- use additional provenance elements if necessary -->
+                        <acquisition>
+                            <!-- insert -->
+                            <!-- use dating attributes where possible -->
+                        </acquisition>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source>
+                                    <!-- insert prose here; see https://git.io/msdescdoc#recordHist -->
+                                    <bibl><!-- insert if necesary, otherwise delete --></bibl>
+                                    <!-- links to digitized catalogues may also be provide here, e.g.: -->
+                                    <!--<listBibl>
+                              <bibl type="SC" facs="aas0046.gif">Summary Catalogue, Vol. 3, p.  31</bibl>
+                           </listBibl>-->
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                        <listBibl>
+                            <!-- a number of listBibl elements can be nested inside an outer listBibl if required -->
+                            <head><!-- use to provide a heading if required, otherwise delete --></head>
+                            <bibl><!-- insert bibliography, links to online resource, etc., otherwise delete--></bibl>
+                            
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <msIdentifier>
+                            <altIdentifier type="part"><idno>MS. Backhouse 2a/1 </idno></altIdentifier>
+                        </msIdentifier>
+                        <msContents>
+                            <msItem>
+                                
+                                <msItem>
+                                <title>皇朝武功紀盛 上</title>
+                                    <note><locus>p.1</locus><q>皇朝武功紀盛序（欽惟我...）</q></note>
+                                
+                                    <note><locus>p.4</locus><q>皇朝武功紀盛序</q></note></msItem>
+                              
+                                   
+                                <msItem>
+                                    <title type="sub">皇朝武功紀盛卷一</title>
+                                    <note><locus>p.7</locus><q>《皇朝武功紀盛卷一》 陽湖趙翼雲崧《平定三逆述略》</q></note>
+                                    <note><locus>p.23</locus><q>《平定朔漠述略》</q></note></msItem>
+                                <msItem>
+                                    <title type="sub">皇朝武功紀盛卷二</title>
+                                    <note><locus>p.28</locus><q>《皇朝武功紀盛卷二》 陽湖趙翼雲崧《平定準噶爾前編述略》</q></note>
+                                    <note><locus>p.32</locus><q>平定準噶爾正編述略</q></note></msItem>
+
+                            </msItem> 
+                            
+                            
+                        </msContents>
+                        <physDesc><objectDesc><supportDesc><support><dimensions unit="cm" type="leaf" n="1"><!-- use standard attribute values, e.g. leaf, written  
+                        https://git.io/msdescdoc#leafDimensions
+                        -->                           <height></height>
+                            <width> </width>
+                        </dimensions></support></supportDesc></objectDesc></physDesc>
+                        <history><provenance>Donated by Sir Edmund Trelawny Backhouse, Baronet (20 October 1873 – 8 January 1944).</provenance></history>
+                        
+                    </msPart>
+                    <msPart>
+                        <msIdentifier>
+                            <altIdentifier type="part"><idno>MS. Backhouse 2b/2</idno></altIdentifier>
+                        </msIdentifier>
+                        <msContents>
+                                
+                                <msItem>
+                                    <title>皇朝武功紀盛 下</title>
+                                    
+
+                                <msItem>
+                                    <title type="sub">皇朝武功紀盛卷三</title>
+                                    <note><locus>p.1</locus><q>《皇朝武功紀盛卷三》 陽湖趙翼雲崧《平定緬甸述略》</q></note></msItem>
+                                <msItem>
+                                    <title type="sub">皇朝武功紀盛卷四</title>
+                                    <note><locus>p.13</locus><q>《皇朝武功紀盛卷四》 陽湖趙翼雲崧《平定兩金川述略》</q></note>
+                                    <note><locus>p.27</locus><q>平定臺灣述略</q></note>
+                                    <note><locus>p.34</locus><q>平定廓爾喀述略</q></note></msItem>
+                                
+                            </msItem>   </msContents>
+                        <physDesc><objectDesc><supportDesc><support><dimensions unit="cm" type="leaf" n="1"><!-- use standard attribute values, e.g. leaf, written  
+                        https://git.io/msdescdoc#leafDimensions
+                        -->                           <height></height>
+                            <width> </width>
+                        </dimensions></support></supportDesc></objectDesc></physDesc>
+                        <history><provenance>Donated by Sir Edmund Trelawny Backhouse, Baronet (20 October 1873 – 8 January 1944).</provenance></history>  
+                    </msPart>
+                    
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change>
+                <!-- insert relevant text, e.g. 'First online publication' -->
+                <!-- provide the date of the change using the @when attribute -->
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><!--Body paragraph provided for validation and future transcription--></p>
+        </body>
+    </text>
+</TEI>
+
+
+

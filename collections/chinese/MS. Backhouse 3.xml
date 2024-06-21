@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+<!-- use this template in cases where the manuscript is NOT composed of multiple codicological units. To avoid errors in the display of the record, be sure to delete elements that are not used. -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="manuscript_00000"><!-- insert the correct xmlid in the form manuscript_12345 -->
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>MS. Backhouse 3</title>
+                
+                <respStmt>
+                    <resp>Cataloguer</resp>
+                    <persName>Boya Zhang</persName>
+                </respStmt>
+                
+            </titleStmt>
+            <editionStmt>
+                <edition>TEI P5</edition>
+                <funder>HD Chung Fund</funder>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Special Collections, Bodleian Libraries</publisher>
+                <address>
+                    <orgName type="department">Special Collections</orgName>
+                    <orgName type="unit">Bodleian Libraries</orgName>
+                    <orgName type="institution">University of Oxford</orgName>
+                    <street>Weston Library, Broad Street</street>
+                    <settlement>Oxford</settlement>
+                    <postCode>OX1 3BG</postCode>
+                    <country>United Kingdom</country>
+                </address>
+                <distributor>
+                    <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                </distributor>
+                <idno type="msID"><!-- insert normalized form of shelfmark --></idno>
+                <idno type="collection"><!-- insert normalized form of collection --></idno>
+                <idno type="catalogue"><!-- insert catalogue ID --></idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:lang="en"><!-- optionally provide xmlid should as a normalized form of the shelfmark, e.g. Merton_College_MS_10 -->
+                    <msIdentifier>
+                        <settlement><!-- insert --></settlement>
+                        <repository>Bodleian Library</repository><!-- change if necessary -->
+                        <idno type="shelfmark">MS. Backhouse 3</idno>
+                        
+                    </msIdentifier>
+                    
+                    <msContents>
+                        <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
+                        <summary>一套四卷，滿漢對照手抄本，標有句讀。</summary>
+                        <textLang mainLang="zh">Chinese and Manchu </textLang><!-- change text and attribute if necessary -->
+                        
+                        <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
+                            <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
+                            <title>滿漢對照手稿</title>
+                            <author key="_unknown">unknown</author>
+                            
+                            
+                            <filiation>手抄本,中外孤本。 only surviving copy.</filiation>
+                            
+                        </msItem>
+                        <!-- insert further msItem elements as appropriate -->
+                    </msContents>
+                    <physDesc>
+                        
+                        <objectDesc form="包背裝"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
+                            <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
+                                <support>mulberry and bamboo mixed paper</support>
+                                <extent>四冊 four volumes
+                                    
+                                    
+                                    <!-- use additional dimensions elements if necessary -->
+                                </extent>
+                                
+                                
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>内頁無邊框，滿漢對照書寫，每頁共計六列。</layout>
+                                <!-- use additional layout elements if necessary 
+                        https://git.io/msdescdoc#layoutdesc-->
+                            </layoutDesc>
+                        </objectDesc>
+                        
+                        <handDesc><!-- use the @hands attribute to record the number of scribes -->
+                            <handNote>
+                                Chinese characters written in 楷體 (kai shu, regular) calligraphic style</handNote>
+                            <!-- use additional handNote elements if necessary 
+                     https://git.io/msdescdoc#handdesc
+                     -->
+                        </handDesc>
+                        
+                        <decoDesc>
+                            <decoNote>
+                                The book cover is made of traditional Chinese paper in pink colour.</decoNote>
+                            <!-- use additional decoNote elements if necessary 
+                     https://git.io/msdescdoc#decodesc
+                     -->
+                        </decoDesc>
+                        
+                        <bindingDesc>
+                            <binding when="1500"><!-- use dating attributes to record the date -->
+                                <p>綫裝書</p>
+                                <decoNote><!-- insert relevant information, otherwise delete --></decoNote>
+                            </binding>
+                        </bindingDesc>
+                        <accMat>
+                            <!-- insert if relevant, otherwise delete 
+                     https://git.io/msdescdoc#accMat          
+                     -->
+                        </accMat>
+                    </physDesc>
+                    
+                    <history>
+                        <!-- see https://git.io/msdescdoc#history -->
+                        <origin>
+                            <!-- see https://git.io/msdescdoc#origin -->
+                            <origPlace>
+                                <country>China</country>,
+                                <region>Guangdong Province</region>,
+                                
+                            </origPlace>
+                            <origDate notAfter="1900" notBefore="1800" calendar="Gregorian">清代</origDate>
+                            <!-- use additional origPlace and origDate elements if necessary -->
+                        </origin>
+                        
+                        <!-- use additional provenance elements if necessary -->
+                        <acquisition>
+                            <!-- insert -->
+                            <!-- use dating attributes where possible -->
+                        </acquisition>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source>
+                                    <!-- insert prose here; see https://git.io/msdescdoc#recordHist -->
+                                    <bibl><!-- insert if necesary, otherwise delete --></bibl>
+                                    <!-- links to digitized catalogues may also be provide here, e.g.: -->
+                                    <!--<listBibl>
+                              <bibl type="SC" facs="aas0046.gif">Summary Catalogue, Vol. 3, p.  31</bibl>
+                           </listBibl>-->
+                                </source>
+                            </recordHist>
+                        </adminInfo>
+                        <listBibl>
+                            <!-- a number of listBibl elements can be nested inside an outer listBibl if required -->
+                            <head><!-- use to provide a heading if required, otherwise delete --></head>
+                            <bibl><!-- insert bibliography, links to online resource, etc., otherwise delete--></bibl>
+                            
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <msIdentifier>
+                            <altIdentifier type="part"><idno>MS. Backhouse 3/1</idno></altIdentifier>
+                        </msIdentifier>
+                        <msContents>
+                            <msItem>
+                                <note><locus>p.1</locus><q>《訓旨序》朕惟自古人君之治天</q></note>
+                                
+                                <note><locus>p.2</locus><q>下，能重於愛養羣黎，而必教訓誡飭，以有才羡俗為要。</q></note>
+                                <note><locus>p.3</locus><q>我聖祖仁皇帝，臨御六十餘年，深仁厚澤率土均沾。</q></note>
+                                <note><locus>p.4</locus><q>而於滿洲人等。時存教誡之心俾其恆守舊業。故於各省將軍副統領</q></note>
+                                <note><locus>p.5</locus><q>赴任時，必召對入内，以教育兵丁之道，諄切教訓。</q></note>
+                                <note><locus>p.6</locus><q>朕自繼統以來，每事以聖祖之心為心，以聖祖之政為政，軫念滿洲等世效勤</q></note>
+                                <note><locus>p.7</locus><q>勞，為國家之根本每每指教，恩賁有加，去歲寧古塔</q></note>
+                                <note><locus>p.8</locus><q>將軍哈達進京，朕向哈達下旨爾等將軍責任一應賞罰俾眾曉悉，</q></note>
+                                <note><locus>p.9 </locus><q>再行宣傳。其預先訓諭最爲緊。爾即將教導爾等之所轄官兵之語，編成</q></note>
+                                <note><locus>p.10 </locus><q>奏聞。朕酌定發往刊刻刷印，宣示於眾。爾等地方官兵伹皆誦讀</q></note>
+                                <note><locus>p.11</locus><q>大有裨益，及覽哈達所奏編成之書，</q></note>
+                                <note><locus>p.12 </locus><q>詞多卑鄙而未詳悉，朕即以訓旨一書，着常壽查阿，編為十則。</q></note>
+                                <note><locus>p.13 </locus><q>朕觀此訓旨一書非只宜宣示於寧古塔之官兵。凡滿洲</q></note>
+                                <note><locus>P.14 </locus><q>官兵駐剳之處，墍行宣示甚屬有益，若各省滿洲，將此訓旨</q></note>
+                                <note><locus>p.15 </locus><q>家絃戶誦，不知書之人，亦得以習學，衆人盡皆</q></note>
+                                <note><locus>p.16</locus><q>知曉牢記心懷人各竭誠，黽勉砥礪，將</q></note>
+                                <note><locus>P.17</locus><q>此學行優加，風俗純厚，永守滿洲故業。子子孫</q></note>
+                                <note><locus>p.18</locus><q>孫，受無窮之福也。今將訓旨一書刊刻刷印，宣諭各省駐防滿洲</q></note>
+                                <note><locus>P.19 </locus><q>官兵。該地方將軍大小官員等須實心奉行。不</q></note>
+                                <note><locus>p.20</locus><q>時令眾講讀，以副朕愛惜滿洲如赤字之至意</q></note>
+                                <note><locus>p.21</locus><q>當孝順父母。爾等雖係兵丁，未習經</q></note>
+                                <note><locus>p.22</locus><q>史。豈不稍念父母愛子之心乎。人子乳幼時，饑不能自哺，寒不能自衣</q></note>
+                                <note><locus>p.23</locus><q>為父母者，察其音聲，觀其顔色，笑則爲之喜，啼則為之憂，行動則一步不離</q></note>
+                                <note><locus>p.24</locus><q>疾痛則寢食俱發，教育成丁後，又籌其娶媳度日，</q></note>
+                                <note><locus>p.25</locus><q>百計經營，心力俱瘁。父母之恩實似昊天罔極。此可以不思報答乎？</q></note>
+                                <note><locus>p.26</locus><q>報答之道敬養不殆。尤當以順適為要。人之貧富不同，衣食之類，雖不可強于</q></note>
+                                <note><locus>p.27</locus><q>過分，然竭力盡心以敬奉者，全不在乎貧富，務須正直自守，毋非</q></note>
+                                <note><locus>p.28</locus><q>法行爲。以貽父母之憂，務須聲氣和平。毋舉止驕墮落，以寒父母</q></note>
+                                <note><locus>p.29</locus><q>之心。凡差使之處，不可畏難退【縮】而推諉。凡言語之間，不可固執己見而背違</q></note>
+                                <note><locus>p.30</locus><q>父母有疾醫治調攝，務必竭誠。事務當前，敬慎小心體貼厥意。如此方可稱報答父</q></note>
+                                <note><locus>p.31</locus><q>母養育之恩也，尔眾等各自奮勉，期盡子職者。</q></note>
+
+                            </msItem> 
+                            
+                            
+                        </msContents>
+                        <physDesc><objectDesc><supportDesc><support><dimensions unit="cm" type="leaf" n="1"><!-- use standard attribute values, e.g. leaf, written  
+                        https://git.io/msdescdoc#leafDimensions
+                        -->                           <height></height>
+                            <width> </width>
+                        </dimensions></support></supportDesc></objectDesc></physDesc>
+                        <history><provenance>Donated by Sir Edmund Trelawny Backhouse, Baronet (20 October 1873 – 8 January 1944).</provenance></history>
+                        
+                    </msPart>
+                    <msPart>
+                        <msIdentifier>
+                            <altIdentifier type="part"><idno>MS. Backhouse 3/2</idno></altIdentifier>
+                        </msIdentifier>
+                        <msContents>
+                            <msItem>
+                                <note><locus>p.1</locus><q>當愛敬兄長，凡人一家之中，尊者父</q></note>
+                                <note><locus>p.2</locus><q>母，其次即兄也。別人年長者，尚以兄禮敬之，於自身之兄而棄悌道？</q></note>
+                                <note><locus>p.3</locus><q>可乎？為人弟者，必須每事請問方形，不可妄行舉舉，時時謹遵教訓，不可偏心</q></note>
+                                <note><locus>p.4</locus><q>強變，飲食必讓，言語必順，行走必居後，坐立必居下，</q></note>
+                                <note><locus>p.5</locus><q>不可以小利而持爭心，不可以小事而存怨意，如此，方可稱爲</q></note>
+                                <note><locus>p.6</locus><q>能悌者也。倘心存巳雖年少，皆係一輩，凡事以獨自耑測為榮，分分卻想多</q></note>
+                                <note><locus>p.7</locus><q>得。毫不念及推讓，只圖一味暴戾持強，如此，光景之輕慢兄長，父母必然不悅</q></note>
+                                <note><locus>p.8</locus><q>不但有失悌道，至于承歡父母之道，一倂有玷。此雖另有好處</q></note>
+                                <note><locus>p.9 </locus><q>亦不是提起，可不戒哉。尔等若有如此之處，從此以後，速宜痛改，若無如此之</q></note>
+                                <note><locus>p.10 </locus><q>處，益加勉力願尔等力行必誠心竭力以盡悌道。以副朕諄功訓誨之</q></note>
+                                <note><locus>p.11</locus><q>旨，當和睦鄉里。凡緊急之事，可靠者</q></note>
+                                <note><locus>p.12 </locus><q>莫如鄉里，必一鄉之内，耆老子弟，如一體相看，安樂憂貧，如一家相念。</q></note>
+                                <note><locus>p.13 </locus><q>而相助相保，則爭訟之事既無，斷不至結仇破財，廢時誤事也。</q></note>
+                                <note><locus>P.14 </locus><q>尔等眾兵丁，于鄉里度日，不分人之近遠，据當溫良相待，不論事</q></note>
+                                <note><locus>p.15 </locus><q>之大小，皆宜謙恭相處，毋誇富而賤貧，毋倚貴而凌賤</q></note>
+                                <note><locus>p.16</locus><q>毋用聰明以欺愚，毋仗強盛而壓弱。若于人有難受，體情以想念之</q></note>
+                                <note><locus>P.17</locus><q>若意外之相侵，以理安慰之，巳有相容之量。人自生愧悔之心，若能忍于</q></note>
+                                <note><locus>p.18</locus><q>一時，鄉里之中贊尔。若小怨不爭，近鄰之輩尊尔,鄉里取和之道</q></note>
+                                <note><locus>P.19 </locus><q>更有貴于此者乎，若不如此，鄉里之内，至于互相仇怨，爭訟之事以生，既失相</q></note>
+                                <note><locus>p.20</locus><q>厚相和之道，不但過活不安，亦非為子孫籌算之計。尔等理宜尊尚親和睦之純風</q></note>
+                                <note><locus>p.21</locus><q>尔眾兵丁其敬聼之，不可怠惰，當教訓子弟，凡子弟爲人不善者，</q></note>
+                                <note><locus>p.22</locus><q>皆因父兄未曾預先教訓之故也。少年小子并無知識，心志未定，以善引誘之，即爲善人。</q></note>
+                                <note><locus>p.23</locus><q>以惡引之，即爲惡人。去惡就善，皆賴其為父兄者，在愛親敬長之意。</q></note>
+                                <note><locus>p.24</locus><q>人皆素所有者，為父兄之人，果能明白開導，使其曉於父子有親，君臣有義</q></note>
+                                <note><locus>p.25</locus><q>夫婦有別，長幼有序，朋友有信，其本既正</q></note>
+                                <note><locus>p.26</locus><q>則子弟輩明知之矣，自然無犯法過分之失也。諺云：幼學</q></note>
+                                <note><locus>p.27</locus><q>若天性，習慣成自然，人行壞事漸成風俗，或者賭</q></note>
+                                <note><locus>p.28</locus><q>錢飲酒，違誤差使，或者結交惡輩，放僻邪侈，甚</q></note>
+                                <note><locus>p.29</locus><q>至亦有犯法度，遭刑罰者，尔等子弟若如此，為父兄者心中安泰</q></note>
+                                <note><locus>p.30</locus><q>處之榮耀乎，與其事後追悔，不如平時嚴訓，尔等果加教習</q></note>
+                                <note><locus>p.31</locus><q>子弟能於效法，自然成就爲人，榮及父兄，光耀門楣也。</q></note>
+                                <note><locus>Lower flyleaf</locus><q>尔等欽遵，憑加曉諭。</q></note>
+                                
+                            </msItem> </msContents>
+                        <physDesc><objectDesc><supportDesc><support><dimensions unit="cm" type="leaf" n="1"><!-- use standard attribute values, e.g. leaf, written  
+                        https://git.io/msdescdoc#leafDimensions
+                        -->                           <height></height>
+                            <width> </width>
+                        </dimensions></support></supportDesc></objectDesc></physDesc>
+                        <history><provenance>Donated by Sir Edmund Trelawny Backhouse, Baronet (20 October 1873 – 8 January 1944).</provenance></history>  
+                    </msPart>
+                    <msPart>
+                        <msIdentifier>
+                            <altIdentifier type="part"><idno>MS. Backhouse 3/3</idno></altIdentifier>
+                        </msIdentifier>
+                        <msContents>
+                            <msItem>
+                                <note><locus>p.1</locus><q>當不可過分飲酒，夫酒之為物，特爲筵席</q></note>
+                                <note><locus>p.2</locus><q>合歡，欸待賓客者也，即飲則不失禮，過飲則多舛錯。然而，又亂人心志，</q></note>
+                                <note><locus>p.3</locus><q>改變本性，飲酒醉後，或一言不合，至于持刀相對，</q></note>
+                                <note><locus>p.4</locus><q>或小忿激怒，至于不顧生死，嘗閲刑部所奏人名事件，</q></note>
+                                <note><locus>p.5</locus><q>最多酒後傷人。于是亦有身被牢囚，破產廢命者，亦有牽連</q></note>
+                                <note><locus>p.6</locus><q>妻子，拖累親戚者，臨時之際，追悔何及。看耒醉後，違例</q></note>
+                                <note><locus>p.7</locus><q>越分而行。酒醒之後，亦知羞媿，倘常存羞媿之心，若能斷絕，</q></note>
+                                <note><locus>p.8</locus><q>則犯法淂罪之事。自然無。更有善于此者乎，或者有人見酒之後，不能</q></note>
+                                <note><locus>p.9 </locus><q>自主，忘其羞媿，仍前大飲，何其蠢也。從此以後尔兵丁等，當以爲大戒。</q></note>
+                                <note><locus>p.10 </locus><q>及為父兄親友之人，亦當力勸。尔等試觀貪酒之徒，身病</q></note>
+                                <note><locus>p.11</locus><q>力衰者多耳。曾見爲人長進壽數多淂者乎。尔眾兵，務體朕肫篤愛惜曉諭</q></note>
+                                <note><locus>p.12 </locus><q>之至意。當戒止賭博，人之大無益者，</q></note>
+                                <note><locus>p.13 </locus><q>未有過于賭錢。我們滿洲原本純樸無此惡習。今聞亦有賭錢</q></note>
+                                <note><locus>P.14 </locus><q>者，夫賭錢之人，輸敗產者多，贏而富家者少，然而窮富，</q></note>
+                                <note><locus>p.15 </locus><q>皆各有命，非可妄想之者也，或者習惡不肖之徒，不守命，不遵法</q></note>
+                                <note><locus>p.16</locus><q>欲盡勝他人之財，以遂其貪心，故局騗他人，設種種法術以贏人，</q></note>
+                                <note><locus>P.17</locus><q>雖已贏矣其坑人所淂之財，為日不久，亦已喪敗，更有一等愚人</q></note>
+                                <note><locus>p.18</locus><q>入其圈套，墮其局中，盡忘其敗品行壊生計，賭至于大敗</q></note>
+                                <note><locus>P.19 </locus><q>其初也罄其財帛，繼而至于不顧身命，闘毆訐告，尔兵</q></note>
+                                <note><locus>p.20</locus><q>丁等，每季得錢糧，每年種地，凡事若節省，不但度日甚足用，</q></note>
+                                <note><locus>p.21</locus><q>并可常【留】有餘以俻後。何所逼迫而恃如此下流之心，而動此不堪舉耶？</q></note>
+                                <note><locus>p.22</locus><q>朕恐滿洲奴僕無知，貪入賭錢，以敗家產，以獲罪戾。故明白開導教諭。</q></note>
+                                <note><locus>p.23</locus><q>不等若知過失，戒賭博，守分度日，去其妄想之心。則可永保</q></note>
+                                <note><locus>p.24</locus><q>身家，亦得免于責罰。其速改前之惡習，毋違</q></note>
+                                <note><locus>p.25</locus><q>當戒止閗歐。人生莫大于守身。</q></note>
+                                <note><locus>p.26</locus><q>閗毆之事，或有起于舊愁，或者有起于一時之忿，竟至忘身捨命不顧而行。</q></note>
+                                <note><locus>p.27</locus><q>何其不明也哉。凡人之身，上則承宗祧，下則養子息。</q></note>
+                                <note><locus>p.28</locus><q>所関匪小，何可輕乎。今夫大凡一物，尚不可忘費，身</q></note>
+                                <note><locus>p.29</locus><q>命反不惜愛乎？細察如故，皆由早時未成性氣而然耳。入于性氣能忍則平。</q></note>
+                                <note><locus>p.30</locus><q>于性氣不忍則暴，暴則些須小忿即不願同生，平則任何大事亦皆損釋。</q></note>
+                                <note><locus>p.31</locus><q>以此觀之，不戒性氣斷乎不可。又有由人教唆而成者，正發怒之時，</q></note>
+                                <note><locus>p.32</locus><q>人若諫勸，其怒則消，人若唆激，其怒即起，怒發以至剅毆，生死只在</q></note>
+                                <note><locus>p.33</locus><q>須更可不慎或況且已身若死，妻子苦累，他人若死法律償命。</q></note>
+                                <note><locus>p.34</locus><q>不可報先日之仇而忘日後之憂，不可逞目前只忿，而致事后之悔。</q></note>
+                                <note><locus>p.35</locus><q>留此有用之身，以報國保家。不可洩一時之氣，</q></note>
+                                <note><locus>Lower flyleaf</locus><q>捨命身行爲。</q></note>
+                                
+                                
+                            </msItem> </msContents>
+                        <physDesc><objectDesc><supportDesc><support><dimensions unit="cm" type="leaf" n="1"><!-- use standard attribute values, e.g. leaf, written  
+                        https://git.io/msdescdoc#leafDimensions
+                        -->                           <height></height>
+                            <width> </width>
+                        </dimensions></support></supportDesc></objectDesc></physDesc>
+                        <history><provenance>Donated by Sir Edmund Trelawny Backhouse, Baronet (20 October 1873 – 8 January 1944).</provenance></history>  
+                    </msPart>
+                    <msPart>
+                        <msIdentifier>
+                            <altIdentifier type="part"><idno>MS. Backhouse 3/4</idno></altIdentifier>
+                        </msIdentifier>
+                        <msContents>
+                            <msItem>
+                                <note><locus>p.1</locus><q>當盡力務農。尔兵丁等，每季開支錢粮。</q></note>
+                                <note><locus>p.2</locus><q>又各給田耕種，若不務農，糧食不得，若不盡力，雖務無益，此皆人所盡知者，</q></note>
+                                <note><locus>p.3</locus><q>倘若巳身懶惰，至於荒廢，則米粮困乏生計焦勞。況且雨水不調，雖盡力農田之</q></note>
+                                <note><locus>p.4</locus><q>輩，倘憂不得多収，何況實米盡力之輩？朕為天下之君，</q></note>
+                                <note><locus>p.5</locus><q>倘不憚焦勞，率王大臣等，每年耕耤田，特此鼓舞大衆，使之勤力農工，</q></note>
+                                <note><locus>p.6</locus><q>糧米豐收，歡樂度日之意。眾兵丁等，果不懶惰，當耕之時耕，當耘之時耘，</q></note>
+                                <note><locus>p.7</locus><q>當收之時【】，當聚之時聚，則年年豐裕。上可以孝順父母，</q></note>
+                                <note><locus>p.8</locus><q>不可以養妻子。間遇荒年，因有先年積聚者，粮米接續不至於困乏也</q></note>
+                                <note><locus>p.9 </locus><q>再管轄官員，尓等皆有教導鼓舞之責任，毋違農時，毋違農務，怠惰</q></note>
+                                <note><locus>p.10 </locus><q>者懲之，勤勞者恤之。尔等所管兵丁，家阜人足，尔等亦與有榮焉，其善教之，不可</q></note>
+                                <note><locus>p.11</locus><q>違拗。當演習騎射，凡人各有執掌之事</q></note>
+                                <note><locus>p.12 </locus><q>尔等兵丁既食國家錢粮，騎射即尔等專司之事，不習學可乎？尔衆兵丁</q></note>
+                                <note><locus>p.13 </locus><q>毫無分心之別事。如果用心，將善於騎之射之人指教之語，牽記心中常常習學</q></note>
+                                <note><locus>P.14 </locus><q>斷無不熟之理，倘當此太平無事之時，耽于安樂，棄騎射而不習，</q></note>
+                                <note><locus>p.15 </locus><q>尔等將何以仰報國家養育之恩？況騎射者，滿洲之舊業。騎射</q></note>
+                                <note><locus>p.16</locus><q>若熟，圍場之中可得美名，成丁走動之處不失男子之氣，騎射若生，管轄之官被其辱，</q></note>
+                                <note><locus>P.17</locus><q>同伴之間覺其媿，選覺之列不【算】數，庸劣之群終其身。深夜撫胷思之，</q></note>
+                                <note><locus>p.18</locus><q>能無媿乎？自此以後人各習學，若射把必中，獵獸務獲，</q></note>
+                                <note><locus>P.19 </locus><q>眾皆既賛其步騎優長，自然名列選舉之處，淂陞轉之途，由兵而官</q></note>
+                                <note><locus>p.20</locus><q>由官而陞至大人，如此，不至空食國家錢粮。巳身榮貴，亦可</q></note>
+                                <note><locus>p.21</locus><q>顯祖父。尔等理宜選別熟善，熟惡，熟貴，熟賤而行。不可為話柄以</q></note>
+                                <note><locus>p.22</locus><q>貽羞於後世子孫也。當崇尚省儉，人不能一日無用，</q></note>
+                                <note><locus>p.23</locus><q>不可一日無財，雖然必將財有餘剩，兒後可應不時之用，</q></note>
+                                <note><locus>p.24</locus><q>是敬以省儉為貴。如今之兵丁所関錢粮，原有定數，或不善度日之人，不思節省</q></note>
+                                <note><locus>p.25</locus><q>衣服則用華彩，食物則用美好，一月之間，費數月之錢粮，</q></note>
+                                <note><locus>p.26</locus><q>甚至借貸，以遂其意，本利重叠，債負已多，至於凍餓。國家</q></note>
+                                <note><locus>p.27</locus><q>毫末減其錢糧而所以窮困者，特以不省不儉之所由來耳。或其祖宗勤苦省儉，</q></note>
+                                <note><locus>p.28</locus><q>日積月累，至於豐裕，子孫將所遺之產，任意奢費，</q></note>
+                                <note><locus>p.29</locus><q>一時罄盡以至不得棲身之地，尔等衣服不可過華，酒食不可無度</q></note>
+                                <note><locus>p.30</locus><q>憂喜事各守其分，一應動用物件必須純樸，若如此，窮者不至</q></note>
+                                <note><locus>p.31</locus><q>於窮，窮者可至於富安享本業，諺云，惜食淂食</q></note>
+                                <note><locus>p.32</locus><q>惜衣得衣，尔等身體力行，毋淂非分過奢</q></note> </msItem> </msContents>
+                        <physDesc><objectDesc><supportDesc><support><dimensions unit="cm" type="leaf" n="1"><!-- use standard attribute values, e.g. leaf, written  
+                        https://git.io/msdescdoc#leafDimensions
+                        -->                           <height></height>
+                            <width> </width>
+                        </dimensions></support></supportDesc></objectDesc></physDesc>
+                        <history><provenance>Donated by Sir Edmund Trelawny Backhouse, Baronet (20 October 1873 – 8 January 1944).</provenance></history>  
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change>
+                <!-- insert relevant text, e.g. 'First online publication' -->
+                <!-- provide the date of the change using the @when attribute -->
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><!--Body paragraph provided for validation and future transcription--></p>
+        </body>
+    </text>
+</TEI>
+
+
+
