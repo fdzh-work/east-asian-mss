@@ -9,7 +9,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>MS. Backhouse 2b</title>
+                <title>MS. Backhouse 6</title>
                 
                 <respStmt>
                     <resp>Cataloguer</resp>
@@ -44,44 +44,45 @@
                     <msIdentifier>
                         <settlement><!-- insert --></settlement>
                         <repository>Bodleian Library</repository><!-- change if necessary -->
-                        <idno type="shelfmark">MS. Backhouse 2b</idno>
+                        <idno type="shelfmark">MS. Backhouse 6</idno>
                         
                     </msIdentifier>
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>皇朝武功紀盛</summary>
-                        <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
+                        <summary>滿漢話條，一套四卷</summary>
+                        <textLang mainLang="zh">Chinese </textLang><!-- change text and attribute if necessary -->
                         
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
-                            <title>皇朝武功紀盛</title>
-                            <author key="Q4388724">        
-                                <persName>趙翼</persName>
-                                <persName type="字">雲崧</persName>
-                                <persName type="號">甌北</persName>
-                                <date notAfter="1814" notBefore="1727" calendar="Gregorian">1727-1814</date>
-                            </author>
-
-                            
+                            <title key="supplied title">【滿漢話條】</title>
+                            <author>unknown</author>
+                           
                         </msItem>
+                        
+                        
                         <!-- insert further msItem elements as appropriate -->
                     </msContents>
                     <physDesc>
                         
-                        <objectDesc form="包背裝"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
+                        <objectDesc form="綫裝"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
                             <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
                                 <support>桑紙</support>
-                                <extent> 二冊 
+                                <extent>共四卷。第一卷36頁（36 ff.），第二卷46頁（46 ff.），第三卷61頁（61 ff.），第四卷62頁（62 ff.）。
+                                    one volume 81 ff.
                                     
-                                    
+                                    <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
+                        https://git.io/msdescdoc#leafDimensions
+                        -->                           <height>27.1 cm</height>
+                                        <width>18.1 cm </width>
+                                    </dimensions>
                                     <!-- use additional dimensions elements if necessary -->
                                 </extent>
                                 
-                                
+                                <condition>封面污跡彎折明顯，邊緣磨損，内頁有水印，略有污跡 </condition>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>内頁黑色單綫邊框，每半頁含11列每列21字。</layout>
+                                <layout>内頁無邊框，每半頁分十行單列抄寫，滿漢對照。</layout>
                                 <!-- use additional layout elements if necessary 
                         https://git.io/msdescdoc#layoutdesc-->
                             </layoutDesc>
@@ -89,15 +90,20 @@
                         
                         <handDesc><!-- use the @hands attribute to record the number of scribes -->
                             <handNote>
-                                楷體書寫</handNote>
+                                漢字以楷寫成。</handNote>
                             <!-- use additional handNote elements if necessary 
                      https://git.io/msdescdoc#handdesc
                      -->
                         </handDesc>
-                        
+                        <musicNotation>
+                            <p><!-- insert if relevant, otherwise delete --></p>
+                            <!-- use additional p elements if necessary 
+                     https://git.io/msdescdoc#musicnotation
+                     -->
+                        </musicNotation>
                         <decoDesc>
                             <decoNote>
-                               書衣為栗色毛邊紙製成。</decoNote>
+                                書衣以藍色紙製成，書籤以暗紅色紙製成。</decoNote>
                             <!-- use additional decoNote elements if necessary 
                      https://git.io/msdescdoc#decodesc
                      -->
@@ -122,18 +128,14 @@
                             <!-- see https://git.io/msdescdoc#origin -->
                             <origPlace>
                                 <country>中國</country>,
-                                <region>不詳</region>,
                                 
                             </origPlace>
-                            <origDate notAfter="1900" notBefore="1800" calendar="Gregorian">清代</origDate>
+                            <origDate notAfter="1700" notBefore="1500" calendar="Gregorian">清代</origDate>
                             <!-- use additional origPlace and origDate elements if necessary -->
                         </origin>
-                        
+                        <provenance>Donated by Sir Edmund Trelawny Backhouse, Baronet (20 October 1873 – 8 January 1944).</provenance>
                         <!-- use additional provenance elements if necessary -->
-                        <acquisition>
-                            <!-- insert -->
-                            <!-- use dating attributes where possible -->
-                        </acquisition>
+
                     </history>
                     <additional>
                         <adminInfo>
@@ -155,68 +157,7 @@
                             
                         </listBibl>
                     </additional>
-                    <msPart>
-                        <msIdentifier>
-                            <altIdentifier type="part"><idno>MS. Backhouse 2b/1 </idno></altIdentifier>
-                        </msIdentifier>
-                        <msContents>
-                            <msItem>
-                                
-                                <msItem>
-                                <title>皇朝武功紀盛 上</title>
-                                    <note><locus>p.1</locus><q>皇朝武功紀盛序（欽惟我...）</q></note>
-                                
-                                    <note><locus>p.4</locus><q>皇朝武功紀盛序</q></note></msItem>
-                              
-                                   
-                                <msItem>
-                                    <title type="sub">皇朝武功紀盛卷一</title>
-                                    <note><locus>p.7</locus><q>《皇朝武功紀盛卷一》 陽湖趙翼雲崧《平定三逆述略》</q></note>
-                                    <note><locus>p.23</locus><q>《平定朔漠述略》</q></note></msItem>
-                                <msItem>
-                                    <title type="sub">皇朝武功紀盛卷二</title>
-                                    <note><locus>p.28</locus><q>《皇朝武功紀盛卷二》 陽湖趙翼雲崧《平定準噶爾前編述略》</q></note>
-                                    <note><locus>p.32</locus><q>平定準噶爾正編述略</q></note></msItem>
-
-                            </msItem> 
-                            
-                            
-                        </msContents>
-                        <physDesc><objectDesc><supportDesc><support><dimensions unit="cm" type="leaf" n="1"><!-- use standard attribute values, e.g. leaf, written  
-                        https://git.io/msdescdoc#leafDimensions
-                        -->                           <height></height>
-                            <width> </width>
-                        </dimensions></support></supportDesc></objectDesc></physDesc>
-                        <history><provenance>Donated by Sir Edmund Trelawny Backhouse, Baronet (20 October 1873 – 8 January 1944).</provenance></history>
-                        
-                    </msPart>
-                    <msPart>
-                        <msIdentifier>
-                            <altIdentifier type="part"><idno>MS. Backhouse 2b/2</idno></altIdentifier>
-                        </msIdentifier>
-                        <msContents>
-                                
-                                <msItem>
-                                    <title>皇朝武功紀盛 下</title>
-                                    
-
-                                <msItem>
-                                    <title type="sub">皇朝武功紀盛卷三</title>
-                                    <note><locus>p.1</locus><q>《皇朝武功紀盛卷三》 陽湖趙翼雲崧《平定緬甸述略》</q></note></msItem>
-                                <msItem>
-                                    <title type="sub">皇朝武功紀盛卷四</title>
-                                    <note><locus>p.13</locus><q>《皇朝武功紀盛卷四》 陽湖趙翼雲崧《平定兩金川述略》</q></note>
-                                    <note><locus>p.27</locus><q>平定臺灣述略</q></note>
-                                    <note><locus>p.34</locus><q>平定廓爾喀述略</q></note></msItem>
-                                
-                            </msItem>   </msContents>
-                        <physDesc><objectDesc><supportDesc><support><dimensions unit="cm" type="leaf" n="1"><!-- use standard attribute values, e.g. leaf, written  
-                        https://git.io/msdescdoc#leafDimensions
-                        -->                           <height></height>
-                            <width> </width>
-                        </dimensions></support></supportDesc></objectDesc></physDesc>
-                        <history><provenance>Donated by Sir Edmund Trelawny Backhouse, Baronet (20 October 1873 – 8 January 1944).</provenance></history>  
-                    </msPart>
+                    
                     
                 </msDesc>
             </sourceDesc>

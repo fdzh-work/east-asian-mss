@@ -9,7 +9,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>MS. Backhouse 2b</title>
+                <title>MS. Backhouse 5</title>
                 
                 <respStmt>
                     <resp>Cataloguer</resp>
@@ -44,25 +44,20 @@
                     <msIdentifier>
                         <settlement><!-- insert --></settlement>
                         <repository>Bodleian Library</repository><!-- change if necessary -->
-                        <idno type="shelfmark">MS. Backhouse 2b</idno>
+                        <idno type="shelfmark">MS. Backhouse 5</idno>
                         
                     </msIdentifier>
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>皇朝武功紀盛</summary>
+                        <summary>滿漢對照蘇軾文選二冊，漢字部分為楷書</summary>
                         <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
                         
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
-                            <title>皇朝武功紀盛</title>
-                            <author key="Q4388724">        
-                                <persName>趙翼</persName>
-                                <persName type="字">雲崧</persName>
-                                <persName type="號">甌北</persName>
-                                <date notAfter="1814" notBefore="1727" calendar="Gregorian">1727-1814</date>
-                            </author>
-
+                            <title>[滿漢對照蘇軾文選]</title>
+                            <author key="_unknown">unknown</author>
+                            
                             
                         </msItem>
                         <!-- insert further msItem elements as appropriate -->
@@ -81,7 +76,7 @@
                                 
                             </supportDesc>
                             <layoutDesc>
-                                <layout>内頁黑色單綫邊框，每半頁含11列每列21字。</layout>
+                                <layout>每半頁分九列滿文抄寫。部分頁面為滿漢對照，滿文分九列，漢文根據文義標注在滿文右側。</layout>
                                 <!-- use additional layout elements if necessary 
                         https://git.io/msdescdoc#layoutdesc-->
                             </layoutDesc>
@@ -89,7 +84,7 @@
                         
                         <handDesc><!-- use the @hands attribute to record the number of scribes -->
                             <handNote>
-                                楷體書寫</handNote>
+                                漢字為楷體書寫</handNote>
                             <!-- use additional handNote elements if necessary 
                      https://git.io/msdescdoc#handdesc
                      -->
@@ -97,7 +92,7 @@
                         
                         <decoDesc>
                             <decoNote>
-                               書衣為栗色毛邊紙製成。</decoNote>
+                                書衣為藏藍色布料製成。</decoNote>
                             <!-- use additional decoNote elements if necessary 
                      https://git.io/msdescdoc#decodesc
                      -->
@@ -157,27 +152,25 @@
                     </additional>
                     <msPart>
                         <msIdentifier>
-                            <altIdentifier type="part"><idno>MS. Backhouse 2b/1 </idno></altIdentifier>
+                            <altIdentifier type="part"><idno>MS. Backhouse 5/1 </idno></altIdentifier>
                         </msIdentifier>
                         <msContents>
                             <msItem>
                                 
                                 <msItem>
-                                <title>皇朝武功紀盛 上</title>
-                                    <note><locus>p.1</locus><q>皇朝武功紀盛序（欽惟我...）</q></note>
+                                  <locus>p.1</locus><title>策略一</title></msItem>
                                 
-                                    <note><locus>p.4</locus><q>皇朝武功紀盛序</q></note></msItem>
-                              
-                                   
                                 <msItem>
-                                    <title type="sub">皇朝武功紀盛卷一</title>
-                                    <note><locus>p.7</locus><q>《皇朝武功紀盛卷一》 陽湖趙翼雲崧《平定三逆述略》</q></note>
-                                    <note><locus>p.23</locus><q>《平定朔漠述略》</q></note></msItem>
+                                    <locus>p.7</locus><title>論治道</title></msItem>
                                 <msItem>
-                                    <title type="sub">皇朝武功紀盛卷二</title>
-                                    <note><locus>p.28</locus><q>《皇朝武功紀盛卷二》 陽湖趙翼雲崧《平定準噶爾前編述略》</q></note>
-                                    <note><locus>p.32</locus><q>平定準噶爾正編述略</q></note></msItem>
-
+                                    <locus>p.14</locus><title>正統論</title></msItem>
+                                <msItem>
+                                    <locus>p.18</locus><title>孔子從先進論</title></msItem>
+                                <msItem>
+                                    <locus>p.25</locus><title>伊尹論</title></msItem>
+                                <msItem>
+                                    <locus>p.55</locus><title>讀賈誼傳</title></msItem>
+                                
                             </msItem> 
                             
                             
@@ -192,24 +185,9 @@
                     </msPart>
                     <msPart>
                         <msIdentifier>
-                            <altIdentifier type="part"><idno>MS. Backhouse 2b/2</idno></altIdentifier>
+                            <altIdentifier type="part"><idno>MS. Backhouse 5/2</idno></altIdentifier>
                         </msIdentifier>
-                        <msContents>
-                                
-                                <msItem>
-                                    <title>皇朝武功紀盛 下</title>
-                                    
-
-                                <msItem>
-                                    <title type="sub">皇朝武功紀盛卷三</title>
-                                    <note><locus>p.1</locus><q>《皇朝武功紀盛卷三》 陽湖趙翼雲崧《平定緬甸述略》</q></note></msItem>
-                                <msItem>
-                                    <title type="sub">皇朝武功紀盛卷四</title>
-                                    <note><locus>p.13</locus><q>《皇朝武功紀盛卷四》 陽湖趙翼雲崧《平定兩金川述略》</q></note>
-                                    <note><locus>p.27</locus><q>平定臺灣述略</q></note>
-                                    <note><locus>p.34</locus><q>平定廓爾喀述略</q></note></msItem>
-                                
-                            </msItem>   </msContents>
+                        <msContents><msItem><note>本冊全本為滿語抄寫。</note> </msItem></msContents>
                         <physDesc><objectDesc><supportDesc><support><dimensions unit="cm" type="leaf" n="1"><!-- use standard attribute values, e.g. leaf, written  
                         https://git.io/msdescdoc#leafDimensions
                         -->                           <height></height>

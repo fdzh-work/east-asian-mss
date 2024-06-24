@@ -63,7 +63,6 @@
                                 <date notAfter="1814" notBefore="1727" calendar="Gregorian">1727-1814</date>
                             </author>
 
-                            <filiation>手抄本,中外孤本。 only surviving copy.</filiation>
                             
                         </msItem>
                         <!-- insert further msItem elements as appropriate -->
@@ -72,8 +71,8 @@
                         
                         <objectDesc form="包背裝"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
                             <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                                <support>mulberry and bamboo mixed paper</support>
-                                <extent> 二冊 two volumes
+                                <support>桑紙</support>
+                                <extent> 二冊
                                     
                                     
                                     <!-- use additional dimensions elements if necessary -->
@@ -90,7 +89,7 @@
                         
                         <handDesc><!-- use the @hands attribute to record the number of scribes -->
                             <handNote>
-                                Chinese characters written in 楷體 (kai shu, regular) calligraphic style</handNote>
+                                楷書抄寫</handNote>
                             <!-- use additional handNote elements if necessary 
                      https://git.io/msdescdoc#handdesc
                      -->
@@ -98,7 +97,7 @@
                         
                         <decoDesc>
                             <decoNote>
-                                The book cover is made of traditional Chinese paper in light-brown colour.</decoNote>
+                                書衣為栗色毛邊紙製成</decoNote>
                             <!-- use additional decoNote elements if necessary 
                      https://git.io/msdescdoc#decodesc
                      -->
@@ -122,8 +121,8 @@
                         <origin>
                             <!-- see https://git.io/msdescdoc#origin -->
                             <origPlace>
-                                <country>China</country>,
-                                <region>Guangdong Province</region>,
+                                <country>中國</country>,
+                                <region>不詳</region>,
                                 
                             </origPlace>
                             <origDate notAfter="1900" notBefore="1800" calendar="Gregorian">清代</origDate>
