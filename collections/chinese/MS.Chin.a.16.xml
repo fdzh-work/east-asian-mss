@@ -9,7 +9,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>MS.Chin.a.15</title>
+                <title>MS.Chin.a.16</title>
                 
                 <respStmt>
                     <resp>Cataloguer</resp>
@@ -44,38 +44,68 @@
                     <msIdentifier>
                         <settlement><!-- insert --></settlement>
                         <repository>Bodleian Library</repository><!-- change if necessary -->
-                        <idno type="shelfmark">MS.Chin.a.15</idno>
+                        <idno type="shelfmark">MS.Chin.a.16</idno>
                         
                         
                     </msIdentifier>
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>萬安橋記拓片</summary>
+                        <summary>拓片一套共十一軸</summary>
                         <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
                         
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            <title key="supplied title">【萬安橋記拓片 軸】</title>
+                            <title key="supplied title">【唐泉【易】生墓志銘等拓片 共十一軸】</title>
                             <author key="_unknown">unknown</author>
                             
                             <msItem>
-                                <title key="shelfmark">MS.Chin.a.15(1)</title>
-                                <incipit type="釋文">泉州萬安渡石橋。始造於皇祐五年四月庚寅。以嘉祐四年十二月辛未訖功。絫趾于淵。釃水為四十</incipit>
+                                <title key="shelfmark">MS.Chin.a.16(1)</title>
+                                <incipit type="釋文">唐泉【易】生墓志銘并篆蓋歐陽通小楷書調露元年十二月二十六日刊石近嵗洛陽出土開封許平石題</incipit>
                             </msItem>
                             
                             <msItem>   
-                                <title key="shelfmark">MS.Chin.a.15(2)</title>
-                                <incipit type="釋文">七道。梁空以行。其長三千六百尺。廣丈有五尺。翼以扶欄。如其長之數而兩之。靡金錢一千四百萬。求</incipit> </msItem> 
+                                <title key="shelfmark">MS.Chin.a.16(2)</title>
+                                <incipit type="釋文">唐泉【易】生墓志銘蓋夷門許平石題</incipit> </msItem> 
                             
                             <msItem>
-                                <title key="shelfmark">MS.Chin.a.15(3)</title>
-                                <incipit type="釋文">諸施者。渡實支海。去舟而徒。易危而安。民莫不利。職其事盧錫。王寔。許忠浮。圖義波。宗善等十有五人。</incipit>
+                                <title key="shelfmark">MS.Chin.a.16(3)</title>
+                                <incipit type="釋文">魏元寳建志銘 興和三年八月廿一日刊后近嵗洛陽出土許平石題</incipit>
                             </msItem>
                             <msItem>
-                                <title key="shelfmark">MS.Chin.a.15(4)</title>
-                                <incipit type="釋文">既成。太守莆陽蔡襄為之合樂讌飲而落之。明年秋。蒙召還京。道繇是出。因紀所作。勒于岸左。</incipit>
+                                <title key="shelfmark">MS.Chin.a.16(4)</title>
+                                <incipit type="釋文">魏元昉志銘 建義元年七月卅日刊后近嵗洛陽出土許平石【題】</incipit>
+                            </msItem>
+                            <msItem>
+                                <title key="shelfmark">MS.Chin.a.16(5)</title>
+                                <incipit type="釋文">魏元騰志銘 神龜二年十一月九日刊后近嵗洛陽出土許平石題</incipit>
+                            </msItem>
+                            
+                            <msItem>   
+                                <title key="shelfmark">MS.Chin.a.16(6)</title>
+                                <incipit type="釋文">魏元斌志銘 太和廿三年十一月廿日造近嵗洛陽出土許平石【題】</incipit> </msItem> 
+                            
+                            <msItem>
+                                <title key="shelfmark">MS.Chin.a.16(7)</title>
+                                <incipit type="釋文">魏元乂志銘 孝昌二年七月廿四日造近嵗洛陽出土癸酉孟春開封許平石題</incipit>
+                            </msItem>
+                            <msItem>
+                                <title key="shelfmark">MS.Chin.a.16(8)</title>
+                                <incipit type="釋文">魏元懷志銘 熙平二年八月廿日刊后近嵗洛陽出土許平石題</incipit>
+                            </msItem>
+                            <msItem>
+                                <title key="shelfmark">MS.Chin.a.16(9)</title>
+                                <incipit type="釋文">魏元譿志銘 神龜三年十一月十四日造近嵗洛陽出土許平石【題】</incipit>
+                            </msItem>
+                            
+                            <msItem>   
+                                <title key="shelfmark">MS.Chin.a.16(10)</title>
+                                <incipit type="釋文">魏元暐志銘 【永】泰元年三月十六日造近嵗洛陽出土癸酉新春大梁許平石【題】</incipit> </msItem> 
+                            
+                            <msItem>
+                                <title key="shelfmark">MS.Chin.a.16(11)</title>
+                                <incipit type="釋文">隋鄧州大興國寺建舍利塔銘 仁壽二年四月八日刊后大梁許平石題</incipit>
                             </msItem>
                         </msItem>
                         <!-- insert further msItem elements as appropriate --> 
@@ -86,7 +116,7 @@
                         <objectDesc form="立軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
                             <supportDesc material="紙本"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
                                 <support>紙</support>
-                                <extent>四軸
+                                <extent>十一軸
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
                         https://git.io/msdescdoc#leafDimensions
@@ -107,7 +137,7 @@
                         
                         <handDesc><!-- use the @hands attribute to record the number of scribes -->
                             <handNote>
-                                隸書</handNote>
+                                楷書、篆書</handNote>
                             <!-- use additional handNote elements if necessary 
                      https://git.io/msdescdoc#handdesc
                      -->
@@ -125,7 +155,7 @@
                             <binding when="1800"><!-- use dating attributes to record the date -->
                                 <p> 立軸</p>
                                 <decoNote>
-                                    一套由四件立軸組成。每個立軸都為一色裱,天頭地脚為藍色絲織物。每軸畫心分爲三行，每行十三字。</decoNote>
+                                    一套由十一件立軸組成。每個立軸都為一色裱,天頭地脚為藍色絲織物。</decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>
@@ -142,7 +172,7 @@
                                 <country>China</country>,
                                 
                             </origPlace>
-                            <origDate notAfter="1900" notBefore="1800" calendar="Gregorian">清光緒年間</origDate>
+                            <origDate notAfter="1900" notBefore="1800" calendar="Gregorian">據傳為民國</origDate>
                             <!-- use additional origPlace and origDate elements if necessary -->
                         </origin>
                         <provenance></provenance>
