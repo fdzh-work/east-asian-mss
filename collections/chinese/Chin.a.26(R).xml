@@ -9,7 +9,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>MS.Chin.c.9</title>
+                <title>Chin.a.26(R)</title>
                 
                 <respStmt>
                     <resp>Cataloguer</resp>
@@ -44,60 +44,63 @@
                     <msIdentifier>
                         <settlement><!-- insert --></settlement>
                         <repository>Bodleian Library</repository><!-- change if necessary -->
-                        <idno type="shelfmark">MS.Chin.c.9</idno>
+                        <idno type="shelfmark">Chin.a.26(R)</idno>
                         
                         
                     </msIdentifier>
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>清代外銷畫冊</summary>
+                        <summary>魏劉根等造像碑拓片 軸</summary>
                         <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
                         
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
-
-                            <title key="desc">【清代外銷畫人物十幅 冊】</title>
-                            <author key="_yungqua">        
-                                <persName>YUNGQUA, Dealers in Pictures charts and c</persName>
-                            </author>
-                            <note><locus>Lower Flyleaf recto</locus><q>YUNGQUA, DEALER IN PICTURES CHARTS AND C</q></note>
-                            <note><locus>Inside of Upper Board</locus><q>Bateman of middleton Hall by Youlgrave in the County of Derby</q></note>
-                            <note><locus>Inside of Upper Board</locus><q>lot 56[s] in the Bateman sale. bt, by the Bodleian 26. 5. 1893</q></note>
+                            <locus><!-- insert --></locus>
+                            <title key="supplied title">【魏劉根等造像碑拓片 軸】</title>
+                            <author key="_unknown">unknown</author>
                             
-
+                            <msItem>
+                                
+                                <incipit type="釋文">魏劉根【等】造像</incipit>
+                                <incipit type="釋文">正光五年五月卅日刊石清光緒年間</incipit> 
+                                <incipit type="釋文">洛陽義井舖出土葵酉春月夷門許平石題</incipit>
+                                <incipit type="釋文">夫水盡則影亡，谷盈則響滅。娑羅現北首之期，負杖發山類之歎，物分以然，理趣無【爽】，故優填戀道，鑄真金以寫靈容；目連慕德，【剋】旃檀而圖聖像。違願儵忽尚或如斯，況劉根等托於【冥】【冥】之中，生於千載之下，進不【值】鷲嶺。初軒退未，遇龍華寶駕而不豫殖微因，心存祈問，何以拔此昏疆遠邀三會，樹因菩提者，必資緣於善友，入海求珎者，亦恁導於水師。故世王之愆藉耆婆而曉，須達之倒假門神而悟，由此而言，自金剛以還，未有不須友而成者也。於此迭相將動異心，影附法義之眾，遂至卌一人有餘，各竭己家珎，並勸一切仰為皇帝陛下、皇太后、中宮、眷屬、士官、僚庶、法界有形，敬造三級【磚】浮圖一【漚】，藉此徽因，周滿世性，慧雲弥布，慧波洪澍，令一仞含零悉入智海。學窮首楞，究竟常果，大誓莊嚴，理無虛應，十方淨覺，現為我證。大魏正光五年歲次甲辰五月庚戌朔【卅】日已卯建訖。佛弟子劉根卌一人等敬造刊記。 
+                                    侍中車騎大將軍、儀同三司、左衛將軍、御史中尉領領左右武陽縣開國公【侯】【剛】；前將軍武衛將軍領細作令寧國伯乞伏寶；武衛將軍景明寺都將元衍；冠軍將軍中散大夫華林都將領右衛司馬孟永。
+                                </incipit>
+                                <incipit type="釋文">河南省振務會主席張鈁敬贈</incipit>
+                                <incipit type="seal">張鈁</incipit></msItem> 
                         </msItem>
                         <!-- insert further msItem elements as appropriate --> 
                         
                     </msContents>
                     <physDesc>
                         
-                        <objectDesc form="冊"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
-                            <supportDesc material="通草紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                                <support>通草紙</support>
-                                <extent> 
-                                    一冊共十三頁，包含十幅畫。
+                        <objectDesc form="卷軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
+                            <supportDesc material="紙本"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
+                                <support>紙</support>
+                                <extent>一軸
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
                         https://git.io/msdescdoc#leafDimensions
-                        -->                           <!-- <height></height> -->
-                                        <!-- <width></width> -->
+                        -->                           <height></height>
+                                        <width></width>
                                     </dimensions>
                                     <!-- use additional dimensions elements if necessary -->
                                 </extent>
                                 
-                                <condition>封面織物略有破損。<!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
+                                <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
                             </supportDesc>
                             <layoutDesc>
-                                <layout></layout>
+                                <layout>拓片,墨色。</layout>
                                 
                             </layoutDesc>
                             
                         </objectDesc>
                         
-                        <handDesc><handNote>
-                           水彩畫</handNote><!-- use the @hands attribute to record the number of scribes -->
-                            <!-- <handNote> </handNote> --> 
+                        <handDesc><!-- use the @hands attribute to record the number of scribes -->
+                            <handNote>
+                                楷書、篆書</handNote>
                             <!-- use additional handNote elements if necessary 
                      https://git.io/msdescdoc#handdesc
                      -->
@@ -113,10 +116,9 @@
                         
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
-                                <p>冊</p>
+                                <p>卷軸</p>
                                 <decoNote>
-                                    畫冊，内含十二幅畫。封面和封底由黃色帶有紅、粉、藍、綠四色花紋的絲織物裝裱，
-                                    畫心由綠色條狀絲織物為框裝裱在白色紙本上。封面和封底上包有用黑色防水織物製作的書皮。</decoNote>
+                                   一色裱,天頭地脚為白色絲織物。</decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>
@@ -131,18 +133,19 @@
                             <!-- see https://git.io/msdescdoc#origin -->
                             <origPlace>
                                 <country>中國</country>,
-                                <region>廣東</region>,
-                                <settlement><!-- insert --></settlement>,
-                                <orgName><!-- insert --></orgName>
+                                
                             </origPlace>
-                            <origDate notAfter="1900" notBefore="1700" calendar="Gregorian">清代</origDate>
+                            <origDate notAfter="1900" notBefore="1800" calendar="Gregorian">據傳為民國</origDate>
                             <!-- use additional origPlace and origDate elements if necessary -->
                         </origin>
-                        <provenance>Purchased from the Bateman in 1893.</provenance>
+                        <provenance></provenance>
                         
                         
                         <!-- use additional provenance elements if necessary -->
-                        <acquisition>Acquired in 1893.</acquisition>
+                        <acquisition>
+                            <!-- insert -->
+                            <!-- use dating attributes where possible -->
+                        </acquisition>
                     </history>
                     <additional>
                         <adminInfo>
