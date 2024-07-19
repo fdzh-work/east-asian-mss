@@ -66,8 +66,8 @@
                         <persName type="號">春雨</persName>
                         <date notAfter="1500" notBefore="1300" calendar="Gregorian">1369-1415</date>
                      </editor>
-                     <incipit type="note"><locus>Inside of Upper Board</locus>
-                                          錢乙小兒方O
+                     <note><locus>Inside of Upper Board</locus>
+                                          <q>錢乙小兒方O
                                           顱顖[同”囟”]經OOOOOOOOOOOOOOO
                                           共拾六條
                                           栖真子嬰童OOOO
@@ -75,26 +75,23 @@
                                           夏子孟衛生O
                                           陳自明外科精義O
                                           薩伍彌実方
-                                          拾条児 </incipit>
-                     <msItem><locus>fol. 1r</locus>
-                        <title>永樂大典卷之一千三十六 二支</title>
-                        <rubric>兒：小兒症治六十九</rubric>
-                        <incipit>小兒卒死論</incipit>
-                        <explicit><locus>fol. 29v</locus>永樂大典卷之一千三十六</explicit>
+                                          拾条児</q> </note>
+                     <msItem>
+                        <title>永樂大典卷之一千三十六</title>
+                        <rubric><locus>fol. 1r</locus><q>永樂大典卷之一千三十六 二支</q><q>兒：小兒症治六十九</q> <q>小兒卒死論</q></rubric>
                      </msItem>
                      
-                     <msItem><locus>fol. 30r</locus>
-                        <title>永樂大典卷之一千三十七 二支</title>
-                        <rubric>兒：小兒症治七十</rubric>
-                        <incipit>小兒諸丹論</incipit>
-                        <explicit><locus>fol. 60v</locus>永樂大典卷之一千三十七</explicit>
+                     
+                     <msItem>
+                        <title>永樂大典卷之一千三十七</title>
+                        <rubric><locus>fol. 30r</locus><q>永樂大典卷之一千三十七 二支</q><q>兒：小兒症治七十</q> <q>小兒諸丹論</q></rubric>
                      </msItem>
+                    
                      
-                     <colophon>重錄總校官侍郎臣<persName>高拱</persName><lb/>學士臣<persName>瞿景淳</persName></colophon>
-                     
-                     <colophon>分校官洗馬臣<persName>林燫</persName></colophon>
-                     <colophon>書寫儒士臣<persName>孫說</persName></colophon>
-                     <colophon>圈點監生臣<persName>馬承志</persName><lb/>臣<persName>尼三顧</persName></colophon>
+                     <colophon><q>重錄總校官侍郎臣高拱<lb/>學士臣瞿景淳</q>
+                     <q>分校官洗馬臣林燫</q>
+                     <q>書寫儒士臣孫說</q>
+                     <q>圈點監生臣馬承志<lb/>臣尼三顧</q></colophon>
                      <filiation>中外孤本 only surviving copy</filiation>
                      
                      
@@ -105,7 +102,7 @@
                   
                   <objectDesc form="包背裝"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
                      <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                        <support>mulbery and bamboo mix paper</support>
+                        <support>桑紙</support>
                         <extent>61 頁
                         <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
@@ -134,7 +131,7 @@
                   </handDesc>
                   <decoDesc>
                      <decoNote>
-                        In traditional Chinese style yellow silk cover</decoNote>
+                        明嘉靖隆慶間內府重寫本。</decoNote>
                      <!-- use additional decoNote elements if necessary 
                      https://git.io/msdescdoc#decodesc
                      -->
@@ -147,7 +144,7 @@
                   <bindingDesc>
                      <binding when="1500"><!-- use dating attributes to record the date -->
                         <p> 
-                           明嘉靖隆慶間內府重寫本。黃絹硬面,包背裝。</p>
+                           黃絹硬面,包背裝。</p>
                         <decoNote><!-- insert relevant information, otherwise delete --></decoNote>
                      </binding>
                   </bindingDesc>

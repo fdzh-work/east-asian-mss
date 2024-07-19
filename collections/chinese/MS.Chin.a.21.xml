@@ -61,8 +61,7 @@
                             <locus><!-- insert --></locus>
                            
                             <title >永樂大典：卷一萬三千八百七十四之一萬三千八百七十五</title>
-                            <title xml:lang="en">Yung-lo ta-tien: chüan 13874-13875
-                                Yongle Encyclopedia: vol. 13874-13875</title>
+                           
                             <editor>   
                                 <persName key="Q3492967">解縉</persName>
                                 <persName type="字">大紳</persName>
@@ -70,25 +69,22 @@
                                 <date notAfter="1500" notBefore="1300" calendar="Gregorian">1369-1415</date>
                             </editor>
                             
-                            <msItem><locus>fol. 1r</locus>
-                                <title>永樂大典卷之一萬三千八百七十四 三未</title>
-                                <rubric>賁:賁卦三</rubric>
-                                <incipit>六二賁其須</incipit>
-                                <explicit><locus>fol. 29v</locus>永樂大典卷之一萬三千八百七十四</explicit>
+                            <msItem>
+                                <title>永樂大典卷之一萬三千八百七十四</title>
+                                <rubric><locus>fol. 1r</locus><q>永樂大典卷之一萬三千八百七十四 三未</q>
+                                    <q>賁:賁卦三</q><q>六二賁其須</q></rubric>
+                            </msItem>
+                           
+                            <msItem>
+                                <title>永樂大典卷之一萬三千八百七十五</title>
+                                <rubric><locus>fol.30r</locus><q>永樂大典卷之一萬三千八百七十五 三未</q><q>賁:賁卦四</q><q>賁六五賁于丘園，束帛戔戔吝終吉</q></rubric>
                             </msItem>
                             
-                            <msItem><locus>fol. 30r</locus>
-                                <title>永樂大典卷之一萬三千八百七十五 三未</title>
-                                <rubric>賁:賁卦四</rubric>
-                                <incipit>賁六五賁于丘園，束帛戔戔吝終吉</incipit>
-                                <explicit><locus>fol. 67r</locus>永樂大典卷之一萬三千八百七十五</explicit>
-                            </msItem>
+                            <colophon><q>重錄總校官侍郎臣秦鳴雷<lb/>學士臣王大任</q>
                             
-                            <colophon>重錄總校官侍郎臣<persName>秦鳴雷</persName><lb/>學士臣<persName>王大任</persName></colophon>
-                            
-                            <colophon>分校官編修臣<persName>孫鋌</persName></colophon>
-                            <colophon>書寫儒士臣<persName>韓繼榮</persName></colophon>
-                            <colophon>圈點監生臣<persName>林民表</persName><lb/>臣<persName>董于翰</persName></colophon>
+                            <q>分校官編修臣孫鋌</q>
+                            <q>書寫儒士臣韓繼榮</q>
+                            <q>圈點監生臣林民表<lb/>臣董于翰</q></colophon>
                             <filiation>中外孤本 only surviving copy</filiation>
                         </msItem>
                         <!-- insert further msItem elements as appropriate -->
@@ -96,7 +92,7 @@
                     <physDesc>
                         <objectDesc form="包背裝"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
                             <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                                <support>mulbery and bamboo mix paper</support>
+                                <support>桑紙</support>
                                 <extent>68 頁
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
@@ -130,7 +126,7 @@
                         </musicNotation>
                         <decoDesc>
                             <decoNote>
-                                In traditional Chinese style yellow silk cover</decoNote>
+                                明嘉靖隆慶間內府重寫本。</decoNote>
                             <!-- use additional decoNote elements if necessary 
                      https://git.io/msdescdoc#decodesc
                      -->
@@ -142,7 +138,7 @@
                         <bindingDesc>
                             <binding when="1500"><!-- use dating attributes to record the date -->
                                 <p> 
-                                    明嘉靖隆慶間內府重寫本。黃絹硬面,包背裝。</p></binding>
+                                 黃絹硬面,包背裝。</p></binding>
                         </bindingDesc>
                         <accMat>
                             <!-- insert if relevant, otherwise delete 

@@ -67,8 +67,8 @@
                                 <persName type="號">春雨</persName>
                                 <date notAfter="1500" notBefore="1300" calendar="Gregorian">1369-1415</date>
                             </editor>
-                            <rubric>永樂大典:卷六千六百四十一 十八陽</rubric>
-                            <rubric>鄉:鄉儀</rubric>
+                            <rubric><locus>fol.1r</locus><q>永樂大典:卷六千六百四十一 十八陽</q><q>鄉:鄉儀</q></rubric>
+
     
                             <filiation>中外孤本 only surviving copy</filiation>
                             
@@ -79,7 +79,7 @@
                         
                         <objectDesc form="包背裝"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
                             <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                                <support>mulberry and bamboo mixed paper</support>
+                                <support>桑紙</support>
                                 <extent>26 頁
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
@@ -109,7 +109,7 @@
 
                         <decoDesc>
                             <decoNote>
-                                In traditional Chinese style yellow silk cover</decoNote>
+                                明嘉靖隆慶間內府重寫本。</decoNote>
                             <!-- use additional decoNote elements if necessary 
                      https://git.io/msdescdoc#decodesc
                      -->
@@ -124,7 +124,7 @@
                         <bindingDesc>
                             <binding when="1500"><!-- use dating attributes to record the date -->
                                 <p> 
-                                    明嘉靖隆慶間內府重寫本。黃絹硬面,包背裝。</p></binding>
+                                    黃絹硬面,包背裝。</p></binding>
                         </bindingDesc>
                         <accMat>
                             <!-- insert if relevant, otherwise delete 

@@ -69,29 +69,27 @@
                                 <date notAfter="1500" notBefore="1300" calendar="Gregorian">1369-1415</date>
                             </editor>
 
-                            <msItem><locus>fol. 1r</locus>
-                                <title>永樂大典卷之一萬五千七十三 七泰</title>
-                                <rubric>誡:洪武正韻</rubric>
-                                <explicit><locus>fol. 13v</locus>永樂大典卷之一萬五千七十三</explicit>
+                            <msItem>
+                                <title>永樂大典卷之一萬五千七十三</title>
+                                <rubric><locus>fol. 1r</locus><q>永樂大典卷之一萬五千七十三 七泰</q><q>誡:洪武正韻</q></rubric>
                             </msItem>
-                            
-                            <msItem><locus>fol. 14r</locus>
-                                <title>永樂大典卷之一萬五千七十四 七泰</title>
-                                <rubric>誡:佛說略教誡經</rubric>
-                                <explicit><locus>fol. 24r</locus>永樂大典卷之一萬五千七十四</explicit>
-                            </msItem>
-                            
-                            <msItem><locus>fol. 25r</locus>
-                                <title>永樂大典卷之一萬五千七十五 七泰</title>
-                                <rubric>悈:洪武正韻</rubric>
-                                <explicit><locus>fol. 44r</locus>永樂大典卷之一萬五千七十五</explicit>
+                          
+                            <msItem>
+                                <title>永樂大典卷之一萬五千七十四</title>
+                                <rubric><locus>fol. 14r</locus><q>永樂大典卷之一萬五千七十四 七泰</q><q>誡:佛說略教誡經</q></rubric>
                             </msItem>
 
-                            <colophon>重錄總校官侍郎臣<persName>秦鳴雷</persName><lb/>學士臣<persName>王大任</persName></colophon>
                             
-                            <colophon>分校官洗馬臣<persName>林燫</persName></colophon>
-                            <colophon>書寫生員臣<persName>汪增光</persName></colophon>
-                            <colophon>圈點監生臣<persName>馬承志</persName><lb/>臣<persName>吳璥</persName></colophon>
+                            <msItem>
+                                <title>永樂大典卷之一萬五千七十五</title>
+                                <rubric><locus>fol.25r</locus><q>永樂大典卷之一萬五千七十五 七泰</q><q>誡:洪武正韻</q></rubric>
+                            </msItem>
+
+                            <colophon><q>重錄總校官侍郎臣秦鳴雷<lb/>學士臣王大任</q>
+                            
+                            <q>分校官洗馬臣林燫</q>
+                            <q>書寫生員臣汪增光</q>
+                            <q>圈點監生臣馬承志<lb/>臣吳璥</q></colophon>
                             <filiation>中外孤本 only surviving copy</filiation>
                             
                         </msItem>
@@ -101,7 +99,7 @@
                         
                         <objectDesc form="包背裝"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
                             <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                                <support>mulberry and bamboo mixed paper</support>
+                                <support>桑紙</support>
                                 <extent>45 頁
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
@@ -136,7 +134,7 @@
                         </musicNotation>
                         <decoDesc>
                             <decoNote>
-                                In traditional Chinese style yellow silk cover</decoNote>
+                                明嘉靖隆慶間內府重寫本。</decoNote>
                             <!-- use additional decoNote elements if necessary 
                      https://git.io/msdescdoc#decodesc
                      -->
@@ -149,7 +147,7 @@
                         <bindingDesc>
                             <binding when="1500"><!-- use dating attributes to record the date -->
                                 <p> 
-                                    明嘉靖隆慶間內府重寫本。黃絹硬面,包背裝。</p></binding>
+                                黃絹硬面,包背裝。</p></binding>
 
 
                         </bindingDesc>

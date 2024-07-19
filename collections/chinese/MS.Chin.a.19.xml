@@ -67,22 +67,20 @@
                         <persName type="號">春雨</persName>
                         <date notAfter="1500" notBefore="1300" calendar="Gregorian">1369-1415</date>
                      </editor>
-                     <msItem><locus>fol. 1r</locus>
-                        <title>永樂大典卷之五千二百四十四 十三蕭</title>
-                        <rubric>遼:洪武正韻</rubric>
-                        <explicit><locus>fol. 48r</locus>永樂大典卷之五千二百四十四</explicit>
+                     <msItem>
+                        <title>永樂大典卷之五千二百四十四</title>
+                        <rubric><locus>fol. 1r</locus><q>>永樂大典卷之五千二百四十四 十三蕭</q><q>遼:洪武正韻</q></rubric>
                      </msItem>
-                     
-                     <msItem><locus>fol. 49r</locus>
-                        <title>永樂大典卷之五千二百四十五 十三蕭</title>
-                        <rubric>遼:遼洲</rubric>
-                        <explicit><locus>fol. 72v</locus>永樂大典卷之五千二百四十五</explicit>
+                     <msItem>
+                        <title>永樂大典卷之五千二百四十五</title>
+                        <rubric><locus>fol. 49r</locus><q>>永樂大典卷之五千二百四十五 十三蕭</q><q>遼:遼洲</q></rubric>
                      </msItem>
+
                      
-                     <colophon>重錄總校官侍郎臣<persName>高拱</persName><lb/>學士臣<persName>瞿景淳</persName></colophon>
-                     <colophon>分校官修撰臣<persName>丁仕美</persName></colophon>
-                     <colophon>書寫辦事官臣<persName>梅元紹</persName></colophon>
-                     <colophon>圈點監生臣<persName>雷辰化</persName><lb/>臣<persName>馬宗孝</persName></colophon>
+                     <colophon><q>重錄總校官侍郎臣高拱<lb/>學士臣瞿景淳</q>
+                     <q>分校官修撰臣丁仕美</q>
+                     <q>書寫辦事官臣梅元紹</q>
+                     <q>圈點監生臣雷辰化<lb/>臣馬宗孝</q></colophon>
                      <filiation>中外孤本 only surviving copy</filiation>
                      
                   </msItem>
@@ -92,7 +90,7 @@
                  
                   <objectDesc form="包背裝"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
                      <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                        <support>mulberry and bamboo mixed paper</support>
+                        <support>桑紙</support>
                         <extent>73 頁
                         <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
@@ -122,7 +120,7 @@
 
                   <decoDesc>
                      <decoNote>
-                        In traditional Chinese style yellow silk cover</decoNote>
+                        明嘉靖隆慶間內府重寫本。</decoNote>
                      <decoNote><locus from="49r" to="50v"></locus>遼州地圖繪製于書頁49r、49v、50r、50v。</decoNote><!-- use additional decoNote elements if necessary 
                      https://git.io/msdescdoc#decodesc
                      -->
@@ -135,7 +133,7 @@
                   <bindingDesc>
                      <binding when="1500"><!-- use dating attributes to record the date -->
                         <p> 
-                           明嘉靖隆慶間內府重寫本。黃絹硬面,包背裝。</p>
+                          黃絹硬面,包背裝。</p>
                         <decoNote><!-- insert relevant information, otherwise delete --></decoNote>
                      </binding>
                   </bindingDesc>
