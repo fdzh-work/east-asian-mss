@@ -51,8 +51,8 @@
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>《君臣圖繪》一套共四冊，韓國手稿</summary>
-                        <textLang mainLang="ko">Korean</textLang><!-- change text and attribute if necessary -->
+                        <summary>《君臣圖繪》四冊</summary>
+                        <textLang mainLang="ko">Hangul</textLang><!-- change text and attribute if necessary -->
                         
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
@@ -60,25 +60,43 @@
                             <title>君臣圖繪</title>
                             <title xml:lang="ko">Kunsin tohoe</title>
                             <author key="Korean">Unknown</author>
-                            <note>本套圖冊出現所有的人物中，共有七人的肖像重複出現了兩次，用以展示他們多重的政治與文化身份。這七人分別爲：
-                                一）孔子，分別以正式裝束和日常裝束出現
-                                二）關羽，圖冊中分別以關公羽和關雲長標注
-                                三）宋太宗
-                                四）張九齡
-                                五）蘇子瞻
-                                六）張橫渠
-                                七）王陽明</note>
-                            
-                        </msItem>
+                            <note>Of the 288 entries, seven figures appear twice:
+                                1.	Confucius is one who has two entries with both formal dress and informal dress.
+                                2.	Kwanu (關羽) has double entries as Kwan Kong U (關公羽) and Kwan Un Chang (関雲長).
+                                3.	Song Taujong (宋太宗).
+                                4.	Chang Kokgang Kuryǒng (張曲江九齡).
+                                5.	So Jach’ǒm (蘇子瞻).
+                                6.	Chang Hoenggǒ (張橫渠).
+                                7.	Wang Yangmyǒng (王陽明).
+                            </note></msItem>
+                        <msItem>
+                            <title>君臣圖繪 一</title>
+                            <title xml:lang="ko">Kunsin tohoe il</title>
+                            <note>This album is a compilation of Chinese emperors, encompassing a timeline from the mythological era to the Ming dynasty. The emperors' portraits range from Ban-go-ssi (盤古氏) to the Myeong Sejong (明世宗, 1507-1567).
+                                72 color portraits, each labeled with names written on the upper-right side. Korean name translations are featured on either the left or right side as tags.</note></msItem>
                         <!-- insert further msItem elements as appropriate --> 
-                        
+                        <msItem>
+                            <title>君臣圖繪 二</title>
+                            <title xml:lang="ko">Kunsin tohoe i</title>
+                            <note>This album is a compilation of Chinese ministers, encompassing a timeline from the mythological era to the early Tang dynasty. The ministers’ portraits range from Chang Hil (倉頡) to Heo Gyeongjong (許敬宗, 592-672).
+                                76 color portraits, each labeled with names written on the upper-right side. Korean name translations are featured on either the left or right side as tags.</note></msItem> 
+                        <msItem>
+                            <title>君臣圖繪 三</title>
+                            <title xml:lang="ko">Kunsin tohoe sam</title>
+                            <note>This album is a compilation of Chinese ministers, spanning a timeline from the early Tang dynasty to the Yuan dynasty. The portraits of these ministers in this album start from Wi Jeonggong Jing (魏鄭公徵), also known as Wi Jing (魏徵, 580-643), to Jo Maengbu (趙孟頫, 1254-1322).
+                                75 color portraits, each labeled with names written on the upper-right side. Korean name translations are featured on either the left or right side as tags.</note></msItem> 
+                        <msItem>
+                            <title>君臣圖繪 四</title>
+                            <title xml:lang="ko">Kunsin tohoe sa</title>
+                            <note>This album is a compilation of famous Chinese ministers from the Ming dynasty, spanning from Seo Wigongdal (徐魏公達), also known as Seo Dal (徐達, 1332-1385), to Hai Rui (海瑞, 1514-1587).
+                                66 color portraits, each labeled with names written on the upper-right side. Korean name translations are featured on either the left or right side as tags.</note></msItem> 
                     </msContents>
                     <physDesc>
                         
                         <objectDesc form="冊"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
                             <supportDesc material="紙本"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                                <support>紙本</support>
-                                <extent>四冊
+                                <support>paper</support>
+                                <extent>four volumes
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
                         https://git.io/msdescdoc#leafDimensions
@@ -88,10 +106,10 @@
                                     <!-- use additional dimensions elements if necessary -->
                                 </extent>
                                 
-                                <condition>封面有磨損痕跡，標題字跡模糊，有水印，封底内頁有蟲蛀痕跡，封底有脫落痕跡。</condition>
+                                <condition>The cover has marks, the title is blurry, there are water stains, the inner pages of the back cover have insect damage, and there are signs of peeling on the back cover.</condition>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>每幅肖像右上角有朱筆書寫漢字人名及尊號，若肖像在左頁則韓文標注在左，反之在右。</layout>
+                                <layout>In the upper right corner of each portrait, the person's name and title are written in red ink in Chinese characters. If the portrait is on the left page, the Korean annotation is on the left; if it is on the right page, the annotation is on the right.</layout>
                                 
                             </layoutDesc>
                             
@@ -99,7 +117,7 @@
                         
                         <handDesc><!-- use the @hands attribute to record the number of scribes -->
                             <handNote>
-                                纸本设色人物肖像，文字为楷體</handNote>
+                                Portrait in colour on paper, with the text in regular script.</handNote>
                             <!-- use additional handNote elements if necessary 
                      https://git.io/msdescdoc#handdesc
                      -->
@@ -115,9 +133,9 @@
                         
                         <bindingDesc>
                             <binding when="1800"><!-- use dating attributes to record the date -->
-                                <p>册</p>
+                                <p>volume</p>
                                 <decoNote>
-                                    一套由四冊組成。每冊的封皮和封底為黃色加厚紙製成。</decoNote>
+                                    A set consisting of four volumes. The cover and back cover of each volume are made of thick yellow paper.</decoNote>
                             </binding>
                         </bindingDesc>
                         <accMat>
