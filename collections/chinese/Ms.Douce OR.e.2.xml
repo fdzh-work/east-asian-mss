@@ -56,7 +56,7 @@
                         
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
-                            <title key="supplied title">Chinese vocabulary with illustrations</title>
+                            <title key="supplied title">【繪圖華夷譯語彙編 / 無名氏編纂】</title>
                             <author key="_unknown">unknown</author>
                             <note><locus>fol. ii recto</locus><q>For this very curious and valuable Chinese vocabulary I am indebted to my worthy friend Mr.W. Alexander who brought it from China. E.D.</q> </note>
                            
@@ -297,7 +297,7 @@
                         <provenance><locus>fol. 20r</locus>Based on the illustrations of coins [乾隆通寶], it is likely that this book was created during or after the reign of the Qianlong Emperor of the Qing Dynasty (1735-1796).</provenance>
                         <!-- use additional provenance elements if necessary -->
                         <acquisition>
-                            1882
+                            1834
                         </acquisition>
                     </history>
                     <additional>
