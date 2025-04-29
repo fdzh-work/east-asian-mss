@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="volume_5317">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+            <respStmt>
+               <resp>Cataloguer</resp>
+               <persName>[Name of cataloguer]</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Bodleian Library</publisher>
+            <date calendar="#Gregorian">[Date when first made available]</date>
+            <pubPlace>
+               <address>
+                  <addrLine>Department of Special Collections</addrLine>
+                  <addrLine>Bodleian Library</addrLine>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <addrLine>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <idno/>
+            <idno type="msID"/>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="en">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Oxfordshire</region>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Bodleian Library</repository>
+                  <collection/>
+                  <idno type="shelfmark">Sinica 6069</idno>
+               </msIdentifier>
+               <head>書名:最新繪圖華山名勝指南 / 李暮華編<lb/>一九五四年華嶽鎮文酉書局朱色刷印本<lb/>線裝1冊 : 圖 ; 19公分<lb/></head><msContents>
+                  <textLang mainLang="chi">Chinese</textLang>
+                  <msItem n="1">
+                  <title source="#200">最新繪圖華山名勝指南</title><title source="#200|9">zui xin hui tu hua shan ming sheng zhi nan</title><title type="variant" source="#230">華山名勝指南</title><title source="#230|9" type="variant">hua shan ming sheng zhi nan</title><note source="#290">李暮華編</note><author source="#300"><persName>李暮華</persName><persName type="9">li mu hua</persName></author><note source="#409">一九五四年華嶽鎮文酉書局朱色刷印本</note></msItem>         
+               </msContents>
+               <physDesc>
+                  
+                  <objectDesc>
+                     
+                     <supportDesc>
+                        <support/>
+                     <extent>1 volume.<!--線裝1冊 : 圖 ; 19公分--><measure unit="cm"><height>19</height></measure></extent></supportDesc>
+                     
+                  </objectDesc>
+
+               <bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <history>
+                  <origin>
+                     <origDate calendar="#Gregorian" when="1954" type="d">1954</origDate>
+                     <origPlace>China</origPlace>
+                  </origin>
+                  <provenance/>
+                  <acquisition/>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                        </source>
+                     <!--Unused allegro fields--><!-- #000: 20131125/13:02:39|odh --><!-- #0rr: 20160810/14:59:41-121467/10|omaster --><!-- #0cm: i --><!-- #900: oe --><!-- #905: At first sight the same as S.4889, but from different blocks by a different printer. --><!-- #909: SerD --></recordHist>
+                     <availability status="printcat">
+                        <p>Orderable through <ref target="https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990221306940107026">SOLO</ref></p></availability>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+            
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="siku">
+               <bibl>
+                  Siku classification
+               </bibl>
+            </taxonomy>
+            <taxonomy xml:id="bodleian_chinese_thesaurus">
+               <bibl>
+                  Bodleian Chinese thesaurus
+               </bibl>
+            </taxonomy>
+            <taxonomy xml:id="harvard-yenching">
+               <bibl>
+                  Harvard-Yenching Classification System
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="#siku">
+               <list>
+               <item><term key="410.91">史部 地理類 專志</term></item></list>
+            </keywords>
+            <keywords scheme="#bodleian_chinese_thesaurus">
+               <list>
+               </list>
+            </keywords>
+            <keywords scheme="#harvard-yenching">
+               <list>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      </teiHeader>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>

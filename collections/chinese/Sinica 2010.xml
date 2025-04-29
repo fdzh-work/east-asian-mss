@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="volume_1788">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+            <respStmt>
+               <resp>Cataloguer</resp>
+               <persName>[Name of cataloguer]</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Bodleian Library</publisher>
+            <date calendar="#Gregorian">[Date when first made available]</date>
+            <pubPlace>
+               <address>
+                  <addrLine>Department of Special Collections</addrLine>
+                  <addrLine>Bodleian Library</addrLine>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <addrLine>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <idno/>
+            <idno type="msID"/>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="en">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Oxfordshire</region>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Bodleian Library</repository>
+                  <collection/>
+                  <idno type="shelfmark">Sinica 2010</idno>
+               </msIdentifier>
+               <head>書名:馬太傳福音書 ; 馬可傳福音書 ; 路加傳福音書 ; 約翰傳福音書<lb/>上洋[Shanghai] : 聖會堂, 1851<lb/>線裝1冊(38, 23, 39, 31頁) ; 23.8公分<lb/>Tr. by J L Shuck?<lb/>Each gospel has its own title-page, the details being identical apart from title and month of printing<lb/></head><msContents>
+                  <textLang mainLang="chi">Chinese</textLang>
+                  <msItem n="1">
+                  <title source="#200">馬太傳福音書</title><title source="#200|9">ma tai chuan fu yin shu</title><title source="#200">馬可傳福音書</title><title source="#200|9">ma ke chuan fu yin shu</title><title source="#200">路加傳福音書</title><title source="#200|9">lu jia chuan fu yin shu</title><title source="#200">約翰傳福音書</title><title source="#200|9">yue han chuan fu yin shu</title><author source="#300"><persName>Shuck, Jehu Lewis</persName></author><editor source="#420" role="pbl"><persName>聖會堂</persName><persName type="9" role="pbl">sheng hui tang</persName></editor><note source="#600">Tr. by J L Shuck?</note><note source="#600">Each gospel has its own title-page, the details being identical apart from title and month of printing</note></msItem>         
+               </msContents>
+               <physDesc>
+                  
+                  <p>Ms. note on cover: "A. Wylie Esq. Compltts. J.L.S."</p><objectDesc>
+                     
+                     <supportDesc>
+                        <support/>
+                     <extent>1 volume, (38, 23, 39, 31頁) <!--線裝1冊 (38, 23, 39, 31頁) ; 23.8公分--><measure unit="cm"><height>23.8</height></measure></extent></supportDesc>
+                     
+                  </objectDesc>
+
+               <typeDesc><p>woodblock</p></typeDesc><bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <history>
+                  <origin>
+                     <origDate calendar="#Gregorian" when="1851" type="d">1851</origDate>
+                     <origPlace>China</origPlace>
+                  <origPlace source="#410">上洋[Shanghai](shang yang)</origPlace></origin>
+                  <provenance/>
+                  <acquisition/>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                        </source>
+                     <!--Unused allegro fields--><!-- #000: 20050125/14:14:23|odh --><!-- #0rr: 20130327/22:12:34|odh --><!-- #430: 1851 --><!-- #900: p --><!-- #905: Not in BS catalogue. Authorship is a guess, based on cover note and Shuck's part in Delegates' version. --><!-- #909: SerD --></recordHist>
+                     <availability status="printcat">
+                        <p>Orderable through <ref target="https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990221486430107026">SOLO</ref></p></availability>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+            
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="siku">
+               <bibl>
+                  Siku classification
+               </bibl>
+            </taxonomy>
+            <taxonomy xml:id="bodleian_chinese_thesaurus">
+               <bibl>
+                  Bodleian Chinese thesaurus
+               </bibl>
+            </taxonomy>
+            <taxonomy xml:id="harvard-yenching">
+               <bibl>
+                  Harvard-Yenching Classification System
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="#siku">
+               <list>
+               <item><term key="920.bible|classical|1851|gospels">920.bible|classical|1851|gospels</term></item></list>
+            </keywords>
+            <keywords scheme="#bodleian_chinese_thesaurus">
+               <list>
+               <item><term key="Bible -- Classical -- 1851 -- Gospels">Bible -- Classical -- 1851 -- Gospels</term></item></list>
+            </keywords>
+            <keywords scheme="#harvard-yenching">
+               <list>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      </teiHeader>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>

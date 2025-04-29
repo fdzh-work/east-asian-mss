@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="volume_1306">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+            <respStmt>
+               <resp>Cataloguer</resp>
+               <persName>[Name of cataloguer]</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Bodleian Library</publisher>
+            <date calendar="#Gregorian">[Date when first made available]</date>
+            <pubPlace>
+               <address>
+                  <addrLine>Department of Special Collections</addrLine>
+                  <addrLine>Bodleian Library</addrLine>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <addrLine>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <idno/>
+            <idno type="msID"/>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="en">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Oxfordshire</region>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Bodleian Library</repository>
+                  <collection/>
+                  <idno type="shelfmark">Sinica 1575</idno>
+               </msIdentifier>
+               <head>書名:'Ang-tse t'u-yin tsan-me-s<lb/>Zang-hai [Shanghai] : Me-wa S-yun, 1872<lb/>平裝1冊(vi, 64頁) ; 20.4公分<lb/>Tr. by G E Moule<lb/>In romanised Hangchow dialect<lb/></head><msContents>
+                  <textLang mainLang="chi">Chinese</textLang>
+                  <msItem n="1">
+                  <title source="#200">'Ang-tse t'u-yin tsan-me-s</title><title type="variant" source="#230">tsan-me-s</title><author source="#300"><persName>Moule, George Evans</persName></author><editor source="#420" role="pbl"><persName>Me-wa S-yun</persName></editor><note source="#600">Tr. by G E Moule</note><note source="#600">In romanised Hangchow dialect</note></msItem>         
+               </msContents>
+               <physDesc>
+                  
+                  <objectDesc>
+                     
+                     <supportDesc>
+                        <support/>
+                     <extent>1 volume, (vi, 64頁) <!--平裝1冊 (vi, 64頁) ; 20.4公分--><measure unit="cm"><height>20.4</height></measure></extent></supportDesc>
+                     
+                  </objectDesc>
+
+               <typeDesc><p>typography</p></typeDesc></physDesc>
+               <history>
+                  <origin>
+                     <origDate calendar="#Gregorian" when="1872" type="d">1872</origDate>
+                     <origPlace>China</origPlace>
+                  <origPlace source="#410">Zang-hai [Shanghai]</origPlace></origin>
+                  <provenance/>
+                  <acquisition/>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                        </source>
+                     <!--Unused allegro fields--><!-- #000: 20040920/12:36:40|odh --><!-- #0rr: 20161003/16:35:48-140397/13|omaster --><!-- #430: 1872 --><!-- #900: p --><!-- #905: Accents have been disregarded. --><!-- #909: SerD --></recordHist>
+                     <availability>
+                        <p>This item may only be consulted by prior arrangement with a curator. To make an application, please click the request button above. When your request is received, you will be asked to contact the relevant person.</p>
+                     </availability>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+            
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="siku">
+               <bibl>
+                  Siku classification
+               </bibl>
+            </taxonomy>
+            <taxonomy xml:id="bodleian_chinese_thesaurus">
+               <bibl>
+                  Bodleian Chinese thesaurus
+               </bibl>
+            </taxonomy>
+            <taxonomy xml:id="harvard-yenching">
+               <bibl>
+                  Harvard-Yenching Classification System
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="#siku">
+               <list>
+               <item><term key="936.1872">936.1872</term></item></list>
+            </keywords>
+            <keywords scheme="#bodleian_chinese_thesaurus">
+               <list>
+               <item><term key="dialect -- Hangchow (romanised)">dialect -- Hangchow (romanised)</term></item></list>
+            </keywords>
+            <keywords scheme="#harvard-yenching">
+               <list>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      </teiHeader>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="volume_29">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+            <respStmt>
+               <resp>Cataloguer</resp>
+               <persName>[Name of cataloguer]</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Bodleian Library</publisher>
+            <date calendar="#Gregorian">[Date when first made available]</date>
+            <pubPlace>
+               <address>
+                  <addrLine>Department of Special Collections</addrLine>
+                  <addrLine>Bodleian Library</addrLine>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <addrLine>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <idno/>
+            <idno type="msID"/>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="en">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Oxfordshire</region>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Bodleian Library</repository>
+                  <collection/>
+                  <idno type="shelfmark">Backhouse 126</idno>
+               </msIdentifier>
+               <head>書名:貞隱園法帖 十卷 / (明)郭秉詹書 ; (清)葉夢龍輯<lb/>清嘉慶十八年[1813]葉夢龍等刊<lb/>線裝10冊 ; 18公分<lb/></head><msContents>
+                  <textLang mainLang="chi">Chinese</textLang>
+                  <msItem n="1">
+                  <title source="#200">貞隱園法帖 ^十卷^</title><title source="#200|9">zhen yin yuan fa tie</title><note source="#290">(明)郭秉詹書</note><note source="#290">(清)葉夢龍輯</note><author source="#300"><persName>(明)郭秉詹</persName><persName type="9">guo bing zhan</persName></author><author source="#300"><persName>(清)葉夢龍</persName><persName type="9">ye meng long</persName></author><note source="#409">清嘉慶十八年[1813]葉夢龍等刊</note></msItem>         
+               </msContents>
+               <physDesc>
+                  
+                  <objectDesc>
+                     
+                     <supportDesc>
+                        <support/>
+                     <extent>10 volumes.<!--線裝10冊 ; 18公分--><measure unit="cm"><height>18</height></measure></extent></supportDesc>
+                     
+                  </objectDesc>
+
+               <bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <history>
+                  <origin>
+                     <origDate calendar="#Gregorian" when="1813" type="d">1813</origDate>
+                     <origPlace>China</origPlace>
+                  </origin>
+                  <provenance/>
+                  <acquisition/>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                        </source>
+                     <!--Unused allegro fields--><!-- #000: 19981221/13:52:02|odh --><!-- #0rr: 20190316/21:31:50-53345/10|omaster --><!-- #900: o --><!-- #905: 叢帖目, 1523. Drege. --><!-- #909: SerD --></recordHist>
+                     <availability status="printcat">
+                        <p>Orderable through <ref target="https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990221419590107026">SOLO</ref></p></availability>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+            
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="siku">
+               <bibl>
+                  Siku classification
+               </bibl>
+            </taxonomy>
+            <taxonomy xml:id="bodleian_chinese_thesaurus">
+               <bibl>
+                  Bodleian Chinese thesaurus
+               </bibl>
+            </taxonomy>
+            <taxonomy xml:id="harvard-yenching">
+               <bibl>
+                  Harvard-Yenching Classification System
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="#siku">
+               <list>
+               <item><term key="584.84">子部 藝術類 書畫 法帖</term></item></list>
+            </keywords>
+            <keywords scheme="#bodleian_chinese_thesaurus">
+               <list>
+               <item><term key="fatie">fatie</term></item></list>
+            </keywords>
+            <keywords scheme="#harvard-yenching">
+               <list>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      </teiHeader>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>

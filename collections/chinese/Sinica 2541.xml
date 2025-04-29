@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="volume_2326">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+            <respStmt>
+               <resp>Cataloguer</resp>
+               <persName>[Name of cataloguer]</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Bodleian Library</publisher>
+            <date calendar="#Gregorian">[Date when first made available]</date>
+            <pubPlace>
+               <address>
+                  <addrLine>Department of Special Collections</addrLine>
+                  <addrLine>Bodleian Library</addrLine>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <addrLine>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <idno/>
+            <idno type="msID"/>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="en">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Oxfordshire</region>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Bodleian Library</repository>
+                  <collection/>
+                  <idno type="shelfmark">Sinica 2541</idno>
+               </msIdentifier>
+               <head>書名:華嚴一乘十玄門 一卷 / (隋)杜順說 ; (唐釋)智儼撰<lb/>華嚴五十要問答 二卷 / (唐釋)智儼集<lb/>清光緒二十二年[1896]金陵刻經處刊本<lb/>線裝1冊 ; 25公分<lb/></head><msContents>
+                  <textLang mainLang="chi">Chinese</textLang>
+                  <msItem><editor source="#440" role="pbl"><persName>金陵刻經處</persName><persName type="9" role="pbl">jin ling ke jing chu</persName></editor><note source="#409">清光緒二十二年[1896]金陵刻經處刊本</note><msItem n="1">
+                  <title source="#200">華嚴一乘十玄門 ^一卷^</title><title source="#200|9">hua yan yi sheng shi xuan men</title><note source="#290">(隋)杜順說</note><note source="#290">(唐釋)智儼撰</note><author source="#300"><persName>(隋)杜順</persName><persName type="9">du shun</persName></author><author source="#300"><persName>(唐釋)智儼</persName><persName type="9">zhi yan</persName></author></msItem>         
+               <msItem n="2"><title source="#201">華嚴五十要問答 ^二卷^</title><title source="#201|9">hua yan wu shi yao wen da</title><note source="#291">(唐釋)智儼集</note><author source="#301"><persName>(唐釋)智儼</persName><persName type="9">zhi yan</persName></author></msItem></msItem></msContents>
+               <physDesc>
+                  
+                  <objectDesc>
+                     
+                     <supportDesc>
+                        <support/>
+                     <extent>1 volume.<!--線裝1冊 ; 25公分--><measure unit="cm"><height>25</height></measure></extent></supportDesc>
+                     
+                  </objectDesc>
+
+               <bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <history>
+                  <origin>
+                     <origDate calendar="#Gregorian" when="1896" type="d">1896</origDate>
+                     <origPlace>China</origPlace>
+                  </origin>
+                  <provenance/>
+                  <acquisition/>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                        </source>
+                     <!--Unused allegro fields--><!-- #000: 20120424/15:54:46|odh --><!-- #0rr: 20121112/12:08:29|odh --><!-- #900: o --><!-- #909: SerD --></recordHist>
+                     <availability status="printcat">
+                        <p>Orderable through <ref target="https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990221353820107026">SOLO</ref></p></availability>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+            
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="siku">
+               <bibl>
+                  Siku classification
+               </bibl>
+            </taxonomy>
+            <taxonomy xml:id="bodleian_chinese_thesaurus">
+               <bibl>
+                  Bodleian Chinese thesaurus
+               </bibl>
+            </taxonomy>
+            <taxonomy xml:id="harvard-yenching">
+               <bibl>
+                  Harvard-Yenching Classification System
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="#siku">
+               <list>
+               <item><term key="652.56">子部 釋家類 經律論疏</term></item></list>
+            </keywords>
+            <keywords scheme="#bodleian_chinese_thesaurus">
+               <list>
+               </list>
+            </keywords>
+            <keywords scheme="#harvard-yenching">
+               <list>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      </teiHeader>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>

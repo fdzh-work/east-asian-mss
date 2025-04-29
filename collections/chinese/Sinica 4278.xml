@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="volume_3485">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+            <respStmt>
+               <resp>Cataloguer</resp>
+               <persName>[Name of cataloguer]</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Bodleian Library</publisher>
+            <date calendar="#Gregorian">[Date when first made available]</date>
+            <pubPlace>
+               <address>
+                  <addrLine>Department of Special Collections</addrLine>
+                  <addrLine>Bodleian Library</addrLine>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <addrLine>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <idno/>
+            <idno type="msID"/>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="en">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Oxfordshire</region>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Bodleian Library</repository>
+                  <collection/>
+                  <idno type="shelfmark">Sinica 4278</idno>
+               </msIdentifier>
+               <head>書名:最新大舜耕田歌上本<lb/>日本昭和十一年[1936]臺南州嘉義市捷發書店排印本<lb/>毛裝1冊 ; 16公分<lb/>封面題名《忠孝節義大舜歌上本》<lb/></head><msContents>
+                  <textLang mainLang="chi">Chinese</textLang>
+                  <msItem n="1">
+                  <title source="#200">最新大舜耕田歌上本</title><title source="#200|9">zui xin da shun geng tian ge shang ben</title><title type="variant" source="#230">大舜耕田歌上本</title><title source="#230|9" type="variant">da shun geng tian ge shang ben</title><title type="variant" source="#230">忠孝節義大舜歌上本</title><title source="#230|9" type="variant">zhong xiao jie yi da shun ge shang ben</title><note source="#409">日本昭和十一年[1936]臺南州嘉義市捷發書店排印本</note><editor source="#440" role="pbl"><persName>捷發書店</persName><persName type="9" role="pbl">jie fa shu dian</persName></editor><note source="#600">封面題名《忠孝節義大舜歌上本》</note></msItem>         
+               </msContents>
+               <physDesc>
+                  
+                  <objectDesc>
+                     
+                     <supportDesc>
+                        <support/>
+                     <extent>1 volume.<!--毛裝1冊 ; 16公分--><measure unit="cm"><height>16</height></measure></extent></supportDesc>
+                     
+                  </objectDesc>
+
+               <bindingDesc><binding><p>traditional "rough" binding</p></binding></bindingDesc></physDesc>
+               <history>
+                  <origin>
+                     <origDate calendar="#Gregorian" when="1936" type="d">1936</origDate>
+                     <origPlace>China</origPlace>
+                  </origin>
+                  <provenance/>
+                  <acquisition/>
+               <acquisition>Piet van der Loon</acquisition></history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                        </source>
+                     <!--Unused allegro fields--><!-- #000: 20150713/13:34:36|odh --><!-- #0rr: 20191028/10:19:31-31405/11|omaster --><!-- #909: SerD --></recordHist>
+                     <availability status="printcat">
+                        <p>Orderable through <ref target="https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990221389880107026">SOLO</ref></p></availability>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+            
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="siku">
+               <bibl>
+                  Siku classification
+               </bibl>
+            </taxonomy>
+            <taxonomy xml:id="bodleian_chinese_thesaurus">
+               <bibl>
+                  Bodleian Chinese thesaurus
+               </bibl>
+            </taxonomy>
+            <taxonomy xml:id="harvard-yenching">
+               <bibl>
+                  Harvard-Yenching Classification System
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="#siku">
+               <list>
+               <item><term key="774.da|大">集部 詞曲類 閩南歌曲</term></item></list>
+            </keywords>
+            <keywords scheme="#bodleian_chinese_thesaurus">
+               <list>
+               </list>
+            </keywords>
+            <keywords scheme="#harvard-yenching">
+               <list>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      </teiHeader>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>

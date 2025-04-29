@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="volume_648">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+            <respStmt>
+               <resp>Cataloguer</resp>
+               <persName>[Name of cataloguer]</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Bodleian Library</publisher>
+            <date calendar="#Gregorian">[Date when first made available]</date>
+            <pubPlace>
+               <address>
+                  <addrLine>Department of Special Collections</addrLine>
+                  <addrLine>Bodleian Library</addrLine>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <addrLine>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <idno/>
+            <idno type="msID"/>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="en">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Oxfordshire</region>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Bodleian Library</repository>
+                  <collection/>
+                  <idno type="shelfmark">N.T.Chin.d.7</idno>
+               </msIdentifier>
+               <head>書名:舊約傳彙統 / 英國胡德邁校譯<lb/>甯郡[Ningpo], 1867<lb/>線裝1冊(various pagings) ; 23.8公分<lb/>開明山藏板<lb/>The first title-page bears the above details, and is followed by a two-leaf preface; the second title-page bears the shortened title 《新約傳》 and the imprint 「一千八百六十六... 浙甯鄞城福音殿」; each book bears its own title-page with various imprints, Gospels and Acts dated 1864, and Romans-Revelation 1866<lb/></head><msContents>
+                  <textLang mainLang="chi">Chinese</textLang>
+                  <msItem n="1">
+                  <title source="#200">舊約傳彙統</title><title source="#200|9">xin yue zhuan hui tong</title><note source="#290">英國胡德邁校譯</note><author source="#300"><persName>Hudson, Thomas Hall</persName></author><note source="#600">開明山藏板</note><note source="#600">The first title-page bears the above details, and is followed by a two-leaf preface; the second title-page bears the shortened title 《新約傳》 and the imprint 「一千八百六十六... 浙甯鄞城福音殿」; each book bears its own title-page with various imprints, Gospels and Acts dated 1864, and Romans-Revelation 1866</note></msItem>         
+               </msContents>
+               <physDesc>
+                  
+                  <objectDesc>
+                     
+                     <supportDesc>
+                        <support/>
+                     <extent>1 volume.<!--線裝1冊(various pagings) ; 23.8公分--><measure unit="cm"><height>23.8</height></measure></extent></supportDesc>
+                     
+                  </objectDesc>
+
+               <typeDesc><p>woodblock</p></typeDesc><bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <history>
+                  <origin>
+                     <origDate calendar="#Gregorian" when="1867" type="d">1867</origDate>
+                     <origPlace>China</origPlace>
+                  <origPlace source="#410">甯郡[Ningpo](ning jun)</origPlace></origin>
+                  <provenance/>
+                  <acquisition/>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                        </source>
+                     <!--Unused allegro fields--><!-- #000: 20061213/15:48:03|odh --><!-- #0rr: 20191203/10:48:04-132159/73|omaster --><!-- #430: 1867 --><!-- #80R: ['Chinese 2.23', 'Chinese 2.24', 'Chinese 2.25|c24.1公分. - Later printing on inferior paper'] --><!-- #900: p --><!-- #909: SerD --></recordHist>
+                     <availability>
+                        <p>This item may only be consulted by prior arrangement with a curator. To make an application, please click the request button above. When your request is received, you will be asked to contact the relevant person.</p>
+                     </availability>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+            
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="siku">
+               <bibl>
+                  Siku classification
+               </bibl>
+            </taxonomy>
+            <taxonomy xml:id="bodleian_chinese_thesaurus">
+               <bibl>
+                  Bodleian Chinese thesaurus
+               </bibl>
+            </taxonomy>
+            <taxonomy xml:id="harvard-yenching">
+               <bibl>
+                  Harvard-Yenching Classification System
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="#siku">
+               <list>
+               <item><term key="920.bible|classical|1867|newtestament">920.bible|classical|1867|newtestament</term></item></list>
+            </keywords>
+            <keywords scheme="#bodleian_chinese_thesaurus">
+               <list>
+               <item><term key="Bible -- Classical -- 1867 -- New Testament">Bible -- Classical -- 1867 -- New Testament</term></item></list>
+            </keywords>
+            <keywords scheme="#harvard-yenching">
+               <list>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      </teiHeader>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>

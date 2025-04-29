@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="volume_6074">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+            <respStmt>
+               <resp>Cataloguer</resp>
+               <persName>[Name of cataloguer]</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Bodleian Library</publisher>
+            <date calendar="#Gregorian">[Date when first made available]</date>
+            <pubPlace>
+               <address>
+                  <addrLine>Department of Special Collections</addrLine>
+                  <addrLine>Bodleian Library</addrLine>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <addrLine>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian
+                        Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <idno/>
+            <idno type="msID"/>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="en">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Oxfordshire</region>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Bodleian Library</repository>
+                  <collection/>
+                  <idno type="shelfmark">Sinica 780</idno>
+               </msIdentifier>
+               <msContents>
+                  <textLang mainLang="chi">Chinese</textLang>
+                  <msItem n="2">
+                     <note source="#291">(宋釋)道誠注</note>
+                     <author source="#301"><persName>(宋釋)道誠</persName><persName type="9">dao
+                           cheng</persName></author>
+                  </msItem>
+               <msItem><note source="#409">清刊本</note>
+                  <msItem n="1">
+                     <title source="#200">釋迦如來成道記 ^一卷^</title>
+                     <title source="#200|9">shi jia ru lai cheng dao ji</title>
+                     <note source="#290">(唐)王勃撰</note>
+                     <author source="#300"><persName>(唐)王勃</persName><persName type="9">wang
+                           bo</persName></author>
+                     </msItem>
+                  </msItem></msContents>
+               <physDesc>
+
+                  <objectDesc>
+
+                     <supportDesc>
+                        <support/>
+                        <extent>1 volume.<!--線裝1冊 ; 24公分--><measure unit="cm"><height>24</height></measure></extent>
+                     </supportDesc>
+
+                  </objectDesc>
+
+                  <bindingDesc>
+                     <binding>
+                        <p>traditional thread binding</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate calendar="#Gregorian" when="1644" type="d">1644</origDate>
+                     <origPlace>China</origPlace>
+                  </origin>
+                  <provenance/>
+                  <acquisition/>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source> </source>
+                        <!--Unused allegro fields-->
+                        <!-- #000: 20140613/10:15:12|odh -->
+                        <!-- #0rr: 20140616/10:47:25-366292/27|omaster -->
+                        <!-- #900: o -->
+                        <!-- #909: SerD -->
+                     </recordHist>
+                     <availability status="printcat">
+                        <p>Orderable through <ref target="https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990221355790107026">SOLO</ref></p>
+                     </availability>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="siku">
+               <bibl> Siku classification </bibl>
+            </taxonomy>
+            <taxonomy xml:id="bodleian_chinese_thesaurus">
+               <bibl> Bodleian Chinese thesaurus </bibl>
+            </taxonomy>
+            <taxonomy xml:id="harvard-yenching">
+               <bibl> Harvard-Yenching Classification System </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="#siku">
+               <list>
+                  <item><term key="660.57">子部 釋家類 雜著</term></item>
+               </list>
+            </keywords>
+            <keywords scheme="#bodleian_chinese_thesaurus">
+               <list> </list>
+            </keywords>
+            <keywords scheme="#harvard-yenching">
+               <list> </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>

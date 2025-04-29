@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="volume_647">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+            <respStmt>
+               <resp>Cataloguer</resp>
+               <persName>[Name of cataloguer]</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Bodleian Library</publisher>
+            <date calendar="#Gregorian">[Date when first made available]</date>
+            <pubPlace>
+               <address>
+                  <addrLine>Department of Special Collections</addrLine>
+                  <addrLine>Bodleian Library</addrLine>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <addrLine>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <idno/>
+            <idno type="msID"/>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="en">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Oxfordshire</region>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Bodleian Library</repository>
+                  <collection/>
+                  <idno type="shelfmark">N.T.Chin.d.2</idno>
+               </msIdentifier>
+               <msContents>
+                  <textLang mainLang="chi">Chinese</textLang>
+                  <msItem n="1">
+                  <title source="#200">救世主耶穌新遺詔書</title><title source="#200|9">jiu shi zhu ye su xin yi zhao shu</title><author source="#300"><persName>Medhurst, Walter Henry</persName></author><author source="#300"><persName>Gützlaff, Karl Friedrich August</persName></author><note source="#600">Tr. by W H Medhurst &amp; others ; revised by K F A Gützlaff</note></msItem>         
+               </msContents>
+               <physDesc>
+                  
+                  <p>26.0公分. Later impression, blocks much worn, and title-page different</p><objectDesc>
+                     
+                     <supportDesc>
+                        <support/>
+                        <extent>1 volume, (1, 16, 10, 17, 36, 46 pages).<!--線裝1冊(1, 16, 10, 17, 36, 46頁) ; 21.1公分--><measure unit="cm"><height>21.1</height></measure></extent></supportDesc>
+                     
+                  </objectDesc>
+
+               <typeDesc><p>woodblock</p></typeDesc><bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <history>
+                  <origin>
+                     <origDate calendar="#Gregorian" when="1850" type="d">1850</origDate>
+                     <origPlace/>
+                  <origPlace source="#410">[s.l.]</origPlace></origin>
+                  <provenance/>
+                  <acquisition/>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                        </source>
+                     <!--Unused allegro fields--><!-- #000: 20000512/17:37:05|odh --><!-- #0rr: 20160707/14:22:06-119024/29|omaster --><!-- #430: [c.1850?] --><!-- #80R: Chinese 2.6|c26.0公分. Later impression, with the same title-page as Bodleian copy N.T.Chin.d.2 --><!-- #900: p --><!-- #905: Apparently not in Spillett. According to Wylie, there were 10 or more editions of this, but none of those described in Spillett corresponds with these three copies. --><!-- #909: SerD --></recordHist>
+                     <availability>
+                        <p>This item may only be consulted by prior arrangement with a curator. To make an application, please click the request button above. When your request is received, you will be asked to contact the relevant person.</p>
+                     </availability>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+            
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="siku">
+               <bibl>
+                  Siku classification
+               </bibl>
+            </taxonomy>
+            <taxonomy xml:id="bodleian_chinese_thesaurus">
+               <bibl>
+                  Bodleian Chinese thesaurus
+               </bibl>
+            </taxonomy>
+            <taxonomy xml:id="harvard-yenching">
+               <bibl>
+                  Harvard-Yenching Classification System
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="#siku">
+               <list>
+               <item><term key="920.bible|classical|1850|newtestament">920.bible|classical|1850|newtestament</term></item></list>
+            </keywords>
+            <keywords scheme="#bodleian_chinese_thesaurus">
+               <list>
+               <item><term key="Bible -- Classical -- 1850 -- New Testament">Bible -- Classical -- 1850 -- New Testament</term></item></list>
+            </keywords>
+            <keywords scheme="#harvard-yenching">
+               <list>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      </teiHeader>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="volume_6179">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+            <respStmt>
+               <resp>Cataloguer</resp>
+               <persName>[Name of cataloguer]</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Bodleian Library</publisher>
+            <date calendar="#Gregorian">[Date when first made available]</date>
+            <pubPlace>
+               <address>
+                  <addrLine>Department of Special Collections</addrLine>
+                  <addrLine>Bodleian Library</addrLine>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <addrLine>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <idno/>
+            <idno type="msID"/>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="en">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Oxfordshire</region>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Bodleian Library</repository>
+                  <collection/>
+                  <idno type="shelfmark">Sinica 92</idno>
+               </msIdentifier>
+               <head>書名:歷代分野輿圖古今人物事跡<lb/>清康熙己未[1679]北京呂君翰選錄梓行本<lb/>1張 ; 135 x 125公分<lb/></head><msContents>
+                  <textLang mainLang="chi">Chinese</textLang>
+                  <msItem n="1">
+                  <title source="#200">歷代分野輿圖古今人物事跡</title><title source="#200|9">li dai fen ye yu tu gu jin ren wu shi ji</title><note source="#409">清康熙己未[1679]北京呂君翰選錄梓行本</note></msItem>         
+               </msContents>
+               <physDesc>
+                  
+                  <objectDesc>
+                     
+                     <supportDesc>
+                        <support/>
+                     <extent><!--1張 ; 135 x 125公分--><measure unit="cm"><height>135</height><width>125</width></measure></extent></supportDesc>
+                     
+                  </objectDesc>
+
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate calendar="#Gregorian" when="1679" type="d">1679</origDate>
+                     <origPlace>China</origPlace>
+                  </origin>
+                  <provenance/>
+                  <acquisition/>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                        </source>
+                     <!--Unused allegro fields--><!-- #000: 20080821/17:25:09|odh --><!-- #0rr: 20170821/17:45:57-149738/8|omaster --><!-- #0cg: aj --><!-- #900: o --><!-- #905: The top edge of the original is damaged, so that only the following remains of the title: 「□□分□輿圖□□人□□跡」. According to Li Xiaocong (in a fax to Dr Gabor Lukacs dated 28 July 2008) one further copy of the map exists in Kobe City Museum, where the title is as given above. A Japanese copy was made in 1750 (寬延庚午) with a single word changed in the title: 「歷代分野之圖古今人物事跡」. What is presumably this copy is found in the catalogue of the Naikaku Bunko (136下), where it is given the title 「南北兩京十三省圖考」, the long legend that appears across the bottom of the map in the original; it is also found in the catalogue of Sendai University Library (121下), where it is given the title 「歷代漢土分野圖 : 並古今人物事跡」. Nagasawa Kikuya (in 和刻本漢籍分類目錄) lists both 「南北兩京十三省圖考」 (86上) and 「歷代分野之圖古今人物事跡」 (86下) as if they were different maps; presumably they are the Naikaku and Sendai copies respectively. Dr Lukacs has a large coloured manuscript map (200 x 213cm.) which appears to be a copy of the original edition, but with modifications possibly derived from Ricci's map of 1644. This manuscript includes the derogatory references to Japan in the original, and additionally depicts the island of Kyushu (but no other parts of Japan) in some detail, suggesting that it might have been produced by one of the Ming dynasty refugees who settled in Nagasaki. Sinica 92 is described by Li Xiaocong in his "Descriptive catalogue... " (157-159), where he cites the Japanese reprint of 1750 as 「歷代分野之界古今人物事跡」. --><!-- #909: SerD --></recordHist>
+                     <availability status="printcat">
+                        <p>Orderable through <ref target="https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990221408770107026">SOLO</ref></p></availability>
+                  </adminInfo>
+               <surrogates>
+ <listBibl>
+  <bibl subtype="full" type="digital-facsimile">
+   <ref target="https://digital.bodleian.ox.ac.uk/objects/8957301e-2596-4e4e-9337-2ff41a535d22">
+    <title>Digital Bodleian</title>
+   </ref>
+   <note>(full digital facsimile)</note>
+  </bibl>
+ </listBibl>
+</surrogates></additional>
+            </msDesc>
+            
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="siku">
+               <bibl>
+                  Siku classification
+               </bibl>
+            </taxonomy>
+            <taxonomy xml:id="bodleian_chinese_thesaurus">
+               <bibl>
+                  Bodleian Chinese thesaurus
+               </bibl>
+            </taxonomy>
+            <taxonomy xml:id="harvard-yenching">
+               <bibl>
+                  Harvard-Yenching Classification System
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="#siku">
+               <list>
+               <item><term key="414.87">史部 地理類 地圖</term></item></list>
+            </keywords>
+            <keywords scheme="#bodleian_chinese_thesaurus">
+               <list>
+               </list>
+            </keywords>
+            <keywords scheme="#harvard-yenching">
+               <list>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      </teiHeader>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>

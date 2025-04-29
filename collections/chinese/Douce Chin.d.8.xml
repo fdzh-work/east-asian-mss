@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="volume_541">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+            <respStmt>
+               <resp>Cataloguer</resp>
+               <persName>[Name of cataloguer]</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Bodleian Library</publisher>
+            <date calendar="#Gregorian">[Date when first made available]</date>
+            <pubPlace>
+               <address>
+                  <addrLine>Department of Special Collections</addrLine>
+                  <addrLine>Bodleian Library</addrLine>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <addrLine>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <idno/>
+            <idno type="msID"/>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="en">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Oxfordshire</region>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Bodleian Library</repository>
+                  <collection/>
+                  <idno type="shelfmark">Douce Chin.d.8</idno>
+               </msIdentifier>
+               <head>書名:太上感應篇 四卷附一卷 / (清)王肇紀繪註<lb/>清雍正乙卯年[1735]晉水黃志承明德堂重刊本<lb/>洋裝1冊(原線裝5冊) : 圖 ; 24公分<lb/>封面題名《太上感應篇圖說》<lb/></head><msContents>
+                  <textLang mainLang="chi">Chinese</textLang>
+                  <msItem n="1">
+                  <title source="#200">太上感應篇 ^四卷附一卷^</title><title source="#200|9">tai shang gan ying pian</title><title type="variant" source="#230">太上感應篇圖說</title><title source="#230|9" type="variant">tai shang gan ying pian tu shuo</title><note source="#290">(清)王肇紀繪註</note><author source="#300"><persName>(清)王肇紀</persName><persName type="9">wang zhao ji</persName></author><note source="#409">清雍正乙卯年[1735]晉水黃志承明德堂重刊本</note><editor source="#440" role="pbl"><persName>明德堂</persName><persName type="9" role="pbl">ming de tang</persName></editor><note source="#600">封面題名《太上感應篇圖說》</note></msItem>         
+               </msContents>
+               <physDesc>
+                  
+                  <objectDesc>
+                     
+                     <supportDesc>
+                        <support/>
+                     <extent>1 volume.<!--洋裝1冊(原線裝5冊) : 圖 ; 24公分--><measure unit="cm"><height>24</height></measure></extent></supportDesc>
+                     
+                  </objectDesc>
+
+               <bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <history>
+                  <origin>
+                     <origDate calendar="#Gregorian" when="1735" type="d">1735</origDate>
+                     <origPlace>China</origPlace>
+                  </origin>
+                  <provenance/>
+                  <acquisition/>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                        </source>
+                     <!--Unused allegro fields--><!-- #000: 20010804/10:56:00|odh --><!-- #0rr: 20190818/13:49:30-367142/131|omaster --><!-- #0cm: i --><!-- #900: or --><!-- #905: Sinica 95 is from different blocks. As the title-page of the Douce copies has 「晉水黃志承... 重刊」, it is possible that Sinica 95 was printed from blocks in Huang's possession, and that the Douce copies were printed from new blocks that he cut in identical format. The seals 「萬福伎同」 and 「明德堂印」 that appear on the title-page of the Douce copies are the same as those that appear at the beginning of juan 2 in Douce Chin.d.12-15 and in Sinica 95; the 「明德堂印」 that appears at the beginning of juan 2-4 of Douce Chin.d.8 and of juan 3-4 on Douce Chin.d.12-15 is different. --><!-- #909: SerD --></recordHist>
+                     <availability>
+                        <p>This item may only be consulted by prior arrangement with a curator. To make an application, please click the request button above. When your request is received, you will be asked to contact the relevant person.</p>
+                     </availability>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+            
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="siku">
+               <bibl>
+                  Siku classification
+               </bibl>
+            </taxonomy>
+            <taxonomy xml:id="bodleian_chinese_thesaurus">
+               <bibl>
+                  Bodleian Chinese thesaurus
+               </bibl>
+            </taxonomy>
+            <taxonomy xml:id="harvard-yenching">
+               <bibl>
+                  Harvard-Yenching Classification System
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="#siku">
+               <list>
+               <item><term key="670.87">子部 道家類</term></item></list>
+            </keywords>
+            <keywords scheme="#bodleian_chinese_thesaurus">
+               <list>
+               </list>
+            </keywords>
+            <keywords scheme="#harvard-yenching">
+               <list>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      </teiHeader>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>

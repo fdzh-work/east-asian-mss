@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="volume_2956">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+            <respStmt>
+               <resp>Cataloguer</resp>
+               <persName>[Name of cataloguer]</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Bodleian Library</publisher>
+            <date calendar="#Gregorian">[Date when first made available]</date>
+            <pubPlace>
+               <address>
+                  <addrLine>Department of Special Collections</addrLine>
+                  <addrLine>Bodleian Library</addrLine>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <addrLine>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <idno/>
+            <idno type="msID"/>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="en">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Oxfordshire</region>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Bodleian Library</repository>
+                  <collection/>
+                  <idno type="shelfmark">Sinica 330</idno>
+               </msIdentifier>
+               <head>書名:馬太傳福音書註釋 / 為仁者纂<lb/>Hong Kong, 1848<lb/>線裝1冊(3, 2, 171, 3頁) ; 28.0公分<lb/>Running title 「馬太傳福音註釋」<lb/>Has 「卷一」 at the foot of each block centre<lb/>English title-page: "The gospel of Matthew in Chinese with explanatory notes"<lb/></head><msContents>
+                  <textLang mainLang="chi">Chinese</textLang>
+                  <msItem n="1">
+                  <title source="#200">馬太傳福音書註釋</title><title source="#200|9">ma tai chuan fu yin shu zhu shi</title><title type="variant" source="#230">馬太傳福音註釋</title><title source="#230|9" type="variant">ma tai chuan fu yin zhu shi</title><title type="variant" source="#230">^The^ gospel of Matthew in Chinese with explanatory notes</title><note source="#290">為仁者纂</note><author source="#300"><persName>Dean, William</persName></author><note source="#600">Running title 「馬太傳福音註釋」</note><note source="#600">Has 「卷一」 at the foot of each block centre</note><note source="#600">English title-page: "The gospel of Matthew in Chinese with explanatory notes"</note></msItem>         
+               </msContents>
+               <physDesc>
+                  
+                  <p>精裝 ; 26.3公分. - Inscribed by the translator</p><objectDesc>
+                     
+                     <supportDesc>
+                        <support/>
+                     <extent>1 volume, (3, 2, 171, 3頁) <!--線裝1冊 (3, 2, 171, 3頁) ; 28.0公分--><measure unit="cm"><height>28.0</height></measure></extent></supportDesc>
+                     
+                  </objectDesc>
+
+               <typeDesc><p>woodblock</p></typeDesc><bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <history>
+                  <origin>
+                     <origDate calendar="#Gregorian" when="1848" type="d">1848</origDate>
+                     <origPlace>Hong Kong</origPlace>
+                  <origPlace source="#410">Hong Kong</origPlace></origin>
+                  <provenance/>
+                  <acquisition/>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                        </source>
+                     <!--Unused allegro fields--><!-- #000: 20040203/11:48:21|odh --><!-- #0rr: 20131106/12:55:45|odh --><!-- #430: 1848 --><!-- #80R: Chinese 2.13 --><!-- #900: p --><!-- #905: Part of a projected complete N.T. --><!-- #909: SerD --></recordHist>
+                     <availability status="printcat">
+                        <p>Orderable through <ref target="https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990221519780107026">SOLO</ref></p></availability>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+            
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="siku">
+               <bibl>
+                  Siku classification
+               </bibl>
+            </taxonomy>
+            <taxonomy xml:id="bodleian_chinese_thesaurus">
+               <bibl>
+                  Bodleian Chinese thesaurus
+               </bibl>
+            </taxonomy>
+            <taxonomy xml:id="harvard-yenching">
+               <bibl>
+                  Harvard-Yenching Classification System
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="#siku">
+               <list>
+               <item><term key="920.bible|classical|1848|matthew">920.bible|classical|1848|matthew</term></item></list>
+            </keywords>
+            <keywords scheme="#bodleian_chinese_thesaurus">
+               <list>
+               <item><term key="Bible -- Classical -- 1848 -- Matthew">Bible -- Classical -- 1848 -- Matthew</term></item></list>
+            </keywords>
+            <keywords scheme="#harvard-yenching">
+               <list>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      </teiHeader>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>

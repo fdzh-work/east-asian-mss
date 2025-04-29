@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="volume_3090">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+            <respStmt>
+               <resp>Cataloguer</resp>
+               <persName>[Name of cataloguer]</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Bodleian Library</publisher>
+            <date calendar="#Gregorian">[Date when first made available]</date>
+            <pubPlace>
+               <address>
+                  <addrLine>Department of Special Collections</addrLine>
+                  <addrLine>Bodleian Library</addrLine>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <addrLine>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <idno/>
+            <idno type="msID"/>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="en">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Oxfordshire</region>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Bodleian Library</repository>
+                  <collection/>
+                  <idno type="shelfmark">Sinica 3919c</idno>
+               </msIdentifier>
+               <head>書名:飛影閣畫冊 存9(光緒19年[1893]十二月朔日), [新]1(光緒20年[1894]五月朔日), 9(光緒20年[1894]九月朔日), 10(光緒20年[1894]九月望日), 12(光緒20年[1894]十月望日), 14(光緒20年[1894]十一月望日), 15(光緒20年[1894]十二月朔日), 22(光緒21年[1895]三月望日), 25(光緒21年[1895]五月朔日), 27(光緒21年[1895]閏五月朔日), 30(光緒21年[1895]六月望日), 35(光緒21年[1895]九月望日), 共12冊<lb/>上海, 1893-1895<lb/>冊 ; 25公分<lb/>本刊為《飛影閣畫報》副刊, 於光緒19年[1893]八月創刊, 出10期後期數另起, 於光緒21年[1895]九月停刊, 共出45期<lb/></head><msContents>
+                  <textLang mainLang="chi">Chinese</textLang>
+                  <msItem n="1">
+                  <title source="#200">飛影閣畫冊 ^存9(光緒19年[1893]十二月朔日), [新]1(光緒20年[1894]五月朔日), 9(光緒20年[1894]九月朔日), 10(光緒20年[1894]九月望日), 12(光緒20年[1894]十月望日), 14(光緒20年[1894]十一月望日), 15(光緒20年[1894]十二月朔日), 22(光緒21年[1895]三月望日), 25(光緒21年[1895]五月朔日), 27(光緒21年[1895]閏五月朔日), 30(光緒21年[1895]六月望日), 35(光緒21年[1895]九月望日), 共12冊^</title><title source="#200|9">fei ying ge hua ce</title><author source="#300"><persName>(清)吳嘉猷</persName><persName type="9">wu jia you</persName></author><note source="#600">本刊為《飛影閣畫報》副刊, 於光緒19年[1893]八月創刊, 出10期後期數另起, 於光緒21年[1895]九月停刊, 共出45期</note></msItem>         
+               </msContents>
+               <physDesc>
+                  
+                  <objectDesc>
+                     
+                     <supportDesc>
+                        <support/>
+                     <extent><!--冊 ; 25公分--><measure unit="cm"><height>25</height></measure></extent></supportDesc>
+                     
+                  </objectDesc>
+
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate calendar="#Gregorian" notBefore="1893" notAfter="1895" type="b">1893 - 1895</origDate>
+                     <origPlace>China</origPlace>
+                  <origPlace source="#410">上海(shang hai)</origPlace></origin>
+                  <provenance/>
+                  <acquisition/>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                        </source>
+                     <!--Unused allegro fields--><!-- #000: 20160705/16:32:35|odh --><!-- #0rr: 20190818/13:49:30-394681/143|omaster --><!-- #0cm: si --><!-- #430: 1893-1895 --><!-- #900: o --><!-- #909: SerD --></recordHist>
+                     <availability status="printcat">
+                        <p>Orderable through <ref target="https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990221534060107026">SOLO</ref></p></availability>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+            
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="siku">
+               <bibl>
+                  Siku classification
+               </bibl>
+            </taxonomy>
+            <taxonomy xml:id="bodleian_chinese_thesaurus">
+               <bibl>
+                  Bodleian Chinese thesaurus
+               </bibl>
+            </taxonomy>
+            <taxonomy xml:id="harvard-yenching">
+               <bibl>
+                  Harvard-Yenching Classification System
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="#siku">
+               <list>
+               <item><term key="582.89|05">子部 藝術類 書畫 畫譜</term></item></list>
+            </keywords>
+            <keywords scheme="#bodleian_chinese_thesaurus">
+               <list>
+               </list>
+            </keywords>
+            <keywords scheme="#harvard-yenching">
+               <list>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      </teiHeader>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="volume_911">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+            <respStmt>
+               <resp>Cataloguer</resp>
+               <persName>[Name of cataloguer]</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Bodleian Library</publisher>
+            <date calendar="#Gregorian">[Date when first made available]</date>
+            <pubPlace>
+               <address>
+                  <addrLine>Department of Special Collections</addrLine>
+                  <addrLine>Bodleian Library</addrLine>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <addrLine>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <idno/>
+            <idno type="msID"/>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="en">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Oxfordshire</region>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Bodleian Library</repository>
+                  <collection/>
+                  <idno type="shelfmark">Sinica 121</idno>
+               </msIdentifier>
+               <head>書名:新刻京本全像插增田虎王慶忠義水滸全傳 殘一頁 / (明)施耐庵撰 ; (明)羅本編<lb/>明萬曆中建陽書林刊本<lb/>1頁 : 圖 ; 21公分<lb/>殘第二十二卷第十四頁<lb/></head><msContents>
+                  <textLang mainLang="chi">Chinese</textLang>
+                  <msItem n="1">
+                  <title source="#200">新刻京本全像插增田虎王慶忠義水滸全傳 ^殘一頁^</title><title source="#200|9">xin ke jing ben quan xiang cha zeng tian hu wang qing zhong yi shui hu quan zhuan</title><title type="variant" source="#230">水滸全傳</title><title source="#230|9" type="variant">shui hu quan zhuan</title><note source="#290">(明)施耐庵撰</note><note source="#290">(明)羅本編</note><author source="#300"><persName>(明)施耐庵</persName><persName type="9">shi nai an</persName></author><author source="#300"><persName>(明)羅本</persName><persName type="9">luo ben</persName></author><note source="#409">明萬曆中建陽書林刊本</note><note source="#600">殘第二十二卷第十四頁</note></msItem>         
+               </msContents>
+               <physDesc>
+                  
+                  <objectDesc>
+                     
+                     <supportDesc>
+                        <support/>
+                     <extent>1 page.<!--1頁 : 圖 ; 21公分--><measure unit="cm"><height>21</height></measure></extent></supportDesc>
+                     
+                  </objectDesc>
+
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate calendar="#Gregorian" when="1600" type="d">1600</origDate>
+                     <origPlace>China</origPlace>
+                  </origin>
+                  <provenance/>
+                  <acquisition/>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                        </source>
+                     <!--Unused allegro fields--><!-- #000: 20011017/11:11:55|odh --><!-- #0rr: 20170923/16:15:25-123770/1|odh --><!-- #0cm: i --><!-- #900: or --><!-- #905: Title taken from beginning of juan 21 (Paris). This is the sole surviving copy of this edition, of which other fasc. are in the Württembergische Landesbibliothek, Stuttgart (juan 2-7, incomplete), the Royal Library, Copenhagen (juan 15-19, incomplete), the Bibliothèque Nationale, Paris (juan 20-21, also incomplete). The Stuttgart fragment has been reproduced by Walravens ("Two recently discovered fragments of the Chinese novels San-kuo-chih-yen-i and Shui-hu-chuan", Hamburg, 1982). See Duyvendak in BLR 2(1941-1949), 245-247; Demieville in TP 44(1956), 252-254. --><!-- #909: SerD --></recordHist>
+                     <availability status="printcat">
+                        <p>Orderable through <ref target="https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990221498270107026">SOLO</ref></p></availability>
+                  </adminInfo>
+               <surrogates>
+ <listBibl>
+  <bibl subtype="full" type="digital-facsimile">
+   <ref target="https://digital.bodleian.ox.ac.uk/objects/3d1ad001-b250-4884-99a6-a31c58dbb87c">
+    <title>Digital Bodleian</title>
+   </ref>
+   <note>(full digital facsimile)</note>
+  </bibl>
+ </listBibl>
+</surrogates></additional>
+            </msDesc>
+            
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="siku">
+               <bibl>
+                  Siku classification
+               </bibl>
+            </taxonomy>
+            <taxonomy xml:id="bodleian_chinese_thesaurus">
+               <bibl>
+                  Bodleian Chinese thesaurus
+               </bibl>
+            </taxonomy>
+            <taxonomy xml:id="harvard-yenching">
+               <bibl>
+                  Harvard-Yenching Classification System
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="#siku">
+               <list>
+               <item><term key="780.84">集部 通俗小說類</term></item></list>
+            </keywords>
+            <keywords scheme="#bodleian_chinese_thesaurus">
+               <list>
+               </list>
+            </keywords>
+            <keywords scheme="#harvard-yenching">
+               <list>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      </teiHeader>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>

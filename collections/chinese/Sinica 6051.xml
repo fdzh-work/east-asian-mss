@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="volume_5302">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+            <respStmt>
+               <resp>Cataloguer</resp>
+               <persName>[Name of cataloguer]</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Bodleian Library</publisher>
+            <date calendar="#Gregorian">[Date when first made available]</date>
+            <pubPlace>
+               <address>
+                  <addrLine>Department of Special Collections</addrLine>
+                  <addrLine>Bodleian Library</addrLine>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <addrLine>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <idno/>
+            <idno type="msID"/>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="en">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Oxfordshire</region>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Bodleian Library</repository>
+                  <collection/>
+                  <idno type="shelfmark">Sinica 6051</idno>
+               </msIdentifier>
+               <head>書名:殷虛文字類編 十四卷 / (清)羅振玉考釋 ; 商承祚類次<lb/>殷虛文字類編檢字 一卷 ; 殷虛文字待問編 十三卷 / 商承祚類次<lb/>殷虛書契考釋 一卷 / (清)羅振玉撰<lb/>民國癸亥[1923]番禺商氏決定不移軒刊本<lb/>線裝8冊 ; 30公分<lb/></head><msContents>
+                  <textLang mainLang="chi">Chinese</textLang>
+                  <msItem><editor source="#440" role="pbl"><persName>決定不移軒</persName><persName type="9" role="pbl">jue ding bu yi xuan</persName></editor><note source="#409">民國癸亥[1923]番禺商氏決定不移軒刊本</note><msItem n="1">
+                  <title source="#200">殷虛文字類編 ^十四卷^</title><title source="#200|9">yin xu wen zi lei bian</title><note source="#290">(清)羅振玉考釋</note><note source="#290">商承祚類次</note><author source="#300"><persName>(清)羅振玉</persName><persName type="9">luo zhen yu</persName></author><author source="#300"><persName>商承祚</persName><persName type="9">shang cheng zuo</persName></author></msItem>         
+               <msItem n="2"><title source="#201">殷虛文字類編檢字 ^一卷^</title><title source="#201|9">yin xu wen zi lei bian jian zi</title><title source="#201">殷虛文字待問編 ^十三卷^</title><title source="#201|9">yin xu wen zi dai wen bian</title><note source="#291">商承祚類次</note><author source="#301"><persName>商承祚</persName><persName type="9">shang cheng zuo</persName></author></msItem><msItem n="3"><title source="#202">殷虛書契考釋 ^一卷^</title><title source="#202|9">yin xu shu qi kao shi</title><note source="#292">(清)羅振玉撰</note><author source="#302"><persName>(清)羅振玉</persName><persName type="9">luo zhen yu</persName></author></msItem></msItem></msContents>
+               <physDesc>
+                  
+                  <p>後印. - 洋裝1冊(原線裝5冊) ; 28公分. - 缺《殷虛書契考釋》</p><objectDesc>
+                     
+                     <supportDesc>
+                        <support/>
+                     <extent>8 volumes.<!--線裝8冊 ; 30公分--><measure unit="cm"><height>30</height></measure></extent></supportDesc>
+                     
+                  </objectDesc>
+
+               <sealDesc><seal><p>有「任喜之印」、「曉麓」等印記</p></seal></sealDesc><bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <history>
+                  <origin>
+                     <origDate calendar="#Gregorian" when="1934" type="d">1934</origDate>
+                     <origPlace>China</origPlace>
+                  </origin>
+                  <provenance/>
+                  <acquisition/>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                        </source>
+                     <!--Unused allegro fields--><!-- #000: 19970512/13:30:41|odh --><!-- #0rr: 20191002/12:55:31-366433/82|omaster --><!-- #900: o --><!-- #905: The first printing still has traces of vermilion on the blocks. In the later printings, 「決定不移軒」has been excised from the lower 版心. --><!-- #909: SerD --></recordHist>
+                     <availability>
+                        <p>This item may only be consulted by prior arrangement with a curator. To make an application, please click the request button above. When your request is received, you will be asked to contact the relevant person.</p>
+                     </availability>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+            
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="siku">
+               <bibl>
+                  Siku classification
+               </bibl>
+            </taxonomy>
+            <taxonomy xml:id="bodleian_chinese_thesaurus">
+               <bibl>
+                  Bodleian Chinese thesaurus
+               </bibl>
+            </taxonomy>
+            <taxonomy xml:id="harvard-yenching">
+               <bibl>
+                  Harvard-Yenching Classification System
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="#siku">
+               <list>
+               <item><term key="462.89">史部 金石類 分刻</term></item></list>
+            </keywords>
+            <keywords scheme="#bodleian_chinese_thesaurus">
+               <list>
+               <item><term key="editions -- first printing -- traces of red/indigo">editions -- first printing -- traces of red/indigo</term></item></list>
+            </keywords>
+            <keywords scheme="#harvard-yenching">
+               <list>
+               <item><term key="2086.6">2086.6</term></item></list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      </teiHeader>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>

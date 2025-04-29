@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="volume_5762">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+            <respStmt>
+               <resp>Cataloguer</resp>
+               <persName>[Name of cataloguer]</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Bodleian Library</publisher>
+            <date calendar="#Gregorian">[Date when first made available]</date>
+            <pubPlace>
+               <address>
+                  <addrLine>Department of Special Collections</addrLine>
+                  <addrLine>Bodleian Library</addrLine>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <addrLine>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian
+                        Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <idno/>
+            <idno type="msID"/>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="en">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Oxfordshire</region>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Bodleian Library</repository>
+                  <collection/>
+                  <idno type="shelfmark">Sinica 6472</idno>
+               </msIdentifier>
+               <msContents>
+                  <textLang mainLang="chi">Chinese</textLang>
+                  <msItem n="2">
+                     <author source="#301"><persName>Chan Ue-Ting</persName></author>
+                  </msItem>
+               <msItem><editor source="#420" role="pbl"><persName>^The^ China Baptist Publication
+                           Society</persName></editor>
+                  <msItem n="1">
+                     <title source="#200">真光月報 ^存壬寅正月(March 1902)^ = ^The^ true light
+                        monthly</title>
+                     <title source="#200|9">zhen guang yue bao bao</title>
+                     <note source="#290">Rev. R.E. Chambers, Mr. Chan Ue-Ting, editors</note>
+                     <author source="#300"><persName>Chambers, Robert E</persName></author>
+                     </msItem>
+                  </msItem></msContents>
+               <physDesc>
+
+                  <objectDesc>
+
+                     <supportDesc>
+                        <support/>
+                        <extent>1 volume.<!--線裝1冊 ; 20.3公分--><measure unit="cm"><height>20.3</height></measure></extent>
+                     </supportDesc>
+
+                  </objectDesc>
+
+                  <bindingDesc>
+                     <binding>
+                        <p>traditional thread binding</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate calendar="#Gregorian" notBefore="1902" notAfter="1906" type="b">1902
+                        - 1906</origDate>
+                     <origPlace>China</origPlace>
+                     <origPlace source="#410">Canton</origPlace></origin>
+                  <provenance/>
+                  <acquisition/>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source> </source>
+                        <!--Unused allegro fields-->
+                        <!-- #000: 20151028/10:27:01|odh -->
+                        <!-- #0rr: 20151113/15:57:11-389533/82|omaster -->
+                        <!-- #0cm: s -->
+                        <!-- #430: 1902-1906 -->
+                        <!-- #900: p -->
+                        <!-- #909: SerD -->
+                     </recordHist>
+                     <availability status="printcat">
+                        <p>Orderable through <ref target="https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990221343010107026">SOLO</ref></p>
+                     </availability>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="siku">
+               <bibl> Siku classification </bibl>
+            </taxonomy>
+            <taxonomy xml:id="bodleian_chinese_thesaurus">
+               <bibl> Bodleian Chinese thesaurus </bibl>
+            </taxonomy>
+            <taxonomy xml:id="harvard-yenching">
+               <bibl> Harvard-Yenching Classification System </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="#siku">
+               <list>
+                  <item><term key="980.1902">980.1902</term></item>
+               </list>
+            </keywords>
+            <keywords scheme="#bodleian_chinese_thesaurus">
+               <list>
+                  <item><term key="periodical -- 1902">periodical -- 1902</term></item>
+               </list>
+            </keywords>
+            <keywords scheme="#harvard-yenching">
+               <list> </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>

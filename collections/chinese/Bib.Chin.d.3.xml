@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="volume_509">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+            <respStmt>
+               <resp>Cataloguer</resp>
+               <persName>[Name of cataloguer]</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Bodleian Library</publisher>
+            <date calendar="#Gregorian">[Date when first made available]</date>
+            <pubPlace>
+               <address>
+                  <addrLine>Department of Special Collections</addrLine>
+                  <addrLine>Bodleian Library</addrLine>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <addrLine>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <idno/>
+            <idno type="msID"/>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="en">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Oxfordshire</region>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Bodleian Library</repository>
+                  <collection/>
+                  <idno type="shelfmark">Bib.Chin.d.3</idno>
+               </msIdentifier>
+               <head>書名:神天聖書 : 載舊遺詔書兼新遺詔書<lb/>重鐫<lb/>[Malacca] : 英華書院, 道光七年[1827]-1832, [later impression]<lb/>線裝21冊(various pagings) ; 26.8公分<lb/>Tr. by R Morrison and W Milne<lb/>Revision of 1823 edn., in larger format<lb/>NT section has title-page 「我等救世主耶穌新遺詔書」<lb/></head><msContents>
+                  <textLang mainLang="chi">Chinese</textLang>
+                  <msItem n="1">
+                  <title source="#200">神天聖書 : 載舊遺詔書兼新遺詔書</title><title source="#200|9">shen tian sheng shu : zai jiu yi zhao shu jian xin yi zhao shu</title><title type="variant" source="#230">我等救世主耶穌新遺詔書</title><title source="#230|9" type="variant">wo deng jiu shi zhu ye su xin yi zhao shu</title><author source="#300"><persName>Morrison, Robert</persName></author><author source="#300"><persName>Milne, William</persName></author><editor source="#420" role="pbl"><persName>英華書院</persName><persName type="9" role="pbl">ying hua shu yuan</persName></editor><note source="#600">Tr. by R Morrison and W Milne</note><note source="#600">Revision of 1823 edn., in larger format</note><note source="#600">NT section has title-page 「我等救世主耶穌新遺詔書」</note></msItem>         
+               </msContents>
+               <physDesc>
+                  
+                  <p>洋裝5冊</p><objectDesc>
+                     
+                     <supportDesc>
+                        <support/>
+                     <extent>21 volume.<!--線裝21冊(various pagings) ; 26.8公分--><measure unit="cm"><height>26.8</height></measure></extent></supportDesc>
+                     
+                  </objectDesc>
+
+               <typeDesc><p>woodblock</p></typeDesc><bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <history>
+                  <origin>
+                     <origDate calendar="#Gregorian" when="1832" type="d">1832</origDate>
+                     <origPlace/>
+                  <origPlace source="#410">[Malacca]</origPlace></origin>
+                  <provenance/>
+                  <acquisition/>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                        </source>
+                     <!--Unused allegro fields--><!-- #000: 20040929/16:38:42|odh --><!-- #0rr: 20130521/14:10:05|odh --><!-- #400: 重鐫 --><!-- #430: 道光七年[1827]-1832, [later impression] --><!-- #900: opr --><!-- #909: SerD --></recordHist>
+                     <availability>
+                        <p>This item may only be consulted by prior arrangement with a curator. To make an application, please click the request button above. When your request is received, you will be asked to contact the relevant person.</p>
+                     </availability>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+            
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="siku">
+               <bibl>
+                  Siku classification
+               </bibl>
+            </taxonomy>
+            <taxonomy xml:id="bodleian_chinese_thesaurus">
+               <bibl>
+                  Bodleian Chinese thesaurus
+               </bibl>
+            </taxonomy>
+            <taxonomy xml:id="harvard-yenching">
+               <bibl>
+                  Harvard-Yenching Classification System
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="#siku">
+               <list>
+               <item><term key="920.bible|classical|1832">920.bible|classical|1832</term></item></list>
+            </keywords>
+            <keywords scheme="#bodleian_chinese_thesaurus">
+               <list>
+               <item><term key="Bible -- Classical -- 1832">Bible -- Classical -- 1832</term></item></list>
+            </keywords>
+            <keywords scheme="#harvard-yenching">
+               <list>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      </teiHeader>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>

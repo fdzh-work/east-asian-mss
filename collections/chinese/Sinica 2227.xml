@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="volume_2013">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+            <respStmt>
+               <resp>Cataloguer</resp>
+               <persName>[Name of cataloguer]</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Bodleian Library</publisher>
+            <date calendar="#Gregorian">[Date when first made available]</date>
+            <pubPlace>
+               <address>
+                  <addrLine>Department of Special Collections</addrLine>
+                  <addrLine>Bodleian Library</addrLine>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <addrLine>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <idno/>
+            <idno type="msID"/>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="en">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Oxfordshire</region>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Bodleian Library</repository>
+                  <collection/>
+                  <idno type="shelfmark">Sinica 2227</idno>
+               </msIdentifier>
+               <head>書名:畫圖新報 = The Chinese illustrated news<lb/>[Shanghai] : 中國聖教書會[印發], 1880-[?]<lb/>冊 : 圖 ; 24.3公分<lb/>Ed. by J M W Farnham<lb/>The journal probably started in 1880, and was originally entitled 「華圖新報」(with 「花圖新報」 in the block centre); the title changed from the second year of publication<lb/></head><msContents>
+                  <textLang mainLang="chi">Chinese</textLang>
+                  <msItem n="1">
+                  <title source="#200">畫圖新報 = ^The^ Chinese illustrated news</title><title source="#200|9">hua tu xin bao</title><title type="variant" source="#230">華圖新報</title><title source="#230|9" type="variant">hua tu xin bao</title><title type="variant" source="#230">花圖新報</title><title source="#230|9" type="variant">hua tu xin bao</title><author source="#300"><persName>Farnham, John Marshall Willoughby</persName></author><editor source="#420" role="pbl"><persName>中國聖教書會</persName><persName type="9" role="pbl">zhong guo sheng jiao shu hui</persName></editor><note source="#600">Ed. by J M W Farnham</note><note source="#600">The journal probably started in 1880, and was originally entitled 「華圖新報」(with 「花圖新報」 in the block centre); the title changed from the second year of publication</note></msItem>         
+               </msContents>
+               <physDesc>
+                  
+                  <p>線裝1冊 ; 24.3公分</p><objectDesc>
+                     
+                     <supportDesc>
+                        <support/>
+                     <extent><!--冊 : 圖 ; 24.3公分--><measure unit="cm"><height>24.3</height></measure></extent></supportDesc>
+                     
+                  </objectDesc>
+
+               <typeDesc><p>typography</p><p>Beyerhaus</p><p>Cole</p></typeDesc></physDesc>
+               <history>
+                  <origin>
+                     <origDate calendar="#Gregorian" notBefore="1800" notAfter="1899" type="b">1800 - 1899</origDate>
+                     <origPlace>China</origPlace>
+                  <origPlace source="#410">[Shanghai]</origPlace></origin>
+                  <provenance/>
+                  <acquisition/>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
+                        </source>
+                     <!--Unused allegro fields--><!-- #000: 20031222/15:07:43|odh --><!-- #0rr: 20151113/15:57:11-131456/7|omaster --><!-- #0cm: si --><!-- #430: 1880-[?] --><!-- #900: p --><!-- #905: J Murdoch's "Report on Christian literature in China" says the paper was "commenced in 1880" (p.20). --><!-- #909: SerD --></recordHist>
+                     <availability>
+                        <p>This item may only be consulted by prior arrangement with a curator. To make an application, please click the request button above. When your request is received, you will be asked to contact the relevant person.</p>
+                     </availability>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+            
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="siku">
+               <bibl>
+                  Siku classification
+               </bibl>
+            </taxonomy>
+            <taxonomy xml:id="bodleian_chinese_thesaurus">
+               <bibl>
+                  Bodleian Chinese thesaurus
+               </bibl>
+            </taxonomy>
+            <taxonomy xml:id="harvard-yenching">
+               <bibl>
+                  Harvard-Yenching Classification System
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="#siku">
+               <list>
+               <item><term key="980.1880">980.1880</term></item></list>
+            </keywords>
+            <keywords scheme="#bodleian_chinese_thesaurus">
+               <list>
+               <item><term key="periodical -- 1880">periodical -- 1880</term></item></list>
+            </keywords>
+            <keywords scheme="#harvard-yenching">
+               <list>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      </teiHeader>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>
