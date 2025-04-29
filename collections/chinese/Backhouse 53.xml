@@ -1,0 +1,295 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="volume_6462">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+            <respStmt>
+               <resp>Cataloguer</resp>
+               <persName>[Name of cataloguer]</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Bodleian Library</publisher>
+            <date calendar="#Gregorian">[Date when first made available]</date>
+            <pubPlace>
+               <address>
+                  <addrLine>Department of Special Collections</addrLine>
+                  <addrLine>Bodleian Library</addrLine>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <addrLine>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian
+                        Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <idno/>
+            <idno type="msID"/>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="en">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Oxfordshire</region>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Bodleian Library</repository>
+                  <collection/>
+                  <idno type="shelfmark">Backhouse 53</idno>
+               </msIdentifier>
+               <msContents>
+                  <textLang mainLang="chi">Chinese</textLang>
+                  <msItem n="1">
+                     <title source="#200">曾文正公全集</title>
+                     <title source="#200|9">zeng wen zheng gong quan ji</title>
+                     <note source="#290">(清)曾國藩撰</note>
+                     <author source="#300"><persName>(清)曾國藩</persName><persName type="9">zeng guo
+                           fan</persName></author>
+                     <note source="#409">清同治光緒間傳忠書局刊本</note>
+                     <editor source="#440" role="pbl"><persName>傳忠書局</persName><persName type="9"
+                           role="pbl">chuan zhong shu ju</persName></editor>
+                     <msItem>
+                        <title source="#200">曾文正公奏稿 ^三十六卷^</title>
+                        <title source="#200|9">zeng wen zheng gong zou gao</title>
+                        <author source="#300"><persName>(清)曾國藩</persName><persName type="9">zeng guo
+                              fan</persName></author>
+                        <!--Unused allegro fields-->
+                        <!-- #000: 20070502/10:32:27|odh -->
+                        <!-- #0rr: 20070502/10:32:35|odh -->
+                        <!-- #0rx: dh370+01 -->
+                        <!-- #600: 光緒二年[1876]刊 -->
+                        <!-- #800: Backhouse 53/2-24 -->
+                        <note>View full record at <ref target="volume_6463"></ref>Backhouse 53/2-24</note>
+                     </msItem>
+                     <msItem>
+                        <title source="#200">十八家詩鈔 ^二十八卷^</title>
+                        <title source="#200|9">shi ba jia shi chao</title>
+                        <note source="#290">(清)曾國藩編</note>
+                        <author source="#300"><persName>(清)曾國藩</persName><persName type="9">zeng guo
+                              fan</persName></author>
+                        <!--Unused allegro fields-->
+                        <!-- #000: 20070502/10:34:04|odh -->
+                        <!-- #0rr: 20120726/10:47:18|osn -->
+                        <!-- #0rx: dh370+02 -->
+                        <!-- #600: 同治十三年[1874]刊 -->
+                        <!-- #800: Backhouse 53/25-48 -->
+                        <note>View full record at <ref target="volume_6464"></ref>Backhouse 53/25-48</note>
+                     </msItem>
+                     <msItem>
+                        <title source="#200">經史百家雜鈔 ^二十六卷^</title>
+                        <title source="#200|9">jing shi bai jia za chao</title>
+                        <note source="#290">(清)曾國藩編</note>
+                        <author source="#300"><persName>(清)曾國藩</persName><persName type="9">zeng guo
+                              fan</persName></author>
+                        <!--Unused allegro fields-->
+                        <!-- #000: 20070502/10:37:25|odh -->
+                        <!-- #0rr: 20110921/13:53:15|osn -->
+                        <!-- #0rx: dh370+03 -->
+                        <!-- #600: 光緒二年[1876]刊 -->
+                        <!-- #800: Backhouse 53/49-70 -->
+                        <note>View full record at <ref target="volume_6465"></ref>Backhouse 53/49-70</note>
+                     </msItem>
+                     <msItem>
+                        <title source="#200">經史百家簡編 ^二卷^</title>
+                        <title source="#200|9">jing shi bai jia jian bian</title>
+                        <note source="#290">(清)曾國藩編</note>
+                        <author source="#300"><persName>(清)曾國藩</persName><persName type="9">zeng guo
+                              fan</persName></author>
+                        <!--Unused allegro fields-->
+                        <!-- #000: 20070502/10:38:22|odh -->
+                        <!-- #0rr: 20110921/13:52:44|osn -->
+                        <!-- #0rx: dh370+04 -->
+                        <!-- #600: 同治十三年[1874]刊 -->
+                        <!-- #800: Backhouse 53/71-72 -->
+                        <note>View full record at <ref target="volume_6466"></ref>Backhouse 53/71-72</note>
+                     </msItem>
+                     <msItem>
+                        <title source="#200">鳴原堂論文 ^二卷^</title>
+                        <title source="#200|9">ming yuan tang lun wen</title>
+                        <author source="#300"><persName>(清)曾國藩</persName><persName type="9">zeng guo
+                              fan</persName></author>
+                        <!--Unused allegro fields-->
+                        <!-- #000: 20070502/10:40:21|odh -->
+                        <!-- #0rx: dh370+05 -->
+                        <!-- #600: 同治十二年[1873]勱志堂刊本 -->
+                        <!-- #640: 勱志堂|d1873|9mai zhi tang -->
+                        <!-- #800: Backhouse 53/73-74 -->
+                        <note>View full record at <ref target="volume_6467"></ref>Backhouse 53/73-74</note>
+                     </msItem>
+                     <msItem>
+                        <title source="#200">曾文正公詩集 ^三卷^</title>
+                        <title source="#200|9">zeng wen zheng gong shi ji</title>
+                        <author source="#300"><persName>(清)曾國藩</persName><persName type="9">zeng guo
+                              fan</persName></author>
+                        <!--Unused allegro fields-->
+                        <!-- #000: 20070502/10:42:05|odh -->
+                        <!-- #0rr: 20070502/10:43:11|odh -->
+                        <!-- #0rx: dh370+06 -->
+                        <!-- #600: 光緒二年[1876]刊 -->
+                        <!-- #800: Backhouse 53/75 -->
+                        <note>View full record at <ref target="volume_6468"></ref>Backhouse 53/75</note>
+                     </msItem>
+                     <msItem>
+                        <title source="#200">曾文正公文集 ^三卷^</title>
+                        <title source="#200|9">zeng wen zheng gong wen ji</title>
+                        <author source="#300"><persName>(清)曾國藩</persName><persName type="9">zeng guo
+                              fan</persName></author>
+                        <!--Unused allegro fields-->
+                        <!-- #000: 20070502/10:42:57|odh -->
+                        <!-- #0rr: 20070502/10:45:00|odh -->
+                        <!-- #0rx: dh370+07 -->
+                        <!-- #600: 光緒二年[1876]刊 -->
+                        <!-- #800: Backhouse 53/76-78 -->
+                        <note>View full record at <ref target="volume_6469"></ref>Backhouse 53/76-78</note>
+                     </msItem>
+                     <msItem>
+                        <title source="#200">曾文正公書札 ^三十三卷^</title>
+                        <title source="#200|9">zeng wen zheng gong shu zha</title>
+                        <author source="#300"><persName>(清)曾國藩</persName><persName type="9">zeng guo
+                              fan</persName></author>
+                        <!--Unused allegro fields-->
+                        <!-- #000: 20070502/10:45:45|odh -->
+                        <!-- #0rx: dh370+08 -->
+                        <!-- #600: 光緒二年[1876]刊 -->
+                        <!-- #800: Backhouse 53/79-102 -->
+                        <note>View full record at <ref target="volume_6470"></ref>Backhouse 53/79-102</note>
+                     </msItem>
+                     <msItem>
+                        <title source="#200">曾文正公批牘 ^六卷^</title>
+                        <title source="#200|9">zeng wen zheng gong pi du</title>
+                        <author source="#300"><persName>(清)曾國藩</persName><persName type="9">zeng guo
+                              fan</persName></author>
+                        <!--Unused allegro fields-->
+                        <!-- #000: 20070502/10:44:17|odh -->
+                        <!-- #0rx: dh370+09 -->
+                        <!-- #600: 光緒二年[1876]刊 -->
+                        <!-- #800: Backhouse 53/103-108 -->
+                        <note>View full record at <ref target="volume_6471"></ref>Backhouse 53/103-108</note>
+                     </msItem>
+                     <msItem>
+                        <title source="#200">求闕齋日記類鈔 ^二卷^</title>
+                        <title source="#200|9">qiu que zhai ri ji lei chao</title>
+                        <note source="#290">(清)王啟原校編</note>
+                        <author source="#300"><persName>(清)曾國藩</persName><persName type="9">zeng guo
+                              fan</persName></author>
+                        <author source="#300"><persName>(清)王啟原</persName><persName type="9">wang qi
+                              yuan</persName></author>
+                        <!--Unused allegro fields-->
+                        <!-- #000: 20070502/10:50:37|odh -->
+                        <!-- #0rr: 20070502/10:53:04|odh -->
+                        <!-- #0rx: dh370+10 -->
+                        <!-- #600: 光緒二年[1876]刊 -->
+                        <!-- #800: Backhouse 53/115-116 -->
+                        <note>View full record at <ref target="volume_6472"></ref>Backhouse 53/115-116</note>
+                     </msItem>
+                     <msItem>
+                        <title source="#200">曾文正公年譜 ^十二卷^</title>
+                        <title source="#200|9">zeng wen zheng gong nian pu</title>
+                        <note source="#290">(清)黎庶昌撰</note>
+                        <author source="#300"><persName>(清)黎庶昌</persName><persName type="9">li shu
+                              chang</persName></author>
+                        <!--Unused allegro fields-->
+                        <!-- #000: 20070502/10:52:29|odh -->
+                        <!-- #0rx: dh370+11 -->
+                        <!-- #600: 光緒二年[1876]刊 -->
+                        <!-- #800: Backhouse 53/117-120 -->
+                        <note>View full record at <ref target="volume_6473"></ref>Backhouse 53/117-120</note>
+                     </msItem>
+                  </msItem>
+               </msContents>
+               <physDesc>
+
+                  <p>缺雜著﹑讀書錄兩種六冊</p>
+                  <objectDesc>
+
+                     <supportDesc>
+                        <support/>
+                        <extent>114 volumes.<!--線裝114冊 ; 26公分--><measure unit="cm"
+                                 ><height>26</height></measure></extent>
+                     </supportDesc>
+
+                  </objectDesc>
+
+                  <sealDesc>
+                     <seal>
+                        <p>有「仲子鴻鉤」、「寶國之後」等印記</p>
+                     </seal>
+                  </sealDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p>traditional thread binding</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate calendar="#Gregorian" when="1876" type="d">1876</origDate>
+                     <origPlace>China</origPlace>
+                  </origin>
+                  <provenance/>
+                  <acquisition/>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source> </source>
+                        <!--Unused allegro fields-->
+                        <!-- #000: 20070502/10:27:53|odh -->
+                        <!-- #0rr: 20190930/22:17:23-148847/128|omaster -->
+                        <!-- #0rx: dh370 -->
+                        <!-- #900: ors -->
+                        <!-- #909: SerD -->
+                     </recordHist>
+                     <availability status="printcat">
+                        <p>Orderable through <ref
+                              target="https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990221407360107026"
+                              >SOLO</ref></p>
+                     </availability>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="siku">
+               <bibl> Siku classification </bibl>
+            </taxonomy>
+            <taxonomy xml:id="bodleian_chinese_thesaurus">
+               <bibl> Bodleian Chinese thesaurus </bibl>
+            </taxonomy>
+            <taxonomy xml:id="harvard-yenching">
+               <bibl> Harvard-Yenching Classification System </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="#siku">
+               <list>
+                  <item><term key="710.88">集部 別集類</term></item>
+               </list>
+            </keywords>
+            <keywords scheme="#bodleian_chinese_thesaurus">
+               <list> </list>
+            </keywords>
+            <keywords scheme="#harvard-yenching">
+               <list> </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>
