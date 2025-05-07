@@ -53,8 +53,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>63 volumes.<!--線裝63冊 : 28公分--><measure unit="cm"><height>線裝63冊 : 28</height></measure></extent></supportDesc>
+                        
+                     <extent>63 volumes.<!--線裝63冊 : 28公分--><dimensions unit="cm"><height>線裝63冊 : 28</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1925" type="d">1925</origDate>
                      <origPlace>Japan</origPlace>
                   </origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

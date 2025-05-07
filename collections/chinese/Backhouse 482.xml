@@ -454,8 +454,8 @@
                   <objectDesc>
 
                      <supportDesc>
-                        <support/>
-                        <extent>8 volumes.<!--線裝8冊 ; 20公分--><measure unit="cm"><height>20</height></measure></extent>
+                        
+                        <extent>8 volumes.<!--線裝8冊 ; 20公分--><dimensions unit="cm"><height>20</height></dimensions></extent>
                      </supportDesc>
 
                   </objectDesc>
@@ -471,8 +471,7 @@
                      <origDate calendar="#Gregorian" when="1911" type="d">1911</origDate>
                      <origPlace>China</origPlace>
                   </origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

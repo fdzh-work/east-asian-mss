@@ -53,8 +53,8 @@
                   <p>書品劣, 缺最後兩頁</p><objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>1 volume, 320 pages.<!--平裝1冊(320頁) ; 22.0公分--><measure unit="cm"><height>22.0</height></measure></extent></supportDesc>
+                        
+                     <extent>1 volume, 320 pages.<!--平裝1冊(320頁) ; 22.0公分--><dimensions unit="cm"><height>22.0</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1900" type="d">1900</origDate>
                      <origPlace>China</origPlace>
                   <origPlace source="#410">[出版地未詳]</origPlace></origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

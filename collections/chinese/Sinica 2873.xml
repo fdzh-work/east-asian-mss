@@ -113,8 +113,8 @@
                   <objectDesc>
 
                      <supportDesc>
-                        <support/>
-                        <extent><!--線裝3(原6)冊 ; 25公分--><measure unit="cm"><height>25</height></measure></extent>
+                        
+                        <extent><!--線裝3(原6)冊 ; 25公分--><dimensions unit="cm"><height>25</height></dimensions></extent>
                      </supportDesc>
 
                   </objectDesc>
@@ -136,8 +136,7 @@
                         - 1761</origDate>
                      <origPlace>China</origPlace>
                   </origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

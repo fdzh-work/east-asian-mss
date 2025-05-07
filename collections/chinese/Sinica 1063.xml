@@ -123,8 +123,8 @@
                   <objectDesc>
 
                      <supportDesc>
-                        <support/>
-                        <extent>4 volumes.<!--線裝4冊 ; 26公分--><measure unit="cm"><height>26</height></measure></extent>
+                        
+                        <extent>4 volumes.<!--線裝4冊 ; 26公分--><dimensions unit="cm"><height>26</height></dimensions></extent>
                      </supportDesc>
 
                   </objectDesc>
@@ -140,8 +140,7 @@
                      <origDate calendar="#Gregorian" when="1800" type="d">1800</origDate>
                      <origPlace>Japan</origPlace>
                   </origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

@@ -53,8 +53,8 @@
                   <p>線裝60冊 ; 27公分</p><objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>50 volumes.<!--線裝50冊 ; 28公分--><measure unit="cm"><height>28</height></measure></extent></supportDesc>
+                        
+                     <extent>50 volumes.<!--線裝50冊 ; 28公分--><dimensions unit="cm"><height>28</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1603" type="d">1603</origDate>
                      <origPlace>China</origPlace>
                   </origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

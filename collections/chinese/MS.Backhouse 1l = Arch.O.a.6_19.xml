@@ -53,8 +53,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>1 volume.<!--包背裝1冊 ; 51公分--><measure unit="cm"><height>51</height></measure></extent></supportDesc>
+                        
+                     <extent>1 volume.<!--包背裝1冊 ; 51公分--><dimensions unit="cm"><height>51</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian"/>
                      <origPlace>China</origPlace>
                   </origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

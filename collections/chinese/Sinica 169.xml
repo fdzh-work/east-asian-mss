@@ -113,8 +113,8 @@
                   <objectDesc>
 
                      <supportDesc>
-                        <support/>
-                        <extent>16 volumes.<!--線裝16冊 : 圖 ; 18公分--><measure unit="cm"><height>18</height></measure></extent>
+                        
+                        <extent>16 volumes.<!--線裝16冊 : 圖 ; 18公分--><dimensions unit="cm"><height>18</height></dimensions></extent>
                      </supportDesc>
 
                   </objectDesc>
@@ -130,8 +130,7 @@
                      <origDate calendar="#Gregorian" when="1730" type="d">1730</origDate>
                      <origPlace>China</origPlace>
                   </origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

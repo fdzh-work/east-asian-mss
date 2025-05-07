@@ -53,8 +53,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>48 volumes.<!--線裝48冊 ; 28公分--><measure unit="cm"><height>28</height></measure></extent></supportDesc>
+                        
+                     <extent>48 volumes.<!--線裝48冊 ; 28公分--><dimensions unit="cm"><height>28</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" notBefore="1876" notAfter="1892" type="g">1876 - 1892</origDate>
                      <origPlace>China</origPlace>
                   <origPlace source="#410">上海(shang hai)</origPlace></origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

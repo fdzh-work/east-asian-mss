@@ -53,8 +53,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>1 volume, 142 pages.<!--平裝1冊(142頁) ; 20.4公分--><measure unit="cm"><height>20.4</height></measure></extent></supportDesc>
+                        
+                     <extent>1 volume, 142 pages.<!--平裝1冊(142頁) ; 20.4公分--><dimensions unit="cm"><height>20.4</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1910" type="d">1910</origDate>
                      <origPlace>China</origPlace>
                   <origPlace source="#410">漢鎮[Hankow](han zhen)</origPlace></origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

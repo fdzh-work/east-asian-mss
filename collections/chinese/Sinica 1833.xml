@@ -53,8 +53,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>3 volumes.<!--線裝3冊(various pagings) ; 25.1公分--><measure unit="cm"><height>25.1</height></measure></extent></supportDesc>
+                        
+                     <extent>3 volumes.<!--線裝3冊(various pagings) ; 25.1公分--><dimensions unit="cm"><height>25.1</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1864" type="d">1864</origDate>
                      <origPlace>China</origPlace>
                   <origPlace source="#410">上海(shang hai)</origPlace></origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

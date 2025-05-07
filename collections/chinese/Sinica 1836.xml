@@ -53,8 +53,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>2 volumes, (5, 90, 118頁) <!--線裝2冊 (5, 90, 118頁) ; 25.1公分--><measure unit="cm"><height>25.1</height></measure></extent></supportDesc>
+                        
+                     <extent>2 volumes, (5, 90, 118頁) <!--線裝2冊 (5, 90, 118頁) ; 25.1公分--><dimensions unit="cm"><height>25.1</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1873" type="d">1873</origDate>
                      <origPlace>China</origPlace>
                   <origPlace source="#410">[Peking]</origPlace></origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

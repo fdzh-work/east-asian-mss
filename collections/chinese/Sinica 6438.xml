@@ -53,8 +53,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>1 volume, 28 pages.<!--平裝1冊(28頁) ; 17.4公分--><measure unit="cm"><height>17.4</height></measure></extent></supportDesc>
+                        
+                     <extent>1 volume, 28 pages.<!--平裝1冊(28頁) ; 17.4公分--><dimensions unit="cm"><height>17.4</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1921" type="d">1921</origDate>
                      <origPlace>China</origPlace>
                   <origPlace source="#410">[漢口(han kou])</origPlace></origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

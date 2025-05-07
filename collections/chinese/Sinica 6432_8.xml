@@ -53,8 +53,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>1 volume, 23 pages.<!--線裝1冊(23頁) : 地圖 ; 19.6公分--><measure unit="cm"><height>19.6</height></measure></extent></supportDesc>
+                        
+                     <extent>1 volume, 23 pages.<!--線裝1冊(23頁) : 地圖 ; 19.6公分--><dimensions unit="cm"><height>19.6</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1893" type="d">1893</origDate>
                      <origPlace>China</origPlace>
                   <origPlace source="#410">漢口(han kou)</origPlace></origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

@@ -53,8 +53,8 @@
                   <p>20.7公分. - Has different title-page, lacking place and publisher</p><objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>1 volume, 27 pages.<!--線裝1冊(27頁) ; 24.7公分--><measure unit="cm"><height>24.7</height></measure></extent></supportDesc>
+                        
+                     <extent>1 volume, 27 pages.<!--線裝1冊(27頁) ; 24.7公分--><dimensions unit="cm"><height>24.7</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1830" type="d">1830</origDate>
                      <origPlace/>
                   <origPlace source="#410">嗎𠯿呷(ma liu xia)</origPlace></origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

@@ -53,8 +53,8 @@
                   <p>17.9公分. - Later impression. - Has ms. note on cover: "Published by the Hankow Branch. R.T.S. / Cost price: 3/10 per copy / Selling [price]: 1/7 [per copy]"</p><objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>1 volume, 11 pages.<!--線裝1冊(11頁) ; 14.8公分--><measure unit="cm"><height>14.8</height></measure></extent></supportDesc>
+                        
+                     <extent>1 volume, 11 pages.<!--線裝1冊(11頁) ; 14.8公分--><dimensions unit="cm"><height>14.8</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1876" type="d">1876</origDate>
                      <origPlace>China</origPlace>
                   <origPlace source="#410">[Hankow]</origPlace></origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

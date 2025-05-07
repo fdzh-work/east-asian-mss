@@ -53,8 +53,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>3 volumes.<!--線裝3冊 ; 27公分--><measure unit="cm"><height>27</height></measure></extent></supportDesc>
+                        
+                     <extent>3 volumes.<!--線裝3冊 ; 27公分--><dimensions unit="cm"><height>27</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1933" type="d">1933</origDate>
                      <origPlace>China</origPlace>
                   </origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                <acquisition>Piet van der Loon</acquisition></history>
                <additional>
                   <adminInfo>

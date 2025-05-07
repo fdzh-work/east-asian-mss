@@ -53,8 +53,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>1 volume, 42 pages.<!--線裝1冊(42頁) ; 20.4公分--><measure unit="cm"><height>20.4</height></measure></extent></supportDesc>
+                        
+                     <extent>1 volume, 42 pages.<!--線裝1冊(42頁) ; 20.4公分--><dimensions unit="cm"><height>20.4</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1872" type="d">1872</origDate>
                      <origPlace>China</origPlace>
                   <origPlace source="#410">福州(fu zhou)</origPlace></origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

@@ -53,8 +53,8 @@
                   <p>17.0公分</p><objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>1 volume.<!--線裝1冊 (various pagings) : 圖 (some folding)--><measure unit="cm"><height>線裝1冊 (various pagings) : 圖 (some folding)</height></measure></extent></supportDesc>
+                        
+                     <extent>1 volume.<!--線裝1冊 (various pagings) : 圖 (some folding)--><dimensions unit="cm"><height>線裝1冊 (various pagings) : 圖 (some folding)</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" notBefore="1850" notAfter="1853" type="b">1850 - 1853</origDate>
                      <origPlace>China</origPlace>
                   <origPlace source="#410">寧波(ning bo)</origPlace></origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

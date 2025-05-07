@@ -53,8 +53,8 @@
                   <p>Inscribed "Florence Drake, Sept. 1903"</p><objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>1 volume, (2, 1226頁) <!--精裝1冊 (2, 1226頁) ; 21.6公分--><measure unit="cm"><height>21.6</height></measure></extent></supportDesc>
+                        
+                     <extent>1 volume, (2, 1226頁) <!--精裝1冊 (2, 1226頁) ; 21.6公分--><dimensions unit="cm"><height>21.6</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1903" type="d">1903</origDate>
                      <origPlace>China</origPlace>
                   <origPlace source="#410">[London]</origPlace></origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

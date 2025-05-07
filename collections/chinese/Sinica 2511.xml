@@ -53,8 +53,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>1 volume, 12 pages.<!--平裝1冊(12頁) ; 18.5公分--><measure unit="cm"><height>18.5</height></measure></extent></supportDesc>
+                        
+                     <extent>1 volume, 12 pages.<!--平裝1冊(12頁) ; 18.5公分--><dimensions unit="cm"><height>18.5</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" notBefore="1800" notAfter="1899" type="d">1800 - 1899</origDate>
                      <origPlace/>
                   <origPlace source="#410">[s.l.]</origPlace></origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

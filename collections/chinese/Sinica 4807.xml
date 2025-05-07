@@ -53,8 +53,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>4 volumes.<!--線裝4冊 ; 23公分--><measure unit="cm"><height>23</height></measure></extent></supportDesc>
+                        
+                     <extent>4 volumes.<!--線裝4冊 ; 23公分--><dimensions unit="cm"><height>23</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1705" type="d">1705</origDate>
                      <origPlace>Japan</origPlace>
                   </origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                <acquisition>Piet van der Loon</acquisition></history>
                <additional>
                   <adminInfo>

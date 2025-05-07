@@ -53,8 +53,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>1 volume, 5 pages.<!--線裝1冊(5頁) : 圖 ; 15.7公分--><measure unit="cm"><height>15.7</height></measure></extent></supportDesc>
+                        
+                     <extent>1 volume, 5 pages.<!--線裝1冊(5頁) : 圖 ; 15.7公分--><dimensions unit="cm"><height>15.7</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1892" type="d">1892</origDate>
                      <origPlace>China</origPlace>
                   <origPlace source="#410">漢口(han kou)</origPlace></origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

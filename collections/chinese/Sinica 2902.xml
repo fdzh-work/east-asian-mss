@@ -113,8 +113,8 @@
                   <objectDesc>
 
                      <supportDesc>
-                        <support/>
-                        <extent>6 volumes.<!--折裝6冊 ; 36公分--><measure unit="cm"><height>36</height></measure></extent>
+                        
+                        <extent>6 volumes.<!--折裝6冊 ; 36公分--><dimensions unit="cm"><height>36</height></dimensions></extent>
                      </supportDesc>
 
                   </objectDesc>
@@ -130,8 +130,7 @@
                      <origDate calendar="#Gregorian" when="1436" type="d">1436</origDate>
                      <origPlace>China</origPlace>
                   </origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

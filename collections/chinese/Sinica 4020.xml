@@ -61,8 +61,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>1 volume.<!--洋裝1冊(原線裝3冊, [95], [56]頁) ; 24.7公分--><measure unit="cm"><height>24.7</height></measure></extent></supportDesc>
+                        
+                     <extent>1 volume.<!--洋裝1冊(原線裝3冊, [95], [56]頁) ; 24.7公分--><dimensions unit="cm"><height>24.7</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -72,8 +72,7 @@
                      <origDate calendar="#Gregorian" when="1810" type="d">1810</origDate>
                      <origPlace/>
                   <origPlace source="#410">Serampore</origPlace></origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

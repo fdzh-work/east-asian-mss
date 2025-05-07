@@ -53,8 +53,8 @@
                   <p>Inscribed by the author</p><objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>3 volumes.<!--線裝3冊(various pagings) ; 28.7公分--><measure unit="cm"><height>28.7</height></measure></extent></supportDesc>
+                        
+                     <extent>3 volumes.<!--線裝3冊(various pagings) ; 28.7公分--><dimensions unit="cm"><height>28.7</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1879" type="d">1879</origDate>
                      <origPlace>China</origPlace>
                   <origPlace source="#410">[Canton]</origPlace></origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

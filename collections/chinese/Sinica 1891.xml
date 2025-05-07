@@ -53,8 +53,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>4 volumes.<!--線裝4冊(various paginations) : 圖 ; 26.6公分--><measure unit="cm"><height>26.6</height></measure></extent></supportDesc>
+                        
+                     <extent>4 volumes.<!--線裝4冊(various paginations) : 圖 ; 26.6公分--><dimensions unit="cm"><height>26.6</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1873" type="d">1873</origDate>
                      <origPlace>China</origPlace>
                   <origPlace source="#410">京都[Peking](jing du)</origPlace></origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

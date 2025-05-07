@@ -53,8 +53,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>1 volume.<!--毛裝1冊([3], [3]頁) ; 12.8公分--><measure unit="cm"><height>12.8</height></measure></extent></supportDesc>
+                        
+                     <extent>1 volume.<!--毛裝1冊([3], [3]頁) ; 12.8公分--><dimensions unit="cm"><height>12.8</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1868" type="d">1868</origDate>
                      <origPlace>China</origPlace>
                   <origPlace source="#410">'Ong-tsiu-fu sing-k'ae long</origPlace></origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

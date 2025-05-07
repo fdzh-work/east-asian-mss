@@ -53,8 +53,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>1 volume.<!--線裝1冊(various paginations) : 圖 ; 26.3公分--><measure unit="cm"><height>26.3</height></measure></extent></supportDesc>
+                        
+                     <extent>1 volume.<!--線裝1冊(various paginations) : 圖 ; 26.3公分--><dimensions unit="cm"><height>26.3</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1875" type="d">1875</origDate>
                      <origPlace>China</origPlace>
                   <origPlace source="#410">[Peking]</origPlace></origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

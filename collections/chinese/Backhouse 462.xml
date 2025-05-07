@@ -138,8 +138,8 @@
                   <objectDesc>
 
                      <supportDesc>
-                        <support/>
-                        <extent>50 volumes.<!--線裝50冊 ; 19公分--><measure unit="cm"><height>19</height></measure></extent>
+                        
+                        <extent>50 volumes.<!--線裝50冊 ; 19公分--><dimensions unit="cm"><height>19</height></dimensions></extent>
                      </supportDesc>
 
                   </objectDesc>
@@ -155,8 +155,7 @@
                      <origDate calendar="#Gregorian" when="1864" type="d">1864</origDate>
                      <origPlace>China</origPlace>
                   </origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

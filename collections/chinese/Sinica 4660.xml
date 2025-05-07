@@ -53,8 +53,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>64 volumes.<!--線裝64冊 : 圖 ; 25公分--><measure unit="cm"><height>25</height></measure></extent></supportDesc>
+                        
+                     <extent>64 volumes.<!--線裝64冊 : 圖 ; 25公分--><dimensions unit="cm"><height>25</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1805" type="d">1805</origDate>
                      <origPlace>China</origPlace>
                   </origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                <acquisition>Piet van der Loon</acquisition></history>
                <additional>
                   <adminInfo>

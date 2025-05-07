@@ -53,8 +53,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent><!--活葉29葉--><measure unit="cm"><height>活葉29葉</height></measure></extent></supportDesc>
+                        
+                     <extent><!--活葉29葉--><dimensions unit="cm"><height>活葉29葉</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" notBefore="1650" notAfter="1710" type="f">1650 - 1710</origDate>
                      <origPlace>China</origPlace>
                   </origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

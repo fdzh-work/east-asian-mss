@@ -53,8 +53,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>1 volume, 40 pages.<!--平裝1冊(40頁) : 圖 ; 25公分--><measure unit="cm"><height>25</height></measure></extent></supportDesc>
+                        
+                     <extent>1 volume, 40 pages.<!--平裝1冊(40頁) : 圖 ; 25公分--><dimensions unit="cm"><height>25</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1875" type="d">1875</origDate>
                      <origPlace>Hong Kong</origPlace>
                   </origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

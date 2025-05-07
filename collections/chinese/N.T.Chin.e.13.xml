@@ -53,8 +53,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>1 volume, ([1], 185頁) <!--線裝1冊 ([1], 185頁) ; 22.5公分--><measure unit="cm"><height>22.5</height></measure></extent></supportDesc>
+                        
+                     <extent>1 volume, ([1], 185頁) <!--線裝1冊 ([1], 185頁) ; 22.5公分--><dimensions unit="cm"><height>22.5</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1856" type="d">1856</origDate>
                      <origPlace>China</origPlace>
                   <origPlace source="#410">羊城[Canton](yang cheng)</origPlace></origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

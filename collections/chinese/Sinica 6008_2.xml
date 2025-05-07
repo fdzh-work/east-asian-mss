@@ -53,8 +53,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>1 volume.<!--折裝1冊 : 圖 ; 12 x 13公分--><measure unit="cm"><height>12</height><width>13</width></measure></extent></supportDesc>
+                        
+                     <extent>1 volume.<!--折裝1冊 : 圖 ; 12 x 13公分--><dimensions unit="cm"><height>12</height><width>13</width></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1883" type="d">1883</origDate>
                      <origPlace>Japan</origPlace>
                   </origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

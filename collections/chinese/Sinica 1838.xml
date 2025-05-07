@@ -53,8 +53,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>1 volume, (112, 92頁) <!--線裝1冊 (112, 92頁) ; 26.0公分--><measure unit="cm"><height>26.0</height></measure></extent></supportDesc>
+                        
+                     <extent>1 volume, (112, 92頁) <!--線裝1冊 (112, 92頁) ; 26.0公分--><dimensions unit="cm"><height>26.0</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1857" type="d">1857</origDate>
                      <origPlace>China</origPlace>
                   <origPlace source="#410">廈門(xia men)</origPlace></origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

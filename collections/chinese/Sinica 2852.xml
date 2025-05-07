@@ -106,8 +106,8 @@
                   <objectDesc>
 
                      <supportDesc>
-                        <support/>
-                        <extent>4 volumes.<!--線裝4冊 ; 29公分--><measure unit="cm"><height>29</height></measure></extent>
+                        
+                        <extent>4 volumes.<!--線裝4冊 ; 29公分--><dimensions unit="cm"><height>29</height></dimensions></extent>
                      </supportDesc>
 
                   </objectDesc>
@@ -123,8 +123,7 @@
                      <origDate calendar="#Gregorian" when="1928" type="d">1928</origDate>
                      <origPlace>China</origPlace>
                   </origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

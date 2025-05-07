@@ -53,8 +53,8 @@
                   <p>The last few pages appear to be missing and there is no preface</p><objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>1 volume.<!--線裝1冊(various pagings) : 圖 ; 23.9公分--><measure unit="cm"><height>23.9</height></measure></extent></supportDesc>
+                        
+                     <extent>1 volume.<!--線裝1冊(various pagings) : 圖 ; 23.9公分--><dimensions unit="cm"><height>23.9</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1855" type="d">1855</origDate>
                      <origPlace>China</origPlace>
                   <origPlace source="#410">上海(shang hai)</origPlace></origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

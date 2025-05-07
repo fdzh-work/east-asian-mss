@@ -53,8 +53,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>24 volumes.<!--線裝24冊 ; 30公分 + 地圖1冊(2幅)--><measure unit="cm"><height>30 + 地圖1冊(2幅)</height></measure></extent></supportDesc>
+                        
+                     <extent>24 volumes.<!--線裝24冊 ; 30公分 + 地圖1冊(2幅)--><dimensions unit="cm"><height>30 + 地圖1冊(2幅)</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1886" type="d">1886</origDate>
                      <origPlace>China</origPlace>
                   </origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

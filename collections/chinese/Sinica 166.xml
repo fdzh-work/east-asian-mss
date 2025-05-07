@@ -53,8 +53,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>1 volume, (1, 81頁) <!--線裝1冊 (1, 81頁) ; 23.0公分--><measure unit="cm"><height>23.0</height></measure></extent></supportDesc>
+                        
+                     <extent>1 volume, (1, 81頁) <!--線裝1冊 (1, 81頁) ; 23.0公分--><dimensions unit="cm"><height>23.0</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1824" type="d">1824</origDate>
                      <origPlace/>
                   <origPlace source="#410">[Batavia]</origPlace></origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

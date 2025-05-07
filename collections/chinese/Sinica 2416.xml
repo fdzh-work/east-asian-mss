@@ -53,8 +53,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>1 volume, 86 pages.<!--平裝1冊(86頁) ; 18.2公分--><measure unit="cm"><height>18.2</height></measure></extent></supportDesc>
+                        
+                     <extent>1 volume, 86 pages.<!--平裝1冊(86頁) ; 18.2公分--><dimensions unit="cm"><height>18.2</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1881" type="d">1881</origDate>
                      <origPlace>China</origPlace>
                   <origPlace source="#410">London</origPlace></origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

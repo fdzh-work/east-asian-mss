@@ -53,8 +53,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>1 volume, (3, 2, 3, 2, 8, 319頁) <!--線裝1冊 (3, 2, 3, 2, 8, 319頁) ; 26.2公分--><measure unit="cm"><height>26.2</height></measure></extent></supportDesc>
+                        
+                     <extent>1 volume, (3, 2, 3, 2, 8, 319頁) <!--線裝1冊 (3, 2, 3, 2, 8, 319頁) ; 26.2公分--><dimensions unit="cm"><height>26.2</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1846" type="d">1846</origDate>
                      <origPlace>China</origPlace>
                   <origPlace source="#410">寧郡[Ningpo](ning jun)</origPlace></origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

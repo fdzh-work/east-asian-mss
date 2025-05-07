@@ -53,8 +53,8 @@
                   <p>線裝1冊(原毛裝4冊)</p><objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>4 volumes.<!--毛裝4冊 ; 20公分--><measure unit="cm"><height>20</height></measure></extent></supportDesc>
+                        
+                     <extent>4 volumes.<!--毛裝4冊 ; 20公分--><dimensions unit="cm"><height>20</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" notBefore="1900" notAfter="1999" type="d">1900 - 1999</origDate>
                      <origPlace>China</origPlace>
                   </origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

@@ -53,8 +53,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>1 volume, 7 pages.<!--平裝1冊(7頁) ; 16.3公分--><measure unit="cm"><height>16.3</height></measure></extent></supportDesc>
+                        
+                     <extent>1 volume, 7 pages.<!--平裝1冊(7頁) ; 16.3公分--><dimensions unit="cm"><height>16.3</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" notBefore="1890" notAfter="1899" type="d">1890 - 1899</origDate>
                      <origPlace>China</origPlace>
                   <origPlace source="#410">[漢口](han kou)</origPlace></origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

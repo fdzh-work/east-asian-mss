@@ -53,8 +53,8 @@
                   <p>25.8 x 28.9</p><objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent><!--Single sheet ; 25.9 x 29.0公分--><measure unit="cm"><height>25.9</height><width>29.0</width></measure></extent></supportDesc>
+                        
+                     <extent><!--Single sheet ; 25.9 x 29.0公分--><dimensions unit="cm"><height>25.9</height><width>29.0</width></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1882" type="d">1882</origDate>
                      <origPlace>China</origPlace>
                   <origPlace source="#410">[Hankow]</origPlace></origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

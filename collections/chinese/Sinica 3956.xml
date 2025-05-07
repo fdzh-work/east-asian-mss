@@ -53,8 +53,8 @@
                   <p>Inscribed "Saml. B. Drake, 1904"</p><objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>1 volume, (2, 1226, 2, 408頁) <!--精裝1冊 (2, 1226, 2, 408頁) : 地圖 ; 22.0公分--><measure unit="cm"><height>22.0</height></measure></extent></supportDesc>
+                        
+                     <extent>1 volume, (2, 1226, 2, 408頁) <!--精裝1冊 (2, 1226, 2, 408頁) : 地圖 ; 22.0公分--><dimensions unit="cm"><height>22.0</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1901" type="d">1901</origDate>
                      <origPlace>China</origPlace>
                   <origPlace source="#410">[London]</origPlace></origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

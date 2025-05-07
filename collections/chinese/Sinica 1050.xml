@@ -53,8 +53,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>11 volume.<!--線裝11冊(various pagings) ; 25.7公分--><measure unit="cm"><height>25.7</height></measure></extent></supportDesc>
+                        
+                     <extent>11 volume.<!--線裝11冊(various pagings) ; 25.7公分--><dimensions unit="cm"><height>25.7</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1864" type="d">1864</origDate>
                      <origPlace>China</origPlace>
                   <origPlace source="#410">[北京](bei jing)</origPlace></origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

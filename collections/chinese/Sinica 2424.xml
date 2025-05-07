@@ -53,8 +53,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>1 volume, (xii, 243頁) <!--精裝1冊 (xii, 243頁) ; 12.5公分--><measure unit="cm"><height>12.5</height></measure></extent></supportDesc>
+                        
+                     <extent>1 volume, (xii, 243頁) <!--精裝1冊 (xii, 243頁) ; 12.5公分--><dimensions unit="cm"><height>12.5</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1868" type="d">1868</origDate>
                      <origPlace>China</origPlace>
                   <origPlace source="#410">Leng-teng [London]</origPlace></origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

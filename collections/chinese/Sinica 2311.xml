@@ -53,8 +53,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>2 volumes, (2, 2, 94, 1, 86頁) <!--線裝2冊 (2, 2, 94, 1, 86頁) ; 23.6公分--><measure unit="cm"><height>23.6</height></measure></extent></supportDesc>
+                        
+                     <extent>2 volumes, (2, 2, 94, 1, 86頁) <!--線裝2冊 (2, 2, 94, 1, 86頁) ; 23.6公分--><dimensions unit="cm"><height>23.6</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1876" type="d">1876</origDate>
                      <origPlace>China</origPlace>
                   <origPlace source="#410">上海(shang hai)</origPlace></origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

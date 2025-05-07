@@ -53,8 +53,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>6 volumes.<!--線裝6冊 ; 18 x 19公分--><measure unit="cm"><height>18</height><width>19</width></measure></extent></supportDesc>
+                        
+                     <extent>6 volumes.<!--線裝6冊 ; 18 x 19公分--><dimensions unit="cm"><height>18</height><width>19</width></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1930" type="d">1930</origDate>
                      <origPlace>China</origPlace>
                   </origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                <acquisition>Piet van der Loon</acquisition></history>
                <additional>
                   <adminInfo>

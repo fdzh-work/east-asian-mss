@@ -53,8 +53,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>1 volume, 248 pages.<!--線裝1冊(248頁) ; 17.0公分--><measure unit="cm"><height>17.0</height></measure></extent></supportDesc>
+                        
+                     <extent>1 volume, 248 pages.<!--線裝1冊(248頁) ; 17.0公分--><dimensions unit="cm"><height>17.0</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1869" type="d">1869</origDate>
                      <origPlace>China</origPlace>
                   <origPlace source="#410">福州(fu zhou)</origPlace></origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

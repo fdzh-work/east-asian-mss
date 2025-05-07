@@ -53,8 +53,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>1 volume, 8 pages.<!--毛裝1冊(8頁) ; 15.6公分--><measure unit="cm"><height>15.6</height></measure></extent></supportDesc>
+                        
+                     <extent>1 volume, 8 pages.<!--毛裝1冊(8頁) ; 15.6公分--><dimensions unit="cm"><height>15.6</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1878" type="d">1878</origDate>
                      <origPlace>China</origPlace>
                   <origPlace source="#410">上海(shang hai)</origPlace></origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

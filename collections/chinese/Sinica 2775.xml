@@ -53,8 +53,8 @@
                   <p>書品劣</p><objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>1 volume.<!--折裝1冊 : 圖 ; 40公分--><measure unit="cm"><height>40</height></measure></extent></supportDesc>
+                        
+                     <extent>1 volume.<!--折裝1冊 : 圖 ; 40公分--><dimensions unit="cm"><height>40</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1667" type="d">1667</origDate>
                      <origPlace>China</origPlace>
                   </origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

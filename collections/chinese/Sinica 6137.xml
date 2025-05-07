@@ -53,8 +53,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>6 volumes.<!--洋裝6冊(原線裝36冊) ; 25公分--><measure unit="cm"><height>25</height></measure></extent></supportDesc>
+                        
+                     <extent>6 volumes.<!--洋裝6冊(原線裝36冊) ; 25公分--><dimensions unit="cm"><height>25</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1869" type="d">1869</origDate>
                      <origPlace>China</origPlace>
                   </origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

@@ -90,8 +90,8 @@
                   <objectDesc>
 
                      <supportDesc>
-                        <support/>
-                        <extent>4 volumes.<!--線裝4冊 : 圖 ; 30公分--><measure unit="cm"><height>30</height></measure></extent>
+                        
+                        <extent>4 volumes.<!--線裝4冊 : 圖 ; 30公分--><dimensions unit="cm"><height>30</height></dimensions></extent>
                      </supportDesc>
 
                   </objectDesc>
@@ -112,8 +112,7 @@
                      <origDate calendar="#Gregorian" when="1750" type="d">1750</origDate>
                      <origPlace>China</origPlace>
                   </origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

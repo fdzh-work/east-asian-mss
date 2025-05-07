@@ -53,8 +53,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>4 volumes.<!--精裝4冊(原平裝17冊) ; 21公分--><measure unit="cm"><height>21</height></measure></extent></supportDesc>
+                        
+                     <extent>4 volumes.<!--精裝4冊(原平裝17冊) ; 21公分--><dimensions unit="cm"><height>21</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" notBefore="1902" notAfter="1907" type="b">1902 - 1907</origDate>
                      <origPlace>Japan</origPlace>
                   </origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

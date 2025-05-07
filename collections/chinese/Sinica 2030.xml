@@ -53,8 +53,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>1 volume, (14, 11, 10, 10頁) <!--線裝1冊 (14, 11, 10, 10頁) ; 20.4公分--><measure unit="cm"><height>20.4</height></measure></extent></supportDesc>
+                        
+                     <extent>1 volume, (14, 11, 10, 10頁) <!--線裝1冊 (14, 11, 10, 10頁) ; 20.4公分--><dimensions unit="cm"><height>20.4</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1871" type="d">1871</origDate>
                      <origPlace>China</origPlace>
                   <origPlace source="#410">[Amoy?]</origPlace></origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

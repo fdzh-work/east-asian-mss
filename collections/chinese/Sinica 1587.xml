@@ -53,8 +53,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>1 volume, (1, 17頁) <!--線裝1冊 (1, 17頁) ; 20.7公分--><measure unit="cm"><height>20.7</height></measure></extent></supportDesc>
+                        
+                     <extent>1 volume, (1, 17頁) <!--線裝1冊 (1, 17頁) ; 20.7公分--><dimensions unit="cm"><height>20.7</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1836" type="d">1836</origDate>
                      <origPlace>Singapore</origPlace>
                   <origPlace source="#410">新嘉坡(xin jia po)</origPlace></origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

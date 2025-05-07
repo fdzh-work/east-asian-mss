@@ -53,8 +53,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>1 volume.<!--洋裝1冊(原活葉) ; 60 x 30公分--><measure unit="cm"><height>60</height><width>30</width></measure></extent></supportDesc>
+                        
+                     <extent>1 volume.<!--洋裝1冊(原活葉) ; 60 x 30公分--><dimensions unit="cm"><height>60</height><width>30</width></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1573" type="d">1573</origDate>
                      <origPlace>China</origPlace>
                   </origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

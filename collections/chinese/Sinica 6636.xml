@@ -193,8 +193,8 @@
                   <objectDesc>
 
                      <supportDesc>
-                        <support/>
-                        <extent>1 volume.<!--洋裝1冊(原線裝8冊) ; 24公分--><measure unit="cm"><height>24</height></measure></extent>
+                        
+                        <extent>1 volume.<!--洋裝1冊(原線裝8冊) ; 24公分--><dimensions unit="cm"><height>24</height></dimensions></extent>
                      </supportDesc>
 
                   </objectDesc>
@@ -211,8 +211,7 @@
                         - 1910</origDate>
                      <origPlace>China</origPlace>
                   </origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

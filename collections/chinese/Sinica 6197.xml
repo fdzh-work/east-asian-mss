@@ -229,8 +229,8 @@
                   <objectDesc>
 
                      <supportDesc>
-                        <support/>
-                        <extent>1 volume.<!--洋裝1冊(原毛裝4冊) ; 19公分--><measure unit="cm"><height>19</height></measure></extent>
+                        
+                        <extent>1 volume.<!--洋裝1冊(原毛裝4冊) ; 19公分--><dimensions unit="cm"><height>19</height></dimensions></extent>
                      </supportDesc>
 
                   </objectDesc>
@@ -247,8 +247,7 @@
                         - 1999</origDate>
                      <origPlace>China</origPlace>
                   </origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

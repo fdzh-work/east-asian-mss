@@ -235,8 +235,8 @@
                   <objectDesc>
 
                      <supportDesc>
-                        <support/>
-                        <extent>3 volumes.<!--洋裝3冊(原線裝16冊) ; 24公分--><measure unit="cm"><height>24</height></measure></extent>
+                        
+                        <extent>3 volumes.<!--洋裝3冊(原線裝16冊) ; 24公分--><dimensions unit="cm"><height>24</height></dimensions></extent>
                      </supportDesc>
 
                   </objectDesc>
@@ -257,8 +257,7 @@
                      <origDate calendar="#Gregorian" when="1750" type="d">1750</origDate>
                      <origPlace>China</origPlace>
                   </origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

@@ -53,8 +53,8 @@
                   <p>精裝</p><objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>1 volume.<!--線裝1冊([105]頁) ; 24.5公分--><measure unit="cm"><height>24.5</height></measure></extent></supportDesc>
+                        
+                     <extent>1 volume.<!--線裝1冊([105]頁) ; 24.5公分--><dimensions unit="cm"><height>24.5</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1851" type="d">1851</origDate>
                      <origPlace>China</origPlace>
                   <origPlace source="#410">Nying-po [Ningpo]</origPlace></origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

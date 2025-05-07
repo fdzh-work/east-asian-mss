@@ -53,8 +53,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>1 volume, 5 pages.<!--毛裝1冊(5頁) ; 17.0公分--><measure unit="cm"><height>17.0</height></measure></extent></supportDesc>
+                        
+                     <extent>1 volume, 5 pages.<!--毛裝1冊(5頁) ; 17.0公分--><dimensions unit="cm"><height>17.0</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1882" type="d">1882</origDate>
                      <origPlace>China</origPlace>
                   <origPlace source="#410">甯郡[Ningpo](ning jun)</origPlace></origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

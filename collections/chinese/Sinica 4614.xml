@@ -53,8 +53,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>8 volumes.<!--線裝8冊 ; 29公分--><measure unit="cm"><height>29</height></measure></extent></supportDesc>
+                        
+                     <extent>8 volumes.<!--線裝8冊 ; 29公分--><dimensions unit="cm"><height>29</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1894" type="d">1894</origDate>
                      <origPlace>China</origPlace>
                   </origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                <acquisition>Piet van der Loon</acquisition></history>
                <additional>
                   <adminInfo>

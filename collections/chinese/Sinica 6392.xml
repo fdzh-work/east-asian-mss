@@ -53,8 +53,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent><!--Folded single sheet ; 17.2公分--><measure unit="cm"><height>17.2</height></measure></extent></supportDesc>
+                        
+                     <extent><!--Folded single sheet ; 17.2公分--><dimensions unit="cm"><height>17.2</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1889" type="d">1889</origDate>
                      <origPlace>China</origPlace>
                   <origPlace source="#410">漢口(han kou)</origPlace></origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

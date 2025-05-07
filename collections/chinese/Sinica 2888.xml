@@ -53,8 +53,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>1 volume.<!--毛裝1冊 : 圖 ; 25 x 30公分--><measure unit="cm"><height>25</height><width>30</width></measure></extent></supportDesc>
+                        
+                     <extent>1 volume.<!--毛裝1冊 : 圖 ; 25 x 30公分--><dimensions unit="cm"><height>25</height><width>30</width></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" notBefore="1910" notAfter="1912" type="b">1910 - 1912</origDate>
                      <origPlace>China</origPlace>
                   </origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

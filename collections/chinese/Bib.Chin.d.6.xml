@@ -53,8 +53,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>4 volumes, (662, 221頁) <!--線裝4冊 (662, 221頁) ; 24.9公分--><measure unit="cm"><height>24.9</height></measure></extent></supportDesc>
+                        
+                     <extent>4 volumes, (662, 221頁) <!--線裝4冊 (662, 221頁) ; 24.9公分--><dimensions unit="cm"><height>24.9</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1878" type="d">1878</origDate>
                      <origPlace>China</origPlace>
                   <origPlace source="#410">上海(shang hai)</origPlace></origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

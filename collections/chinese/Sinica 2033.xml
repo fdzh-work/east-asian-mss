@@ -53,8 +53,8 @@
                   <p>Third fasc. only (Proverbs - Malachi)</p><objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>4 volumes, (150, 195, 158, 147頁) <!--線裝4冊 (150, 195, 158, 147頁) ; 20.8公分--><measure unit="cm"><height>20.8</height></measure></extent></supportDesc>
+                        
+                     <extent>4 volumes, (150, 195, 158, 147頁) <!--線裝4冊 (150, 195, 158, 147頁) ; 20.8公分--><dimensions unit="cm"><height>20.8</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1858" type="d">1858</origDate>
                      <origPlace>China</origPlace>
                   <origPlace source="#410">[上海](shang hai)</origPlace></origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

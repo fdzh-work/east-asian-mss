@@ -53,8 +53,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent><!--Single sheet ; 22.6 x 14.6公分--><measure unit="cm"><height>22.6</height><width>14.6</width></measure></extent></supportDesc>
+                        
+                     <extent><!--Single sheet ; 22.6 x 14.6公分--><dimensions unit="cm"><height>22.6</height><width>14.6</width></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1883" type="d">1883</origDate>
                      <origPlace>China</origPlace>
                   <origPlace source="#410">[Shanghai]</origPlace></origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

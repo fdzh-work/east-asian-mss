@@ -53,8 +53,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>1 volume.<!--平裝1冊 ； 23公分--><measure unit="cm"><height>平裝1冊 ； 23</height></measure></extent></supportDesc>
+                        
+                     <extent>1 volume.<!--平裝1冊 ； 23公分--><dimensions unit="cm"><height>平裝1冊 ； 23</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1908" type="d">1908</origDate>
                      <origPlace>China</origPlace>
                   </origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

@@ -53,8 +53,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent><!--1張 ; 62 x 52公分--><measure unit="cm"><height>62</height><width>52</width></measure></extent></supportDesc>
+                        
+                     <extent><!--1張 ; 62 x 52公分--><dimensions unit="cm"><height>62</height><width>52</width></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" notBefore="1880" notAfter="1890" type="f">1880 - 1890</origDate>
                      <origPlace>China</origPlace>
                   <origPlace source="#410">[廣州](guang zhou)</origPlace></origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

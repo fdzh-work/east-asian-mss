@@ -53,8 +53,8 @@
                   <p>存像一卷, 一冊</p><objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>20 volumes.<!--線裝20冊 : 圖 ; 19公分--><measure unit="cm"><height>19</height></measure></extent></supportDesc>
+                        
+                     <extent>20 volumes.<!--線裝20冊 : 圖 ; 19公分--><dimensions unit="cm"><height>19</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1820" type="d">1820</origDate>
                      <origPlace>China</origPlace>
                   </origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

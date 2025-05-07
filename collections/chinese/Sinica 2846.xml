@@ -53,8 +53,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>10 volumes.<!--洋裝10冊(原線裝60冊) ; 27公分--><measure unit="cm"><height>27</height></measure></extent></supportDesc>
+                        
+                     <extent>10 volumes.<!--洋裝10冊(原線裝60冊) ; 27公分--><dimensions unit="cm"><height>27</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1763" type="d">1763</origDate>
                      <origPlace>China</origPlace>
                   </origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

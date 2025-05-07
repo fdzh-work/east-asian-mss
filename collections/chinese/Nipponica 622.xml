@@ -53,8 +53,8 @@
                   <p>存卷二～六(共5冊)</p><objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>6 volumes.<!--線裝6冊 ; 23公分--><measure unit="cm"><height>23</height></measure></extent></supportDesc>
+                        
+                     <extent>6 volumes.<!--線裝6冊 ; 23公分--><dimensions unit="cm"><height>23</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1879" type="d">1879</origDate>
                      <origPlace>Japan</origPlace>
                   </origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

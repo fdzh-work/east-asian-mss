@@ -53,8 +53,8 @@
                   <p>洋裝6冊(原線裝41冊)</p><objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>22 volumes.<!--線裝22冊 ; 20公分--><measure unit="cm"><height>20</height></measure></extent></supportDesc>
+                        
+                     <extent>22 volumes.<!--線裝22冊 ; 20公分--><dimensions unit="cm"><height>20</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1918" type="d">1918</origDate>
                      <origPlace>China</origPlace>
                   </origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

@@ -53,8 +53,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>14 volumes.<!--線裝14冊 : 圖 ; 18公分--><measure unit="cm"><height>18</height></measure></extent></supportDesc>
+                        
+                     <extent>14 volumes.<!--線裝14冊 : 圖 ; 18公分--><dimensions unit="cm"><height>18</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1830" type="d">1830</origDate>
                      <origPlace>China</origPlace>
                   </origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

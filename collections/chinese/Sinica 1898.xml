@@ -53,8 +53,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent><!--Single sheet ; 32 x 38公分--><measure unit="cm"><height>32</height><width>38</width></measure></extent></supportDesc>
+                        
+                     <extent><!--Single sheet ; 32 x 38公分--><dimensions unit="cm"><height>32</height><width>38</width></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1872" type="d">1872</origDate>
                      <origPlace>China</origPlace>
                   <origPlace source="#410">甯郡 [Ningpo](ning jun)</origPlace></origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

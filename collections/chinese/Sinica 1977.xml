@@ -53,8 +53,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>4 volumes.<!--線裝4冊(various pagings) ; 24.0公分--><measure unit="cm"><height>24.0</height></measure></extent></supportDesc>
+                        
+                     <extent>4 volumes.<!--線裝4冊(various pagings) ; 24.0公分--><dimensions unit="cm"><height>24.0</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" notBefore="1853" notAfter="1863" type="g">1853 - 1863</origDate>
                      <origPlace>China</origPlace>
                   <origPlace source="#410">寧波(ning bo)</origPlace></origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

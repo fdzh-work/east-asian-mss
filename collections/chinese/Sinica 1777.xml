@@ -53,8 +53,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>1 volume, ([1], 1, 2, 64頁) <!--線裝1冊 ([1], 1, 2, 64頁) ; 24.2公分--><measure unit="cm"><height>24.2</height></measure></extent></supportDesc>
+                        
+                     <extent>1 volume, ([1], 1, 2, 64頁) <!--線裝1冊 ([1], 1, 2, 64頁) ; 24.2公分--><dimensions unit="cm"><height>24.2</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1873" type="d">1873</origDate>
                      <origPlace>China</origPlace>
                   <origPlace source="#410">[Canton]</origPlace></origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

@@ -53,8 +53,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent><!--冊 ; 39公分--><measure unit="cm"><height>39</height></measure></extent></supportDesc>
+                        
+                     <extent><!--冊 ; 39公分--><dimensions unit="cm"><height>39</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" notBefore="1920" notAfter="1929" type="b">1920 - 1929</origDate>
                      <origPlace>China</origPlace>
                   <origPlace source="#410">[漢口](han kou)</origPlace></origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

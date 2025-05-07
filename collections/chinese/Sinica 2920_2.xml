@@ -53,8 +53,8 @@
                   <p>Classical</p><objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>2 volumes.<!--線裝2冊(various pagings) ; 27.7公分--><measure unit="cm"><height>27.7</height></measure></extent></supportDesc>
+                        
+                     <extent>2 volumes.<!--線裝2冊(various pagings) ; 27.7公分--><dimensions unit="cm"><height>27.7</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1855" type="d">1855</origDate>
                      <origPlace>Hong Kong</origPlace>
                   <origPlace source="#410">香港(xiang gang)</origPlace></origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

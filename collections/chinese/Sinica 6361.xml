@@ -53,8 +53,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>1 volume, 112 pages.<!--精裝1冊(112頁) ; 22公分--><measure unit="cm"><height>22</height></measure></extent></supportDesc>
+                        
+                     <extent>1 volume, 112 pages.<!--精裝1冊(112頁) ; 22公分--><dimensions unit="cm"><height>22</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="2012" type="d">2012</origDate>
                      <origPlace>China</origPlace>
                   <origPlace source="#410">桂林(gui lin)</origPlace></origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

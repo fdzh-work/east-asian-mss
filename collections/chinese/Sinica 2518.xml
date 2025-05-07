@@ -53,8 +53,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>1 volume, (6, 127頁) <!--平裝1冊 (6, 127頁) ; 13公分--><measure unit="cm"><height>13</height></measure></extent></supportDesc>
+                        
+                     <extent>1 volume, (6, 127頁) <!--平裝1冊 (6, 127頁) ; 13公分--><dimensions unit="cm"><height>13</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1913" type="d">1913</origDate>
                      <origPlace>Hong Kong</origPlace>
                   </origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

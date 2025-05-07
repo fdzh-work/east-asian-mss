@@ -112,8 +112,8 @@
                   <objectDesc>
 
                      <supportDesc>
-                        <support/>
-                        <extent>1 volume.<!--洋撰1冊(原線裝6冊) ； 25公分--><measure unit="cm"><height>洋撰1冊(原線裝6冊) ； 25</height></measure></extent>
+                        
+                        <extent>1 volume.<!--洋撰1冊(原線裝6冊) ； 25公分--><dimensions unit="cm"><height>洋撰1冊(原線裝6冊) ； 25</height></dimensions></extent>
                      </supportDesc>
 
                   </objectDesc>
@@ -134,8 +134,7 @@
                      <origDate calendar="#Gregorian" when="1736" type="d">1736</origDate>
                      <origPlace>China</origPlace>
                   </origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

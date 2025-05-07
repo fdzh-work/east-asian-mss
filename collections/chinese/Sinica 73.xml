@@ -53,8 +53,8 @@
                   <p>Has 17th c. marbled paper covers</p><objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>2 volumes.<!--線裝2冊 ; 26.2公分--><measure unit="cm"><height>26.2</height></measure></extent></supportDesc>
+                        
+                     <extent>2 volumes.<!--線裝2冊 ; 26.2公分--><dimensions unit="cm"><height>26.2</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1596" type="d">1596</origDate>
                      <origPlace>China</origPlace>
                   </origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

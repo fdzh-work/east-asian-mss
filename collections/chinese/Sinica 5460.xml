@@ -53,8 +53,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>1 volume, 36 pages.<!--平裝1冊(36頁) ; 19公分--><measure unit="cm"><height>19</height></measure></extent></supportDesc>
+                        
+                     <extent>1 volume, 36 pages.<!--平裝1冊(36頁) ; 19公分--><dimensions unit="cm"><height>19</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" notBefore="1920" notAfter="1940" type="f">1920 - 1940</origDate>
                      <origPlace>China</origPlace>
                   <origPlace source="#410">佛山(fo shan)</origPlace></origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

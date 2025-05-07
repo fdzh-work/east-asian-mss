@@ -53,8 +53,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent><!--地圖2幅 : 彩色 ; 63 x 81, 61 x 81公分--><measure unit="cm"><height>63</height><width>81, 61</width></measure></extent></supportDesc>
+                        
+                     <extent><!--地圖2幅 : 彩色 ; 63 x 81, 61 x 81公分--><dimensions unit="cm"><height>63</height><width>81, 61</width></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1862" type="d">1862</origDate>
                      <origPlace>China</origPlace>
                   </origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

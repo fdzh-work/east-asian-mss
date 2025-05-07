@@ -94,8 +94,8 @@
                   <objectDesc>
 
                      <supportDesc>
-                        <support/>
-                        <extent>4 volumes.<!--線裝4冊 ; 30公分--><measure unit="cm"><height>30</height></measure></extent>
+                        
+                        <extent>4 volumes.<!--線裝4冊 ; 30公分--><dimensions unit="cm"><height>30</height></dimensions></extent>
                      </supportDesc>
 
                   </objectDesc>
@@ -112,8 +112,7 @@
                         - 1897</origDate>
                      <origPlace>China</origPlace>
                   </origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                   <acquisition>Piet van der Loon</acquisition>
                </history>
                <additional>

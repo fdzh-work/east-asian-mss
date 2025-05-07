@@ -53,8 +53,8 @@
                   <p>Lacks 下冊(卷6-8)</p><objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>2 volumes.<!--線裝2冊 : 地圖 ; 23.8公分--><measure unit="cm"><height>23.8</height></measure></extent></supportDesc>
+                        
+                     <extent>2 volumes.<!--線裝2冊 : 地圖 ; 23.8公分--><dimensions unit="cm"><height>23.8</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1856" type="d">1856</origDate>
                      <origPlace>China</origPlace>
                   <origPlace source="#410">上海(shang hai)</origPlace></origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

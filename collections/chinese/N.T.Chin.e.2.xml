@@ -53,8 +53,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>8 volumes.<!--線裝8冊(various pagings) ; 17公分--><measure unit="cm"><height>17</height></measure></extent></supportDesc>
+                        
+                     <extent>8 volumes.<!--線裝8冊(various pagings) ; 17公分--><dimensions unit="cm"><height>17</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1823" type="d">1823</origDate>
                      <origPlace/>
                   <origPlace source="#410">[Malacca]</origPlace></origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

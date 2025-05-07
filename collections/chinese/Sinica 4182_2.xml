@@ -53,8 +53,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>1 volume.<!--毛裝1冊 ; 15公分--><measure unit="cm"><height>15</height></measure></extent></supportDesc>
+                        
+                     <extent>1 volume.<!--毛裝1冊 ; 15公分--><dimensions unit="cm"><height>15</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" notBefore="1930" notAfter="1940" type="f">1930 - 1940</origDate>
                      <origPlace>China</origPlace>
                   </origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                <acquisition>Piet van der Loon</acquisition></history>
                <additional>
                   <adminInfo>

@@ -53,8 +53,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>16 volumes.<!--線裝16冊 ; 28冊--><measure unit="cm"><height>28冊</height></measure></extent></supportDesc>
+                        
+                     <extent>16 volumes.<!--線裝16冊 ; 28冊--><dimensions unit="cm"><height>28冊</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1628" type="d">1628</origDate>
                      <origPlace>China</origPlace>
                   </origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

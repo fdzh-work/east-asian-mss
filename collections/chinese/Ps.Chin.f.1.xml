@@ -53,8 +53,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>1 volume, 109 pages.<!--精裝1冊(109頁) ; 17.0公分--><measure unit="cm"><height>17.0</height></measure></extent></supportDesc>
+                        
+                     <extent>1 volume, 109 pages.<!--精裝1冊(109頁) ; 17.0公分--><dimensions unit="cm"><height>17.0</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1867" type="d">1867</origDate>
                      <origPlace>Hong Kong</origPlace>
                   <origPlace source="#410">香港(xiang gang)</origPlace></origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

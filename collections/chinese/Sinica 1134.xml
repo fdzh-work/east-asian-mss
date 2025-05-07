@@ -53,8 +53,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>1 volume, (9, 14, 13, 12頁) <!--平裝1冊 (9, 14, 13, 12頁) ; 12.8公分--><measure unit="cm"><height>12.8</height></measure></extent></supportDesc>
+                        
+                     <extent>1 volume, (9, 14, 13, 12頁) <!--平裝1冊 (9, 14, 13, 12頁) ; 12.8公分--><dimensions unit="cm"><height>12.8</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1869" type="d">1869</origDate>
                      <origPlace>China</origPlace>
                      <origPlace source="#410">Zông-hae [Shanghai]</origPlace></origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

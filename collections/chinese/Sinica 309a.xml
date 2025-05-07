@@ -53,8 +53,8 @@
                   <p>Bound as an endpaper in Hobson's 「全體新論」</p><objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent><!--Single sheet ; 26 x 32公分--><measure unit="cm"><height>26</height><width>32</width></measure></extent></supportDesc>
+                        
+                     <extent><!--Single sheet ; 26 x 32公分--><dimensions unit="cm"><height>26</height><width>32</width></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1851" type="d">1851</origDate>
                      <origPlace>China</origPlace>
                   <origPlace source="#410">[Canton?]</origPlace></origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

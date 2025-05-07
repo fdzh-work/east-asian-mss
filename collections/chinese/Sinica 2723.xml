@@ -53,8 +53,8 @@
                   <p>16冊(缺第2, 17, 19-21本)</p><objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>21 volume.<!--線裝21冊(various pagings) ; 17.2公分--><measure unit="cm"><height>17.2</height></measure></extent></supportDesc>
+                        
+                     <extent>21 volume.<!--線裝21冊(various pagings) ; 17.2公分--><dimensions unit="cm"><height>17.2</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1823" type="d">1823</origDate>
                      <origPlace/>
                   <origPlace source="#410">[Malacca]</origPlace></origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

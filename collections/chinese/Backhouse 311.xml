@@ -53,8 +53,8 @@
                   <p>Please order the sections required by reference to the Library's copy of Giles' index (Chin.c.15)</p><objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>034 volumes.<!--線裝5,034冊 : 圖 ; 29公分--><measure unit="cm"><height>29</height></measure></extent></supportDesc>
+                        
+                     <extent>034 volumes.<!--線裝5,034冊 : 圖 ; 29公分--><dimensions unit="cm"><height>29</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1890" type="d">1890</origDate>
                      <origPlace>China</origPlace>
                   </origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

@@ -53,8 +53,8 @@
                   <p>25.5 x 36.3公分. - Printed on red paper</p><objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent><!--Single sheet : 圖; 24.5 x 36.4公分--><measure unit="cm"><height>24.5</height><width>36.4</width></measure></extent></supportDesc>
+                        
+                     <extent><!--Single sheet : 圖; 24.5 x 36.4公分--><dimensions unit="cm"><height>24.5</height><width>36.4</width></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" notBefore="1880" notAfter="1890" type="f">1880 - 1890</origDate>
                      <origPlace>China</origPlace>
                   <origPlace source="#410">[漢口](han kou)</origPlace></origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

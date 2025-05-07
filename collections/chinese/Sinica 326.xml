@@ -53,8 +53,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>4 volumes.<!--線裝4冊(various pagings) ; 26.3公分--><measure unit="cm"><height>26.3</height></measure></extent></supportDesc>
+                        
+                     <extent>4 volumes.<!--線裝4冊(various pagings) ; 26.3公分--><dimensions unit="cm"><height>26.3</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1838" type="d">1838</origDate>
                      <origPlace/>
                   </origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

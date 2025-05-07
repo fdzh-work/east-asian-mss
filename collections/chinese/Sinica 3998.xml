@@ -53,8 +53,8 @@
                   <p>精裝2冊</p><objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent><!--冊 ; 27公分--><measure unit="cm"><height>27</height></measure></extent></supportDesc>
+                        
+                     <extent><!--冊 ; 27公分--><dimensions unit="cm"><height>27</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" notBefore="1884" notAfter="1894" type="b">1884 - 1894</origDate>
                      <origPlace>China</origPlace>
                   <origPlace source="#410">上海(shang hai)</origPlace></origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

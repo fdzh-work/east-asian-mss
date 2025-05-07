@@ -53,8 +53,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent><!--4幅 ; 112 x 56公分--><measure unit="cm"><height>112</height><width>56</width></measure></extent></supportDesc>
+                        
+                     <extent><!--4幅 ; 112 x 56公分--><dimensions unit="cm"><height>112</height><width>56</width></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1736" type="d">1736</origDate>
                      <origPlace>China</origPlace>
                   </origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

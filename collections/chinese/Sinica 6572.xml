@@ -105,8 +105,8 @@
                   <objectDesc>
 
                      <supportDesc>
-                        <support/>
-                        <extent>6 volumes.<!--包背裝6冊 ; 29公分--><measure unit="cm"><height>29</height></measure></extent>
+                        
+                        <extent>6 volumes.<!--包背裝6冊 ; 29公分--><dimensions unit="cm"><height>29</height></dimensions></extent>
                      </supportDesc>
 
                   </objectDesc>
@@ -122,8 +122,7 @@
                      <origDate calendar="#Gregorian"/>
                      <origPlace>China</origPlace>
                   </origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

@@ -53,8 +53,8 @@
                   <p>24.0公分. MS note on cover: "The first homily of the Church of England in Chinese. Translated by Dr. Morrison, one of the missionaries of the London Missionary Society"</p><objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>1 volume, 10 pages.<!--線裝1冊(10頁) ; 23.8公分--><measure unit="cm"><height>23.8</height></measure></extent></supportDesc>
+                        
+                     <extent>1 volume, 10 pages.<!--線裝1冊(10頁) ; 23.8公分--><dimensions unit="cm"><height>23.8</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1812" type="d">1812</origDate>
                      <origPlace>China</origPlace>
                   <origPlace source="#410">[Canton?]</origPlace></origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

@@ -53,8 +53,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>1 volume, 9 pages.<!--線裝1冊(9頁) ; 19.7公分--><measure unit="cm"><height>19.7</height></measure></extent></supportDesc>
+                        
+                     <extent>1 volume, 9 pages.<!--線裝1冊(9頁) ; 19.7公分--><dimensions unit="cm"><height>19.7</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1862" type="d">1862</origDate>
                      <origPlace>China</origPlace>
                   <origPlace source="#410">京都 [Peking](jing du)</origPlace></origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

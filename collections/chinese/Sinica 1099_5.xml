@@ -53,8 +53,8 @@
                   <p>24公分</p><objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>1 volume.<!--毛裝1冊 ; 26公分--><measure unit="cm"><height>26</height></measure></extent></supportDesc>
+                        
+                     <extent>1 volume.<!--毛裝1冊 ; 26公分--><dimensions unit="cm"><height>26</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1853" type="d">1853</origDate>
                      <origPlace>China</origPlace>
                   </origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

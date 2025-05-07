@@ -53,8 +53,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>1 volume, (x, 72, 4頁) <!--線裝1冊 (x, 72, 4頁) : 樂譜 ; 17.9 x 26.6公分--><measure unit="cm"><height>17.9</height><width>26.6</width></measure></extent></supportDesc>
+                        
+                     <extent>1 volume, (x, 72, 4頁) <!--線裝1冊 (x, 72, 4頁) : 樂譜 ; 17.9 x 26.6公分--><dimensions unit="cm"><height>17.9</height><width>26.6</width></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1858" type="d">1858</origDate>
                      <origPlace>China</origPlace>
                   <origPlace source="#410">Nying-po [Ningpo]</origPlace></origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

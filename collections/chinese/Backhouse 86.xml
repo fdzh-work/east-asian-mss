@@ -53,8 +53,8 @@
                   <p>後印本. - 線裝100冊 ; 30公分</p><objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>80 volumes.<!--線裝80冊 ; 31公分--><measure unit="cm"><height>31</height></measure></extent></supportDesc>
+                        
+                     <extent>80 volumes.<!--線裝80冊 ; 31公分--><dimensions unit="cm"><height>31</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1875" type="d">1875</origDate>
                      <origPlace>China</origPlace>
                   </origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

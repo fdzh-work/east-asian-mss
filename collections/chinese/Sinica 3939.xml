@@ -53,8 +53,8 @@
                   <p>缺初集卷一﹑二﹑五﹑六(第1﹑4冊)</p><objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>12 volumes.<!--線裝12冊 : 圖 ; 26公分--><measure unit="cm"><height>26</height></measure></extent></supportDesc>
+                        
+                     <extent>12 volumes.<!--線裝12冊 : 圖 ; 26公分--><dimensions unit="cm"><height>26</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1921" type="d">1921</origDate>
                      <origPlace>China</origPlace>
                   </origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

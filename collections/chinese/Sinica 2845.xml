@@ -53,8 +53,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>5 volumes.<!--洋裝5冊(線裝20冊) ; 26冊--><measure unit="cm"><height>26冊</height></measure></extent></supportDesc>
+                        
+                     <extent>5 volumes.<!--洋裝5冊(線裝20冊) ; 26冊--><dimensions unit="cm"><height>26冊</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1607" type="d">1607</origDate>
                      <origPlace>China</origPlace>
                   </origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

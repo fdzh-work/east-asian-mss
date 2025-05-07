@@ -16,7 +16,49 @@
          in msdesc2html.xsl in the consolidated-tei-schema repository, allowing customization of manuscript 
          display for each catalogue. -->
 
-
+    <xsl:template match="msDesc/msIdentifier/altIdentifier[child::idno[not(@subtype)]]">
+        <xsl:choose>
+            <xsl:when test="idno[not(@subtype)]/@type='SCN'">
+                <p>
+                    <xsl:text>Summary Catalogue no.: </xsl:text>
+                    <xsl:apply-templates/>
+                </p>
+            </xsl:when>
+            <xsl:when test="idno[not(@subtype)]/@type='TM' or idno/@type='TM'">
+                <p>
+                    <xsl:text>Trismegistos no.: </xsl:text>
+                    <xsl:apply-templates/>
+                </p>
+            </xsl:when>
+            <xsl:when test="idno[not(@subtype)]/@type='PR'">
+                <p>
+                    <xsl:text>Papyrological Reference: </xsl:text>
+                    <xsl:apply-templates/>
+                </p>
+            </xsl:when>
+            <xsl:when test="idno[not(@subtype)]/@type='diktyon'">
+                <p>
+                    <xsl:text>Diktyon no.: </xsl:text>
+                    <xsl:apply-templates/>
+                </p>
+            </xsl:when>
+            <xsl:when test="idno[not(@subtype)]/@type='LDAB'">
+                <p>
+                    <xsl:text>LDAB no.: </xsl:text>
+                    <xsl:apply-templates/>
+                </p>
+            </xsl:when>
+        </xsl:choose>
+    </xsl:template>
+    
+    <xsl:template match="msDesc/msIdentifier/altIdentifier[@type='former' and child::idno[not(@subtype)]]">
+        <p>
+            <xsl:text>Former shelfmark: </xsl:text>
+            <xsl:apply-templates/>
+        </p>
+    </xsl:template>
+    
+    
 
     <!-- Append the calendar if it does not appear to have been mentioned in the origDate text -->
     <xsl:template match="origDate[@calendar]">

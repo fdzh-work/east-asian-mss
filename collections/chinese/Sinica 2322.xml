@@ -53,8 +53,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>1 volume, 21 pages.<!--平裝1冊(21頁) ; 21.2公分--><measure unit="cm"><height>21.2</height></measure></extent></supportDesc>
+                        
+                     <extent>1 volume, 21 pages.<!--平裝1冊(21頁) ; 21.2公分--><dimensions unit="cm"><height>21.2</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1876" type="d">1876</origDate>
                      <origPlace>United Kingdom</origPlace>
                   <origPlace source="#410">Lun-twen [London]</origPlace></origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

@@ -53,8 +53,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>1 volume, (3, 2, 1頁) <!--線裝1冊 (3, 2, 1頁) ; 18.1公分--><measure unit="cm"><height>18.1</height></measure></extent></supportDesc>
+                        
+                     <extent>1 volume, (3, 2, 1頁) <!--線裝1冊 (3, 2, 1頁) ; 18.1公分--><dimensions unit="cm"><height>18.1</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1852" type="d">1852</origDate>
                      <origPlace>Hong Kong</origPlace>
                   <origPlace source="#410">[Hong Kong]</origPlace></origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

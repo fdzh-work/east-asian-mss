@@ -53,8 +53,8 @@
                   <p>"Ex dono Tho: Pickering... 1754"</p><objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>40 volumes.<!--線裝40冊 ; 28公分--><measure unit="cm"><height>28</height></measure></extent></supportDesc>
+                        
+                     <extent>40 volumes.<!--線裝40冊 ; 28公分--><dimensions unit="cm"><height>28</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1716" type="d">1716</origDate>
                      <origPlace>China</origPlace>
                   </origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

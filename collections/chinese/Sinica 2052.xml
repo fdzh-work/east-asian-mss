@@ -53,8 +53,8 @@
                   <p>New Testament only, 線裝2冊</p><objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>4 volumes, (150, 195, 158, 82, 64頁) <!--線裝4冊 (150, 195, 158, 82, 64頁) ; 21公分--><measure unit="cm"><height>21</height></measure></extent></supportDesc>
+                        
+                     <extent>4 volumes, (150, 195, 158, 82, 64頁) <!--線裝4冊 (150, 195, 158, 82, 64頁) ; 21公分--><dimensions unit="cm"><height>21</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1855" type="d">1855</origDate>
                      <origPlace>China</origPlace>
                   <origPlace source="#410">上海(shang hai)</origPlace></origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

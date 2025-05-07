@@ -115,8 +115,8 @@
                   <objectDesc>
 
                      <supportDesc>
-                        <support/>
-                        <extent>2 volumes.<!--線裝2冊 : 地圖 ; 24公分--><measure unit="cm"><height>24</height></measure></extent>
+                        
+                        <extent>2 volumes.<!--線裝2冊 : 地圖 ; 24公分--><dimensions unit="cm"><height>24</height></dimensions></extent>
                      </supportDesc>
 
                   </objectDesc>
@@ -132,8 +132,7 @@
                      <origDate calendar="#Gregorian" when="1800" type="d">1800</origDate>
                      <origPlace>China</origPlace>
                   </origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

@@ -53,8 +53,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>6 volumes.<!--線裝6冊 : 圖 ; 27.4公分--><measure unit="cm"><height>27.4</height></measure></extent></supportDesc>
+                        
+                     <extent>6 volumes.<!--線裝6冊 : 圖 ; 27.4公分--><dimensions unit="cm"><height>27.4</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1881" type="d">1881</origDate>
                      <origPlace>China</origPlace>
                   <origPlace source="#410">福州(fu zhou)</origPlace></origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

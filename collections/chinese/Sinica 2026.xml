@@ -53,8 +53,8 @@
                   <p>22.3公分</p><objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>1 volume, 84 pages.<!--平裝1冊(84頁) ; 22.5公分--><measure unit="cm"><height>22.5</height></measure></extent></supportDesc>
+                        
+                     <extent>1 volume, 84 pages.<!--平裝1冊(84頁) ; 22.5公分--><dimensions unit="cm"><height>22.5</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1868" type="d">1868</origDate>
                      <origPlace>China</origPlace>
                   <origPlace source="#410">Zong-hae [Shanghai]</origPlace></origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

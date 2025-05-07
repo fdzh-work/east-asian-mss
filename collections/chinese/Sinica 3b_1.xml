@@ -53,8 +53,8 @@
                   <p>卷三</p><objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>4 volumes, 1 pages.<!--線裝4冊, 1頁 ; nn公分--><measure unit="cm"><height>nn</height></measure></extent></supportDesc>
+                        
+                     <extent>4 volumes, 1 pages.<!--線裝4冊, 1頁 ; nn公分--><dimensions unit="cm"><height>nn</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1573" type="d">1573</origDate>
                      <origPlace>China</origPlace>
                   </origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

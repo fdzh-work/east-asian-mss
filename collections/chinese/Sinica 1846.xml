@@ -53,8 +53,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>4 volumes.<!--線裝4冊 : 圖 ; 27.6公分--><measure unit="cm"><height>27.6</height></measure></extent></supportDesc>
+                        
+                     <extent>4 volumes.<!--線裝4冊 : 圖 ; 27.6公分--><dimensions unit="cm"><height>27.6</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1870" type="d">1870</origDate>
                      <origPlace>China</origPlace>
                   <origPlace source="#410">[Canton]</origPlace></origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

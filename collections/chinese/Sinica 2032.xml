@@ -53,8 +53,8 @@
                   <p>Ms. note on cover: "A. Wylie Esq, with Translator's Compts. Aug 27. 1876. Published with a special reference to nat. preachers and Mohammedans. Timothy Richard."</p><objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>1 volume, 114 pages.<!--平裝1冊(114頁) ; 21.4公分--><measure unit="cm"><height>21.4</height></measure></extent></supportDesc>
+                        
+                     <extent>1 volume, 114 pages.<!--平裝1冊(114頁) ; 21.4公分--><dimensions unit="cm"><height>21.4</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1876" type="d">1876</origDate>
                      <origPlace>China</origPlace>
                   <origPlace source="#410">京都 [Peking](jing du)</origPlace></origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

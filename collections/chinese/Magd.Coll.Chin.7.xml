@@ -53,8 +53,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>6 volumes, (25, 31, 24, 19, 28, 22, 34, 31, 21頁) <!--線裝6冊 (25, 31, 24, 19, 28, 22, 34, 31, 21頁) ; 23.6公分--><measure unit="cm"><height>23.6</height></measure></extent></supportDesc>
+                        
+                     <extent>6 volumes, (25, 31, 24, 19, 28, 22, 34, 31, 21頁) <!--線裝6冊 (25, 31, 24, 19, 28, 22, 34, 31, 21頁) ; 23.6公分--><dimensions unit="cm"><height>23.6</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1832" type="d">1832</origDate>
                      <origPlace>China</origPlace>
                   <origPlace source="#410">Canton</origPlace></origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

@@ -53,8 +53,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>1 volume, 14 pages.<!--線裝1冊(14頁) ; 19.7公分--><measure unit="cm"><height>19.7</height></measure></extent></supportDesc>
+                        
+                     <extent>1 volume, 14 pages.<!--線裝1冊(14頁) ; 19.7公分--><dimensions unit="cm"><height>19.7</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1867" type="d">1867</origDate>
                      <origPlace>China</origPlace>
                   <origPlace source="#410">[Ningpo]</origPlace></origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

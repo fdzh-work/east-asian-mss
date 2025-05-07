@@ -53,8 +53,8 @@
                   <p>精裝</p><objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>3 volumes, (53, 69, 52頁) <!--線裝3冊 (53, 69, 52頁) ; 21.0公分--><measure unit="cm"><height>21.0</height></measure></extent></supportDesc>
+                        
+                     <extent>3 volumes, (53, 69, 52頁) <!--線裝3冊 (53, 69, 52頁) ; 21.0公分--><dimensions unit="cm"><height>21.0</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1827" type="d">1827</origDate>
                      <origPlace/>
                   <origPlace source="#410">[Malacca]</origPlace></origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

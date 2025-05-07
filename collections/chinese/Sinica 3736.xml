@@ -53,8 +53,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>2 volumes.<!--線裝1函2冊 : 圖 ; 32 x 43公分--><measure unit="cm"><height>32</height><width>43</width></measure></extent></supportDesc>
+                        
+                     <extent>2 volumes.<!--線裝1函2冊 : 圖 ; 32 x 43公分--><dimensions unit="cm"><height>32</height><width>43</width></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1958" type="d">1958</origDate>
                      <origPlace>China</origPlace>
                   </origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

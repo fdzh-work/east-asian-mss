@@ -53,8 +53,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>1 volume, (9, 122, 5頁) <!--線裝1冊 (9, 122, 5頁) ; 19.6公分--><measure unit="cm"><height>19.6</height></measure></extent></supportDesc>
+                        
+                     <extent>1 volume, (9, 122, 5頁) <!--線裝1冊 (9, 122, 5頁) ; 19.6公分--><dimensions unit="cm"><height>19.6</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1877" type="d">1877</origDate>
                      <origPlace>China</origPlace>
                   <origPlace source="#410">上海(shang hai)</origPlace></origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

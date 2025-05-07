@@ -53,8 +53,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>4 volumes, (4, 9, 12, 11頁) <!--線裝4冊 (4, 9, 12, 11頁) ; 23.7公分--><measure unit="cm"><height>23.7</height></measure></extent></supportDesc>
+                        
+                     <extent>4 volumes, (4, 9, 12, 11頁) <!--線裝4冊 (4, 9, 12, 11頁) ; 23.7公分--><dimensions unit="cm"><height>23.7</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" notBefore="1838" notAfter="1839" type="g">1838 - 1839</origDate>
                      <origPlace>China</origPlace>
                   <origPlace source="#410">[Canton]</origPlace></origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

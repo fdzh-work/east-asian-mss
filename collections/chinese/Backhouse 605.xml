@@ -53,8 +53,8 @@
                   <p>存光緒二十一年(1895)十二月﹑二十二年(1896)一至十二月﹑二十三年(1897)五至十月﹑二十四年(1898)一至三﹑七﹑八﹑十至十二月﹑二十五年(1899)一﹑五﹑六﹑八﹑九月﹑二十六年(1900)一至四月. - 線裝222冊 ; 23公分</p><objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>559 volumes.<!--線裝559冊 ; 22公分--><measure unit="cm"><height>22</height></measure></extent></supportDesc>
+                        
+                     <extent>559 volumes.<!--線裝559冊 ; 22公分--><dimensions unit="cm"><height>22</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1891" type="d">1891</origDate>
                      <origPlace>China</origPlace>
                   </origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

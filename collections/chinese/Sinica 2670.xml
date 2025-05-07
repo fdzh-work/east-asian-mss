@@ -86,8 +86,8 @@
                   <objectDesc>
 
                      <supportDesc>
-                        <support/>
-                        <extent>2 volumes.<!--線裝2冊 ; 28公分--><measure unit="cm"><height>28</height></measure></extent>
+                        
+                        <extent>2 volumes.<!--線裝2冊 ; 28公分--><dimensions unit="cm"><height>28</height></dimensions></extent>
                      </supportDesc>
 
                   </objectDesc>
@@ -104,8 +104,7 @@
                         - 1927</origDate>
                      <origPlace>China</origPlace>
                   </origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

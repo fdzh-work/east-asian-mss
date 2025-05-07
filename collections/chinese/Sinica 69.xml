@@ -53,8 +53,8 @@
                   <p>殘卷一﹑三﹑十二﹑十四﹑十五﹑十八, 有缺. - 線裝6冊</p><objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>18 volumes.<!--線裝18冊 ; 27公分--><measure unit="cm"><height>27</height></measure></extent></supportDesc>
+                        
+                     <extent>18 volumes.<!--線裝18冊 ; 27公分--><dimensions unit="cm"><height>27</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1573" type="d">1573</origDate>
                      <origPlace>China</origPlace>
                   </origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

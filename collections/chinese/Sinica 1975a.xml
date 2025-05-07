@@ -53,8 +53,8 @@
                   <p>毛裝1冊 ; 27.5公分</p><objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent><!--冊 : 圖--><measure unit="cm"><height>冊 : 圖</height></measure></extent></supportDesc>
+                        
+                     <extent><!--冊 : 圖--><dimensions unit="cm"><height>冊 : 圖</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" notBefore="1874" notAfter="1876" type="b">1874 - 1876</origDate>
                      <origPlace>China</origPlace>
                   <origPlace source="#410">上海(shang hai)</origPlace></origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

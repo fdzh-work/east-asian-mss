@@ -53,8 +53,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>2 volumes, ([3], 107, 4, 92頁) <!--線裝2冊 ([3], 107, 4, 92頁) ; 22.9公分--><measure unit="cm"><height>22.9</height></measure></extent></supportDesc>
+                        
+                     <extent>2 volumes, ([3], 107, 4, 92頁) <!--線裝2冊 ([3], 107, 4, 92頁) ; 22.9公分--><dimensions unit="cm"><height>22.9</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1870" type="d">1870</origDate>
                      <origPlace>China</origPlace>
                   <origPlace source="#410">甯郡[Ningpo](ning jun)</origPlace></origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

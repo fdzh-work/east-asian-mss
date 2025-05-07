@@ -53,8 +53,8 @@
                   <p>殘卷三﹑四(有缺)﹑五(有缺)﹑六 ﹑八. - 折裝4冊 ; 26公分, 29公分</p><objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>8 volumes.<!--折裝8冊 ; 26公分--><measure unit="cm"><height>26</height></measure></extent></supportDesc>
+                        
+                     <extent>8 volumes.<!--折裝8冊 ; 26公分--><dimensions unit="cm"><height>26</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1768" type="d">1768</origDate>
                      <origPlace>China</origPlace>
                   </origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

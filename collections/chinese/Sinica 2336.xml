@@ -53,8 +53,8 @@
                   <p>線裝1冊 ; 21.0公分</p><objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent><!--冊--><measure unit="cm"><height>冊</height></measure></extent></supportDesc>
+                        
+                     <extent><!--冊--><dimensions unit="cm"><height>冊</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" notBefore="1852" notAfter="1866" type="b">1852 - 1866</origDate>
                      <origPlace>China</origPlace>
                   <origPlace source="#410">上海(shang hai)</origPlace></origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

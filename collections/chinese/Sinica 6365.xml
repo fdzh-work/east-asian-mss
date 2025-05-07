@@ -190,8 +190,8 @@
                   <objectDesc>
 
                      <supportDesc>
-                        <support/>
-                        <extent>3 volumes.<!--洋裝3冊(原線裝14冊) ; 27公分--><measure unit="cm"><height>27</height></measure></extent>
+                        
+                        <extent>3 volumes.<!--洋裝3冊(原線裝14冊) ; 27公分--><dimensions unit="cm"><height>27</height></dimensions></extent>
                      </supportDesc>
 
                   </objectDesc>
@@ -207,8 +207,7 @@
                      <origDate calendar="#Gregorian" when="1929" type="d">1929</origDate>
                      <origPlace>China</origPlace>
                   </origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

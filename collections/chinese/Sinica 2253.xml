@@ -53,8 +53,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>143 volumes.<!--線裝143冊 : 地圖 ; 25.4公分--><measure unit="cm"><height>25.4</height></measure></extent></supportDesc>
+                        
+                     <extent>143 volumes.<!--線裝143冊 : 地圖 ; 25.4公分--><dimensions unit="cm"><height>25.4</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" when="1883" type="d">1883</origDate>
                      <origPlace>China</origPlace>
                   <origPlace source="#410">[Shanghai]</origPlace></origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>

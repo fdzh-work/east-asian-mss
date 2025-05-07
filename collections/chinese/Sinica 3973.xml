@@ -53,8 +53,8 @@
                   <objectDesc>
                      
                      <supportDesc>
-                        <support/>
-                     <extent>28 volumes.<!--木匣1盒(線裝28冊) : 圖 ; 38公分--><measure unit="cm"><height>38</height></measure></extent></supportDesc>
+                        
+                     <extent>28 volumes.<!--木匣1盒(線裝28冊) : 圖 ; 38公分--><dimensions unit="cm"><height>38</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
@@ -64,8 +64,7 @@
                      <origDate calendar="#Gregorian" notBefore="1920" notAfter="1930" type="f">1920 - 1930</origDate>
                      <origPlace>China</origPlace>
                   </origin>
-                  <provenance/>
-                  <acquisition/>
+                  
                </history>
                <additional>
                   <adminInfo>
