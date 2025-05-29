@@ -52,7 +52,7 @@
                      <title source="#200">說郛雜著</title>
                      <title source="#200|9">shuo fu za zhu</title>
                      <note source="#290">(清)馬俊良輯</note>
-                     <author source="#300"><persName>(清)馬俊良</persName><persName type="9">ma jun
+                     <author source="#300" key="person_6248"><persName>(清)馬俊良</persName><persName type="9">ma jun
                            liang</persName></author>
                   </msItem>
                </msContents>
@@ -100,7 +100,7 @@
                         <title>乾𦠆子 ^一卷^</title>
                         <title source="9">qian zhuan zi</title>
                         <note source="290">(唐)溫庭筠撰</note>
-                        <author><persName>(唐)溫庭筠</persName><persName type="9">wen ting
+                        <author key="person_750"><persName>(唐)溫庭筠</persName><persName type="9">wen ting
                               yun</persName></author>
                      </msItem>
                   </msContents>
@@ -126,7 +126,7 @@
                         <title>志林 ^一卷^</title>
                         <title source="9">zhi lin</title>
                         <note source="290">(宋)蘇軾撰</note>
-                        <author><persName>(宋)蘇軾</persName><persName type="9">su
+                        <author key="person_1593"><persName>(宋)蘇軾</persName><persName type="9">su
                            shi</persName></author>
                      </msItem>
                   </msContents>
@@ -152,7 +152,7 @@
                         <title>金樓子 ^一卷^</title>
                         <title source="9">jin lou zi</title>
                         <note source="290">(梁)元帝撰</note>
-                        <author><persName>(梁)元帝</persName><persName type="9">yuan
+                        <author key="person_3021"><persName>(梁)元帝</persName><persName type="9">yuan
                            di</persName></author>
                      </msItem>
                   </msContents>
@@ -202,7 +202,7 @@
                         <title>雲齋廣錄 ^一卷^</title>
                         <title source="9">yun zhai guang lu</title>
                         <note source="290">(宋)李獻民撰</note>
-                        <author><persName>(宋)李獻民</persName><persName type="9">li xian
+                        <author key="person_1288"><persName>(宋)李獻民</persName><persName type="9">li xian
                            min</persName></author>
                      </msItem>
                   </msContents>
@@ -228,7 +228,7 @@
                         <title>田間書 ^一卷^</title>
                         <title source="9">tian jian shu</title>
                         <note source="290">(宋)林芳撰</note>
-                        <author><persName>(宋)林芳</persName><persName type="9">lin
+                        <author key="person_1318"><persName>(宋)林芳</persName><persName type="9">lin
                            fang</persName></author>
                      </msItem>
                   </msContents>
@@ -254,7 +254,7 @@
                         <title>席上腐談 ^一卷^</title>
                         <title source="9">xi shang fu tan</title>
                         <note source="290">(宋)俞琰撰</note>
-                        <author><persName>(宋)俞琰</persName><persName type="9">yu
+                        <author key="person_949"><persName>(宋)俞琰</persName><persName type="9">yu
                            yan</persName></author>
                      </msItem>
                   </msContents>
@@ -304,7 +304,7 @@
                         <title>平定交南錄 ^一卷^</title>
                         <title source="9">ping ding jiao nan lu</title>
                         <note source="290">(明)丘濬撰</note>
-                        <author><persName>(明)丘濬</persName><persName type="9">qiu
+                        <author key="person_1988"><persName>(明)丘濬</persName><persName type="9">qiu
                            jun</persName></author>
                      </msItem>
                   </msContents>
@@ -330,7 +330,7 @@
                         <title>西北域記 ^一卷^</title>
                         <title source="9">xi bei yu ji</title>
                         <note source="290">(清)謝濟世撰</note>
-                        <author><persName>(清)謝濟世</persName><persName type="9">xie ji
+                        <author key="person_5696"><persName>(清)謝濟世</persName><persName type="9">xie ji
                            shi</persName></author>
                      </msItem>
                   </msContents>

@@ -52,7 +52,7 @@
                      <title source="#200">晉書 ^一百三十卷</title>
                      <title source="#200|9">jin shu</title>
                      <note source="#290">(唐)太宗撰</note>
-                     <author source="#300"><persName>(唐)太宗</persName><persName type="9">tai
+                     <author source="#300" key="person_601"><persName>(唐)太宗</persName><persName type="9">tai
                            zong</persName></author>
                      <note source="#600">同治十年[1871]金陵書局重刊汲古閣本</note>
                   </msItem>
@@ -60,7 +60,7 @@
                      <title source="#201">晉書音義 ^三卷^</title>
                      <title source="#201|9">jin shu yin yi</title>
                      <note source="#291">(唐)何超撰</note>
-                     <author source="#301"><persName>(唐)何超</persName><persName type="9">he
+                     <author source="#301" key="person_556"><persName>(唐)何超</persName><persName type="9">he
                            chao</persName></author>
                   </msItem>
                </msContents>

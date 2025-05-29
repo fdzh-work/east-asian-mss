@@ -51,7 +51,7 @@
                      <title source="#200">韻書五種</title>
                      <title source="#200|9">yun shu wu zhong</title>
                      <note source="#290">(明釋)直空編</note>
-                     <author source="#300"><persName>(明釋)直空</persName><persName type="9">zhi
+                     <author source="#300" key="person_2848"><persName>(明釋)直空</persName><persName type="9">zhi
                            kong</persName></author>
                      <note source="#409">明正德中金臺衍法寺釋覺恆刊本</note>
                      <msItem n="1">
@@ -59,7 +59,7 @@
                         <title source="9">da ming zheng de yi hai chong kan gai bing wu yin lei ju
                            si sheng pian</title>
                         <note source="290">(金)韓道昭撰</note>
-                        <author><persName>(金)韓道昭</persName><persName type="9">han dao
+                        <author key="person_6669"><persName>(金)韓道昭</persName><persName type="9">han dao
                               zhao</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00000666|ons -->
@@ -70,7 +70,7 @@
                         <title source="9">da ming zheng de yi hai chong kan gai bing wu yin ji
                            yun</title>
                         <note source="290">(金)韓道昭撰</note>
-                        <author><persName>(金)韓道昭</persName><persName type="9">han dao
+                        <author key="person_6669"><persName>(金)韓道昭</persName><persName type="9">han dao
                               zhao</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00000667|ons -->
@@ -82,7 +82,7 @@
                         <title>真指玉鑰匙門法 ^一卷^</title>
                         <title source="9">zhen zhi yu yao shi men fa</title>
                         <note source="290">(明釋)真空撰</note>
-                        <author><persName>(明釋)真空</persName><persName type="9">zhen
+                        <author key="person_2849"><persName>(明釋)真空</persName><persName type="9">zhen
                            kong</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00000668|ons -->
@@ -92,7 +92,7 @@
                         <title>新編經史正音切韻指南 ^一卷^</title>
                         <title source="9">xin bian jing shi zheng yin qie yun zhi nan</title>
                         <note source="290">(元)劉鑑撰</note>
-                        <author><persName>(元)劉鑑</persName><persName type="9">liu
+                        <author key="person_73"><persName>(元)劉鑑</persName><persName type="9">liu
                            jian</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00000669|ons -->
@@ -104,7 +104,7 @@
                         <title>等韻指掌圖 ^一卷^</title>
                         <title source="9">deng yun zhi zhang tu</title>
                         <note source="290">(明釋)真空撰</note>
-                        <author><persName>(明釋)真空</persName><persName type="9">zhen
+                        <author key="person_2849"><persName>(明釋)真空</persName><persName type="9">zhen
                            kong</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00000670|ons -->

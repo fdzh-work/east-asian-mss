@@ -51,13 +51,13 @@
                      <title source="#200">戴氏遺書</title>
                      <title source="#200|9">dai shi yi shu</title>
                      <note source="#290">(清)戴震撰</note>
-                     <author source="#300"><persName>(清)戴震</persName><persName type="9">dai
+                     <author source="#300" key="person_4277"><persName>(清)戴震</persName><persName type="9">dai
                            zhen</persName></author>
                      <note source="#409">清乾隆中曲阜孔繼涵微波榭刊本</note>
                      <msItem n="2">
                         <title>毛鄭詩考正 ^四卷首一卷^</title>
                         <title source="9">mao zheng shi kao zheng</title>
-                        <author><persName>(清)戴震</persName><persName type="9">dai
+                        <author key="person_4277"><persName>(清)戴震</persName><persName type="9">dai
                            zhen</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150113/13:08:34|odh -->
@@ -66,7 +66,7 @@
                      <msItem n="3">
                         <title>杲溪詩經補注 ^二卷^</title>
                         <title source="9">gao xi shi jing bu zhu</title>
-                        <author><persName>(清)戴震</persName><persName type="9">dai
+                        <author key="person_4277"><persName>(清)戴震</persName><persName type="9">dai
                            zhen</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150113/13:09:59|odh -->
@@ -75,7 +75,7 @@
                      <msItem n="4">
                         <title>考工記圖 ^二卷^</title>
                         <title source="9">kao gong ji tu</title>
-                        <author><persName>(清)戴震</persName><persName type="9">dai
+                        <author key="person_4277"><persName>(清)戴震</persName><persName type="9">dai
                            zhen</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150113/13:10:28|odh -->
@@ -84,7 +84,7 @@
                      <msItem n="5">
                         <title>孟子字義疏證 ^三卷^</title>
                         <title source="9">meng zi zi yi shu zheng</title>
-                        <author><persName>(清)戴震</persName><persName type="9">dai
+                        <author key="person_4277"><persName>(清)戴震</persName><persName type="9">dai
                            zhen</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150113/13:10:57|odh -->
@@ -93,7 +93,7 @@
                      <msItem n="6">
                         <title>聲韻攷 ^四卷^</title>
                         <title source="9">sheng yun kao</title>
-                        <author><persName>(清)戴震</persName><persName type="9">dai
+                        <author key="person_4277"><persName>(清)戴震</persName><persName type="9">dai
                            zhen</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150113/13:11:28|odh -->
@@ -103,7 +103,7 @@
                      <msItem n="7">
                         <title>聲類表 ^九卷首一卷^</title>
                         <title source="9">sheng lei biao</title>
-                        <author><persName>(清)戴震</persName><persName type="9">dai
+                        <author key="person_4277"><persName>(清)戴震</persName><persName type="9">dai
                            zhen</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150113/13:13:39|odh -->
@@ -112,7 +112,7 @@
                      <msItem n="8">
                         <title>原善 ^三卷^</title>
                         <title source="9">yuan shan</title>
-                        <author><persName>(清)戴震</persName><persName type="9">dai
+                        <author key="person_4277"><persName>(清)戴震</persName><persName type="9">dai
                            zhen</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150113/13:14:15|odh -->
@@ -121,7 +121,7 @@
                      <msItem n="9">
                         <title>原象 ^一卷^</title>
                         <title source="9">yuan xiang</title>
-                        <author><persName>(清)戴震</persName><persName type="9">dai
+                        <author key="person_4277"><persName>(清)戴震</persName><persName type="9">dai
                            zhen</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150113/13:15:16|odh -->
@@ -130,7 +130,7 @@
                      <msItem n="10">
                         <title>續天文略 ^二卷^</title>
                         <title source="9">xu tian wen lue</title>
-                        <author><persName>(清)戴震</persName><persName type="9">dai
+                        <author key="person_4277"><persName>(清)戴震</persName><persName type="9">dai
                            zhen</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150113/13:16:07|odh -->
@@ -139,7 +139,7 @@
                      <msItem n="11">
                         <title>水地記 ^一卷^</title>
                         <title source="9">shui di ji</title>
-                        <author><persName>(清)戴震</persName><persName type="9">dai
+                        <author key="person_4277"><persName>(清)戴震</persName><persName type="9">dai
                            zhen</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150113/13:17:16|odh -->
@@ -149,7 +149,7 @@
                         <title>輶軒使者絕代語釋別國方言疏證 ^十三卷^</title>
                         <title source="9">you xuan shi zhe jue dai yu shi bie guo fang yan shu
                            zheng</title>
-                        <author><persName>(清)戴震</persName><persName type="9">dai
+                        <author key="person_4277"><persName>(清)戴震</persName><persName type="9">dai
                            zhen</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150113/13:19:35|odh -->
@@ -158,7 +158,7 @@
                      <msItem n="13">
                         <title>水地記 ^一卷^</title>
                         <title source="9">shui di ji</title>
-                        <author><persName>(清)戴震</persName><persName type="9">dai
+                        <author key="person_4277"><persName>(清)戴震</persName><persName type="9">dai
                            zhen</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150113/13:20:35|odh -->
@@ -167,7 +167,7 @@
                      <msItem n="14">
                         <title>策算 ^一卷^</title>
                         <title source="9">ce suan</title>
-                        <author><persName>(清)戴震</persName><persName type="9">dai
+                        <author key="person_4277"><persName>(清)戴震</persName><persName type="9">dai
                            zhen</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150113/13:21:10|odh -->
@@ -176,7 +176,7 @@
                      <msItem n="15">
                         <title>句股割圜記 ^三卷^</title>
                         <title source="9">gou gu ge yuan ji</title>
-                        <author><persName>(清)戴震</persName><persName type="9">dai
+                        <author key="person_4277"><persName>(清)戴震</persName><persName type="9">dai
                            zhen</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150113/13:22:01|odh -->

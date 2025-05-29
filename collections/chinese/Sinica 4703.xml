@@ -53,16 +53,16 @@
                      <title source="#200|9">jin shi san li</title>
                      <note source="#290">(清)盧見曾輯</note>
                      <note source="#290">(清)王芑孫評</note>
-                     <author source="#300"><persName>(清)盧見曾</persName><persName type="9">lu jian
+                     <author source="#300" key="person_5214"><persName>(清)盧見曾</persName><persName type="9">lu jian
                            zeng</persName></author>
-                     <author source="#300"><persName>(清)王芑孫</persName><persName type="9">wang qi
+                     <author source="#300" key="person_5145"><persName>(清)王芑孫</persName><persName type="9">wang qi
                            sun</persName></author>
                      <note source="#409">清光緒戊寅[1878]南海馮氏讀有用書齋刊朱墨套印本</note>
                      <msItem n="1">
                         <title>金石例 ^十卷^</title>
                         <title source="9">jin shi li</title>
                         <note source="290">(元)潘昂霄撰</note>
-                        <author><persName>(元)潘昂霄</persName><persName type="9">pan ang
+                        <author key="person_197"><persName>(元)潘昂霄</persName><persName type="9">pan ang
                               xiao</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20060112/15:42:25|odh -->
@@ -74,7 +74,7 @@
                         <title>墓銘舉例 ^四卷^</title>
                         <title source="9">mu ming ju li</title>
                         <note source="290">(明)王行撰</note>
-                        <author><persName>(明)王行</persName><persName type="9">wang
+                        <author key="person_2459"><persName>(明)王行</persName><persName type="9">wang
                            xing</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20060112/15:44:11|odh -->
@@ -85,7 +85,7 @@
                         <title>金石要例 ^一卷^</title>
                         <title source="9">jin shi yao li</title>
                         <note source="290">(清)黃宗羲撰</note>
-                        <author><persName>(清)黃宗羲</persName><persName type="9">huang zong
+                        <author key="person_6376"><persName>(清)黃宗羲</persName><persName type="9">huang zong
                               xi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20060112/15:45:01|odh -->

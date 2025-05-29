@@ -55,13 +55,13 @@
                      <note source="#290">(周)荀況撰</note>
                      <note source="#290">(唐)楊倞注</note>
                      <note source="#290">(清)盧文弨, (清)謝墉校</note>
-                     <author source="#300"><persName>(周)荀況</persName><persName type="9">xun
+                     <author source="#300" key="person_525"><persName>(周)荀況</persName><persName type="9">xun
                            kuang</persName></author>
-                     <author source="#300"><persName>(唐)楊倞</persName><persName type="9">yang
+                     <author source="#300" key="person_727"><persName>(唐)楊倞</persName><persName type="9">yang
                            jing</persName></author>
-                     <author source="#300"><persName>(清)盧文弨</persName><persName type="9">lu wen
+                     <author source="#300" key="person_5212"><persName>(清)盧文弨</persName><persName type="9">lu wen
                            chao</persName></author>
-                     <author source="#300"><persName>(清)謝墉</persName><persName type="9">xie
+                     <author source="#300" key="person_5691"><persName>(清)謝墉</persName><persName type="9">xie
                            yong</persName></author>
                      <note source="#600">乾隆五十一年[1786]嘉善謝氏刊</note>
                   </msItem>
@@ -69,7 +69,7 @@
                      <title source="#201">荀子校勘補遺 ^一卷^</title>
                      <title source="#201|9">xun zi jiao kan bu yi</title>
                      <note source="#291">(清)謝墉撰</note>
-                     <author source="#301"><persName>(清)謝墉</persName><persName type="9">xie
+                     <author source="#301" key="person_5691"><persName>(清)謝墉</persName><persName type="9">xie
                            yong</persName></author>
                   </msItem>
                </msContents>

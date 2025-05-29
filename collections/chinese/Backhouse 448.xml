@@ -51,13 +51,13 @@
                      <title source="#200">吾學編</title>
                      <title source="#200|9">wu xue bian</title>
                      <note source="#290">(明)鄭曉撰</note>
-                     <author source="#300"><persName>(明)鄭曉</persName><persName type="9">zheng
+                     <author source="#300" key="person_2671"><persName>(明)鄭曉</persName><persName type="9">zheng
                            xiao</persName></author>
                      <note source="#409">明萬曆己亥[1599]鄭心材重刊本</note>
                      <msItem n="1">
                         <title>皇明大政記 ^十卷^</title>
                         <title source="9">huang ming da zheng ji</title>
-                        <author><persName>(明)鄭曉</persName><persName type="9">zheng
+                        <author key="person_2671"><persName>(明)鄭曉</persName><persName type="9">zheng
                            xiao</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20030408/11:52:37|odh -->
@@ -69,7 +69,7 @@
                      <msItem n="2">
                         <title>建文遜國記 ^一卷^</title>
                         <title source="9">jian wen xun guo ji</title>
-                        <author><persName>(明)鄭曉</persName><persName type="9">zheng
+                        <author key="person_2671"><persName>(明)鄭曉</persName><persName type="9">zheng
                            xiao</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20030408/11:53:26|odh -->
@@ -86,7 +86,7 @@
                         <title source="9">kong shi shi jia</title>
                         <title>同姓王表 ^二卷圖二卷^</title>
                         <title source="9">tong xin wang biao</title>
-                        <author><persName>(明)鄭曉</persName><persName type="9">zheng
+                        <author key="person_2671"><persName>(明)鄭曉</persName><persName type="9">zheng
                            xiao</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20030408/11:56:55|odh -->
@@ -99,7 +99,7 @@
                         <title source="9">huang ming yi xing zhu wang zhuan</title>
                         <title>^附^ 皇明恩澤侯表 ^一卷^</title>
                         <title source="9">huang ming en zu hou biao</title>
-                        <author><persName>(明)鄭曉</persName><persName type="9">zheng
+                        <author key="person_2671"><persName>(明)鄭曉</persName><persName type="9">zheng
                            xiao</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20030408/11:59:34|odh -->
@@ -109,7 +109,7 @@
                      <msItem n="5">
                         <title>皇明直文淵閣諸臣表 ^一卷^</title>
                         <title source="9">huang ming zhi wen yuan ge zhu chen biao</title>
-                        <author><persName>(明)鄭曉</persName><persName type="9">zheng
+                        <author key="person_2671"><persName>(明)鄭曉</persName><persName type="9">zheng
                            xiao</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20030408/12:00:44|odh -->
@@ -119,7 +119,7 @@
                      <msItem n="6">
                         <title>兩京典銓尚書表 ^一卷^</title>
                         <title source="9">liang jing dian quan shang shu biao</title>
-                        <author><persName>(明)鄭曉</persName><persName type="9">zheng
+                        <author key="person_2671"><persName>(明)鄭曉</persName><persName type="9">zheng
                            xiao</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20030408/12:01:53|odh -->
@@ -129,7 +129,7 @@
                      <msItem n="7">
                         <title>皇明名臣記 ^三十卷^</title>
                         <title source="9">huang ming ming chen ji</title>
-                        <author><persName>(明)鄭曉</persName><persName type="9">zheng
+                        <author key="person_2671"><persName>(明)鄭曉</persName><persName type="9">zheng
                            xiao</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20030408/12:02:34|odh -->
@@ -139,7 +139,7 @@
                      <msItem n="8">
                         <title>建文遜國臣記 ^八卷^</title>
                         <title source="9">jian wen xun guo chen ji</title>
-                        <author><persName>(明)鄭曉</persName><persName type="9">zheng
+                        <author key="person_2671"><persName>(明)鄭曉</persName><persName type="9">zheng
                            xiao</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20030408/12:03:27|odh -->
@@ -149,7 +149,7 @@
                      <msItem n="10">
                         <title>皇明地理述 ^二卷^</title>
                         <title source="9">huang ming di li shu</title>
-                        <author><persName>(明)鄭曉</persName><persName type="9">zheng
+                        <author key="person_2671"><persName>(明)鄭曉</persName><persName type="9">zheng
                            xiao</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20030408/12:03:59|odh -->
@@ -160,7 +160,7 @@
                      <msItem n="11">
                         <title>皇明三禮述 ^二卷^</title>
                         <title source="9">huang ming san li shu</title>
-                        <author><persName>(明)鄭曉</persName><persName type="9">zheng
+                        <author key="person_2671"><persName>(明)鄭曉</persName><persName type="9">zheng
                            xiao</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20030408/12:04:49|odh -->
@@ -170,7 +170,7 @@
                      <msItem n="12">
                         <title>皇明百官述 ^二卷表一卷^</title>
                         <title source="9">huang ming bai guan shu</title>
-                        <author><persName>(明)鄭曉</persName><persName type="9">zheng
+                        <author key="person_2671"><persName>(明)鄭曉</persName><persName type="9">zheng
                            xiao</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20030408/12:05:23|odh -->
@@ -180,7 +180,7 @@
                      <msItem n="13">
                         <title>皇明四夷考 ^二卷^</title>
                         <title source="9">huang ming si yi kao</title>
-                        <author><persName>(明)鄭曉</persName><persName type="9">zheng
+                        <author key="person_2671"><persName>(明)鄭曉</persName><persName type="9">zheng
                            xiao</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20030408/12:06:11|odh -->
@@ -190,7 +190,7 @@
                      <msItem n="14">
                         <title>皇明北虜考 ^一卷^</title>
                         <title source="9">huang ming bei lu kao</title>
-                        <author><persName>(明)鄭曉</persName><persName type="9">zheng
+                        <author key="person_2671"><persName>(明)鄭曉</persName><persName type="9">zheng
                            xiao</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20030408/12:10:16|odh -->

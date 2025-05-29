@@ -51,13 +51,13 @@
                      <title source="#200">李氏遺書</title>
                      <title source="#200|9">li shi yi shu</title>
                      <note source="#290">(清)李銳撰</note>
-                     <author source="#300"><persName>(清)李銳</persName><persName type="9">li
+                     <author source="#300" key="person_4554"><persName>(清)李銳</persName><persName type="9">li
                            rui</persName></author>
                      <note source="#409">清道光癸未[1823]儀徵阮元刊本</note>
                      <msItem n="1">
                         <title>召誥日名攷 ^一卷^</title>
                         <title source="9">zhao gao ri ming kao</title>
-                        <author><persName>(清)李銳</persName><persName type="9">li
+                        <author key="person_4554"><persName>(清)李銳</persName><persName type="9">li
                            rui</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140205/11:41:50|odh -->
@@ -66,7 +66,7 @@
                      <msItem n="2">
                         <title>漢三統術 ^三卷^</title>
                         <title source="9">han san tong shu</title>
-                        <author><persName>(清)李銳</persName><persName type="9">li
+                        <author key="person_4554"><persName>(清)李銳</persName><persName type="9">li
                            rui</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140205/11:43:58|odh -->
@@ -75,7 +75,7 @@
                      <msItem n="3">
                         <title>漢四分術 ^三卷^</title>
                         <title source="9">han si fen shu</title>
-                        <author><persName>(清)李銳</persName><persName type="9">li
+                        <author key="person_4554"><persName>(清)李銳</persName><persName type="9">li
                            rui</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140205/11:44:22|odh -->
@@ -85,7 +85,7 @@
                      <msItem n="4">
                         <title>漢乾象術 ^二卷^</title>
                         <title source="9">han qian xiang shu</title>
-                        <author><persName>(清)李銳</persName><persName type="9">li
+                        <author key="person_4554"><persName>(清)李銳</persName><persName type="9">li
                            rui</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140205/11:46:02|odh -->
@@ -95,7 +95,7 @@
                      <msItem n="5">
                         <title>補修宋奉元術 ^一卷^</title>
                         <title source="9">bu xiu song feng yuan shu</title>
-                        <author><persName>(清)李銳</persName><persName type="9">li
+                        <author key="person_4554"><persName>(清)李銳</persName><persName type="9">li
                            rui</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140205/11:46:38|odh -->
@@ -104,7 +104,7 @@
                      <msItem n="6">
                         <title>補修宋占天術 ^一卷^</title>
                         <title source="9">bu xiu song zhan tian shu</title>
-                        <author><persName>(清)李銳</persName><persName type="9">li
+                        <author key="person_4554"><persName>(清)李銳</persName><persName type="9">li
                            rui</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140205/11:46:56|odh -->
@@ -113,7 +113,7 @@
                      <msItem n="7">
                         <title>日法朔餘彊弱攷 ^一卷^</title>
                         <title source="9">ri fa shuo yu qiang ruo kao</title>
-                        <author><persName>(清)李銳</persName><persName type="9">li
+                        <author key="person_4554"><persName>(清)李銳</persName><persName type="9">li
                            rui</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140205/11:47:15|odh -->
@@ -122,7 +122,7 @@
                      <msItem n="8">
                         <title>方程新術草 ^一卷^</title>
                         <title source="9">fang cheng xin shu cao</title>
-                        <author><persName>(清)李銳</persName><persName type="9">li
+                        <author key="person_4554"><persName>(清)李銳</persName><persName type="9">li
                            rui</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140205/11:47:31|odh -->
@@ -131,7 +131,7 @@
                      <msItem n="9">
                         <title>句股筭術細草 ^一卷^</title>
                         <title source="9">gou gu suan shu xi cao</title>
-                        <author><persName>(清)李銳</persName><persName type="9">li
+                        <author key="person_4554"><persName>(清)李銳</persName><persName type="9">li
                            rui</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140205/11:48:56|odh -->
@@ -142,7 +142,7 @@
                      <msItem n="10">
                         <title>弧矢筭術細草 ^一卷^</title>
                         <title source="9">hu shi suan shu xi cao</title>
-                        <author><persName>(清)李銳</persName><persName type="9">li
+                        <author key="person_4554"><persName>(清)李銳</persName><persName type="9">li
                            rui</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140205/11:50:31|odh -->
@@ -151,9 +151,9 @@
                      <msItem n="11">
                         <title>開方說 ^三卷^</title>
                         <title source="9">kai fang shuo</title>
-                        <author><persName>(清)李銳</persName><persName type="9">li
+                        <author key="person_4554"><persName>(清)李銳</persName><persName type="9">li
                            rui</persName></author>
-                        <author><persName>(清)黎應南</persName><persName type="9">li ying
+                        <author key="person_6427"><persName>(清)黎應南</persName><persName type="9">li ying
                            nan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140205/11:52:26|odh -->

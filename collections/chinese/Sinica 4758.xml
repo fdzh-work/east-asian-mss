@@ -54,7 +54,7 @@
                      <title type="variant" source="#230">珍本叢刊</title>
                      <title source="#230|9" type="variant">zhen ben cong kan</title>
                      <note source="#290">(清)姚振宗撰</note>
-                     <author source="#300"><persName>(清)姚振宗</persName><persName type="9">yao zhen
+                     <author source="#300" key="person_3789"><persName>(清)姚振宗</persName><persName type="9">yao zhen
                            zong</persName></author>
                      <note source="#409">民國十八～二十年[1929-1931]浙江省立圖書館杭州排印本</note>
                      <editor source="#440" role="pbl"><persName>浙江省立圖書館</persName><persName type="9" role="pbl">zhe jiang sheng li tu shu guan</persName></editor>
@@ -68,9 +68,9 @@
                         <title source="9" type="variant">bie lu yi wen</title>
                         <note source="290">(漢)劉向撰</note>
                         <note source="290">(清)姚振宗輯</note>
-                        <author><persName>(漢)劉向</persName><persName type="9">liu
+                        <author key="person_6488"><persName>(漢)劉向</persName><persName type="9">liu
                            xiang</persName></author>
-                        <author><persName>(清)姚振宗</persName><persName type="9">yao zhen
+                        <author key="person_3789"><persName>(清)姚振宗</persName><persName type="9">yao zhen
                               zong</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20060328/17:48:37|odh -->
@@ -85,9 +85,9 @@
                         <title source="9" type="variant">qi lue yi wen</title>
                         <note source="290">(漢)劉歆撰</note>
                         <note source="290">(清)姚振宗輯</note>
-                        <author><persName>(漢)劉歆</persName><persName type="9">liu
+                        <author key="person_6493"><persName>(漢)劉歆</persName><persName type="9">liu
                            xin</persName></author>
-                        <author><persName>(清)姚振宗</persName><persName type="9">yao zhen
+                        <author key="person_3789"><persName>(清)姚振宗</persName><persName type="9">yao zhen
                               zong</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20060328/17:49:56|odh -->
@@ -98,7 +98,7 @@
                      <msItem n="3">
                         <title>漢書藝文志條理 ^八卷^</title>
                         <title source="9">han shu yi wen zhi tiao li</title>
-                        <author><persName>(清)姚振宗</persName><persName type="9">yao zhen
+                        <author key="person_3789"><persName>(清)姚振宗</persName><persName type="9">yao zhen
                               zong</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20060328/18:15:51|odh -->
@@ -107,7 +107,7 @@
                      <msItem n="4">
                         <title>漢書藝文志拾補 ^六卷^</title>
                         <title source="9">han shu yi wen zhi shi bu</title>
-                        <author><persName>(清)姚振宗</persName><persName type="9">yao zhen
+                        <author key="person_3789"><persName>(清)姚振宗</persName><persName type="9">yao zhen
                               zong</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20060328/18:16:39|odh -->
@@ -116,7 +116,7 @@
                      <msItem n="5">
                         <title>隋書經籍志考證 ^存四卷(全五十二卷)^</title>
                         <title source="9">sui shu jing ji zhi kao zheng</title>
-                        <author><persName>(清)姚振宗</persName><persName type="9">yao zhen
+                        <author key="person_3789"><persName>(清)姚振宗</persName><persName type="9">yao zhen
                               zong</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20060418/16:23:20|odh -->

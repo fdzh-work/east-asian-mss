@@ -52,7 +52,7 @@
                      <title source="#200">咫園叢書</title>
                      <title source="#200|9">zhi yuan cong shu</title>
                      <note source="#290">宗惟恭輯</note>
-                     <author source="#300"><persName>宗惟恭</persName><persName type="9">zong wei
+                     <author source="#300" key="person_7123"><persName>宗惟恭</persName><persName type="9">zong wei
                            gong</persName></author>
                      <note source="#409">民國三十七年[1948]上海合眾圖書館刊一九八三年北京市中國書店重印本</note>
                      <editor source="#440" role="pbl"><persName>合眾圖書館</persName><persName type="9" role="pbl">he zhong tu shu guan</persName></editor>
@@ -61,7 +61,7 @@
                         <title>金陵古金石攷目 ^一卷^</title>
                         <title source="9">jin ling gu jin shi kao mu</title>
                         <note source="290">(明)顧起元輯</note>
-                        <author><persName>(明)顧起元</persName><persName type="9">gu qi
+                        <author key="person_2772"><persName>(明)顧起元</persName><persName type="9">gu qi
                            yuan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20200123/13:29:37|odh -->
@@ -71,7 +71,7 @@
                         <title>刻碑姓名錄 ^三卷^</title>
                         <title source="9">ke bei xing ming lu</title>
                         <note source="290">(清)黃錫蕃輯</note>
-                        <author><persName>(清)黃錫蕃</persName><persName type="9">huang xi
+                        <author key="person_6420"><persName>(清)黃錫蕃</persName><persName type="9">huang xi
                               fan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20200123/13:31:28|odh -->
@@ -81,7 +81,7 @@
                         <title>官閣消寒集 ^一卷^</title>
                         <title source="9">guan ge xiao han ji</title>
                         <note source="290">(清)嚴長明撰</note>
-                        <author><persName>(清)嚴長明</persName><persName type="9">yan chang
+                        <author key="person_3761"><persName>(清)嚴長明</persName><persName type="9">yan chang
                               ming</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20200123/13:33:35|odh -->
@@ -91,7 +91,7 @@
                         <title>江淮旅稿 ^一卷^</title>
                         <title source="9">jiang huai lu gao</title>
                         <note source="290">(清)嚴長明撰</note>
-                        <author><persName>(清)嚴長明</persName><persName type="9">yan chang
+                        <author key="person_3761"><persName>(清)嚴長明</persName><persName type="9">yan chang
                               ming</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20200123/13:34:46|odh -->
@@ -104,9 +104,9 @@
                         <note source="290">陳乃乾、宗惟恭輯</note>
                         <author><persName>(清)劉喜海</persName><persName type="9">liu xi
                            hai</persName></author>
-                        <author><persName>陳乃乾</persName><persName type="9">chen nai
+                        <author key="person_7190"><persName>陳乃乾</persName><persName type="9">chen nai
                            qian</persName></author>
-                        <author><persName>宗惟恭</persName><persName type="9">zong wei
+                        <author key="person_7123"><persName>宗惟恭</persName><persName type="9">zong wei
                            gong</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20200123/13:39:56|odh -->

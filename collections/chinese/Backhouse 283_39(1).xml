@@ -52,7 +52,7 @@
                      <title source="#200">黃孝子萬里紀程 ^二卷附一卷^</title>
                      <title source="#200|9">huang xiao zi wan li ji cheng</title>
                      <note source="#290">(清)黃向堅撰</note>
-                     <author source="#300"><persName>(清)黃向堅</persName><persName type="9">huang xiang
+                     <author source="#300" key="person_6366"><persName>(清)黃向堅</persName><persName type="9">huang xiang
                            jian</persName></author>
                   </msItem>
                </msContents>
@@ -100,7 +100,7 @@
                      <msItem>
                         <title>尋親紀程 ^一卷^</title>
                         <title source="9">xun jing ji cheng</title>
-                        <author><persName>(清)黃向堅</persName><persName type="9">huang xiang
+                        <author key="person_6366"><persName>(清)黃向堅</persName><persName type="9">huang xiang
                               jian</persName></author>
                      </msItem>
                   </msContents>
@@ -126,7 +126,7 @@
                      <msItem>
                         <title>滇還日記 ^一卷^</title>
                         <title source="9">dian huan ri ji</title>
-                        <author><persName>(清)黃向堅</persName><persName type="9">huang xiang
+                        <author key="person_6366"><persName>(清)黃向堅</persName><persName type="9">huang xiang
                               jian</persName></author>
                      </msItem>
                   </msContents>

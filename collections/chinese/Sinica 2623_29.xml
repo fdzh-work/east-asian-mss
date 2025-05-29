@@ -55,18 +55,18 @@
                      <note source="#290">(宋)路振撰</note>
                      <note source="#290">(宋)張唐英補</note>
                      <note source="#290">(清)邵晉涵等輯</note>
-                     <author source="#300"><persName>(宋)路振</persName><persName type="9">lu
+                     <author source="#300" key="person_1674"><persName>(宋)路振</persName><persName type="9">lu
                            zhen</persName></author>
-                     <author source="#300"><persName>(宋)張唐英</persName><persName type="9">zhang tang
+                     <author source="#300" key="person_1147"><persName>(宋)張唐英</persName><persName type="9">zhang tang
                            ying</persName></author>
-                     <author source="#300"><persName>(清)邵晉涵</persName><persName type="9">shao jin
+                     <author source="#300" key="person_5772"><persName>(清)邵晉涵</persName><persName type="9">shao jin
                            han</persName></author>
                   </msItem>
                   <msItem n="2">
                      <title source="#201">九國志拾遺 ^一卷^</title>
                      <title source="#201|9">jiu guo zhi shi yi</title>
                      <note source="#291">(清)錢熙祚輯</note>
-                     <author source="#301"><persName>(清)錢熙祚</persName><persName type="9">qian xi
+                     <author source="#301" key="person_5944"><persName>(清)錢熙祚</persName><persName type="9">qian xi
                            zuo</persName></author>
                   </msItem>
                </msContents>

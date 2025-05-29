@@ -55,11 +55,11 @@
                      <note source="#290">(宋)王應麟輯</note>
                      <note source="#290">(清)丁杰後定</note>
                      <note source="#290">(清)張惠言訂正</note>
-                     <author source="#300"><persName>(宋)王應麟</persName><persName type="9">wang ying
+                     <author source="#300" key="person_1423"><persName>(宋)王應麟</persName><persName type="9">wang ying
                            lin</persName></author>
-                     <author source="#300"><persName>(清)丁杰</persName><persName type="9">ding
+                     <author source="#300" key="person_3255"><persName>(清)丁杰</persName><persName type="9">ding
                            jie</persName></author>
-                     <author source="#300"><persName>(清)張惠言</persName><persName type="9">zhang hui
+                     <author source="#300" key="person_4025"><persName>(清)張惠言</persName><persName type="9">zhang hui
                            yan</persName></author>
                      <note source="#600">嘉慶二十四年[1819]刊</note>
                   </msItem>
@@ -67,7 +67,7 @@
                      <title source="#201">周易鄭注敘錄 ^一卷^</title>
                      <title source="#201|9">zhou yi zheng zhu xu lun</title>
                      <note source="#291">(清)臧庸輯</note>
-                     <author source="#301"><persName>(清)臧庸</persName><persName type="9">zang
+                     <author source="#301" key="person_5394"><persName>(清)臧庸</persName><persName type="9">zang
                            yong</persName></author>
                   </msItem>
                </msContents>

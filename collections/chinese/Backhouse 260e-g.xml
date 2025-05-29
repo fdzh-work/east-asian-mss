@@ -52,7 +52,7 @@
                      <title source="#200">欽定三禮義疏</title>
                      <title source="#200|9">qin ding san li yi shu</title>
                      <note source="#290">(清)乾隆十三年[1748]鄂爾泰等奉敕撰</note>
-                     <author source="#300"><persName>(清)鄂爾泰</persName><persName type="9">e er
+                     <author source="#300" key="person_5807"><persName>(清)鄂爾泰</persName><persName type="9">e er
                            tai</persName></author>
                   </msItem>
                </msContents>
@@ -101,7 +101,7 @@
                      <msItem>
                         <title>欽定周官義疏 ^四十八卷首一卷^</title>
                         <title source="9">qin ding zhou guan yi shu</title>
-                        <author><persName>(清)鄂爾泰</persName><persName type="9">e er
+                        <author key="person_5807"><persName>(清)鄂爾泰</persName><persName type="9">e er
                            tai</persName></author>
                      </msItem>
                   </msContents>
@@ -133,7 +133,7 @@
                      <msItem>
                         <title>欽定儀禮義疏 ^四十八卷首二卷^</title>
                         <title source="9">qin ding yi li yi shu</title>
-                        <author><persName>(清)鄂爾泰</persName><persName type="9">e er
+                        <author key="person_5807"><persName>(清)鄂爾泰</persName><persName type="9">e er
                            tai</persName></author>
                         <note source="600">缺卷十二至二十四</note>
                      </msItem>
@@ -166,7 +166,7 @@
                      <msItem>
                         <title>欽定禮記義疏 ^八十二卷首一卷^</title>
                         <title source="9">qin ding li ji yi shu</title>
-                        <author><persName>(清)鄂爾泰</persName><persName type="9">e er
+                        <author key="person_5807"><persName>(清)鄂爾泰</persName><persName type="9">e er
                            tai</persName></author>
                      </msItem>
                   </msContents>

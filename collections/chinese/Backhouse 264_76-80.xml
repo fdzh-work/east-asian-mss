@@ -53,9 +53,9 @@
                      <title source="#200|9">shan ding guan zi</title>
                      <note source="#290">(周)管仲撰</note>
                      <note source="#290">(清)方苞刪定</note>
-                     <author source="#300"><persName>(周)管仲</persName><persName type="9">guan
+                     <author source="#300" key="person_520"><persName>(周)管仲</persName><persName type="9">guan
                            zhong</persName></author>
-                     <author source="#300"><persName>(清)方苞</persName><persName type="9">fang
+                     <author source="#300" key="person_4317"><persName>(清)方苞</persName><persName type="9">fang
                            bao</persName></author>
                   </msItem>
                   <msItem n="2">
@@ -63,9 +63,9 @@
                      <title source="#201|9">shan ding xun zi</title>
                      <note source="#291">(周)荀況撰</note>
                      <note source="#291">(清)方苞刪定</note>
-                     <author source="#301"><persName>(周)荀況</persName><persName type="9">xun
+                     <author source="#301" key="person_525"><persName>(周)荀況</persName><persName type="9">xun
                            kuang</persName></author>
-                     <author source="#301"><persName>(清)方苞</persName><persName type="9">fang
+                     <author source="#301" key="person_4317"><persName>(清)方苞</persName><persName type="9">fang
                            bao</persName></author>
                   </msItem>
                </msContents>

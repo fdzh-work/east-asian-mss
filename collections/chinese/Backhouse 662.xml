@@ -54,7 +54,7 @@
                      <title type="variant" source="#230">唐人小說六種</title>
                      <title source="#230|9" type="variant">tang ren xiao shuo liu zhong</title>
                      <note source="#290">(民國)葉德輝編</note>
-                     <author source="#300"><persName>(民國)葉德輝</persName><persName type="9">ye de
+                     <author source="#300" key="person_3174"><persName>(民國)葉德輝</persName><persName type="9">ye de
                            hui</persName></author>
                      <note source="#409">民國初年上海廣益書局石印本</note>
                      <editor source="#440" role="pbl"><persName>廣益書局</persName><persName type="9" role="pbl">guang yi shu ju</persName></editor>
@@ -66,14 +66,14 @@
                            <title type="variant">明皇十七事</title>
                            <title source="9" type="variant">ming huang shi qi shi</title>
                            <note source="290">(唐)李德裕撰</note>
-                           <author><persName>(唐)李德裕</persName><persName type="9">li de
+                           <author key="person_679"><persName>(唐)李德裕</persName><persName type="9">li de
                               yu</persName></author>
                         </msItem>
                         <msItem n="2">
                            <title>次柳氏舊聞考異 ^一卷^</title>
                            <title type="9">ci liu shi jiu wen kao yi</title>
                            <note source="#291">(民國)葉德輝撰</note>
-                           <author><persName>(民國)葉德輝</persName><persName type="9">ye de
+                           <author key="person_3174"><persName>(民國)葉德輝</persName><persName type="9">ye de
                                  hui</persName></author>
                         </msItem>
                         <!--Unused allegro fields-->
@@ -85,7 +85,7 @@
                         <title>楊太真外傳 ^二卷^</title>
                         <title source="9">yang tai zhen wai zhuan</title>
                         <note source="290">(宋)樂史撰</note>
-                        <author><persName>(宋)樂史</persName><persName type="9">yue
+                        <author key="person_1342"><persName>(宋)樂史</persName><persName type="9">yue
                            shi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150325/16:58:19|odh -->
@@ -113,7 +113,7 @@
                         <title>高力士外傳 ^一卷^</title>
                         <title source="9">gao li shi wai zhuan</title>
                         <note source="290">(唐)郭湜撰</note>
-                        <author><persName>(唐)郭湜</persName><persName type="9">guo
+                        <author key="person_835"><persName>(唐)郭湜</persName><persName type="9">guo
                            shi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150325/17:00:49|odh -->
@@ -124,14 +124,14 @@
                            <title>安祿山事蹟 ^三卷^</title>
                            <title source="9">an lu shan shi ji</title>
                            <note source="290">(唐)姚汝能撰</note>
-                           <author><persName>(唐)姚汝能</persName><persName type="9">yao ru
+                           <author key="person_604"><persName>(唐)姚汝能</persName><persName type="9">yao ru
                                  neng</persName></author>
                         </msItem>
                         <msItem n="2">
                            <title>安祿山事蹟校記 ^一卷^</title>
                            <title type="9">an lu shan shi ji jiao ji</title>
                            <note source="#291">(清)繆荃孫撰</note>
-                           <author><persName>(清)繆荃孫</persName><persName type="9">miao quan
+                           <author key="person_5321"><persName>(清)繆荃孫</persName><persName type="9">miao quan
                                  sun</persName></author>
                         </msItem>
                         <!--Unused allegro fields-->

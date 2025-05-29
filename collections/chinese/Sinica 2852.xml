@@ -54,7 +54,7 @@
                      <title type="variant" source="#230">遼東三家集</title>
                      <title source="#230|9" type="variant">liao dong san jia ji</title>
                      <note source="#290">(民國)榮文祚編</note>
-                     <author source="#300"><persName>(民國)榮文祚</persName><persName type="9">rong wen
+                     <author source="#300" key="person_3144"><persName>(民國)榮文祚</persName><persName type="9">rong wen
                            zuo</persName></author>
                      <note source="#409">民國戊辰[1928]懷德榮氏京都刊本1986年北京中國書店重印殘損版以油印配補</note>
                      <editor source="#440" role="pbl"><persName>中國書店</persName><persName type="9" role="pbl">zhong guo shu dian</persName></editor>
@@ -63,7 +63,7 @@
                         <title>鹿苹齋詩稿 ^一卷詩餘一卷文稿一卷賦稿一卷^</title>
                         <title source="9">lu ping zhai shi gao</title>
                         <note source="290">(清)榮文達撰</note>
-                        <author><persName>(清)榮文達</persName><persName type="9">rong wen
+                        <author key="person_4711"><persName>(清)榮文達</persName><persName type="9">rong wen
                            da</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150107/13:13:01|odh -->
@@ -73,7 +73,7 @@
                         <title>看雲聽濤館詩 ^一卷^</title>
                         <title source="9">kan yun ting tao guan shi</title>
                         <note source="290">(清)劉春烺撰</note>
-                        <author><persName>(清)劉春烺</persName><persName type="9">liu chun
+                        <author key="person_3450"><persName>(清)劉春烺</persName><persName type="9">liu chun
                               lang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150107/13:17:36|odh -->
@@ -84,14 +84,14 @@
                            <title>隅夢草堂詩草 ^六卷^</title>
                            <title source="9">yu meng cao tang shi cao</title>
                            <note source="290">(清)房毓琛撰</note>
-                           <author><persName>(清)房毓琛</persName><persName type="9">fang yu
+                           <author key="person_4279"><persName>(清)房毓琛</persName><persName type="9">fang yu
                                  chen</persName></author>
                         </msItem>
                         <msItem n="2">
                            <title>^附^ 房仲南先生年譜 ^一卷^</title>
                            <title type="9">fang zhong nan xian sheng nian pu</title>
                            <note source="#291">(清)陳思撰</note>
-                           <author><persName>(清)陳思</persName><persName type="9">chen
+                           <author key="person_6050"><persName>(清)陳思</persName><persName type="9">chen
                               si</persName></author>
                         </msItem>
                         <!--Unused allegro fields-->

@@ -58,9 +58,9 @@
                         <title source="9">yan du ri ji</title>
                         <note source="290">(明)馮夢龍原本</note>
                         <note source="290">(明)莫釐山人增補</note>
-                        <author><persName>(明)馮夢龍</persName><persName type="9">feng meng
+                        <author key="person_2786"><persName>(明)馮夢龍</persName><persName type="9">feng meng
                               long</persName></author>
-                        <author><persName>(明)莫釐山人</persName><persName type="9">mo li shan
+                        <author key="person_2536"><persName>(明)莫釐山人</persName><persName type="9">mo li shan
                               ren</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150402/16:07:13|odh -->
@@ -71,7 +71,7 @@
                         <title>東塘日劄 ^一卷^</title>
                         <title source="9">dong tang ri zha</title>
                         <note source="290">(清)朱子素撰</note>
-                        <author><persName>(清)朱子素</persName><persName type="9">zhu zi
+                        <author key="person_4389"><persName>(清)朱子素</persName><persName type="9">zhu zi
                            su</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150402/16:11:42|odh -->
@@ -81,7 +81,7 @@
                         <title>閩事紀畧 ^一卷^</title>
                         <title source="9">min shi ji lue</title>
                         <note source="290">(明)華廷獻撰</note>
-                        <author><persName>(明)華廷獻</persName><persName type="9">hua ting
+                        <author key="person_2538"><persName>(明)華廷獻</persName><persName type="9">hua ting
                               xian</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150402/16:12:12|odh -->
@@ -92,7 +92,7 @@
                         <title>戴重事錄 ^一卷^</title>
                         <title source="9">dai zhong shi lu</title>
                         <note source="290">(清)章學誠撰</note>
-                        <author><persName>(清)章學誠</persName><persName type="9">zhang xue
+                        <author key="person_5282"><persName>(清)章學誠</persName><persName type="9">zhang xue
                               cheng</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150402/16:13:40|odh -->
@@ -102,7 +102,7 @@
                         <title>金壇獄案 ^一卷^</title>
                         <title source="9">jin tan yu an</title>
                         <note source="290">(清)計六奇撰</note>
-                        <author><persName>(清)計六奇</persName><persName type="9">ji liu
+                        <author key="person_5646"><persName>(清)計六奇</persName><persName type="9">ji liu
                            qi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150402/16:14:55|odh -->
@@ -120,7 +120,7 @@
                         <title>江上遺聞 ^一卷^</title>
                         <title source="9">jiang shang yi wen</title>
                         <note source="290">(清)沈濤撰</note>
-                        <author><persName>(清)沈濤</persName><persName type="9">shen
+                        <author key="person_4877"><persName>(清)沈濤</persName><persName type="9">shen
                            tao</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150402/16:17:26|odh -->
@@ -130,7 +130,7 @@
                         <title>安龍紀事 ^一卷^</title>
                         <title source="9">an long ji shi</title>
                         <note source="290">(明)江之春撰</note>
-                        <author><persName>(明)江之春</persName><persName type="9">jiang zhi
+                        <author key="person_2372"><persName>(明)江之春</persName><persName type="9">jiang zhi
                               chun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150402/16:18:42|odh -->
@@ -140,7 +140,7 @@
                         <title>過墟志 ^二卷^</title>
                         <title source="9">guo xu zhi</title>
                         <note source="290">(清)墅西逸叟撰</note>
-                        <author><persName>(清)墅西逸叟</persName><persName type="9">shu xi yi
+                        <author key="person_3765"><persName>(清)墅西逸叟</persName><persName type="9">shu xi yi
                               sou</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150402/16:21:21|odh -->

@@ -53,9 +53,9 @@
                      <title source="#200|9">qin cao</title>
                      <note source="#290">(漢)蔡邕撰</note>
                      <note source="#290">(清)孫星衍校</note>
-                     <author source="#300"><persName>(漢)蔡邕</persName><persName type="9">cai
+                     <author source="#300" key="person_6588"><persName>(漢)蔡邕</persName><persName type="9">cai
                            yong</persName></author>
-                     <author source="#300"><persName>(清)孫星衍</persName><persName type="9">sun xing
+                     <author source="#300" key="person_3855"><persName>(清)孫星衍</persName><persName type="9">sun xing
                            yan</persName></author>
                      <note source="#600">嘉慶丙寅[1806]刊</note>
                   </msItem>
@@ -63,7 +63,7 @@
                      <title source="#201">琴操補遺 ^一卷^</title>
                      <title source="#201|9">qin cao bu yi</title>
                      <note source="#291">(清)孫星衍輯</note>
-                     <author source="#301"><persName>(清)孫星衍</persName><persName type="9">sun xing
+                     <author source="#301" key="person_3855"><persName>(清)孫星衍</persName><persName type="9">sun xing
                            yan</persName></author>
                   </msItem>
                </msContents>

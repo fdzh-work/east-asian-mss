@@ -51,7 +51,7 @@
                      <title source="#200">鄧氏家集</title>
                      <title source="#200|9">deng shi jia ji</title>
                      <note source="#290">(民國)鄧邦述輯</note>
-                     <author source="#300"><persName>(民國)鄧邦述</persName><persName type="9">deng bang
+                     <author source="#300" key="person_3199"><persName>(民國)鄧邦述</persName><persName type="9">deng bang
                            shu</persName></author>
                      <note source="#409">民國刊一九八六年揚州江蘇廣陵古籍刻印社重印本</note>
                      <editor source="#440" role="pbl"><persName>江蘇廣陵古籍刻印社</persName><persName type="9" role="pbl">jiang su guang ling gu ji ke yin
@@ -60,7 +60,7 @@
                         <title>林屋詩集 ^九卷^</title>
                         <title source="9">lin wu shi ji</title>
                         <note source="290">(清)鄧旭撰</note>
-                        <author><persName>(清)鄧旭</persName><persName type="9">deng
+                        <author key="person_5833"><persName>(清)鄧旭</persName><persName type="9">deng
                            xu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20200131/11:36:47|odh -->
@@ -71,7 +71,7 @@
                         <title>鄧制軍禁煙防海奏議 ^二卷^</title>
                         <title source="9">deng zhi jun jin yan fang hai zou yi</title>
                         <note source="290">(清)鄧廷楨撰</note>
-                        <author><persName>(清)鄧廷楨</persName><persName type="9">deng ting
+                        <author key="person_5831"><persName>(清)鄧廷楨</persName><persName type="9">deng ting
                               zhen</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20200131/11:40:31|odh -->
@@ -82,7 +82,7 @@
                         <title>扁善齋詩存 ^二卷^</title>
                         <title source="9">bian shan zhai shi cun</title>
                         <note source="290">(清)鄧嘉緝撰</note>
-                        <author><persName>(清)鄧嘉緝</persName><persName type="9">deng jia
+                        <author key="person_5828"><persName>(清)鄧嘉緝</persName><persName type="9">deng jia
                            ji</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20200131/11:43:10|odh -->
@@ -95,7 +95,7 @@
                         <title>蹇盦詞 ^二卷^</title>
                         <title source="9">jian an ci</title>
                         <note source="290">(清)鄧邦達撰</note>
-                        <author><persName>(清)鄧邦達</persName><persName type="9">deng bang
+                        <author key="person_5836"><persName>(清)鄧邦達</persName><persName type="9">deng bang
                               da</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20200131/11:50:04|odh -->

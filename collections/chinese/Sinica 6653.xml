@@ -51,14 +51,14 @@
                      <title source="#200">西泠五布衣遺箸</title>
                      <title source="#200|9">xi leng wu bu yi yi zhu</title>
                      <note source="#290">(清)丁丙編</note>
-                     <author source="#300"><persName>(清)丁丙</persName><persName type="9">ding
+                     <author source="#300" key="person_3242"><persName>(清)丁丙</persName><persName type="9">ding
                            bing</persName></author>
                      <note source="#409">清同治光緒間錢唐丁氏當歸草堂刊後印本</note>
                      <msItem n="1">
                         <title>冬花庵燼餘稾 ^三卷^</title>
                         <title source="9">dong hua an jin yu gao</title>
                         <note source="290">(淸)奚岡撰</note>
-                        <author><persName>(清)奚岡</persName><persName type="9">xi
+                        <author key="person_3781"><persName>(清)奚岡</persName><persName type="9">xi
                            gang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180604/00000011|odh -->
@@ -80,7 +80,7 @@
                         <title>半巖廬遺詩 ^一卷^</title>
                         <title source="9">ban yan lu yi shi</title>
                         <note source="290">(清)邵懿辰撰</note>
-                        <author><persName>(清)邵懿辰</persName><persName type="9">shao yi
+                        <author key="person_5771"><persName>(清)邵懿辰</persName><persName type="9">shao yi
                               chen</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180604/00000013|odh -->
@@ -90,7 +90,7 @@
                         <title>臨江鄉人詩 ^四卷^</title>
                         <title source="9">lin jiang xiang ren shi</title>
                         <note source="290">(淸)吳穎芳撰</note>
-                        <author><persName>(清)吳穎芳</persName><persName type="9">wu ying
+                        <author key="person_3611"><persName>(清)吳穎芳</persName><persName type="9">wu ying
                               fang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180604/00000014|odh -->
@@ -101,7 +101,7 @@
                         <title>柳州遺稾 ^二卷^</title>
                         <title source="9">liu zhou yi gao</title>
                         <note source="290">(淸)魏之琇撰</note>
-                        <author><persName>(清)魏之琇</persName><persName type="9">wei zhi
+                        <author key="person_6315"><persName>(清)魏之琇</persName><persName type="9">wei zhi
                            xiu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180604/00000015|odh -->
@@ -112,7 +112,7 @@
                         <title>硯林詩集 ^四卷^</title>
                         <title source="9">yan lin shi ji</title>
                         <note source="290">(清)丁敬撰</note>
-                        <author><persName>(清)丁敬</persName><persName type="9">ding
+                        <author key="person_3252"><persName>(清)丁敬</persName><persName type="9">ding
                            jing</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180604/00000016|odh -->
@@ -123,7 +123,7 @@
                         <title>冬心先生集 ^四卷續集一卷三體詩一卷自度曲一卷雜著六卷隨筆一卷^</title>
                         <title source="9">dong xin xian sheng ji</title>
                         <note source="290">(清)金農撰</note>
-                        <author><persName>(清)金農</persName><persName type="9">jin
+                        <author key="person_5897"><persName>(清)金農</persName><persName type="9">jin
                            nong</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180604/00000017|odh -->

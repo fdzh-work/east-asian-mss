@@ -55,7 +55,7 @@
                         <title>佛說無量壽經 ^二卷^</title>
                         <title source="9">fo shuo wu liang shou jing</title>
                         <note source="290">(魏釋)康僧鎧譯</note>
-                        <author><persName>(魏釋)康僧鎧</persName><persName type="9">kang seng
+                        <author key="person_6753"><persName>(魏釋)康僧鎧</persName><persName type="9">kang seng
                               kai</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20130502/11:15:01|odh -->
@@ -67,7 +67,7 @@
                         <title type="variant">無量壽如來會</title>
                         <title source="9" type="variant">wu liang shou ru lai hui</title>
                         <note source="290">(唐釋)菩提流志奉詔譯</note>
-                        <author><persName>(唐釋)菩提流志</persName><persName type="9">pu ti liu
+                        <author key="person_916"><persName>(唐釋)菩提流志</persName><persName type="9">pu ti liu
                               zhi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20130502/11:24:45|odh -->
@@ -77,7 +77,7 @@
                         <title>佛說無量清淨平等覺經 ^四卷^</title>
                         <title source="9">fo shuo wu liang qing jing ping deng jue jing</title>
                         <note source="290">(漢釋)支婁迦讖譯</note>
-                        <author><persName>(漢釋)支婁迦讖</persName><persName type="9">zhi lou jia
+                        <author key="person_6629"><persName>(漢釋)支婁迦讖</persName><persName type="9">zhi lou jia
                               chen</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20130502/11:31:21|odh -->
@@ -88,7 +88,7 @@
                         <title source="9">fo shuo a mi tuo san ye san fo sa lou fo tan guo du ren
                            dao jing</title>
                         <note source="290">(漢釋)支謙譯</note>
-                        <author><persName>(漢釋)支謙</persName><persName type="9">zhi
+                        <author key="person_6630"><persName>(漢釋)支謙</persName><persName type="9">zhi
                            qian</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20130502/11:40:03|odh -->
@@ -98,7 +98,7 @@
                         <title>佛說大乘無量壽莊嚴經 ^三卷^</title>
                         <title source="9">fo shuo da sheng wu liang shou zhuang yan jing</title>
                         <note source="290">(晉釋)法顯奉詔譯</note>
-                        <author><persName>(晉釋)法顯</persName><persName type="9">fa
+                        <author key="person_3013"><persName>(晉釋)法顯</persName><persName type="9">fa
                            xian</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20130502/11:44:07|odh -->
@@ -109,7 +109,7 @@
                         <title>稱讚淨土佛攝受經 ^一卷^</title>
                         <title source="9">cheng zan jing tu fo she shou jing</title>
                         <note source="290">(唐釋)玄奘奉詔譯</note>
-                        <author><persName>(唐釋)玄奘</persName><persName type="9">xuan
+                        <author key="person_908"><persName>(唐釋)玄奘</persName><persName type="9">xuan
                            zang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20130502/11:52:13|odh -->

@@ -54,9 +54,9 @@
                      <title source="#200|9">zhen gu pian bu zheng</title>
                      <note source="#290">(隋)楊上善主</note>
                      <note source="#290">(民國)廖平補</note>
-                     <author source="#300"><persName>(隋)楊上善</persName><persName type="9">yang shang
+                     <author source="#300" key="person_6695"><persName>(隋)楊上善</persName><persName type="9">yang shang
                            shan</persName></author>
-                     <author source="#300"><persName>(民國)廖平</persName><persName type="9">liao
+                     <author source="#300" key="person_3102"><persName>(民國)廖平</persName><persName type="9">liao
                            ping</persName></author>
                      <note source="#600">民國丙辰[1916]成都存古書局刊</note>
                   </msItem>
@@ -64,7 +64,7 @@
                      <title source="#201">^附^ 慈谿劉廷楨中西骨格辯證 ^一卷^</title>
                      <title source="#201|9">ci xi liu ting zhen zhong xi gu ge bian zheng</title>
                      <note source="#291">(清)劉廷楨撰</note>
-                     <author source="#301"><persName>(清)劉廷楨</persName><persName type="9">liu ting
+                     <author source="#301" key="person_3437"><persName>(清)劉廷楨</persName><persName type="9">liu ting
                            zhen</persName></author>
                   </msItem>
                </msContents>

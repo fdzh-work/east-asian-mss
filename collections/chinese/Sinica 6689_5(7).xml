@@ -52,13 +52,13 @@
                      <title source="#200">五周先生集</title>
                      <title source="#200|9">wu zhou xian sheng ji</title>
                      <note source="#290">(民國)冒廣生編</note>
-                     <author source="#300"><persName>(民國)冒廣生</persName><persName type="9">mao guang
+                     <author source="#300" key="person_3072"><persName>(民國)冒廣生</persName><persName type="9">mao guang
                            sheng</persName></author>
                      <msItem n="1">
                         <title>蟄室詩錄 ^一卷^</title>
                         <title source="9">zhe shi shi lu</title>
                         <note source="290">(清)周沐潤撰</note>
-                        <author><persName>(清)周沐潤</persName><persName type="9">zhou mu
+                        <author key="person_3702"><persName>(清)周沐潤</persName><persName type="9">zhou mu
                            run</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180626/00000107|odh -->
@@ -68,7 +68,7 @@
                         <title>訒庵遺稿 ^一卷^</title>
                         <title source="9">ren an yi gao</title>
                         <note source="290">(清)周悅修撰</note>
-                        <author><persName>(清)周悅修</persName><persName type="9">zhou yue
+                        <author key="person_3689"><persName>(清)周悅修</persName><persName type="9">zhou yue
                               xiu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180626/00000108|odh -->
@@ -78,7 +78,7 @@
                         <title>傳忠堂學古文 ^一卷^</title>
                         <title source="9">chuan zhong tang xue gu wen</title>
                         <note source="290">(清)周星譽撰</note>
-                        <author><persName>(清)周星譽</persName><persName type="9">zhou xing
+                        <author key="person_3696"><persName>(清)周星譽</persName><persName type="9">zhou xing
                               yu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180626/00000109|odh -->
@@ -88,7 +88,7 @@
                         <title>鷗堂賸稿 ^一卷^</title>
                         <title source="9">ou tang sheng gao</title>
                         <note source="290">(清)周星譽撰</note>
-                        <author><persName>(清)周星譽</persName><persName type="9">zhou xing
+                        <author key="person_3696"><persName>(清)周星譽</persName><persName type="9">zhou xing
                               yu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180626/00000110|odh -->
@@ -98,7 +98,7 @@
                         <title>東鷗草堂詞 ^二卷^</title>
                         <title source="9">dong ou cao tang ci</title>
                         <note source="290">(清)周星譽撰</note>
-                        <author><persName>(清)周星譽</persName><persName type="9">zhou xing
+                        <author key="person_3696"><persName>(清)周星譽</persName><persName type="9">zhou xing
                               yu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180626/00000111|odh -->
@@ -108,7 +108,7 @@
                         <title>寙櫎詩質 ^一卷^</title>
                         <title source="9">yu huang shi zhi</title>
                         <note source="290">(清)周星詒撰</note>
-                        <author><persName>(清)周星詒</persName><persName type="9">zhou xing
+                        <author key="person_3695"><persName>(清)周星詒</persName><persName type="9">zhou xing
                               yi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180626/00000112|odh -->

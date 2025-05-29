@@ -52,7 +52,7 @@
                      <title source="#200">孫吳司馬灋</title>
                      <title source="#200|9">sun wu si ma fa</title>
                      <note source="#290">(清)孫星衍輯</note>
-                     <author source="#300"><persName>(清)孫星衍</persName><persName type="9">sun xing
+                     <author source="#300" key="person_3855"><persName>(清)孫星衍</persName><persName type="9">sun xing
                            yan</persName></author>
                      <note source="#600">嘉慶庚申[1800]影刊宋本</note>
                      <msItem n="1">
@@ -60,9 +60,9 @@
                         <title source="9">wei wu di zhu sun zi</title>
                         <note source="290">(周)孫武撰</note>
                         <note source="290">(魏)曹操注</note>
-                        <author><persName>(周)孫武</persName><persName type="9">sun
+                        <author key="person_492"><persName>(周)孫武</persName><persName type="9">sun
                            wu</persName></author>
-                        <author><persName>(魏)曹操</persName><persName type="9">cao
+                        <author key="person_6727"><persName>(魏)曹操</persName><persName type="9">cao
                            cao</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20161219/00000003|odh -->
@@ -72,7 +72,7 @@
                         <title>吳子 ^二卷^</title>
                         <title source="9">wu zi</title>
                         <note source="290">(周)吳起撰</note>
-                        <author><persName>(周)吳起</persName><persName type="9">wu
+                        <author key="person_484"><persName>(周)吳起</persName><persName type="9">wu
                            qi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20161219/00000004|odh -->
@@ -82,7 +82,7 @@
                         <title>司馬法 ^三卷^</title>
                         <title source="9">si ma fa</title>
                         <note source="290">(周)司馬穰苴撰</note>
-                        <author><persName>(周)司馬穰苴</persName><persName type="9">si ma rang
+                        <author key="person_483"><persName>(周)司馬穰苴</persName><persName type="9">si ma rang
                               ju</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20161219/00000005|odh -->

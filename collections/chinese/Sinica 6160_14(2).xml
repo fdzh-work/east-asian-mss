@@ -54,7 +54,7 @@
                      <title source="#200|9">han fei zi</title>
                      <note source="#290">(周)韓非撰</note>
                      <note source="#290">(□)佚名注</note>
-                     <author source="#300"><persName>(周)韓非</persName><persName type="9">han
+                     <author source="#300" key="person_540"><persName>(周)韓非</persName><persName type="9">han
                            fei</persName></author>
                      <note source="#600">光緒元年[1875]刊</note>
                   </msItem>
@@ -62,7 +62,7 @@
                      <title source="#201">^附^ 韓非子識誤 ^三卷^</title>
                      <title source="#201|9">han fei zi shi wu</title>
                      <note source="#291">(清)顧廣圻撰</note>
-                     <author source="#301"><persName>(清)顧廣圻</persName><persName type="9">gu guang
+                     <author source="#301" key="person_6215"><persName>(清)顧廣圻</persName><persName type="9">gu guang
                            qi</persName></author>
                   </msItem>
                </msContents>

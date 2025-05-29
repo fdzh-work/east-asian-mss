@@ -55,7 +55,7 @@
                         <title>童蒙須知 ^一卷^</title>
                         <title source="9">tong meng xu zhi</title>
                         <note source="290">(宋)朱熹撰</note>
-                        <author><persName>(宋)朱熹</persName><persName type="9">zhu
+                        <author key="person_1250"><persName>(宋)朱熹</persName><persName type="9">zhu
                            xi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180629/00000017|odh -->
@@ -76,9 +76,9 @@
                         <title source="9">xiang yue</title>
                         <note source="290">(宋)呂大鈞撰</note>
                         <note source="290">(宋)朱熹注</note>
-                        <author><persName>(宋)呂大鈞</persName><persName type="9">lu da
+                        <author key="person_1048"><persName>(宋)呂大鈞</persName><persName type="9">lu da
                            jun</persName></author>
-                        <author><persName>(宋)朱熹</persName><persName type="9">zhu
+                        <author key="person_1250"><persName>(宋)朱熹</persName><persName type="9">zhu
                            xi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180629/00000019|odh -->

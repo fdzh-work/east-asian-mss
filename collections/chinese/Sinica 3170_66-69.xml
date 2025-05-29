@@ -56,11 +56,11 @@
                      <note source="#290">(漢)揚雄記</note>
                      <note source="#290">(晉)郭璞注</note>
                      <note source="#290">(清)錢繹箋疏</note>
-                     <author source="#300"><persName>(漢)揚雄</persName><persName type="9">yang
+                     <author source="#300" key="person_6538"><persName>(漢)揚雄</persName><persName type="9">yang
                            xiong</persName></author>
-                     <author source="#300"><persName>(晉)郭璞</persName><persName type="9">guo
+                     <author source="#300" key="person_2985"><persName>(晉)郭璞</persName><persName type="9">guo
                            pu</persName></author>
-                     <author source="#300"><persName>(清)錢繹</persName><persName type="9">qian
+                     <author source="#300" key="person_5947"><persName>(清)錢繹</persName><persName type="9">qian
                            yi</persName></author>
                      <note source="#600">光緒十六年[1890]刊</note>
                   </msItem>
@@ -68,7 +68,7 @@
                      <title source="#201">^附^ 方言箋疏校勘記 ^十三卷^</title>
                      <title source="#201|9">fang yan jian shu jiao kan ji</title>
                      <note source="#291">(清)何翰章撰</note>
-                     <author source="#301"><persName>(清)何翰章</persName><persName type="9">he han
+                     <author source="#301" key="person_3326"><persName>(清)何翰章</persName><persName type="9">he han
                            zhang</persName></author>
                   </msItem>
                </msContents>

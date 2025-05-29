@@ -54,11 +54,11 @@
                      <title source="#200|9">zha dong shan xian sheng nian pu</title>
                      <note source="#290">(清)沈起撰</note>
                      <note source="#290">(清)張濤, (清)查穀纂注</note>
-                     <author source="#300"><persName>(清)沈起</persName><persName type="9">shen
+                     <author source="#300" key="person_4898"><persName>(清)沈起</persName><persName type="9">shen
                            qi</persName></author>
-                     <author source="#300"><persName>(清)張濤</persName><persName type="9">zhang
+                     <author source="#300" key="person_4062"><persName>(清)張濤</persName><persName type="9">zhang
                            tao</persName></author>
-                     <author source="#300"><persName>(清)查穀</persName><persName type="9">zha
+                     <author source="#300" key="person_4611"><persName>(清)查穀</persName><persName type="9">zha
                            gu</persName></author>
                      <note source="#600">民國五年[1916]刊</note>
                   </msItem>
@@ -66,7 +66,7 @@
                      <title source="#201">^附^ 書湖州莊氏史獄 ^一卷^</title>
                      <title source="#201|9">shu hu zhou zhuang shi shi yu</title>
                      <note source="#291">(清)翁廣平撰</note>
-                     <author source="#301"><persName>(清)翁廣平</persName><persName type="9">weng guang
+                     <author source="#301" key="person_5338"><persName>(清)翁廣平</persName><persName type="9">weng guang
                            ping</persName></author>
                   </msItem>
                </msContents>

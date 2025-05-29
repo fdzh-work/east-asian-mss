@@ -52,14 +52,14 @@
                      <title source="#200">尚書隸古定釋文 ^八卷^</title>
                      <title source="#200|9">shang shu li gu ding shi wen</title>
                      <note source="#290">(清)李遇孫撰</note>
-                     <author source="#300"><persName>(清)李遇孫</persName><persName type="9">li yu
+                     <author source="#300" key="person_4545"><persName>(清)李遇孫</persName><persName type="9">li yu
                            sun</persName></author>
                   </msItem>
                   <msItem n="2">
                      <title source="#201">尚書隸古定經文 ^二卷^</title>
                      <title source="#201|9">shang shu li gu ding jing wen</title>
                      <note source="#291">(宋)薛季宣撰</note>
-                     <author source="#301"><persName>(宋)薛季宣</persName><persName type="9">xue ji
+                     <author source="#301" key="person_1584"><persName>(宋)薛季宣</persName><persName type="9">xue ji
                            xuan</persName></author>
                   </msItem>
                </msContents>

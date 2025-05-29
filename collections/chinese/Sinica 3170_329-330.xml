@@ -54,9 +54,9 @@
                      <title source="#200|9">shi liu guo chun qiu zuan lu jiao ben</title>
                      <note source="#290">(北魏)崔鴻撰</note>
                      <note source="#290">(清)湯球輯</note>
-                     <author source="#300"><persName>(北魏)崔鴻</persName><persName type="9">cui
+                     <author source="#300" key="person_408"><persName>(北魏)崔鴻</persName><persName type="9">cui
                            hong</persName></author>
-                     <author source="#300"><persName>(清)湯球</persName><persName type="9">tang
+                     <author source="#300" key="person_4949"><persName>(清)湯球</persName><persName type="9">tang
                            qiu</persName></author>
                      <note source="#600">光緒二十年[1894]刊</note>
                   </msItem>
@@ -65,7 +65,7 @@
                      <title source="#201|9">shi liu guo chun qiu zuan lu jiao ben jiao kan
                         ji</title>
                      <note source="#291">(清)吳翊寅撰</note>
-                     <author source="#301"><persName>(清)吳翊寅</persName><persName type="9">wu yi
+                     <author source="#301" key="person_3616"><persName>(清)吳翊寅</persName><persName type="9">wu yi
                            yin</persName></author>
                   </msItem>
                </msContents>

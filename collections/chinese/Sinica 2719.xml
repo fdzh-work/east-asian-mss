@@ -52,7 +52,7 @@
                      <title source="#200">薛文清公全書</title>
                      <title source="#200|9">xue wen qing gong quan shu</title>
                      <note source="#290">(明)薛瑄撰</note>
-                     <author source="#300"><persName>(明)薛瑄</persName><persName type="9">xue
+                     <author source="#300" key="person_2580"><persName>(明)薛瑄</persName><persName type="9">xue
                            xuan</persName></author>
                      <note source="#409">明崇禎至清道光間河律薛氏刊遞修1984年北京中國書店重印本</note>
                      <editor source="#440" role="pbl"><persName>中國書店</persName><persName type="9" role="pbl">zhong guo shu dian</persName></editor>
@@ -60,9 +60,9 @@
                         <title>文清公薛先生文集 ^二十四卷^</title>
                         <title source="9">wen qing gong xue xian sheng wen ji</title>
                         <note source="290">(明)張鼎編</note>
-                        <author><persName>(明)薛瑄</persName><persName type="9">xue
+                        <author key="person_2580"><persName>(明)薛瑄</persName><persName type="9">xue
                            xuan</persName></author>
-                        <author><persName>(明)張鼎</persName><persName type="9">zhang
+                        <author key="person_2208"><persName>(明)張鼎</persName><persName type="9">zhang
                            ding</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140915/14:31:12|odh -->
@@ -72,7 +72,7 @@
                      <msItem n="2">
                         <title>讀書錄 ^十一卷續錄十二卷^</title>
                         <title source="9">du shu lu</title>
-                        <author><persName>(明)薛瑄</persName><persName type="9">xue
+                        <author key="person_2580"><persName>(明)薛瑄</persName><persName type="9">xue
                            xuan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140915/14:33:01|odh -->
@@ -83,7 +83,7 @@
                         <title>蓼蟲吟 ^一卷續集一卷^</title>
                         <title source="9">liao chong yin</title>
                         <note source="290">(明)薛昌胤撰</note>
-                        <author><persName>(明)薛昌胤</persName><persName type="9">xue chang
+                        <author key="person_2579"><persName>(明)薛昌胤</persName><persName type="9">xue chang
                               yin</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140915/14:37:49|odh -->
@@ -94,7 +94,7 @@
                      <msItem n="4">
                         <title>名家制義 ^不分卷^</title>
                         <title source="9">ming jia zhi yi</title>
-                        <author><persName>(明)薛瑄</persName><persName type="9">xue
+                        <author key="person_2580"><persName>(明)薛瑄</persName><persName type="9">xue
                            xuan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140915/14:54:41|odh -->
@@ -106,7 +106,7 @@
                         <title>薛刑部詩集 ^不分卷^</title>
                         <title source="9">xue xing bu shi ji</title>
                         <note source="290">(明)薛禥撰</note>
-                        <author><persName>(明)薛禥</persName><persName type="9">xue
+                        <author key="person_2581"><persName>(明)薛禥</persName><persName type="9">xue
                            qi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140915/14:59:18|odh -->
@@ -116,7 +116,7 @@
                      <msItem n="6">
                         <title>薛文清公手稿 ^不分卷^</title>
                         <title source="9">xue wen qing gong shou gao</title>
-                        <author><persName>(明)薛瑄</persName><persName type="9">xue
+                        <author key="person_2580"><persName>(明)薛瑄</persName><persName type="9">xue
                            xuan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140915/15:02:51|odh -->
@@ -127,7 +127,7 @@
                         <title>薛文清公年譜 ^一卷^</title>
                         <title source="9">xue wen qing gong nian pu</title>
                         <note source="290">(明)楊鶴撰</note>
-                        <author><persName>(明)楊鶴</persName><persName type="9">yang
+                        <author key="person_2364"><persName>(明)楊鶴</persName><persName type="9">yang
                            he</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140915/15:04:25|odh -->
@@ -138,7 +138,7 @@
                         <title>薛氏族譜 ^不分卷^</title>
                         <title source="9">xue shi zu pu</title>
                         <note source="290">(清)薛琳等撰</note>
-                        <author><persName>(清)薛琳</persName><persName type="9">xue
+                        <author key="person_5593"><persName>(清)薛琳</persName><persName type="9">xue
                            lin</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140915/15:06:54|odh -->
@@ -150,7 +150,7 @@
                         <title source="9">huang ming wen qing gong xue xien sheng xing shi
                            lu</title>
                         <note source="290">(明)喻時等撰</note>
-                        <author><persName>(明)喻時</persName><persName type="9">yu
+                        <author key="person_2109"><persName>(明)喻時</persName><persName type="9">yu
                            shi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140915/15:10:08|odh -->
@@ -160,7 +160,7 @@
                      <msItem n="10">
                         <title>薛文清公策問 ^不分卷^</title>
                         <title source="9">xue wen qing gong ce wen</title>
-                        <author><persName>(明)薛瑄</persName><persName type="9">xue
+                        <author key="person_2580"><persName>(明)薛瑄</persName><persName type="9">xue
                            xuan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140915/15:12:37|odh -->
@@ -172,7 +172,7 @@
                         <title source="9">xue wen qing gong cong zheng ming yan</title>
                         <title>理學粹言 ^一卷^</title>
                         <title source="9">li xue cui yan</title>
-                        <author><persName>(明)薛瑄</persName><persName type="9">xue
+                        <author key="person_2580"><persName>(明)薛瑄</persName><persName type="9">xue
                            xuan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140915/15:15:08|odh -->

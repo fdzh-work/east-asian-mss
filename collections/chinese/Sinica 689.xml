@@ -51,7 +51,7 @@
                      <title source="#200">啟蒙要略</title>
                      <title source="#200|9">qi meng yao lue</title>
                      <note source="#290">(清)王守謙編</note>
-                     <author source="#300"><persName>(清)王守謙</persName><persName type="9">wang shou
+                     <author source="#300" key="person_5043"><persName>(清)王守謙</persName><persName type="9">wang shou
                            qian</persName></author>
                      <note source="#409">清道光中刊本板存牛街厚德堂馬宅</note>
                      <editor source="#440" role="pbl"><persName>厚德堂馬宅</persName><persName type="9" role="pbl">hou de tang ma zhai</persName></editor>
@@ -59,7 +59,7 @@
                         <title>清真大學 ^一卷^</title>
                         <title source="9">qing zhen da xue</title>
                         <note source="290">(明)王岱輿撰</note>
-                        <author><persName>(明)王岱輿</persName><persName type="9">wang dai
+                        <author key="person_2430"><persName>(明)王岱輿</persName><persName type="9">wang dai
                            yu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140626/14:20:07|odh -->
@@ -71,7 +71,7 @@
                         <title type="variant">五功釋義</title>
                         <title source="9" type="variant">wu gong shi yi</title>
                         <note source="290">(清)劉智撰</note>
-                        <author><persName>(清)劉智</persName><persName type="9">liu
+                        <author key="person_3452"><persName>(清)劉智</persName><persName type="9">liu
                            zhi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140626/14:54:57|odh -->

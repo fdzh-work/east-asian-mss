@@ -51,14 +51,14 @@
                      <title source="#200">篆學瑣著</title>
                      <title source="#200|9">zhuan xue suo zhu</title>
                      <note source="#290">(清)顧湘輯</note>
-                     <author source="#300"><persName>(清)顧湘</persName><persName type="9">gu
+                     <author source="#300" key="person_6226"><persName>(清)顧湘</persName><persName type="9">gu
                            xiang</persName></author>
                      <note source="#409">清道光庚子年[1840]海虞顧氏刊本</note>
                      <msItem n="1">
                         <title>論篆 ^一卷^</title>
                         <title source="9">luan zhuan</title>
                         <note source="290">(唐)李陽冰撰</note>
-                        <author><persName>(唐)李陽冰</persName><persName type="9">li yang
+                        <author key="person_711"><persName>(唐)李陽冰</persName><persName type="9">li yang
                               bing</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 19970320/13:53:01|osn -->
@@ -69,7 +69,7 @@
                         <title>五十六種書法 ^一卷^</title>
                         <title source="9">wu shi liu zhong shu fa</title>
                         <note source="290">(唐)韋續撰</note>
-                        <author><persName>(唐)韋續</persName><persName type="9">wei
+                        <author key="person_863"><persName>(唐)韋續</persName><persName type="9">wei
                            xu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 19970320/13:55:04|osn -->
@@ -80,7 +80,7 @@
                         <title>學古編 ^一卷^</title>
                         <title source="9">xue gu bian</title>
                         <note source="290">(元)吾邱衍撰</note>
-                        <author><persName>(元)吾丘衍</persName><persName type="9">wu qiu
+                        <author key="person_88"><persName>(元)吾丘衍</persName><persName type="9">wu qiu
                            yan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 19970320/13:58:00|osn -->
@@ -91,7 +91,7 @@
                         <title>古今印史 ^一卷^</title>
                         <title source="9">gu jin yin shi</title>
                         <note source="290">(明)徐官撰</note>
-                        <author><persName>(明)徐官</persName><persName type="9">xu
+                        <author key="person_2217"><persName>(明)徐官</persName><persName type="9">xu
                            guan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 19970320/13:59:03|osn -->
@@ -102,7 +102,7 @@
                         <title>篆學指南 ^一卷^</title>
                         <title source="9">zhuan xue zhi nan</title>
                         <note source="290">(明)趙宧光撰</note>
-                        <author><persName>(明)趙宧光</persName><persName type="9">zhao yi
+                        <author key="person_2634"><persName>(明)趙宧光</persName><persName type="9">zhao yi
                               guang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 19970320/14:01:40|osn -->
@@ -113,7 +113,7 @@
                         <title>印章集說 ^一卷^</title>
                         <title source="9">yin zhang ji shuo</title>
                         <note source="290">(明)甘暘撰</note>
-                        <author><persName>(明)甘暘</persName><persName type="9">gan
+                        <author key="person_2470"><persName>(明)甘暘</persName><persName type="9">gan
                            yang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 19970320/14:03:09|osn -->
@@ -125,9 +125,9 @@
                         <title source="9">xue gu bian</title>
                         <note source="290">(元)吾邱衍撰</note>
                         <note source="290">(明)何震續</note>
-                        <author><persName>(明)何震</persName><persName type="9">he
+                        <author key="person_1995"><persName>(明)何震</persName><persName type="9">he
                            zhen</persName></author>
-                        <author><persName>(元)吾丘衍</persName><persName type="9">wu qiu
+                        <author key="person_88"><persName>(元)吾丘衍</persName><persName type="9">wu qiu
                            yan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 19970320/14:04:59|osn -->
@@ -138,7 +138,7 @@
                         <title>印旨 ^一卷^</title>
                         <title source="9">yin zhi</title>
                         <note source="290">(清)程遠撰</note>
-                        <author><persName>(清)程遠</persName><persName type="9">cheng
+                        <author key="person_5270"><persName>(清)程遠</persName><persName type="9">cheng
                            yuan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 19970320/14:07:32|osn -->
@@ -149,7 +149,7 @@
                         <title>印經 ^一卷^</title>
                         <title source="9">yin jing</title>
                         <note source="290">(清)朱簡撰</note>
-                        <author><persName>(清)朱簡</persName><persName type="9">zhu
+                        <author key="person_4424"><persName>(清)朱簡</persName><persName type="9">zhu
                            jian</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 19970320/14:08:14|osn -->
@@ -160,7 +160,7 @@
                         <title>印章要論 ^一卷^</title>
                         <title source="9">yin zhang yao lun</title>
                         <note source="290">(清)朱簡撰</note>
-                        <author><persName>(清)朱簡</persName><persName type="9">zhu
+                        <author key="person_4424"><persName>(清)朱簡</persName><persName type="9">zhu
                            jian</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 19970320/14:09:03|osn -->
@@ -171,7 +171,7 @@
                         <title>篆刻十三略 ^一卷^</title>
                         <title source="9">zhuan ke shi san lue</title>
                         <note source="290">(清)袁三俊撰</note>
-                        <author><persName>(清)袁三俊</persName><persName type="9">yuan san
+                        <author key="person_5615"><persName>(清)袁三俊</persName><persName type="9">yuan san
                               jun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 19970320/14:10:46|osn -->
@@ -182,7 +182,7 @@
                         <title>印章考 ^一卷^</title>
                         <title source="9">yin zhang kao</title>
                         <note source="290">(清)方以智輯</note>
-                        <author><persName>(清)方以智</persName><persName type="9">fang yi
+                        <author key="person_4293"><persName>(清)方以智</persName><persName type="9">fang yi
                            zhi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 19970320/14:12:58|osn -->
@@ -193,7 +193,7 @@
                         <title>敦好堂論印 ^一卷^</title>
                         <title source="9">dun hao tang lun yin</title>
                         <note source="290">(清)吳先聲撰</note>
-                        <author><persName>(清)吳先聲</persName><persName type="9">wu xian
+                        <author key="person_3538"><persName>(清)吳先聲</persName><persName type="9">wu xian
                               sheng</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 19970320/14:15:51|osn -->
@@ -204,7 +204,7 @@
                         <title>說篆 ^一卷^</title>
                         <title source="9">shuo zhuan</title>
                         <note source="290">(清)許容撰</note>
-                        <author><persName>(清)許容</persName><persName type="9">xu
+                        <author key="person_5656"><persName>(清)許容</persName><persName type="9">xu
                            rong</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 19970320/14:16:54|osn -->
@@ -215,7 +215,7 @@
                         <title>印辨 ^一卷^</title>
                         <title source="9">yin bian</title>
                         <note source="290">(清)高積厚撰</note>
-                        <author><persName>(清)高積厚</persName><persName type="9">gao ji
+                        <author key="person_6307"><persName>(清)高積厚</persName><persName type="9">gao ji
                            hou</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 19970320/14:18:04|osn -->
@@ -226,7 +226,7 @@
                         <title>印述 ^一卷^</title>
                         <title source="9">yin shu</title>
                         <note source="290">(清)高積厚撰</note>
-                        <author><persName>(清)高積厚</persName><persName type="9">gao ji
+                        <author key="person_6307"><persName>(清)高積厚</persName><persName type="9">gao ji
                            hou</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 19970320/14:18:35|osn -->
@@ -237,7 +237,7 @@
                         <title>印戔說 ^一卷^</title>
                         <title source="9">yin jian shuo</title>
                         <note source="290">(清)徐堅撰</note>
-                        <author><persName>(清)徐堅</persName><persName type="9">xu
+                        <author key="person_4164"><persName>(清)徐堅</persName><persName type="9">xu
                            jian</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 19970320/14:20:55|osn -->
@@ -248,7 +248,7 @@
                         <title>六書緣起 ^一卷^</title>
                         <title source="9">liu shu yuan qi</title>
                         <note source="290">(清)孫光祖纂</note>
-                        <author><persName>(清)孫光祖</persName><persName type="9">sun guang
+                        <author key="person_3834"><persName>(清)孫光祖</persName><persName type="9">sun guang
                               zu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 19970320/14:22:26|osn -->
@@ -259,7 +259,7 @@
                         <title>古今印制 ^一卷^</title>
                         <title source="9">gu jin yin zhi</title>
                         <note source="290">(清)孫光祖撰</note>
-                        <author><persName>(清)孫光祖</persName><persName type="9">sun guang
+                        <author key="person_3834"><persName>(清)孫光祖</persName><persName type="9">sun guang
                               zu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 19970320/14:23:30|osn -->
@@ -270,7 +270,7 @@
                         <title>篆印發微 ^一卷^</title>
                         <title source="9">zhuan yin fa wei</title>
                         <note source="290">(清)孫光祖撰</note>
-                        <author><persName>(清)孫光祖</persName><persName type="9">sun guang
+                        <author key="person_3834"><persName>(清)孫光祖</persName><persName type="9">sun guang
                               zu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 19970320/14:24:22|osn -->
@@ -281,7 +281,7 @@
                         <title>古印考略 ^一卷^</title>
                         <title source="9">gu yin kao lue</title>
                         <note source="290">(清)夏一駒撰</note>
-                        <author><persName>(清)夏一駒</persName><persName type="9">xia yi
+                        <author key="person_3767"><persName>(清)夏一駒</persName><persName type="9">xia yi
                            ju</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 19970320/14:25:29|osn -->
@@ -296,7 +296,7 @@
                         <title>重定續三十五舉 ^一卷^</title>
                         <title source="9">chong ding xu san shi wu ju</title>
                         <note source="290">(清)桂馥撰</note>
-                        <author><persName>(清)桂馥</persName><persName type="9">gui
+                        <author key="person_4623"><persName>(清)桂馥</persName><persName type="9">gui
                            fu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 19970320/14:28:51|osn -->
@@ -307,7 +307,7 @@
                         <title>印說 ^一卷^</title>
                         <title source="9">yin shuo</title>
                         <note source="290">(清)陳鍊撰</note>
-                        <author><persName>(清)陳鍊</persName><persName type="9">chen
+                        <author key="person_6116"><persName>(清)陳鍊</persName><persName type="9">chen
                            lian</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 19970320/14:40:14|osn -->
@@ -318,7 +318,7 @@
                         <title>印言 ^一卷^</title>
                         <title source="9">yin yan</title>
                         <note source="290">(清)陳鍊撰</note>
-                        <author><persName>(清)陳鍊</persName><persName type="9">chen
+                        <author key="person_6116"><persName>(清)陳鍊</persName><persName type="9">chen
                            lian</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 19970320/14:43:14|osn -->
@@ -329,7 +329,7 @@
                         <title>論印絕句 ^一卷^</title>
                         <title source="9">lun yin jue ju</title>
                         <note source="290">(清)吳騫輯</note>
-                        <author><persName>(清)吳騫</persName><persName type="9">wu
+                        <author key="person_3648"><persName>(清)吳騫</persName><persName type="9">wu
                            qian</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 19970320/14:47:29|osn -->
@@ -340,7 +340,7 @@
                         <title>印學管見 ^一卷^</title>
                         <title source="9">yin xue guan jian</title>
                         <note source="290">(清)馮承輝撰</note>
-                        <author><persName>(清)馮承輝</persName><persName type="9">feng cheng
+                        <author key="person_6273"><persName>(清)馮承輝</persName><persName type="9">feng cheng
                               hui</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 19970320/14:48:46|osn -->
@@ -351,7 +351,7 @@
                         <title>印人傳 ^三卷^</title>
                         <title source="9">yin ren zhuan</title>
                         <note source="290">(清)周亮工撰</note>
-                        <author><persName>(清)周亮工</persName><persName type="9">zhou liang
+                        <author key="person_3671"><persName>(清)周亮工</persName><persName type="9">zhou liang
                               gong</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 19970320/14:50:22|osn -->
@@ -362,7 +362,7 @@
                         <title>續印人傳 ^八卷^</title>
                         <title source="9">xu yin ren zhuan</title>
                         <note source="290">(清)汪啟淑撰</note>
-                        <author><persName>(清)汪啟淑</persName><persName type="9">wang qi
+                        <author key="person_4784"><persName>(清)汪啟淑</persName><persName type="9">wang qi
                            shu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 19970320/14:52:15|osn -->

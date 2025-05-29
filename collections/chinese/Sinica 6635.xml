@@ -51,13 +51,13 @@
                      <title source="#200">燕禧堂五種</title>
                      <title source="#200|9">yan xi tang wu zhong</title>
                      <note source="#290">(清)任大椿撰</note>
-                     <author source="#300"><persName>(清)任大椿</persName><persName type="9">ren da
+                     <author source="#300" key="person_3286"><persName>(清)任大椿</persName><persName type="9">ren da
                            chun</persName></author>
                      <note source="#409">清乾隆中刊本</note>
                      <msItem n="1">
                         <title>字林考逸 ^八卷^</title>
                         <title source="9">zi lin kao yi</title>
-                        <author><persName>(清)任大椿</persName><persName type="9">ren da
+                        <author key="person_3286"><persName>(清)任大椿</persName><persName type="9">ren da
                            chun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180518/21:02:22|odh -->
@@ -68,9 +68,9 @@
                         <title source="9">lie zi shi wen</title>
                         <note source="290">(唐)殷敬順撰</note>
                         <note source="290">(宋)陳景元補遺</note>
-                        <author><persName>(唐)殷敬順</persName><persName type="9">yin jing
+                        <author key="person_742"><persName>(唐)殷敬順</persName><persName type="9">yin jing
                               shun</persName></author>
-                        <author><persName>(宋)陳景元</persName><persName type="9">chen jing
+                        <author key="person_1756"><persName>(宋)陳景元</persName><persName type="9">chen jing
                               yuan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180518/21:07:13|odh -->
@@ -79,7 +79,7 @@
                      <msItem n="3">
                         <title>列子釋文考異 ^一卷^</title>
                         <title source="9">lie zi shi wen kao yi</title>
-                        <author><persName>(清)任大椿</persName><persName type="9">ren da
+                        <author key="person_3286"><persName>(清)任大椿</persName><persName type="9">ren da
                            chun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180518/21:08:03|odh -->
@@ -89,7 +89,7 @@
                      <msItem n="4">
                         <title>深衣釋例 ^三卷^</title>
                         <title source="9">shen yi shi li</title>
-                        <author><persName>(清)任大椿</persName><persName type="9">ren da
+                        <author key="person_3286"><persName>(清)任大椿</persName><persName type="9">ren da
                            chun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180518/21:04:01|odh -->
@@ -99,7 +99,7 @@
                      <msItem n="5">
                         <title>釋繒 ^一卷^</title>
                         <title source="9">shi zeng</title>
-                        <author><persName>(清)任大椿</persName><persName type="9">ren da
+                        <author key="person_3286"><persName>(清)任大椿</persName><persName type="9">ren da
                            chun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180518/21:09:29|odh -->

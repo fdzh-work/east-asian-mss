@@ -52,7 +52,7 @@
                      <title source="#200">對樹書室叢刻</title>
                      <title source="#200|9">dui shu shu shi cong ke</title>
                      <note source="#290">(民國)趙詒琛編</note>
-                     <author source="#300"><persName>(民國)趙詒琛</persName><persName type="9">zhao yi
+                     <author source="#300" key="person_3189"><persName>(民國)趙詒琛</persName><persName type="9">zhao yi
                            chen</persName></author>
                      <note source="#409">民國崑山趙氏對樹書室刊1986年江蘇廣陵古籍刻印社重印本</note>
                      <editor source="#440" role="pbl"><persName>對樹書室</persName><persName type="9" role="pbl">dui shu shu shi</persName></editor>
@@ -62,7 +62,7 @@
                         <title>元史弼違 ^二卷^</title>
                         <title source="9">yuan shi bi wei</title>
                         <note source="290">(明)周復俊撰</note>
-                        <author><persName>(明)周復俊</persName><persName type="9">zhou fu
+                        <author key="person_2087"><persName>(明)周復俊</persName><persName type="9">zhou fu
                            jun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00000519|ons -->
@@ -72,7 +72,7 @@
                         <title>草莽私乘 ^一卷附刻一卷^</title>
                         <title source="9">cao mang si sheng</title>
                         <note source="290">(元)陶宗儀輯</note>
-                        <author><persName>(元)陶宗儀</persName><persName type="9">tao zong
+                        <author key="person_314"><persName>(元)陶宗儀</persName><persName type="9">tao zong
                            yi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00000520|ons -->
@@ -84,7 +84,7 @@
                         <title>爨龍顏碑考釋 ^一卷^</title>
                         <title source="9">cuan long yan bei kao shi</title>
                         <note source="290">(民國)趙詒琛輯</note>
-                        <author><persName>(民國)趙詒琛</persName><persName type="9">zhao yi
+                        <author key="person_3189"><persName>(民國)趙詒琛</persName><persName type="9">zhao yi
                               chen</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00000521|ons -->
@@ -96,7 +96,7 @@
                         <title>怡松軒金石偶記 ^一卷^</title>
                         <title source="9">yi song xuan jin shi ou ji</title>
                         <note source="290">陳洙輯</note>
-                        <author><persName>陳洙</persName><persName type="9">chen
+                        <author key="person_7194"><persName>陳洙</persName><persName type="9">chen
                            zhu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00000522|ons -->
@@ -108,7 +108,7 @@
                         <title>顧千里先生年譜 ^二卷^</title>
                         <title source="9">gu qian li xian sheng nian pu</title>
                         <note source="290">(民國)趙詒琛撰</note>
-                        <author><persName>(民國)趙詒琛</persName><persName type="9">zhao yi
+                        <author key="person_3189"><persName>(民國)趙詒琛</persName><persName type="9">zhao yi
                               chen</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00000523|ons -->
@@ -120,7 +120,7 @@
                         <title>龔安節公野古集 ^三卷^</title>
                         <title source="9">gong an jie gong ye gu ji</title>
                         <note source="290">(明)龔詡撰</note>
-                        <author><persName>(明)龔詡</persName><persName type="9">gong
+                        <author key="person_2838"><persName>(明)龔詡</persName><persName type="9">gong
                            xu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00000524|ons -->

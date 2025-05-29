@@ -52,7 +52,7 @@
                      <title source="#200">梅邨先生樂府三種</title>
                      <title source="#200|9">mei cun xian sheng yue fu san zhong</title>
                      <note source="#290">(清)灌隱主人撰</note>
-                     <author source="#300"><persName>(清)吳偉業</persName><persName type="9">wu wei
+                     <author source="#300" key="person_3532"><persName>(清)吳偉業</persName><persName type="9">wu wei
                            ye</persName></author>
                      <note source="#409">民國丙辰[1916]武進董康刊一九八八年[?]北京市中國書店重印本殘損版以影印配補</note>
                      <editor source="#440" role="pbl"><persName>中國書店</persName><persName type="9" role="pbl">zhong guo shu dian</persName></editor>
@@ -61,7 +61,7 @@
                         <title source="9">mo ling chun chuan qi</title>
                         <title type="variant">雙影記</title>
                         <title source="9" type="variant">shuang ying ji</title>
-                        <author><persName>(清)吳偉業</persName><persName type="9">wu wei
+                        <author key="person_3532"><persName>(清)吳偉業</persName><persName type="9">wu wei
                            ye</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20200127/13:25:46|odh -->
@@ -71,7 +71,7 @@
                      <msItem n="2">
                         <title>臨春閣 ^一卷^</title>
                         <title source="9">lin chun ge</title>
-                        <author><persName>(清)吳偉業</persName><persName type="9">wu wei
+                        <author key="person_3532"><persName>(清)吳偉業</persName><persName type="9">wu wei
                            ye</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20200127/13:26:29|odh -->
@@ -80,7 +80,7 @@
                      <msItem n="3">
                         <title>通天臺 ^一卷^</title>
                         <title source="9">tong tian tai</title>
-                        <author><persName>(清)吳偉業</persName><persName type="9">wu wei
+                        <author key="person_3532"><persName>(清)吳偉業</persName><persName type="9">wu wei
                            ye</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20200127/13:27:44|odh -->

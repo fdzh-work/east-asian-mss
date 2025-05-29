@@ -52,7 +52,7 @@
                      <title source="#200">初月樓四種</title>
                      <title source="#200|9">chu yue lou si zhong</title>
                      <note source="#290">(清)吳德旋撰</note>
-                     <author source="#300"><persName>(清)吳德旋</persName><persName type="9">wu de
+                     <author source="#300" key="person_3571"><persName>(清)吳德旋</persName><persName type="9">wu de
                            xuan</persName></author>
                   </msItem>
                </msContents>
@@ -98,7 +98,7 @@
                      <msItem>
                         <title>初月樓文鈔 ^十卷^</title>
                         <title source="9">chu yue lou wen chao</title>
-                        <author><persName>(清)吳德旋</persName><persName type="9">wu de
+                        <author key="person_3571"><persName>(清)吳德旋</persName><persName type="9">wu de
                            xuan</persName></author>
                         <note source="600">光緒壬午[1882]刊</note>
                      </msItem>
@@ -124,7 +124,7 @@
                      <msItem>
                         <title>初月樓文續鈔 ^八卷^</title>
                         <title source="9">chu yue lou wen xu chao</title>
-                        <author><persName>(清)吳德旋</persName><persName type="9">wu de
+                        <author key="person_3571"><persName>(清)吳德旋</persName><persName type="9">wu de
                            xuan</persName></author>
                      </msItem>
                   </msContents>
@@ -149,7 +149,7 @@
                      <msItem>
                         <title>初月樓詩鈔 ^四卷^</title>
                         <title source="9">chu yue lou shi chao</title>
-                        <author><persName>(清)吳德旋</persName><persName type="9">wu de
+                        <author key="person_3571"><persName>(清)吳德旋</persName><persName type="9">wu de
                            xuan</persName></author>
                      </msItem>
                   </msContents>
@@ -176,9 +176,9 @@
                         <title source="9">chu yue lou gu wen xu lun</title>
                         <note source="290">(清)吳德旋述</note>
                         <note source="290">(清)呂璜纂</note>
-                        <author><persName>(清)吳德旋</persName><persName type="9">wu de
+                        <author key="person_3571"><persName>(清)吳德旋</persName><persName type="9">wu de
                            xuan</persName></author>
-                        <author><persName>(清)呂璜</persName><persName type="9">lu
+                        <author key="person_3661"><persName>(清)呂璜</persName><persName type="9">lu
                            huang</persName></author>
                      </msItem>
                   </msContents>
@@ -204,7 +204,7 @@
                         <title>程子香文鈔 ^二卷^</title>
                         <title source="9">zheng zi xiang wen chao</title>
                         <note source="290">(清)程德賚撰</note>
-                        <author><persName>(清)程德賚</persName><persName type="9">cheng de
+                        <author key="person_5258"><persName>(清)程德賚</persName><persName type="9">cheng de
                               lai</persName></author>
                         <note source="600">光緒八[1882]年刊</note>
                      </msItem>

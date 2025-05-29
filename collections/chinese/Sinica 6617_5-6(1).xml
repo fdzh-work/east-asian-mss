@@ -54,9 +54,9 @@
                      <title source="#200|9">yuan yi shan xian sheng ji</title>
                      <note source="#290">(金)元好問撰</note>
                      <note source="#290">(清)張穆校</note>
-                     <author source="#300"><persName>(金)元好問</persName><persName type="9">yuan hao
+                     <author source="#300" key="person_6651"><persName>(金)元好問</persName><persName type="9">yuan hao
                            wen</persName></author>
-                     <author source="#300"><persName>(清)張穆</persName><persName type="9">zhang
+                     <author source="#300" key="person_4085"><persName>(清)張穆</persName><persName type="9">zhang
                            mu</persName></author>
                      <note source="#600">清光緒三十一年[1905]江寧刊</note>
                   </msItem>
@@ -64,21 +64,21 @@
                      <title source="#201">^附^ 元遺山先生年譜 ^一卷^</title>
                      <title source="#201|9">yuan yi shan xian sheng nian pu</title>
                      <note source="#291">(清)施國祁撰</note>
-                     <author source="#301"><persName>(清)施國祁</persName><persName type="9">shi guo
+                     <author source="#301" key="person_4327"><persName>(清)施國祁</persName><persName type="9">shi guo
                            qi</persName></author>
                   </msItem>
                   <msItem n="3">
                      <title source="#202">元遺山先生年譜 ^二卷^</title>
                      <title source="#202|9">yuan yi shan xian sheng nian pu</title>
                      <note source="#292">(清)淩廷堪撰</note>
-                     <author source="#302"><persName>(清)淩廷堪</persName><persName type="9">ling ting
+                     <author source="#302" key="person_4935"><persName>(清)淩廷堪</persName><persName type="9">ling ting
                            kan</persName></author>
                   </msItem>
                   <msItem n="4">
                      <title source="#203">元遺山先生年譜 ^一卷^</title>
                      <title source="#203|9">yuan yi shan xian sheng nian pu</title>
                      <note source="#293">(清)翁方綱撰</note>
-                     <author source="#303"><persName>(清)翁方綱</persName><persName type="9">weng fang
+                     <author source="#303" key="person_5340"><persName>(清)翁方綱</persName><persName type="9">weng fang
                            gang</persName></author>
                   </msItem>
                </msContents>

@@ -51,13 +51,13 @@
                      <title source="#200">杭大宗七種叢書</title>
                      <title source="#200|9">hang da zong qi zhong cong shu</title>
                      <note source="#290">(清)杭世駿撰</note>
-                     <author source="#300"><persName>(清)杭世駿</persName><persName type="9">hang shi
+                     <author source="#300" key="person_4574"><persName>(清)杭世駿</persName><persName type="9">hang shi
                            jun</persName></author>
                      <note source="#409">清乾隆中杭賓仁羊城刊本</note>
                      <msItem n="1">
                         <title>諸史然疑 ^一卷^</title>
                         <title source="9">zhu shi ran yi</title>
-                        <author><persName>(清)杭世駿</persName><persName type="9">hang shi
+                        <author key="person_4574"><persName>(清)杭世駿</persName><persName type="9">hang shi
                               jun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20171025/00000008|odh -->
@@ -68,7 +68,7 @@
                         <title source="9">han shu meng shi</title>
                         <title>後漢書蒙拾 ^二卷^</title>
                         <title source="9">hou han shu meng shi</title>
-                        <author><persName>(清)杭世駿</persName><persName type="9">hang shi
+                        <author key="person_4574"><persName>(清)杭世駿</persName><persName type="9">hang shi
                               jun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20171025/00000009|odh -->
@@ -77,7 +77,7 @@
                      <msItem n="3">
                         <title>石經考異 ^二卷^</title>
                         <title source="9">shi jing kao yi</title>
-                        <author><persName>(清)杭世駿</persName><persName type="9">hang shi
+                        <author key="person_4574"><persName>(清)杭世駿</persName><persName type="9">hang shi
                               jun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20171025/00000010|odh -->
@@ -86,7 +86,7 @@
                      <msItem n="4">
                         <title>續方言 ^二卷^</title>
                         <title source="9">xu fang yan</title>
-                        <author><persName>(清)杭世駿</persName><persName type="9">hang shi
+                        <author key="person_4574"><persName>(清)杭世駿</persName><persName type="9">hang shi
                               jun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20171025/00000011|odh -->
@@ -95,7 +95,7 @@
                      <msItem n="5">
                         <title>晉書補傳贊 ^一卷^</title>
                         <title source="9">jin shu bu zhuan</title>
-                        <author><persName>(清)杭世駿</persName><persName type="9">hang shi
+                        <author key="person_4574"><persName>(清)杭世駿</persName><persName type="9">hang shi
                               jun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20171025/00000012|odh -->
@@ -104,7 +104,7 @@
                      <msItem n="6">
                         <title>文選課虛 ^四卷^</title>
                         <title source="9">wen xuan ke xu</title>
-                        <author><persName>(清)杭世駿</persName><persName type="9">hang shi
+                        <author key="person_4574"><persName>(清)杭世駿</persName><persName type="9">hang shi
                               jun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20171025/00000013|odh -->
@@ -114,7 +114,7 @@
                      <msItem n="7">
                         <title>榕城詩話 ^三卷^</title>
                         <title source="9">rong cheng shi hua</title>
-                        <author><persName>(清)杭世駿</persName><persName type="9">hang shi
+                        <author key="person_4574"><persName>(清)杭世駿</persName><persName type="9">hang shi
                               jun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20171025/00000014|odh -->

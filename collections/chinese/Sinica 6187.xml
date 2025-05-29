@@ -56,14 +56,14 @@
                      <title source="#200">辨訛攷異 ^四卷^</title>
                      <title source="#200|9">bian e kao yi</title>
                      <note source="#290">(清)胡鳳丹編</note>
-                     <author source="#300"><persName>(清)胡鳳丹</persName><persName type="9">hu feng
+                     <author source="#300" key="person_5389"><persName>(清)胡鳳丹</persName><persName type="9">hu feng
                            dan</persName></author>
                      <note source="#409">清同治九年[1870]永康胡氏退補齋刊本</note>
                      <msItem n="1">
                         <title>陶彭澤集 ^六卷^</title>
                         <title source="9">tao peng ze ji</title>
                         <note source="290">(晉)陶潛撰</note>
-                        <author><persName>(晉)陶潛</persName><persName type="9">tao
+                        <author key="person_2997"><persName>(晉)陶潛</persName><persName type="9">tao
                            qian</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20141222/14:54:54|odh -->
@@ -73,7 +73,7 @@
                         <title>謝宣城集 ^五卷^</title>
                         <title source="9">xie xuan cheng ji</title>
                         <note source="290">(南齊)謝朓撰</note>
-                        <author><persName>(南齊)謝朓</persName><persName type="9">xie
+                        <author key="person_445"><persName>(南齊)謝朓</persName><persName type="9">xie
                            tiao</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20141222/14:56:12|odh -->
@@ -83,7 +83,7 @@
                         <title>鮑參軍集 ^二卷^</title>
                         <title source="9">bao can jun ji</title>
                         <note source="290">(劉宋)鮑照撰</note>
-                        <author><persName>(劉宋)鮑照</persName><persName type="9">bao
+                        <author key="person_388"><persName>(劉宋)鮑照</persName><persName type="9">bao
                            zhao</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20141222/14:57:38|odh -->
@@ -93,7 +93,7 @@
                         <title>庾開府集 ^二卷^</title>
                         <title source="9">yu kai fu ji</title>
                         <note source="290">(北周)庾信撰</note>
-                        <author><persName>(北周)庾信</persName><persName type="9">yu
+                        <author key="person_396"><persName>(北周)庾信</persName><persName type="9">yu
                            xin</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20141222/14:59:11|odh -->

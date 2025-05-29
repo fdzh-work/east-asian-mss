@@ -53,9 +53,9 @@
                      <title source="#200|9">liu tao</title>
                      <note source="#290">(周)呂望撰</note>
                      <note source="#290">(清)孫星衍校</note>
-                     <author source="#300"><persName>(周)呂望</persName><persName type="9">lu
+                     <author source="#300" key="person_485"><persName>(周)呂望</persName><persName type="9">lu
                            wang</persName></author>
-                     <author source="#300"><persName>(清)孫星衍</persName><persName type="9">sun xing
+                     <author source="#300" key="person_3855"><persName>(清)孫星衍</persName><persName type="9">sun xing
                            yan</persName></author>
                      <note source="#600">嘉慶十年[1805]刊</note>
                   </msItem>
@@ -63,7 +63,7 @@
                      <title source="#201">六韜逸文 ^一卷^</title>
                      <title source="#201|9">liu tao yi wen</title>
                      <note source="#291">(清)孫同元輯</note>
-                     <author source="#301"><persName>(清)孫同元</persName><persName type="9">sun tong
+                     <author source="#301" key="person_3835"><persName>(清)孫同元</persName><persName type="9">sun tong
                            yuan</persName></author>
                   </msItem>
                </msContents>

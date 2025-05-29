@@ -55,11 +55,11 @@
                      <note source="#290">(漢)宋衷注</note>
                      <note source="#290">(清)孫馮翼集錄</note>
                      <note source="#290">(清)陳其榮增訂</note>
-                     <author source="#300"><persName>(漢)宋衷</persName><persName type="9">song
+                     <author source="#300" key="person_6517"><persName>(漢)宋衷</persName><persName type="9">song
                            zhong</persName></author>
-                     <author source="#300"><persName>(清)孫馮翼</persName><persName type="9">sun feng
+                     <author source="#300" key="person_3883"><persName>(清)孫馮翼</persName><persName type="9">sun feng
                            yi</persName></author>
-                     <author source="#300"><persName>(清)陳其榮</persName><persName type="9">chen qi
+                     <author source="#300" key="person_6012"><persName>(清)陳其榮</persName><persName type="9">chen qi
                            rong</persName></author>
                      <note source="#600">光緒丁亥[1887]刊</note>
                   </msItem>
@@ -67,7 +67,7 @@
                      <title source="#201">世本攷證 ^一卷^</title>
                      <title source="#201|9">shi ben kao zheng</title>
                      <note source="#291">(清)陳其榮撰</note>
-                     <author source="#301"><persName>(清)陳其榮</persName><persName type="9">chen qi
+                     <author source="#301" key="person_6012"><persName>(清)陳其榮</persName><persName type="9">chen qi
                            rong</persName></author>
                   </msItem>
                </msContents>

@@ -52,14 +52,14 @@
                      <title source="#200">趙待制遺稿 ^一卷^</title>
                      <title source="#200|9">zhao dai zhi yi gao</title>
                      <note source="#290">(元)趙雍撰</note>
-                     <author source="#300"><persName>(元)趙雍</persName><persName type="9">zhao
+                     <author source="#300" key="person_283"><persName>(元)趙雍</persName><persName type="9">zhao
                            yong</persName></author>
                   </msItem>
                   <msItem n="2">
                      <title source="#201">^附^ 王國器詞 ^一卷^</title>
                      <title source="#201|9">wang guo qi ci</title>
                      <note source="#291">(元)王國器撰</note>
-                     <author source="#301"><persName>(元)王國器</persName><persName type="9">wang guo
+                     <author source="#301" key="person_206"><persName>(元)王國器</persName><persName type="9">wang guo
                            qi</persName></author>
                   </msItem>
                </msContents>

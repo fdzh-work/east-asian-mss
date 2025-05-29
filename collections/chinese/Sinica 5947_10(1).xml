@@ -53,12 +53,12 @@
                      <title source="#200">張氏四種</title>
                      <title source="#200|9">zhang shi si zhong</title>
                      <note source="#290">(明)張丑撰</note>
-                     <author source="#300"><persName>(明)張丑</persName><persName type="9">zhang
+                     <author source="#300" key="person_2166"><persName>(明)張丑</persName><persName type="9">zhang
                            chou</persName></author>
                      <msItem n="1">
                         <title>南陽法書表 ^一卷^</title>
                         <title source="9">nan yang fa shu biao</title>
-                        <author><persName>(明)張丑</persName><persName type="9">zhang
+                        <author key="person_2166"><persName>(明)張丑</persName><persName type="9">zhang
                            chou</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180823/00000027|odh -->
@@ -67,7 +67,7 @@
                      <msItem n="2">
                         <title>南陽名畫表 ^一卷^</title>
                         <title source="9">nan yang ming hua biao</title>
-                        <author><persName>(明)張丑</persName><persName type="9">zhang
+                        <author key="person_2166"><persName>(明)張丑</persName><persName type="9">zhang
                            chou</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180823/00000028|odh -->
@@ -76,7 +76,7 @@
                      <msItem n="3">
                         <title>清河書畫表 ^一卷^</title>
                         <title source="9">qing he shu hua biao</title>
-                        <author><persName>(明)張丑</persName><persName type="9">zhang
+                        <author key="person_2166"><persName>(明)張丑</persName><persName type="9">zhang
                            chou</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180823/00000029|odh -->
@@ -85,7 +85,7 @@
                      <msItem n="4">
                         <title>法書名畫見聞表 ^一卷^</title>
                         <title source="9">fa shu ming hua jian wen biao</title>
-                        <author><persName>(明)張丑</persName><persName type="9">zhang
+                        <author key="person_2166"><persName>(明)張丑</persName><persName type="9">zhang
                            chou</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180823/00000030|odh -->

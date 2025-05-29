@@ -52,14 +52,14 @@
                      <title source="#200">揚州叢刻 ^殘十三種^</title>
                      <title source="#200|9">yang zhou cong ke</title>
                      <note source="#290">(民國)陳恆和編</note>
-                     <author source="#300"><persName>(民國)陳恆和</persName><persName type="9">chen heng
+                     <author source="#300" key="person_3209"><persName>(民國)陳恆和</persName><persName type="9">chen heng
                            he</persName></author>
                      <note source="#409">民國十九年[1930]至二十三年[1934]間揚州陳氏福州刊本</note>
                      <msItem n="1">
                         <title>揚州畫苑錄 ^四卷^</title>
                         <title source="9">yang zhou hua yuan lu</title>
                         <note source="290">(清)汪鋆撰</note>
-                        <author><persName>(清)汪鋆</persName><persName type="9">wang
+                        <author key="person_4826"><persName>(清)汪鋆</persName><persName type="9">wang
                            yun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20200106/15:01:18|odh -->
@@ -71,7 +71,7 @@
                         <title>揚州竹枝詞 ^一卷^</title>
                         <title source="9">yang zhou zhu zhi ci</title>
                         <note source="290">(清)董偉業撰</note>
-                        <author><persName>(清)董偉業</persName><persName type="9">dong wei
+                        <author key="person_5508"><persName>(清)董偉業</persName><persName type="9">dong wei
                            ye</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20200106/15:02:33|odh -->
@@ -83,7 +83,7 @@
                         <title>望江南百調 ^一卷^</title>
                         <title source="9">wang jiang nan bai diao</title>
                         <note source="290">(清)惺庵居士撰</note>
-                        <author><persName>(清)黃鼎銘</persName><persName type="9">huang ding
+                        <author key="person_6424"><persName>(清)黃鼎銘</persName><persName type="9">huang ding
                               ming</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20200106/15:04:00|odh -->
@@ -95,7 +95,7 @@
                         <title>瓊花集 ^五卷^</title>
                         <title source="9">qiong hua ji</title>
                         <note source="290">(明)曹璿輯</note>
-                        <author><persName>(明)曹璿</persName><persName type="9">cao
+                        <author key="person_2261"><persName>(明)曹璿</persName><persName type="9">cao
                            xuan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20200106/15:04:48|odh -->
@@ -107,7 +107,7 @@
                         <title>揚州芍藥譜 ^一卷^</title>
                         <title source="9">yang zhou shao yao pu</title>
                         <note source="290">(宋)王觀撰</note>
-                        <author><persName>(宋)王觀</persName><persName type="9">wang
+                        <author key="person_1449"><persName>(宋)王觀</persName><persName type="9">wang
                            guan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20200106/15:05:38|odh -->
@@ -129,7 +129,7 @@
                         <title>揚州萸灣勝覽 ^一卷^</title>
                         <title source="9">yang zhou yu wan sheng lan</title>
                         <note source="290">(清釋)源印輯</note>
-                        <author><persName>(清釋)源印</persName><persName type="9">yuan
+                        <author key="person_6465"><persName>(清釋)源印</persName><persName type="9">yuan
                            yin</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20200106/15:06:47|odh -->
@@ -151,7 +151,7 @@
                         <title>治下河水論 ^一卷^</title>
                         <title source="9">zhi xia he shui lun</title>
                         <note source="290">(清)張鵬翮撰</note>
-                        <author><persName>(清)張鵬翮</persName><persName type="9">zhang peng
+                        <author key="person_4131"><persName>(清)張鵬翮</persName><persName type="9">zhang peng
                               he</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20200106/15:12:40|odh -->
@@ -162,7 +162,7 @@
                         <title>洩湖水入江議 ^一卷^</title>
                         <title source="9">xie hu shui ru jiang yi</title>
                         <note source="290">(清)葉機撰</note>
-                        <author><persName>(清)葉機</persName><persName type="9">ye
+                        <author key="person_5484"><persName>(清)葉機</persName><persName type="9">ye
                            ji</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20200106/15:13:04|odh -->
@@ -173,7 +173,7 @@
                         <title>高家堰記 ^一卷^</title>
                         <title source="9">gao jia yan ji</title>
                         <note source="290">(清)俞正燮撰</note>
-                        <author><persName>(清)俞正燮</persName><persName type="9">yu zheng
+                        <author key="person_3354"><persName>(清)俞正燮</persName><persName type="9">yu zheng
                               xie</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20200106/15:13:41|odh -->
@@ -184,7 +184,7 @@
                         <title>運河水道編 ^一卷^</title>
                         <title source="9">yun he shui dao bian</title>
                         <note source="290">(清)齊召南撰</note>
-                        <author><persName>(清)齊召南</persName><persName type="9">qi zhao
+                        <author key="person_6429"><persName>(清)齊召南</persName><persName type="9">qi zhao
                            nan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20200106/15:14:11|odh -->
@@ -195,7 +195,7 @@
                         <title>揚州北湖續志 ^六卷^</title>
                         <title source="9">yang zhou bei ju xu zhi</title>
                         <note source="290">(清)阮先撰</note>
-                        <author><persName>(清)阮先</persName><persName type="9">ruan
+                        <author key="person_5989"><persName>(清)阮先</persName><persName type="9">ruan
                            xian</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20200106/15:14:48|odh -->

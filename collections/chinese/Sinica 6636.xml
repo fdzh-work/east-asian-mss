@@ -58,7 +58,7 @@
                         <title>崔府君祠祿 ^一卷^</title>
                         <title source="9">cui fu jun ci lu</title>
                         <note source="290">(清)鄭烺撰</note>
-                        <author><persName>(清)鄭烺</persName><persName type="9">zheng
+                        <author key="person_5858"><persName>(清)鄭烺</persName><persName type="9">zheng
                            lang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180521/00000001|odh -->
@@ -69,7 +69,7 @@
                         <title>瓊琚譜 ^三卷^</title>
                         <title source="9">qiong ju pu</title>
                         <note source="290">(明)姜紹書撰</note>
-                        <author><persName>(明)姜紹書</persName><persName type="9">jiang shao
+                        <author key="person_2126"><persName>(明)姜紹書</persName><persName type="9">jiang shao
                               shu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180521/00000002|odh -->
@@ -80,7 +80,7 @@
                         <title>我信錄 ^二卷^</title>
                         <title source="9">wo xin lu</title>
                         <note source="290">(清)羅聘撰</note>
-                        <author><persName>(清)羅聘</persName><persName type="9">luo
+                        <author key="person_5332"><persName>(清)羅聘</persName><persName type="9">luo
                            pin</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180521/00000003|odh -->
@@ -91,7 +91,7 @@
                         <title>花部農譚 ^一卷^</title>
                         <title source="9">hua bu nong tan</title>
                         <note source="290">(清)焦循撰</note>
-                        <author><persName>(清)焦循</persName><persName type="9">jiao
+                        <author key="person_4986"><persName>(清)焦循</persName><persName type="9">jiao
                            xun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180521/00000004|odh -->
@@ -102,7 +102,7 @@
                         <title>兩般秋雨庵詩選 ^一卷^</title>
                         <title source="9">liang ban qiu yu an shi xuan</title>
                         <note source="290">(清)梁紹壬撰</note>
-                        <author><persName>(清)梁紹壬</persName><persName type="9">liang shao
+                        <author key="person_4642"><persName>(清)梁紹壬</persName><persName type="9">liang shao
                               ren</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180521/00000005|odh -->
@@ -113,7 +113,7 @@
                         <title>張家口至烏里雅蘇台竹枝詞 ^一卷^</title>
                         <title source="9">zhang jia kou zhi wu li ya su tai zhu zhi ci</title>
                         <note source="290">(清)志銳撰</note>
-                        <author><persName>(清)志銳</persName><persName type="9">zhi
+                        <author key="person_4238"><persName>(清)志銳</persName><persName type="9">zhi
                            rui</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180521/00000006|odh -->
@@ -124,7 +124,7 @@
                         <title>無益有益齋論畫詩 ^二卷^</title>
                         <title source="9">wu yi you yi zhai lun hua shi</title>
                         <note source="290">(清)李葆恂撰</note>
-                        <author><persName>(清)李葆恂</persName><persName type="9">li bao
+                        <author key="person_4535"><persName>(清)李葆恂</persName><persName type="9">li bao
                            xun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180521/00000007|odh -->
@@ -135,7 +135,7 @@
                         <title>梡鞠錄 ^二卷^</title>
                         <title source="9">kuan ju lu</title>
                         <note source="290">(民國)朱祖謀編</note>
-                        <author><persName>(民國)朱祖謀</persName><persName type="9">zhu zu
+                        <author key="person_3126"><persName>(民國)朱祖謀</persName><persName type="9">zhu zu
                            mou</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180521/00000008|odh -->
@@ -146,7 +146,7 @@
                         <title>念宛齋詞鈔 ^一卷^</title>
                         <title source="9">nian wan zhai ci chao</title>
                         <note source="290">(清)左輔撰</note>
-                        <author><persName>(清)左輔</persName><persName type="9">zuo
+                        <author key="person_3953"><persName>(清)左輔</persName><persName type="9">zuo
                            fu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180521/00000009|odh -->
@@ -157,7 +157,7 @@
                         <title>海漚漁唱 ^一卷^</title>
                         <title source="9">hai ou yu chang</title>
                         <note source="290">(清)吳豐本撰</note>
-                        <author><persName>(清)吳豐本</persName><persName type="9">wu feng
+                        <author key="person_3629"><persName>(清)吳豐本</persName><persName type="9">wu feng
                            ben</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180521/00000010|odh -->
@@ -168,7 +168,7 @@
                         <title>雲起軒詞鈔 ^一卷^</title>
                         <title source="9">yun qi xuan ci chao</title>
                         <note source="290">(清)文廷式撰</note>
-                        <author><persName>(清)文廷式</persName><persName type="9">wen ting
+                        <author key="person_4287"><persName>(清)文廷式</persName><persName type="9">wen ting
                               shi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180521/00000011|odh -->
@@ -179,7 +179,7 @@
                         <title>新聲譜 ^一卷^</title>
                         <title source="9">xin sheng pu</title>
                         <note source="290">(清)朱和羲輯</note>
-                        <author><persName>(清)朱和羲</persName><persName type="9">zhu he
+                        <author key="person_4383"><persName>(清)朱和羲</persName><persName type="9">zhu he
                            xi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180521/00000012|odh -->

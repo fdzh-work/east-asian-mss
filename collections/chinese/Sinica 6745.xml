@@ -56,7 +56,7 @@
                      <title source="#200">續附十種</title>
                      <title source="#200|9">xu fu shi zhong</title>
                      <note source="#290">(清)鍾謙鈞等輯</note>
-                     <author source="#300"><persName>(清)鍾謙鈞</persName><persName type="9">zhong qian
+                     <author source="#300" key="person_5964"><persName>(清)鍾謙鈞</persName><persName type="9">zhong qian
                            jun</persName></author>
                      <note source="#409">清光緒戊子[1888]上海蜚英館石印本</note>
                      <editor source="#440" role="pbl"><persName>蜚英館</persName><persName type="9" role="pbl">fei ying guan</persName></editor>
@@ -64,7 +64,7 @@
                         <title>字林考逸 ^八卷^</title>
                         <title source="9">zi lin kao yi</title>
                         <note source="290">(清)任大椿撰</note>
-                        <author><persName>(清)任大椿</persName><persName type="9">ren da
+                        <author key="person_3286"><persName>(清)任大椿</persName><persName type="9">ren da
                            chun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20181016/00000046|odh -->
@@ -130,20 +130,20 @@
                         <note source="290">(宋)王應麟撰集</note>
                         <note source="290">(清)惠棟增補</note>
                         <note source="290">(清)孫堂重校</note>
-                        <author><persName>(漢)鄭玄</persName><persName type="9">zheng
+                        <author key="person_6609"><persName>(漢)鄭玄</persName><persName type="9">zheng
                            xuan</persName></author>
-                        <author><persName>(宋)王應麟</persName><persName type="9">wang ying
+                        <author key="person_1423"><persName>(宋)王應麟</persName><persName type="9">wang ying
                               lin</persName></author>
-                        <author><persName>(清)惠棟</persName><persName type="9">hui
+                        <author key="person_4245"><persName>(清)惠棟</persName><persName type="9">hui
                            dong</persName></author>
-                        <author><persName>(清)孫堂</persName><persName type="9">sun
+                        <author key="person_3838"><persName>(清)孫堂</persName><persName type="9">sun
                            tang</persName></author>
                      </msItem>
                      <msItem n="2">
                         <title>鄭氏周易注補遺^一卷^</title>
                         <title type="9">zheng shi zhou yi zhu bu yi</title>
                         <note source="#291">(清)孫堂撰</note>
-                        <author><persName>(清)孫堂</persName><persName type="9">sun
+                        <author key="person_3838"><persName>(清)孫堂</persName><persName type="9">sun
                            tang</persName></author>
                      </msItem>
                   </msContents>
@@ -172,11 +172,11 @@
                         <note source="290">(吳)陸績撰</note>
                         <note source="290">(明)姚士麟輯</note>
                         <note source="290">(清)孫堂增補</note>
-                        <author><persName>(吳)陸績</persName><persName type="9">lu
+                        <author key="person_472"><persName>(吳)陸績</persName><persName type="9">lu
                            ji</persName></author>
-                        <author><persName>(明)姚士麟</persName><persName type="9">yao shi
+                        <author key="person_2120"><persName>(明)姚士麟</persName><persName type="9">yao shi
                            lin</persName></author>
-                        <author><persName>(清)孫堂</persName><persName type="9">sun
+                        <author key="person_3838"><persName>(清)孫堂</persName><persName type="9">sun
                            tang</persName></author>
                      </msItem>
                   </msContents>
@@ -202,7 +202,7 @@
                         <title>周易集解 ^十七卷^</title>
                         <title source="9">zhou yi ji jie</title>
                         <note source="290">(唐)李鼎祚撰</note>
-                        <author><persName>(唐)李鼎祚</persName><persName type="9">li ding
+                        <author key="person_714"><persName>(唐)李鼎祚</persName><persName type="9">li ding
                            zuo</persName></author>
                      </msItem>
                   </msContents>
@@ -228,7 +228,7 @@
                         <title>周易口訣義 ^六卷^</title>
                         <title source="9">zhou yi kou jue yi</title>
                         <note source="290">(唐)史徵撰</note>
-                        <author><persName>(唐)史徵</persName><persName type="9">shi
+                        <author key="person_579"><persName>(唐)史徵</persName><persName type="9">shi
                            zheng</persName></author>
                      </msItem>
                   </msContents>
@@ -254,7 +254,7 @@
                         <title>易緯八種</title>
                         <title source="9">yi wei ba zhong</title>
                         <note source="290">(漢)鄭玄注</note>
-                        <author><persName>(漢)鄭玄</persName><persName type="9">zheng
+                        <author key="person_6609"><persName>(漢)鄭玄</persName><persName type="9">zheng
                            xuan</persName></author>
                      </msItem>
                   </msContents>
@@ -282,18 +282,18 @@
                         <note source="290">(漢)伏勝撰</note>
                         <note source="290">(漢)鄭玄注</note>
                         <note source="290">(清)陳壽祺輯校</note>
-                        <author><persName>(漢)伏勝</persName><persName type="9">fu
+                        <author key="person_6479"><persName>(漢)伏勝</persName><persName type="9">fu
                            sheng</persName></author>
-                        <author><persName>(漢)鄭玄</persName><persName type="9">zheng
+                        <author key="person_6609"><persName>(漢)鄭玄</persName><persName type="9">zheng
                            xuan</persName></author>
-                        <author><persName>(清)陳壽祺</persName><persName type="9">chen shou
+                        <author key="person_6023"><persName>(清)陳壽祺</persName><persName type="9">chen shou
                               qi</persName></author>
                      </msItem>
                      <msItem n="2">
                         <title>['^附^ 尚書大傳序錄 ^一卷^</title>
                         <title type="9">shang shu da zhuan xu lu', '尚書大傳辨譌 ^一卷^</title>
                         <note source="#291">(清)陳壽祺撰</note>
-                        <author><persName>(清)陳壽祺</persName><persName type="9">chen shou
+                        <author key="person_6023"><persName>(清)陳壽祺</persName><persName type="9">chen shou
                               qi</persName></author>
                      </msItem>
                   </msContents>
@@ -321,16 +321,16 @@
                         <title source="9">han shi wai zhuan</title>
                         <note source="290">(漢)韓嬰撰</note>
                         <note source="290">(清)周廷寀校注</note>
-                        <author><persName>(漢)韓嬰</persName><persName type="9">han
+                        <author key="person_6619"><persName>(漢)韓嬰</persName><persName type="9">han
                            ying</persName></author>
-                        <author><persName>(清)周廷寀</persName><persName type="9">zhou ting
+                        <author key="person_3688"><persName>(清)周廷寀</persName><persName type="9">zhou ting
                               cai</persName></author>
                      </msItem>
                      <msItem n="2">
                         <title>韓詩外傳校注拾遺 ^一卷^</title>
                         <title type="9">han shi wai zhuan jiao zhu shi yi</title>
                         <note source="#291">(清)周宗杬輯</note>
-                        <author><persName>(清)周宗杬</persName><persName type="9">zhou zong
+                        <author key="person_3684"><persName>(清)周宗杬</persName><persName type="9">zhou zong
                               yuan</persName></author>
                      </msItem>
                   </msContents>
@@ -358,9 +358,9 @@
                         <title source="9">mao shi cao mu niao shou chong yu shu</title>
                         <note source="290">(吳)陸璣撰</note>
                         <note source="290">(清)丁晏校正</note>
-                        <author><persName>(吳)陸璣</persName><persName type="9">lu
+                        <author key="person_471"><persName>(吳)陸璣</persName><persName type="9">lu
                            ji</persName></author>
-                        <author><persName>(清)丁晏</persName><persName type="9">ding
+                        <author key="person_3254"><persName>(清)丁晏</persName><persName type="9">ding
                            yan</persName></author>
                      </msItem>
                   </msContents>
@@ -387,9 +387,9 @@
                         <title source="9">chun qiu fan lu</title>
                         <note source="290">(漢)董仲舒撰</note>
                         <note source="290">(清)盧文弨校</note>
-                        <author><persName>(漢)董仲舒</persName><persName type="9">dong zhong
+                        <author key="person_6583"><persName>(漢)董仲舒</persName><persName type="9">dong zhong
                               shu</persName></author>
-                        <author><persName>(清)盧文弨</persName><persName type="9">lu wen
+                        <author key="person_5212"><persName>(清)盧文弨</persName><persName type="9">lu wen
                            chao</persName></author>
                      </msItem>
                   </msContents>
@@ -416,11 +416,11 @@
                         <title source="9">chun qiu shi li</title>
                         <note source="290">(晉)杜預撰</note>
                         <note source="290">(清)莊述祖, (清)孫星衍同校</note>
-                        <author><persName>(晉)杜預</persName><persName type="9">du
+                        <author key="person_2913"><persName>(晉)杜預</persName><persName type="9">du
                            yu</persName></author>
-                        <author><persName>(清)莊述祖</persName><persName type="9">zhuang shu
+                        <author key="person_5438"><persName>(清)莊述祖</persName><persName type="9">zhuang shu
                               zu</persName></author>
-                        <author><persName>(清)孫星衍</persName><persName type="9">sun xing
+                        <author key="person_3855"><persName>(清)孫星衍</persName><persName type="9">sun xing
                               yan</persName></author>
                      </msItem>
                   </msContents>
@@ -446,7 +446,7 @@
                         <title>春秋啖趙集傳纂例 ^十卷^</title>
                         <title source="9">chun qiu dan zhao ji zhuan zuan li</title>
                         <note source="290">(唐)陸淳撰</note>
-                        <author><persName>(唐)陸淳</persName><persName type="9">lu
+                        <author key="person_855"><persName>(唐)陸淳</persName><persName type="9">lu
                            chun</persName></author>
                      </msItem>
                   </msContents>
@@ -472,7 +472,7 @@
                         <title>春秋微旨 ^三卷^</title>
                         <title source="9">chun qiu wei zhi</title>
                         <note source="290">(唐)陸淳撰</note>
-                        <author><persName>(唐)陸淳</persName><persName type="9">lu
+                        <author key="person_855"><persName>(唐)陸淳</persName><persName type="9">lu
                            chun</persName></author>
                      </msItem>
                   </msContents>
@@ -498,7 +498,7 @@
                         <title>春秋啖趙二先生集傳辯疑 ^十卷^</title>
                         <title source="9">chun qiu dan zhao er xian sheng ji zhuan bian yi</title>
                         <note source="290">(唐)陸淳撰</note>
-                        <author><persName>(唐)陸淳</persName><persName type="9">lu
+                        <author key="person_855"><persName>(唐)陸淳</persName><persName type="9">lu
                            chun</persName></author>
                      </msItem>
                   </msContents>
@@ -525,9 +525,9 @@
                         <title source="9">lun yu ji jie yi shu</title>
                         <note source="290">(魏)何晏集解</note>
                         <note source="290">(梁)皇侃義疏</note>
-                        <author><persName>(魏)何晏</persName><persName type="9">he
+                        <author key="person_6712"><persName>(魏)何晏</persName><persName type="9">he
                            yan</persName></author>
-                        <author><persName>(梁)皇侃</persName><persName type="9">huang
+                        <author key="person_3045"><persName>(梁)皇侃</persName><persName type="9">huang
                            kan</persName></author>
                      </msItem>
                   </msContents>
@@ -553,9 +553,9 @@
                         <title>論語筆解 ^二卷^</title>
                         <title source="9">lun yu bi jie</title>
                         <note source="290">(唐)韓愈, (唐)李翱撰</note>
-                        <author><persName>(唐)韓愈</persName><persName type="9">han
+                        <author key="person_868"><persName>(唐)韓愈</persName><persName type="9">han
                            yu</persName></author>
-                        <author><persName>(唐)李翱</persName><persName type="9">li
+                        <author key="person_701"><persName>(唐)李翱</persName><persName type="9">li
                            ao</persName></author>
                      </msItem>
                   </msContents>
@@ -584,13 +584,13 @@
                         <note source="290">(魏)鄭小同編</note>
                         <note source="290">(清)王復輯</note>
                         <note source="290">(清)武億校</note>
-                        <author><persName>(漢)鄭玄</persName><persName type="9">zheng
+                        <author key="person_6609"><persName>(漢)鄭玄</persName><persName type="9">zheng
                            xuan</persName></author>
-                        <author><persName>(魏)鄭小同</persName><persName type="9">zheng xiao
+                        <author key="person_6748"><persName>(魏)鄭小同</persName><persName type="9">zheng xiao
                               tong</persName></author>
                         <author><persName>(清)王復</persName><persName type="9">wang
                            fu</persName></author>
-                        <author><persName>(清)武億</persName><persName type="9">wu
+                        <author key="person_4727"><persName>(清)武億</persName><persName type="9">wu
                            yi</persName></author>
                      </msItem>
                   </msContents>
@@ -617,16 +617,16 @@
                         <title source="9">you xuan shi zhe jue dai yu shi bie guo fang yan</title>
                         <note source="290">(漢)揚雄記</note>
                         <note source="290">(晉)郭璞注</note>
-                        <author><persName>(漢)揚雄</persName><persName type="9">yang
+                        <author key="person_6538"><persName>(漢)揚雄</persName><persName type="9">yang
                            xiong</persName></author>
-                        <author><persName>(晉)郭璞</persName><persName type="9">guo
+                        <author key="person_2985"><persName>(晉)郭璞</persName><persName type="9">guo
                            pu</persName></author>
                      </msItem>
                      <msItem n="2">
                         <title>方言校正補遺 ^一卷^</title>
                         <title type="9">fang yan jiao zheng bu yi</title>
                         <note source="#291">(清)盧文弨撰</note>
-                        <author><persName>(清)盧文弨</persName><persName type="9">lu wen
+                        <author key="person_5212"><persName>(清)盧文弨</persName><persName type="9">lu wen
                            chao</persName></author>
                      </msItem>
                   </msContents>
@@ -655,9 +655,9 @@
                         <title source="9">shi ming</title>
                         <note source="290">(漢)劉熙撰</note>
                         <note source="290">(清)吳志忠校</note>
-                        <author><persName>(漢)劉熙</persName><persName type="9">liu
+                        <author key="person_6495"><persName>(漢)劉熙</persName><persName type="9">liu
                            xi</persName></author>
-                        <author><persName>(清)吳志忠</persName><persName type="9">wu zhi
+                        <author key="person_3573"><persName>(清)吳志忠</persName><persName type="9">wu zhi
                               zhong</persName></author>
                      </msItem>
                   </msContents>
@@ -685,9 +685,9 @@
                         <title source="9">guang ya</title>
                         <note source="290">(魏)張揖撰</note>
                         <note source="290">(隋)曹憲音</note>
-                        <author><persName>(魏)張揖</persName><persName type="9">zhang
+                        <author key="person_6724"><persName>(魏)張揖</persName><persName type="9">zhang
                            yi</persName></author>
-                        <author><persName>(隋)曹憲</persName><persName type="9">cao
+                        <author key="person_6691"><persName>(隋)曹憲</persName><persName type="9">cao
                            xian</persName></author>
                      </msItem>
                   </msContents>
@@ -714,7 +714,7 @@
                         <title>匡謬正俗 ^八卷^</title>
                         <title source="9">kuang miu zheng su</title>
                         <note source="290">(唐)顏師古撰</note>
-                        <author><persName>(唐)顏師古</persName><persName type="9">yan shi
+                        <author key="person_873"><persName>(唐)顏師古</persName><persName type="9">yan shi
                            gu</persName></author>
                      </msItem>
                   </msContents>
@@ -743,11 +743,11 @@
                         <note source="290">(漢)史游撰</note>
                         <note source="290">(唐)顏師古注</note>
                         <note source="290">(宋)王應麟補注</note>
-                        <author><persName>(漢)史游</persName><persName type="9">shi
+                        <author key="person_6500"><persName>(漢)史游</persName><persName type="9">shi
                            you</persName></author>
-                        <author><persName>(唐)顏師古</persName><persName type="9">yan shi
+                        <author key="person_873"><persName>(唐)顏師古</persName><persName type="9">yan shi
                            gu</persName></author>
-                        <author><persName>(宋)王應麟</persName><persName type="9">wang ying
+                        <author key="person_1423"><persName>(宋)王應麟</persName><persName type="9">wang ying
                               lin</persName></author>
                      </msItem>
                   </msContents>
@@ -775,9 +775,9 @@
                         <title source="9">shuo wen jie zi</title>
                         <note source="290">(漢)許慎撰</note>
                         <note source="290">(宋)徐鉉等校定</note>
-                        <author><persName>(漢)許慎</persName><persName type="9">xu
+                        <author key="person_6594"><persName>(漢)許慎</persName><persName type="9">xu
                            shen</persName></author>
-                        <author><persName>(宋)徐鉉</persName><persName type="9">xu
+                        <author key="person_1204"><persName>(宋)徐鉉</persName><persName type="9">xu
                            xuan</persName></author>
                      </msItem>
                   </msContents>
@@ -804,14 +804,14 @@
                         <title>說文解字繫傳 ^四十卷^</title>
                         <title source="9">shuo wen jie zi xi zhuan</title>
                         <note source="290">(南唐)徐鍇撰</note>
-                        <author><persName>(南唐)徐鍇</persName><persName type="9">xu
+                        <author key="person_423"><persName>(南唐)徐鍇</persName><persName type="9">xu
                            kai</persName></author>
                      </msItem>
                      <msItem n="2">
                         <title>說文解字繫傳校勘記 ^三卷^</title>
                         <title type="9">shuo wen jie zi xi zhuan jiao kan ji</title>
                         <note source="#291">(清)祁寯藻撰</note>
-                        <author><persName>(清)祁寯藻</persName><persName type="9">qi jun
+                        <author key="person_5231"><persName>(清)祁寯藻</persName><persName type="9">qi jun
                            zao</persName></author>
                      </msItem>
                   </msContents>
@@ -839,7 +839,7 @@
                         <title>說文解字篆韻譜 ^五卷附錄一卷^</title>
                         <title source="9">shuo wen jie zi zhuan yun pu</title>
                         <note source="290">(南唐)徐鍇撰</note>
-                        <author><persName>(南唐)徐鍇</persName><persName type="9">xu
+                        <author key="person_423"><persName>(南唐)徐鍇</persName><persName type="9">xu
                            kai</persName></author>
                      </msItem>
                   </msContents>
@@ -867,9 +867,9 @@
                         <title source="9">da guang yi hui yu pian</title>
                         <note source="290">(梁)顧野王撰</note>
                         <note source="290">(宋)陳彭年等奉敕重修</note>
-                        <author><persName>(梁)顧野王</persName><persName type="9">gu ye
+                        <author key="person_3063"><persName>(梁)顧野王</persName><persName type="9">gu ye
                            wang</persName></author>
-                        <author><persName>(宋)陳彭年</persName><persName type="9">chen peng
+                        <author key="person_1745"><persName>(宋)陳彭年</persName><persName type="9">chen peng
                               nian</persName></author>
                      </msItem>
                   </msContents>
@@ -896,7 +896,7 @@
                         <title>干祿字書 ^一卷^</title>
                         <title source="9">gan lu zi shu</title>
                         <note source="290">(唐)顏元孫撰</note>
-                        <author><persName>(唐)顏元孫</persName><persName type="9">yan yuan
+                        <author key="person_872"><persName>(唐)顏元孫</persName><persName type="9">yan yuan
                               sun</persName></author>
                      </msItem>
                   </msContents>
@@ -923,7 +923,7 @@
                         <title>五經文字 ^三卷^</title>
                         <title source="9">wu jing wen zi</title>
                         <note source="290">(唐)張參撰</note>
-                        <author><persName>(唐)張參</persName><persName type="9">zhang
+                        <author key="person_625"><persName>(唐)張參</persName><persName type="9">zhang
                            can</persName></author>
                      </msItem>
                   </msContents>
@@ -950,7 +950,7 @@
                         <title>新加九經字樣 ^一卷^</title>
                         <title source="9">xin jia jiu jing zi yang</title>
                         <note source="290">(唐)唐玄度撰</note>
-                        <author><persName>(唐)唐玄度</persName><persName type="9">tang xuan
+                        <author key="person_596"><persName>(唐)唐玄度</persName><persName type="9">tang xuan
                               du</persName></author>
                      </msItem>
                   </msContents>
@@ -977,7 +977,7 @@
                         <title>廣韻 ^五卷^</title>
                         <title source="9">guang yun</title>
                         <note source="290">(宋)陳彭年等奉敕重修</note>
-                        <author><persName>(宋)陳彭年</persName><persName type="9">chen peng
+                        <author key="person_1745"><persName>(宋)陳彭年</persName><persName type="9">chen peng
                               nian</persName></author>
                      </msItem>
                   </msContents>
@@ -1004,7 +1004,7 @@
                         <title>廣韻 ^五卷^</title>
                         <title source="9">guang yun</title>
                         <note source="290">(宋)陳彭年等奉敕重修</note>
-                        <author><persName>(宋)陳彭年</persName><persName type="9">chen peng
+                        <author key="person_1745"><persName>(宋)陳彭年</persName><persName type="9">chen peng
                               nian</persName></author>
                      </msItem>
                   </msContents>
@@ -1031,7 +1031,7 @@
                         <title>五經異義疏證 ^三卷^</title>
                         <title source="9">wu jing yi yi shu zheng</title>
                         <note source="290">(清)陳壽祺撰</note>
-                        <author><persName>(清)陳壽祺</persName><persName type="9">chen shou
+                        <author key="person_6023"><persName>(清)陳壽祺</persName><persName type="9">chen shou
                               qi</persName></author>
                      </msItem>
                   </msContents>
@@ -1060,13 +1060,13 @@
                         <note source="290">(漢)馬融, (漢)鄭玄注</note>
                         <note source="290">(宋)王應麟撰集</note>
                         <note source="290">(清)孫星衍補集</note>
-                        <author><persName>(漢)馬融</persName><persName type="9">ma
+                        <author key="person_6621"><persName>(漢)馬融</persName><persName type="9">ma
                            rong</persName></author>
-                        <author><persName>(漢)鄭玄</persName><persName type="9">zheng
+                        <author key="person_6609"><persName>(漢)鄭玄</persName><persName type="9">zheng
                            xuan</persName></author>
-                        <author><persName>(宋)王應麟</persName><persName type="9">wang ying
+                        <author key="person_1423"><persName>(宋)王應麟</persName><persName type="9">wang ying
                               lin</persName></author>
-                        <author><persName>(清)孫星衍</persName><persName type="9">sun xing
+                        <author key="person_3855"><persName>(清)孫星衍</persName><persName type="9">sun xing
                               yan</persName></author>
                      </msItem>
                      <msItem n="2">
@@ -1074,9 +1074,9 @@
                         <title type="9">shang shu yi wen</title>
                         <note source="#291">(清)江聲撰集</note>
                         <note source="#291">(清)孫星衍補訂</note>
-                        <author><persName>(清)江聲</persName><persName type="9">jiang
+                        <author key="person_4772"><persName>(清)江聲</persName><persName type="9">jiang
                            sheng</persName></author>
-                        <author><persName>(清)孫星衍</persName></author>
+                        <author key="person_3855"><persName>(清)孫星衍</persName></author>
                      </msItem>
                   </msContents>
                   <additional>
@@ -1103,7 +1103,7 @@
                         <title>魯詩故 ^三卷^</title>
                         <title source="9">lu shi gu</title>
                         <note source="290">(漢)申培撰</note>
-                        <author><persName>(漢)申培</persName><persName type="9">shen
+                        <author key="person_6573"><persName>(漢)申培</persName><persName type="9">shen
                            pei</persName></author>
                      </msItem>
                   </msContents>
@@ -1130,7 +1130,7 @@
                         <title>齊詩傳 ^二卷^</title>
                         <title source="9">qi shi zhuan</title>
                         <note source="290">(漢)后蒼撰</note>
-                        <author><persName>(漢)后蒼</persName><persName type="9">hou
+                        <author key="person_6503"><persName>(漢)后蒼</persName><persName type="9">hou
                            cang</persName></author>
                      </msItem>
                   </msContents>
@@ -1157,7 +1157,7 @@
                         <title>韓詩故 ^二卷內傳一卷詩說一卷^</title>
                         <title source="9">han shi gu</title>
                         <note source="290">(漢)韓嬰撰</note>
-                        <author><persName>(漢)韓嬰</persName><persName type="9">han
+                        <author key="person_6619"><persName>(漢)韓嬰</persName><persName type="9">han
                            ying</persName></author>
                      </msItem>
                   </msContents>
@@ -1184,7 +1184,7 @@
                         <title>薛君韓詩章句 ^二卷^</title>
                         <title source="9">xue jun han shi zhang ju</title>
                         <note source="290">(漢)薛漢撰</note>
-                        <author><persName>(漢)薛漢</persName><persName type="9">xue
+                        <author key="person_6589"><persName>(漢)薛漢</persName><persName type="9">xue
                            han</persName></author>
                      </msItem>
                   </msContents>
@@ -1213,7 +1213,7 @@
                         <title>月令章句 ^一卷^</title>
                         <title source="9">yue ling zhang ju</title>
                         <note source="290">(漢)蔡邕撰</note>
-                        <author><persName>(漢)蔡邕</persName><persName type="9">cai
+                        <author key="person_6588"><persName>(漢)蔡邕</persName><persName type="9">cai
                            yong</persName></author>
                      </msItem>
                   </msContents>
@@ -1240,7 +1240,7 @@
                         <title>倉頡篇 ^三卷^</title>
                         <title source="9">cang jie pian</title>
                         <note source="290">(清)孫星衍學</note>
-                        <author><persName>(清)孫星衍</persName><persName type="9">sun xing
+                        <author key="person_3855"><persName>(清)孫星衍</persName><persName type="9">sun xing
                               yan</persName></author>
                      </msItem>
                   </msContents>
@@ -1267,7 +1267,7 @@
                         <title>原本玉篇 ^一卷^</title>
                         <title source="9">yuan ben yu pian</title>
                         <note source="290">(梁)顧野王撰</note>
-                        <author><persName>(梁)顧野王</persName><persName type="9">gu ye
+                        <author key="person_3063"><persName>(梁)顧野王</persName><persName type="9">gu ye
                            wang</persName></author>
                      </msItem>
                   </msContents>

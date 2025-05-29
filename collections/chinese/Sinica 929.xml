@@ -52,7 +52,7 @@
                      <title source="#200">祕書廿一種</title>
                      <title source="#200|9">mi shu nian yi zhong</title>
                      <note source="#290">(清)汪士漢編</note>
-                     <author source="#300"><persName>(清)汪士漢</persName><persName type="9">wang shi
+                     <author source="#300" key="person_4787"><persName>(清)汪士漢</persName><persName type="9">wang shi
                            han</persName></author>
                      <note source="#409">清康熙七年[1668]新安汪氏據明刊《古今逸史》板重編印本</note>
                      <editor source="#446" role="pbl"><persName>古今逸史</persName><persName type="9" role="pbl">gu jin yi shi</persName></editor>
@@ -61,7 +61,7 @@
                         <title>汲冢周書 ^十卷^</title>
                         <title source="9">ji zhong zhou shu</title>
                         <note source="290">(晉)孔晁注</note>
-                        <author><persName>(晉)孔晁</persName><persName type="9">kong
+                        <author key="person_2873"><persName>(晉)孔晁</persName><persName type="9">kong
                            chao</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140703/12:39:20|odh -->
@@ -72,9 +72,9 @@
                         <title source="9">wu yue chun qiu</title>
                         <note source="290">(漢)趙曄撰</note>
                         <note source="290">(元)徐天祐音注</note>
-                        <author><persName>(漢)趙曄</persName><persName type="9">zhao
+                        <author key="person_6602"><persName>(漢)趙曄</persName><persName type="9">zhao
                            ye</persName></author>
-                        <author><persName>(元)徐天祐</persName><persName type="9">xu tian
+                        <author key="person_124"><persName>(元)徐天祐</persName><persName type="9">xu tian
                            you</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140703/12:41:53|odh -->
@@ -86,9 +86,9 @@
                         <title source="9">shi yi ji</title>
                         <note source="290">(前秦)王嘉撰</note>
                         <note source="290">(梁)蕭綺錄</note>
-                        <author><persName>(前秦)王嘉</persName><persName type="9">wang
+                        <author key="person_343"><persName>(前秦)王嘉</persName><persName type="9">wang
                            jia</persName></author>
-                        <author><persName>(梁)蕭綺</persName><persName type="9">xiao
+                        <author key="person_3053"><persName>(梁)蕭綺</persName><persName type="9">xiao
                            qi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140703/12:43:13|odh -->
@@ -98,7 +98,7 @@
                         <title>白虎通德論 ^二卷^</title>
                         <title source="9">bai hu tong de lun</title>
                         <note source="290">(漢)班固撰</note>
-                        <author><persName>(漢)班固</persName><persName type="9">ban
+                        <author key="person_6571"><persName>(漢)班固</persName><persName type="9">ban
                            gu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140703/12:43:53|odh -->
@@ -109,7 +109,7 @@
                         <title source="9">bo wu zhi</title>
                         <note source="290">(晉)張華撰</note>
                         <note source="290">(宋)周日用, (宋)盧□注</note>
-                        <author><persName>(晉)張華</persName><persName type="9">zhang
+                        <author key="person_2893"><persName>(晉)張華</persName><persName type="9">zhang
                            hua</persName></author>
                         <author><persName>(宋)周日用</persName><persName type="9">zhou ri
                               yong</persName></author>
@@ -124,7 +124,7 @@
                         <title>桂海虞衡志 ^一卷^</title>
                         <title source="9">gui hai yu heng zhi</title>
                         <note source="290">(宋)范成大撰</note>
-                        <author><persName>(宋)范成大</persName><persName type="9">fan cheng
+                        <author key="person_1532"><persName>(宋)范成大</persName><persName type="9">fan cheng
                               da</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140703/12:53:39|odh -->
@@ -134,7 +134,7 @@
                         <title>續博物志 ^十卷^</title>
                         <title source="9">xu bo wu zhi</title>
                         <note source="290">(宋)李石撰</note>
-                        <author><persName>(宋)李石</persName><persName type="9">li
+                        <author key="person_1290"><persName>(宋)李石</persName><persName type="9">li
                            shi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140703/12:54:11|odh -->
@@ -144,7 +144,7 @@
                         <title>博異記 ^一卷^</title>
                         <title source="9">bo yi ji</title>
                         <note source="290">(唐)谷神子撰</note>
-                        <author><persName>(唐)鄭還古</persName><persName type="9">zheng huan
+                        <author key="person_843"><persName>(唐)鄭還古</persName><persName type="9">zheng huan
                               gu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140703/12:55:14|odh -->
@@ -154,7 +154,7 @@
                         <title>高士傳 ^三卷^</title>
                         <title source="9">gao shi zhuan</title>
                         <note source="290">(晉)皇甫謐撰</note>
-                        <author><persName>(晉)皇甫謐</persName><persName type="9">huang fu
+                        <author key="person_2941"><persName>(晉)皇甫謐</persName><persName type="9">huang fu
                            mi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140703/12:56:11|odh -->
@@ -164,7 +164,7 @@
                         <title>劍俠傳 ^四卷^</title>
                         <title source="9">jian xia zhuan</title>
                         <note source="290">(唐)段成式撰</note>
-                        <author><persName>(唐)段成式</persName><persName type="9">duan cheng
+                        <author key="person_741"><persName>(唐)段成式</persName><persName type="9">duan cheng
                               shi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140703/12:57:21|odh -->
@@ -190,7 +190,7 @@
                         <title>竹書紀年 ^二卷^</title>
                         <title source="9">zhu shu ji nian</title>
                         <note source="290">(梁)沈約注</note>
-                        <author><persName>(梁)沈約</persName><persName type="9">shen
+                        <author key="person_3042"><persName>(梁)沈約</persName><persName type="9">shen
                            yue</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140703/12:59:46|odh -->
@@ -200,7 +200,7 @@
                         <title>中華古今注 ^三卷^</title>
                         <title source="9">zhong hua gu jin zhu</title>
                         <note source="290">(後唐)馬縞撰</note>
-                        <author><persName>(後唐)馬縞</persName><persName type="9">ma
+                        <author key="person_1876"><persName>(後唐)馬縞</persName><persName type="9">ma
                            gao</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140703/13:01:48|odh -->
@@ -210,7 +210,7 @@
                         <title>古今注 ^三卷^</title>
                         <title source="9">gu jin zhu</title>
                         <note source="290">(晉)崔豹撰</note>
-                        <author><persName>(晉)崔豹</persName><persName type="9">cui
+                        <author key="person_2880"><persName>(晉)崔豹</persName><persName type="9">cui
                            bao</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140703/13:02:20|odh -->
@@ -220,7 +220,7 @@
                         <title>三墳 ^一卷^</title>
                         <title source="9">san fen</title>
                         <note source="290">(晉)阮咸注</note>
-                        <author><persName>(晉)阮咸</persName><persName type="9">ruan
+                        <author key="person_2993"><persName>(晉)阮咸</persName><persName type="9">ruan
                            xian</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140703/13:03:03|odh -->
@@ -230,7 +230,7 @@
                         <title>風俗通義 ^四卷^</title>
                         <title source="9">feng su tong yi</title>
                         <note source="290">(漢)應劭撰</note>
-                        <author><persName>(漢)應劭</persName><persName type="9">ying
+                        <author key="person_6533"><persName>(漢)應劭</persName><persName type="9">ying
                            shao</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140703/13:04:35|odh -->
@@ -240,7 +240,7 @@
                         <title>列仙傳 ^二卷^</title>
                         <title source="9">lie xian zhuan</title>
                         <note source="290">(漢)劉向撰</note>
-                        <author><persName>(漢)劉向</persName><persName type="9">liu
+                        <author key="person_6488"><persName>(漢)劉向</persName><persName type="9">liu
                            xiang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140703/13:05:07|odh -->
@@ -250,7 +250,7 @@
                         <title>集異記 ^一卷^</title>
                         <title source="9">ji yi ji</title>
                         <note source="290">(唐)薛用弱撰</note>
-                        <author><persName>(唐)薛用弱</persName><persName type="9">xue yong
+                        <author key="person_800"><persName>(唐)薛用弱</persName><persName type="9">xue yong
                               ruo</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140703/13:05:44|odh -->
@@ -260,7 +260,7 @@
                         <title>續齊諧記 ^一卷^</title>
                         <title source="9">xu qi xie ji</title>
                         <note source="290">(梁)吳均撰</note>
-                        <author><persName>(梁)吳均</persName><persName type="9">wu
+                        <author key="person_3029"><persName>(梁)吳均</persName><persName type="9">wu
                            jun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140703/13:06:26|odh -->

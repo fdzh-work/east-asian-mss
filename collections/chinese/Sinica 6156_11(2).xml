@@ -53,7 +53,7 @@
                      <title source="#200">春秋公羊疏 ^殘七卷(存卷一至七)^</title>
                      <title source="#200|9">chun qiu gong yang shu</title>
                      <note source="#290">(唐)徐彥撰</note>
-                     <author source="#300"><persName>(唐)徐彥</persName><persName type="9">xu
+                     <author source="#300" key="person_648"><persName>(唐)徐彥</persName><persName type="9">xu
                            yan</persName></author>
                      <note source="#600">民國十七年[1928]刊</note>
                   </msItem>
@@ -65,7 +65,7 @@
                      <title source="#231|9" type="variant">chun qiu gong yang shu jiao kan
                         ji</title>
                      <note source="#291">劉承幹撰</note>
-                     <author source="#301"><persName>劉承幹</persName><persName type="9">liu cheng
+                     <author source="#301" key="person_7100"><persName>劉承幹</persName><persName type="9">liu cheng
                            gan</persName></author>
                   </msItem>
                </msContents>

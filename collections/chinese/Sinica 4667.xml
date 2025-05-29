@@ -51,13 +51,13 @@
                      <title source="#200">寫禮廎遺著</title>
                      <title source="#200|9">xie li qing yi zhu</title>
                      <note source="#290">(清)王頌蔚撰</note>
-                     <author source="#300"><persName>(清)王頌蔚</persName><persName type="9">wang song
+                     <author source="#300" key="person_5168"><persName>(清)王頌蔚</persName><persName type="9">wang song
                            wei</persName></author>
                      <note source="#600">民國乙卯[1915]䱐溪王氏刊本</note>
                      <msItem n="1">
                         <title>寫禮廎文集 ^一卷補遺一卷^</title>
                         <title source="9">xie li qing wen ji</title>
-                        <author><persName>(清)王頌蔚</persName><persName type="9">wang song
+                        <author key="person_5168"><persName>(清)王頌蔚</persName><persName type="9">wang song
                               wei</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20051222/13:07:27|odh -->
@@ -67,7 +67,7 @@
                      <msItem n="2">
                         <title>寫禮廎詩集 ^一卷^</title>
                         <title source="9">xie li qing shi ji</title>
-                        <author><persName>(清)王頌蔚</persName><persName type="9">wang song
+                        <author key="person_5168"><persName>(清)王頌蔚</persName><persName type="9">wang song
                               wei</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20051222/13:09:09|odh -->
@@ -77,7 +77,7 @@
                      <msItem n="3">
                         <title>古書經眼錄 ^一卷^</title>
                         <title source="9">gu shu jing yan lu</title>
-                        <author><persName>(清)王頌蔚</persName><persName type="9">wang song
+                        <author key="person_5168"><persName>(清)王頌蔚</persName><persName type="9">wang song
                               wei</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20051222/13:11:37|odh -->
@@ -86,7 +86,7 @@
                      <msItem n="4">
                         <title>寫禮廎讀碑記 ^一卷^</title>
                         <title source="9">xie li qing du bei ji</title>
-                        <author><persName>(清)王頌蔚</persName><persName type="9">wang song
+                        <author key="person_5168"><persName>(清)王頌蔚</persName><persName type="9">wang song
                               wei</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20051222/13:12:30|odh -->

@@ -51,13 +51,13 @@
                      <title source="#200">小雙寂庵叢書 ^殘三種^</title>
                      <title source="#200|9">xiao shuang ji an cong shu</title>
                      <note source="#290">(民國)張惟驤撰</note>
-                     <author source="#300"><persName>(民國)張惟驤</persName><persName type="9">zhang wei
+                     <author source="#300" key="person_3108"><persName>(民國)張惟驤</persName><persName type="9">zhang wei
                            xiang</persName></author>
                      <note source="#409">民國武進張氏小雙寂庵刊本</note>
                      <msItem n="1">
                         <title>疑年錄彙編 ^十六卷補錄一卷分韻人表一卷^</title>
                         <title source="9">yi nian lu hui bian</title>
-                        <author><persName>(民國)張惟驤</persName><persName type="9">zhang wei
+                        <author key="person_3108"><persName>(民國)張惟驤</persName><persName type="9">zhang wei
                               xiang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140708/16:02:12|odh -->
@@ -70,9 +70,9 @@
                         <title source="9">ming ren sheng ri biao</title>
                         <note source="290">(民國)孫雄撰</note>
                         <note source="290">(民國)張惟驤補</note>
-                        <author><persName>(民國)孫雄</persName><persName type="9">sun
+                        <author key="person_3095"><persName>(民國)孫雄</persName><persName type="9">sun
                            xiong</persName></author>
-                        <author><persName>(民國)張惟驤</persName><persName type="9">zhang wei
+                        <author key="person_3108"><persName>(民國)張惟驤</persName><persName type="9">zhang wei
                               xiang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140708/16:05:09|odh -->
@@ -82,7 +82,7 @@
                      <msItem n="3">
                         <title>歷代諱字譜 ^二卷^</title>
                         <title source="9">li dai hui zi pu</title>
-                        <author><persName>(民國)張惟驤</persName><persName type="9">zhang wei
+                        <author key="person_3108"><persName>(民國)張惟驤</persName><persName type="9">zhang wei
                               xiang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140708/15:56:06|odh -->

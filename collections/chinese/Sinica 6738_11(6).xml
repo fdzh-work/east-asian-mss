@@ -52,14 +52,14 @@
                      <title source="#200">淵穎吳先生集 ^十二卷附錄一卷^</title>
                      <title source="#200|9">yuan ying wu xian sheng ji</title>
                      <note source="#290">(元)吳萊撰</note>
-                     <author source="#300"><persName>(元)吳萊</persName><persName type="9">wu
+                     <author source="#300" key="person_86"><persName>(元)吳萊</persName><persName type="9">wu
                            lai</persName></author>
                   </msItem>
                   <msItem n="2">
                      <title source="#201">淵穎吳先生集考異 ^一卷^</title>
                      <title source="#201|9">yuan ying wu xian sheng ji kao yi</title>
                      <note source="#291">(民國)胡宗楙撰</note>
-                     <author source="#301"><persName>(民國)胡宗楙</persName><persName type="9">hu zong
+                     <author source="#301" key="person_3169"><persName>(民國)胡宗楙</persName><persName type="9">hu zong
                            mao</persName></author>
                   </msItem>
                </msContents>

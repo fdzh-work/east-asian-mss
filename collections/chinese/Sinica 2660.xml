@@ -59,11 +59,11 @@
                         <note source="290">(晉)杜預注</note>
                         <note source="290">(唐)陸德明音義</note>
                         <note source="290">(唐)孔穎達疏</note>
-                        <author><persName>(晉)杜預</persName><persName type="9">du
+                        <author key="person_2913"><persName>(晉)杜預</persName><persName type="9">du
                            yu</persName></author>
-                        <author><persName>(唐)陸德明</persName><persName type="9">lu de
+                        <author key="person_854"><persName>(唐)陸德明</persName><persName type="9">lu de
                            ming</persName></author>
-                        <author><persName>(唐)孔穎達</persName><persName type="9">kong ying
+                        <author key="person_605"><persName>(唐)孔穎達</persName><persName type="9">kong ying
                               da</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00001318|ons -->
@@ -77,9 +77,9 @@
                         <note source="290">(漢)何休學</note>
                         <note source="290">(唐)陸德明音義</note>
                         <note source="290">佚名疏</note>
-                        <author><persName>(漢)何休</persName><persName type="9">he
+                        <author key="person_6482"><persName>(漢)何休</persName><persName type="9">he
                            xiu</persName></author>
-                        <author><persName>(唐)陸德明</persName><persName type="9">lu de
+                        <author key="person_854"><persName>(唐)陸德明</persName><persName type="9">lu de
                            ming</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00001319|ons -->
@@ -92,11 +92,11 @@
                         <note source="290">(晉)范寧集解</note>
                         <note source="290">(唐)陸德明音義</note>
                         <note source="290">(唐)楊士勛疏</note>
-                        <author><persName>(晉)范寧</persName><persName type="9">fan
+                        <author key="person_2954"><persName>(晉)范寧</persName><persName type="9">fan
                            ning</persName></author>
-                        <author><persName>(唐)陸德明</persName><persName type="9">lu de
+                        <author key="person_854"><persName>(唐)陸德明</persName><persName type="9">lu de
                            ming</persName></author>
-                        <author><persName>(唐)楊士勛</persName><persName type="9">yang shi
+                        <author key="person_728"><persName>(唐)楊士勛</persName><persName type="9">yang shi
                               xun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00001320|ons -->

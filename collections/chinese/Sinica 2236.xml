@@ -52,7 +52,7 @@
                   <msItem n="1">
                      <title source="#200">二約釋義叢書</title>
                      <title source="#200|9">er yue shi yi cong shu</title>
-                     <author source="#300"><persName>Williamson, Alexander</persName></author>
+                     <author source="#300" key="person_7083"><persName>Williamson, Alexander</persName></author>
                      <editor source="#420" role="pbl"><persName>倫敦聖書會</persName><persName type="9" role="pbl">lun dun sheng shu hui</persName></editor>
                      <editor source="#420" role="pbl"><persName>申報館</persName><persName type="9" role="pbl">shen bao guan</persName></editor>
                      <note source="#600">Compiled by A Williamson</note>
@@ -63,8 +63,8 @@
                         <title source="9">er yue shi yi cong shu</title>
                         <note source="290">(英)韋廉臣著</note>
                         <note source="290">(清)于染塵筆</note>
-                        <author><persName>Williamson, Alexander</persName></author>
-                        <author><persName>(清)于染塵</persName><persName type="9">yu ran
+                        <author key="person_7083"><persName>Williamson, Alexander</persName></author>
+                        <author key="person_3279"><persName>(清)于染塵</persName><persName type="9">yu ran
                            chen</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20031205/12:40:15|odh -->
@@ -73,7 +73,7 @@
                      <msItem n="2">
                         <title>舊約全書小引</title>
                         <title source="9">jiu yue quan shu xiao yin</title>
-                        <author><persName>Williamson, Alexander</persName></author>
+                        <author key="person_7083"><persName>Williamson, Alexander</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20031205/12:46:44|odh -->
                         <!-- #0rr: 20031205/14:11:01|odh -->
@@ -85,8 +85,8 @@
                         <title source="9">sheng shu yi</title>
                         <note source="290">(英)理一視約翰輯</note>
                         <note source="290">(清)張逢源述</note>
-                        <author><persName>Lees, Jonathan</persName></author>
-                        <author><persName>(清)張逢源</persName><persName type="9">zhang feng
+                        <author key="person_6924"><persName>Lees, Jonathan</persName></author>
+                        <author key="person_4112"><persName>(清)張逢源</persName><persName type="9">zhang feng
                               yuan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20031205/13:36:35|odh -->
@@ -96,8 +96,8 @@
                         <title>新約聖書小引</title>
                         <title source="9">xin yue sheng shu xiao yin</title>
                         <note source="290">(英)文教治, 蜜徹母耳著</note>
-                        <author><persName>Owen, George Sydney</persName></author>
-                        <author><persName>蜜徹母耳</persName><persName type="9">mi che mu
+                        <author key="person_6988"><persName>Owen, George Sydney</persName></author>
+                        <author key="person_7175"><persName>蜜徹母耳</persName><persName type="9">mi che mu
                            er</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20031205/14:09:28|odh -->
@@ -109,7 +109,7 @@
                         <title>四福音目錄合編</title>
                         <title source="9">si fu yin mu lu he bian</title>
                         <note source="290">蜜徹母耳</note>
-                        <author><persName>蜜徹母耳</persName><persName type="9">mi che mu
+                        <author key="person_7175"><persName>蜜徹母耳</persName><persName type="9">mi che mu
                            er</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20031208/10:15:05|odh -->
@@ -121,7 +121,7 @@
                         <title>聖經所載諸國見于漢書考</title>
                         <title source="9">sheng jing suo zai zhu guo jian yu han shu kao</title>
                         <note source="290">(英)艾約瑟著</note>
-                        <author><persName>Edkins, Joseph</persName></author>
+                        <author key="person_6840"><persName>Edkins, Joseph</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20031208/10:18:47|odh -->
                         <!-- #0rx: dh293+06 -->
@@ -131,7 +131,7 @@
                         <title source="9">sheng jing jin liang, dou hu, chi cun, dao cheng, jin yin
                            qian bi kao</title>
                         <note source="290">(英)艾約瑟著</note>
-                        <author><persName>Edkins, Joseph</persName></author>
+                        <author key="person_6840"><persName>Edkins, Joseph</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20031208/10:29:40|odh -->
                         <!-- #0rx: dh293+07 -->
@@ -140,7 +140,7 @@
                         <title>猶太國曆</title>
                         <title source="9">you tai guo li</title>
                         <note source="290">(英)艾約瑟</note>
-                        <author><persName>Edkins, Joseph</persName></author>
+                        <author key="person_6840"><persName>Edkins, Joseph</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20031208/10:31:02|odh -->
                         <!-- #0rx: dh293+08 -->
@@ -151,7 +151,7 @@
                         <title>新約年代表</title>
                         <title source="9">xin yue nian dai biao</title>
                         <note source="290">(英)艾約瑟</note>
-                        <author><persName>Edkins, Joseph</persName></author>
+                        <author key="person_6840"><persName>Edkins, Joseph</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20031208/10:32:51|odh -->
                         <!-- #0rx: dh293+09 -->
@@ -160,7 +160,7 @@
                         <title>聖書動直物備考 ^二卷^</title>
                         <title source="9">sheng shu dong zhi wu bei kao</title>
                         <note source="290">紀</note>
-                        <author><persName>Graves, Rosewell Hobart</persName></author>
+                        <author key="person_6871"><persName>Graves, Rosewell Hobart</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20031208/10:36:02|odh -->
                         <!-- #0rr: 20040129/11:47:05|odh -->
@@ -170,7 +170,7 @@
                         <title>古國憑經</title>
                         <title source="9">gu guo ping jing</title>
                         <note source="290">紹</note>
-                        <author><persName>紹</persName><persName type="9">shao</persName></author>
+                        <author key="person_7167"><persName>紹</persName><persName type="9">shao</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20031208/12:37:20|odh -->
                         <!-- #0rx: dh293+11 -->
@@ -180,7 +180,7 @@
                         <title>選民交涉</title>
                         <title source="9">xuan min jiao she</title>
                         <note source="290">紹</note>
-                        <author><persName>紹</persName><persName type="9">shao</persName></author>
+                        <author key="person_7167"><persName>紹</persName><persName type="9">shao</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20031208/12:39:17|odh -->
                         <!-- #0rx: dh293+12 -->
@@ -192,7 +192,7 @@
                         <title>^[附]^ 舊約比喻</title>
                         <title source="9">jiu yue bi yu</title>
                         <note source="290">(英)韋廉臣</note>
-                        <author><persName>Williamson, Alexander</persName></author>
+                        <author key="person_7083"><persName>Williamson, Alexander</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20031208/12:43:14|odh -->
                         <!-- #0rr: 20031208/12:45:52|odh -->
@@ -204,7 +204,7 @@
                         <title type="variant">新約希奇諸事</title>
                         <title source="9" type="variant">xin yue xi qi zhu shi</title>
                         <note source="290">(英)韋廉臣</note>
-                        <author><persName>Williamson, Alexander</persName></author>
+                        <author key="person_7083"><persName>Williamson, Alexander</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20031208/12:46:26|odh -->
                         <!-- #0rr: 20031208/12:49:15|odh -->
@@ -215,7 +215,7 @@
                         <title>聖書綱目 ^十二卷^</title>
                         <title source="9">sheng shu gang mu</title>
                         <note source="290">(英)慕維廉</note>
-                        <author><persName>Muirhead, William</persName></author>
+                        <author key="person_6976"><persName>Muirhead, William</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20031208/12:52:04|odh -->
                         <!-- #0rx: dh293+15 -->

@@ -51,7 +51,7 @@
                      <title source="#200">徐氏三種</title>
                      <title source="#200|9">xu shi san zhong</title>
                      <note source="#290">(清)徐士業校</note>
-                     <author source="#300"><persName>(清)徐士業</persName><persName type="9">xu shi
+                     <author source="#300" key="person_4171"><persName>(清)徐士業</persName><persName type="9">xu shi
                            ye</persName></author>
                      <note source="#409">清乾隆中歙西徐氏刊本</note>
                      <editor source="#440" role="pbl"><persName>三槐堂</persName><persName type="9" role="pbl">san huai tang</persName></editor>
@@ -62,11 +62,11 @@
                         <note source="290">(梁)周興嗣撰</note>
                         <note source="290">(清)汪嘯尹纂輯</note>
                         <note source="290">(清)孫謙益參注</note>
-                        <author><persName>(梁)周興嗣</persName><persName type="9">zhou xing
+                        <author key="person_3031"><persName>(梁)周興嗣</persName><persName type="9">zhou xing
                               si</persName></author>
-                        <author><persName>(清)汪嘯尹</persName><persName type="9">wang xiao
+                        <author key="person_4785"><persName>(清)汪嘯尹</persName><persName type="9">wang xiao
                               yin</persName></author>
-                        <author><persName>(清)孫謙益</persName><persName type="9">sun qian
+                        <author key="person_3876"><persName>(清)孫謙益</persName><persName type="9">sun qian
                            yi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20090325/16:21:27|odh -->
@@ -78,9 +78,9 @@
                         <title source="9">san zi jing xun gu</title>
                         <note source="290">(宋)王應麟撰</note>
                         <note source="290">(清)王相注</note>
-                        <author><persName>(宋)王應麟</persName><persName type="9">wang ying
+                        <author key="person_1423"><persName>(宋)王應麟</persName><persName type="9">wang ying
                               lin</persName></author>
-                        <author><persName>(清)王相</persName><persName type="9">wang
+                        <author key="person_5124"><persName>(清)王相</persName><persName type="9">wang
                            xiang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20090630/11:59:48|odh -->
@@ -92,7 +92,7 @@
                         <title>百家姓考略 ^一卷^</title>
                         <title source="9">bai jia xing kao lue</title>
                         <note source="290">(清)王相纂</note>
-                        <author><persName>(清)王相</persName><persName type="9">wang
+                        <author key="person_5124"><persName>(清)王相</persName><persName type="9">wang
                            xiang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20090325/16:10:32|odh -->

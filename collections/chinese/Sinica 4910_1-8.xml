@@ -51,13 +51,13 @@
                      <title source="#200">貞松老人遺稿乙集</title>
                      <title source="#200|9">zhen song lao ren yi gao yi ji</title>
                      <note source="#290">(清)羅振玉撰</note>
-                     <author source="#300"><persName>(清)羅振玉</persName><persName type="9">luo zhen
+                     <author source="#300" key="person_5327"><persName>(清)羅振玉</persName><persName type="9">luo zhen
                            yu</persName></author>
                      <note source="#409">民國辛巳[1941]至癸未[1943]羅福頤排印本</note>
                      <msItem n="1">
                         <title>墓誌徵存目錄 ^四卷^</title>
                         <title source="9">mu zhi zheng cun mu lu</title>
-                        <author><persName>(清)羅振玉</persName><persName type="9">luo zhen
+                        <author key="person_5327"><persName>(清)羅振玉</persName><persName type="9">luo zhen
                            yu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20071218/16:25:21|odh -->
@@ -68,7 +68,7 @@
                      <msItem n="2">
                         <title>大雲書庫藏書題識 ^四卷^</title>
                         <title source="9">da yun shu ku cang shu ti zhi</title>
-                        <author><persName>(清)羅振玉</persName><persName type="9">luo zhen
+                        <author key="person_5327"><persName>(清)羅振玉</persName><persName type="9">luo zhen
                            yu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20071218/16:27:36|odh -->
@@ -78,7 +78,7 @@
                      <msItem n="3">
                         <title>漢熹平石經殘字集錄 ^二卷^</title>
                         <title source="9">han xi ping shi jing can zi ji lu</title>
-                        <author><persName>(清)羅振玉</persName><persName type="9">luo zhen
+                        <author key="person_5327"><persName>(清)羅振玉</persName><persName type="9">luo zhen
                            yu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20071218/16:28:58|odh -->
@@ -88,7 +88,7 @@
                      <msItem n="4">
                         <title>貞松老人外集 ^四卷補遺一卷^</title>
                         <title source="9">zhen song lao ren wai ji</title>
-                        <author><persName>(清)羅振玉</persName><persName type="9">luo zhen
+                        <author key="person_5327"><persName>(清)羅振玉</persName><persName type="9">luo zhen
                            yu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20071218/16:30:29|odh -->
@@ -98,7 +98,7 @@
                      <msItem n="5">
                         <title>魏書宗室傳注校補 ^一卷^</title>
                         <title source="9">wei shu zong shi zhuan zhu jiao bu</title>
-                        <author><persName>(清)羅振玉</persName><persName type="9">luo zhen
+                        <author key="person_5327"><persName>(清)羅振玉</persName><persName type="9">luo zhen
                            yu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20071218/16:31:52|odh -->
@@ -109,7 +109,7 @@
                         <title>傳世古尺錄 ^一卷^</title>
                         <title source="9">chuan shi gu chi lu</title>
                         <note source="290">羅福頤撰</note>
-                        <author><persName>羅福頤</persName><persName type="9">luo fu
+                        <author key="person_7169"><persName>羅福頤</persName><persName type="9">luo fu
                            yi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20071218/16:35:26|odh -->

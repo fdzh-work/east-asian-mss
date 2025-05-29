@@ -51,14 +51,14 @@
                      <title source="#200">損齋全書</title>
                      <title source="#200|9">sun zhai quan shu</title>
                      <note source="#290">(清)楊樹椿撰</note>
-                     <author source="#300"><persName>(清)楊樹椿</persName><persName type="9">yang shu
+                     <author source="#300" key="person_4688"><persName>(清)楊樹椿</persName><persName type="9">yang shu
                            chun</persName></author>
                      <note source="#409">清光緒癸巳[1893]柏經正堂刊本</note>
                      <editor source="#440" role="pbl"><persName>柏經正堂</persName><persName type="9" role="pbl">bai jing zheng tang</persName></editor>
                      <msItem n="1">
                         <title>損齋文鈔 ^十五卷外集一卷^</title>
                         <title source="9">sun zhai wen chao</title>
-                        <author><persName>(清)楊樹椿</persName><persName type="9">yang shu
+                        <author key="person_4688"><persName>(清)楊樹椿</persName><persName type="9">yang shu
                               chun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20141015/13:02:40|odh -->
@@ -69,9 +69,9 @@
                         <title>損齋語錄鈔 ^三卷^</title>
                         <title source="9">sun zhai yu lu chao</title>
                         <note source="290">男玉清編</note>
-                        <author><persName>(清)楊樹椿</persName><persName type="9">yang shu
+                        <author key="person_4688"><persName>(清)楊樹椿</persName><persName type="9">yang shu
                               chun</persName></author>
-                        <author><persName>(清)楊玉清</persName><persName type="9">yang yu
+                        <author key="person_4693"><persName>(清)楊玉清</persName><persName type="9">yang yu
                               qing</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20141015/13:04:42|odh -->
@@ -82,9 +82,9 @@
                         <title>損齋先生全書附錄 ^一卷^</title>
                         <title source="9">sun zhai xian sheng quan shu fu lu</title>
                         <note source="290">男玉清編</note>
-                        <author><persName>(清)楊樹椿</persName><persName type="9">yang shu
+                        <author key="person_4688"><persName>(清)楊樹椿</persName><persName type="9">yang shu
                               chun</persName></author>
-                        <author><persName>(清)楊玉清</persName><persName type="9">yang yu
+                        <author key="person_4693"><persName>(清)楊玉清</persName><persName type="9">yang yu
                               qing</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20141015/13:08:15|odh -->

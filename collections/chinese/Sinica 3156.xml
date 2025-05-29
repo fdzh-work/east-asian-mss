@@ -51,13 +51,13 @@
                      <title source="#200">雷刻四種</title>
                      <title source="#200|9">lei ke si zhong</title>
                      <note source="#290">(清)雷浚撰</note>
-                     <author source="#300"><persName>(清)雷浚</persName><persName type="9">lei
+                     <author source="#300" key="person_6185"><persName>(清)雷浚</persName><persName type="9">lei
                            jun</persName></author>
                      <note source="#409">清光緒甲申[1884]雷氏刊本</note>
                      <msItem n="1">
                         <title>說文引經例辨 ^三卷^</title>
                         <title source="9">shuo wen yin jing li bian</title>
-                        <author><persName>(清)雷浚</persName><persName type="9">lei
+                        <author key="person_6185"><persName>(清)雷浚</persName><persName type="9">lei
                            jun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150401/17:17:28|odh -->
@@ -66,7 +66,7 @@
                      <msItem n="2">
                         <title>說文外編 ^十五卷補遺一卷^</title>
                         <title source="9">shuo wen wai bian</title>
-                        <author><persName>(清)雷浚</persName><persName type="9">lei
+                        <author key="person_6185"><persName>(清)雷浚</persName><persName type="9">lei
                            jun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150401/17:18:55|odh -->
@@ -76,7 +76,7 @@
                         <title>說文辨疑 ^一卷^</title>
                         <title source="9">shuo wen bian yi</title>
                         <note source="290">(清)顧廣圻撰</note>
-                        <author><persName>(清)顧廣圻</persName><persName type="9">gu guang
+                        <author key="person_6215"><persName>(清)顧廣圻</persName><persName type="9">gu guang
                            qi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150401/17:20:15|odh -->
@@ -86,7 +86,7 @@
                         <title>劉氏碎金 ^一卷^</title>
                         <title source="9">liu shi sui jin</title>
                         <note source="290">(清)劉禧延撰</note>
-                        <author><persName>(清)劉禧延</persName><persName type="9">liu xi
+                        <author key="person_3463"><persName>(清)劉禧延</persName><persName type="9">liu xi
                            yan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150401/17:22:06|odh -->

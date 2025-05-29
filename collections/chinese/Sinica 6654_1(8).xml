@@ -52,12 +52,12 @@
                      <title source="#200">潛采堂書目四種</title>
                      <title source="#200|9">qian cai tang shu mu si zhong</title>
                      <note source="#290">(清)朱彝尊撰</note>
-                     <author source="#300"><persName>(清)朱彝尊</persName><persName type="9">zhu yi
+                     <author source="#300" key="person_4396"><persName>(清)朱彝尊</persName><persName type="9">zhu yi
                            zun</persName></author>
                      <msItem n="1">
                         <title>全唐詩未備書目 ^一卷^</title>
                         <title source="9">quan tang shi wei bei shu mu</title>
-                        <author><persName>(清)朱彝尊</persName><persName type="9">zhu yi
+                        <author key="person_4396"><persName>(清)朱彝尊</persName><persName type="9">zhu yi
                            zun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20171103/00000009|odh -->
@@ -66,7 +66,7 @@
                      <msItem n="2">
                         <title>明詩綜采摭書目 ^一卷^</title>
                         <title source="9">ming shi zong cai zhi shu mu</title>
-                        <author><persName>(清)朱彝尊</persName><persName type="9">zhu yi
+                        <author key="person_4396"><persName>(清)朱彝尊</persName><persName type="9">zhu yi
                            zun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20171103/00000010|odh -->
@@ -75,7 +75,7 @@
                      <msItem n="3">
                         <title>兩淮鹽筴書引證書目 ^一卷^</title>
                         <title source="9">liang huai yan ce shu yin zheng shu mu</title>
-                        <author><persName>(清)朱彝尊</persName><persName type="9">zhu yi
+                        <author key="person_4396"><persName>(清)朱彝尊</persName><persName type="9">zhu yi
                            zun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20171103/00000011|odh -->
@@ -84,7 +84,7 @@
                      <msItem n="4">
                         <title>竹垞行笈書目 ^一卷^</title>
                         <title source="9">zhu cha xing ji shu mu</title>
-                        <author><persName>(清)朱彝尊</persName><persName type="9">zhu yi
+                        <author key="person_4396"><persName>(清)朱彝尊</persName><persName type="9">zhu yi
                            zun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20171103/00000012|odh -->

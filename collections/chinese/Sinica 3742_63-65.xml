@@ -54,9 +54,9 @@
                      <title source="#200|9">tai wan zheng shi shi mo</title>
                      <note source="#290">(清)沈雲撰</note>
                      <note source="#290">(清)沈垚注</note>
-                     <author source="#300"><persName>(清)沈雲</persName><persName type="9">shen
+                     <author source="#300" key="person_4908"><persName>(清)沈雲</persName><persName type="9">shen
                            yun</persName></author>
-                     <author source="#300"><persName>(清)沈垚</persName><persName type="9">shen
+                     <author source="#300" key="person_4841"><persName>(清)沈垚</persName><persName type="9">shen
                            yao</persName></author>
                      <note source="#600">民國八年[1919]﹑十一年[1922]刊</note>
                   </msItem>
@@ -64,7 +64,7 @@
                      <title source="#201">寶前兩溪志略 ^十二卷^</title>
                      <title source="#201|9">bao qian liang xi zhi lue</title>
                      <note source="#291">(清)吳玉樹撰</note>
-                     <author source="#301"><persName>(清)吳玉樹</persName><persName type="9">wu yu
+                     <author source="#301" key="person_3605"><persName>(清)吳玉樹</persName><persName type="9">wu yu
                            shu</persName></author>
                   </msItem>
                </msContents>

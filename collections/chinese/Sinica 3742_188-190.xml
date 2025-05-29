@@ -53,7 +53,7 @@
                      <title source="#200">遲鴻軒詩棄 ^四卷補遺一卷文棄二卷補遺一卷詩續一卷文續一卷^</title>
                      <title source="#200|9">chi hong xuan shi qi</title>
                      <note source="#290">(清)楊峴撰</note>
-                     <author source="#300"><persName>(清)楊峴</persName><persName type="9">yang
+                     <author source="#300" key="person_4675"><persName>(清)楊峴</persName><persName type="9">yang
                            xian</persName></author>
                      <note source="#600">民國二年[1913]刊</note>
                   </msItem>
@@ -62,9 +62,9 @@
                      <title source="#201|9">miao sou nian pu</title>
                      <note source="#291">(清)楊峴自撰</note>
                      <note source="#291">(清)劉繼增續撰</note>
-                     <author source="#301"><persName>(清)楊峴</persName><persName type="9">yang
+                     <author source="#301" key="person_4675"><persName>(清)楊峴</persName><persName type="9">yang
                            xian</persName></author>
-                     <author source="#301"><persName>(清)劉繼增</persName><persName type="9">liu ji
+                     <author source="#301" key="person_3467"><persName>(清)劉繼增</persName><persName type="9">liu ji
                            zeng</persName></author>
                   </msItem>
                </msContents>

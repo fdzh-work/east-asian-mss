@@ -59,9 +59,9 @@
                         <title source="9">qian han shu yi wen zhi</title>
                         <note source="290">(漢)班固撰</note>
                         <note source="290">(唐)顏師古注</note>
-                        <author><persName>(漢)班固</persName><persName type="9">ban
+                        <author key="person_6571"><persName>(漢)班固</persName><persName type="9">ban
                            gu</persName></author>
-                        <author><persName>(唐)顏師古</persName><persName type="9">yan shi
+                        <author key="person_873"><persName>(唐)顏師古</persName><persName type="9">yan shi
                            gu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20131213/16:41:39|odh -->
@@ -71,7 +71,7 @@
                         <title>隋書經籍志 ^四卷^</title>
                         <title source="9">sui shu jing ji zhi</title>
                         <note source="290">(唐)長孫無忌等撰</note>
-                        <author><persName>(唐)長孫無忌</persName><persName type="9">zhang sun wu
+                        <author key="person_845"><persName>(唐)長孫無忌</persName><persName type="9">zhang sun wu
                               ji</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20131213/16:43:06|odh -->
@@ -82,7 +82,7 @@
                         <title>舊唐書經籍志 ^二卷^</title>
                         <title source="9">jiu tang shu jing ji zhi</title>
                         <note source="290">(後晉)劉昫等撰</note>
-                        <author><persName>(後晉)劉昫</persName><persName type="9">liu
+                        <author key="person_1877"><persName>(後晉)劉昫</persName><persName type="9">liu
                            xu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20131213/16:44:40|odh -->
@@ -93,7 +93,7 @@
                         <title>唐書藝文志 ^四卷^</title>
                         <title source="9">tang shu yi wen zhi</title>
                         <note source="290">(宋)歐陽修撰</note>
-                        <author><persName>(宋)歐陽修</persName><persName type="9">ou yang
+                        <author key="person_1349"><persName>(宋)歐陽修</persName><persName type="9">ou yang
                            xiu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20131213/16:45:59|odh -->
@@ -104,7 +104,7 @@
                         <title>宋史藝文志 ^八卷^</title>
                         <title source="9">song shi yi wen zhi</title>
                         <note source="290">(元)脫脫等撰</note>
-                        <author><persName>(元)脫脫</persName><persName type="9">tuo
+                        <author key="person_245"><persName>(元)脫脫</persName><persName type="9">tuo
                            tuo</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20131213/16:48:04|odh -->
@@ -115,11 +115,11 @@
                         <title source="9">song shi yi wen zhi bu</title>
                         <note source="290">(清)黃虞稷, (清)倪燦撰</note>
                         <note source="290">(清)盧文弨錄</note>
-                        <author><persName>(清)黃虞稷</persName><persName type="9">huang yu
+                        <author key="person_6410"><persName>(清)黃虞稷</persName><persName type="9">huang yu
                            ji</persName></author>
-                        <author><persName>(清)倪燦</persName><persName type="9">ni
+                        <author key="person_3369"><persName>(清)倪燦</persName><persName type="9">ni
                            can</persName></author>
-                        <author><persName>(清)盧文弨</persName><persName type="9">lu wen
+                        <author key="person_5212"><persName>(清)盧文弨</persName><persName type="9">lu wen
                            chao</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20131213/16:50:02|odh -->
@@ -130,9 +130,9 @@
                         <title source="9">bu liao jin yuan yi wen zhi</title>
                         <note source="290">(清)倪燦撰</note>
                         <note source="290">(清)盧文弨錄</note>
-                        <author><persName>(清)倪燦</persName><persName type="9">ni
+                        <author key="person_3369"><persName>(清)倪燦</persName><persName type="9">ni
                            can</persName></author>
-                        <author><persName>(清)盧文弨</persName><persName type="9">lu wen
+                        <author key="person_5212"><persName>(清)盧文弨</persName><persName type="9">lu wen
                            chao</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20131213/16:51:02|odh -->
@@ -142,7 +142,7 @@
                         <title>補三史藝文志 ^一卷^</title>
                         <title source="9">bu san shi yi wen zhi</title>
                         <note source="290">(清)金門詔撰</note>
-                        <author><persName>(清)金門詔</persName><persName type="9">jin men
+                        <author key="person_5901"><persName>(清)金門詔</persName><persName type="9">jin men
                               zhao</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20131213/16:51:48|odh -->
@@ -152,7 +152,7 @@
                         <title>元史藝文志 ^四卷^</title>
                         <title source="9">yuan shi yi wen zhi</title>
                         <note source="290">(清)錢大昕撰</note>
-                        <author><persName>(清)錢大昕</persName><persName type="9">qian da
+                        <author key="person_5917"><persName>(清)錢大昕</persName><persName type="9">qian da
                            xin</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20131213/16:52:53|odh -->
@@ -162,7 +162,7 @@
                         <title>明史藝文志 ^四卷^</title>
                         <title source="9">ming shi yi wen zhi</title>
                         <note source="290">(清)張廷玉等修</note>
-                        <author><persName>(清)張廷玉</persName><persName type="9">zhang ting
+                        <author key="person_4016"><persName>(清)張廷玉</persName><persName type="9">zhang ting
                               yu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20131213/16:53:49|odh -->

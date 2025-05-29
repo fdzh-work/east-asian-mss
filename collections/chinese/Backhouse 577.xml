@@ -52,16 +52,16 @@
                      <title source="#200|9">san zi juan zhai kou yi</title>
                      <note source="#290">(宋)林希逸撰</note>
                      <note source="#290">(明)張四維補</note>
-                     <author source="#300"><persName>(宋)林希逸</persName><persName type="9">lin xi
+                     <author source="#300" key="person_1312"><persName>(宋)林希逸</persName><persName type="9">lin xi
                            yi</persName></author>
-                     <author source="#300"><persName>(明)張四維</persName><persName type="9">zhang si
+                     <author source="#300" key="person_2173"><persName>(明)張四維</persName><persName type="9">zhang si
                            wei</persName></author>
                      <note source="#409">明萬曆二年[1574]敬義堂刊本</note>
                      <editor source="#440" role="pbl"><persName>敬義堂</persName><persName type="9" role="pbl">jing yi tang</persName></editor>
                      <msItem n="1">
                         <title>老子鬳齋口義 ^二卷^</title>
                         <title source="9">lao zi juan zhai kou yi</title>
-                        <author><persName>(宋)林希逸</persName><persName type="9">lin xi
+                        <author key="person_1312"><persName>(宋)林希逸</persName><persName type="9">lin xi
                            yi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20130703/12:32:05|odh -->
@@ -70,7 +70,7 @@
                      <msItem n="2">
                         <title>列子鬳齋口義 ^二卷^</title>
                         <title source="9">lie zi juan zhai kou yi</title>
-                        <author><persName>(宋)林希逸</persName><persName type="9">lin xi
+                        <author key="person_1312"><persName>(宋)林希逸</persName><persName type="9">lin xi
                            yi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20130703/12:33:18|odh -->
@@ -79,7 +79,7 @@
                      <msItem n="3">
                         <title>莊子鬳齋口義 ^十卷釋音一卷^</title>
                         <title source="9">zhuang zi juan zhai kou yi</title>
-                        <author><persName>(宋)林希逸</persName><persName type="9">lin xi
+                        <author key="person_1312"><persName>(宋)林希逸</persName><persName type="9">lin xi
                            yi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20130703/12:35:12|odh -->

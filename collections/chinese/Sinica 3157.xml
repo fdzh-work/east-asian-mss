@@ -54,14 +54,14 @@
                      <title type="variant" source="#230">賭棋山莊集</title>
                      <title source="#230|9" type="variant">du qi shan zhuang ji</title>
                      <note source="#290">(清)謝章鋌撰</note>
-                     <author source="#300"><persName>(清)謝章鋌</persName><persName type="9">xie zhang
+                     <author source="#300" key="person_5698"><persName>(清)謝章鋌</persName><persName type="9">xie zhang
                            ting</persName></author>
                      <note source="#409">清光緒中福州刊本</note>
                      <note source="#600">版心題名「賭棋山莊集」</note>
                      <msItem n="1">
                         <title>賭棋山莊集 ^存文續二卷文又續二卷詩十四卷酒邊詞八卷^</title>
                         <title source="9">du qi shan zhuang ji</title>
-                        <author><persName>(清)謝章鋌</persName><persName type="9">xie zhang
+                        <author key="person_5698"><persName>(清)謝章鋌</persName><persName type="9">xie zhang
                               ting</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150401/16:41:29|odh -->
@@ -72,7 +72,7 @@
                      <msItem n="2">
                         <title>賭棋山莊集 ^詞話十二卷續編五卷^</title>
                         <title source="9">du qi shan zhuang ji</title>
-                        <author><persName>(清)謝章鋌</persName><persName type="9">xie zhang
+                        <author key="person_5698"><persName>(清)謝章鋌</persName><persName type="9">xie zhang
                               ting</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150401/16:44:44|odh -->
@@ -82,7 +82,7 @@
                      <msItem n="3">
                         <title>賭棋山莊筆記</title>
                         <title source="9">du qi shan zhuang bi ji</title>
-                        <author><persName>(清)謝章鋌</persName><persName type="9">xie zhang
+                        <author key="person_5698"><persName>(清)謝章鋌</persName><persName type="9">xie zhang
                               ting</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150401/16:46:36|odh -->
@@ -91,7 +91,7 @@
                         <msItem n="1">
                            <title>圍爐瑣憶 ^一卷^</title>
                            <title source="9">wei lu suo yi</title>
-                           <author><persName>(清)謝章鋌</persName><persName type="9">xie zhang
+                           <author key="person_5698"><persName>(清)謝章鋌</persName><persName type="9">xie zhang
                                  ting</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20150401/16:47:16|odh -->
@@ -101,7 +101,7 @@
                         <msItem n="2">
                            <title>藤陰客贅</title>
                            <title source="9">teng yin ke zhui</title>
-                           <author><persName>(清)謝章鋌</persName><persName type="9">xie zhang
+                           <author key="person_5698"><persName>(清)謝章鋌</persName><persName type="9">xie zhang
                                  ting</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20150401/16:48:22|odh -->
@@ -111,7 +111,7 @@
                         <msItem n="3">
                            <title>稗販雜錄 ^四卷^</title>
                            <title source="9">bai fan za lu</title>
-                           <author><persName>(清)謝章鋌</persName><persName type="9">xie zhang
+                           <author key="person_5698"><persName>(清)謝章鋌</persName><persName type="9">xie zhang
                                  ting</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20150401/16:49:09|odh -->
@@ -121,7 +121,7 @@
                      <msItem n="4">
                         <title>課餘偶錄 ^四卷續錄五卷^</title>
                         <title source="9">ke yu ou lu</title>
-                        <author><persName>(清)謝章鋌</persName><persName type="9">xie zhang
+                        <author key="person_5698"><persName>(清)謝章鋌</persName><persName type="9">xie zhang
                               ting</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150401/16:54:24|odh -->
@@ -132,7 +132,7 @@
                         <title>賭棋山莊八十壽言 ^一卷^</title>
                         <title source="9">du qi shan zhuang ba shi shou yi</title>
                         <note source="290">(清)謝章鋌編</note>
-                        <author><persName>(清)謝章鋌</persName><persName type="9">xie zhang
+                        <author key="person_5698"><persName>(清)謝章鋌</persName><persName type="9">xie zhang
                               ting</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150401/16:56:37|odh -->

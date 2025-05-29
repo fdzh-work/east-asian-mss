@@ -51,13 +51,13 @@
                      <title source="#200">觀我生室彙稿</title>
                      <title source="#200|9">guan wo sheng shi hui gao</title>
                      <note source="#290">(清)羅士琳撰</note>
-                     <author source="#300"><persName>(清)羅士琳</persName><persName type="9">luo shi
+                     <author source="#300" key="person_5324"><persName>(清)羅士琳</persName><persName type="9">luo shi
                            lin</persName></author>
                      <note source="#409">清道光中刊本</note>
                      <msItem n="1">
                         <title>句股容三事拾遺 ^三卷附存一卷</title>
                         <title source="9">gou gu rong san shi shi yi</title>
-                        <author><persName>(清)羅士琳</persName><persName type="9">luo shi
+                        <author key="person_5324"><persName>(清)羅士琳</persName><persName type="9">luo shi
                            lin</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140205/12:05:17|odh -->
@@ -69,7 +69,7 @@
                      <msItem n="2">
                         <title>三角和較算例 ^一卷^</title>
                         <title source="9">san jiao he jiao suan li</title>
-                        <author><persName>(清)羅士琳</persName><persName type="9">luo shi
+                        <author key="person_5324"><persName>(清)羅士琳</persName><persName type="9">luo shi
                            lin</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140205/12:07:42|odh -->
@@ -80,7 +80,7 @@
                      <msItem n="3">
                         <title>演元九式 ^一卷^</title>
                         <title source="9">yan yuan jiu shi</title>
-                        <author><persName>(清)羅士琳</persName><persName type="9">luo shi
+                        <author key="person_5324"><persName>(清)羅士琳</persName><persName type="9">luo shi
                            lin</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140205/12:09:43|odh -->
@@ -91,7 +91,7 @@
                      <msItem n="4">
                         <title>臺錐積演 ^一卷^</title>
                         <title source="9">tai zhui ji yan</title>
-                        <author><persName>(清)羅士琳</persName><persName type="9">luo shi
+                        <author key="person_5324"><persName>(清)羅士琳</persName><persName type="9">luo shi
                            lin</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140205/12:11:06|odh -->
@@ -102,7 +102,7 @@
                      <msItem n="5">
                         <title>弧矢筭術補 ^一卷^</title>
                         <title source="9">hu shi suan shu bu</title>
-                        <author><persName>(清)羅士琳</persName><persName type="9">luo shi
+                        <author key="person_5324"><persName>(清)羅士琳</persName><persName type="9">luo shi
                            lin</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140205/12:13:03|odh -->
@@ -113,7 +113,7 @@
                      <msItem n="6">
                         <title>周無專鼎銘攷 ^一卷^</title>
                         <title source="9">zhou wu zhuan ding ming kao</title>
-                        <author><persName>(清)羅士琳</persName><persName type="9">luo shi
+                        <author key="person_5324"><persName>(清)羅士琳</persName><persName type="9">luo shi
                            lin</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140205/12:14:13|odh -->
@@ -124,7 +124,7 @@
                      <msItem n="7">
                         <title>增廣新術 ^二卷^</title>
                         <title source="9">zeng guang xin shu</title>
-                        <author><persName>(清)羅士琳</persName><persName type="9">luo shi
+                        <author key="person_5324"><persName>(清)羅士琳</persName><persName type="9">luo shi
                            lin</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140213/15:18:34|odh -->
@@ -136,9 +136,9 @@
                         <title source="9">ge huan mi shuai jie fa</title>
                         <note source="290">(清)明安圖撰</note>
                         <note source="290">(清)陳際新等續</note>
-                        <author><persName>(清)明安圖</persName><persName type="9">ming an
+                        <author key="person_4336"><persName>(清)明安圖</persName><persName type="9">ming an
                            tu</persName></author>
-                        <author><persName>(清)陳際新</persName><persName type="9">chen ji
+                        <author key="person_6122"><persName>(清)陳際新</persName><persName type="9">chen ji
                            xin</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140205/12:20:03|odh -->
@@ -154,16 +154,16 @@
                            <title source="9">si xiang xi cao ling zhi tu</title>
                            <note source="290">(元)朱世傑撰</note>
                            <note source="290">(清)羅士琳補</note>
-                           <author><persName>(元)朱世傑</persName><persName type="9">zhu shi
+                           <author key="person_145"><persName>(元)朱世傑</persName><persName type="9">zhu shi
                                  jie</persName></author>
-                           <author><persName>(清)羅士琳</persName><persName type="9">luo shi
+                           <author key="person_5324"><persName>(清)羅士琳</persName><persName type="9">luo shi
                                  lin</persName></author>
                         </msItem>
                         <msItem n="2">
                            <title>^附^ 四元玉鑑細艸補增 ^一卷^</title>
                            <title type="9">si yuan yu jian xi cao bu zeng</title>
                            <note source="#291">(清)羅士琳撰</note>
-                           <author><persName>(清)羅士琳</persName><persName type="9">luo shi
+                           <author key="person_5324"><persName>(清)羅士琳</persName><persName type="9">luo shi
                                  lin</persName></author>
                         </msItem>
                         <!--Unused allegro fields-->
@@ -177,7 +177,7 @@
                         <title>四元釋例 ^一卷^</title>
                         <title source="9">si yuan shi li</title>
                         <note source="290">(清)易之瀚撰</note>
-                        <author><persName>(清)易之瀚</persName><persName type="9">yi zhi
+                        <author key="person_4337"><persName>(清)易之瀚</persName><persName type="9">yi zhi
                            han</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140213/15:32:55|odh -->
@@ -188,14 +188,14 @@
                            <title>新編筭學啟蒙 ^三卷^</title>
                            <title source="9">xin bian suan xue qi meng</title>
                            <note source="290">(元)朱世傑撰</note>
-                           <author><persName>(元)朱世傑</persName><persName type="9">zhu shi
+                           <author key="person_145"><persName>(元)朱世傑</persName><persName type="9">zhu shi
                                  jie</persName></author>
                         </msItem>
                         <msItem n="2">
                            <title>筭學啟蒙識誤 ^一卷^</title>
                            <title type="9">suan xue qi meng shi wu</title>
                            <note source="#291">(清)羅士琳撰</note>
-                           <author><persName>(清)羅士琳</persName><persName type="9">luo shi
+                           <author key="person_5324"><persName>(清)羅士琳</persName><persName type="9">luo shi
                                  lin</persName></author>
                         </msItem>
                         <!--Unused allegro fields-->
@@ -210,14 +210,14 @@
                            <title>疇人傳 ^四十六卷^</title>
                            <title source="9">chou ren zhuan</title>
                            <note source="290">(清)阮元傑撰</note>
-                           <author><persName>(清)阮元傑</persName><persName type="9">ruan
+                           <author key="person_5988"><persName>(清)阮元傑</persName><persName type="9">ruan
                                  yuan</persName></author>
                         </msItem>
                         <msItem n="2">
                            <title>續疇人傳 ^六卷^</title>
                            <title type="9">xu chou ren zhuan</title>
                            <note source="#291">(清)羅士琳撰</note>
-                           <author><persName>(清)羅士琳</persName><persName type="9">luo shi
+                           <author key="person_5324"><persName>(清)羅士琳</persName><persName type="9">luo shi
                                  lin</persName></author>
                         </msItem>
                         <!--Unused allegro fields-->

@@ -52,14 +52,14 @@
                      <title source="#200">魯齋王文憲公文集 ^二十卷^</title>
                      <title source="#200|9">lu zhai wang wen xian gong wen ji</title>
                      <note source="#290">(宋)王柏撰</note>
-                     <author source="#300"><persName>(宋)王柏</persName><persName type="9">wang
+                     <author source="#300" key="person_1430"><persName>(宋)王柏</persName><persName type="9">wang
                            bai</persName></author>
                   </msItem>
                   <msItem n="2">
                      <title source="#201">魯齋王文憲公文集考異 ^一卷^</title>
                      <title source="#201|9">lu zhai wang wen xian gong wen ji kao yi</title>
                      <note source="#291">(民國)胡宗楙撰</note>
-                     <author source="#301"><persName>(民國)胡宗楙</persName><persName type="9">hu zong
+                     <author source="#301" key="person_3169"><persName>(民國)胡宗楙</persName><persName type="9">hu zong
                            mao</persName></author>
                   </msItem>
                </msContents>

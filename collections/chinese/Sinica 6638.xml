@@ -51,7 +51,7 @@
                      <title source="#200">西隃山房集</title>
                      <title source="#200|9">xi yu shan fang ji</title>
                      <note source="#290">(清)馮志沂撰</note>
-                     <author source="#300"><persName>(清)馮志沂</persName><persName type="9">feng zhi
+                     <author source="#300" key="person_6272"><persName>(清)馮志沂</persName><persName type="9">feng zhi
                            yi</persName></author>
                      <note source="#409">清咸豐同治間洪洞董麟刊本</note>
                      <msItem n="1">
@@ -59,7 +59,7 @@
                         <title source="9">wei shang zhai shi ji chu bian</title>
                         <title>微尚齋詩續集 ^二卷^</title>
                         <title source="9">wei shang zhai shi xu ji</title>
-                        <author><persName>(清)馮志沂</persName><persName type="9">feng zhi
+                        <author key="person_6272"><persName>(清)馮志沂</persName><persName type="9">feng zhi
                            yi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180521/12:38:37|odh -->
@@ -70,7 +70,7 @@
                      <msItem n="2">
                         <title>適適齋文集 ^二卷^</title>
                         <title source="9">shi shi zhai wen ji</title>
-                        <author><persName>(清)馮志沂</persName><persName type="9">feng zhi
+                        <author key="person_6272"><persName>(清)馮志沂</persName><persName type="9">feng zhi
                            yi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180521/12:42:42|odh -->

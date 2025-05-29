@@ -54,7 +54,7 @@
                      <title type="variant" source="#230">吳中十子詩鈔</title>
                      <title source="#230|9" type="variant">wu zhong shi zi shi chao</title>
                      <note source="#290">(清)任兆麟編</note>
-                     <author source="#300"><persName>(清)任兆麟</persName><persName type="9">ren zhao
+                     <author source="#300" key="person_3283"><persName>(清)任兆麟</persName><persName type="9">ren zhao
                            lin</persName></author>
                      <note source="#409">清乾隆己酉[1789]刊本</note>
                      <note source="#600">一名《吳中十子詩鈔》</note>
@@ -64,7 +64,7 @@
                         <title type="variant">潮生閣詩稿</title>
                         <title source="9" type="variant">chao sheng ge shi chao</title>
                         <note source="290">(清)張滋蘭撰</note>
-                        <author><persName>(清)張滋蘭</persName><persName type="9">zhang zi
+                        <author key="person_4056"><persName>(清)張滋蘭</persName><persName type="9">zhang zi
                               lan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140630/15:07:05|odh -->
@@ -76,7 +76,7 @@
                         <title>兩面樓詩稿 ^一卷^</title>
                         <title source="9">liang mian lou shi gao</title>
                         <note source="290">(清)張芬撰</note>
-                        <author><persName>(清)張芬</persName><persName type="9">zhang
+                        <author key="person_4097"><persName>(清)張芬</persName><persName type="9">zhang
                            fen</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140630/15:02:58|odh -->
@@ -87,7 +87,7 @@
                         <title>賞奇樓蠹餘稿 ^一卷^</title>
                         <title source="9">shang qi lou du yu gao</title>
                         <note source="290">(清)陸瑛撰</note>
-                        <author><persName>(清)陸瑛</persName><persName type="9">lu
+                        <author key="person_6165"><persName>(清)陸瑛</persName><persName type="9">lu
                            ying</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140630/15:12:25|odh -->
@@ -97,7 +97,7 @@
                         <title>琴好樓小製 ^一卷^</title>
                         <title source="9">qin hao lou xiao zhi</title>
                         <note source="290">(清)李媺撰</note>
-                        <author><persName>(清)李媺</persName><persName type="9">li
+                        <author key="person_4477"><persName>(清)李媺</persName><persName type="9">li
                            mei</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140630/15:14:34|odh -->
@@ -107,7 +107,7 @@
                         <title>采香樓詩集 ^一卷^</title>
                         <title source="9">cai xiang lou shi ji</title>
                         <note source="290">(清)席蕙文撰</note>
-                        <author><persName>(清)席蕙文</persName><persName type="9">xi hui
+                        <author key="person_3962"><persName>(清)席蕙文</persName><persName type="9">xi hui
                            wen</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140630/15:15:19|odh -->
@@ -117,7 +117,7 @@
                         <title>修竹廬吟稿 ^一卷^</title>
                         <title source="9">xiu zhu lu yin gao</title>
                         <note source="290">(清)朱宗淑撰</note>
-                        <author><persName>(清)朱宗淑</persName><persName type="9">zhu zong
+                        <author key="person_4392"><persName>(清)朱宗淑</persName><persName type="9">zhu zong
                               shu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140630/15:16:01|odh -->
@@ -127,7 +127,7 @@
                         <title>青藜閣詩集 ^一卷詞一卷^</title>
                         <title source="9">qing li ge shi ji</title>
                         <note source="290">(清)江珠撰</note>
-                        <author><persName>(清)江珠</persName><persName type="9">jiang
+                        <author key="person_4769"><persName>(清)江珠</persName><persName type="9">jiang
                            zhu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140630/15:16:59|odh -->
@@ -137,7 +137,7 @@
                         <title>翡翠樓詩集 ^一卷詞一卷^</title>
                         <title source="9">fei cui lou shi ji</title>
                         <note source="290">(清)沈纕撰</note>
-                        <author><persName>(清)沈纕</persName><persName type="9">shen
+                        <author key="person_4887"><persName>(清)沈纕</persName><persName type="9">shen
                            xiang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140630/15:18:17|odh -->
@@ -147,7 +147,7 @@
                         <title>曉春閣詩稿 ^一卷^</title>
                         <title source="9">xiao chun ge shi gao</title>
                         <note source="290">(清)尤澹仙撰</note>
-                        <author><persName>(清)尤澹仙</persName><persName type="9">you dan
+                        <author key="person_3927"><persName>(清)尤澹仙</persName><persName type="9">you dan
                               xian</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140630/15:21:06|odh -->
@@ -157,7 +157,7 @@
                         <title>停雲閣詩稿 ^一卷^</title>
                         <title source="9">ting yun ge shi gao</title>
                         <note source="290">(清)沈持玉撰</note>
-                        <author><persName>(清)沈持玉</persName><persName type="9">shen chi
+                        <author key="person_4864"><persName>(清)沈持玉</persName><persName type="9">shen chi
                            yu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140630/15:22:37|odh -->
@@ -167,7 +167,7 @@
                         <title>翡翠林閨秀雅集 ^一卷^</title>
                         <title source="9">fei cui lin gui xiu ya ji</title>
                         <note source="290">(清)任兆麟輯</note>
-                        <author><persName>(清)任兆麟</persName><persName type="9">ren zhao
+                        <author key="person_3283"><persName>(清)任兆麟</persName><persName type="9">ren zhao
                               lin</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140704/11:59:41|odh -->
@@ -177,7 +177,7 @@
                         <title>簫譜 ^一卷^</title>
                         <title source="9">xiao pu</title>
                         <note source="290">(清)任兆麟撰</note>
-                        <author><persName>(清)任兆麟</persName><persName type="9">ren zhao
+                        <author key="person_3283"><persName>(清)任兆麟</persName><persName type="9">ren zhao
                               lin</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140704/12:00:55|odh -->

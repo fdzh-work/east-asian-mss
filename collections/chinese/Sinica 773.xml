@@ -52,7 +52,7 @@
                      <title source="#200">淨土四經</title>
                      <title source="#200|9">jing tu si jing</title>
                      <note source="#290">(清)魏源編</note>
-                     <author source="#300"><persName>(清)魏源</persName><persName type="9">wei
+                     <author source="#300" key="person_6321"><persName>(清)魏源</persName><persName type="9">wei
                            yuan</persName></author>
                      <note source="#409">清咸豐八年[1858]湘潭周詒樸集貲刊本板存杭州西湖瑪瑙寺經房</note>
                      <editor source="#440" role="pbl"><persName>瑪瑙寺</persName><persName type="9" role="pbl">ma nao si</persName></editor>
@@ -60,7 +60,7 @@
                         <title>無量壽經疏 ^一卷^</title>
                         <title source="9">wu liang shou jing</title>
                         <note source="290">(清)魏源會譯</note>
-                        <author><persName>(清)魏源</persName><persName type="9">wei
+                        <author key="person_6321"><persName>(清)魏源</persName><persName type="9">wei
                            yuan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140613/10:00:26|odh -->
@@ -70,7 +70,7 @@
                         <title>觀無量壽佛經 ^一卷^</title>
                         <title source="9">guan wu liang shou fo jing</title>
                         <note source="290">(劉宋釋)畺良耶舍譯</note>
-                        <author><persName>(劉宋釋)畺良耶舍</persName><persName type="9">jiang liang ye
+                        <author key="person_395"><persName>(劉宋釋)畺良耶舍</persName><persName type="9">jiang liang ye
                               she</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140613/10:03:14|odh -->
@@ -80,7 +80,7 @@
                         <title>阿彌陀經 ^一卷^</title>
                         <title source="9">a mi tuo jing</title>
                         <note source="290">(姚秦釋)鳩摩羅什譯</note>
-                        <author><persName>(姚秦釋)鳩摩羅什</persName><persName type="9">jiu mo luo
+                        <author key="person_925"><persName>(姚秦釋)鳩摩羅什</persName><persName type="9">jiu mo luo
                               shi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140613/10:04:44|odh -->
@@ -90,7 +90,7 @@
                         <title>普賢行願品 ^一卷^</title>
                         <title source="9">pu xian xing yuan pin</title>
                         <note source="290">(唐釋)般若奉詔譯</note>
-                        <author><persName>(唐釋)般若</persName><persName type="9">ban
+                        <author key="person_915"><persName>(唐釋)般若</persName><persName type="9">ban
                            ruo</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140613/10:08:20|odh -->

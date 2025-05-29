@@ -52,13 +52,13 @@
                      <title source="#200">陳定生先生遺書三種</title>
                      <title source="#200|9">chen ding sheng xian sheng yi shu san zhong</title>
                      <note source="#290">(明)陳貞慧撰</note>
-                     <author source="#300"><persName>(明)陳貞慧</persName><persName type="9">chen zhen
+                     <author source="#300" key="person_2729"><persName>(明)陳貞慧</persName><persName type="9">chen zhen
                            hui</persName></author>
                      <note source="#600">光緒乙未[1895]刊</note>
                      <msItem n="1">
                         <title>秋園雜佩 ^一卷^</title>
                         <title source="9">qiu yuan za pei</title>
-                        <author><persName>(明)陳貞慧</persName><persName type="9">chen zhen
+                        <author key="person_2729"><persName>(明)陳貞慧</persName><persName type="9">chen zhen
                               hui</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180731/00000005|odh -->
@@ -67,7 +67,7 @@
                      <msItem n="2">
                         <title>山陽錄 ^一卷^</title>
                         <title source="9">shan yang lu</title>
-                        <author><persName>(明)陳貞慧</persName><persName type="9">chen zhen
+                        <author key="person_2729"><persName>(明)陳貞慧</persName><persName type="9">chen zhen
                               hui</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180731/00000006|odh -->
@@ -76,7 +76,7 @@
                      <msItem n="3">
                         <title>書事七則 ^一卷^</title>
                         <title source="9">shu shi qi ze</title>
-                        <author><persName>(明)陳貞慧</persName><persName type="9">chen zhen
+                        <author key="person_2729"><persName>(明)陳貞慧</persName><persName type="9">chen zhen
                               hui</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180731/00000007|odh -->

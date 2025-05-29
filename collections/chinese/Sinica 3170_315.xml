@@ -52,7 +52,7 @@
                      <title source="#200">晉陽秋輯本</title>
                      <title source="#200|9">jin yang qiu ji ben</title>
                      <note source="#290">(清)湯球輯</note>
-                     <author source="#300"><persName>(清)湯球</persName><persName type="9">tang
+                     <author source="#300" key="person_4949"><persName>(清)湯球</persName><persName type="9">tang
                            qiu</persName></author>
                   </msItem>
                </msContents>
@@ -100,7 +100,7 @@
                         <title>晉陽秋 ^三卷^</title>
                         <title source="9">jin yang qiu</title>
                         <note source="290">(晉)孫盛撰</note>
-                        <author><persName>(晉)孫盛</persName><persName type="9">sun
+                        <author key="person_2877"><persName>(晉)孫盛</persName><persName type="9">sun
                            sheng</persName></author>
                      </msItem>
                   </msContents>
@@ -126,7 +126,7 @@
                         <title>續晉陽秋 ^二卷^</title>
                         <title source="9">xu jin yang qiu</title>
                         <note source="290">(劉宋)檀道鸞撰</note>
-                        <author><persName>(劉宋)檀道鸞</persName><persName type="9">tan dao
+                        <author key="person_367"><persName>(劉宋)檀道鸞</persName><persName type="9">tan dao
                               luan</persName></author>
                      </msItem>
                   </msContents>

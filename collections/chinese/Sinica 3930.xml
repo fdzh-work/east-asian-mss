@@ -61,7 +61,7 @@
                         <title>周易劄記 ^二卷^</title>
                         <title source="9">zhou yi zha ji</title>
                         <note source="290">(清)楊名時撰</note>
-                        <author><persName>(清)楊名時</persName><persName type="9">yang ming
+                        <author key="person_4665"><persName>(清)楊名時</persName><persName type="9">yang ming
                               shi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00004478|ons -->
@@ -71,7 +71,7 @@
                         <title>東家雜記 ^二卷^</title>
                         <title source="9">dong jia za ji</title>
                         <note source="290">(宋)孔傳撰</note>
-                        <author><persName>(宋)孔傳</persName><persName type="9">kong
+                        <author key="person_1093"><persName>(宋)孔傳</persName><persName type="9">kong
                            chuan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00004479|ons -->
@@ -81,7 +81,7 @@
                         <title>中西經星同異考 ^一卷^</title>
                         <title source="9">zhong xi jing xing tong yi kao</title>
                         <note source="290">(清)梅文鼎撰</note>
-                        <author><persName>(清)梅文鼎</persName><persName type="9">mei wen
+                        <author key="person_4650"><persName>(清)梅文鼎</persName><persName type="9">mei wen
                               ding</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00004480|ons -->
@@ -91,7 +91,7 @@
                         <title>雲峰集 ^十卷^</title>
                         <title source="9">yun feng ji</title>
                         <note source="290">(元)胡炳文撰</note>
-                        <author><persName>(元)胡炳文</persName><persName type="9">hu bing
+                        <author key="person_244"><persName>(元)胡炳文</persName><persName type="9">hu bing
                            wen</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00004481|ons -->

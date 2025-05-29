@@ -53,15 +53,15 @@
                      <title source="#200|9">li wen zhong gong quan ji</title>
                      <note source="#290">(清)李鴻章撰</note>
                      <note source="#290">(清)吳汝綸編</note>
-                     <author source="#300"><persName>(清)李鴻章</persName><persName type="9">li hong
+                     <author source="#300" key="person_4563"><persName>(清)李鴻章</persName><persName type="9">li hong
                            zhang</persName></author>
-                     <author source="#300"><persName>(清)吳汝綸</persName><persName type="9">wu ru
+                     <author source="#300" key="person_3598"><persName>(清)吳汝綸</persName><persName type="9">wu ru
                            lun</persName></author>
                      <note source="#409">清光緒戊申年[1908]金陵刊本</note>
                      <msItem n="1">
                         <title>李文忠公奏稿 ^八十卷^</title>
                         <title source="9">li wen zhong gong zou gao</title>
-                        <author><persName>(清)李鴻章</persName><persName type="9">li hong
+                        <author key="person_4563"><persName>(清)李鴻章</persName><persName type="9">li hong
                               zhang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20141013/17:36:27|odh -->
@@ -71,7 +71,7 @@
                      <msItem n="2">
                         <title>李文忠公朋僚函稿 ^二十卷^</title>
                         <title source="9">li wen zhong gong peng liao han gao</title>
-                        <author><persName>(清)李鴻章</persName><persName type="9">li hong
+                        <author key="person_4563"><persName>(清)李鴻章</persName><persName type="9">li hong
                               zhang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20141013/17:39:34|odh -->
@@ -80,7 +80,7 @@
                      <msItem n="3">
                         <title>李文忠公譯署函稿 ^二十卷^</title>
                         <title source="9">li wen zhong gong yi shu han gao</title>
-                        <author><persName>(清)李鴻章</persName><persName type="9">li hong
+                        <author key="person_4563"><persName>(清)李鴻章</persName><persName type="9">li hong
                               zhang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20141013/17:40:34|odh -->
@@ -90,7 +90,7 @@
                         <title>李文忠公遷移蠶池口教堂函稿 ^一卷^</title>
                         <title source="9">li wen zhong gong qian yi can chi kou jiao tang han
                            gao</title>
-                        <author><persName>(清)李鴻章</persName><persName type="9">li hong
+                        <author key="person_4563"><persName>(清)李鴻章</persName><persName type="9">li hong
                               zhang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20141013/17:41:26|odh -->
@@ -99,7 +99,7 @@
                      <msItem n="5">
                         <title>李文忠公海軍函稿 ^四卷^</title>
                         <title source="9">li wen zhong gong hai jun han gao</title>
-                        <author><persName>(清)李鴻章</persName><persName type="9">li hong
+                        <author key="person_4563"><persName>(清)李鴻章</persName><persName type="9">li hong
                               zhang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20141013/17:42:01|odh -->
@@ -108,7 +108,7 @@
                      <msItem n="6">
                         <title>李文忠公電稿 ^四十卷^</title>
                         <title source="9">li wen zhong gong dian gao</title>
-                        <author><persName>(清)李鴻章</persName><persName type="9">li hong
+                        <author key="person_4563"><persName>(清)李鴻章</persName><persName type="9">li hong
                               zhang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20141013/17:42:36|odh -->

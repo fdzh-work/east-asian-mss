@@ -55,9 +55,9 @@
                      <title source="#200|9">ying kan song jin yuan ming ben ci si shi zhong</title>
                      <note source="#290">(民國)吳昌綬輯</note>
                      <note source="#290">(民國)陶湘續輯</note>
-                     <author source="#300"><persName>(民國)吳昌綬</persName><persName type="9">wu chang
+                     <author source="#300" key="person_3080"><persName>(民國)吳昌綬</persName><persName type="9">wu chang
                            shou</persName></author>
-                     <author source="#300"><persName>(民國)陶湘</persName><persName type="9">tao
+                     <author source="#300" key="person_3216"><persName>(民國)陶湘</persName><persName type="9">tao
                            xiang</persName></author>
                      <note source="#409">清宣統三年[1911]至民國六年[1917]仁和吳氏雙照樓刊民國六年[1917]至十二年[1923]武進陶氏涉園續刊</note>
                   </msItem>
@@ -108,7 +108,7 @@
                         <title source="9" type="variant">ying kan song jin yuan ming ben ci si shi
                            zhong xu lu</title>
                         <note source="290">(民國)陶湘撰</note>
-                        <author><persName>(民國)陶湘</persName><persName type="9">tao
+                        <author key="person_3216"><persName>(民國)陶湘</persName><persName type="9">tao
                            xiang</persName></author>
                         <note source="600">封面題名《景刊宋金元明本詞四十種敘錄》</note>
                      </msItem>
@@ -135,7 +135,7 @@
                         <title>歐陽文忠公集近體樂府 ^三卷^</title>
                         <title source="9">ou yang wen zhong gong ji jin ti yue fu</title>
                         <note source="290">(宋)歐陽修撰</note>
-                        <author><persName>(宋)歐陽修</persName><persName type="9">ou yang
+                        <author key="person_1349"><persName>(宋)歐陽修</persName><persName type="9">ou yang
                            xiu</persName></author>
                         <note source="600">宣統辛亥[1911]影刊宋吉州本</note>
                      </msItem>
@@ -163,7 +163,7 @@
                         <title>醉翁琴趣外篇 ^六卷^</title>
                         <title source="9">zui weng qin qu wai pian</title>
                         <note source="290">(宋)歐陽修撰</note>
-                        <author><persName>(宋)歐陽修</persName><persName type="9">ou yang
+                        <author key="person_1349"><persName>(宋)歐陽修</persName><persName type="9">ou yang
                            xiu</persName></author>
                         <note source="600">影刊宋本</note>
                      </msItem>
@@ -191,7 +191,7 @@
                         <title>閑齋琴趣外篇 ^六卷^</title>
                         <title source="9">xian zhai qin qu wai pian</title>
                         <note source="290">(宋)晁元禮撰</note>
-                        <author><persName>(宋)晁元禮</persName><persName type="9">chao yuan
+                        <author key="person_1222"><persName>(宋)晁元禮</persName><persName type="9">chao yuan
                               li</persName></author>
                         <note source="600">影刊宋本</note>
                      </msItem>
@@ -247,7 +247,7 @@
                         <title>酒邊集 ^一卷^</title>
                         <title source="9">jiu bian ji</title>
                         <note source="290">(宋)向子諲撰</note>
-                        <author><persName>(宋)向子諲</persName><persName type="9">xiang zi
+                        <author key="person_1011"><persName>(宋)向子諲</persName><persName type="9">xiang zi
                               yin</persName></author>
                         <note source="600">影刊宋本</note>
                      </msItem>
@@ -275,7 +275,7 @@
                         <title>蘆川詞 ^二卷^</title>
                         <title source="9">lu chuan ci</title>
                         <note source="290">(宋)張元幹撰</note>
-                        <author><persName>(宋)張元幹</persName><persName type="9">zhang yuan
+                        <author key="person_1144"><persName>(宋)張元幹</persName><persName type="9">zhang yuan
                               gan</persName></author>
                         <note source="600">民國壬子[1912]影刊宋本</note>
                      </msItem>
@@ -305,7 +305,7 @@
                         <title type="variant">于湖居士樂府</title>
                         <title source="9" type="variant">yu hu ju shi yue fu</title>
                         <note source="290">(宋)張孝祥撰</note>
-                        <author><persName>(宋)張孝祥</persName><persName type="9">zhang xiao
+                        <author key="person_1152"><persName>(宋)張孝祥</persName><persName type="9">zhang xiao
                               xiang</persName></author>
                         <note source="600">民國乙未[1915]影刊宋本</note>
                      </msItem>
@@ -366,7 +366,7 @@
                         <title type="variant">鶴山先生長短句</title>
                         <title source="9" type="variant">he shan xian sheng chang duan ju</title>
                         <note source="290">(宋)魏了翁撰</note>
-                        <author><persName>(宋)魏了翁</persName><persName type="9">wei liao
+                        <author key="person_1809"><persName>(宋)魏了翁</persName><persName type="9">wei liao
                               weng</persName></author>
                         <note source="600">影刊宋本</note>
                      </msItem>
@@ -398,7 +398,7 @@
                         <title type="variant">可齋詞 ^七卷^</title>
                         <title source="9" type="variant">ke zhai ci</title>
                         <note source="290">(宋)李曾伯撰</note>
-                        <author><persName>(宋)李曾伯</persName><persName type="9">li zeng
+                        <author key="person_1281"><persName>(宋)李曾伯</persName><persName type="9">li zeng
                            bo</persName></author>
                         <note source="600">影刊宋本</note>
                      </msItem>
@@ -428,7 +428,7 @@
                         <title type="variant">石屏詞</title>
                         <title source="9" type="variant">shi ping ci</title>
                         <note source="290">(宋)戴復古撰</note>
-                        <author><persName>(宋)戴復古</persName><persName type="9">dai fu
+                        <author key="person_1209"><persName>(宋)戴復古</persName><persName type="9">dai fu
                            gu</persName></author>
                         <note source="600">影刊宋本</note>
                      </msItem>
@@ -456,7 +456,7 @@
                         <title>梅屋詩餘 ^一卷^</title>
                         <title source="9">mei wu shi yu</title>
                         <note source="290">(宋)許棐撰</note>
-                        <author><persName>(宋)許棐</persName><persName type="9">xu
+                        <author key="person_1615"><persName>(宋)許棐</persName><persName type="9">xu
                            fei</persName></author>
                         <note source="600">影刊宋本</note>
                      </msItem>
@@ -484,7 +484,7 @@
                         <title>知常先生雲山集 ^殘一卷(存卷三)^</title>
                         <title source="9">zhi chang xian sheng yun shan ji</title>
                         <note source="290">(元)姬翼撰</note>
-                        <author><persName>(元)姬翼</persName><persName type="9">ji
+                        <author key="person_96"><persName>(元)姬翼</persName><persName type="9">ji
                            yi</persName></author>
                         <note source="600">民國癸丑[1913]影刊元延祐本</note>
                      </msItem>
@@ -512,7 +512,7 @@
                         <title>花間集 ^十卷^</title>
                         <title source="9">hua jian ji</title>
                         <note source="290">(後蜀)趙崇祚輯</note>
-                        <author><persName>(後蜀)趙崇祚</persName><persName type="9">zhao chong
+                        <author key="person_1880"><persName>(後蜀)趙崇祚</persName><persName type="9">zhao chong
                               zuo</persName></author>
                         <note source="600">民國甲寅[1914]影刊明正德仿宋本</note>
                      </msItem>
@@ -570,7 +570,7 @@
                         <title>中州樂府 ^一卷^</title>
                         <title source="9">zhong zhou yue fu</title>
                         <note source="290">(金)元好問輯</note>
-                        <author><persName>(金)元好問</persName><persName type="9">yuan hao
+                        <author key="person_6651"><persName>(金)元好問</persName><persName type="9">yuan hao
                               wen</persName></author>
                         <note source="600">影刊元至大本</note>
                      </msItem>
@@ -628,7 +628,7 @@
                         <title>東山詞 ^存卷上(原二卷)^</title>
                         <title source="9">dong shan ci</title>
                         <note source="290">(宋)賀鑄撰</note>
-                        <author><persName>(宋)賀鑄</persName><persName type="9">he
+                        <author key="person_1635"><persName>(宋)賀鑄</persName><persName type="9">he
                            zhu</persName></author>
                         <note source="600">影刊宋本</note>
                      </msItem>
@@ -687,9 +687,9 @@
                         <title source="9" type="variant">pian yu ji</title>
                         <note source="290">(宋)周邦彥撰</note>
                         <note source="290">(宋)陳元龍集註</note>
-                        <author><persName>(宋)周邦彥</persName><persName type="9">zhou bang
+                        <author key="person_1073"><persName>(宋)周邦彥</persName><persName type="9">zhou bang
                               yan</persName></author>
-                        <author><persName>(宋)陳元龍</persName><persName type="9">chen yuan
+                        <author key="person_1736"><persName>(宋)陳元龍</persName><persName type="9">chen yuan
                               long</persName></author>
                         <note source="600">影刊宋本</note>
                      </msItem>
@@ -717,7 +717,7 @@
                         <title>稼軒詞 ^甲集一卷乙集一卷丙集一卷^</title>
                         <title source="9">jia xuan ci</title>
                         <note source="290">(宋)辛棄疾撰</note>
-                        <author><persName>(宋)辛棄疾</persName><persName type="9">xin qi
+                        <author key="person_1678"><persName>(宋)辛棄疾</persName><persName type="9">xin qi
                            ji</persName></author>
                         <note source="600">影刊宋本</note>
                      </msItem>
@@ -745,7 +745,7 @@
                         <title>稼軒長短句 ^十二卷^</title>
                         <title source="9">jia xuan chang duan ju</title>
                         <note source="290">(宋)辛棄疾撰</note>
-                        <author><persName>(宋)辛棄疾</persName><persName type="9">xin qi
+                        <author key="person_1678"><persName>(宋)辛棄疾</persName><persName type="9">xin qi
                            ji</persName></author>
                         <note source="600">影刊小草齋鈔本</note>
                      </msItem>
@@ -773,7 +773,7 @@
                         <title>于湖先生長短句 ^五卷拾遺一卷^</title>
                         <title source="9">yu hu xian sheng chang duan ju</title>
                         <note source="290">(宋)張孝祥撰</note>
-                        <author><persName>(宋)張孝祥</persName><persName type="9">zhang xiao
+                        <author key="person_1152"><persName>(宋)張孝祥</persName><persName type="9">zhang xiao
                               xiang</persName></author>
                         <note source="600">影刊宋本</note>
                      </msItem>
@@ -801,7 +801,7 @@
                         <title>虛齋樂府 ^二卷^</title>
                         <title source="9">xu zhai yue fu</title>
                         <note source="290">(宋)趙以夫撰</note>
-                        <author><persName>(宋)趙以夫</persName><persName type="9">zhao yi
+                        <author key="person_1640"><persName>(宋)趙以夫</persName><persName type="9">zhao yi
                            fu</persName></author>
                         <note source="600">影刊宋本</note>
                      </msItem>
@@ -829,7 +829,7 @@
                         <title>竹山詞 ^一卷^</title>
                         <title source="9">zhu shan ci</title>
                         <note source="290">(宋)蔣捷撰</note>
-                        <author><persName>(宋)蔣捷</persName><persName type="9">jiang
+                        <author key="person_1581"><persName>(宋)蔣捷</persName><persName type="9">jiang
                            jie</persName></author>
                         <note source="600">影刊元鈔本</note>
                      </msItem>
@@ -859,7 +859,7 @@
                         <title type="variant">後村居士詩餘</title>
                         <title source="9" type="variant">hou cun ju shi shi yu</title>
                         <note source="290">(宋)劉克莊撰</note>
-                        <author><persName>(宋)劉克莊</persName><persName type="9">liu ke
+                        <author key="person_965"><persName>(宋)劉克莊</persName><persName type="9">liu ke
                               zhuang</persName></author>
                         <note source="600">影刊宋本</note>
                      </msItem>
@@ -889,7 +889,7 @@
                         <title type="variant">秋崖先生詞</title>
                         <title source="9" type="variant">qiu ya xian sheng ci</title>
                         <note source="290">(宋)方岳撰</note>
-                        <author><persName>(宋)方岳</persName><persName type="9">fang
+                        <author key="person_1216"><persName>(宋)方岳</persName><persName type="9">fang
                            yue</persName></author>
                         <note source="600">影刊元本</note>
                      </msItem>
@@ -919,7 +919,7 @@
                         <title type="variant">磻溪詞</title>
                         <title source="9" type="variant">pan xi ci</title>
                         <note source="290">(元)丘處機撰</note>
-                        <author><persName>(元)丘處機</persName><persName type="9">qiu chu
+                        <author key="person_51"><persName>(元)丘處機</persName><persName type="9">qiu chu
                            ji</persName></author>
                         <note source="600">影刊金本</note>
                      </msItem>
@@ -949,7 +949,7 @@
                         <title type="variant">遯菴樂府</title>
                         <title source="9" type="variant">dun an yue fu</title>
                         <note source="290">(金)遯菴先生撰</note>
-                        <author><persName>(金)段克己</persName><persName type="9">duan ke
+                        <author key="person_6660"><persName>(金)段克己</persName><persName type="9">duan ke
                            ji</persName></author>
                         <note source="600">即《遯菴樂府》</note>
                         <note source="600">影刊元本</note>
@@ -980,7 +980,7 @@
                         <title type="variant">菊軒樂府</title>
                         <title source="9" type="variant">ju xuan yue fu</title>
                         <note source="290">(金)菊軒先生撰</note>
-                        <author><persName>(金)段成己</persName><persName type="9">duan cheng
+                        <author key="person_6661"><persName>(金)段成己</persName><persName type="9">duan cheng
                               ji</persName></author>
                         <note source="600">即《菊軒樂府》</note>
                         <note source="600">影刊元本</note>
@@ -1009,7 +1009,7 @@
                         <title>遺山樂府 ^三卷^</title>
                         <title source="9">yi shan yue fu</title>
                         <note source="290">(金)元好問撰</note>
-                        <author><persName>(金)元好問</persName><persName type="9">yuan hao
+                        <author key="person_6651"><persName>(金)元好問</persName><persName type="9">yuan hao
                               wen</persName></author>
                         <note source="600">影刊明弘治高麗晉州本</note>
                      </msItem>
@@ -1039,7 +1039,7 @@
                         <title type="variant">松雪齋樂府</title>
                         <title source="9" type="variant">song xue zhai yue fu</title>
                         <note source="290">(元)趙孟頫撰</note>
-                        <author><persName>(元)趙孟頫</persName><persName type="9">zhao meng
+                        <author key="person_279"><persName>(元)趙孟頫</persName><persName type="9">zhao meng
                               fu</persName></author>
                         <note source="600">影刊元本</note>
                      </msItem>
@@ -1069,7 +1069,7 @@
                         <title type="variant">靜修先生樂府</title>
                         <title source="9" type="variant">jing xiu xian sheng yue fu</title>
                         <note source="290">(元)劉因撰</note>
-                        <author><persName>(元)劉因</persName><persName type="9">liu
+                        <author key="person_64"><persName>(元)劉因</persName><persName type="9">liu
                            yin</persName></author>
                         <note source="600">影刊元本</note>
                      </msItem>
@@ -1099,7 +1099,7 @@
                         <title type="variant">道園樂府</title>
                         <title source="9" type="variant">dao yuan yue fu</title>
                         <note source="290">(元)虞集撰</note>
-                        <author><persName>(元)虞集</persName><persName type="9">yu
+                        <author key="person_264"><persName>(元)虞集</persName><persName type="9">yu
                            ji</persName></author>
                         <note source="600">影刊元本</note>
                      </msItem>
@@ -1129,7 +1129,7 @@
                         <title type="variant">此山先生樂府</title>
                         <title source="9" type="variant">ci shan xian sheng yue fu</title>
                         <note source="290">(元)周權撰</note>
-                        <author><persName>(元)周權</persName><persName type="9">zhou
+                        <author key="person_90"><persName>(元)周權</persName><persName type="9">zhou
                            quan</persName></author>
                         <note source="600">影刊元本</note>
                      </msItem>
@@ -1159,7 +1159,7 @@
                         <title type="variant">漢泉樂府</title>
                         <title source="9" type="variant">han quan yue fu</title>
                         <note source="290">(元)曹伯啟撰</note>
-                        <author><persName>(元)曹伯啟</persName><persName type="9">cao bo
+                        <author key="person_142"><persName>(元)曹伯啟</persName><persName type="9">cao bo
                            qi</persName></author>
                         <note source="600">影刊元本</note>
                      </msItem>
@@ -1190,7 +1190,7 @@
                         <title type="variant">雪樓先生樂府</title>
                         <title source="9" type="variant">xue lou xian sheng yue fu</title>
                         <note source="290">(元)程鉅夫撰</note>
-                        <author><persName>(元)程鉅夫</persName><persName type="9">cheng ju
+                        <author key="person_234"><persName>(元)程鉅夫</persName><persName type="9">cheng ju
                            fu</persName></author>
                         <note source="600">影刊元本</note>
                      </msItem>
@@ -1220,7 +1220,7 @@
                         <title type="variant">秋澗先生樂府</title>
                         <title source="9" type="variant">qiu jian xian sheng yue fu</title>
                         <note source="290">(元)王惲撰</note>
-                        <author><persName>(元)王惲</persName><persName type="9">wang
+                        <author key="person_214"><persName>(元)王惲</persName><persName type="9">wang
                            yun</persName></author>
                         <note source="600">影刊元本</note>
                      </msItem>
@@ -1250,7 +1250,7 @@
                         <title type="variant">中興以來絕妙詞選</title>
                         <title source="9" type="variant">zhong xing yi lai jue miao ci xuan</title>
                         <note source="290">(宋)黃昇輯</note>
-                        <author><persName>(宋)黃昇</persName><persName type="9">huang
+                        <author key="person_1832"><persName>(宋)黃昇</persName><persName type="9">huang
                            sheng</persName></author>
                         <note source="600">影刊宋本</note>
                      </msItem>

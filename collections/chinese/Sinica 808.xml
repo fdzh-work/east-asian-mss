@@ -51,7 +51,7 @@
                      <title source="#200">衡齋算學</title>
                      <title source="#200|9">heng zhai suan xue</title>
                      <note source="#290">(清)汪萊撰</note>
-                     <author source="#300"><persName>(清)汪萊</persName><persName type="9">wang
+                     <author source="#300" key="person_4821"><persName>(清)汪萊</persName><persName type="9">wang
                            lai</persName></author>
                      <note source="#409">清嘉慶中六九書榭﹑嘉樹堂刊本</note>
                      <editor source="#440" role="pbl"><persName>六九書榭</persName><persName type="9" role="pbl">liu jiu shu xie</persName></editor>
@@ -59,7 +59,7 @@
                      <msItem n="1">
                         <title>弧三角形 ^一卷^</title>
                         <title source="9">hu san jiao xing</title>
-                        <author><persName>(清)汪萊</persName><persName type="9">wang
+                        <author key="person_4821"><persName>(清)汪萊</persName><persName type="9">wang
                            lai</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140130/13:15:22|odh -->
@@ -68,7 +68,7 @@
                      <msItem n="2">
                         <title>句股形 ^一卷^</title>
                         <title source="9">gou gu xing</title>
-                        <author><persName>(清)汪萊</persName><persName type="9">wang
+                        <author key="person_4821"><persName>(清)汪萊</persName><persName type="9">wang
                            lai</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140130/13:15:57|odh -->
@@ -78,7 +78,7 @@
                      <msItem n="3">
                         <title>平圓形 ^一卷^</title>
                         <title source="9">ping yuan xing</title>
-                        <author><persName>(清)汪萊</persName><persName type="9">wang
+                        <author key="person_4821"><persName>(清)汪萊</persName><persName type="9">wang
                            lai</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140130/13:17:13|odh -->
@@ -87,7 +87,7 @@
                      <msItem n="4">
                         <title>弧三角形 ^一卷^</title>
                         <title source="9">hu san jiao xing</title>
-                        <author><persName>(清)汪萊</persName><persName type="9">wang
+                        <author key="person_4821"><persName>(清)汪萊</persName><persName type="9">wang
                            lai</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140130/13:18:11|odh -->
@@ -96,7 +96,7 @@
                      <msItem n="5">
                         <title>一乘方二乘方形 ^一卷^</title>
                         <title source="9">yi sheng fang er sheng fang xing</title>
-                        <author><persName>(清)汪萊</persName><persName type="9">wang
+                        <author key="person_4821"><persName>(清)汪萊</persName><persName type="9">wang
                            lai</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140130/13:20:07|odh -->
@@ -105,7 +105,7 @@
                      <msItem n="6">
                         <title>平圓形 ^一卷^</title>
                         <title source="9">ping yuan xing</title>
-                        <author><persName>(清)汪萊</persName><persName type="9">wang
+                        <author key="person_4821"><persName>(清)汪萊</persName><persName type="9">wang
                            lai</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140130/13:18:41|odh -->

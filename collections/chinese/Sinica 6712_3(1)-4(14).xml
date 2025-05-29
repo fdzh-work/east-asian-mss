@@ -52,7 +52,7 @@
                      <title source="#200">羣書拾補初編 ^三十七卷^</title>
                      <title source="#200|9">qun shu shi bu chu bian</title>
                      <note source="#290">(清)盧文弨撰</note>
-                     <author source="#300"><persName>(清)盧文弨</persName><persName type="9">lu wen
+                     <author source="#300" key="person_5212"><persName>(清)盧文弨</persName><persName type="9">lu wen
                            chao</persName></author>
                      <note source="#600">光緒十五年刊</note>
                   </msItem>
@@ -100,7 +100,7 @@
                      <msItem>
                         <title>五經正義表 ^一卷^</title>
                         <title source="9">wu jing zheng yi biao</title>
-                        <author><persName>(清)盧文弨</persName><persName type="9">lu wen
+                        <author key="person_5212"><persName>(清)盧文弨</persName><persName type="9">lu wen
                            chao</persName></author>
                      </msItem>
                   </msContents>
@@ -125,7 +125,7 @@
                      <msItem>
                         <title>周易注疏校正 ^一卷^</title>
                         <title source="9">zhou yi zhu shu jiao zheng</title>
-                        <author><persName>(清)盧文弨</persName><persName type="9">lu wen
+                        <author key="person_5212"><persName>(清)盧文弨</persName><persName type="9">lu wen
                            chao</persName></author>
                      </msItem>
                   </msContents>
@@ -150,7 +150,7 @@
                      <msItem>
                         <title>周易略例校正 ^一卷^</title>
                         <title source="9">zhou yi lue li jiao zheng</title>
-                        <author><persName>(清)盧文弨</persName><persName type="9">lu wen
+                        <author key="person_5212"><persName>(清)盧文弨</persName><persName type="9">lu wen
                            chao</persName></author>
                      </msItem>
                   </msContents>
@@ -175,7 +175,7 @@
                      <msItem>
                         <title>尚書注疏校正 ^一卷^</title>
                         <title source="9">shang shu zhu shu jiao zheng</title>
-                        <author><persName>(清)盧文弨</persName><persName type="9">lu wen
+                        <author key="person_5212"><persName>(清)盧文弨</persName><persName type="9">lu wen
                            chao</persName></author>
                      </msItem>
                   </msContents>
@@ -200,7 +200,7 @@
                      <msItem>
                         <title>春秋左傳注疏校正 ^一卷^</title>
                         <title source="9">chun qiu zuo zhuan zhu shu jiao zheng</title>
-                        <author><persName>(清)盧文弨</persName><persName type="9">lu wen
+                        <author key="person_5212"><persName>(清)盧文弨</persName><persName type="9">lu wen
                            chao</persName></author>
                      </msItem>
                   </msContents>
@@ -225,7 +225,7 @@
                      <msItem>
                         <title>禮記注疏校補 ^一卷^</title>
                         <title source="9">li ji zhu shu jiao zheng</title>
-                        <author><persName>(清)盧文弨</persName><persName type="9">lu wen
+                        <author key="person_5212"><persName>(清)盧文弨</persName><persName type="9">lu wen
                            chao</persName></author>
                      </msItem>
                   </msContents>
@@ -250,7 +250,7 @@
                      <msItem>
                         <title>儀禮注疏校正 ^一卷^</title>
                         <title source="9">yi li zhu shu jiao zheng</title>
-                        <author><persName>(清)盧文弨</persName><persName type="9">lu wen
+                        <author key="person_5212"><persName>(清)盧文弨</persName><persName type="9">lu wen
                            chao</persName></author>
                      </msItem>
                   </msContents>
@@ -275,7 +275,7 @@
                      <msItem>
                         <title>呂氏讀詩記補闕 ^一卷^</title>
                         <title source="9">lu shi du shi ji bu que</title>
-                        <author><persName>(清)盧文弨</persName><persName type="9">lu wen
+                        <author key="person_5212"><persName>(清)盧文弨</persName><persName type="9">lu wen
                            chao</persName></author>
                      </msItem>
                   </msContents>
@@ -300,7 +300,7 @@
                      <msItem>
                         <title>史記惠景閒侯者年表校補 ^一卷^</title>
                         <title source="9">shi ji hui jing jian hou zhe nian biao jiao bu</title>
-                        <author><persName>(清)盧文弨</persName><persName type="9">lu wen
+                        <author key="person_5212"><persName>(清)盧文弨</persName><persName type="9">lu wen
                            chao</persName></author>
                      </msItem>
                   </msContents>
@@ -325,7 +325,7 @@
                      <msItem>
                         <title>續漢書志注補校正 ^一卷^</title>
                         <title source="9">xu han shu zhi zhu bu jiao zheng</title>
-                        <author><persName>(清)盧文弨</persName><persName type="9">lu wen
+                        <author key="person_5212"><persName>(清)盧文弨</persName><persName type="9">lu wen
                            chao</persName></author>
                      </msItem>
                   </msContents>
@@ -350,7 +350,7 @@
                      <msItem>
                         <title>晉書校正 ^一卷^</title>
                         <title source="9">jin shu jiao zheng</title>
-                        <author><persName>(清)盧文弨</persName><persName type="9">lu wen
+                        <author key="person_5212"><persName>(清)盧文弨</persName><persName type="9">lu wen
                            chao</persName></author>
                      </msItem>
                   </msContents>
@@ -375,7 +375,7 @@
                      <msItem>
                         <title>魏書校補 ^一卷^</title>
                         <title source="9">wei shu jiao zheng</title>
-                        <author><persName>(清)盧文弨</persName><persName type="9">lu wen
+                        <author key="person_5212"><persName>(清)盧文弨</persName><persName type="9">lu wen
                            chao</persName></author>
                      </msItem>
                   </msContents>
@@ -400,7 +400,7 @@
                      <msItem>
                         <title>宋史孝宗紀補脱 ^一卷^</title>
                         <title source="9">song shi xiao zong ji bu tuo</title>
-                        <author><persName>(清)盧文弨</persName><persName type="9">lu wen
+                        <author key="person_5212"><persName>(清)盧文弨</persName><persName type="9">lu wen
                            chao</persName></author>
                      </msItem>
                   </msContents>
@@ -425,7 +425,7 @@
                      <msItem>
                         <title>金史補脱 ^一卷^</title>
                         <title source="9">jin shi bu tuo</title>
-                        <author><persName>(清)盧文弨</persName><persName type="9">lu wen
+                        <author key="person_5212"><persName>(清)盧文弨</persName><persName type="9">lu wen
                            chao</persName></author>
                      </msItem>
                   </msContents>
@@ -450,7 +450,7 @@
                      <msItem>
                         <title>資治通鑑序補逸 ^一卷^</title>
                         <title source="9">zi zhi tong jian bu yi</title>
-                        <author><persName>(清)盧文弨</persName><persName type="9">lu wen
+                        <author key="person_5212"><persName>(清)盧文弨</persName><persName type="9">lu wen
                            chao</persName></author>
                      </msItem>
                   </msContents>
@@ -475,7 +475,7 @@
                      <msItem>
                         <title>文獻通考經籍校補 ^一卷^</title>
                         <title source="9">wen xian tong kao jing ji jiao bu</title>
-                        <author><persName>(清)盧文弨</persName><persName type="9">lu wen
+                        <author key="person_5212"><persName>(清)盧文弨</persName><persName type="9">lu wen
                            chao</persName></author>
                      </msItem>
                   </msContents>
@@ -500,7 +500,7 @@
                      <msItem>
                         <title>史通校正 ^一卷^</title>
                         <title source="9">shi tong jiao zheng</title>
-                        <author><persName>(清)盧文弨</persName><persName type="9">lu wen
+                        <author key="person_5212"><persName>(清)盧文弨</persName><persName type="9">lu wen
                            chao</persName></author>
                      </msItem>
                   </msContents>
@@ -525,7 +525,7 @@
                      <msItem>
                         <title>新唐書糾謬校補 ^一卷^</title>
                         <title source="9">xin tang shu jiu miu jiao bu</title>
-                        <author><persName>(清)盧文弨</persName><persName type="9">lu wen
+                        <author key="person_5212"><persName>(清)盧文弨</persName><persName type="9">lu wen
                            chao</persName></author>
                      </msItem>
                   </msContents>
@@ -550,7 +550,7 @@
                      <msItem>
                         <title>山海經圖讚補逸 ^一卷^</title>
                         <title source="9">shan hai jing tu zan bu yi</title>
-                        <author><persName>(清)盧文弨</persName><persName type="9">lu wen
+                        <author key="person_5212"><persName>(清)盧文弨</persName><persName type="9">lu wen
                            chao</persName></author>
                      </msItem>
                   </msContents>
@@ -575,7 +575,7 @@
                      <msItem>
                         <title>水經序補逸 ^一卷^</title>
                         <title source="9">shu jing xu bu yi</title>
-                        <author><persName>(清)盧文弨</persName><persName type="9">lu wen
+                        <author key="person_5212"><persName>(清)盧文弨</persName><persName type="9">lu wen
                            chao</persName></author>
                      </msItem>
                   </msContents>
@@ -600,7 +600,7 @@
                      <msItem>
                         <title>鹽鐵論校補 ^一卷^</title>
                         <title source="9">yan tie lun jiao bu</title>
-                        <author><persName>(清)盧文弨</persName><persName type="9">lu wen
+                        <author key="person_5212"><persName>(清)盧文弨</persName><persName type="9">lu wen
                            chao</persName></author>
                      </msItem>
                   </msContents>
@@ -625,7 +625,7 @@
                      <msItem>
                         <title>新序校補 ^一卷^</title>
                         <title source="9">xi xu jiao bu</title>
-                        <author><persName>(清)盧文弨</persName><persName type="9">lu wen
+                        <author key="person_5212"><persName>(清)盧文弨</persName><persName type="9">lu wen
                            chao</persName></author>
                      </msItem>
                   </msContents>
@@ -650,7 +650,7 @@
                      <msItem>
                         <title>說苑校補 ^一卷^</title>
                         <title source="9">shuo yuan jiao bu</title>
-                        <author><persName>(清)盧文弨</persName><persName type="9">lu wen
+                        <author key="person_5212"><persName>(清)盧文弨</persName><persName type="9">lu wen
                            chao</persName></author>
                      </msItem>
                   </msContents>
@@ -675,7 +675,7 @@
                      <msItem>
                         <title>申鑒校正 ^一卷^</title>
                         <title source="9">shen jian jiao zheng</title>
-                        <author><persName>(清)盧文弨</persName><persName type="9">lu wen
+                        <author key="person_5212"><persName>(清)盧文弨</persName><persName type="9">lu wen
                            chao</persName></author>
                      </msItem>
                   </msContents>
@@ -700,7 +700,7 @@
                      <msItem>
                         <title>列子張湛注校正 ^一卷^</title>
                         <title source="9">lie zi zhang zhan zhu jiao zheng</title>
-                        <author><persName>(清)盧文弨</persName><persName type="9">lu wen
+                        <author key="person_5212"><persName>(清)盧文弨</persName><persName type="9">lu wen
                            chao</persName></author>
                      </msItem>
                   </msContents>
@@ -725,7 +725,7 @@
                      <msItem>
                         <title>韓非子校正 ^一卷^</title>
                         <title source="9">han fei zi jiao zheng</title>
-                        <author><persName>(清)盧文弨</persName><persName type="9">lu wen
+                        <author key="person_5212"><persName>(清)盧文弨</persName><persName type="9">lu wen
                            chao</persName></author>
                      </msItem>
                   </msContents>
@@ -751,7 +751,7 @@
                      <msItem>
                         <title>晏子春秋校正 ^一卷^</title>
                         <title source="9">yan zi chun qiu jiao zheng</title>
-                        <author><persName>(清)盧文弨</persName><persName type="9">lu wen
+                        <author key="person_5212"><persName>(清)盧文弨</persName><persName type="9">lu wen
                            chao</persName></author>
                      </msItem>
                   </msContents>
@@ -776,7 +776,7 @@
                      <msItem>
                         <title>風俗通義校正逸文 ^一卷^</title>
                         <title source="9">feng su tong yi jiao zheng yi wen</title>
-                        <author><persName>(清)盧文弨</persName><persName type="9">lu wen
+                        <author key="person_5212"><persName>(清)盧文弨</persName><persName type="9">lu wen
                            chao</persName></author>
                      </msItem>
                   </msContents>
@@ -801,7 +801,7 @@
                      <msItem>
                         <title>新論校正 ^一卷^</title>
                         <title source="9">xin lun jiao zheng</title>
-                        <author><persName>(清)盧文弨</persName><persName type="9">lu wen
+                        <author key="person_5212"><persName>(清)盧文弨</persName><persName type="9">lu wen
                            chao</persName></author>
                      </msItem>
                   </msContents>
@@ -826,7 +826,7 @@
                      <msItem>
                         <title>潛虛校正 ^一卷^</title>
                         <title source="9">qian xu jiao zheng</title>
-                        <author><persName>(清)盧文弨</persName><persName type="9">lu wen
+                        <author key="person_5212"><persName>(清)盧文弨</persName><persName type="9">lu wen
                            chao</persName></author>
                      </msItem>
                   </msContents>
@@ -851,7 +851,7 @@
                      <msItem>
                         <title>春渚紀聞補闕 ^一卷^</title>
                         <title source="9">chun zhu ji wen bu que</title>
-                        <author><persName>(清)盧文弨</persName><persName type="9">lu wen
+                        <author key="person_5212"><persName>(清)盧文弨</persName><persName type="9">lu wen
                            chao</persName></author>
                      </msItem>
                   </msContents>
@@ -876,7 +876,7 @@
                      <msItem>
                         <title>嘯堂集古錄校補 ^一卷^</title>
                         <title source="9">xiao tang ji gu lu jiao bu</title>
-                        <author><persName>(清)盧文弨</persName><persName type="9">lu wen
+                        <author key="person_5212"><persName>(清)盧文弨</persName><persName type="9">lu wen
                            chao</persName></author>
                      </msItem>
                   </msContents>
@@ -901,7 +901,7 @@
                      <msItem>
                         <title>鮑照集校補 ^一卷^</title>
                         <title source="9">bao zhao ji jiao bu</title>
-                        <author><persName>(清)盧文弨</persName><persName type="9">lu wen
+                        <author key="person_5212"><persName>(清)盧文弨</persName><persName type="9">lu wen
                            chao</persName></author>
                      </msItem>
                   </msContents>
@@ -926,7 +926,7 @@
                      <msItem>
                         <title>韋蘇州集校正拾遺 ^一卷^</title>
                         <title source="9">wei su zhou ji jiao zheng shi yi</title>
-                        <author><persName>(清)盧文弨</persName><persName type="9">lu wen
+                        <author key="person_5212"><persName>(清)盧文弨</persName><persName type="9">lu wen
                            chao</persName></author>
                      </msItem>
                   </msContents>
@@ -951,7 +951,7 @@
                      <msItem>
                         <title>元微之文集校補 ^一卷^</title>
                         <title source="9">yuan wei zhi wen ji jiao bu</title>
-                        <author><persName>(清)盧文弨</persName><persName type="9">lu wen
+                        <author key="person_5212"><persName>(清)盧文弨</persName><persName type="9">lu wen
                            chao</persName></author>
                      </msItem>
                   </msContents>
@@ -976,7 +976,7 @@
                      <msItem>
                         <title>白氏文集校正 ^一卷^</title>
                         <title source="9">bao shi wen ji jiao zheng</title>
-                        <author><persName>(清)盧文弨</persName><persName type="9">lu wen
+                        <author key="person_5212"><persName>(清)盧文弨</persName><persName type="9">lu wen
                            chao</persName></author>
                      </msItem>
                   </msContents>
@@ -1001,7 +1001,7 @@
                      <msItem>
                         <title>林和靖集校正 ^一卷^</title>
                         <title source="9">lin he jing ji jiao zheng</title>
-                        <author><persName>(清)盧文弨</persName><persName type="9">lu wen
+                        <author key="person_5212"><persName>(清)盧文弨</persName><persName type="9">lu wen
                            chao</persName></author>
                      </msItem>
                   </msContents>

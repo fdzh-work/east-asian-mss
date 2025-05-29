@@ -108,7 +108,7 @@
                         <title>二家詠古詩 ^一卷^</title>
                         <title source="9">er jia yong gu shi</title>
                         <note source="290">(清)張之洞, (民國)樊增祥合撰</note>
-                        <author><persName>(清)張之洞</persName><persName type="9">zhang zhi
+                        <author key="person_3977"><persName>(清)張之洞</persName><persName type="9">zhang zhi
                               dong</persName></author>
                         <author><persName>(民國)樊增祥</persName><persName type="9">fan zeng
                               xiang</persName></author>
@@ -121,7 +121,7 @@
                      <msItem n="7">
                         <title>二家試帖</title>
                         <title source="9">er jia shi tie</title>
-                        <author><persName>(清)張之洞</persName><persName type="9">zhang zhi
+                        <author key="person_3977"><persName>(清)張之洞</persName><persName type="9">zhang zhi
                               dong</persName></author>
                         <author><persName>(民國)樊增祥</persName><persName type="9">fan zeng
                               xiang</persName></author>
@@ -133,7 +133,7 @@
                         <msItem n="1">
                            <title>廣雅堂試帖 ^一卷^</title>
                            <title source="9">guang ya tang shi tie</title>
-                           <author><persName>(清)張之洞</persName><persName type="9">zhang zhi
+                           <author key="person_3977"><persName>(清)張之洞</persName><persName type="9">zhang zhi
                                  dong</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20150415/17:11:21|odh -->
@@ -153,7 +153,7 @@
                      <msItem n="8">
                         <title>二家詞鈔</title>
                         <title source="9">er jia ci chao</title>
-                        <author><persName>(清)李慈銘</persName><persName type="9">li ci
+                        <author key="person_4494"><persName>(清)李慈銘</persName><persName type="9">li ci
                            ming</persName></author>
                         <author><persName>(民國)樊增祥</persName><persName type="9">fan zeng
                               xiang</persName></author>
@@ -165,7 +165,7 @@
                         <msItem n="1">
                            <title>霞川花隱詞 ^二卷^</title>
                            <title source="9">xia chuan hua yin ci</title>
-                           <author><persName>(清)李慈銘</persName><persName type="9">li ci
+                           <author key="person_4494"><persName>(清)李慈銘</persName><persName type="9">li ci
                                  ming</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20150415/17:18:21|odh -->

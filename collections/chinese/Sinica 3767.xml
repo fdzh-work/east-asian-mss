@@ -53,7 +53,7 @@
                      <title source="#200">十一弦館琴譜</title>
                      <title source="#200|9">shi yi xian guan qin pu</title>
                      <note source="#290">(清)劉鶚編</note>
-                     <author source="#300"><persName>(清)劉鶚</persName><persName type="9">liu
+                     <author source="#300" key="person_3490"><persName>(清)劉鶚</persName><persName type="9">liu
                            e</persName></author>
                      <note source="#409">清光緒中劉氏刊1994年北京中國書店重印本</note>
                      <editor source="#440" role="pbl"><persName>中國書店</persName><persName type="9" role="pbl">zhong guo shu dian</persName></editor>
@@ -70,7 +70,7 @@
                         <title>天籟 ^一卷^</title>
                         <title source="9">tian lai</title>
                         <note source="290">(清)張瑞珊撰</note>
-                        <author><persName>(清)張瑞珊</persName><persName type="9">zhang rui
+                        <author key="person_4078"><persName>(清)張瑞珊</persName><persName type="9">zhang rui
                               shan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00002964|ons -->
@@ -80,7 +80,7 @@
                         <title>武陵春 ^一卷^</title>
                         <title source="9">wu ling chun</title>
                         <note source="290">(清)張瑞珊撰</note>
-                        <author><persName>(清)張瑞珊</persName><persName type="9">zhang rui
+                        <author key="person_4078"><persName>(清)張瑞珊</persName><persName type="9">zhang rui
                               shan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00002965|ons -->
@@ -90,7 +90,7 @@
                         <title>鷓鵠天 ^一卷^</title>
                         <title source="9">zhe hu tian</title>
                         <note source="290">(清)張瑞珊撰</note>
-                        <author><persName>(清)張瑞珊</persName><persName type="9">zhang rui
+                        <author key="person_4078"><persName>(清)張瑞珊</persName><persName type="9">zhang rui
                               shan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00002966|ons -->
@@ -100,7 +100,7 @@
                         <title>小譜庵咒 ^一卷^</title>
                         <title source="9">xiao pu an zhou</title>
                         <note source="290">(清)張瑞珊撰</note>
-                        <author><persName>(清)張瑞珊</persName><persName type="9">zhang rui
+                        <author key="person_4078"><persName>(清)張瑞珊</persName><persName type="9">zhang rui
                               shan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00002967|ons -->

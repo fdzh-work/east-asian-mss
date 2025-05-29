@@ -53,7 +53,7 @@
                      <title source="#200">暖紅室彙刻西廂記</title>
                      <title source="#200|9">nuan hong shi hui ke xi xiang ji</title>
                      <note source="#290">(民國)劉世珩輯</note>
-                     <author source="#300"><persName>(民國)劉世珩</persName><persName type="9">liu shi
+                     <author source="#300" key="person_3073"><persName>(民國)劉世珩</persName><persName type="9">liu shi
                            heng</persName></author>
                      <note source="#409">民國八年[1919]貴池劉氏暖紅室刊1980年揚州江蘇廣陵古籍刻印社重印《彙刻傳劇》本</note>
                      <editor source="#440" role="pbl"><persName>暖紅室</persName><persName type="9" role="pbl">nuan hong shi</persName></editor>
@@ -65,14 +65,14 @@
                            <title>董解元西廂 ^一本圖一卷^</title>
                            <title source="9">dong jie yuan xi xiang</title>
                            <note source="290">(金)董解元撰</note>
-                           <author><persName>(金)董解元</persName><persName type="9">dong jie
+                           <author key="person_6666"><persName>(金)董解元</persName><persName type="9">dong jie
                                  yuan</persName></author>
                         </msItem>
                         <msItem n="2">
                            <title>^附^ 董西廂考據 ^一卷^</title>
                            <title type="9">dong xi xiang kao ju</title>
                            <note source="#291">(民國)劉世珩輯</note>
-                           <author><persName>(民國)劉世珩</persName><persName type="9">liu shi
+                           <author key="person_3073"><persName>(民國)劉世珩</persName><persName type="9">liu shi
                                  heng</persName></author>
                         </msItem>
                         <!--Unused allegro fields-->
@@ -86,16 +86,16 @@
                            <title source="9">xi xiang ji wu ju</title>
                            <note source="290">(元)王實甫撰</note>
                            <note source="290">(元)關漢卿續</note>
-                           <author><persName>(元)王實甫</persName><persName type="9">wang shi
+                           <author key="person_210"><persName>(元)王實甫</persName><persName type="9">wang shi
                                  fu</persName></author>
-                           <author><persName>(元)關漢卿</persName><persName type="9">guan han
+                           <author key="person_306"><persName>(元)關漢卿</persName><persName type="9">guan han
                                  qing</persName></author>
                         </msItem>
                         <msItem n="2">
                            <title>^附^ 西廂記考據 ^一卷^</title>
                            <title type="9">xi xiang ji kao ju</title>
                            <note source="#291">(民國)劉世珩輯</note>
-                           <author><persName>(民國)劉世珩</persName><persName type="9">liu shi
+                           <author key="person_3073"><persName>(民國)劉世珩</persName><persName type="9">liu shi
                                  heng</persName></author>
                         </msItem>
                         <!--Unused allegro fields-->
@@ -108,7 +108,7 @@
                         <title>重編會真雜錄 ^二卷^</title>
                         <title source="9">chong bian hui zhen za lu</title>
                         <note source="290">(民國)劉世珩輯</note>
-                        <author><persName>(民國)劉世珩</persName><persName type="9">liu shi
+                        <author key="person_3073"><persName>(民國)劉世珩</persName><persName type="9">liu shi
                               heng</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00002696|ons -->
@@ -118,7 +118,7 @@
                         <title>商調蝶戀花詞 ^一卷^</title>
                         <title source="9">shang diao die lian hua ci</title>
                         <note source="290">(宋)趙令畤撰</note>
-                        <author><persName>(宋)趙令畤</persName><persName type="9">zhao ling
+                        <author key="person_1639"><persName>(宋)趙令畤</persName><persName type="9">zhao ling
                               zhi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00002697|ons -->
@@ -128,7 +128,7 @@
                         <title>西廂記五劇五本解證 ^一卷^</title>
                         <title source="9">xi xiang ji wu ju wu ben jie zheng</title>
                         <note source="290">(明)凌濛初撰</note>
-                        <author><persName>(明)凌濛初</persName><persName type="9">ling meng
+                        <author key="person_2015"><persName>(明)凌濛初</persName><persName type="9">ling meng
                               chu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00002698|ons -->
@@ -138,7 +138,7 @@
                         <title>北西廂記釋義字音大全 ^一卷^</title>
                         <title source="9">bei xi xiang ji shi yi zi yin da quan</title>
                         <note source="290">(清)徐逢吉撰</note>
-                        <author><persName>(清)徐逢吉</persName><persName type="9">xu feng
+                        <author key="person_4231"><persName>(清)徐逢吉</persName><persName type="9">xu feng
                            ji</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00002699|ons -->
@@ -149,7 +149,7 @@
                         <title>西廂記古本校注 ^一卷^</title>
                         <title source="9">xi xiang ji gu ben jiao zhu</title>
                         <note source="290">(明)王驥德撰</note>
-                        <author><persName>(明)王驥德</persName><persName type="9">wang ji
+                        <author key="person_2467"><persName>(明)王驥德</persName><persName type="9">wang ji
                            de</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00002700|ons -->
@@ -159,7 +159,7 @@
                         <title>西廂記釋義字音 ^一卷^</title>
                         <title source="9">xi xiang ji shi yi zi yin</title>
                         <note source="290">(明)陳繼儒撰</note>
-                        <author><persName>(明)陳繼儒</persName><persName type="9">chen ji
+                        <author key="person_2725"><persName>(明)陳繼儒</persName><persName type="9">chen ji
                            ru</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00002701|ons -->
@@ -169,7 +169,7 @@
                         <title>五劇箋疑 ^一卷^</title>
                         <title source="9">wu ju jian yi</title>
                         <note source="290">(清)閔齊伋撰</note>
-                        <author><persName>(清)閔齊伋</persName><persName type="9">min qi
+                        <author key="person_5976"><persName>(清)閔齊伋</persName><persName type="9">min qi
                            ji</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00002702|ons -->
@@ -179,7 +179,7 @@
                         <title>絲竹芙蓉亭 ^一折^</title>
                         <title source="9">si zhu fu rong ting</title>
                         <note source="290">(元)王實甫撰</note>
-                        <author><persName>(元)王實甫</persName><persName type="9">wang shi
+                        <author key="person_210"><persName>(元)王實甫</persName><persName type="9">wang shi
                            fu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00002703|ons -->
@@ -189,7 +189,7 @@
                         <title>圍棋闖局 ^一折^</title>
                         <title source="9">wei qi chuang ju</title>
                         <note source="290">(元)晚進王生撰</note>
-                        <author><persName>(元)晚進王生</persName><persName type="9">wan jin wang
+                        <author key="person_139"><persName>(元)晚進王生</persName><persName type="9">wan jin wang
                               sheng</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00002704|ons -->
@@ -200,7 +200,7 @@
                         <title>錢塘夢 ^一折^</title>
                         <title source="9">qian tang meng</title>
                         <note source="290">(元)白樸撰</note>
-                        <author><persName>(元)白樸</persName><persName type="9">bai
+                        <author key="person_223"><persName>(元)白樸</persName><persName type="9">bai
                            pu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00002705|ons -->
@@ -210,7 +210,7 @@
                         <title>園林午夢 ^一折^</title>
                         <title source="9">yuan lin wu meng</title>
                         <note source="290">(明)李開先撰</note>
-                        <author><persName>(明)李開先</persName><persName type="9">li kai
+                        <author key="person_2324"><persName>(明)李開先</persName><persName type="9">li kai
                            xian</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00002706|ons -->
@@ -220,7 +220,7 @@
                         <title>南西廂記 ^二卷^</title>
                         <title source="9">nan xi xiang ji</title>
                         <note source="290">(明)李日華撰</note>
-                        <author><persName>(明)李日華</persName><persName type="9">li ri
+                        <author key="person_2302"><persName>(明)李日華</persName><persName type="9">li ri
                            hua</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00002707|ons -->
@@ -230,7 +230,7 @@
                         <title>南西廂記 ^二卷^</title>
                         <title source="9">nan xi xiang ji</title>
                         <note source="290">(明)陸采撰</note>
-                        <author><persName>(明)陸采</persName><persName type="9">lu
+                        <author key="person_2748"><persName>(明)陸采</persName><persName type="9">lu
                            cai</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00002708|ons -->

@@ -51,14 +51,14 @@
                      <title source="#200">十一經音訓</title>
                      <title source="#200|9">shi yi jing yin xun</title>
                      <note source="#290">(清)楊國楨撰</note>
-                     <author source="#300"><persName>(清)楊國楨</persName><persName type="9">yang guo
+                     <author source="#300" key="person_4666"><persName>(清)楊國楨</persName><persName type="9">yang guo
                            zhen</persName></author>
                      <note source="#409">清光緒三年[1877]湖北崇文書局刊本</note>
                      <editor source="#440" role="pbl"><persName>崇文書局</persName><persName type="9" role="pbl">chong wen shu ju</persName></editor>
                      <msItem n="1">
                         <title>易經音訓 ^不分卷^</title>
                         <title source="9">yi jing yin xun</title>
-                        <author><persName>(清)楊國楨</persName><persName type="9">yang guo
+                        <author key="person_4666"><persName>(清)楊國楨</persName><persName type="9">yang guo
                               zhen</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140124/16:21:19|odh -->
@@ -67,7 +67,7 @@
                      <msItem n="2">
                         <title>書經音訓 ^不分卷^</title>
                         <title source="9">shu jing yin xun</title>
-                        <author><persName>(清)楊國楨</persName><persName type="9">yang guo
+                        <author key="person_4666"><persName>(清)楊國楨</persName><persName type="9">yang guo
                               zhen</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140124/16:21:46|odh -->
@@ -76,7 +76,7 @@
                      <msItem n="3">
                         <title>詩經音訓 ^不分卷^</title>
                         <title source="9">shi jing yin xun</title>
-                        <author><persName>(清)楊國楨</persName><persName type="9">yang guo
+                        <author key="person_4666"><persName>(清)楊國楨</persName><persName type="9">yang guo
                               zhen</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140124/16:22:24|odh -->
@@ -85,7 +85,7 @@
                      <msItem n="4">
                         <title>周禮音訓 ^不分卷^</title>
                         <title source="9">zhou li yin xun</title>
-                        <author><persName>(清)楊國楨</persName><persName type="9">yang guo
+                        <author key="person_4666"><persName>(清)楊國楨</persName><persName type="9">yang guo
                               zhen</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140124/16:23:03|odh -->
@@ -94,7 +94,7 @@
                      <msItem n="5">
                         <title>儀禮音訓 ^不分卷^</title>
                         <title source="9">yi li yin xun</title>
-                        <author><persName>(清)楊國楨</persName><persName type="9">yang guo
+                        <author key="person_4666"><persName>(清)楊國楨</persName><persName type="9">yang guo
                               zhen</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140124/16:23:36|odh -->
@@ -103,7 +103,7 @@
                      <msItem n="6">
                         <title>禮記音訓 ^不分卷^</title>
                         <title source="9">li ji yin xun</title>
-                        <author><persName>(清)楊國楨</persName><persName type="9">yang guo
+                        <author key="person_4666"><persName>(清)楊國楨</persName><persName type="9">yang guo
                               zhen</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140124/16:24:12|odh -->
@@ -112,7 +112,7 @@
                      <msItem n="7">
                         <title>春秋左傳音訓 ^不分卷^</title>
                         <title source="9">chun qiu zuo zhuan yin xun</title>
-                        <author><persName>(清)楊國楨</persName><persName type="9">yang guo
+                        <author key="person_4666"><persName>(清)楊國楨</persName><persName type="9">yang guo
                               zhen</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140124/16:25:23|odh -->
@@ -121,7 +121,7 @@
                      <msItem n="8">
                         <title>春秋公羊傳音訓 ^不分卷^</title>
                         <title source="9">chun qiu gong yang zhuan yin xun</title>
-                        <author><persName>(清)楊國楨</persName><persName type="9">yang guo
+                        <author key="person_4666"><persName>(清)楊國楨</persName><persName type="9">yang guo
                               zhen</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140124/16:26:25|odh -->
@@ -130,7 +130,7 @@
                      <msItem n="9">
                         <title>春秋穀梁傳音訓 ^不分卷^</title>
                         <title source="9">chun qiu gu liang zhuan yin xun</title>
-                        <author><persName>(清)楊國楨</persName><persName type="9">yang guo
+                        <author key="person_4666"><persName>(清)楊國楨</persName><persName type="9">yang guo
                               zhen</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140124/16:27:12|odh -->
@@ -139,7 +139,7 @@
                      <msItem n="10">
                         <title>孝經音訓 ^不分卷^</title>
                         <title source="9">xiao jing yin xun</title>
-                        <author><persName>(清)楊國楨</persName><persName type="9">yang guo
+                        <author key="person_4666"><persName>(清)楊國楨</persName><persName type="9">yang guo
                               zhen</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140124/16:27:56|odh -->
@@ -148,7 +148,7 @@
                      <msItem n="11">
                         <title>爾雅音訓 ^不分卷^</title>
                         <title source="9">er ya yin xun</title>
-                        <author><persName>(清)楊國楨</persName><persName type="9">yang guo
+                        <author key="person_4666"><persName>(清)楊國楨</persName><persName type="9">yang guo
                               zhen</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140124/16:31:29|odh -->

@@ -54,7 +54,7 @@
                      <title source="#200">心鄕往齋集 ^二十卷^</title>
                      <title source="#200|9">xin xiang　wang zhai ji</title>
                      <note source="#290">(清)孔繼鑅撰</note>
-                     <author source="#300"><persName>(清)孔繼鑅</persName><persName type="9">kong ji
+                     <author source="#300" key="person_3820"><persName>(清)孔繼鑅</persName><persName type="9">kong ji
                            heng</persName></author>
                      <note source="#600">民國辛酉[1921]刊</note>
                   </msItem>
@@ -62,7 +62,7 @@
                      <title source="#201">^附^ 絅齋隨筆 ^一卷^</title>
                      <title source="#201|9">jiong zhai sui bi</title>
                      <note source="#291">(清)孔毓焞撰</note>
-                     <author source="#301"><persName>(清)孔毓焞</persName><persName type="9">kong
+                     <author source="#301" key="person_3818"><persName>(清)孔毓焞</persName><persName type="9">kong
                            yu　tun</persName></author>
                   </msItem>
                   <msItem n="3">
@@ -71,21 +71,21 @@
                      <title source="#202">飲冰子詞存 ^一卷^</title>
                      <title source="#202|9">yin bing zi ci cun</title>
                      <note source="#292">(清)孔廣牧撰</note>
-                     <author source="#302"><persName>(清)孔廣牧</persName><persName type="9">kong guang
+                     <author source="#302" key="person_3815"><persName>(清)孔廣牧</persName><persName type="9">kong guang
                            mu</persName></author>
                   </msItem>
                   <msItem n="4">
                      <title source="#203">紹仁齋浦遊吟 ^一卷^</title>
                      <title source="#203|9">shao ren zhai pu you yin</title>
                      <note source="#293">(清)孔昭寀撰</note>
-                     <author source="#303"><persName>(清)孔昭寀</persName><persName type="9">kong zhao
+                     <author source="#303" key="person_3817"><persName>(清)孔昭寀</persName><persName type="9">kong zhao
                            cai</persName></author>
                   </msItem>
                   <msItem n="5">
                      <title source="#204">林風閣詩鈔 ^一卷^</title>
                      <title source="#204|9">lin feng ge shi chao</title>
                      <note source="#294">(清)劉淑曾撰</note>
-                     <author source="#304"><persName>(清)劉淑曾</persName><persName type="9">liu shu
+                     <author source="#304" key="person_3457"><persName>(清)劉淑曾</persName><persName type="9">liu shu
                            zeng</persName></author>
                   </msItem>
                </msContents>

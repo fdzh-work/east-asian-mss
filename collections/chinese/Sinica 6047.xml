@@ -52,7 +52,7 @@
                      <title source="#200">明季稗史彙編</title>
                      <title source="#200|9">ming ji bai shi hui bian</title>
                      <note source="#290">(清)留雲居士編</note>
-                     <author source="#300"><persName>(清)留雲居士</persName><persName type="9">liu yun ju
+                     <author source="#300" key="person_5191"><persName>(清)留雲居士</persName><persName type="9">liu yun ju
                            shi</persName></author>
                      <note source="#409">清刊本</note>
                      <note source="#600">封面有「都城琉璃廠留雲居士排字本」字樣</note>
@@ -60,7 +60,7 @@
                         <title>烈皇小識 ^八卷^</title>
                         <title source="9">lie huang xiao shi</title>
                         <note source="290">(明)文秉撰</note>
-                        <author><persName>(明)文秉</persName><persName type="9">wen
+                        <author key="person_2247"><persName>(明)文秉</persName><persName type="9">wen
                            bing</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20130910/13:33:35|odh -->
@@ -71,7 +71,7 @@
                         <title>聖安皇帝本紀 ^二卷^</title>
                         <title source="9">sheng an huang di ben ji</title>
                         <note source="290">(清)顧炎武撰</note>
-                        <author><persName>(清)顧炎武</persName><persName type="9">gu yan
+                        <author key="person_6227"><persName>(清)顧炎武</persName><persName type="9">gu yan
                            wu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20130910/13:36:27|odh -->
@@ -82,7 +82,7 @@
                         <title>行在陽秋 ^二卷^</title>
                         <title source="9">xing zai yang qiu</title>
                         <note source="290">(明)劉湘客撰</note>
-                        <author><persName>(明)劉湘客</persName><persName type="9">liu xiang
+                        <author key="person_2034"><persName>(明)劉湘客</persName><persName type="9">liu xiang
                               ke</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20130910/13:37:27|odh -->
@@ -93,7 +93,7 @@
                         <title>嘉定屠城紀略 ^一卷^</title>
                         <title source="9">jia ding tu cheng ji lue</title>
                         <note source="290">(清)朱子素撰</note>
-                        <author><persName>(清)朱子素</persName><persName type="9">zhu zi
+                        <author key="person_4389"><persName>(清)朱子素</persName><persName type="9">zhu zi
                            su</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20130910/13:38:35|odh -->
@@ -104,7 +104,7 @@
                         <title>幸存錄 ^二卷^</title>
                         <title source="9">xing cun lu</title>
                         <note source="290">(明)夏允彝撰</note>
-                        <author><persName>(明)夏允彝</persName><persName type="9">xia yun
+                        <author key="person_2113"><persName>(明)夏允彝</persName><persName type="9">xia yun
                            yi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20130910/13:39:37|odh -->
@@ -115,7 +115,7 @@
                         <title>續幸存錄 ^一卷^</title>
                         <title source="9">xu xing cun lu</title>
                         <note source="290">(明)夏完淳撰</note>
-                        <author><persName>(明)夏完淳</persName><persName type="9">xia wan
+                        <author key="person_2114"><persName>(明)夏完淳</persName><persName type="9">xia wan
                               chun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20130910/13:41:18|odh -->
@@ -126,7 +126,7 @@
                         <title>求野錄 ^一卷^</title>
                         <title source="9">qiu ye lu</title>
                         <note source="290">(明)鄧凱撰</note>
-                        <author><persName>(明)鄧凱</persName><persName type="9">deng
+                        <author key="person_2666"><persName>(明)鄧凱</persName><persName type="9">deng
                            kai</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20130910/13:42:04|odh -->
@@ -137,7 +137,7 @@
                         <title>也是錄 ^一卷^</title>
                         <title source="9">ye shi lu</title>
                         <note source="290">(明)鄧凱撰</note>
-                        <author><persName>(明)鄧凱</persName><persName type="9">deng
+                        <author key="person_2666"><persName>(明)鄧凱</persName><persName type="9">deng
                            kai</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20130910/13:42:45|odh -->
@@ -157,7 +157,7 @@
                         <title>粵游見聞 ^一卷^</title>
                         <title source="9">yue you jian wen</title>
                         <note source="290">(明)瞿共美撰</note>
-                        <author><persName>(明)瞿共美</persName><persName type="9">qu gong
+                        <author key="person_2482"><persName>(明)瞿共美</persName><persName type="9">qu gong
                            mei</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20130910/13:44:03|odh -->
@@ -168,7 +168,7 @@
                         <title>賜姓始末 ^一卷^</title>
                         <title source="9">ci xing shi mo</title>
                         <note source="290">(清)黃宗羲撰</note>
-                        <author><persName>(清)黃宗羲</persName><persName type="9">huang zong
+                        <author key="person_6376"><persName>(清)黃宗羲</persName><persName type="9">huang zong
                               xi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20130910/13:44:40|odh -->
@@ -179,7 +179,7 @@
                         <title>兩廣紀略 ^一卷^</title>
                         <title source="9">liang guang ji lue</title>
                         <note source="290">(明)華復蠡撰</note>
-                        <author><persName>(明)華復蠡</persName><persName type="9">hua fu
+                        <author key="person_2539"><persName>(明)華復蠡</persName><persName type="9">hua fu
                            li</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20130910/13:45:08|odh -->
@@ -190,7 +190,7 @@
                         <title>東明聞見錄 ^一卷^</title>
                         <title source="9">dong ming wen jian lu</title>
                         <note source="290">(明)瞿共美撰</note>
-                        <author><persName>(明)瞿共美</persName><persName type="9">qu gong
+                        <author key="person_2482"><persName>(明)瞿共美</persName><persName type="9">qu gong
                            mei</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20130910/13:45:38|odh -->
@@ -201,7 +201,7 @@
                         <title>青燐屑 ^二卷^</title>
                         <title source="9">qing lin xie</title>
                         <note source="290">(明)應廷吉撰</note>
-                        <author><persName>(明)應廷吉</persName><persName type="9">ying ting
+                        <author key="person_2237"><persName>(明)應廷吉</persName><persName type="9">ying ting
                               ji</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20130910/13:46:14|odh -->
@@ -221,7 +221,7 @@
                         <title>揚州十日記 ^一卷^</title>
                         <title source="9">yang zhou shi ri ji</title>
                         <note source="290">(明)王秀楚撰</note>
-                        <author><persName>(明)王秀楚</persName><persName type="9">wang xiu
+                        <author key="person_2448"><persName>(明)王秀楚</persName><persName type="9">wang xiu
                               chu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20130910/13:51:18|odh -->

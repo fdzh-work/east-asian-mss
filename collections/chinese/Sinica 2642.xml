@@ -51,14 +51,14 @@
                      <title source="#200">周易全書</title>
                      <title source="#200|9">zhou yi quan shu</title>
                      <note source="#290">(明)楊時喬撰</note>
-                     <author source="#300"><persName>(明)楊時喬</persName><persName type="9">yang shi
+                     <author source="#300" key="person_2356"><persName>(明)楊時喬</persName><persName type="9">yang shi
                            qiao</persName></author>
                      <note source="#409">明萬曆中刊修補本</note>
                      <note source="#600">書名據版心題</note>
                      <msItem n="1">
                         <title>周易古今文全書論例 ^二卷^</title>
                         <title source="9">zhou yi gu jin wen quan shu lun li</title>
-                        <author><persName>(明)楊時喬</persName><persName type="9">yang shi
+                        <author key="person_2356"><persName>(明)楊時喬</persName><persName type="9">yang shi
                               qiao</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20130207/17:12:01|odh -->
@@ -68,7 +68,7 @@
                      <msItem n="2">
                         <title>周易全書古文 ^殘一卷^</title>
                         <title source="9">zhou yi quan shu gu wen</title>
-                        <author><persName>(明)楊時喬</persName><persName type="9">yang shi
+                        <author key="person_2356"><persName>(明)楊時喬</persName><persName type="9">yang shi
                               qiao</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20130207/17:15:56|odh -->
@@ -79,7 +79,7 @@
                      <msItem n="3">
                         <title>周易古今全書傳易考 ^二卷^</title>
                         <title source="9">zhou yi gu jin quan shu chuan yi kao</title>
-                        <author><persName>(明)楊時喬</persName><persName type="9">yang shi
+                        <author key="person_2356"><persName>(明)楊時喬</persName><persName type="9">yang shi
                               qiao</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20130207/17:24:53|odh -->
@@ -88,7 +88,7 @@
                      <msItem n="4">
                         <title>周易全書龜卜考 ^一卷^</title>
                         <title source="9">zhou yi quan shu gui pu kao</title>
-                        <author><persName>(明)楊時喬</persName><persName type="9">yang shi
+                        <author key="person_2356"><persName>(明)楊時喬</persName><persName type="9">yang shi
                               qiao</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20130207/17:26:01|odh -->

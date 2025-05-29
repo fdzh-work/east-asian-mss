@@ -57,11 +57,11 @@
                         <note source="290">(唐)韓愈撰</note>
                         <note source="290">(宋)朱熹考異</note>
                         <note source="290">(宋)王伯大音釋</note>
-                        <author><persName>(唐)韓愈</persName><persName type="9">han
+                        <author key="person_868"><persName>(唐)韓愈</persName><persName type="9">han
                            yu</persName></author>
-                        <author><persName>(宋)朱熹</persName><persName type="9">zhu
+                        <author key="person_1250"><persName>(宋)朱熹</persName><persName type="9">zhu
                            xi</persName></author>
-                        <author><persName>(宋)王伯大</persName><persName type="9">wang bo
+                        <author key="person_1409"><persName>(宋)王伯大</persName><persName type="9">wang bo
                            da</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20130611/12:11:34|odh -->
@@ -75,13 +75,13 @@
                         <note source="290">(唐)童宗說注釋</note>
                         <note source="290">(宋)張敦頤音辯</note>
                         <note source="290">(宋)潘緯音義</note>
-                        <author><persName>(唐)柳宗元</persName><persName type="9">liu zong
+                        <author key="person_725"><persName>(唐)柳宗元</persName><persName type="9">liu zong
                               yuan</persName></author>
-                        <author><persName>(唐)童宗說</persName><persName type="9">tong zong
+                        <author key="person_786"><persName>(唐)童宗說</persName><persName type="9">tong zong
                               yue</persName></author>
-                        <author><persName>(宋)張敦頤</persName><persName type="9">zhang dun
+                        <author key="person_1157"><persName>(宋)張敦頤</persName><persName type="9">zhang dun
                               yi</persName></author>
-                        <author><persName>(宋)潘緯</persName><persName type="9">pan
+                        <author key="person_1398"><persName>(宋)潘緯</persName><persName type="9">pan
                            wei</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20130611/12:14:07|odh -->

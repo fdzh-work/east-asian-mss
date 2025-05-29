@@ -52,9 +52,9 @@
                      <title source="#200">儒學警悟七集 ^四十卷^</title>
                      <title source="#200|9">ru xue jing wu qi ji</title>
                      <note source="#290">(宋)俞鼎孫, (宋)俞經編</note>
-                     <author source="#300"><persName>(宋)俞鼎孫</persName><persName type="9">yu ding
+                     <author source="#300" key="person_951"><persName>(宋)俞鼎孫</persName><persName type="9">yu ding
                            sun</persName></author>
-                     <author source="#300"><persName>(宋)俞經</persName><persName type="9">yu
+                     <author source="#300" key="person_950"><persName>(宋)俞經</persName><persName type="9">yu
                            jing</persName></author>
                      <note source="#409">民國甲子[1924]武進陶湘校刊本一九九〇年北京中國書店重印殘損版以影印配補</note>
                      <editor source="#440" role="pbl"><persName>中國書店</persName><persName type="9" role="pbl">zhong guo shu dian</persName></editor>
@@ -63,9 +63,9 @@
                         <title source="9">shi lin yan yu bian</title>
                         <note source="290">(宋)葉夢得撰</note>
                         <note source="290">(宋)汪應辰辨</note>
-                        <author><persName>(宋)葉夢得</persName><persName type="9">ye meng
+                        <author key="person_1542"><persName>(宋)葉夢得</persName><persName type="9">ye meng
                            de</persName></author>
-                        <author><persName>(宋)汪應辰</persName><persName type="9">wang ying
+                        <author key="person_1367"><persName>(宋)汪應辰</persName><persName type="9">wang ying
                               chen</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20200206/11:52:25|odh -->
@@ -75,7 +75,7 @@
                         <title>演繁露 ^六卷^</title>
                         <title source="9">yan fan lu</title>
                         <note source="290">(宋)程大昌撰</note>
-                        <author><persName>(宋)程大昌</persName><persName type="9">cheng da
+                        <author key="person_1487"><persName>(宋)程大昌</persName><persName type="9">cheng da
                               chang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20200206/11:53:03|odh -->
@@ -85,7 +85,7 @@
                         <title>嬾真子 ^五卷^</title>
                         <title source="9">lan zhen zi</title>
                         <note source="290">(宋)馬永卿撰</note>
-                        <author><persName>(宋)馬永卿</persName><persName type="9">ma yong
+                        <author key="person_1800"><persName>(宋)馬永卿</persName><persName type="9">ma yong
                               qing</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20200206/11:53:37|odh -->
@@ -95,7 +95,7 @@
                         <title>攷古編 ^十卷^</title>
                         <title source="9">kao gu bian</title>
                         <note source="290">(宋)程大昌撰</note>
-                        <author><persName>(宋)程大昌</persName><persName type="9">cheng da
+                        <author key="person_1487"><persName>(宋)程大昌</persName><persName type="9">cheng da
                               chang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20200206/11:54:13|odh -->
@@ -106,7 +106,7 @@
                         <title>捫蝨新話 ^上集四卷下集四卷^</title>
                         <title source="9">men shi xin hua</title>
                         <note source="290">(宋)陳善撰</note>
-                        <author><persName>(宋)陳善</persName><persName type="9">chen
+                        <author key="person_1739"><persName>(宋)陳善</persName><persName type="9">chen
                            shan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20200206/11:55:13|odh -->
@@ -117,7 +117,7 @@
                         <title>螢雪叢說 ^二卷^</title>
                         <title source="9">ying xue cong shuo</title>
                         <note source="290">(宋)俞成撰</note>
-                        <author><persName>(宋)俞成</persName><persName type="9">yu
+                        <author key="person_945"><persName>(宋)俞成</persName><persName type="9">yu
                            cheng</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20200206/11:55:55|odh -->

@@ -52,13 +52,13 @@
                      <title source="#200">錢唐湖山勝概詩文 ^二卷^</title>
                      <title source="#200|9">qian tang hu shan sheng gai shi wen</title>
                      <note source="#290">(明)夏時撰</note>
-                     <author source="#300"><persName>(明)夏時</persName><persName type="9">xia
+                     <author source="#300" key="person_2116"><persName>(明)夏時</persName><persName type="9">xia
                            shi</persName></author>
                      <note source="#600">光緒七年[1881]刊</note>
                      <msItem n="1">
                         <title>錢唐湖山勝槩記 ^一卷^</title>
                         <title source="9">qian tang hu shan sheng gai ji</title>
-                        <author><persName>(明)夏時</persName><persName type="9">xia
+                        <author key="person_2116"><persName>(明)夏時</persName><persName type="9">xia
                            shi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180323/00000024|odh -->
@@ -68,7 +68,7 @@
                      <msItem n="2">
                         <title>湖山百詠 ^一卷^</title>
                         <title source="9">hu shan bai yong</title>
-                        <author><persName>(明)夏時</persName><persName type="9">xia
+                        <author key="person_2116"><persName>(明)夏時</persName><persName type="9">xia
                            shi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180323/00000025|odh -->

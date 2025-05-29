@@ -52,7 +52,7 @@
                      <title source="#200">荊湘地記二十九種^</title>
                      <title source="#200|9">jing xiang di ji er shi jiu zhong</title>
                      <note source="#290">(清)陳運溶輯</note>
-                     <author source="#300"><persName>(清)陳運溶</persName><persName type="9">chen yun
+                     <author source="#300" key="person_6111"><persName>(清)陳運溶</persName><persName type="9">chen yun
                            rong</persName></author>
                      <note source="#600">光緒己亥[1899]刊</note>
                   </msItem>
@@ -104,7 +104,7 @@
                         <title>荊州記 ^一卷^</title>
                         <title source="9">jing zhou ji</title>
                         <note source="290">(晉)范汪撰</note>
-                        <author><persName>(晉)范汪</persName><persName type="9">fan
+                        <author key="person_2955"><persName>(晉)范汪</persName><persName type="9">fan
                            wang</persName></author>
                      </msItem>
                   </msContents>
@@ -132,7 +132,7 @@
                         <title>荊州記 ^一卷^</title>
                         <title source="9">jing zhou ji</title>
                         <note source="290">(劉宋)庾仲雍撰</note>
-                        <author><persName>(劉宋)庾仲雍</persName><persName type="9">yu zhong
+                        <author key="person_360"><persName>(劉宋)庾仲雍</persName><persName type="9">yu zhong
                               yong</persName></author>
                      </msItem>
                   </msContents>
@@ -159,7 +159,7 @@
                         <title>荊州記 ^一卷^</title>
                         <title source="9">jing zhou ji</title>
                         <note source="290">(劉宋)郭仲產撰</note>
-                        <author><persName>(劉宋)郭仲產</persName><persName type="9">guo zhong
+                        <author key="person_384"><persName>(劉宋)郭仲產</persName><persName type="9">guo zhong
                               chan</persName></author>
                      </msItem>
                   </msContents>
@@ -186,7 +186,7 @@
                         <title>荊州記 ^一卷^</title>
                         <title source="9">jing zhou ji</title>
                         <note source="290">(南齊)劉澄之撰</note>
-                        <author><persName>(南齊)劉澄之</persName><persName type="9">liu cheng
+                        <author key="person_430"><persName>(南齊)劉澄之</persName><persName type="9">liu cheng
                               zhi</persName></author>
                      </msItem>
                   </msContents>
@@ -338,7 +338,7 @@
                         <title>荊南地志 ^一卷^</title>
                         <title source="9">jing nan di zhi</title>
                         <note source="290">(梁)蕭世誠撰</note>
-                        <author><persName>(梁)蕭世誠</persName><persName type="9">xiao shi
+                        <author key="person_3047"><persName>(梁)蕭世誠</persName><persName type="9">xiao shi
                               cheng</persName></author>
                      </msItem>
                   </msContents>
@@ -365,7 +365,7 @@
                         <title>湘中記</title>
                         <title source="9">xiang zhong ji</title>
                         <note source="290">(晉)羅含撰</note>
-                        <author><persName>(晉)羅含</persName><persName type="9">luo
+                        <author key="person_2950"><persName>(晉)羅含</persName><persName type="9">luo
                            han</persName></author>
                      </msItem>
                   </msContents>
@@ -392,7 +392,7 @@
                         <title>湘中記 ^一卷^</title>
                         <title source="9">xiang zhong ji</title>
                         <note source="290">(劉宋)庾仲雍撰</note>
-                        <author><persName>(劉宋)庾仲雍</persName><persName type="9">yu zhong
+                        <author key="person_360"><persName>(劉宋)庾仲雍</persName><persName type="9">yu zhong
                               yong</persName></author>
                      </msItem>
                   </msContents>
@@ -444,7 +444,7 @@
                         <title>湘州記 ^一卷^</title>
                         <title source="9">xiang zhou ji</title>
                         <note source="290">(劉宋)甄烈撰</note>
-                        <author><persName>(劉宋)甄烈</persName><persName type="9">zhen
+                        <author key="person_371"><persName>(劉宋)甄烈</persName><persName type="9">zhen
                            lie</persName></author>
                      </msItem>
                   </msContents>
@@ -471,7 +471,7 @@
                         <title>湘州記 ^一卷^</title>
                         <title source="9">xiang zhou ji</title>
                         <note source="290">(劉宋)庾仲雍撰</note>
-                        <author><persName>(劉宋)庾仲雍</persName><persName type="9">yu zhong
+                        <author key="person_360"><persName>(劉宋)庾仲雍</persName><persName type="9">yu zhong
                               yong</persName></author>
                      </msItem>
                   </msContents>
@@ -498,7 +498,7 @@
                         <title>湘州記 ^一卷^</title>
                         <title source="9">xiang zhou ji</title>
                         <note source="290">(劉宋)郭仲產撰</note>
-                        <author><persName>(劉宋)郭仲產</persName><persName type="9">guo zhong
+                        <author key="person_384"><persName>(劉宋)郭仲產</persName><persName type="9">guo zhong
                               chan</persName></author>
                      </msItem>
                   </msContents>
@@ -575,7 +575,7 @@
                         <title>武陵記 ^一卷^</title>
                         <title source="9">wu ling ji</title>
                         <note source="290">(南齊)黃閔撰</note>
-                        <author><persName>(南齊)黃閔</persName><persName type="9">huang
+                        <author key="person_447"><persName>(南齊)黃閔</persName><persName type="9">huang
                            min</persName></author>
                      </msItem>
                   </msContents>
@@ -602,7 +602,7 @@
                         <title>武陵記 ^一卷^</title>
                         <title source="9">wu ling ji</title>
                         <note source="290">(梁)伍安貧撰</note>
-                        <author><persName>(梁)伍安貧</persName><persName type="9">wu an
+                        <author key="person_3017"><persName>(梁)伍安貧</persName><persName type="9">wu an
                            pin</persName></author>
                      </msItem>
                   </msContents>
@@ -679,7 +679,7 @@
                         <title>南嶽記 ^一卷^</title>
                         <title source="9">nan yue ji</title>
                         <note source="290">(劉宋)徐靈期撰</note>
-                        <author><persName>(劉宋)徐靈期</persName><persName type="9">xu ling
+                        <author key="person_364"><persName>(劉宋)徐靈期</persName><persName type="9">xu ling
                            qi</persName></author>
                      </msItem>
                   </msContents>
@@ -706,7 +706,7 @@
                         <title>衡山記 ^一卷^</title>
                         <title source="9">heng shan ji</title>
                         <note source="290">(南齊)宗測撰</note>
-                        <author><persName>(南齊)宗測</persName><persName type="9">zong
+                        <author key="person_433"><persName>(南齊)宗測</persName><persName type="9">zong
                            ce</persName></author>
                      </msItem>
                   </msContents>
@@ -733,7 +733,7 @@
                         <title>神境記 ^一卷^</title>
                         <title source="9">shen jing ji</title>
                         <note source="290">(劉宋)王韶之撰</note>
-                        <author><persName>(劉宋)王韶之</persName><persName type="9">wang shao
+                        <author key="person_370"><persName>(劉宋)王韶之</persName><persName type="9">wang shao
                               zhi</persName></author>
                      </msItem>
                   </msContents>
@@ -760,7 +760,7 @@
                         <title>麓山記 ^一卷^</title>
                         <title source="9">lu shan ji</title>
                         <note source="290">(□)宋淵撰</note>
-                        <author><persName>(□)宋淵</persName><persName type="9">song
+                        <author key="person_11"><persName>(□)宋淵</persName><persName type="9">song
                            yuan</persName></author>
                      </msItem>
                   </msContents>

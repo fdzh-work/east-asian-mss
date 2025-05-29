@@ -53,13 +53,13 @@
                      <title source="#200">四種遺規</title>
                      <title source="#200|9">si zhong yi gui</title>
                      <note source="#290">(清)陳宏謀撰</note>
-                     <author source="#300"><persName>(清)陳宏謀</persName><persName type="9">chen hong
+                     <author source="#300" key="person_6031"><persName>(清)陳宏謀</persName><persName type="9">chen hong
                            mou</persName></author>
                      <note source="#409">清道光四年[1824]開封府知府泉州王康乂刊二十九年[1849]長白瑛桂修補光緒辛卯[1891]海豐吳重熹再補本</note>
                      <msItem n="1">
                         <title>養正遺規 ^二卷補編一卷^</title>
                         <title source="9">yang zheng yi gui</title>
-                        <author><persName>(清)陳宏謀</persName><persName type="9">chen hong
+                        <author key="person_6031"><persName>(清)陳宏謀</persName><persName type="9">chen hong
                               mou</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150113/12:28:16|odh -->
@@ -68,7 +68,7 @@
                      <msItem n="2">
                         <title>教女遺規 ^三卷^</title>
                         <title source="9">jiao nu yi gui</title>
-                        <author><persName>(清)陳宏謀</persName><persName type="9">chen hong
+                        <author key="person_6031"><persName>(清)陳宏謀</persName><persName type="9">chen hong
                               mou</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150113/12:28:48|odh -->
@@ -77,7 +77,7 @@
                      <msItem n="3">
                         <title>訓俗遺規 ^四卷補二卷^</title>
                         <title source="9">xun su yi gui</title>
-                        <author><persName>(清)陳宏謀</persName><persName type="9">chen hong
+                        <author key="person_6031"><persName>(清)陳宏謀</persName><persName type="9">chen hong
                               mou</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150113/12:29:34|odh -->
@@ -86,7 +86,7 @@
                      <msItem n="4">
                         <title>從政遺規 ^二卷^</title>
                         <title source="9">cong zheng yi gui</title>
-                        <author><persName>(清)陳宏謀</persName><persName type="9">chen hong
+                        <author key="person_6031"><persName>(清)陳宏謀</persName><persName type="9">chen hong
                               mou</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150113/12:30:27|odh -->
@@ -95,7 +95,7 @@
                      <msItem n="5=附">
                         <title>在官法戒錄摘鈔 ^四卷^</title>
                         <title source="9">zai guan fa jie lu zhai chao</title>
-                        <author><persName>(清)陳宏謀</persName><persName type="9">chen hong
+                        <author key="person_6031"><persName>(清)陳宏謀</persName><persName type="9">chen hong
                               mou</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150113/12:35:11|odh -->

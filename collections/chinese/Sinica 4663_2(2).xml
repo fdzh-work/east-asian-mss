@@ -52,7 +52,7 @@
                      <title source="#200">荊湖圖經三十六種</title>
                      <title source="#200|9">jing hu tu jing san shi liu zhong</title>
                      <note source="#290">(清)陳運溶輯</note>
-                     <author source="#300"><persName>(清)陳運溶</persName><persName type="9">chen yun
+                     <author source="#300" key="person_6111"><persName>(清)陳運溶</persName><persName type="9">chen yun
                            rong</persName></author>
                      <note source="#600">光緒庚子[1900]刊</note>
                   </msItem>
@@ -280,7 +280,7 @@
                         <title>紹熙長沙志 ^一卷^</title>
                         <title source="9">shao xi chang sha zhi</title>
                         <note source="290">(宋)褚孝錫撰</note>
-                        <author><persName>(宋)褚孝錫</persName><persName type="9">chu xiao
+                        <author key="person_1610"><persName>(宋)褚孝錫</persName><persName type="9">chu xiao
                            xi</persName></author>
                      </msItem>
                   </msContents>
@@ -382,7 +382,7 @@
                         <title>衡陽志 ^一卷^</title>
                         <title source="9">heng yang zhi</title>
                         <note source="290">(宋)宋剛中撰</note>
-                        <author><persName>(宋)宋剛中</persName><persName type="9">song gang
+                        <author key="person_1113"><persName>(宋)宋剛中</persName><persName type="9">song gang
                               zhong</persName></author>
                      </msItem>
                   </msContents>
@@ -434,7 +434,7 @@
                         <title>零陵總記 ^一卷^</title>
                         <title source="9">ling ling zong ji</title>
                         <note source="290">(宋)陶岳撰</note>
-                        <author><persName>(宋)陶岳</persName><persName type="9">tao
+                        <author key="person_1779"><persName>(宋)陶岳</persName><persName type="9">tao
                            yue</persName></author>
                      </msItem>
                   </msContents>
@@ -461,7 +461,7 @@
                         <title>零陵志 ^一卷^</title>
                         <title source="9">ling ling zhi</title>
                         <note source="290">(宋)張埏撰</note>
-                        <author><persName>(宋)張埏</persName><persName type="9">zhang
+                        <author key="person_1149"><persName>(宋)張埏</persName><persName type="9">zhang
                            yan</persName></author>
                      </msItem>
                   </msContents>
@@ -488,7 +488,7 @@
                         <title>永州風土記 ^一卷^</title>
                         <title source="9">yong zhou feng tu ji</title>
                         <note source="290">(宋)柳拱辰撰</note>
-                        <author><persName>(宋)柳拱辰</persName><persName type="9">liu gong
+                        <author key="person_1321"><persName>(宋)柳拱辰</persName><persName type="9">liu gong
                               chen</persName></author>
                      </msItem>
                   </msContents>
@@ -540,7 +540,7 @@
                         <title>春陵志 ^一卷^</title>
                         <title source="9">chun ling zhi</title>
                         <note source="290">(宋)章穎撰</note>
-                        <author><persName>(宋)章穎</persName><persName type="9">zhang
+                        <author key="person_1498"><persName>(宋)章穎</persName><persName type="9">zhang
                            ying</persName></author>
                      </msItem>
                   </msContents>
@@ -617,7 +617,7 @@
                         <title>邵陽志 ^一卷^</title>
                         <title source="9">shao yang zhi</title>
                         <note source="290">(宋)李韋之撰</note>
-                        <author><persName>(宋)李韋之</persName><persName type="9">li wei
+                        <author key="person_1301"><persName>(宋)李韋之</persName><persName type="9">li wei
                            zhi</persName></author>
                      </msItem>
                   </msContents>
@@ -644,7 +644,7 @@
                         <title>都梁志 ^一卷^</title>
                         <title source="9">du liang zhi</title>
                         <note source="290">(宋)鄭昉撰</note>
-                        <author><persName>(宋)鄭昉</persName><persName type="9">zheng
+                        <author key="person_1710"><persName>(宋)鄭昉</persName><persName type="9">zheng
                            fang</persName></author>
                      </msItem>
                   </msContents>
@@ -771,7 +771,7 @@
                         <title>桂陽志 ^一卷^</title>
                         <title source="9">gui yang zhi</title>
                         <note source="290">(宋)鄭伸撰</note>
-                        <author><persName>(宋)鄭伸</persName><persName type="9">zheng
+                        <author key="person_1702"><persName>(宋)鄭伸</persName><persName type="9">zheng
                            shen</persName></author>
                      </msItem>
                   </msContents>
@@ -823,7 +823,7 @@
                         <title>岳陽甲志 ^一卷^</title>
                         <title source="9">yue yang jia zhi</title>
                         <note source="290">(宋)馬子嚴撰</note>
-                        <author><persName>(宋)馬子嚴</persName><persName type="9">ma zi
+                        <author key="person_1799"><persName>(宋)馬子嚴</persName><persName type="9">ma zi
                            yan</persName></author>
                      </msItem>
                   </msContents>
@@ -850,7 +850,7 @@
                         <title>岳陽乙志 ^一卷^</title>
                         <title source="9">yue yang yi zhi</title>
                         <note source="290">(宋)張聲道撰</note>
-                        <author><persName>(宋)張聲道</persName><persName type="9">zhang sheng
+                        <author key="person_1176"><persName>(宋)張聲道</persName><persName type="9">zhang sheng
                               dao</persName></author>
                      </msItem>
                   </msContents>
@@ -877,7 +877,7 @@
                         <title>常德圖經 ^一卷^</title>
                         <title source="9">chang de tu jing</title>
                         <note source="290">(宋)胡介撰</note>
-                        <author><persName>(宋)胡介</persName><persName type="9">hu
+                        <author key="person_1513"><persName>(宋)胡介</persName><persName type="9">hu
                            jie</persName></author>
                      </msItem>
                   </msContents>
@@ -954,7 +954,7 @@
                         <title>辰州風土記 ^一卷^</title>
                         <title source="9">chen zhou feng tu ji</title>
                         <note source="290">(宋)田渭撰</note>
-                        <author><persName>(宋)田渭</persName><persName type="9">tian
+                        <author key="person_1464"><persName>(宋)田渭</persName><persName type="9">tian
                            wei</persName></author>
                      </msItem>
                   </msContents>

@@ -54,9 +54,9 @@
                      <title source="#200|9">meng zi zhang ju</title>
                      <note source="#290">(漢)劉熙撰</note>
                      <note source="#290">(民國)葉德輝輯</note>
-                     <author source="#300"><persName>(漢)劉熙</persName><persName type="9">liu
+                     <author source="#300" key="person_6495"><persName>(漢)劉熙</persName><persName type="9">liu
                            xi</persName></author>
-                     <author source="#300"><persName>(民國)葉德輝</persName><persName type="9">ye de
+                     <author source="#300" key="person_3174"><persName>(民國)葉德輝</persName><persName type="9">ye de
                            hui</persName></author>
                      <note source="#600">光緒壬寅[1902]刊</note>
                   </msItem>
@@ -64,7 +64,7 @@
                      <title source="#201">^附^ 劉熙事蹟考 ^一卷^</title>
                      <title source="#201|9">liu xi shi ji kao</title>
                      <note source="#291">(民國)葉德輝撰</note>
-                     <author source="#301"><persName>(民國)葉德輝</persName><persName type="9">ye de
+                     <author source="#301" key="person_3174"><persName>(民國)葉德輝</persName><persName type="9">ye de
                            hui</persName></author>
                   </msItem>
                </msContents>

@@ -51,7 +51,7 @@
                      <title source="#200">晉書輯本 ^等五種^</title>
                      <title source="#200|9">jin shu ji ben</title>
                      <note source="#290">(清)湯球輯</note>
-                     <author source="#300"><persName>(清)湯球</persName><persName type="9">tang
+                     <author source="#300" key="person_4949"><persName>(清)湯球</persName><persName type="9">tang
                            qiu</persName></author>
                      <author><persName>(清)廣雅書局</persName><persName type="9">guang ya shu
                            ju</persName></author>
@@ -60,7 +60,7 @@
                      <msItem n="1">
                         <title>晉書輯本</title>
                         <title source="9">jin shu ji ben</title>
-                        <author><persName>(清)湯球</persName><persName type="9">tang
+                        <author key="person_4949"><persName>(清)湯球</persName><persName type="9">tang
                            qiu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20141030/10:14:33|odh -->
@@ -71,7 +71,7 @@
                         <msItem n="1">
                            <title>臧榮緒晉書 ^十七卷補遺一卷^</title>
                            <title source="9">zang rong xu jin shu</title>
-                           <author><persName>(南齊)臧榮緒</persName><persName type="9">zang rong
+                           <author key="person_441"><persName>(南齊)臧榮緒</persName><persName type="9">zang rong
                                  xu</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20141030/10:17:05|odh -->
@@ -81,7 +81,7 @@
                         <msItem n="2">
                            <title>王隱晉書 ^十一卷^</title>
                            <title source="9">wang yin jin shu</title>
-                           <author><persName>(晉)王隱</persName><persName type="9">wang
+                           <author key="person_2940"><persName>(晉)王隱</persName><persName type="9">wang
                               yin</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20141030/10:18:51|odh -->
@@ -91,7 +91,7 @@
                         <msItem n="3">
                            <title>虞預晉書 ^一卷^</title>
                            <title source="9">yu yu jin shu</title>
-                           <author><persName>(晉)虞預</persName><persName type="9">yu
+                           <author key="person_2970"><persName>(晉)虞預</persName><persName type="9">yu
                               yu</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20141030/10:19:39|odh -->
@@ -101,7 +101,7 @@
                         <msItem n="4">
                            <title>朱鳳晉書 ^一卷^</title>
                            <title source="9">zhu feng jin shu</title>
-                           <author><persName>(晉)朱鳳</persName><persName type="9">zhu
+                           <author key="person_2908"><persName>(晉)朱鳳</persName><persName type="9">zhu
                               feng</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20141030/10:20:15|odh -->
@@ -111,7 +111,7 @@
                         <msItem n="5">
                            <title>謝靈運晉書 ^一卷^</title>
                            <title source="9">xie ling yun jin shu</title>
-                           <author><persName>(劉宋)謝靈運</persName><persName type="9">xie ling
+                           <author key="person_383"><persName>(劉宋)謝靈運</persName><persName type="9">xie ling
                                  yun</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20141030/10:21:16|odh -->
@@ -121,7 +121,7 @@
                         <msItem n="6">
                            <title>蕭子雲晉書 ^一卷^</title>
                            <title source="9">xiao zi yun jin shu</title>
-                           <author><persName>(梁)蕭子雲</persName><persName type="9">xiao zi
+                           <author key="person_3048"><persName>(梁)蕭子雲</persName><persName type="9">xiao zi
                                  yun</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20141030/10:22:08|odh -->
@@ -141,7 +141,7 @@
                         <msItem n="8">
                            <title>沈約晉書 ^一卷^</title>
                            <title source="9">shen yue jin shu</title>
-                           <author><persName>(梁)沈約</persName><persName type="9">shen
+                           <author key="person_3042"><persName>(梁)沈約</persName><persName type="9">shen
                               yue</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20141030/10:24:02|odh -->
@@ -151,7 +151,7 @@
                         <msItem n="9">
                            <title>何法盛晉中興書 ^七卷^</title>
                            <title source="9">he fa sheng jin zhong xing shu</title>
-                           <author><persName>(劉宋)何法盛</persName><persName type="9">he fa
+                           <author key="person_351"><persName>(劉宋)何法盛</persName><persName type="9">he fa
                                  sheng</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20141030/10:25:13|odh -->
@@ -169,7 +169,7 @@
                      <msItem n="2">
                         <title>晉紀輯本</title>
                         <title source="9">jin ji ji ben</title>
-                        <author><persName>(清)湯球</persName><persName type="9">tang
+                        <author key="person_4949"><persName>(清)湯球</persName><persName type="9">tang
                            qiu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20141030/10:13:11|odh -->
@@ -178,7 +178,7 @@
                         <msItem n="1">
                            <title>干寶晉紀 ^一卷^</title>
                            <title source="9">gan bao jin ji</title>
-                           <author><persName>(晉)干寶</persName><persName type="9">gan
+                           <author key="person_2885"><persName>(晉)干寶</persName><persName type="9">gan
                               bao</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20141030/10:32:03|odh -->
@@ -188,7 +188,7 @@
                         <msItem n="2">
                            <title>陸機晉紀 ^一卷^</title>
                            <title source="9">lu ji jin ji</title>
-                           <author><persName>(晉)陸機</persName><persName type="9">lu
+                           <author key="person_2998"><persName>(晉)陸機</persName><persName type="9">lu
                               ji</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20141030/10:32:41|odh -->
@@ -198,7 +198,7 @@
                         <msItem n="3">
                            <title>陸機惠帝起居注 ^一卷^</title>
                            <title source="9">lu ji hui di qi ju zhu</title>
-                           <author><persName>(晉)陸機</persName><persName type="9">lu
+                           <author key="person_2998"><persName>(晉)陸機</persName><persName type="9">lu
                               ji</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20141030/10:33:10|odh -->
@@ -208,7 +208,7 @@
                         <msItem n="4">
                            <title>曹嘉之晉紀 ^一卷^</title>
                            <title source="9">cao jia zhi jin ji</title>
-                           <author><persName>(晉)曹嘉之</persName><persName type="9">cao jia
+                           <author key="person_2907"><persName>(晉)曹嘉之</persName><persName type="9">cao jia
                                  zhi</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20141030/10:33:46|odh -->
@@ -218,7 +218,7 @@
                         <msItem n="5">
                            <title>鄧粲晉紀 ^一卷^</title>
                            <title source="9">deng can jin ji</title>
-                           <author><persName>(晉)鄧粲</persName><persName type="9">deng
+                           <author key="person_2990"><persName>(晉)鄧粲</persName><persName type="9">deng
                               can</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20141030/10:34:20|odh -->
@@ -228,7 +228,7 @@
                         <msItem n="6">
                            <title>劉謙之晉紀 ^一卷^</title>
                            <title source="9">liu qian zhi jin ji</title>
-                           <author><persName>(劉宋)劉謙之</persName><persName type="9">liu qian
+                           <author key="person_354"><persName>(劉宋)劉謙之</persName><persName type="9">liu qian
                                  zhi</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20141030/10:34:44|odh -->
@@ -238,7 +238,7 @@
                         <msItem n="7">
                            <title>裴松之晉紀 ^一卷^</title>
                            <title source="9">pei song zhi jin ji</title>
-                           <author><persName>(劉宋)裴松之</persName><persName type="9">pei song
+                           <author key="person_379"><persName>(劉宋)裴松之</persName><persName type="9">pei song
                                  zhi</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20141030/10:35:09|odh -->
@@ -248,7 +248,7 @@
                      <msItem n="3">
                         <title>晉陽秋輯本</title>
                         <title source="9">jin yang qiu ji ben</title>
-                        <author><persName>(清)湯球</persName><persName type="9">tang
+                        <author key="person_4949"><persName>(清)湯球</persName><persName type="9">tang
                            qiu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20141030/10:37:05|odh -->
@@ -257,7 +257,7 @@
                         <msItem n="1">
                            <title>孫盛晉陽秋 ^三卷^</title>
                            <title source="9">sun sheng jin yang qiu</title>
-                           <author><persName>(晉)孫盛</persName><persName type="9">sun
+                           <author key="person_2877"><persName>(晉)孫盛</persName><persName type="9">sun
                               sheng</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20141030/10:37:57|odh -->
@@ -267,7 +267,7 @@
                         <msItem n="2">
                            <title>檀道鸞續晉陽秋 ^二卷^</title>
                            <title source="9">tan dao luan xu jin yang qiu</title>
-                           <author><persName>(劉宋)檀道鸞</persName><persName type="9">tan dao
+                           <author key="person_367"><persName>(劉宋)檀道鸞</persName><persName type="9">tan dao
                                  luan</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20141030/10:38:30|odh -->
@@ -277,7 +277,7 @@
                      <msItem n="4">
                         <title>漢晉春秋輯本</title>
                         <title source="9">han jin chun qiu ji ben</title>
-                        <author><persName>(清)湯球</persName><persName type="9">tang
+                        <author key="person_4949"><persName>(清)湯球</persName><persName type="9">tang
                            qiu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20141030/10:41:39|odh -->
@@ -286,7 +286,7 @@
                         <msItem n="1">
                            <title>習鑿齒漢晉春秋 ^三卷^</title>
                            <title source="9">xi zao chi han jin chun qiu</title>
-                           <author><persName>(晉)習鑿齒</persName><persName type="9">xi zao
+                           <author key="person_2951"><persName>(晉)習鑿齒</persName><persName type="9">xi zao
                                  chi</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20141030/10:42:38|odh -->
@@ -296,7 +296,7 @@
                         <msItem n="2">
                            <title>杜延業晉春秋 ^一卷^</title>
                            <title source="9">du yan ye jin chun qiu</title>
-                           <author><persName>(唐)杜延業</persName><persName type="9">du yan
+                           <author key="person_718"><persName>(唐)杜延業</persName><persName type="9">du yan
                                  ye</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20141030/10:43:06|odh -->
@@ -306,7 +306,7 @@
                      <msItem n="5">
                         <title>三十國春秋輯本</title>
                         <title source="9">san shi guo chun qiu ji ben</title>
-                        <author><persName>(清)湯球</persName><persName type="9">tang
+                        <author key="person_4949"><persName>(清)湯球</persName><persName type="9">tang
                            qiu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20141030/10:47:22|odh -->
@@ -315,7 +315,7 @@
                         <msItem n="01">
                            <title>蕭方等三十國春秋 ^一卷^</title>
                            <title source="9">xiao fang deng san shi guo chun qiu</title>
-                           <author><persName>(梁)蕭方</persName><persName type="9">xiao
+                           <author key="person_3051"><persName>(梁)蕭方</persName><persName type="9">xiao
                               fang</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20141030/11:05:36|odh -->
@@ -325,7 +325,7 @@
                         <msItem n="02">
                            <title>武敏之三十國春秋 ^一卷^</title>
                            <title source="9">wu min zhi san shi guo chun qiu</title>
-                           <author><persName>(劉宋)武敏之</persName><persName type="9">wu min
+                           <author key="person_368"><persName>(劉宋)武敏之</persName><persName type="9">wu min
                                  zhi</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20141030/11:07:44|odh -->
@@ -345,7 +345,7 @@
                         <msItem n="04">
                            <title>和苞漢趙記 ^一卷^</title>
                            <title source="9">he bao han zhao ji</title>
-                           <author><persName>(前趙)和苞</persName><persName type="9">he
+                           <author key="person_348"><persName>(前趙)和苞</persName><persName type="9">he
                               bao</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20141030/11:08:36|odh -->
@@ -355,7 +355,7 @@
                         <msItem n="05">
                            <title>田融趙書 ^一卷^</title>
                            <title source="9">tian rong zhao shu</title>
-                           <author><persName>(□燕)田融</persName><persName type="9">tian
+                           <author key="person_45"><persName>(□燕)田融</persName><persName type="9">tian
                                  rong</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20141030/11:09:20|odh -->
@@ -365,7 +365,7 @@
                         <msItem n="06">
                            <title>吳篤趙書 ^一卷^</title>
                            <title source="9">wu du zhao shu</title>
-                           <author><persName>(□)吳篤</persName><persName type="9">wu
+                           <author key="person_7"><persName>(□)吳篤</persName><persName type="9">wu
                               du</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20141030/11:09:46|odh -->
@@ -375,7 +375,7 @@
                         <msItem n="07">
                            <title>王度二石傳 ^一卷^</title>
                            <title source="9">wang du er shi zhuan</title>
-                           <author><persName>(晉)王度</persName><persName type="9">wang
+                           <author key="person_2932"><persName>(晉)王度</persName><persName type="9">wang
                               du</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20141030/11:10:13|odh -->
@@ -385,7 +385,7 @@
                         <msItem n="08">
                            <title>范亨燕書 ^一卷^</title>
                            <title source="9">fan heng yan shu</title>
-                           <author><persName>(□燕)范亨</persName><persName type="9">fan
+                           <author key="person_46"><persName>(□燕)范亨</persName><persName type="9">fan
                               heng</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20141030/11:10:36|odh -->
@@ -395,7 +395,7 @@
                         <msItem n="09">
                            <title>車頻秦書 ^一卷^</title>
                            <title source="9">ju pin qin shu</title>
-                           <author><persName>(前秦)車頻</persName><persName type="9">ju
+                           <author key="person_344"><persName>(前秦)車頻</persName><persName type="9">ju
                               pin</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20141030/11:11:01|odh -->
@@ -405,7 +405,7 @@
                         <msItem n="10">
                            <title>王景暉南燕書 ^一卷^</title>
                            <title source="9">wang jing hui nan yan shu</title>
-                           <author><persName>(□燕)王景暉</persName><persName type="9">wang jing
+                           <author key="person_44"><persName>(□燕)王景暉</persName><persName type="9">wang jing
                                  hui</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20141030/11:11:29|odh -->
@@ -415,7 +415,7 @@
                         <msItem n="11">
                            <title>裴景仁秦記 ^一卷^</title>
                            <title source="9">pei jing ren qin ji</title>
-                           <author><persName>(劉宋)裴景仁</persName><persName type="9">pei jing
+                           <author key="person_378"><persName>(劉宋)裴景仁</persName><persName type="9">pei jing
                                  ren</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20141030/11:12:28|odh -->
@@ -425,7 +425,7 @@
                         <msItem n="12">
                            <title>姚和都後秦記 ^一卷^</title>
                            <title source="9">yao he du hou qin ji</title>
-                           <author><persName>(後魏)姚和都</persName><persName type="9">yao he
+                           <author key="person_1886"><persName>(後魏)姚和都</persName><persName type="9">yao he
                                  du</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20141030/11:12:56|odh -->
@@ -435,7 +435,7 @@
                         <msItem n="13">
                            <title>張諮涼記 ^一卷^</title>
                            <title source="9">zhang zi liang ji</title>
-                           <author><persName>(□燕)張諮</persName><persName type="9">zhang
+                           <author key="person_43"><persName>(□燕)張諮</persName><persName type="9">zhang
                               zi</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20141030/11:13:21|odh -->
@@ -445,7 +445,7 @@
                         <msItem n="14">
                            <title>喻歸西河記 ^一卷^</title>
                            <title source="9">yu gui xi he ji</title>
-                           <author><persName>(晉)喻歸</persName><persName type="9">yu
+                           <author key="person_2870"><persName>(晉)喻歸</persName><persName type="9">yu
                               gui</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20141030/11:14:16|odh -->
@@ -455,7 +455,7 @@
                         <msItem n="15">
                            <title>段龜龍涼記 ^一卷^</title>
                            <title source="9">duan gui long liang ji</title>
-                           <author><persName>(北涼)段龜龍</persName><persName type="9">duan gui
+                           <author key="person_405"><persName>(北涼)段龜龍</persName><persName type="9">duan gui
                                  long</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20141030/11:14:38|odh -->
@@ -465,7 +465,7 @@
                         <msItem n="16">
                            <title>劉昞燉煌實錄 ^一卷^</title>
                            <title source="9">liu bing dun huang shi lu</title>
-                           <author><persName>(北魏)劉昞</persName><persName type="9">liu
+                           <author key="person_407"><persName>(北魏)劉昞</persName><persName type="9">liu
                               bing</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20141030/11:15:29|odh -->
@@ -475,7 +475,7 @@
                         <msItem n="17">
                            <title>張詮南燕書 ^一卷^</title>
                            <title source="9">zhang quan nan yan shu</title>
-                           <author><persName>(□燕)張詮</persName><persName type="9">zhang
+                           <author key="person_42"><persName>(□燕)張詮</persName><persName type="9">zhang
                                  quan</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20141030/11:15:55|odh -->
@@ -485,7 +485,7 @@
                         <msItem n="18">
                            <title>高閭燕志 ^一卷^</title>
                            <title source="9">gao lu yan zhi</title>
-                           <author><persName>(北魏)高閭</persName><persName type="9">gao
+                           <author key="person_411"><persName>(北魏)高閭</persName><persName type="9">gao
                               lu</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20141030/11:16:18|odh -->

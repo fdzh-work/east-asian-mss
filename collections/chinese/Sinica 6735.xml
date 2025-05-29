@@ -52,7 +52,7 @@
                      <title source="#200">大鶴山房全書</title>
                      <title source="#200|9">da he shan fang quan shu</title>
                      <note source="#290">(清)鄭文焯撰</note>
-                     <author source="#300"><persName>(清)鄭文焯</persName><persName type="9">zheng wen
+                     <author source="#300" key="person_5849"><persName>(清)鄭文焯</persName><persName type="9">zheng wen
                            zhuo</persName></author>
                      <note source="#409">清光緒民國間刊民國九年[1920]蘇州交通圖書館彙印本</note>
                      <editor source="#440" role="pbl"><persName>蘇州交通圖書館</persName><persName type="9" role="pbl">su zhou jiao tong tu shu guan</persName></editor>
@@ -61,7 +61,7 @@
                         <title source="9">shuo wen yin qun shuo gu yang xiong shuo gu</title>
                         <title>^附^ 楊雄訓纂篇考 ^一卷^</title>
                         <title source="9">yang xiong xun zuan pian kao</title>
-                        <author><persName>(清)鄭文焯</persName><persName type="9">zheng wen
+                        <author key="person_5849"><persName>(清)鄭文焯</persName><persName type="9">zheng wen
                               zhuo</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180820/00000011|odh -->
@@ -71,7 +71,7 @@
                         <title>高麗國永樂好太王碑釋文篹攷 ^一卷^</title>
                         <title source="9">gao li guo yong yue hao tai wang bei shi wen zhuan
                            kao</title>
-                        <author><persName>(清)鄭文焯</persName><persName type="9">zheng wen
+                        <author key="person_5849"><persName>(清)鄭文焯</persName><persName type="9">zheng wen
                               zhuo</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180820/00000012|odh -->
@@ -81,7 +81,7 @@
                      <msItem n="3">
                         <title>醫故 ^二卷^</title>
                         <title source="9">yi gu</title>
-                        <author><persName>(清)鄭文焯</persName><persName type="9">zheng wen
+                        <author key="person_5849"><persName>(清)鄭文焯</persName><persName type="9">zheng wen
                               zhuo</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180820/00000013|odh -->
@@ -90,7 +90,7 @@
                      <msItem n="4">
                         <title>詞源斠律 ^二卷^</title>
                         <title source="9">ci yuan jiao lu</title>
-                        <author><persName>(清)鄭文焯</persName><persName type="9">zheng wen
+                        <author key="person_5849"><persName>(清)鄭文焯</persName><persName type="9">zheng wen
                               zhuo</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180820/00000014|odh -->
@@ -99,7 +99,7 @@
                      <msItem n="5">
                         <title>冷紅詞 ^四卷^</title>
                         <title source="9">leng hong ci</title>
-                        <author><persName>(清)鄭文焯</persName><persName type="9">zheng wen
+                        <author key="person_5849"><persName>(清)鄭文焯</persName><persName type="9">zheng wen
                               zhuo</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180820/00000015|odh -->
@@ -109,7 +109,7 @@
                      <msItem n="6">
                         <title>樵風樂府 ^九卷^</title>
                         <title source="9">qiao feng yue fu</title>
-                        <author><persName>(清)鄭文焯</persName><persName type="9">zheng wen
+                        <author key="person_5849"><persName>(清)鄭文焯</persName><persName type="9">zheng wen
                               zhuo</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180820/00000016|odh -->
@@ -119,7 +119,7 @@
                      <msItem n="7">
                         <title>比竹餘音 ^四卷^</title>
                         <title source="9">bu zhu yu yin</title>
-                        <author><persName>(清)鄭文焯</persName><persName type="9">zheng wen
+                        <author key="person_5849"><persName>(清)鄭文焯</persName><persName type="9">zheng wen
                               zhuo</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180820/00000017|odh -->
@@ -129,7 +129,7 @@
                      <msItem n="8">
                         <title>苕雅餘集 ^一卷^</title>
                         <title source="9">shao ya yu ji</title>
-                        <author><persName>(清)鄭文焯</persName><persName type="9">zheng wen
+                        <author key="person_5849"><persName>(清)鄭文焯</persName><persName type="9">zheng wen
                               zhuo</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180820/00000018|odh -->
@@ -139,7 +139,7 @@
                      <msItem n="9">
                         <title>絕妙好詞校錄 ^一卷^</title>
                         <title source="9">jue miao hao ci jiao lu</title>
-                        <author><persName>(清)鄭文焯</persName><persName type="9">zheng wen
+                        <author key="person_5849"><persName>(清)鄭文焯</persName><persName type="9">zheng wen
                               zhuo</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180820/00000019|odh -->
@@ -148,7 +148,7 @@
                      <msItem n="10">
                         <title>瘦碧詞 ^二卷^</title>
                         <title source="9">shou bi ci</title>
-                        <author><persName>(清)鄭文焯</persName><persName type="9">zheng wen
+                        <author key="person_5849"><persName>(清)鄭文焯</persName><persName type="9">zheng wen
                               zhuo</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180820/00000020|odh -->

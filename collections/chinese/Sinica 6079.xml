@@ -51,7 +51,7 @@
                      <title source="#200">歷代詩話</title>
                      <title source="#200|9">li dai shi hua</title>
                      <note source="#290">(清)何文煥編</note>
-                     <author source="#300"><persName>(清)何文煥</persName><persName type="9">he wen
+                     <author source="#300" key="person_3310"><persName>(清)何文煥</persName><persName type="9">he wen
                            huan</persName></author>
                      <note source="#409">民國上海文寶公司石印本</note>
                      <editor source="#440" role="pbl"><persName>文寶公司</persName><persName type="9" role="pbl">wen bao gong si</persName></editor>
@@ -59,7 +59,7 @@
                         <title>詩品 ^三卷^</title>
                         <title source="9">shi pin</title>
                         <note source="290">(梁)鍾嶸撰</note>
-                        <author><persName>(梁)鍾嶸</persName><persName type="9">zhong
+                        <author key="person_3059"><persName>(梁)鍾嶸</persName><persName type="9">zhong
                            rong</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20131213/13:40:12|odh -->
@@ -69,7 +69,7 @@
                         <title>詩式 ^一卷^</title>
                         <title source="9">shi shi</title>
                         <note source="290">(唐釋)皎然撰</note>
-                        <author><persName>(唐釋)皎然</persName><persName type="9">jiao
+                        <author key="person_911"><persName>(唐釋)皎然</persName><persName type="9">jiao
                            ran</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20131213/13:40:53|odh -->
@@ -79,7 +79,7 @@
                         <title>二十四詩品 ^一卷^</title>
                         <title source="9">er shi si shi pin</title>
                         <note source="290">(唐)司空圖撰</note>
-                        <author><persName>(唐)司空圖</persName><persName type="9">si kong
+                        <author key="person_580"><persName>(唐)司空圖</persName><persName type="9">si kong
                            tu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20131213/13:41:22|odh -->
@@ -89,7 +89,7 @@
                         <title>全唐詩話 ^六卷^</title>
                         <title source="9">quan tang shi hua</title>
                         <note source="290">(宋)尤袤撰</note>
-                        <author><persName>(宋)尤袤</persName><persName type="9">you
+                        <author key="person_1123"><persName>(宋)尤袤</persName><persName type="9">you
                            mao</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20131213/13:42:05|odh -->
@@ -99,7 +99,7 @@
                         <title>六一詩話 ^一卷^</title>
                         <title source="9">liu yi shi hua</title>
                         <note source="290">(宋)歐陽修撰</note>
-                        <author><persName>(宋)歐陽修</persName><persName type="9">ou yang
+                        <author key="person_1349"><persName>(宋)歐陽修</persName><persName type="9">ou yang
                            xiu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20131213/13:42:28|odh -->
@@ -119,7 +119,7 @@
                         <title>中山詩話 ^一卷^</title>
                         <title source="9">zhong shan shi hua</title>
                         <note source="290">(宋)劉攽撰</note>
-                        <author><persName>(宋)劉攽</persName><persName type="9">liu
+                        <author key="person_978"><persName>(宋)劉攽</persName><persName type="9">liu
                            ban</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20131213/13:43:29|odh -->
@@ -130,7 +130,7 @@
                         <title>後山詩話 ^一卷^</title>
                         <title source="9">hou shan shi hua</title>
                         <note source="290">(宋)陳師道撰</note>
-                        <author><persName>(宋)陳師道</persName><persName type="9">chen shi
+                        <author key="person_1744"><persName>(宋)陳師道</persName><persName type="9">chen shi
                               dao</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20131213/13:44:10|odh -->
@@ -150,7 +150,7 @@
                         <title>竹坡詩話 ^一卷^</title>
                         <title source="9">zhu po shi hua</title>
                         <note source="290">(宋)周紫芝撰</note>
-                        <author><persName>(宋)周紫芝</persName><persName type="9">zhou zi
+                        <author key="person_1069"><persName>(宋)周紫芝</persName><persName type="9">zhou zi
                            zhi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20131213/13:48:33|odh -->
@@ -160,7 +160,7 @@
                         <title>紫微詩話 ^一卷^</title>
                         <title source="9">zi wei shi hua</title>
                         <note source="290">(宋)呂本中撰</note>
-                        <author><persName>(宋)呂本中</persName><persName type="9">lu ben
+                        <author key="person_1050"><persName>(宋)呂本中</persName><persName type="9">lu ben
                               zhong</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20131213/13:48:54|odh -->
@@ -180,7 +180,7 @@
                         <title>石林詩話 ^三卷^</title>
                         <title source="9">shi lin shi hua</title>
                         <note source="290">(宋)葉夢得撰</note>
-                        <author><persName>(宋)葉夢得</persName><persName type="9">ye meng
+                        <author key="person_1542"><persName>(宋)葉夢得</persName><persName type="9">ye meng
                            de</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20131213/13:50:38|odh -->
@@ -190,7 +190,7 @@
                         <title>唐子西文錄 ^一卷^</title>
                         <title source="9">tang zi xi wen lu</title>
                         <note source="290">(宋)唐庚撰</note>
-                        <author><persName>(宋)唐庚</persName><persName type="9">tang
+                        <author key="person_1076"><persName>(宋)唐庚</persName><persName type="9">tang
                            geng</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20131213/13:51:28|odh -->
@@ -200,7 +200,7 @@
                         <title>珊瑚鈎詩話 ^三卷^</title>
                         <title source="9">shan hu gou shi hua</title>
                         <note source="290">(宋)張表臣撰</note>
-                        <author><persName>(宋)張表臣</persName><persName type="9">zhang biao
+                        <author key="person_1180"><persName>(宋)張表臣</persName><persName type="9">zhang biao
                               chen</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20131213/13:51:54|odh -->
@@ -211,7 +211,7 @@
                         <title>韻語陽秋 ^二十卷^</title>
                         <title source="9">yun yu yang qiu</title>
                         <note source="290">(宋)葛立方撰</note>
-                        <author><persName>(宋)葛立方</persName><persName type="9">ge li
+                        <author key="person_1555"><persName>(宋)葛立方</persName><persName type="9">ge li
                            fang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20131213/13:52:16|odh -->
@@ -221,7 +221,7 @@
                         <title>二老堂詩話 ^一卷^</title>
                         <title source="9">er lao tang shi hua</title>
                         <note source="290">(宋)周必大撰</note>
-                        <author><persName>(宋)周必大</persName><persName type="9">zhou bi
+                        <author key="person_1063"><persName>(宋)周必大</persName><persName type="9">zhou bi
                            da</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20131213/13:52:41|odh -->
@@ -231,7 +231,7 @@
                         <title>白石道人詩說 ^一卷^</title>
                         <title source="9">bai shi dao ren shi shuo</title>
                         <note source="290">(宋)姜夔撰</note>
-                        <author><persName>(宋)姜夔</persName><persName type="9">jiang
+                        <author key="person_1090"><persName>(宋)姜夔</persName><persName type="9">jiang
                            kui</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20131213/13:53:03|odh -->
@@ -241,7 +241,7 @@
                         <title>滄浪詩話 ^一卷^</title>
                         <title source="9">cang lang shi hua</title>
                         <note source="290">(宋)嚴羽撰</note>
-                        <author><persName>(宋)嚴羽</persName><persName type="9">yan
+                        <author key="person_1083"><persName>(宋)嚴羽</persName><persName type="9">yan
                            yu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20131213/13:53:23|odh -->
@@ -251,7 +251,7 @@
                         <title>山房隨筆 ^一卷^</title>
                         <title source="9">shan fang sui bi</title>
                         <note source="290">(元)蔣正子撰</note>
-                        <author><persName>(元)蔣正子</persName><persName type="9">jiang zheng
+                        <author key="person_260"><persName>(元)蔣正子</persName><persName type="9">jiang zheng
                               zi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20131213/13:53:41|odh -->
@@ -261,7 +261,7 @@
                         <title>詩法家數 ^一卷^</title>
                         <title source="9">shi fa jia shu</title>
                         <note source="290">(元)楊載撰</note>
-                        <author><persName>(元)楊載</persName><persName type="9">yang
+                        <author key="person_182"><persName>(元)楊載</persName><persName type="9">yang
                            zai</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20131213/13:53:58|odh -->
@@ -271,7 +271,7 @@
                         <title>木天禁語 ^一卷^</title>
                         <title source="9">mu tian jin yu</title>
                         <note source="290">(元)范梈撰</note>
-                        <author><persName>(元)范梈</persName><persName type="9">fan
+                        <author key="person_252"><persName>(元)范梈</persName><persName type="9">fan
                            peng</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20131213/13:54:51|odh -->
@@ -282,7 +282,7 @@
                         <title>詩學禁臠 ^一卷^</title>
                         <title source="9">shi xue jin luan</title>
                         <note source="290">(元)范梈撰</note>
-                        <author><persName>(元)范梈</persName><persName type="9">fan
+                        <author key="person_252"><persName>(元)范梈</persName><persName type="9">fan
                            peng</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20131213/13:55:54|odh -->
@@ -293,7 +293,7 @@
                         <title>談藝錄 ^一卷^</title>
                         <title source="9">tan yi lu</title>
                         <note source="290">(明)徐禎卿撰</note>
-                        <author><persName>(明)徐禎卿</persName><persName type="9">xu zhen
+                        <author key="person_2228"><persName>(明)徐禎卿</persName><persName type="9">xu zhen
                               qing</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20131213/13:56:17|odh -->
@@ -303,7 +303,7 @@
                         <title>藝圃擷餘 ^一卷^</title>
                         <title source="9">yi pu xie yu</title>
                         <note source="290">(明)王世懋撰</note>
-                        <author><persName>(明)王世懋</persName><persName type="9">wang shi
+                        <author key="person_2411"><persName>(明)王世懋</persName><persName type="9">wang shi
                               mao</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20131213/13:59:19|odh -->
@@ -314,7 +314,7 @@
                         <title>存餘堂詩話 ^一卷^</title>
                         <title source="9">cun yu tang shi hua</title>
                         <note source="290">(明)朱承爵撰</note>
-                        <author><persName>(明)朱承爵</persName><persName type="9">zhu cheng
+                        <author key="person_2269"><persName>(明)朱承爵</persName><persName type="9">zhu cheng
                               jue</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20131213/14:00:05|odh -->
@@ -325,7 +325,7 @@
                         <title>夷白齋詩話 ^一卷^</title>
                         <title source="9">yi bai zhai shi hua</title>
                         <note source="290">(明)顧元慶撰</note>
-                        <author><persName>(明)顧元慶</persName><persName type="9">gu yuan
+                        <author key="person_2765"><persName>(明)顧元慶</persName><persName type="9">gu yuan
                               qing</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20131213/14:00:22|odh -->
@@ -336,7 +336,7 @@
                         <title>歷代詩話考索 ^一卷^</title>
                         <title source="9">li dai shi hua kao suo</title>
                         <note source="290">(清)何文煥撰</note>
-                        <author><persName>(清)何文煥</persName><persName type="9">he wen
+                        <author key="person_3310"><persName>(清)何文煥</persName><persName type="9">he wen
                            huan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20131213/14:00:53|odh -->

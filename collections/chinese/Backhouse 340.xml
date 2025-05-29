@@ -62,11 +62,11 @@
                         <note source="290">(周)李耳撰</note>
                         <note source="290">(魏)王弼注</note>
                         <note source="290">(唐)陸德明音義</note>
-                        <author><persName>(周)李耳</persName><persName type="9">li
+                        <author key="person_509"><persName>(周)李耳</persName><persName type="9">li
                            er</persName></author>
-                        <author><persName>(魏)王弼</persName><persName type="9">wang
+                        <author key="person_6736"><persName>(魏)王弼</persName><persName type="9">wang
                            bi</persName></author>
-                        <author><persName>(唐)陸德明</persName><persName type="9">lu de
+                        <author key="person_854"><persName>(唐)陸德明</persName><persName type="9">lu de
                            ming</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20130703/12:55:11|odh -->
@@ -79,11 +79,11 @@
                         <note source="290">(周)莊周撰</note>
                         <note source="290">(晉)郭象注</note>
                         <note source="290">(唐)陸德明音義</note>
-                        <author><persName>(周)莊周</persName><persName type="9">zhuang
+                        <author key="person_526"><persName>(周)莊周</persName><persName type="9">zhuang
                            zhou</persName></author>
-                        <author><persName>(晉)郭象</persName><persName type="9">guo
+                        <author key="person_2987"><persName>(晉)郭象</persName><persName type="9">guo
                            xiang</persName></author>
-                        <author><persName>(唐)陸德明</persName><persName type="9">lu de
+                        <author key="person_854"><persName>(唐)陸德明</persName><persName type="9">lu de
                            ming</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20130703/12:56:25|odh -->
@@ -96,11 +96,11 @@
                         <note source="290">(周)管仲撰</note>
                         <note source="290">(唐)房玄齡注</note>
                         <note source="290">(明)劉績增注</note>
-                        <author><persName>(周)管仲</persName><persName type="9">guan
+                        <author key="person_520"><persName>(周)管仲</persName><persName type="9">guan
                            zhong</persName></author>
-                        <author><persName>(唐)房玄齡</persName><persName type="9">fang xuan
+                        <author key="person_658"><persName>(唐)房玄齡</persName><persName type="9">fang xuan
                               ling</persName></author>
-                        <author><persName>(明)劉績</persName><persName type="9">liu
+                        <author key="person_2038"><persName>(明)劉績</persName><persName type="9">liu
                            ji</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20130703/12:57:20|odh -->
@@ -113,11 +113,11 @@
                         <note source="290">(周)列禦寇撰</note>
                         <note source="290">(晉)張湛注</note>
                         <note source="290">(唐)殷敬順釋文</note>
-                        <author><persName>(周)列禦寇</persName><persName type="9">lie yu
+                        <author key="person_480"><persName>(周)列禦寇</persName><persName type="9">lie yu
                            kou</persName></author>
-                        <author><persName>(晉)張湛</persName><persName type="9">zhang
+                        <author key="person_2891"><persName>(晉)張湛</persName><persName type="9">zhang
                            zhan</persName></author>
-                        <author><persName>(唐)殷敬順</persName><persName type="9">yin jing
+                        <author key="person_742"><persName>(唐)殷敬順</persName><persName type="9">yin jing
                               shun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20130703/12:58:08|odh -->
@@ -129,9 +129,9 @@
                         <title source="9">mo zi</title>
                         <note source="290">(周)墨翟撰</note>
                         <note source="290">(清)畢沅校注</note>
-                        <author><persName>(周)墨翟</persName><persName type="9">mo
+                        <author key="person_488"><persName>(周)墨翟</persName><persName type="9">mo
                            di</persName></author>
-                        <author><persName>(清)畢沅</persName><persName type="9">bi
+                        <author key="person_5193"><persName>(清)畢沅</persName><persName type="9">bi
                            yuan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20130703/12:59:40|odh -->
@@ -146,20 +146,20 @@
                            <note source="290">(周)荀況撰</note>
                            <note source="290">(唐)楊倞注</note>
                            <note source="290">(清)盧文弨, (清)謝墉校</note>
-                           <author><persName>(周)荀況</persName><persName type="9">xun
+                           <author key="person_525"><persName>(周)荀況</persName><persName type="9">xun
                               kuang</persName></author>
-                           <author><persName>(唐)楊倞</persName><persName type="9">yang
+                           <author key="person_727"><persName>(唐)楊倞</persName><persName type="9">yang
                               jing</persName></author>
-                           <author><persName>(清)盧文弨</persName><persName type="9">lu wen
+                           <author key="person_5212"><persName>(清)盧文弨</persName><persName type="9">lu wen
                                  chao</persName></author>
-                           <author><persName>(清)謝墉</persName><persName type="9">xie
+                           <author key="person_5691"><persName>(清)謝墉</persName><persName type="9">xie
                               yong</persName></author>
                         </msItem>
                         <msItem n="2">
                            <title>荀子校勘補遺 ^一卷^</title>
                            <title source="9">xun zi jiao kan bu yi</title>
                            <note source="291">(清)謝墉撰</note>
-                           <author><persName>(清)謝墉</persName><persName type="9">xie
+                           <author key="person_5691"><persName>(清)謝墉</persName><persName type="9">xie
                               yong</persName></author>
                         </msItem>
 
@@ -173,9 +173,9 @@
                         <title source="9">shi zi</title>
                         <note source="290">(周)尸佼撰</note>
                         <note source="290">(清)汪繼培輯</note>
-                        <author><persName>(周)尸佼</persName><persName type="9">shi
+                        <author key="person_497"><persName>(周)尸佼</persName><persName type="9">shi
                            jiao</persName></author>
-                        <author><persName>(清)汪繼培</persName><persName type="9">wang ji
+                        <author key="person_4820"><persName>(清)汪繼培</persName><persName type="9">wang ji
                            pei</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20130703/13:05:15|odh -->
@@ -188,27 +188,27 @@
                            <note source="290">(周)孫武撰</note>
                            <note source="290">(宋)吉天保輯</note>
                            <note source="290">(清)孫星衍, (清)吳人驥校</note>
-                           <author><persName>(周)孫武</persName><persName type="9">sun
+                           <author key="person_492"><persName>(周)孫武</persName><persName type="9">sun
                               wu</persName></author>
-                           <author><persName>(宋)吉天保</persName><persName type="9">ji tian
+                           <author key="person_1010"><persName>(宋)吉天保</persName><persName type="9">ji tian
                                  bao</persName></author>
-                           <author><persName>(清)孫星衍</persName><persName type="9">sun xing
+                           <author key="person_3855"><persName>(清)孫星衍</persName><persName type="9">sun xing
                                  yan</persName></author>
-                           <author><persName>(清)吳人驥</persName><persName type="9">wu ren
+                           <author key="person_3528"><persName>(清)吳人驥</persName><persName type="9">wu ren
                                  ji</persName></author>
                         </msItem>
                         <msItem n="2">
                            <title>孫子敘錄 ^一卷^</title>
                            <title source="9">sun zi xu lu</title>
                            <note source="291">(清)畢以珣撰</note>
-                           <author><persName>(清)畢以珣</persName><persName source="9">bi yi
+                           <author key="person_5192"><persName>(清)畢以珣</persName><persName source="9">bi yi
                                  xun</persName></author>
                         </msItem>
                         <msItem n="3">
                            <title>孫子十家註遺說 ^一卷^</title>
                            <title source="9">sun zi shi jia zhu yi shuo</title>
                            <note source="292">(宋)鄭友賢撰</note>
-                           <author><persName>(宋)鄭友賢</persName><persName source="9">zheng you
+                           <author key="person_1706"><persName>(宋)鄭友賢</persName><persName source="9">zheng you
                                  xian</persName></author>
                         </msItem>
                         <!--Unused allegro fields-->
@@ -219,7 +219,7 @@
                         <title>孔子集語 ^十七卷^</title>
                         <title source="9">kong zi ji yu</title>
                         <note source="290">(清)孫星衍輯</note>
-                        <author><persName>(清)孫星衍</persName><persName type="9">sun xing
+                        <author key="person_3855"><persName>(清)孫星衍</persName><persName type="9">sun xing
                               yan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20130703/13:07:16|odh -->
@@ -231,16 +231,16 @@
                            <title source="9">yan zi chun qiu</title>
                            <note source="290">(周)晏嬰撰</note>
                            <note source="290">(清)孫星衍校</note>
-                           <author><persName>(周)晏嬰</persName><persName type="9">yan
+                           <author key="person_505"><persName>(周)晏嬰</persName><persName type="9">yan
                               ying</persName></author>
-                           <author><persName>(清)孫星衍</persName><persName type="9">sun xing
+                           <author key="person_3855"><persName>(清)孫星衍</persName><persName type="9">sun xing
                                  yan</persName></author>
                         </msItem>
                         <msItem n="2">
                            <title> 晏子春秋音義 ^二卷^</title>
                            <title source="9">yan zi chun qiu yin yi</title>
                            <note source="291">(清)孫星衍撰</note>
-                           <author><persName>(清)孫星衍</persName><persName type="9">sun xing
+                           <author key="person_3855"><persName>(清)孫星衍</persName><persName type="9">sun xing
                                  yan</persName></author>
                         </msItem>
 
@@ -248,7 +248,7 @@
                            <title> 晏子春秋校勘 ^二卷^</title>
                            <title source="9">yan zi chun qiu jiao kan</title>
                            <note source="292"> (清)黃以周撰 </note>
-                           <author><persName>(清)黃以周</persName><persName type="9">huang yi
+                           <author key="person_6353"><persName>(清)黃以周</persName><persName type="9">huang yi
                                  zhou</persName></author>
                         </msItem>
                         <!--Unused allegro fields-->
@@ -261,11 +261,11 @@
                         <note source="290">(秦)呂不韋撰</note>
                         <note source="290">(漢)高誘注</note>
                         <note source="290">(清)畢沅校</note>
-                        <author><persName>(秦)呂不韋</persName><persName type="9">lu bu
+                        <author key="person_6633"><persName>(秦)呂不韋</persName><persName type="9">lu bu
                            wei</persName></author>
-                        <author><persName>(漢)高誘</persName><persName type="9">gao
+                        <author key="person_6623"><persName>(漢)高誘</persName><persName type="9">gao
                            you</persName></author>
-                        <author><persName>(清)畢沅</persName><persName type="9">bi
+                        <author key="person_5193"><persName>(清)畢沅</persName><persName type="9">bi
                            yuan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20130703/13:09:40|odh -->
@@ -276,9 +276,9 @@
                         <title source="9">xin shu</title>
                         <note source="290">(漢)賈誼撰</note>
                         <note source="290">(清)盧文弨校</note>
-                        <author><persName>(漢)賈誼</persName><persName type="9">jia
+                        <author key="person_6599"><persName>(漢)賈誼</persName><persName type="9">jia
                            yi</persName></author>
-                        <author><persName>(清)盧文弨</persName><persName type="9">lu wen
+                        <author key="person_5212"><persName>(清)盧文弨</persName><persName type="9">lu wen
                            chao</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20130703/13:10:21|odh -->
@@ -288,7 +288,7 @@
                         <title>董子春秋繁露 ^十七卷附錄一卷^</title>
                         <title source="9">dong zi chun qiu fan lu</title>
                         <note source="290">(漢)董仲舒撰</note>
-                        <author><persName>(漢)董仲舒</persName><persName type="9">dong zhong
+                        <author key="person_6583"><persName>(漢)董仲舒</persName><persName type="9">dong zhong
                               shu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20130703/13:11:03|odh -->
@@ -300,9 +300,9 @@
                            <title source="9">yang zi fa yan</title>
                            <note source="290">(漢)揚雄撰</note>
                            <note source="290">(晉)李軌注</note>
-                           <author><persName>(漢)揚雄</persName><persName type="9">yang
+                           <author key="person_6538"><persName>(漢)揚雄</persName><persName type="9">yang
                                  xiong</persName></author>
-                           <author><persName>(晉)李軌</persName><persName type="9">li
+                           <author key="person_2911"><persName>(晉)李軌</persName><persName type="9">li
                               gui</persName></author>
                         </msItem>
                         <msItem n="2">
@@ -319,7 +319,7 @@
                         <title>文子纘義 ^十二卷^</title>
                         <title source="9">wen zi zuan yi</title>
                         <note source="290">(宋)杜道堅撰</note>
-                        <author><persName>(宋)杜道堅</persName><persName type="9">du dao
+                        <author key="person_1305"><persName>(宋)杜道堅</persName><persName type="9">du dao
                            jian</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20130703/13:12:44|odh -->
@@ -336,16 +336,16 @@
                            <note source="290">(宋)孫兆重改誤</note>
                            <author><persName>(宋)林億</persName><persName type="9">lin
                               yi</persName></author>
-                           <author><persName>(宋)孫兆重</persName><persName type="9">sun zhao
+                           <author key="person_1100"><persName>(宋)孫兆重</persName><persName type="9">sun zhao
                                  chong</persName></author>
-                           <author><persName>(唐)王冰</persName><persName type="9">wang
+                           <author key="person_754"><persName>(唐)王冰</persName><persName type="9">wang
                               bing</persName></author>
                         </msItem>
                         <msItem n="2">
                            <title>黃帝內經素問遺篇 ^一卷^</title>
                            <title source="9">huang di nei jing su wen yi pian</title>
                            <note source="291">(宋)劉溫舒原本</note>
-                           <author><persName>(宋)劉溫舒</persName><persName type="9">liu wen
+                           <author key="person_984"><persName>(宋)劉溫舒</persName><persName type="9">liu wen
                                  shu</persName></author>
 
                         </msItem>
@@ -363,7 +363,7 @@
                         <title>竹書紀年統箋 ^十二卷前編一卷雜述一卷^</title>
                         <title source="9">zhu shu ji nian tong jian</title>
                         <note source="290">(清)徐文靖撰</note>
-                        <author><persName>(清)徐文靖</persName><persName type="9">xu wen
+                        <author key="person_4191"><persName>(清)徐文靖</persName><persName type="9">xu wen
                            jing</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20130703/13:14:29|odh -->
@@ -374,9 +374,9 @@
                         <title source="9">shang jun shu</title>
                         <note source="290">(周)商鞅撰</note>
                         <note source="290">(清)嚴萬里校</note>
-                        <author><persName>(周)商鞅</persName><persName type="9">shang
+                        <author key="person_487"><persName>(周)商鞅</persName><persName type="9">shang
                            yang</persName></author>
-                        <author><persName>(清)嚴萬里</persName><persName type="9">yan wan
+                        <author key="person_3757"><persName>(清)嚴萬里</persName><persName type="9">yan wan
                            li</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20130703/13:15:33|odh -->
@@ -388,14 +388,14 @@
                            <title source="9">han fei zi</title>
                            <note source="290">(周)韓非撰</note>
                            <note source="290">(□)佚名注</note>
-                           <author><persName>(周)韓非</persName><persName type="9">han
+                           <author key="person_540"><persName>(周)韓非</persName><persName type="9">han
                               fei</persName></author>
                         </msItem>
                         <msItem n="2">
                            <title>^附^ 韓非子識誤 ^三卷^</title>
                            <title source="9">han fei zi shi wu</title>
                            <note source="291">(清)顧廣圻撰</note>
-                           <author><persName>(清)顧廣圻</persName><persName type="9">gu guang
+                           <author key="person_6215"><persName>(清)顧廣圻</persName><persName type="9">gu guang
                                  qi</persName></author>
 
                         </msItem>
@@ -409,11 +409,11 @@
                         <note source="290">(漢)劉安撰</note>
                         <note source="290">(漢)高誘注</note>
                         <note source="290">(清)莊逵吉校</note>
-                        <author><persName>(漢)劉安</persName><persName type="9">liu
+                        <author key="person_6489"><persName>(漢)劉安</persName><persName type="9">liu
                            an</persName></author>
-                        <author><persName>(漢)高誘</persName><persName type="9">gao
+                        <author key="person_6623"><persName>(漢)高誘</persName><persName type="9">gao
                            you</persName></author>
-                        <author><persName>(清)莊逵吉</persName><persName type="9">zhuang kui
+                        <author key="person_5439"><persName>(清)莊逵吉</persName><persName type="9">zhuang kui
                               ji</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20130703/13:17:16|odh -->
@@ -426,9 +426,9 @@
                         <title source="9" type="variant">zhong shuo</title>
                         <note source="290">(隋)王通撰</note>
                         <note source="290">(宋)阮逸注</note>
-                        <author><persName>(隋)王通</persName><persName type="9">wang
+                        <author key="person_6700"><persName>(隋)王通</persName><persName type="9">wang
                            tong</persName></author>
-                        <author><persName>(宋)阮逸</persName><persName type="9">ruan
+                        <author key="person_1727"><persName>(宋)阮逸</persName><persName type="9">ruan
                            yi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20130703/13:17:59|odh -->
@@ -439,9 +439,9 @@
                         <title source="9">shan hai jing</title>
                         <note source="290">(晉)郭璞傳</note>
                         <note source="290">(清)畢沅校</note>
-                        <author><persName>(晉)郭璞</persName><persName type="9">guo
+                        <author key="person_2985"><persName>(晉)郭璞</persName><persName type="9">guo
                            pu</persName></author>
-                        <author><persName>(清)畢沅</persName><persName type="9">bi
+                        <author key="person_5193"><persName>(清)畢沅</persName><persName type="9">bi
                            yuan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20130703/13:18:36|odh -->

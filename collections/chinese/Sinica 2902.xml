@@ -66,9 +66,9 @@
                         <title source="9">ling bao ling jiao ji du jin shu</title>
                         <note source="290">(宋)甯本立授</note>
                         <note source="290">(元)林偉夫編</note>
-                        <author><persName>(宋)甯本立</persName><persName type="9">ning ben
+                        <author key="person_1462"><persName>(宋)甯本立</persName><persName type="9">ning ben
                            li</persName></author>
-                        <author><persName>(元)林偉夫</persName><persName type="9">lin wei
+                        <author key="person_169"><persName>(元)林偉夫</persName><persName type="9">lin wei
                            fu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20010731/12:27:10|odh -->
@@ -81,7 +81,7 @@
                         <title>太上黃籙齋儀 ^殘一卷^</title>
                         <title source="9">tai shang huang lu zhai yi</title>
                         <note source="290">(前蜀)杜光庭集</note>
-                        <author><persName>(前蜀)杜光庭</persName><persName type="9">du guang
+                        <author key="person_345"><persName>(前蜀)杜光庭</persName><persName type="9">du guang
                               ting</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20010731/12:32:43|odh -->
@@ -95,9 +95,9 @@
                         <title source="9">wu shang huang lu da zhai li cheng yi</title>
                         <note source="290">(宋)留用光傳授</note>
                         <note source="290">(宋)蔣叔輿編次</note>
-                        <author><persName>(宋)留用光</persName><persName type="9">liu yong
+                        <author key="person_1465"><persName>(宋)留用光</persName><persName type="9">liu yong
                               guang</persName></author>
-                        <author><persName>(宋)蔣叔輿</persName><persName type="9">jiang shu
+                        <author key="person_1579"><persName>(宋)蔣叔輿</persName><persName type="9">jiang shu
                               yu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20010731/12:40:30|odh -->

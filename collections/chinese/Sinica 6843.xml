@@ -51,7 +51,7 @@
                      <title source="#200">國學叢刊</title>
                      <title source="#200|9">guo xue cong kan</title>
                      <note source="#290">(清)羅振玉等輯</note>
-                     <author source="#300"><persName>(清)羅振玉</persName><persName type="9">luo zhen
+                     <author source="#300" key="person_5327"><persName>(清)羅振玉</persName><persName type="9">luo zhen
                            yu</persName></author>
                      <note source="#409">清宣統三年[1911]國學叢刊社石印本</note>
                      <editor source="#440" role="pbl"><persName>國學叢刊社</persName><persName type="9" role="pbl">guo xue cong kan she</persName></editor>
@@ -62,7 +62,7 @@
                         <title type="variant">羣經點勘</title>
                         <title source="9" type="variant">qun jing dian kan</title>
                         <note source="290">(清)羅振玉撰</note>
-                        <author><persName>(清)羅振玉</persName><persName type="9">luo zhen
+                        <author key="person_5327"><persName>(清)羅振玉</persName><persName type="9">luo zhen
                            yu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20191213/00000001|odh -->
@@ -74,7 +74,7 @@
                         <title>殷虛書契前編卷一 ^ 一卷^</title>
                         <title source="9">yin xu shu qi qian bian juan yi</title>
                         <note source="290">(清)羅振玉輯</note>
-                        <author><persName>(清)羅振玉</persName><persName type="9">luo zhen
+                        <author key="person_5327"><persName>(清)羅振玉</persName><persName type="9">luo zhen
                            yu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20191213/00000002|odh -->
@@ -85,7 +85,7 @@
                         <title>唐折衝府考補 ^一卷補遺一卷^</title>
                         <title source="9">tang zhe chong fu kao bu</title>
                         <note source="290">(清)羅振玉輯</note>
-                        <author><persName>(清)羅振玉</persName><persName type="9">luo zhen
+                        <author key="person_5327"><persName>(清)羅振玉</persName><persName type="9">luo zhen
                            yu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20191213/00000003|odh -->
@@ -96,7 +96,7 @@
                         <title>隋唐兵符圖錄 ^ 一卷^</title>
                         <title source="9">sui tang bing fu tu lu</title>
                         <note source="290">(清)羅振玉輯</note>
-                        <author><persName>(清)羅振玉</persName><persName type="9">luo zhen
+                        <author key="person_5327"><persName>(清)羅振玉</persName><persName type="9">luo zhen
                            yu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20191213/00000004|odh -->
@@ -107,7 +107,7 @@
                         <title>藝風堂題跋 ^ 一卷^</title>
                         <title source="9">yi feng tang ti ba</title>
                         <note source="290">(清)繆荃孫撰</note>
-                        <author><persName>(清)繆荃孫</persName><persName type="9">miao quan
+                        <author key="person_5321"><persName>(清)繆荃孫</persName><persName type="9">miao quan
                               sun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20191213/00000005|odh -->
@@ -118,7 +118,7 @@
                         <title>古劇腳色考 ^ 一卷補遺一卷^</title>
                         <title source="9">gu ju jiao se kao</title>
                         <note source="290">(清)王國維撰</note>
-                        <author><persName>(清)王國維</persName><persName type="9">wang guo
+                        <author key="person_5024"><persName>(清)王國維</persName><persName type="9">wang guo
                               wei</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20191213/00000006|odh -->
@@ -132,7 +132,7 @@
                         <title type="variant">羣經點勘</title>
                         <title source="9" type="variant">qun jing dian kan</title>
                         <note source="290">(清)羅振玉撰</note>
-                        <author><persName>(清)羅振玉</persName><persName type="9">luo zhen
+                        <author key="person_5327"><persName>(清)羅振玉</persName><persName type="9">luo zhen
                            yu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20191213/00000007|odh -->
@@ -144,7 +144,7 @@
                         <title>殷虛書契前編卷二 ^ 一卷^</title>
                         <title source="9">yin xu shu qi qian bian juan er</title>
                         <note source="290">(清)羅振玉輯</note>
-                        <author><persName>(清)羅振玉</persName><persName type="9">luo zhen
+                        <author key="person_5327"><persName>(清)羅振玉</persName><persName type="9">luo zhen
                            yu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20191213/00000008|odh -->
@@ -155,7 +155,7 @@
                         <title>清真先生遺事 ^ 一卷^</title>
                         <title source="9">qing zhen xian sheng yi shi</title>
                         <note source="290">(清)王國維撰</note>
-                        <author><persName>(清)王國維</persName><persName type="9">wang guo
+                        <author key="person_5024"><persName>(清)王國維</persName><persName type="9">wang guo
                               wei</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20191213/00000009|odh -->
@@ -166,7 +166,7 @@
                         <title>蒿里遺文目錄卷上 ^ 一卷^</title>
                         <title source="9">hao li yi wen mu lu juan shang</title>
                         <note source="290">(清)羅振玉撰</note>
-                        <author><persName>(清)羅振玉</persName><persName type="9">luo zhen
+                        <author key="person_5327"><persName>(清)羅振玉</persName><persName type="9">luo zhen
                            yu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20191213/00000010|odh -->
@@ -180,9 +180,9 @@
                         <title source="9" type="variant">yi ji cong can</title>
                         <note source="290">(漢)鄭玄注</note>
                         <note source="290">(清)羅振玉校</note>
-                        <author><persName>(漢)鄭玄</persName><persName type="9">zheng
+                        <author key="person_6609"><persName>(漢)鄭玄</persName><persName type="9">zheng
                            xuan</persName></author>
-                        <author><persName>(清)羅振玉</persName><persName type="9">luo zhen
+                        <author key="person_5327"><persName>(清)羅振玉</persName><persName type="9">luo zhen
                            yu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20191213/00000011|odh -->
@@ -196,7 +196,7 @@
                         <title type="variant">佚籍叢殘</title>
                         <title source="9" type="variant">yi ji cong can</title>
                         <note source="290">(清)羅振玉輯</note>
-                        <author><persName>(清)羅振玉</persName><persName type="9">luo zhen
+                        <author key="person_5327"><persName>(清)羅振玉</persName><persName type="9">luo zhen
                            yu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20191213/00000012|odh -->
@@ -213,7 +213,7 @@
                         <note source="290">(清)羅振玉校</note>
                         <author><persName>(北齊)顏之推</persName><persName type="9">yan zhi
                               dui</persName></author>
-                        <author><persName>(清)羅振玉</persName><persName type="9">luo zhen
+                        <author key="person_5327"><persName>(清)羅振玉</persName><persName type="9">luo zhen
                            yu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20191213/00000013|odh -->

@@ -46,8 +46,8 @@
                <head>書名:小學 一卷 / (宋)朱熹撰 ; (明)陳選集注<lb/>附 忠經 一卷 / (漢)馬融撰<lb/>清刊滿漢合璧本<lb/>線裝9冊 ; 28公分<lb/></head><msContents>
                   <textLang mainLang="mnc" otherLangs="chi">Manchu, Chinese</textLang>
                   <msItem><note source="#409">清刊滿漢合璧本</note><msItem n="1">
-                  <title source="#200">小學 ^一卷^</title><title source="#200|9">xiao xue</title><note source="#290">(宋)朱熹撰</note><note source="#290">(明)陳選集注</note><author source="#300"><persName>(宋)朱熹</persName><persName type="9">zhu xi</persName></author><author source="#300"><persName>(明)陳選</persName><persName type="9">chen xuan</persName></author></msItem>         
-               <msItem n="2"><title source="#201">^附^ 忠經 ^一卷^</title><title source="#201|9">zhong jing</title><note source="#291">(漢)馬融撰</note><author source="#301"><persName>(漢)馬融</persName><persName type="9">ma rong</persName></author></msItem></msItem></msContents>
+                  <title source="#200">小學 ^一卷^</title><title source="#200|9">xiao xue</title><note source="#290">(宋)朱熹撰</note><note source="#290">(明)陳選集注</note><author source="#300" key="person_1250"><persName>(宋)朱熹</persName><persName type="9">zhu xi</persName></author><author source="#300" key="person_2731"><persName>(明)陳選</persName><persName type="9">chen xuan</persName></author></msItem>         
+               <msItem n="2"><title source="#201">^附^ 忠經 ^一卷^</title><title source="#201|9">zhong jing</title><note source="#291">(漢)馬融撰</note><author source="#301" key="person_6621"><persName>(漢)馬融</persName><persName type="9">ma rong</persName></author></msItem></msItem></msContents>
                <physDesc>
                   
                   <objectDesc>

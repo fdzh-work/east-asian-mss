@@ -51,13 +51,13 @@
                   <msItem n="1">
                      <title source="#200">阮盦筆記五種</title>
                      <title source="#200|9">ruan an bi ji wu zhong</title>
-                     <author source="#300"><persName>(民國)況周頤</persName><persName type="9">kuang zhou
+                     <author source="#300" key="person_3151"><persName>(民國)況周頤</persName><persName type="9">kuang zhou
                            yi</persName></author>
                      <note source="#600">光绪丁未[1907]白門刊</note>
                      <msItem n="1">
                         <title>選巷叢譚 ^二卷^</title>
                         <title source="9">xuan xiang cong tan</title>
-                        <author><persName>(民國)況周頤</persName><persName type="9">kuang zhou
+                        <author key="person_3151"><persName>(民國)況周頤</persName><persName type="9">kuang zhou
                               yi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180813/00000002|odh -->
@@ -66,7 +66,7 @@
                      <msItem n="2">
                         <title>鹵底叢譚 ^二卷^</title>
                         <title source="9">lu di cong tan</title>
-                        <author><persName>(民國)況周頤</persName><persName type="9">kuang zhou
+                        <author key="person_3151"><persName>(民國)況周頤</persName><persName type="9">kuang zhou
                               yi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180813/00000003|odh -->
@@ -75,7 +75,7 @@
                      <msItem n="3">
                         <title>蘭雲菱夢樓筆記 ^一卷^</title>
                         <title source="9">lan yun ling meng lou bi ji</title>
-                        <author><persName>(民國)況周頤</persName><persName type="9">kuang zhou
+                        <author key="person_3151"><persName>(民國)況周頤</persName><persName type="9">kuang zhou
                               yi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180813/00000004|odh -->
@@ -84,7 +84,7 @@
                      <msItem n="4">
                         <title>蕙風簃隨筆 ^二卷^</title>
                         <title source="9">hui feng yi sui bi</title>
-                        <author><persName>(民國)況周頤</persName><persName type="9">kuang zhou
+                        <author key="person_3151"><persName>(民國)況周頤</persName><persName type="9">kuang zhou
                               yi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180813/00000005|odh -->
@@ -93,7 +93,7 @@
                      <msItem n="5">
                         <title>蕙風簃二筆 ^二卷^</title>
                         <title source="9">hui feng yi er bi</title>
-                        <author><persName>(民國)況周頤</persName><persName type="9">kuang zhou
+                        <author key="person_3151"><persName>(民國)況周頤</persName><persName type="9">kuang zhou
                               yi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180813/00000006|odh -->

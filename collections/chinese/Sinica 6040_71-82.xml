@@ -53,16 +53,16 @@
                      <title source="#200">唐書 ^二百二十五卷^</title>
                      <title source="#200|9">tang shu</title>
                      <note source="#290">(宋)歐陽修, (宋)宋祁奉敕撰</note>
-                     <author source="#300"><persName>(宋)歐陽修</persName><persName type="9">ou yang
+                     <author source="#300" key="person_1349"><persName>(宋)歐陽修</persName><persName type="9">ou yang
                            xiu</persName></author>
-                     <author source="#300"><persName>(宋)宋祁</persName><persName type="9">song
+                     <author source="#300" key="person_1118"><persName>(宋)宋祁</persName><persName type="9">song
                            qi</persName></author>
                   </msItem>
                   <msItem n="2">
                      <title source="#201">唐書釋音 ^二十五卷^</title>
                      <title source="#201|9">tang shu shi yin</title>
                      <note source="#291">(宋)董衝撰</note>
-                     <author source="#301"><persName>(宋)董衝</persName><persName type="9">dong
+                     <author source="#301" key="person_1563"><persName>(宋)董衝</persName><persName type="9">dong
                            chong</persName></author>
                   </msItem>
                </msContents>

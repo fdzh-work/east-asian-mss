@@ -51,7 +51,7 @@
                      <title source="#200">又滿樓叢書</title>
                      <title source="#200|9">you man lou cong shu</title>
                      <note source="#290">(民國)趙詒琛輯</note>
-                     <author source="#300"><persName>(民國)趙詒琛</persName><persName type="9">zhao yi
+                     <author source="#300" key="person_3189"><persName>(民國)趙詒琛</persName><persName type="9">zhao yi
                            chen</persName></author>
                      <note source="#409">民國崑山趙氏刊1986年江蘇廣陵古籍刻印社重印本</note>
                      <editor source="#440" role="pbl"><persName>(民國)趙詒琛</persName><persName type="9" role="pbl">zhao yi chen</persName></editor>
@@ -61,7 +61,7 @@
                         <title>徐巡按揭帖 ^一卷^</title>
                         <title source="9">xu xun an jie tie</title>
                         <note source="290">(明)徐吉撰</note>
-                        <author><persName>(明)徐吉</persName><persName type="9">xu
+                        <author key="person_2213"><persName>(明)徐吉</persName><persName type="9">xu
                            ji</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00000525|ons -->
@@ -90,7 +90,7 @@
                         <title>寒夜叢談 ^三卷^</title>
                         <title source="9">han ye cong tan</title>
                         <note source="290">(清)沈赤然撰</note>
-                        <author><persName>(清)沈赤然</persName><persName type="9">shen chi
+                        <author key="person_4897"><persName>(清)沈赤然</persName><persName type="9">shen chi
                               ran</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00000528|ons -->
@@ -102,7 +102,7 @@
                         <title>龔安節先生遺文 ^一卷^</title>
                         <title source="9">gong an jie xian sheng yi wen</title>
                         <note source="290">(明)龔詡撰</note>
-                        <author><persName>(明)龔詡</persName><persName type="9">gong
+                        <author key="person_2838"><persName>(明)龔詡</persName><persName type="9">gong
                            xu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00000529|ons -->
@@ -114,7 +114,7 @@
                         <title>龔安節先生年譜 ^一卷^</title>
                         <title source="9">gong an jie xian sheng nian pu</title>
                         <note source="290">(明)龔紱撰</note>
-                        <author><persName>(明)龔紱</persName><persName type="9">gong
+                        <author key="person_2837"><persName>(明)龔紱</persName><persName type="9">gong
                            fu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00000530|ons -->
@@ -125,7 +125,7 @@
                         <title>歸玄恭先生年譜 ^一卷^</title>
                         <title source="9">gui xuan gong xian sheng nian pu</title>
                         <note source="290">(民國)趙經達撰</note>
-                        <author><persName>(民國)趙經達</persName><persName type="9">zhao jing
+                        <author key="person_3188"><persName>(民國)趙經達</persName><persName type="9">zhao jing
                               da</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00000531|ons -->
@@ -136,7 +136,7 @@
                         <title>汪堯峰先生年譜 ^一卷^</title>
                         <title source="9">wang yao feng xian sheng nian pu</title>
                         <note source="290">(民國)趙經達撰</note>
-                        <author><persName>(民國)趙經達</persName><persName type="9">zhao jing
+                        <author key="person_3188"><persName>(民國)趙經達</persName><persName type="9">zhao jing
                               da</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00000532|ons -->
@@ -147,7 +147,7 @@
                         <title>林外野言 ^二卷補遺一卷^</title>
                         <title source="9">lin wai ye yan</title>
                         <note source="290">(元)郭翼撰</note>
-                        <author><persName>(元)郭翼</persName><persName type="9">guo
+                        <author key="person_289"><persName>(元)郭翼</persName><persName type="9">guo
                            yi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00000533|ons -->
@@ -158,7 +158,7 @@
                         <title>紅葉村詩稿 ^六卷補遺一卷^</title>
                         <title source="9">hong ye cun shi gao</title>
                         <note source="290">(清)梁逸撰</note>
-                        <author><persName>(清)梁逸</persName><persName type="9">liang
+                        <author key="person_4645"><persName>(清)梁逸</persName><persName type="9">liang
                            yi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00000534|ons -->
@@ -173,9 +173,9 @@
                         <title source="9" type="variant">ji zhu yu yin</title>
                         <note source="290">(清)歸莊撰</note>
                         <note source="290">(民國)黃鈞校正</note>
-                        <author><persName>(清)歸莊</persName><persName type="9">gui
+                        <author key="person_4729"><persName>(清)歸莊</persName><persName type="9">gui
                            zhuang</persName></author>
-                        <author><persName>(民國)黃鈞</persName><persName type="9">huang
+                        <author key="person_3232"><persName>(民國)黃鈞</persName><persName type="9">huang
                            jun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00000535|ons -->
@@ -186,7 +186,7 @@
                         <title>新樂府 ^二卷^</title>
                         <title source="9">xin yue fu</title>
                         <note source="290">(清)萬斯同撰</note>
-                        <author><persName>(清)萬斯同</persName><persName type="9">wan si
+                        <author key="person_5462"><persName>(清)萬斯同</persName><persName type="9">wan si
                            tong</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00000536|ons -->
@@ -197,7 +197,7 @@
                         <title>殢花詞 ^一卷^</title>
                         <title source="9">ti hua ci</title>
                         <note source="290">(清)唐祖命撰</note>
-                        <author><persName>(清)唐祖命</persName><persName type="9">tang zu
+                        <author key="person_3739"><persName>(清)唐祖命</persName><persName type="9">tang zu
                               ming</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00000537|ons -->
@@ -208,7 +208,7 @@
                         <title>鶯邊詞 ^一卷^</title>
                         <title source="9">ying bian ci</title>
                         <note source="290">(清)張思孝撰</note>
-                        <author><persName>(清)張思孝</persName><persName type="9">zhang si
+                        <author key="person_4024"><persName>(清)張思孝</persName><persName type="9">zhang si
                               xiao</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00000538|ons -->
@@ -219,7 +219,7 @@
                         <title>留漚唫館詞存 ^一卷^</title>
                         <title source="9">liu ou yin guan ci cun</title>
                         <note source="290">(清)沈鎣撰</note>
-                        <author><persName>(清)沈鎣</persName><persName type="9">shen
+                        <author key="person_4904"><persName>(清)沈鎣</persName><persName type="9">shen
                            ying</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00000539|ons -->
@@ -230,7 +230,7 @@
                         <title>紅蕉詞 ^一卷^</title>
                         <title source="9">hong jiao ci</title>
                         <note source="290">(清)江標撰</note>
-                        <author><persName>(清)江標</persName><persName type="9">jiang
+                        <author key="person_4765"><persName>(清)江標</persName><persName type="9">jiang
                            biao</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00000540|ons -->

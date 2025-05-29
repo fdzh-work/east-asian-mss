@@ -51,7 +51,7 @@
                   <msItem n="1">
                      <title source="#200">曲園襍纂 ^五十卷^</title>
                      <title source="#200|9">qu yuan za zuan</title>
-                     <author source="#300"><persName>(清)俞樾</persName><persName type="9">yu
+                     <author source="#300" key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                   </msItem>
                </msContents>
@@ -97,7 +97,7 @@
                      <msItem>
                         <title>艮宧易說 ^一卷^</title>
                         <title source="9">gen yi yi shuo</title>
-                        <author><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                      </msItem>
                   </msContents>
@@ -122,7 +122,7 @@
                      <msItem>
                         <title>達齋書說 ^一卷^</title>
                         <title source="9">da zhai shu shuo</title>
-                        <author><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                      </msItem>
                   </msContents>
@@ -147,7 +147,7 @@
                      <msItem>
                         <title>達齋詩說 ^一卷^</title>
                         <title source="9">da zhai shi shuo</title>
-                        <author><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                      </msItem>
                   </msContents>
@@ -172,7 +172,7 @@
                      <msItem>
                         <title>達齋春秋論 ^一卷^</title>
                         <title source="9">da zhai chun qiu lun</title>
-                        <author><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                      </msItem>
                   </msContents>
@@ -197,7 +197,7 @@
                      <msItem>
                         <title>達齋叢說 ^一卷^</title>
                         <title source="9">da zhai cong shuo</title>
-                        <author><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                      </msItem>
                   </msContents>
@@ -222,7 +222,7 @@
                      <msItem>
                         <title>荀子詩說 ^一卷^</title>
                         <title source="9">xun zi shi shuo</title>
-                        <author><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                      </msItem>
                   </msContents>
@@ -247,7 +247,7 @@
                      <msItem>
                         <title>何劭公論語義 ^一卷^</title>
                         <title source="9">he shao gong lun yu yi</title>
-                        <author><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                      </msItem>
                   </msContents>
@@ -272,7 +272,7 @@
                      <msItem>
                         <title>士昏禮對席圖 ^一卷^</title>
                         <title source="9">shi hun li dui xi tu</title>
-                        <author><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                      </msItem>
                   </msContents>
@@ -297,7 +297,7 @@
                      <msItem>
                         <title>樂記異文考 ^一卷^</title>
                         <title source="9">yue ji yi wen kao</title>
-                        <author><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                      </msItem>
                   </msContents>
@@ -322,7 +322,7 @@
                      <msItem>
                         <title>生霸死霸考 ^一卷^</title>
                         <title source="9">sheng ba si ba kao</title>
-                        <author><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                      </msItem>
                   </msContents>
@@ -347,7 +347,7 @@
                      <msItem>
                         <title>春秋歲星考 ^一卷^</title>
                         <title source="9">chun qiu sui xing kao</title>
-                        <author><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                      </msItem>
                   </msContents>
@@ -372,7 +372,7 @@
                      <msItem>
                         <title>卦氣直日考 ^一卷^</title>
                         <title source="9">gua qi zhi ri kao</title>
-                        <author><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                      </msItem>
                   </msContents>
@@ -397,7 +397,7 @@
                      <msItem>
                         <title>七十二候考 ^一卷^</title>
                         <title source="9">qi shi er hou kao</title>
-                        <author><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                      </msItem>
                   </msContents>
@@ -422,7 +422,7 @@
                      <msItem>
                         <title>左傳古本分年考 ^一卷^</title>
                         <title source="9">zuo zhuan gu ben fen nian kao</title>
-                        <author><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                      </msItem>
                   </msContents>
@@ -447,7 +447,7 @@
                      <msItem>
                         <title>春秋人地名對 ^一卷^</title>
                         <title source="9">chun qiu ren di ming dui</title>
-                        <author><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                      </msItem>
                   </msContents>
@@ -472,7 +472,7 @@
                      <msItem>
                         <title>劭易補原 ^一卷^</title>
                         <title source="9">shao yi bu yuan</title>
-                        <author><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                      </msItem>
                   </msContents>
@@ -497,7 +497,7 @@
                      <msItem>
                         <title>讀韓詩外傳 ^一卷^</title>
                         <title source="9">du han shi wai zhuan</title>
-                        <author><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                      </msItem>
                   </msContents>
@@ -522,7 +522,7 @@
                      <msItem>
                         <title>讀吳越春秋 ^一卷^</title>
                         <title source="9">du wu yue chun qiu</title>
-                        <author><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                      </msItem>
                   </msContents>
@@ -547,7 +547,7 @@
                      <msItem>
                         <title>讀越絕書 ^一卷^</title>
                         <title source="9">du yue jue shu</title>
-                        <author><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                      </msItem>
                   </msContents>
@@ -572,7 +572,7 @@
                      <msItem>
                         <title>讀鶡冠子 ^一卷^</title>
                         <title source="9">du he guan zi</title>
-                        <author><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                      </msItem>
                   </msContents>
@@ -597,7 +597,7 @@
                      <msItem>
                         <title>讀鹽鐵論 ^一卷^</title>
                         <title source="9">du yan tie lun</title>
-                        <author><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                      </msItem>
                   </msContents>
@@ -622,7 +622,7 @@
                      <msItem>
                         <title>讀潛夫論 ^一卷^</title>
                         <title source="9">du qian fu lun</title>
-                        <author><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                      </msItem>
                   </msContents>
@@ -647,7 +647,7 @@
                      <msItem>
                         <title>讀論衡 ^一卷^</title>
                         <title source="9">du lun heng</title>
-                        <author><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                      </msItem>
                   </msContents>
@@ -672,7 +672,7 @@
                      <msItem>
                         <title>讀中論 ^一卷^</title>
                         <title source="9">du zhong lun</title>
-                        <author><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                      </msItem>
                   </msContents>
@@ -697,7 +697,7 @@
                      <msItem>
                         <title>讀抱朴子 ^一卷^</title>
                         <title source="9">du bao pu zi</title>
-                        <author><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                      </msItem>
                   </msContents>
@@ -722,7 +722,7 @@
                      <msItem>
                         <title>讀文中子 ^一卷^</title>
                         <title source="9">du wen zhong zi</title>
-                        <author><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                      </msItem>
                   </msContents>
@@ -747,7 +747,7 @@
                      <msItem>
                         <title>改吳 ^一卷^</title>
                         <title source="9">gai wu</title>
-                        <author><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                      </msItem>
                   </msContents>
@@ -772,7 +772,7 @@
                      <msItem>
                         <title>說項 ^一卷^</title>
                         <title source="9">shuo xiang</title>
-                        <author><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                      </msItem>
                   </msContents>
@@ -797,7 +797,7 @@
                      <msItem>
                         <title>正毛 ^一卷^</title>
                         <title source="9">zheng mao</title>
-                        <author><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                      </msItem>
                   </msContents>
@@ -822,7 +822,7 @@
                      <msItem>
                         <title>評袁 ^一卷^</title>
                         <title source="9">ping yuan</title>
-                        <author><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                      </msItem>
                   </msContents>
@@ -847,7 +847,7 @@
                      <msItem>
                         <title>通李 ^一卷^</title>
                         <title source="9">tong li</title>
-                        <author><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                      </msItem>
                   </msContents>
@@ -872,7 +872,7 @@
                      <msItem>
                         <title>議郎 ^一卷^</title>
                         <title source="9">yi lang</title>
-                        <author><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                      </msItem>
                   </msContents>
@@ -897,7 +897,7 @@
                      <msItem>
                         <title>訂胡 ^一卷^</title>
                         <title source="9">ding hu</title>
-                        <author><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                      </msItem>
                   </msContents>
@@ -922,7 +922,7 @@
                      <msItem>
                         <title>日知錄小箋 ^一卷^</title>
                         <title source="9">ri zhi lu xiao jian</title>
-                        <author><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                      </msItem>
                   </msContents>
@@ -948,7 +948,7 @@
                      <msItem>
                         <title>苓子 ^一卷^</title>
                         <title source="9">ling zi</title>
-                        <author><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                      </msItem>
                   </msContents>
@@ -973,7 +973,7 @@
                      <msItem>
                         <title>小繁露 ^一卷^</title>
                         <title source="9">xiao fan lu</title>
-                        <author><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                      </msItem>
                   </msContents>
@@ -998,7 +998,7 @@
                      <msItem>
                         <title>韵雅 ^一卷^</title>
                         <title source="9">yun ya</title>
-                        <author><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                      </msItem>
                   </msContents>
@@ -1023,7 +1023,7 @@
                      <msItem>
                         <title>小浮梅閒話 ^一卷^</title>
                         <title source="9">xiao fu mei xian hua</title>
-                        <author><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                      </msItem>
                   </msContents>
@@ -1048,7 +1048,7 @@
                      <msItem>
                         <title>讀五九枝譚 ^一卷^</title>
                         <title source="9">du wu jiu zhi tan</title>
-                        <author><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                      </msItem>
                   </msContents>
@@ -1073,7 +1073,7 @@
                      <msItem>
                         <title>閩行日記 ^一卷^</title>
                         <title source="9">min xing ri ji</title>
-                        <author><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                      </msItem>
                   </msContents>
@@ -1098,7 +1098,7 @@
                      <msItem>
                         <title>吳中唱和詩 ^一卷^</title>
                         <title source="9">wu zhong chang he shi</title>
-                        <author><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                      </msItem>
                   </msContents>
@@ -1123,7 +1123,7 @@
                      <msItem>
                         <title>梵珠 ^一卷^</title>
                         <title source="9">fan zhu</title>
-                        <author><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                      </msItem>
                   </msContents>
@@ -1148,7 +1148,7 @@
                      <msItem>
                         <title>百空曲 ^一卷^</title>
                         <title source="9">bai kong qu</title>
-                        <author><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                      </msItem>
                   </msContents>
@@ -1173,7 +1173,7 @@
                      <msItem>
                         <title>十二月花神議 ^一卷^</title>
                         <title source="9">shi er yue hua shen yi</title>
-                        <author><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                      </msItem>
                   </msContents>
@@ -1198,7 +1198,7 @@
                      <msItem>
                         <title>銀甁徵 ^一卷^</title>
                         <title source="9">yin ping zheng</title>
-                        <author><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                      </msItem>
                   </msContents>
@@ -1223,7 +1223,7 @@
                      <msItem>
                         <title>吳絳雪年譜 ^一卷^</title>
                         <title source="9">wu jiang xue nian pu</title>
-                        <author><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                      </msItem>
                   </msContents>
@@ -1248,7 +1248,7 @@
                      <msItem>
                         <title>五行占 ^一卷^</title>
                         <title source="9">wu xing zhan</title>
-                        <author><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                      </msItem>
                   </msContents>
@@ -1273,7 +1273,7 @@
                      <msItem>
                         <title>集千字文詩 ^一卷^</title>
                         <title source="9">ji qian zi wen shi</title>
-                        <author><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                      </msItem>
                   </msContents>
@@ -1298,7 +1298,7 @@
                      <msItem>
                         <title>隱書 ^一卷^</title>
                         <title source="9">yin shu</title>
-                        <author><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                      </msItem>
                   </msContents>
@@ -1323,7 +1323,7 @@
                      <msItem>
                         <title>老圓 ^一卷^</title>
                         <title source="9">lao yuan</title>
-                        <author><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                      </msItem>
                   </msContents>

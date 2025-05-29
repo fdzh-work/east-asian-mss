@@ -52,9 +52,9 @@
                      <title source="#200">兵鈐 ^內書八卷外書八卷^</title>
                      <title source="#200|9">bing qian</title>
                      <note source="#290">(清)呂磻, (清)盧承恩編</note>
-                     <author source="#300"><persName>(清)呂磻</persName><persName type="9">lu
+                     <author source="#300" key="person_3662"><persName>(清)呂磻</persName><persName type="9">lu
                            pan</persName></author>
-                     <author source="#300"><persName>(清)盧承恩</persName><persName type="9">lu cheng
+                     <author source="#300" key="person_5211"><persName>(清)盧承恩</persName><persName type="9">lu cheng
                            en</persName></author>
                      <note source="#409">清康熙乙卯[1675]序鈔本</note>
                   </msItem>
@@ -66,7 +66,7 @@
                         <title>孫子 ^一卷^</title>
                         <title source="9">sun zi</title>
                         <note source="290">(周)孫武撰</note>
-                        <author><persName>(周)孫武</persName><persName type="9">sun
+                        <author key="person_492"><persName>(周)孫武</persName><persName type="9">sun
                            wu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20010824/14:34:10|odh -->
@@ -79,7 +79,7 @@
                         <title>鬼谷子 ^一卷^</title>
                         <title source="9">gui gu zi</title>
                         <note source="290">(周)王詡撰</note>
-                        <author><persName>(周)王詡</persName><persName type="9">wang
+                        <author key="person_511"><persName>(周)王詡</persName><persName type="9">wang
                            xu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20010824/14:38:25|odh -->
@@ -92,7 +92,7 @@
                         <title>素書 ^一卷^</title>
                         <title source="9">su shu</title>
                         <note source="290">(漢)黃石公撰</note>
-                        <author><persName>(漢)黃石公</persName><persName type="9">huang shi
+                        <author key="person_6627"><persName>(漢)黃石公</persName><persName type="9">huang shi
                               gong</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20010824/14:40:00|odh -->
@@ -105,7 +105,7 @@
                         <title>諸葛書二種</title>
                         <title source="9">zhu ge shu er zhong</title>
                         <note source="290">(蜀)諸葛亮撰</note>
-                        <author><persName>(蜀)諸葛亮</persName><persName type="9">zhu ge
+                        <author key="person_6643"><persName>(蜀)諸葛亮</persName><persName type="9">zhu ge
                               liang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20010824/14:41:36|odh -->
@@ -116,7 +116,7 @@
                         <msItem n="1">
                            <title>心書 ^一卷^</title>
                            <title source="9">xin shu</title>
-                           <author><persName>(蜀)諸葛亮</persName><persName type="9">zhu ge
+                           <author key="person_6643"><persName>(蜀)諸葛亮</persName><persName type="9">zhu ge
                                  liang</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20010824/14:42:11|odh -->
@@ -126,7 +126,7 @@
                         <msItem n="2">
                            <title>新書 ^一卷^</title>
                            <title source="9">xin shu</title>
-                           <author><persName>(蜀)諸葛亮</persName><persName type="9">zhu ge
+                           <author key="person_6643"><persName>(蜀)諸葛亮</persName><persName type="9">zhu ge
                                  liang</persName></author>
                         </msItem>
                         <!--Unused allegro fields-->
@@ -149,7 +149,7 @@
                         <title>衛公問對 ^一卷^</title>
                         <title source="9">wei gong wen dui</title>
                         <note source="290">舊題(唐)李靖撰</note>
-                        <author><persName>(唐)李靖</persName><persName type="9">li
+                        <author key="person_713"><persName>(唐)李靖</persName><persName type="9">li
                            jing</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20010824/14:45:46|odh -->
@@ -162,7 +162,7 @@
                         <title>虎鈐經 ^一卷^</title>
                         <title source="9">hu qian jing</title>
                         <note source="290">(宋)許洞撰</note>
-                        <author><persName>(宋)許洞</persName><persName type="9">xu
+                        <author key="person_1616"><persName>(宋)許洞</persName><persName type="9">xu
                            dong</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20010824/14:46:40|odh -->

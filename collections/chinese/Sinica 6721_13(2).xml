@@ -52,14 +52,14 @@
                      <title source="#200">十種唐詩選</title>
                      <title source="#200|9">shi zhong tang shi xuan</title>
                      <note source="#290">(清)王士禛删纂</note>
-                     <author source="#300"><persName>(清)王士禛</persName><persName type="9">wang shi
+                     <author source="#300" key="person_5032"><persName>(清)王士禛</persName><persName type="9">wang shi
                            zhen</persName></author>
                      <note source="#600">蘿延齋重刊</note>
                      <msItem n="01">
                         <title>河嶽英靈集選 ^一卷^</title>
                         <title source="9">he yue ying ling ji xuan</title>
                         <note source="290">(唐)殷璠元本</note>
-                        <author><persName>(唐)殷璠</persName><persName type="9">yin
+                        <author key="person_745"><persName>(唐)殷璠</persName><persName type="9">yin
                            fan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180810/00000023|odh -->
@@ -69,7 +69,7 @@
                         <title>中興間氣集選 ^一卷^</title>
                         <title source="9">zhong xing xian qi ji xuan</title>
                         <note source="290">(唐)高仲武元本</note>
-                        <author><persName>(唐)高仲武</persName><persName type="9">gao zhong
+                        <author key="person_884"><persName>(唐)高仲武</persName><persName type="9">gao zhong
                               wu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180810/00000024|odh -->
@@ -80,7 +80,7 @@
                         <title>國秀集選 ^一卷^</title>
                         <title source="9">guo xiu ji xuan</title>
                         <note source="290">(唐)芮挺章元本</note>
-                        <author><persName>(唐)芮挺章</persName><persName type="9">rui ting
+                        <author key="person_792"><persName>(唐)芮挺章</persName><persName type="9">rui ting
                               zhang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180810/00000025|odh -->
@@ -90,7 +90,7 @@
                         <title>篋中集選 ^一卷^</title>
                         <title source="9">qie zhong ji xuan</title>
                         <note source="290">(唐)元結元本</note>
-                        <author><persName>(唐)元結</persName><persName type="9">yuan
+                        <author key="person_560"><persName>(唐)元結</persName><persName type="9">yuan
                            jie</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180810/00000026|odh -->
@@ -108,7 +108,7 @@
                         <title>御覽詩集選 ^一卷</title>
                         <title source="9">yu lan shi ji xuan</title>
                         <note source="290">(唐)令狐楚元本</note>
-                        <author><persName>(唐)令狐楚</persName><persName type="9">ling hu
+                        <author key="person_554"><persName>(唐)令狐楚</persName><persName type="9">ling hu
                            chu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180810/00000028|odh -->
@@ -118,7 +118,7 @@
                         <title>極玄集選 ^一卷</title>
                         <title source="9">ji xuan ji xuan</title>
                         <note source="290">(唐)姚合元本</note>
-                        <author><persName>(唐)姚合</persName><persName type="9">yao
+                        <author key="person_602"><persName>(唐)姚合</persName><persName type="9">yao
                            he</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180810/00000029|odh -->
@@ -128,7 +128,7 @@
                         <title>又玄集選 ^一卷</title>
                         <title source="9">you xuan ji xuan</title>
                         <note source="290">(唐)韋莊元本</note>
-                        <author><persName>(唐)韋莊</persName><persName type="9">wei
+                        <author key="person_864"><persName>(唐)韋莊</persName><persName type="9">wei
                            zhuang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180810/00000030|odh -->
@@ -138,7 +138,7 @@
                         <title>才調集選 ^三卷</title>
                         <title source="9">cai diao ji xuan</title>
                         <note source="290">(前蜀)韋縠原本</note>
-                        <author><persName>(前蜀)韋縠</persName><persName type="9">wei
+                        <author key="person_347"><persName>(前蜀)韋縠</persName><persName type="9">wei
                            hu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180810/00000031|odh -->
@@ -190,7 +190,7 @@
                         <title>唐文粹詩選 ^六卷^</title>
                         <title source="9">tang wen cui shi xuan</title>
                         <note source="290">(宋)姚鉉編</note>
-                        <author><persName>(宋)姚鉉</persName><persName type="9">yao
+                        <author key="person_1089"><persName>(宋)姚鉉</persName><persName type="9">yao
                            xuan</persName></author>
                      </msItem>
                   </msContents>

@@ -54,23 +54,23 @@
                      <title source="#200|9">han shi wai zhuan</title>
                      <note source="#290">(漢)韓嬰撰</note>
                      <note source="#290">(清)周廷寀校注</note>
-                     <author source="#300"><persName>(漢)韓嬰</persName><persName type="9">han
+                     <author source="#300" key="person_6619"><persName>(漢)韓嬰</persName><persName type="9">han
                            ying</persName></author>
-                     <author source="#300"><persName>(清)周廷寀</persName><persName type="9">zhou ting
+                     <author source="#300" key="person_3688"><persName>(清)周廷寀</persName><persName type="9">zhou ting
                            cai</persName></author>
                   </msItem>
                   <msItem n="2">
                      <title source="#201">韓詩外傳補逸 ^一卷^</title>
                      <title source="#201|9">han shi wai zhuan bu yi</title>
                      <note source="#291">(清)趙懷玉輯</note>
-                     <author source="#301"><persName>(清)趙懷玉</persName><persName type="9">zhao huai
+                     <author source="#301" key="person_5735"><persName>(清)趙懷玉</persName><persName type="9">zhao huai
                            yu</persName></author>
                   </msItem>
                   <msItem n="3">
                      <title source="#202">韓詩外傳校注拾遺 ^一卷^</title>
                      <title source="#202|9">han shi wai zhuan jiao zhu shi yi</title>
                      <note source="#292">(清)周宗杬輯</note>
-                     <author source="#302"><persName>(清)周宗杬</persName><persName type="9">zhou zong
+                     <author source="#302" key="person_3684"><persName>(清)周宗杬</persName><persName type="9">zhou zong
                            yuan</persName></author>
                   </msItem>
                </msContents>

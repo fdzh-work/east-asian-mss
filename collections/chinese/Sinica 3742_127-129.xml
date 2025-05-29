@@ -54,7 +54,7 @@
                      <title source="#200">兩山墨談 ^十八卷^</title>
                      <title source="#200|9">liang shan mo tan</title>
                      <note source="#290">(明)陳霆撰</note>
-                     <author source="#300"><persName>(明)陳霆</persName><persName type="9">chen
+                     <author source="#300" key="person_2735"><persName>(明)陳霆</persName><persName type="9">chen
                            ting</persName></author>
                      <note source="#600">民國八年[1919]﹑五年 [1916]﹑十八年[1929]刊</note>
                   </msItem>
@@ -62,14 +62,14 @@
                      <title source="#201">權齋老人筆記 ^四卷^</title>
                      <title source="#201|9">quan zhai lao ren bi ji</title>
                      <note source="#291">(清)沈炳巽撰</note>
-                     <author source="#301"><persName>(清)沈炳巽</persName><persName type="9">shen bing
+                     <author source="#301" key="person_4878"><persName>(清)沈炳巽</persName><persName type="9">shen bing
                            xun</persName></author>
                   </msItem>
                   <msItem n="3">
                      <title source="#202">月河所聞集 ^一卷^</title>
                      <title source="#202|9">yue he suo wen ji</title>
                      <note source="#292">(宋)莫君陳撰</note>
-                     <author source="#302"><persName>(宋)莫君陳</persName><persName type="9">mo jun
+                     <author source="#302" key="person_1540"><persName>(宋)莫君陳</persName><persName type="9">mo jun
                            chen</persName></author>
                   </msItem>
                </msContents>

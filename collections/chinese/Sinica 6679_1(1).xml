@@ -52,12 +52,12 @@
                      <title source="#200">明堂陰陽夏小正經傳考釋 ^十卷^</title>
                      <title source="#200|9">ming tang yin yang xia xiao sheng jing zhuan kao
                         shi</title>
-                     <author source="#300"><persName>(清)莊述祖</persName><persName type="9">zhuang shu
+                     <author source="#300" key="person_5438"><persName>(清)莊述祖</persName><persName type="9">zhuang shu
                            zu</persName></author>
                      <msItem n="1">
                         <title>夏時明堂陰陽經 ^一卷^</title>
                         <title source="9">xia shi ming tang yin yang jing</title>
-                        <author><persName>(清)莊述祖</persName><persName type="9">zhuang shu
+                        <author key="person_5438"><persName>(清)莊述祖</persName><persName type="9">zhuang shu
                               zu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180620/00000002|odh -->
@@ -66,7 +66,7 @@
                      <msItem n="2">
                         <title>夏時說義 ^二卷^</title>
                         <title source="9">xia shi shuo yi</title>
-                        <author><persName>(清)莊述祖</persName><persName type="9">zhuang shu
+                        <author key="person_5438"><persName>(清)莊述祖</persName><persName type="9">zhuang shu
                               zu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180620/00000003|odh -->
@@ -75,7 +75,7 @@
                      <msItem n="3">
                         <title>夏小正等例文句音義 ^六卷^</title>
                         <title source="9">xia xiao sheng deng li wen ju yin yi</title>
-                        <author><persName>(清)莊述祖</persName><persName type="9">zhuang shu
+                        <author key="person_5438"><persName>(清)莊述祖</persName><persName type="9">zhuang shu
                               zu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180620/00000004|odh -->
@@ -84,7 +84,7 @@
                      <msItem n="4">
                         <title>夏小正等例 ^一卷^</title>
                         <title source="9">xia xiao sheng deng li</title>
-                        <author><persName>(清)莊述祖</persName><persName type="9">zhuang shu
+                        <author key="person_5438"><persName>(清)莊述祖</persName><persName type="9">zhuang shu
                               zu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180620/00000005|odh -->

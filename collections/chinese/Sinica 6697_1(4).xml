@@ -52,7 +52,7 @@
                      <title source="#200">說文段注校三種</title>
                      <title source="#200|9">shuo wen duan zhu jiao san zhong</title>
                      <note source="#290">(民國)葉德輝輯</note>
-                     <author source="#300"><persName>(民國)葉德輝</persName><persName type="9">ye de
+                     <author source="#300" key="person_3174"><persName>(民國)葉德輝</persName><persName type="9">ye de
                            hui</persName></author>
                      <note source="#600">光緒壬寅[1902]刊</note>
                      <msItem n="1">
@@ -60,9 +60,9 @@
                         <title source="9">xu xing bo shuo wen duan zhu zha ji</title>
                         <note source="290">(清)徐松撰</note>
                         <note source="290">(清)劉肇隅錄</note>
-                        <author><persName>(清)徐松</persName><persName type="9">xu
+                        <author key="person_4201"><persName>(清)徐松</persName><persName type="9">xu
                            song</persName></author>
-                        <author><persName>(清)劉肇隅</persName><persName type="9">liu zhao
+                        <author key="person_3469"><persName>(清)劉肇隅</persName><persName type="9">liu zhao
                            yu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180709/00000110|odh -->
@@ -73,9 +73,9 @@
                         <title source="9">gong ding an shuo wen duan zhu zha ji</title>
                         <note source="290">(清)龔自珍撰</note>
                         <note source="290">(清)劉肇隅錄</note>
-                        <author><persName>(清)龔自珍</persName><persName type="9">gong zi
+                        <author key="person_6445"><persName>(清)龔自珍</persName><persName type="9">gong zi
                               zhen</persName></author>
-                        <author><persName>(清)劉肇隅</persName><persName type="9">liu zhao
+                        <author key="person_3469"><persName>(清)劉肇隅</persName><persName type="9">liu zhao
                            yu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180709/00000111|odh -->
@@ -86,9 +86,9 @@
                         <title source="9">gui wei gu shuo wen duan zhu chao</title>
                         <note source="290">(清)段玉裁撰</note>
                         <note source="290">(清)桂馥鈔</note>
-                        <author><persName>(清)段玉裁</persName><persName type="9">duan yu
+                        <author key="person_4733"><persName>(清)段玉裁</persName><persName type="9">duan yu
                            cai</persName></author>
-                        <author><persName>(清)桂馥</persName><persName type="9">gui
+                        <author key="person_4623"><persName>(清)桂馥</persName><persName type="9">gui
                            fu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180709/00000112|odh -->

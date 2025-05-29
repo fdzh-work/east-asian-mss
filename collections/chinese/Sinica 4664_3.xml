@@ -102,7 +102,7 @@
                         <title type="variant">孝子傳</title>
                         <title source="9" type="variant">xiao zi zhuan</title>
                         <note source="290">(漢)劉向撰</note>
-                        <author><persName>(漢)劉向</persName><persName type="9">liu
+                        <author key="person_6488"><persName>(漢)劉向</persName><persName type="9">liu
                            xiang</persName></author>
                      </msItem>
                   </msContents>
@@ -131,7 +131,7 @@
                         <title type="variant">孝子傳</title>
                         <title source="9" type="variant">xiao zi zhuan</title>
                         <note source="290">(晉)蕭廣濟撰</note>
-                        <author><persName>(晉)蕭廣濟</persName><persName type="9">xiao guang
+                        <author key="person_2963"><persName>(晉)蕭廣濟</persName><persName type="9">xiao guang
                               ji</persName></author>
                      </msItem>
                   </msContents>
@@ -160,7 +160,7 @@
                         <title type="variant">孝子傳</title>
                         <title source="9" type="variant">xiao zi zhuan</title>
                         <note source="290">(□)王晉撰</note>
-                        <author><persName>(□)王晉</persName><persName type="9">wang
+                        <author key="person_27"><persName>(□)王晉</persName><persName type="9">wang
                            jin</persName></author>
                      </msItem>
                   </msContents>
@@ -189,7 +189,7 @@
                         <title type="variant">孝子傳</title>
                         <title source="9" type="variant">xiao zi zhuan</title>
                         <note source="290">(劉宋)王韶之撰</note>
-                        <author><persName>(劉宋)王韶之</persName><persName type="9">wang shao
+                        <author key="person_370"><persName>(劉宋)王韶之</persName><persName type="9">wang shao
                               zhi</persName></author>
                      </msItem>
                   </msContents>
@@ -218,7 +218,7 @@
                         <title type="variant">孝子傳</title>
                         <title source="9" type="variant">xiao zi zhuan</title>
                         <note source="290">(□)周景式撰</note>
-                        <author><persName>(□)周景式</persName><persName type="9">zhou jing
+                        <author key="person_8"><persName>(□)周景式</persName><persName type="9">zhou jing
                               shi</persName></author>
                      </msItem>
                   </msContents>
@@ -247,7 +247,7 @@
                         <title type="variant">孝子傳</title>
                         <title source="9" type="variant">xiao zi zhuan</title>
                         <note source="290">(劉宋)師覺授撰</note>
-                        <author><persName>(劉宋)師覺授</persName><persName type="9">shi jue
+                        <author key="person_359"><persName>(劉宋)師覺授</persName><persName type="9">shi jue
                               shou</persName></author>
                      </msItem>
                   </msContents>
@@ -276,7 +276,7 @@
                         <title type="variant">孝子傳</title>
                         <title source="9" type="variant">xiao zi zhuan</title>
                         <note source="290">(□)宋躬撰</note>
-                        <author><persName>(□)宋躬</persName><persName type="9">song
+                        <author key="person_12"><persName>(□)宋躬</persName><persName type="9">song
                            gong</persName></author>
                      </msItem>
                   </msContents>
@@ -305,7 +305,7 @@
                         <title type="variant">孝子傳</title>
                         <title source="9" type="variant">xiao zi zhuan</title>
                         <note source="290">(□)虞盤佑撰</note>
-                        <author><persName>(□)虞盤佑</persName><persName type="9">yu pan
+                        <author key="person_36"><persName>(□)虞盤佑</persName><persName type="9">yu pan
                            you</persName></author>
                      </msItem>
                   </msContents>
@@ -334,7 +334,7 @@
                         <title type="variant">孝子傳</title>
                         <title source="9" type="variant">xiao zi zhuan</title>
                         <note source="290">(劉宋)鄭緝之撰</note>
-                        <author><persName>(劉宋)鄭緝之</persName><persName type="9">zheng ji
+                        <author key="person_385"><persName>(劉宋)鄭緝之</persName><persName type="9">zheng ji
                               zhi</persName></author>
                      </msItem>
                   </msContents>

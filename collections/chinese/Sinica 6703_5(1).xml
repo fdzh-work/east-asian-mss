@@ -55,11 +55,11 @@
                      <note source="#290">(漢)趙爽注</note>
                      <note source="#290">(北周)甄鸞重述</note>
                      <note source="#290">(唐)李淳風等奉敕注釋</note>
-                     <author source="#300"><persName>(漢)趙爽</persName><persName type="9">zhao
+                     <author source="#300" key="person_6603"><persName>(漢)趙爽</persName><persName type="9">zhao
                            shuang</persName></author>
-                     <author source="#300"><persName>(北周)甄鸞</persName><persName type="9">zhen
+                     <author source="#300" key="person_401"><persName>(北周)甄鸞</persName><persName type="9">zhen
                            luan</persName></author>
-                     <author source="#300"><persName>(唐)李淳風</persName><persName type="9">li chun
+                     <author source="#300" key="person_689"><persName>(唐)李淳風</persName><persName type="9">li chun
                            feng</persName></author>
                      <note source="#600">光緒丙戌[1886]刊</note>
                   </msItem>
@@ -67,14 +67,14 @@
                      <title source="#201">周髀音義 ^一卷^</title>
                      <title source="#201|9">zhou bi yin yi</title>
                      <note source="#291">(宋)李籍撰</note>
-                     <author source="#301"><persName>(宋)李籍</persName><persName type="9">li
+                     <author source="#301" key="person_1292"><persName>(宋)李籍</persName><persName type="9">li
                            ji</persName></author>
                   </msItem>
                   <msItem n="3">
                      <title source="#202">周髀算經校勘記 ^一卷^</title>
                      <title source="#202|9">zhou bi suan jing jiao kan ji</title>
                      <note source="#292">(清)顧觀光撰</note>
-                     <author source="#302"><persName>(清)顧觀光</persName><persName type="9">gu guan
+                     <author source="#302" key="person_6235"><persName>(清)顧觀光</persName><persName type="9">gu guan
                            guang</persName></author>
                   </msItem>
                </msContents>

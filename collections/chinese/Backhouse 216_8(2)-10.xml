@@ -52,7 +52,7 @@
                      <title source="#200">越三子集</title>
                      <title source="#200|9">yue san zi ji</title>
                      <note source="#290">(淸)潘祖蔭輯</note>
-                     <author source="#300"><persName>(清)潘祖蔭</persName><persName type="9">pan zu
+                     <author source="#300" key="person_4971"><persName>(清)潘祖蔭</persName><persName type="9">pan zu
                            yin</persName></author>
                      <note source="#600">同治十一[1872]年刊</note>
                   </msItem>
@@ -101,7 +101,7 @@
                         <title>亢藝堂集 ^三卷^</title>
                         <title source="9">kang yi tang ji</title>
                         <note source="290">(清)孫廷璋撰</note>
-                        <author><persName>(清)孫廷璋</persName><persName type="9">sun ting
+                        <author key="person_3847"><persName>(清)孫廷璋</persName><persName type="9">sun ting
                               zhang</persName></author>
                      </msItem>
                   </msContents>
@@ -127,7 +127,7 @@
                         <title>陳比部遺集</title>
                         <title source="9">chen bi bu yi ji</title>
                         <note source="290">(清)陳壽祺撰</note>
-                        <author><persName>(清)陳壽祺</persName><persName type="9">chen shou
+                        <author key="person_6023"><persName>(清)陳壽祺</persName><persName type="9">chen shou
                               qi</persName></author>
                      </msItem>
                   </msContents>
@@ -155,7 +155,7 @@
                         <title type="variant">西鳧草</title>
                         <title source="9" type="variant">xi fu cao</title>
                         <note source="290">(清)王星誠撰</note>
-                        <author><persName>(清)王星誠</persName><persName type="9">wang xing
+                        <author key="person_5094"><persName>(清)王星誠</persName><persName type="9">wang xing
                               cheng</persName></author>
                      </msItem>
                   </msContents>

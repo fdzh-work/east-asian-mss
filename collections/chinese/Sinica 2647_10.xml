@@ -55,18 +55,18 @@
                      <note source="#290">(漢)伏勝撰</note>
                      <note source="#290">(漢)鄭玄注</note>
                      <note source="#290">(清)惠棟增補</note>
-                     <author source="#300"><persName>(漢)伏勝</persName><persName type="9">fu
+                     <author source="#300" key="person_6479"><persName>(漢)伏勝</persName><persName type="9">fu
                            sheng</persName></author>
-                     <author source="#300"><persName>(漢)鄭玄</persName><persName type="9">zheng
+                     <author source="#300" key="person_6609"><persName>(漢)鄭玄</persName><persName type="9">zheng
                            xuan</persName></author>
-                     <author source="#300"><persName>(清)惠棟</persName><persName type="9">hui
+                     <author source="#300" key="person_4245"><persName>(清)惠棟</persName><persName type="9">hui
                            dong</persName></author>
                   </msItem>
                   <msItem n="2">
                      <title source="#201">尚書大傳考異 ^一卷^</title>
                      <title source="#201|9">shang shu da zhuan kao yi</title>
                      <note source="#291">(清)盧文弨學</note>
-                     <author source="#301"><persName>(清)盧文弨</persName><persName type="9">lu wen
+                     <author source="#301" key="person_5212"><persName>(清)盧文弨</persName><persName type="9">lu wen
                            chao</persName></author>
                   </msItem>
                   <msItem n="3">
@@ -75,7 +75,7 @@
                      <title source="#202">尚書大傳續補遺 ^一卷^</title>
                      <title source="#202|9">shang shu da zhuan xu bu yi</title>
                      <note source="#292">(清)盧文弨輯</note>
-                     <author source="#302"><persName>(清)盧文弨</persName><persName type="9">lu wen
+                     <author source="#302" key="person_5212"><persName>(清)盧文弨</persName><persName type="9">lu wen
                            chao</persName></author>
                   </msItem>
                </msContents>

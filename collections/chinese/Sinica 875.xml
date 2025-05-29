@@ -54,13 +54,13 @@
                      <title source="#200">^附 ^黃道中西合圖 ^北極﹑南極二幅^</title>
                      <title source="#200|9">huang dao zhong xi he tu</title>
                      <note source="#290">(清)徐朝俊撰</note>
-                     <author source="#300"><persName>(清)徐朝俊</persName><persName type="9">xu chao
+                     <author source="#300" key="person_4200"><persName>(清)徐朝俊</persName><persName type="9">xu chao
                            jun</persName></author>
                      <note source="#409">清道光甲午[1834]重刊本</note>
                      <msItem n="1">
                         <title>天學入門 ^一卷^</title>
                         <title source="9">tian xue ru men</title>
-                        <author><persName>(清)徐朝俊</persName><persName type="9">xu chao
+                        <author key="person_4200"><persName>(清)徐朝俊</persName><persName type="9">xu chao
                            jun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20111101/17:01:35|odh -->
@@ -70,7 +70,7 @@
                      <msItem n="2">
                         <title>海域大觀 ^一卷^</title>
                         <title source="9">hai yu da guan</title>
-                        <author><persName>(清)徐朝俊</persName><persName type="9">xu chao
+                        <author key="person_4200"><persName>(清)徐朝俊</persName><persName type="9">xu chao
                            jun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20111101/17:01:56|odh -->
@@ -80,7 +80,7 @@
                      <msItem n="3">
                         <title>日晷圖法 ^一卷^</title>
                         <title source="9">ri gui tu fa</title>
-                        <author><persName>(清)徐朝俊</persName><persName type="9">xu chao
+                        <author key="person_4200"><persName>(清)徐朝俊</persName><persName type="9">xu chao
                            jun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20111101/17:02:38|odh -->
@@ -90,7 +90,7 @@
                      <msItem n="4">
                         <title>中星表 ^一卷^</title>
                         <title source="9">zhong xing biao</title>
-                        <author><persName>(清)徐朝俊</persName><persName type="9">xu chao
+                        <author key="person_4200"><persName>(清)徐朝俊</persName><persName type="9">xu chao
                            jun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20111101/17:02:58|odh -->
@@ -100,7 +100,7 @@
                      <msItem n="5">
                         <title>測夜時晷 ^一卷^</title>
                         <title source="9">ce ye shi gui</title>
-                        <author><persName>(清)徐朝俊</persName><persName type="9">xu chao
+                        <author key="person_4200"><persName>(清)徐朝俊</persName><persName type="9">xu chao
                            jun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20111101/17:03:18|odh -->
@@ -110,7 +110,7 @@
                      <msItem n="6">
                         <title>自鳴鐘表圖說 ^一卷^</title>
                         <title source="9">zi ming zhong biao tu shuo</title>
-                        <author><persName>(清)徐朝俊</persName><persName type="9">xu chao
+                        <author key="person_4200"><persName>(清)徐朝俊</persName><persName type="9">xu chao
                            jun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20111101/17:03:37|odh -->
@@ -120,7 +120,7 @@
                      <msItem n="7">
                         <title>天地圖儀 ^一卷^</title>
                         <title source="9">tian di tu yi</title>
-                        <author><persName>(清)徐朝俊</persName><persName type="9">xu chao
+                        <author key="person_4200"><persName>(清)徐朝俊</persName><persName type="9">xu chao
                            jun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20111101/17:03:56|odh -->
@@ -130,7 +130,7 @@
                      <msItem n="8">
                         <title>揆日正方圖表 ^二卷^</title>
                         <title source="9">kui ri zheng fang tu biao</title>
-                        <author><persName>(清)徐朝俊</persName><persName type="9">xu chao
+                        <author key="person_4200"><persName>(清)徐朝俊</persName><persName type="9">xu chao
                            jun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20111101/17:04:13|odh -->
@@ -140,7 +140,7 @@
                      <msItem n="9">
                         <title>高弧句股合表 ^一卷^</title>
                         <title source="9">gao hu ju gu he biao</title>
-                        <author><persName>(清)徐朝俊</persName><persName type="9">xu chao
+                        <author key="person_4200"><persName>(清)徐朝俊</persName><persName type="9">xu chao
                            jun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20111101/17:04:32|odh -->

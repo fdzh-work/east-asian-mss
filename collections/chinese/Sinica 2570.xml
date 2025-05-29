@@ -54,7 +54,7 @@
                      <title type="variant" source="#230">重刻資治通鑑綱目</title>
                      <title source="#230|9" type="variant">chong ke zi zhi tong jian gang mu</title>
                      <note source="#290">(明)陳仁錫評</note>
-                     <author source="#300"><persName>(明)陳仁錫</persName><persName type="9">chen ren
+                     <author source="#300" key="person_2701"><persName>(明)陳仁錫</persName><persName type="9">chen ren
                            xi</persName></author>
                      <note source="#409">清康熙四十年[1701]王公行刊本郁郁堂藏板</note>
                      <editor source="#440" role="pbl"><persName>郁郁堂</persName><persName type="9" role="pbl">yu yu tang</persName></editor>
@@ -64,7 +64,7 @@
                         <title>資治通鑑綱目前編 ^二十五卷^</title>
                         <title source="9">zi zhi tong jian gang mu qian bian</title>
                         <note source="290">(明)南軒撰</note>
-                        <author><persName>(明)南軒</persName><persName type="9">nan
+                        <author key="person_2045"><persName>(明)南軒</persName><persName type="9">nan
                            xuan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20130117/10:56:43|odh -->
@@ -76,7 +76,7 @@
                         <title>資治通鑑綱目 ^五十九卷^</title>
                         <title source="9">zi zhi tong jian gang mu</title>
                         <note source="290">(宋)朱熹撰</note>
-                        <author><persName>(宋)朱熹</persName><persName type="9">zhu
+                        <author key="person_1250"><persName>(宋)朱熹</persName><persName type="9">zhu
                            xi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20130117/10:57:34|odh -->
@@ -88,7 +88,7 @@
                         <title>續資治通鑑綱目 ^二十七卷^</title>
                         <title source="9">xu zi zhi tong jian gang mu</title>
                         <note source="290">(明)商輅等奉敕撰</note>
-                        <author><persName>(明)商輅</persName><persName type="9">shang
+                        <author key="person_2107"><persName>(明)商輅</persName><persName type="9">shang
                            lu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20130117/11:01:19|odh -->

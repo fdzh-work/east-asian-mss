@@ -52,13 +52,13 @@
                      <title source="#200">沈氏經學六種</title>
                      <title source="#200|9">shen shi jing xue liu zhong</title>
                      <note source="#290">(清)沈淑撰</note>
-                     <author source="#300"><persName>(清)沈淑</persName><persName type="9">shen
+                     <author source="#300" key="person_4875"><persName>(清)沈淑</persName><persName type="9">shen
                            shu</persName></author>
                      <note source="#600">光緒壬午[1882]刊</note>
                      <msItem n="1">
                         <title>陸氏經典異文輯 ^六卷^</title>
                         <title source="9">lu shi jing dian yi wen ji</title>
-                        <author><persName>(清)沈淑</persName><persName type="9">shen
+                        <author key="person_4875"><persName>(清)沈淑</persName><persName type="9">shen
                            shu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180525/00000008|odh -->
@@ -67,7 +67,7 @@
                      <msItem n="2">
                         <title>經典異文補 ^六卷^</title>
                         <title source="9">jing dian yi wen bu</title>
-                        <author><persName>(清)沈淑</persName><persName type="9">shen
+                        <author key="person_4875"><persName>(清)沈淑</persName><persName type="9">shen
                            shu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180525/00000009|odh -->
@@ -76,7 +76,7 @@
                      <msItem n="3">
                         <title>注疏瑣語 ^四卷^</title>
                         <title source="9">zhu shu suo yu</title>
-                        <author><persName>(清)沈淑</persName><persName type="9">shen
+                        <author key="person_4875"><persName>(清)沈淑</persName><persName type="9">shen
                            shu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180525/00000010|odh -->
@@ -85,7 +85,7 @@
                      <msItem n="4">
                         <title>春秋左傳分國土地名 ^二卷^</title>
                         <title source="9">chun qiu zuo zhuan fen guo tu di ming</title>
-                        <author><persName>(清)沈淑</persName><persName type="9">shen
+                        <author key="person_4875"><persName>(清)沈淑</persName><persName type="9">shen
                            shu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180525/00000011|odh -->
@@ -94,7 +94,7 @@
                      <msItem n="5">
                         <title>左傳列國職官 ^一卷^</title>
                         <title source="9">zuo zhuan lie guo zhi guan</title>
-                        <author><persName>(清)沈淑</persName><persName type="9">shen
+                        <author key="person_4875"><persName>(清)沈淑</persName><persName type="9">shen
                            shu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180525/00000012|odh -->
@@ -103,7 +103,7 @@
                      <msItem n="6">
                         <title>左傳器物宮室 ^一卷^</title>
                         <title source="9">zuo zhuan qi wu gong shi</title>
-                        <author><persName>(清)沈淑</persName><persName type="9">shen
+                        <author key="person_4875"><persName>(清)沈淑</persName><persName type="9">shen
                            shu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180525/00000013|odh -->

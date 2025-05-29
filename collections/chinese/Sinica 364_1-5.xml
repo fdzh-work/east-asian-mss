@@ -55,13 +55,13 @@
                      <note source="#290">(魏)王弼, (晉)韓康伯注</note>
                      <note source="#290">(唐)陸德明音義</note>
                      <note source="#290">(唐)孔穎達疏</note>
-                     <author source="#300"><persName>(魏)王弼</persName><persName type="9">wang
+                     <author source="#300" key="person_6736"><persName>(魏)王弼</persName><persName type="9">wang
                            bi</persName></author>
-                     <author source="#300"><persName>(晉)韓康伯</persName><persName type="9">han kang
+                     <author source="#300" key="person_3001"><persName>(晉)韓康伯</persName><persName type="9">han kang
                            bo</persName></author>
-                     <author source="#300"><persName>(唐)陸德明</persName><persName type="9">lu de
+                     <author source="#300" key="person_854"><persName>(唐)陸德明</persName><persName type="9">lu de
                            ming</persName></author>
-                     <author source="#300"><persName>(唐)孔穎達</persName><persName type="9">kong ying
+                     <author source="#300" key="person_605"><persName>(唐)孔穎達</persName><persName type="9">kong ying
                            da</persName></author>
                   </msItem>
                   <msItem n="2">
@@ -70,11 +70,11 @@
                      <note source="#291">(魏)王弼撰</note>
                      <note source="#291">(唐)邢璹注</note>
                      <note source="#291">(唐)陸德明音義</note>
-                     <author source="#301"><persName>(魏)王弼</persName><persName type="9">wang
+                     <author source="#301" key="person_6736"><persName>(魏)王弼</persName><persName type="9">wang
                            bi</persName></author>
-                     <author source="#301"><persName>(唐)邢璹</persName><persName type="9">xing
+                     <author source="#301" key="person_833"><persName>(唐)邢璹</persName><persName type="9">xing
                            shu</persName></author>
-                     <author source="#301"><persName>(唐)陸德明</persName><persName type="9">lu de
+                     <author source="#301" key="person_854"><persName>(唐)陸德明</persName><persName type="9">lu de
                            ming</persName></author>
                   </msItem>
                </msContents>

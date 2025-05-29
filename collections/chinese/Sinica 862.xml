@@ -52,7 +52,7 @@
                      <title source="#200">算經十書 ^存八種^</title>
                      <title source="#200|9">suan jing shi shu</title>
                      <note source="#290">(清)孔繼涵編</note>
-                     <author source="#300"><persName>(清)孔繼涵</persName><persName type="9">kong ji
+                     <author source="#300" key="person_3819"><persName>(清)孔繼涵</persName><persName type="9">kong ji
                            han</persName></author>
                      <note source="#409">清乾隆中曲阜孔氏微波榭刊抄補本</note>
                      <note source="#600">缺《數術記遺》﹑《句股割圜記》兩種</note>
@@ -63,18 +63,18 @@
                            <note source="290">(漢)趙爽注</note>
                            <note source="290">(北周)甄鸞重述</note>
                            <note source="290">(唐)李淳風等奉敕注釋</note>
-                           <author><persName>(漢)趙爽</persName><persName type="9">zhao
+                           <author key="person_6603"><persName>(漢)趙爽</persName><persName type="9">zhao
                                  shuang</persName></author>
-                           <author><persName>(北周)甄鸞</persName><persName type="9">zhen
+                           <author key="person_401"><persName>(北周)甄鸞</persName><persName type="9">zhen
                                  luan</persName></author>
-                           <author><persName>(唐)李淳風</persName><persName type="9">li chun
+                           <author key="person_689"><persName>(唐)李淳風</persName><persName type="9">li chun
                                  feng</persName></author>
                         </msItem>
                         <msItem n="2">
                            <title>^附^ 周髀算經音義 ^一卷^</title>
                            <title type="9">zhou bi suan jing yin yi</title>
                            <note source="#291">(宋)李籍撰</note>
-                           <author><persName>(宋)李籍</persName><persName type="9">li
+                           <author key="person_1292"><persName>(宋)李籍</persName><persName type="9">li
                               ji</persName></author>
                         </msItem>
                         <!--Unused allegro fields-->
@@ -90,25 +90,25 @@
                            <note source="290">(晉)劉徽注</note>
                            <note source="290">(唐)李淳風等注釋</note>
                            <note source="290">(清)戴震補圖</note>
-                           <author><persName>(晉)劉徽</persName><persName type="9">liu
+                           <author key="person_2861"><persName>(晉)劉徽</persName><persName type="9">liu
                               hui</persName></author>
-                           <author><persName>(唐)李淳風</persName><persName type="9">li chun
+                           <author key="person_689"><persName>(唐)李淳風</persName><persName type="9">li chun
                                  feng</persName></author>
-                           <author><persName>(清)戴震</persName><persName type="9">dai
+                           <author key="person_4277"><persName>(清)戴震</persName><persName type="9">dai
                               zhen</persName></author>
                         </msItem>
                         <msItem n="2">
                            <title>^附^ 九章算術音義 ^一卷^</title>
                            <title type="9">jiu zhang suan shu yin yi</title>
                            <note source="#291">(宋)李籍撰</note>
-                           <author><persName>(宋)李籍</persName><persName type="9">li
+                           <author key="person_1292"><persName>(宋)李籍</persName><persName type="9">li
                               ji</persName></author>
                         </msItem>
                         <msItem n="3">
                            <title>策算 ^一卷^</title>
                            <title type="9">ce suan</title>
                            <note source="#292">(清)戴震撰</note>
-                           <author><persName>(清)戴震</persName><persName type="9">dai
+                           <author key="person_4277"><persName>(清)戴震</persName><persName type="9">dai
                               zhen</persName></author>
                         </msItem>
                         <!--Unused allegro fields-->
@@ -122,9 +122,9 @@
                         <title source="9">hai dao suan jing</title>
                         <note source="290">(晉)劉徽撰</note>
                         <note source="290">(唐)李淳風等奉敕注釋</note>
-                        <author><persName>(晉)劉徽</persName><persName type="9">liu
+                        <author key="person_2861"><persName>(晉)劉徽</persName><persName type="9">liu
                            hui</persName></author>
-                        <author><persName>(唐)李淳風</persName><persName type="9">li chun
+                        <author key="person_689"><persName>(唐)李淳風</persName><persName type="9">li chun
                               feng</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140130/10:48:48|odh -->
@@ -134,7 +134,7 @@
                         <title>孫子算經 ^三卷^</title>
                         <title source="9">sun zi suan jing</title>
                         <note source="290">(唐)李淳風等奉敕注釋</note>
-                        <author><persName>(唐)李淳風</persName><persName type="9">li chun
+                        <author key="person_689"><persName>(唐)李淳風</persName><persName type="9">li chun
                               feng</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140130/10:49:49|odh -->
@@ -144,7 +144,7 @@
                         <title>五曹筭經 ^五卷^</title>
                         <title source="9">wu cao suan jing</title>
                         <note source="290">(唐)李淳風等奉敕注釋</note>
-                        <author><persName>(唐)李淳風</persName><persName type="9">li chun
+                        <author key="person_689"><persName>(唐)李淳風</persName><persName type="9">li chun
                               feng</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140130/10:50:28|odh -->
@@ -154,7 +154,7 @@
                         <title>夏侯陽算經 ^三卷^</title>
                         <title source="9">xia hou yang suan jing</title>
                         <note source="290">(□)夏侯陽撰</note>
-                        <author><persName>(□)夏侯陽</persName><persName type="9">xia hou
+                        <author key="person_9"><persName>(□)夏侯陽</persName><persName type="9">xia hou
                               yang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140130/10:51:47|odh -->
@@ -167,13 +167,13 @@
                         <note source="290">(北周)甄鸞注</note>
                         <note source="290">(唐)李淳風等奉敕注釋</note>
                         <note source="290">(唐)劉孝孫細草</note>
-                        <author><persName>(□)張丘建</persName><persName type="9">zhang qiu
+                        <author key="person_16"><persName>(□)張丘建</persName><persName type="9">zhang qiu
                               jian</persName></author>
-                        <author><persName>(北周)甄鸞</persName><persName type="9">zhen
+                        <author key="person_401"><persName>(北周)甄鸞</persName><persName type="9">zhen
                            luan</persName></author>
-                        <author><persName>(唐)李淳風</persName><persName type="9">li chun
+                        <author key="person_689"><persName>(唐)李淳風</persName><persName type="9">li chun
                               feng</persName></author>
-                        <author><persName>(唐)劉孝孫</persName><persName type="9">liu xiao
+                        <author key="person_565"><persName>(唐)劉孝孫</persName><persName type="9">liu xiao
                               sun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140130/10:53:32|odh -->
@@ -185,16 +185,16 @@
                            <title source="9">wu jing suan shu</title>
                            <note source="290">(北周)甄鸞撰</note>
                            <note source="290">(唐)李淳風等奉敕注釋</note>
-                           <author><persName>(北周)甄鸞</persName><persName type="9">zhen
+                           <author key="person_401"><persName>(北周)甄鸞</persName><persName type="9">zhen
                                  luan</persName></author>
-                           <author><persName>(唐)李淳風</persName><persName type="9">li chun
+                           <author key="person_689"><persName>(唐)李淳風</persName><persName type="9">li chun
                                  feng</persName></author>
                         </msItem>
                         <msItem n="2">
                            <title>^附^ 五經算術考證 ^一卷^</title>
                            <title type="9">wu jing suan shu kao zheng</title>
                            <note source="#291">(清)戴震撰</note>
-                           <author><persName>(清)戴震</persName><persName type="9">dai
+                           <author key="person_4277"><persName>(清)戴震</persName><persName type="9">dai
                               zhen</persName></author>
                         </msItem>
                         <!--Unused allegro fields-->
@@ -207,7 +207,7 @@
                         <title>緝古算經 ^一卷^</title>
                         <title source="9">qi gu suan jing</title>
                         <note source="290">(唐)王孝通撰併注</note>
-                        <author><persName>(唐)王孝通</persName><persName type="9">wang xiao
+                        <author key="person_757"><persName>(唐)王孝通</persName><persName type="9">wang xiao
                               tong</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140130/11:07:55|odh -->

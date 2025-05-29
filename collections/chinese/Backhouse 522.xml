@@ -58,7 +58,7 @@
                         <title>元氏長慶集 ^六十卷補遺六卷附錄一卷^</title>
                         <title source="9">yuan shi chang qing ji</title>
                         <note source="290">(唐)元稹撰</note>
-                        <author><persName>(唐)元稹</persName><persName type="9">yuan
+                        <author key="person_559"><persName>(唐)元稹</persName><persName type="9">yuan
                            zhen</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20130809/11:13:44|odh -->
@@ -69,7 +69,7 @@
                         <title>白氏長慶集 ^七十一卷附錄一卷^</title>
                         <title source="9">bai shi chang qing ji</title>
                         <note source="290">(唐)白居易撰</note>
-                        <author><persName>(唐)白居易</persName><persName type="9">bai ju
+                        <author key="person_764"><persName>(唐)白居易</persName><persName type="9">bai ju
                            yi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20130809/11:14:55|odh -->

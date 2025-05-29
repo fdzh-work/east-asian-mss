@@ -51,14 +51,14 @@
                      <title source="#200">中西星要</title>
                      <title source="#200|9">zhong xi xing yao</title>
                      <note source="#290">(清)倪榮桂撰</note>
-                     <author source="#300"><persName>(清)倪榮桂</persName><persName type="9">ni rong
+                     <author source="#300" key="person_3368"><persName>(清)倪榮桂</persName><persName type="9">ni rong
                            gui</persName></author>
                      <note source="#409">清嘉慶八年[1803]樹滋堂刊本</note>
                      <editor source="#440" role="pbl"><persName>樹滋堂</persName><persName type="9" role="pbl">shu zi tang</persName></editor>
                      <msItem n="1">
                         <title>西法命盤圖說 ^一卷^</title>
                         <title source="9">xi fa ming pan tu shuo</title>
-                        <author><persName>(清)倪榮桂</persName><persName type="9">ni rong
+                        <author key="person_3368"><persName>(清)倪榮桂</persName><persName type="9">ni rong
                            gui</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140107/16:56:47|odh -->
@@ -67,7 +67,7 @@
                      <msItem n="2">
                         <title>談天諸言 ^一卷^</title>
                         <title source="9">tan tian zhu yan</title>
-                        <author><persName>(清)倪榮桂</persName><persName type="9">ni rong
+                        <author key="person_3368"><persName>(清)倪榮桂</persName><persName type="9">ni rong
                            gui</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140107/16:57:22|odh -->
@@ -76,7 +76,7 @@
                      <msItem n="3">
                         <title>天文管窺 ^三卷^</title>
                         <title source="9">tian wen guan kui</title>
-                        <author><persName>(清)倪榮桂</persName><persName type="9">ni rong
+                        <author key="person_3368"><persName>(清)倪榮桂</persName><persName type="9">ni rong
                            gui</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140107/16:58:07|odh -->
@@ -85,7 +85,7 @@
                      <msItem n="4">
                         <title>祿命要覽 ^四卷^</title>
                         <title source="9">lu ming yao lan</title>
-                        <author><persName>(清)倪榮桂</persName><persName type="9">ni rong
+                        <author key="person_3368"><persName>(清)倪榮桂</persName><persName type="9">ni rong
                            gui</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140107/16:59:12|odh -->
@@ -94,7 +94,7 @@
                      <msItem n="5">
                         <title>選擇當知 ^三卷^</title>
                         <title source="9">xuan ze dang zhi</title>
-                        <author><persName>(清)倪榮桂</persName><persName type="9">ni rong
+                        <author key="person_3368"><persName>(清)倪榮桂</persName><persName type="9">ni rong
                            gui</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140107/16:59:46|odh -->

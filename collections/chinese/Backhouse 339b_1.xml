@@ -54,16 +54,16 @@
                      <title source="#200|9">you xuan shi zhe jue dai yu shi bie guo fang yan</title>
                      <note source="#290">(漢)揚雄記</note>
                      <note source="#290">(晉)郭璞注</note>
-                     <author source="#300"><persName>(漢)揚雄</persName><persName type="9">yang
+                     <author source="#300" key="person_6538"><persName>(漢)揚雄</persName><persName type="9">yang
                            xiong</persName></author>
-                     <author source="#300"><persName>(晉)郭璞</persName><persName type="9">guo
+                     <author source="#300" key="person_2985"><persName>(晉)郭璞</persName><persName type="9">guo
                            pu</persName></author>
                   </msItem>
                   <msItem n="2">
                      <title source="#201">方言校正補遺 ^一卷^</title>
                      <title source="#201|9">fang yan jiao zheng bu yi</title>
                      <note source="#291">(清)盧文弨撰</note>
-                     <author source="#301"><persName>(清)盧文弨</persName><persName type="9">lu wen
+                     <author source="#301" key="person_5212"><persName>(清)盧文弨</persName><persName type="9">lu wen
                            chao</persName></author>
                   </msItem>
                </msContents>

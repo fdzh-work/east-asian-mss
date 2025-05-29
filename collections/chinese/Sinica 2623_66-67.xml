@@ -54,15 +54,15 @@
                      <title source="#200|9">yuan xi qi qi tu shuo lu zui</title>
                      <note source="#290">(明西洋)鄧玉函口授</note>
                      <note source="#290">(明)王徵譯繪</note>
-                     <author source="#300"><persName>Terentius, Joannes</persName></author>
-                     <author source="#300"><persName>(明)王徵</persName><persName type="9">wang
+                     <author source="#300" key="person_7052"><persName>Terentius, Joannes</persName></author>
+                     <author source="#300" key="person_2432"><persName>(明)王徵</persName><persName type="9">wang
                            zheng</persName></author>
                   </msItem>
                   <msItem n="2">
                      <title source="#201">^附^ 新制諸器圖說 ^一卷^</title>
                      <title source="#201|9">xin zhi qi qi tu shuo</title>
                      <note source="#291">(明)王徵撰</note>
-                     <author source="#301"><persName>(明)王徵</persName><persName type="9">wang
+                     <author source="#301" key="person_2432"><persName>(明)王徵</persName><persName type="9">wang
                            zheng</persName></author>
                   </msItem>
                </msContents>

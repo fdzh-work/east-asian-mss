@@ -54,9 +54,9 @@
                      <title source="#200|9">wu jing suan shu</title>
                      <note source="#290">(北周)甄鸞撰</note>
                      <note source="#290">(唐)李淳風等奉敕注釋</note>
-                     <author source="#300"><persName>(北周)甄鸞</persName><persName type="9">zhen
+                     <author source="#300" key="person_401"><persName>(北周)甄鸞</persName><persName type="9">zhen
                            luan</persName></author>
-                     <author source="#300"><persName>(唐)李淳風</persName><persName type="9">li chun
+                     <author source="#300" key="person_689"><persName>(唐)李淳風</persName><persName type="9">li chun
                            feng</persName></author>
                      <note source="#600">藝林山房刊</note>
                   </msItem>
@@ -64,7 +64,7 @@
                      <title source="#201">^附^ 五經算術考證 ^一卷^</title>
                      <title source="#201|9">wu jing suan shu kao zheng</title>
                      <note source="#291">(清)戴震撰</note>
-                     <author source="#301"><persName>(清)戴震</persName><persName type="9">dai
+                     <author source="#301" key="person_4277"><persName>(清)戴震</persName><persName type="9">dai
                            zhen</persName></author>
                   </msItem>
                </msContents>

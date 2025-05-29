@@ -53,11 +53,11 @@
                      <title source="#200|9">jin si lu</title>
                      <note source="#290">(宋)朱熹, (宋)呂祖謙撰</note>
                      <note source="#290">(清)張伯行集解</note>
-                     <author source="#300"><persName>(宋)朱熹</persName><persName type="9">zhu
+                     <author source="#300" key="person_1250"><persName>(宋)朱熹</persName><persName type="9">zhu
                            xi</persName></author>
-                     <author source="#300"><persName>(宋)呂祖謙</persName><persName type="9">lu zu
+                     <author source="#300" key="person_1055"><persName>(宋)呂祖謙</persName><persName type="9">lu zu
                            qian</persName></author>
-                     <author source="#300"><persName>(清)張伯行</persName><persName type="9">zhang bo
+                     <author source="#300" key="person_3983"><persName>(清)張伯行</persName><persName type="9">zhang bo
                            xing</persName></author>
                   </msItem>
                </msContents>

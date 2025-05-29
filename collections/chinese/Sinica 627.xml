@@ -51,14 +51,14 @@
                      <title source="#200">海錄 ^一卷附錄九種^</title>
                      <title source="#200|9">hai lu</title>
                      <note source="#290">(清)楊炳南撰</note>
-                     <author source="#300"><persName>(清)楊炳南</persName><persName type="9">yang bing
+                     <author source="#300" key="person_4692"><persName>(清)楊炳南</persName><persName type="9">yang bing
                            nan</persName></author>
                      <note source="#409">清道光二十二年[1842]序刊本</note>
                      <msItem n="1=附錄1">
                         <title>海島逸志摘略 ^一卷^</title>
                         <title source="9">hai dao yi zhi zhai lue</title>
                         <note source="290">(清)王大海撰</note>
-                        <author><persName>(清)王大海</persName><persName type="9">wang da
+                        <author key="person_5036"><persName>(清)王大海</persName><persName type="9">wang da
                            hai</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20131203/13:32:58|odh -->
@@ -68,7 +68,7 @@
                         <title>高厚蒙求摘略 ^一卷^</title>
                         <title source="9">gao hou meng qiu zhai lue</title>
                         <note source="290">(清)徐朝俊撰</note>
-                        <author><persName>(清)徐朝俊</persName><persName type="9">xu chao
+                        <author key="person_4200"><persName>(清)徐朝俊</persName><persName type="9">xu chao
                            jun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20131203/13:34:11|odh -->
@@ -88,7 +88,7 @@
                         <title>紅毛番嘆咭唎考略 ^一卷^</title>
                         <title source="9">hong mao fan tan ji li kao lue</title>
                         <note source="290">(清)汪文泰撰</note>
-                        <author><persName>(清)汪文泰</persName><persName type="9">wang wen
+                        <author key="person_4805"><persName>(清)汪文泰</persName><persName type="9">wang wen
                               tai</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20131203/13:39:57|odh -->
@@ -122,7 +122,7 @@
                         <title>呂宋紀略 ^一卷^</title>
                         <title source="9">lu song ji lue</title>
                         <note source="290">(清)黃可垂撰</note>
-                        <author><persName>(清)黃可垂</persName><persName type="9">huang ke
+                        <author key="person_6364"><persName>(清)黃可垂</persName><persName type="9">huang ke
                               chui</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20131203/13:47:04|odh -->

@@ -51,14 +51,14 @@
                      <title source="#200">蔣侑石遺書</title>
                      <title source="#200|9">jiang you shi yi shu</title>
                      <note source="#290">(清)蔣曰豫撰</note>
-                     <author source="#300"><persName>(清)蔣曰豫</persName><persName type="9">jiang yue
+                     <author source="#300" key="person_5572"><persName>(清)蔣曰豫</persName><persName type="9">jiang yue
                            yu</persName></author>
                      <note source="#409">清光緒三年[1877]蓮池書局刊本</note>
                      <editor source="#440" role="pbl"><persName>蓮池書局</persName><persName type="9" role="pbl">lian chi shu ju</persName></editor>
                      <msItem n="1">
                         <title>滂喜齋學錄 ^十一卷^</title>
                         <title source="9">pang xi zhai xue lu</title>
-                        <author><persName>(清)蔣曰豫</persName><persName type="9">jiang yue
+                        <author key="person_5572"><persName>(清)蔣曰豫</persName><persName type="9">jiang yue
                               yu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20051222/13:26:28|odh -->
@@ -66,7 +66,7 @@
                         <msItem n="1">
                            <title>詩經異文 ^四卷^</title>
                            <title source="9">shi jing yi wen</title>
-                           <author><persName>(清)蔣曰豫</persName><persName type="9">jiang yue
+                           <author key="person_5572"><persName>(清)蔣曰豫</persName><persName type="9">jiang yue
                                  yu</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20051222/13:27:10|odh -->
@@ -76,7 +76,7 @@
                         <msItem n="2">
                            <title>韓詩輯 ^一卷^</title>
                            <title source="9">han shi ji</title>
-                           <author><persName>(清)蔣曰豫</persName><persName type="9">jiang yue
+                           <author key="person_5572"><persName>(清)蔣曰豫</persName><persName type="9">jiang yue
                                  yu</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20051222/13:28:25|odh -->
@@ -86,7 +86,7 @@
                         <msItem n="3">
                            <title>論語集解校補 ^一卷^</title>
                            <title source="9">lun yu ji jie jiao bu</title>
-                           <author><persName>(清)蔣曰豫</persName><persName type="9">jiang yue
+                           <author key="person_5572"><persName>(清)蔣曰豫</persName><persName type="9">jiang yue
                                  yu</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20051222/13:29:02|odh -->
@@ -98,9 +98,9 @@
                            <title source="9">guo yu jia jing bo zhu</title>
                            <note type="#290">(漢)賈逵撰</note>
                            <note type="#290">(清)蔣曰豫輯</note>
-                           <author><persName>(漢)賈逵</persName><persName type="9">jia
+                           <author key="person_6600"><persName>(漢)賈逵</persName><persName type="9">jia
                               kui</persName></author>
-                           <author><persName>(清)蔣曰豫</persName><persName type="9">jiang yue
+                           <author key="person_5572"><persName>(清)蔣曰豫</persName><persName type="9">jiang yue
                                  yu</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20051222/13:31:25|odh -->
@@ -110,7 +110,7 @@
                         <msItem n="5">
                            <title>離騷釋韻 ^一卷^</title>
                            <title source="9">li sao shi yun</title>
-                           <author><persName>(清)蔣曰豫</persName><persName type="9">jiang yue
+                           <author key="person_5572"><persName>(清)蔣曰豫</persName><persName type="9">jiang yue
                                  yu</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20051222/13:35:28|odh -->
@@ -122,9 +122,9 @@
                            <title source="9">xu shu zhong huai nan zi zhu</title>
                            <note type="#290">(漢)許慎撰</note>
                            <note type="#290">(清)蔣曰豫輯</note>
-                           <author><persName>(漢)許慎</persName><persName type="9">xu
+                           <author key="person_6594"><persName>(漢)許慎</persName><persName type="9">xu
                               shen</persName></author>
-                           <author><persName>(清)蔣曰豫</persName><persName type="9">jiang yue
+                           <author key="person_5572"><persName>(清)蔣曰豫</persName><persName type="9">jiang yue
                                  yu</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20051222/13:32:57|odh -->
@@ -134,7 +134,7 @@
                         <msItem n="7">
                            <title>兩漢傳經表 ^二卷^</title>
                            <title source="9">liang han chuan jing biao</title>
-                           <author><persName>(清)蔣曰豫</persName><persName type="9">jiang yue
+                           <author key="person_5572"><persName>(清)蔣曰豫</persName><persName type="9">jiang yue
                                  yu</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20051222/13:36:06|odh -->
@@ -144,7 +144,7 @@
                      <msItem n="2">
                         <title>問奇室詩集 ^二卷續集一卷^</title>
                         <title source="9">wen qi shi shi ji</title>
-                        <author><persName>(清)蔣曰豫</persName><persName type="9">jiang yue
+                        <author key="person_5572"><persName>(清)蔣曰豫</persName><persName type="9">jiang yue
                               yu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20051222/13:38:33|odh -->
@@ -153,7 +153,7 @@
                      <msItem n="3">
                         <title>問奇室文集 ^一卷^</title>
                         <title source="9">wen qi shi wen ji</title>
-                        <author><persName>(清)蔣曰豫</persName><persName type="9">jiang yue
+                        <author key="person_5572"><persName>(清)蔣曰豫</persName><persName type="9">jiang yue
                               yu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20051222/13:38:56|odh -->
@@ -162,7 +162,7 @@
                      <msItem n="4">
                         <title>秋雅 ^一卷^</title>
                         <title source="9">qiu ya</title>
-                        <author><persName>(清)蔣曰豫</persName><persName type="9">jiang yue
+                        <author key="person_5572"><persName>(清)蔣曰豫</persName><persName type="9">jiang yue
                               yu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20051222/13:39:28|odh -->

@@ -52,7 +52,7 @@
                      <title source="#200">石湖紀行 ^三卷^</title>
                      <title source="#200|9">shi hu ji xing</title>
                      <note source="#290">(宋)范成大撰</note>
-                     <author source="#300"><persName>(宋)范成大</persName><persName type="9">fan cheng
+                     <author source="#300" key="person_1532"><persName>(宋)范成大</persName><persName type="9">fan cheng
                            da</persName></author>
                      <note source="#600">《吳船錄》收入第十八集</note>
                   </msItem>
@@ -101,7 +101,7 @@
                      <msItem>
                         <title>攬轡錄 ^一卷^</title>
                         <title source="9">lan pei lu</title>
-                        <author><persName>(宋)范成大</persName><persName type="9">fan cheng
+                        <author key="person_1532"><persName>(宋)范成大</persName><persName type="9">fan cheng
                               da</persName></author>
                         <note source="600">嘉慶十年[1805]刊</note>
                      </msItem>
@@ -128,7 +128,7 @@
                      <msItem>
                         <title>驂鸞錄 ^一卷^</title>
                         <title source="9">can luan lu</title>
-                        <author><persName>(宋)范成大</persName><persName type="9">fan cheng
+                        <author key="person_1532"><persName>(宋)范成大</persName><persName type="9">fan cheng
                               da</persName></author>
                         <note source="600">嘉慶十年[1805]刊</note>
                      </msItem>

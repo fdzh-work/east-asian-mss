@@ -51,14 +51,14 @@
                      <title source="#200">拜鴛樓校刻小品四種</title>
                      <title source="#200|9">bai yuan lou jiao ke xiao pin si zhong</title>
                      <note source="#290">(清)沈宗畸輯</note>
-                     <author source="#300"><persName>(清)沈宗畸</persName><persName type="9">shen zong
+                     <author source="#300" key="person_4850"><persName>(清)沈宗畸</persName><persName type="9">shen zong
                            ji</persName></author>
                      <note source="#409">清光緒辛丑[1901]番禺沈氏刊本</note>
                      <msItem n="1">
                         <title>欠愁集 ^一卷^</title>
                         <title source="9">qian chou ji</title>
                         <note source="290">(清)史震林撰</note>
-                        <author><persName>(清)史震林</persName><persName type="9">shi zhen
+                        <author key="person_3520"><persName>(清)史震林</persName><persName type="9">shi zhen
                               lin</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180517/22:01:16|odh -->
@@ -70,7 +70,7 @@
                         <title type="variant">板橋雜記</title>
                         <title source="9" type="variant">ban qiao za ji</title>
                         <note source="290">(清)余懷撰</note>
-                        <author><persName>(清)余懷</persName><persName type="9">yu
+                        <author key="person_3339"><persName>(清)余懷</persName><persName type="9">yu
                            huai</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180517/22:02:12|odh -->
@@ -81,7 +81,7 @@
                         <title>影梅庵憶語 ^一卷悼亡題詠一卷附錄一卷^</title>
                         <title source="9">ying mei an yi yu</title>
                         <note source="290">(清)冒襄撰</note>
-                        <author><persName>(清)冒襄</persName><persName type="9">mao
+                        <author key="person_3406"><persName>(清)冒襄</persName><persName type="9">mao
                            xiang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180517/21:54:38|odh -->
@@ -92,7 +92,7 @@
                         <title>海鷗小譜 ^一卷附錄一^</title>
                         <title source="9">hai ou xiao pu</title>
                         <note source="290">(清)趙執信撰</note>
-                        <author><persName>(清)趙執信</persName><persName type="9">zhao zhi
+                        <author key="person_5727"><persName>(清)趙執信</persName><persName type="9">zhao zhi
                               xin</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180517/22:02:56|odh -->

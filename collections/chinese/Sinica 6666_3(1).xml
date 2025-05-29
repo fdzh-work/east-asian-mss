@@ -51,12 +51,12 @@
                   <msItem n="1">
                      <title source="#200">傳奇六種</title>
                      <title source="#200|9">chuan qi liu zhong</title>
-                     <author source="#300"><persName>(清)楊恩壽</persName><persName type="9">yang en
+                     <author source="#300" key="person_4679"><persName>(清)楊恩壽</persName><persName type="9">yang en
                            shou</persName></author>
                      <msItem n="1">
                         <title>理靈坡 ^一卷^</title>
                         <title source="9">li ling po</title>
-                        <author><persName>(清)楊恩壽</persName><persName type="9">yang en
+                        <author key="person_4679"><persName>(清)楊恩壽</persName><persName type="9">yang en
                               shou</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180613/00000023|odh -->
@@ -65,7 +65,7 @@
                      <msItem n="2">
                         <title>麻灘驛 ^一卷^</title>
                         <title source="9">ma tan yi</title>
-                        <author><persName>(清)楊恩壽</persName><persName type="9">yang en
+                        <author key="person_4679"><persName>(清)楊恩壽</persName><persName type="9">yang en
                               shou</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180613/00000024|odh -->
@@ -74,7 +74,7 @@
                      <msItem n="3">
                         <title>再來人 ^一卷^</title>
                         <title source="9">zai lai ren</title>
-                        <author><persName>(清)楊恩壽</persName><persName type="9">yang en
+                        <author key="person_4679"><persName>(清)楊恩壽</persName><persName type="9">yang en
                               shou</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180613/00000025|odh -->
@@ -83,7 +83,7 @@
                      <msItem n="4">
                         <title>姽嫿封 ^一卷^</title>
                         <title source="9">gui hua feng</title>
-                        <author><persName>(清)楊恩壽</persName><persName type="9">yang en
+                        <author key="person_4679"><persName>(清)楊恩壽</persName><persName type="9">yang en
                               shou</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180613/00000026|odh -->
@@ -92,7 +92,7 @@
                      <msItem n="5">
                         <title>桃花源 ^一卷^</title>
                         <title source="9">tao hua yuan</title>
-                        <author><persName>(清)楊恩壽</persName><persName type="9">yang en
+                        <author key="person_4679"><persName>(清)楊恩壽</persName><persName type="9">yang en
                               shou</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180613/00000027|odh -->
@@ -101,7 +101,7 @@
                      <msItem n="6">
                         <title>桂枝香 ^一卷^</title>
                         <title source="9">gui zhi xiang</title>
-                        <author><persName>(清)楊恩壽</persName><persName type="9">yang en
+                        <author key="person_4679"><persName>(清)楊恩壽</persName><persName type="9">yang en
                               shou</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180613/00000028|odh -->

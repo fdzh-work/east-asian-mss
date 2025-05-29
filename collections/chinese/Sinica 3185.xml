@@ -52,9 +52,9 @@
                      <title type="variant" source="#230">二程全書</title>
                      <title source="#230|9" type="variant">er cheng quan shu</title>
                      <note source="#290">(宋)程顥, (宋)程頤撰</note>
-                     <author source="#300"><persName>(宋)程顥</persName><persName type="9">cheng
+                     <author source="#300" key="person_1492"><persName>(宋)程顥</persName><persName type="9">cheng
                            hao</persName></author>
-                     <author source="#300"><persName>(宋)程頤</persName><persName type="9">cheng
+                     <author source="#300" key="person_1491"><persName>(宋)程頤</persName><persName type="9">cheng
                            yi</persName></author>
                      <note source="#409">清光緒戊申[1908]澹雅局重刊本</note>
                      <editor source="#440" role="pbl"><persName>澹雅局</persName><persName type="9" role="pbl">dan ya ju</persName></editor>

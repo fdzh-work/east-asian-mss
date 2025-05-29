@@ -52,7 +52,7 @@
                      <title source="#200">尸子尹文子合刻</title>
                      <title source="#200|9">shi zi yin wen zi he ke</title>
                      <note source="#290">(清)汪繼培輯</note>
-                     <author source="#300"><persName>(清)汪繼培</persName><persName type="9">wang ji
+                     <author source="#300" key="person_4820"><persName>(清)汪繼培</persName><persName type="9">wang ji
                            pei</persName></author>
                      <note source="#600">嘉慶十七年[1812]刊</note>
                      <msItem n="1">
@@ -67,7 +67,7 @@
                         <title>尹文子 ^一卷^</title>
                         <title source="9">yin wen zi</title>
                         <note source="290">(周)尹文撰</note>
-                        <author><persName>(周)尹文</persName><persName type="9">yin
+                        <author key="person_500"><persName>(周)尹文</persName><persName type="9">yin
                            wen</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20161228/00000048|odh -->

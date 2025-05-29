@@ -48,7 +48,7 @@
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="2">
                      <note source="#291">(宋釋)道誠注</note>
-                     <author source="#301"><persName>(宋釋)道誠</persName><persName type="9">dao
+                     <author source="#301" key="person_1870"><persName>(宋釋)道誠</persName><persName type="9">dao
                            cheng</persName></author>
                   </msItem>
                <msItem><note source="#409">清刊本</note>
@@ -56,7 +56,7 @@
                      <title source="#200">釋迦如來成道記 ^一卷^</title>
                      <title source="#200|9">shi jia ru lai cheng dao ji</title>
                      <note source="#290">(唐)王勃撰</note>
-                     <author source="#300"><persName>(唐)王勃</persName><persName type="9">wang
+                     <author source="#300" key="person_755"><persName>(唐)王勃</persName><persName type="9">wang
                            bo</persName></author>
                      </msItem>
                   </msItem></msContents>

@@ -55,13 +55,13 @@
                      <note source="#290">(周)孫武撰</note>
                      <note source="#290">(宋)吉天保輯</note>
                      <note source="#290">(清)孫星衍, (清)吳人驥校</note>
-                     <author source="#300"><persName>(周)孫武</persName><persName type="9">sun
+                     <author source="#300" key="person_492"><persName>(周)孫武</persName><persName type="9">sun
                            wu</persName></author>
-                     <author source="#300"><persName>(宋)吉天保</persName><persName type="9">ji tian
+                     <author source="#300" key="person_1010"><persName>(宋)吉天保</persName><persName type="9">ji tian
                            bao</persName></author>
-                     <author source="#300"><persName>(清)孫星衍</persName><persName type="9">sun xing
+                     <author source="#300" key="person_3855"><persName>(清)孫星衍</persName><persName type="9">sun xing
                            yan</persName></author>
-                     <author source="#300"><persName>(清)吳人驥</persName><persName type="9">wu ren
+                     <author source="#300" key="person_3528"><persName>(清)吳人驥</persName><persName type="9">wu ren
                            ji</persName></author>
                      <note source="#600">光緒三年[1877]刊</note>
                   </msItem>
@@ -69,14 +69,14 @@
                      <title source="#201">孫子敘錄 ^一卷^</title>
                      <title source="#201|9">sun zi xu lu</title>
                      <note source="#291">(清)畢以珣撰</note>
-                     <author source="#301"><persName>(清)畢以珣</persName><persName type="9">bi yi
+                     <author source="#301" key="person_5192"><persName>(清)畢以珣</persName><persName type="9">bi yi
                            xun</persName></author>
                   </msItem>
                   <msItem n="3">
                      <title source="#202">孫子十家註遺說 ^一卷^</title>
                      <title source="#202|9">sun zi shi jia zhu yi shuo</title>
                      <note source="#292">(宋)鄭友賢撰</note>
-                     <author source="#302"><persName>(宋)鄭友賢</persName><persName type="9">zheng you
+                     <author source="#302" key="person_1706"><persName>(宋)鄭友賢</persName><persName type="9">zheng you
                            xian</persName></author>
                   </msItem>
                </msContents>

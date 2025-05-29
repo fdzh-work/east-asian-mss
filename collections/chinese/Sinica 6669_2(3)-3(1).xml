@@ -51,13 +51,13 @@
                   <msItem n="1">
                      <title source="#200">盾墨拾餘</title>
                      <title source="#200|9">dun mo shi yu</title>
-                     <author source="#300"><persName>(民國)易順鼎</persName><persName type="9">yi shun
+                     <author source="#300" key="person_3122"><persName>(民國)易順鼎</persName><persName type="9">yi shun
                            ding</persName></author>
                      <note source="#600">光緒丙申[1896]慕皋廬刊《哭盦叢書》之一</note>
                      <msItem n="1">
                         <title>奏疏 ^二卷^</title>
                         <title source="9">zou shu</title>
-                        <author><persName>(民國)易順鼎</persName><persName type="9">yi shun
+                        <author key="person_3122"><persName>(民國)易順鼎</persName><persName type="9">yi shun
                               ding</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180614/00000013|odh -->
@@ -66,7 +66,7 @@
                      <msItem n="2">
                         <title>雜稿 ^一卷^</title>
                         <title source="9">za gao</title>
-                        <author><persName>(民國)易順鼎</persName><persName type="9">yi shun
+                        <author key="person_3122"><persName>(民國)易順鼎</persName><persName type="9">yi shun
                               ding</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180614/00000014|odh -->
@@ -75,7 +75,7 @@
                      <msItem n="3">
                         <title>四魂集</title>
                         <title source="9">si hun ji</title>
-                        <author><persName>(民國)易順鼎</persName><persName type="9">yi shun
+                        <author key="person_3122"><persName>(民國)易順鼎</persName><persName type="9">yi shun
                               ding</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180614/00000015|odh -->
@@ -84,7 +84,7 @@
                      <msItem n="4">
                         <title>四魂外集</title>
                         <title source="9">si hun wai ji</title>
-                        <author><persName>(民國)易順鼎</persName><persName type="9">yi shun
+                        <author key="person_3122"><persName>(民國)易順鼎</persName><persName type="9">yi shun
                               ding</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180614/00000020|odh -->

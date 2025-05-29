@@ -52,7 +52,7 @@
                      <title source="#200">琴學叢書</title>
                      <title source="#200|9">qin xue cong shu</title>
                      <note source="#290">(民國)楊宗稷撰</note>
-                     <author source="#300"><persName>(民國)楊宗稷</persName><persName type="9">yang zong
+                     <author source="#300" key="person_3142"><persName>(民國)楊宗稷</persName><persName type="9">yang zong
                            ji</persName></author>
                      <note source="#409">民國楊氏刊1993年北京中國書店重印本</note>
                      <editor source="#440" role="pbl"><persName>中國書店</persName><persName type="9" role="pbl">zhong guo shu dian</persName></editor>
@@ -68,7 +68,7 @@
                         <msItem n="1">
                            <title>琴操 ^二卷^</title>
                            <title source="9">qin cao</title>
-                           <author><persName>(漢)蔡邕</persName><persName type="9">cai
+                           <author key="person_6588"><persName>(漢)蔡邕</persName><persName type="9">cai
                               yong</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20000101/00005013|ons -->
@@ -86,7 +86,7 @@
                         <msItem n="2">
                            <title>碣石調幽蘭 ^一卷^</title>
                            <title source="9">jie shi diao you lan</title>
-                           <author><persName>(陳)丘公明</persName><persName type="9">qiu gong
+                           <author key="person_6671"><persName>(陳)丘公明</persName><persName type="9">qiu gong
                                  ming</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20000101/00005014|ons -->

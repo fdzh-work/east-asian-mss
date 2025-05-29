@@ -52,7 +52,7 @@
                      <title source="#200">鄭氏遺書五種</title>
                      <title source="#200|9">zheng shi yi shu</title>
                      <note source="#290">(漢)鄭玄撰</note>
-                     <author source="#300"><persName>(漢)鄭玄</persName><persName type="9">zheng
+                     <author source="#300" key="person_6609"><persName>(漢)鄭玄</persName><persName type="9">zheng
                            xuan</persName></author>
                      <note source="#600">光緒甲申[1884]刊</note>
                      <msItem n="1">
@@ -60,11 +60,11 @@
                         <title source="9">bo wu jing yi yi</title>
                         <note source="290">(清)王復輯</note>
                         <note source="290">(清)武億校</note>
-                        <author><persName>(漢)鄭玄</persName><persName type="9">zheng
+                        <author key="person_6609"><persName>(漢)鄭玄</persName><persName type="9">zheng
                            xuan</persName></author>
                         <author><persName>(清)王復</persName><persName type="9">wu
                            fu</persName></author>
-                        <author><persName>(清)武億</persName><persName type="9">wu
+                        <author key="person_4727"><persName>(清)武億</persName><persName type="9">wu
                            yi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180525/00000002|odh -->
@@ -75,11 +75,11 @@
                         <title source="9">zhen gao mang</title>
                         <note source="290">(清)王復輯</note>
                         <note source="290">(清)武億校</note>
-                        <author><persName>(漢)鄭玄</persName><persName type="9">zheng
+                        <author key="person_6609"><persName>(漢)鄭玄</persName><persName type="9">zheng
                            xuan</persName></author>
                         <author><persName>(清)王復</persName><persName type="9">wu
                            fu</persName></author>
-                        <author><persName>(清)武億</persName><persName type="9">wu
+                        <author key="person_4727"><persName>(清)武億</persName><persName type="9">wu
                            yi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180525/00000003|odh -->
@@ -90,11 +90,11 @@
                         <title source="9">qi fei ji</title>
                         <note source="290">(清)王復輯</note>
                         <note source="290">(清)武億校</note>
-                        <author><persName>(漢)鄭玄</persName><persName type="9">zheng
+                        <author key="person_6609"><persName>(漢)鄭玄</persName><persName type="9">zheng
                            xuan</persName></author>
                         <author><persName>(清)王復</persName><persName type="9">wu
                            fu</persName></author>
-                        <author><persName>(清)武億</persName><persName type="9">wu
+                        <author key="person_4727"><persName>(清)武億</persName><persName type="9">wu
                            yi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180525/00000004|odh -->
@@ -105,11 +105,11 @@
                         <title source="9">fa mo shou</title>
                         <note source="290">(清)王復輯</note>
                         <note source="290">(清)武億校</note>
-                        <author><persName>(漢)鄭玄</persName><persName type="9">zheng
+                        <author key="person_6609"><persName>(漢)鄭玄</persName><persName type="9">zheng
                            xuan</persName></author>
                         <author><persName>(清)王復</persName><persName type="9">wu
                            fu</persName></author>
-                        <author><persName>(清)武億</persName><persName type="9">wu
+                        <author key="person_4727"><persName>(清)武億</persName><persName type="9">wu
                            yi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180525/00000005|odh -->
@@ -120,13 +120,13 @@
                         <title source="9">zheng zhi</title>
                         <note source="290">(魏)鄭小同編</note>
                         <note source="290">(清)錢東垣, (清)錢侗按</note>
-                        <author><persName>(漢)鄭玄</persName><persName type="9">zheng
+                        <author key="person_6609"><persName>(漢)鄭玄</persName><persName type="9">zheng
                            xuan</persName></author>
-                        <author><persName>(魏)鄭小同</persName><persName type="9">zheng xiao
+                        <author key="person_6748"><persName>(魏)鄭小同</persName><persName type="9">zheng xiao
                               tong</persName></author>
-                        <author><persName>(清)錢東垣</persName><persName type="9">qian dong
+                        <author key="person_5933"><persName>(清)錢東垣</persName><persName type="9">qian dong
                               yuan</persName></author>
-                        <author><persName>(清)錢侗</persName><persName type="9">qian
+                        <author key="person_5909"><persName>(清)錢侗</persName><persName type="9">qian
                            tong</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180525/00000006|odh -->

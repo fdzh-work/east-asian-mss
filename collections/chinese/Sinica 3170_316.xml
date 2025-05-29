@@ -52,7 +52,7 @@
                      <title source="#200">漢晉春秋輯本</title>
                      <title source="#200|9">han jin chun qiu ji ben</title>
                      <note source="#290">(清)湯球輯</note>
-                     <author source="#300"><persName>(清)湯球</persName><persName type="9">tang
+                     <author source="#300" key="person_4949"><persName>(清)湯球</persName><persName type="9">tang
                            qiu</persName></author>
                   </msItem>
                </msContents>
@@ -100,7 +100,7 @@
                         <title>漢晉春秋 ^三卷^</title>
                         <title source="9">han jin chun qiu</title>
                         <note source="290">(晉)習鑿齒撰</note>
-                        <author><persName>(晉)習鑿齒</persName><persName type="9">xi zao
+                        <author key="person_2951"><persName>(晉)習鑿齒</persName><persName type="9">xi zao
                            chi</persName></author>
                      </msItem>
                   </msContents>
@@ -127,7 +127,7 @@
                         <title>晉春秋 ^一卷^</title>
                         <title source="9">jin chun qiu</title>
                         <note source="290">(唐)杜延業撰</note>
-                        <author><persName>(唐)杜延業</persName><persName type="9">du yan
+                        <author key="person_718"><persName>(唐)杜延業</persName><persName type="9">du yan
                            ye</persName></author>
                      </msItem>
                   </msContents>

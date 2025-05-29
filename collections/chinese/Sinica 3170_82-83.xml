@@ -52,7 +52,7 @@
                      <title source="#200">劉氏遺書 ^八卷^</title>
                      <title source="#200|9">liu shi yi shu</title>
                      <note source="#290">(清)劉台拱撰</note>
-                     <author source="#300"><persName>(清)劉台拱</persName><persName type="9">liu tai
+                     <author source="#300" key="person_3416"><persName>(清)劉台拱</persName><persName type="9">liu tai
                            gong</persName></author>
                      <note source="#600">光緒十五年[1889]刊</note>
                   </msItem>
@@ -101,7 +101,7 @@
                         <title>論語駢枝 ^一卷^</title>
                         <title source="9">lun yu pian zhi</title>
                         <note source="290">(清)劉台拱撰</note>
-                        <author><persName>(清)劉台拱</persName><persName type="9">liu tai
+                        <author key="person_3416"><persName>(清)劉台拱</persName><persName type="9">liu tai
                               gong</persName></author>
                      </msItem>
                   </msContents>
@@ -128,7 +128,7 @@
                         <title>經傳小記 ^一卷^</title>
                         <title source="9">jing zhuan xiao ji</title>
                         <note source="290">(清)劉台拱撰</note>
-                        <author><persName>(清)劉台拱</persName><persName type="9">liu tai
+                        <author key="person_3416"><persName>(清)劉台拱</persName><persName type="9">liu tai
                               gong</persName></author>
                      </msItem>
                   </msContents>
@@ -155,7 +155,7 @@
                         <title>國語補校 ^一卷^</title>
                         <title source="9">guo yu bu jiao</title>
                         <note source="290">(清)劉台拱撰</note>
-                        <author><persName>(清)劉台拱</persName><persName type="9">liu tai
+                        <author key="person_3416"><persName>(清)劉台拱</persName><persName type="9">liu tai
                               gong</persName></author>
                      </msItem>
                   </msContents>
@@ -182,7 +182,7 @@
                         <title>荀子補注 ^一卷^</title>
                         <title source="9">xun zi bu zhu</title>
                         <note source="290">(清)劉台拱撰</note>
-                        <author><persName>(清)劉台拱</persName><persName type="9">liu tai
+                        <author key="person_3416"><persName>(清)劉台拱</persName><persName type="9">liu tai
                               gong</persName></author>
                      </msItem>
                   </msContents>
@@ -209,7 +209,7 @@
                         <title>淮南子補校 ^一卷^</title>
                         <title source="9">huai nan zi bu jiao</title>
                         <note source="290">(清)劉台拱撰</note>
-                        <author><persName>(清)劉台拱</persName><persName type="9">liu tai
+                        <author key="person_3416"><persName>(清)劉台拱</persName><persName type="9">liu tai
                               gong</persName></author>
                      </msItem>
                   </msContents>
@@ -236,7 +236,7 @@
                         <title>方言補校 ^一卷^</title>
                         <title source="9">fang yan bu jiao</title>
                         <note source="290">(清)劉台拱撰</note>
-                        <author><persName>(清)劉台拱</persName><persName type="9">liu tai
+                        <author key="person_3416"><persName>(清)劉台拱</persName><persName type="9">liu tai
                               gong</persName></author>
                      </msItem>
                   </msContents>
@@ -263,7 +263,7 @@
                         <title>漢學拾遺 ^一卷^</title>
                         <title source="9">han xue shi yi</title>
                         <note source="290">(清)劉台拱撰</note>
-                        <author><persName>(清)劉台拱</persName><persName type="9">liu tai
+                        <author key="person_3416"><persName>(清)劉台拱</persName><persName type="9">liu tai
                               gong</persName></author>
                      </msItem>
                   </msContents>
@@ -290,7 +290,7 @@
                         <title>文集 ^一卷^</title>
                         <title source="9">wen ji</title>
                         <note source="290">(清)劉台拱撰</note>
-                        <author><persName>(清)劉台拱</persName><persName type="9">liu tai
+                        <author key="person_3416"><persName>(清)劉台拱</persName><persName type="9">liu tai
                               gong</persName></author>
                      </msItem>
                   </msContents>

@@ -51,7 +51,7 @@
                   <msItem n="1">
                      <title source="#200">古書目 ^八卷^</title>
                      <title source="#200|9">gu shu mu</title>
-                     <author source="#300"><persName>(清)沈家本</persName><persName type="9">shen jia
+                     <author source="#300" key="person_4852"><persName>(清)沈家本</persName><persName type="9">shen jia
                            ben</persName></author>
                   </msItem>
                </msContents>
@@ -98,7 +98,7 @@
                      <msItem>
                         <title>三國志注所引書目 ^二卷^</title>
                         <title source="9">san guo zhi zhu suo yin shu mu</title>
-                        <author><persName>(清)沈家本</persName><persName type="9">shen jia
+                        <author key="person_4852"><persName>(清)沈家本</persName><persName type="9">shen jia
                               ben</persName></author>
                      </msItem>
                   </msContents>
@@ -124,7 +124,7 @@
                      <msItem>
                         <title>世說注所引書目 ^三卷^</title>
                         <title source="9">shi shuo zhu suo yin shu mu</title>
-                        <author><persName>(清)沈家本</persName><persName type="9">shen jia
+                        <author key="person_4852"><persName>(清)沈家本</persName><persName type="9">shen jia
                               ben</persName></author>
                      </msItem>
                   </msContents>
@@ -150,7 +150,7 @@
                      <msItem>
                         <title>續漢書志注所引書目 ^三卷^</title>
                         <title source="9">xu han shu zhi zhu suo yin shu mu</title>
-                        <author><persName>(清)沈家本</persName><persName type="9">shen jia
+                        <author key="person_4852"><persName>(清)沈家本</persName><persName type="9">shen jia
                               ben</persName></author>
                      </msItem>
                   </msContents>

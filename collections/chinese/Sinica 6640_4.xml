@@ -55,7 +55,7 @@
                         <title>立山詞 ^一卷^</title>
                         <title source="9">li shan ci</title>
                         <note source="290">(清)張琦撰</note>
-                        <author><persName>(清)張琦</persName><persName type="9">zhang
+                        <author key="person_4076"><persName>(清)張琦</persName><persName type="9">zhang
                            qi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180523/00000018|odh -->
@@ -65,7 +65,7 @@
                         <title>竹鄰詞 ^一卷^</title>
                         <title source="9">zhu lin ci</title>
                         <note source="290">(清)金式玉撰</note>
-                        <author><persName>(清)金式玉</persName><persName type="9">jin shi
+                        <author key="person_5882"><persName>(清)金式玉</persName><persName type="9">jin shi
                            yu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180523/00000019|odh -->
@@ -75,7 +75,7 @@
                         <title>齊物論齋詞 ^一卷^</title>
                         <title source="9">qi wu lun zhai ci</title>
                         <note source="290">(清)董士錫撰</note>
-                        <author><persName>(清)董士錫</persName><persName type="9">dong shi
+                        <author key="person_5514"><persName>(清)董士錫</persName><persName type="9">dong shi
                            xi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180523/00000020|odh -->
@@ -85,7 +85,7 @@
                         <title>香草詞 ^二卷^</title>
                         <title source="9">xiang cao ci</title>
                         <note source="290">(清)宋翔鳳撰</note>
-                        <author><persName>(清)宋翔鳳</persName><persName type="9">song xiang
+                        <author key="person_3904"><persName>(清)宋翔鳳</persName><persName type="9">song xiang
                               feng</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180523/00000021|odh -->
@@ -95,7 +95,7 @@
                         <title>洞簫詞 ^一卷^</title>
                         <title source="9">dong xiao ci</title>
                         <note source="290">(清)宋翔鳳撰</note>
-                        <author><persName>(清)宋翔鳳</persName><persName type="9">song xiang
+                        <author key="person_3904"><persName>(清)宋翔鳳</persName><persName type="9">song xiang
                               feng</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180523/00000022|odh -->
@@ -107,7 +107,7 @@
                         <title>^附^ 樂府餘論 ^一卷^</title>
                         <title source="9">yue fu yu lun</title>
                         <note source="290">(清)宋翔鳳撰</note>
-                        <author><persName>(清)宋翔鳳</persName><persName type="9">song xiang
+                        <author key="person_3904"><persName>(清)宋翔鳳</persName><persName type="9">song xiang
                               feng</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180523/00000023|odh -->
@@ -117,7 +117,7 @@
                         <title>柳下詞 ^一卷^</title>
                         <title source="9">liu xia ci</title>
                         <note source="290">(清)周青撰</note>
-                        <author><persName>(清)周青</persName><persName type="9">zhou
+                        <author key="person_3722"><persName>(清)周青</persName><persName type="9">zhou
                            qing</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180523/00000024|odh -->
@@ -127,7 +127,7 @@
                         <title>萬善花室詞 ^一卷^</title>
                         <title source="9">wan shan hua shi ci</title>
                         <note source="290">(清)方履籛撰</note>
-                        <author><persName>(清)方履籛</persName><persName type="9">fang lu
+                        <author key="person_4300"><persName>(清)方履籛</persName><persName type="9">fang lu
                               jian</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180523/00000025|odh -->
@@ -137,7 +137,7 @@
                         <title>金梁夢月詞 ^二卷^</title>
                         <title source="9">jin liang meng yue ci</title>
                         <note source="290">(清)周之琦撰</note>
-                        <author><persName>(清)周之琦</persName><persName type="9">zhou zhi
+                        <author key="person_3668"><persName>(清)周之琦</persName><persName type="9">zhou zhi
                            qi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180523/00000026|odh -->
@@ -147,7 +147,7 @@
                         <title>懷夢詞 ^一卷^</title>
                         <title source="9">huai meng ci</title>
                         <note source="290">(清)周之琦撰</note>
-                        <author><persName>(清)周之琦</persName><persName type="9">zhou zhi
+                        <author key="person_3668"><persName>(清)周之琦</persName><persName type="9">zhou zhi
                            qi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180523/00000027|odh -->
@@ -157,7 +157,7 @@
                         <title>三十六陂漁唱 ^一卷^</title>
                         <title source="9">san shi liu bei yu chang</title>
                         <note source="290">(清)王敬之撰</note>
-                        <author><persName>(清)王敬之</persName><persName type="9">wang jing
+                        <author key="person_5088"><persName>(清)王敬之</persName><persName type="9">wang jing
                               zhi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180523/00000028|odh -->
@@ -167,7 +167,7 @@
                         <title>冰蠶詞 ^一卷^</title>
                         <title source="9">bing can ci</title>
                         <note source="290">(清)承齡撰</note>
-                        <author><persName>(清)承齡</persName><persName type="9">cheng
+                        <author key="person_4283"><persName>(清)承齡</persName><persName type="9">cheng
                            ling</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180523/00000029|odh -->
@@ -177,7 +177,7 @@
                         <title>汀鷺詩餘 ^一卷^</title>
                         <title source="9">ding lu shi yu</title>
                         <note source="290">(清)楊傳第撰</note>
-                        <author><persName>(清)楊傳第</persName><persName type="9">yang chuan
+                        <author key="person_4660"><persName>(清)楊傳第</persName><persName type="9">yang chuan
                               di</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180523/00000030|odh -->
@@ -187,7 +187,7 @@
                         <title>湖海草堂詞 ^一卷^</title>
                         <title source="9">hu hai cao tang ci</title>
                         <note source="290">(清)樊景升撰</note>
-                        <author><persName>(清)樊景升</persName><persName type="9">fan jing
+                        <author key="person_4716"><persName>(清)樊景升</persName><persName type="9">fan jing
                               sheng</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180523/00000031|odh -->
@@ -197,7 +197,7 @@
                         <title>水雲樓詞 ^二卷續一卷詩賸藳一卷^</title>
                         <title source="9">shui yun lou ci</title>
                         <note source="290">(清)蔣春霖撰</note>
-                        <author><persName>(清)蔣春霖</persName><persName type="9">jiang chun
+                        <author key="person_5571"><persName>(清)蔣春霖</persName><persName type="9">jiang chun
                               lin</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180523/00000032|odh -->
@@ -207,7 +207,7 @@
                         <title>蘭紉詞 ^一卷^</title>
                         <title source="9">lan ren ci</title>
                         <note source="290">(清)陸志淵撰</note>
-                        <author><persName>(清)陸志淵</persName><persName type="9">lu zhi
+                        <author key="person_6151"><persName>(清)陸志淵</persName><persName type="9">lu zhi
                            yuan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180523/00000033|odh -->
@@ -217,7 +217,7 @@
                         <title>瓠落詞 ^一卷^</title>
                         <title source="9">hu luo ci</title>
                         <note source="290">(清)陸志淵撰</note>
-                        <author><persName>(清)陸志淵</persName><persName type="9">lu zhi
+                        <author key="person_6151"><persName>(清)陸志淵</persName><persName type="9">lu zhi
                            yuan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180523/00000034|odh -->

@@ -52,7 +52,7 @@
                      <title source="#200">貴池唐人集</title>
                      <title source="#200|9">gui chi tang ren ji</title>
                      <note source="#290">(民國)劉世珩輯</note>
-                     <author source="#300"><persName>(民國)劉世珩</persName><persName type="9">liu shi
+                     <author source="#300" key="person_3073"><persName>(民國)劉世珩</persName><persName type="9">liu shi
                            heng</persName></author>
                   </msItem>
                </msContents>
@@ -99,7 +99,7 @@
                         <title>劇談錄 ^二卷附逸文一卷^</title>
                         <title source="9">ju tan lu</title>
                         <note source="290">(唐)康駢撰</note>
-                        <author><persName>(唐)康駢</persName><persName type="9">kang
+                        <author key="person_624"><persName>(唐)康駢</persName><persName type="9">kang
                            pian</persName></author>
                      </msItem>
                   </msContents>
@@ -125,7 +125,7 @@
                         <title>費冠卿詩 ^一卷^</title>
                         <title source="9">fei guan qing shi</title>
                         <note source="290">(唐)費冠卿撰</note>
-                        <author><persName>(唐)費冠卿</persName><persName type="9">fei guan
+                        <author key="person_821"><persName>(唐)費冠卿</persName><persName type="9">fei guan
                               qing</persName></author>
                      </msItem>
                   </msContents>
@@ -151,7 +151,7 @@
                         <title>張處士詩集 ^五卷^</title>
                         <title source="9">zhang chu shi shi ji</title>
                         <note source="290">(唐)張祜撰</note>
-                        <author><persName>(唐)張祜</persName><persName type="9">zhang
+                        <author key="person_639"><persName>(唐)張祜</persName><persName type="9">zhang
                            hu</persName></author>
                      </msItem>
                   </msContents>
@@ -177,7 +177,7 @@
                         <title>周繇詩 ^一卷^</title>
                         <title source="9">zhou yao shi</title>
                         <note source="290">(唐)周繇撰</note>
-                        <author><persName>(唐)周繇</persName><persName type="9">zhou
+                        <author key="person_592"><persName>(唐)周繇</persName><persName type="9">zhou
                            yao</persName></author>
                      </msItem>
                   </msContents>
@@ -203,7 +203,7 @@
                         <title>顧雲詩 ^一卷文一卷^</title>
                         <title source="9">gu yun shi</title>
                         <note source="290">(唐)顧雲撰</note>
-                        <author><persName>(唐)顧雲</persName><persName type="9">gu
+                        <author key="person_877"><persName>(唐)顧雲</persName><persName type="9">gu
                            yun</persName></author>
                      </msItem>
                   </msContents>
@@ -229,7 +229,7 @@
                         <title>張喬詩 ^一卷文一首^</title>
                         <title source="9">zhang qiao shi</title>
                         <note source="290">(唐)張喬撰</note>
-                        <author><persName>(唐)張喬</persName><persName type="9">zhang
+                        <author key="person_627"><persName>(唐)張喬</persName><persName type="9">zhang
                            qiao</persName></author>
                      </msItem>
                   </msContents>
@@ -257,9 +257,9 @@
                         <title>^附^ 松窗雜記 ^一卷^</title>
                         <title source="9">song chuang za ji</title>
                         <note source="290">(唐)杜荀鶴撰</note>
-                        <author><persName>(唐)杜荀鶴</persName><persName type="9">du xun
+                        <author key="person_721"><persName>(唐)杜荀鶴</persName><persName type="9">du xun
                            he</persName></author>
-                        <author><persName>(唐)李濬</persName><persName type="9">li
+                        <author key="person_690"><persName>(唐)李濬</persName><persName type="9">li
                            jun</persName></author>
                         <note source="600">《松窗雜記》一題(唐)李濬撰</note>
                      </msItem>
@@ -286,7 +286,7 @@
                         <title>殷文圭詩 ^一卷附文一首^</title>
                         <title source="9">yin wen gui shi</title>
                         <note source="290">(唐)殷文圭撰</note>
-                        <author><persName>(唐)殷文圭</persName><persName type="9">yin wen
+                        <author key="person_743"><persName>(唐)殷文圭</persName><persName type="9">yin wen
                            gui</persName></author>
                      </msItem>
                   </msContents>
@@ -312,7 +312,7 @@
                         <title>伍喬詩 ^一卷^</title>
                         <title source="9">wu qiao shi</title>
                         <note source="290">(南唐)伍喬撰</note>
-                        <author><persName>(南唐)伍喬</persName><persName type="9">wu
+                        <author key="person_420"><persName>(南唐)伍喬</persName><persName type="9">wu
                            qiao</persName></author>
                      </msItem>
                   </msContents>

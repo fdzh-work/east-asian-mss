@@ -57,7 +57,7 @@
                            <title>國語 ^二十一卷^</title>
                            <title source="9">guo yu</title>
                            <note source="290">(吳)韋昭解</note>
-                           <author><persName>(吳)韋昭</persName><persName type="9">wei
+                           <author key="person_473"><persName>(吳)韋昭</persName><persName type="9">wei
                               zhao</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20030428/14:13:01|odh -->
@@ -70,7 +70,7 @@
                            <title type="variant">國語札記 ^一卷^</title>
                            <title type="variant" source="9">guo yu zha ji</title>
                            <note source="290">(清)黃丕烈撰</note>
-                           <author><persName>(清)黃丕烈</persName><persName type="9">huang pi
+                           <author key="person_6348"><persName>(清)黃丕烈</persName><persName type="9">huang pi
                                  lie</persName></author>
                         </msItem>
                      </msItem>
@@ -81,7 +81,7 @@
                            <title>戰國策 ^三十三卷^</title>
                            <title source="9">zhan guo ce</title>
                            <note source="290">(漢)高誘注</note>
-                           <author><persName>(漢)高誘</persName><persName type="9">gao
+                           <author key="person_6623"><persName>(漢)高誘</persName><persName type="9">gao
                               you</persName></author>
                         </msItem>
                         <msItem n="2">
@@ -91,7 +91,7 @@
                            <title type="variant">戰國策札記 ^三卷^</title>
                            <title type="variant" source="9">zhan guo ce zha ji</title>
                            <note source="290">(清)黃丕烈撰</note>
-                           <author><persName>(清)黃丕烈</persName><persName type="9">huang pi
+                           <author key="person_6348"><persName>(清)黃丕烈</persName><persName type="9">huang pi
                                  lie</persName></author>
                         </msItem>
                         <!--Unused allegro fields-->

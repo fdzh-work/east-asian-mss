@@ -50,7 +50,7 @@
                      <title source="#200">盛明雜劇</title>
                      <title source="#200|9">sheng ming za ju</title>
                      <note source="#290">(明)沈泰等編</note>
-                     <author source="#300"><persName>(明)沈泰</persName><persName type="9">shen
+                     <author source="#300" key="person_2388"><persName>(明)沈泰</persName><persName type="9">shen
                            tai</persName></author>
                      <note source="#409">民國七年[1918]二集十四年[1925]三集三十年[1941]武進董康誦芬室刊本</note>
                      <editor source="#440" role="pbl"><persName>誦芬室</persName><persName type="9" role="pbl">song fen shi</persName></editor>
@@ -59,14 +59,14 @@
                      <title source="#201">盛明雜劇二集</title>
                      <title source="#201|9">sheng ming za ju er ji</title>
                      <note source="#291">(明)沈泰編</note>
-                     <author source="#301"><persName>(明)沈泰</persName><persName type="9">shen
+                     <author source="#301" key="person_2388"><persName>(明)沈泰</persName><persName type="9">shen
                            tai</persName></author>
                   </msItem>
                   <msItem n="3">
                      <title source="#202">雜劇三集</title>
                      <title source="#202|9">za ju san ji</title>
                      <note source="#292">(清)鄒式金編</note>
-                     <author source="#302"><persName>(清)鄒式金</persName><persName type="9">zou shi
+                     <author source="#302" key="person_5814"><persName>(清)鄒式金</persName><persName type="9">zou shi
                            jin</persName></author>
                   </msItem>
                </msContents>

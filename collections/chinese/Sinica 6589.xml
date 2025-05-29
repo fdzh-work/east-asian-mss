@@ -52,13 +52,13 @@
                      <title source="#200">郋園小學四種</title>
                      <title source="#200|9">xi yuan xiao xue si zhong</title>
                      <note source="#290">(民國)葉德輝撰</note>
-                     <author source="#300"><persName>(民國)葉德輝</persName><persName type="9">ye de
+                     <author source="#300" key="person_3174"><persName>(民國)葉德輝</persName><persName type="9">ye de
                            hui</persName></author>
                      <note source="#409">民國南陽葉氏觀古堂刊辛未[1931彙印本</note>
                      <msItem n="1">
                         <title>六書古微 ^十卷^</title>
                         <title source="9">liu shu gu wei</title>
-                        <author><persName>(民國)葉德輝</persName><persName type="9">ye de
+                        <author key="person_3174"><persName>(民國)葉德輝</persName><persName type="9">ye de
                            hui</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20050315/11:18:28|osn -->
@@ -71,7 +71,7 @@
                         <title source="9">shuo wen du ruo zi kao</title>
                         <title>^附^ 說文讀同字考 ^一卷^</title>
                         <title source="9">shuo wen du tong zi kao</title>
-                        <author><persName>(民國)葉德輝</persName><persName type="9">ye de
+                        <author key="person_3174"><persName>(民國)葉德輝</persName><persName type="9">ye de
                            hui</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20050315/11:23:44|osn -->
@@ -82,7 +82,7 @@
                      <msItem n="3">
                         <title>同聲假借字考 ^二卷^</title>
                         <title source="9">tong sheng jia jie zi kao</title>
-                        <author><persName>(民國)葉德輝</persName><persName type="9">ye de
+                        <author key="person_3174"><persName>(民國)葉德輝</persName><persName type="9">ye de
                            hui</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20050315/11:25:15|osn -->
@@ -94,9 +94,9 @@
                         <title>說文籀文攷證 ^一卷說籀一卷補遺一卷^</title>
                         <title source="9">shuo wen zhou wen kao zheng</title>
                         <note source="290">補遺葉啟勳撰</note>
-                        <author><persName>(民國)葉德輝</persName><persName type="9">ye de
+                        <author key="person_3174"><persName>(民國)葉德輝</persName><persName type="9">ye de
                            hui</persName></author>
-                        <author><persName>葉啟勳</persName><persName type="9">ye qi
+                        <author key="person_7171"><persName>葉啟勳</persName><persName type="9">ye qi
                            xun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20050315/11:31:18|osn -->

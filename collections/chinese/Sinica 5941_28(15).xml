@@ -51,12 +51,12 @@
                   <msItem n="1">
                      <title source="#200">傳奇二種^</title>
                      <title source="#200|9">chuan qi er zhong</title>
-                     <author source="#300"><persName>(清)俞樾</persName><persName type="9">yu
+                     <author source="#300" key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                      <msItem n="1">
                         <title>驪山傳 ^一卷^</title>
                         <title source="9">li shan chuan</title>
-                        <author><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180309/00000175|odh -->
@@ -65,7 +65,7 @@
                      <msItem n="2">
                         <title>梓潼傳 ^一卷^</title>
                         <title source="9">zi tong chuan</title>
-                        <author><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180309/00000176|odh -->

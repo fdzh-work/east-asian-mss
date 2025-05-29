@@ -51,9 +51,9 @@
                      <title source="#200|9">liu xu xi ping dian liu zhong shu</title>
                      <note source="#290">(宋)劉辰翁評點</note>
                      <note source="#290">(明)楊讖西編</note>
-                     <author source="#300"><persName>(宋)劉辰翁</persName><persName type="9">liu chen
+                     <author source="#300" key="person_992"><persName>(宋)劉辰翁</persName><persName type="9">liu chen
                            weng</persName></author>
-                     <author source="#300"><persName>(明)楊讖西</persName><persName type="9">liang chen
+                     <author source="#300" key="person_2362"><persName>(明)楊讖西</persName><persName type="9">liang chen
                            xi</persName></author>
                      <note source="#409">明天啟三年[1623]武林楊氏刊本</note>
                      <note><list type="contained_items"><head>Contains: </head><item><ref target="volume_7816">Backhouse 565/1-3</ref><title>老子道德經 ^二卷^</title> / <persName>(周)李耳</persName></item><item><ref target="volume_7822">Backhouse 565/4-10</ref><title>莊子南華真經 ^三卷^</title> / <persName>(周)莊周</persName></item><item><ref target="volume_7817">Backhouse 565/11-14</ref><title>列子沖虛真經 ^一卷^</title> / <persName>(周)列禦寇</persName></item><item><ref target="volume_7818">Backhouse 565/15-25</ref><title>班馬異同 ^三十五卷^</title> / <persName>(宋)倪思</persName></item><item><ref target="volume_7819">Backhouse 565/26-31</ref><title>世說新語 ^三卷^</title> / <persName>(劉宋)劉義慶</persName></item><item><ref target="volume_7820">Backhouse 565/32-34</ref><title>王摩詰集 ^六卷^</title> / <persName>(唐)王維</persName></item><item><ref target="volume_7821">Backhouse 565/35-44</ref><title>杜子美詩集 ^二十卷^</title> / <persName>(唐)杜甫</persName></item><item><ref target="volume_7823">Backhouse 565/45-47</ref><title>李長吉歌詩 ^四卷外一卷^</title> / <persName>(唐)李賀</persName></item><item><ref target="volume_7824">Backhouse 565/48-60</ref><title>蘇東坡詩集 ^二十五卷^</title> / <persName>(宋)蘇軾</persName></item><item><ref target="volume_7825">Backhouse 565/61-64</ref><title>^附^ 劉須谿先生記鈔 ^八卷^</title> / <persName>(宋)劉辰翁</persName></item></list></note></msItem>
@@ -61,7 +61,7 @@
                      <title source="#201">^附^ 劉須谿先生記鈔 ^八卷^</title>
                      <title source="#201|9">liu xu xi xian sheng ji chao</title>
                      <note source="#291">(宋)劉辰翁撰</note>
-                     <author source="#301"><persName>(宋)劉辰翁</persName><persName type="9">liu chen
+                     <author source="#301" key="person_992"><persName>(宋)劉辰翁</persName><persName type="9">liu chen
                            weng</persName></author>
                   </msItem>
                </msContents>

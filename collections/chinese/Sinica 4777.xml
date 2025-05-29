@@ -51,7 +51,7 @@
                      <title source="#200">魏稼孫先生全集</title>
                      <title source="#200|9">wei jia sun xian sheng quan ji</title>
                      <note source="#290">(清)魏錫會撰</note>
-                     <author source="#300"><persName>(清)魏錫會</persName><persName type="9">wei xi
+                     <author source="#300" key="person_6330"><persName>(清)魏錫會</persName><persName type="9">wei xi
                            hui</persName></author>
                      <note source="#409">清光緒癸未[1883]羊城刊本</note>
                      <msItem n="1">
@@ -59,7 +59,7 @@
                         <title source="9">ji yu tang bei lu</title>
                         <title type="variant">非見齋碑錄</title>
                         <title source="9" type="variant">fei jian zhai bei lu</title>
-                        <author><persName>(清)魏錫會</persName><persName type="9">wei xi
+                        <author key="person_6330"><persName>(清)魏錫會</persName><persName type="9">wei xi
                            hui</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20060801/11:27:42|odh -->
@@ -70,7 +70,7 @@
                      <msItem n="2">
                         <title>績語堂題跋 ^一卷^</title>
                         <title source="9">ji yu tang ti ba</title>
-                        <author><persName>(清)魏錫會</persName><persName type="9">wei xi
+                        <author key="person_6330"><persName>(清)魏錫會</persName><persName type="9">wei xi
                            hui</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20060801/11:28:37|odh -->
@@ -79,7 +79,7 @@
                      <msItem n="3">
                         <title>績語堂詩集 ^一卷^</title>
                         <title source="9">ji yu tang shi ji</title>
-                        <author><persName>(清)魏錫會</persName><persName type="9">wei xi
+                        <author key="person_6330"><persName>(清)魏錫會</persName><persName type="9">wei xi
                            hui</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20060801/11:28:55|odh -->
@@ -88,7 +88,7 @@
                      <msItem n="4">
                         <title>績語堂文集 ^一卷^</title>
                         <title source="9">ji yu tang wen ji</title>
-                        <author><persName>(清)魏錫會</persName><persName type="9">wei xi
+                        <author key="person_6330"><persName>(清)魏錫會</persName><persName type="9">wei xi
                            hui</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20060801/11:29:17|odh -->

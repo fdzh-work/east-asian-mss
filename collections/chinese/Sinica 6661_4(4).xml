@@ -55,7 +55,7 @@
                      <title source="#200">^附^ 律詩定體 ^一卷^</title>
                      <title source="#200|9">lu shi ding ti</title>
                      <note source="#290">(清)王士禛撰</note>
-                     <author source="#300"><persName>(清)王士禛</persName><persName type="9">wang shi
+                     <author source="#300" key="person_5032"><persName>(清)王士禛</persName><persName type="9">wang shi
                            zhen</persName></author>
                      <note source="#600">光緒甲午[1894]刊</note>
                   </msItem>
@@ -64,9 +64,9 @@
                      <title source="#201|9">ran deng ji wen</title>
                      <note source="#291">(清)王士禛述</note>
                      <note source="#291">(清)何世璂錄</note>
-                     <author source="#301"><persName>(清)王士禛</persName><persName type="9">wang shi
+                     <author source="#301" key="person_5032"><persName>(清)王士禛</persName><persName type="9">wang shi
                            zhen</persName></author>
-                     <author source="#301"><persName>(清)何世璂</persName><persName type="9">he shi
+                     <author source="#301" key="person_3296"><persName>(清)何世璂</persName><persName type="9">he shi
                            qi</persName></author>
                   </msItem>
                </msContents>

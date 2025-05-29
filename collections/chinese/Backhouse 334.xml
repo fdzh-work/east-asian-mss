@@ -51,7 +51,7 @@
                      <title source="#200">資治通鑑綱目全書</title>
                      <title source="#200|9">zi zhi tong jian gang mu quan shu</title>
                      <note source="#290">(明)陳仁錫評</note>
-                     <author source="#300"><persName>(明)陳仁錫</persName><persName type="9">chen ren
+                     <author source="#300" key="person_2701"><persName>(明)陳仁錫</persName><persName type="9">chen ren
                            xi</persName></author>
                      <note source="#409">明末刊本</note>
                      <msItem n="1">
@@ -65,21 +65,21 @@
                         <note source="290">(元)王幼學集覽</note>
                         <note source="290">(明)陳濟正誤</note>
                         <note source="290">(明)馮智舒質實</note>
-                        <author><persName>(宋)朱熹</persName><persName type="9">zhu
+                        <author key="person_1250"><persName>(宋)朱熹</persName><persName type="9">zhu
                            xi</persName></author>
-                        <author><persName>(宋)尹起莘</persName><persName type="9">yin qi
+                        <author key="person_1126"><persName>(宋)尹起莘</persName><persName type="9">yin qi
                            xin</persName></author>
-                        <author><persName>(元)劉友益</persName><persName type="9">liu you
+                        <author key="person_63"><persName>(元)劉友益</persName><persName type="9">liu you
                            yi</persName></author>
-                        <author><persName>(元)汪克寬</persName><persName type="9">wang ke
+                        <author key="person_187"><persName>(元)汪克寬</persName><persName type="9">wang ke
                               kuan</persName></author>
-                        <author><persName>(元)徐文昭</persName><persName type="9">xu wen
+                        <author key="person_125"><persName>(元)徐文昭</persName><persName type="9">xu wen
                            zhao</persName></author>
-                        <author><persName>(元)王幼學</persName><persName type="9">wang you
+                        <author key="person_212"><persName>(元)王幼學</persName><persName type="9">wang you
                               xue</persName></author>
-                        <author><persName>(明)陳濟</persName><persName type="9">chen
+                        <author key="person_2719"><persName>(明)陳濟</persName><persName type="9">chen
                            ji</persName></author>
-                        <author><persName>(明)馮智舒</persName><persName type="9">feng zhi
+                        <author key="person_2791"><persName>(明)馮智舒</persName><persName type="9">feng zhi
                               shu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20030305/13:24:29|odh -->
@@ -92,7 +92,7 @@
                         <title>資治通鑑綱目前編 ^二十五卷^</title>
                         <title source="9">zi zhi tong jian gang mu qian bian</title>
                         <note source="290">(明)南軒撰</note>
-                        <author><persName>(明)南軒</persName><persName type="9">nan
+                        <author key="person_2045"><persName>(明)南軒</persName><persName type="9">nan
                            xuan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20030305/13:26:00|odh -->
@@ -104,11 +104,11 @@
                         <note source="290">(明)商輅等奉敕撰</note>
                         <note source="290">(明)周禮發明</note>
                         <note source="290">(明)張時泰廣義</note>
-                        <author><persName>(明)商輅</persName><persName type="9">shang
+                        <author key="person_2107"><persName>(明)商輅</persName><persName type="9">shang
                            lu</persName></author>
-                        <author><persName>(明)周禮</persName><persName type="9">zhou
+                        <author key="person_2096"><persName>(明)周禮</persName><persName type="9">zhou
                            li</persName></author>
-                        <author><persName>(明)張時泰</persName><persName type="9">zhang shi
+                        <author key="person_2184"><persName>(明)張時泰</persName><persName type="9">zhang shi
                               tai</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20030305/13:27:31|odh -->

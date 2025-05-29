@@ -54,9 +54,9 @@
                      <title source="#200|9">xiao xue gou chen</title>
                      <note source="#290">(清)任大椿撰</note>
                      <note source="#290">(清)王念孫校正</note>
-                     <author source="#300"><persName>(清)任大椿</persName><persName type="9">ren da
+                     <author source="#300" key="person_3286"><persName>(清)任大椿</persName><persName type="9">ren da
                            chun</persName></author>
-                     <author source="#300"><persName>(清)王念孫</persName><persName type="9">wang nian
+                     <author source="#300" key="person_5076"><persName>(清)王念孫</persName><persName type="9">wang nian
                            sun</persName></author>
                      <note source="#600">光緒十年[1884]刊</note>
                   </msItem>
@@ -64,7 +64,7 @@
                      <title source="#201">^附^ 三蒼攷逸補正 ^一卷^</title>
                      <title source="#201|9">san cang kao yi bu zheng</title>
                      <note source="#291">(清)任兆麟撰</note>
-                     <author source="#301"><persName>(清)任兆麟</persName><persName type="9">ren zhao
+                     <author source="#301" key="person_3283"><persName>(清)任兆麟</persName><persName type="9">ren zhao
                            lin</persName></author>
                   </msItem>
                </msContents>

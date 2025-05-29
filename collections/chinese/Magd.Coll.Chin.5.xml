@@ -56,11 +56,11 @@
                         <title source="9">yi jing da quan hui jie</title>
                         <note source="290">(清)來爾繩纂輯</note>
                         <note source="290">(清)朱采治, (清)朱之澄編訂</note>
-                        <author><persName>(清)來爾繩</persName><persName type="9">lai er
+                        <author key="person_3346"><persName>(清)來爾繩</persName><persName type="9">lai er
                               sheng</persName></author>
-                        <author><persName>(清)朱采治</persName><persName type="9">zhu cai
+                        <author key="person_4434"><persName>(清)朱采治</persName><persName type="9">zhu cai
                            zhi</persName></author>
-                        <author><persName>(清)朱之澄</persName><persName type="9">zhu zhi
+                        <author key="person_4378"><persName>(清)朱之澄</persName><persName type="9">zhu zhi
                               cheng</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000901/14:08:47|odh -->
@@ -74,9 +74,9 @@
                         <title source="9">chong ding shi jing yan yi ti zhu da quan</title>
                         <note source="290">(清)黃坤五手定</note>
                         <note source="290">(清)江晉雲輯著</note>
-                        <author><persName>(清)黃坤五</persName><persName type="9">huang kun
+                        <author key="person_6368"><persName>(清)黃坤五</persName><persName type="9">huang kun
                               wu</persName></author>
-                        <author><persName>(清)江晉雲</persName><persName type="9">jiang jin
+                        <author key="person_4763"><persName>(清)江晉雲</persName><persName type="9">jiang jin
                               yun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000901/14:16:10|odh -->
@@ -90,9 +90,9 @@
                         <title source="9">xin ke shu jing ti zhu</title>
                         <note source="290">(清)顧且庵鑒定</note>
                         <note source="290">(清)范翔參訂</note>
-                        <author><persName>(清)顧且庵</persName><persName type="9">gu qie
+                        <author key="person_6209"><persName>(清)顧且庵</persName><persName type="9">gu qie
                            an</persName></author>
-                        <author><persName>(清)范翔</persName><persName type="9">fan
+                        <author key="person_5422"><persName>(清)范翔</persName><persName type="9">fan
                            xiang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000901/14:19:58|odh -->
@@ -107,11 +107,11 @@
                         <note source="290">(清)范翔原定</note>
                         <note source="290">(清)徐且參訂</note>
                         <note source="290">(清)徐瑄補輯</note>
-                        <author><persName>(清)范翔</persName><persName type="9">fan
+                        <author key="person_5422"><persName>(清)范翔</persName><persName type="9">fan
                            xiang</persName></author>
-                        <author><persName>(清)徐且</persName><persName type="9">xu
+                        <author key="person_4152"><persName>(清)徐且</persName><persName type="9">xu
                            qie</persName></author>
-                        <author><persName>(清)徐瑄</persName><persName type="9">xu
+                        <author key="person_4216"><persName>(清)徐瑄</persName><persName type="9">xu
                            xuan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000901/14:24:48|odh -->
@@ -125,9 +125,9 @@
                         <title source="9">chun qiu ti zhu da quan he can</title>
                         <note source="290">(清)范翔鑒定</note>
                         <note source="290">(清)周熾纂輯</note>
-                        <author><persName>(清)范翔</persName><persName type="9">fan
+                        <author key="person_5422"><persName>(清)范翔</persName><persName type="9">fan
                            xiang</persName></author>
-                        <author><persName>(清)周熾</persName><persName type="9">zhou
+                        <author key="person_3709"><persName>(清)周熾</persName><persName type="9">zhou
                            chi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000901/14:27:53|odh -->

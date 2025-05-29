@@ -51,13 +51,13 @@
                   <msItem n="1">
                      <title source="#200">子史粹言</title>
                      <title source="#200|9">zi shi cui yan</title>
-                     <author source="#300"><persName>(清)丁晏</persName><persName type="9">ding
+                     <author source="#300" key="person_3254"><persName>(清)丁晏</persName><persName type="9">ding
                            yan</persName></author>
                      <note source="#600">道光丙午[1846]頤志齋刊</note>
                      <msItem n="1">
                         <title>諸子粹言 ^一卷^</title>
                         <title source="9">zhu zi cui yan</title>
-                        <author><persName>(清)丁晏</persName><persName type="9">ding
+                        <author key="person_3254"><persName>(清)丁晏</persName><persName type="9">ding
                            yan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180729/00000042|odh -->
@@ -66,7 +66,7 @@
                      <msItem n="2">
                         <title>讀史粹言 ^一卷^</title>
                         <title source="9">zhu shi cui yan</title>
-                        <author><persName>(清)丁晏</persName><persName type="9">ding
+                        <author key="person_3254"><persName>(清)丁晏</persName><persName type="9">ding
                            yan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180729/00000043|odh -->

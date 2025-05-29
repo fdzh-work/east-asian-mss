@@ -56,7 +56,7 @@
                         <title>周易 ^四卷^</title>
                         <title source="9">zhou yi</title>
                         <note source="290">(宋)朱熹本義</note>
-                        <author><persName>(宋)朱熹</persName><persName type="9">zhu
+                        <author key="person_1250"><persName>(宋)朱熹</persName><persName type="9">zhu
                            xi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00001190|ons -->
@@ -69,7 +69,7 @@
                         <title>書經 ^六卷^</title>
                         <title source="9">shu jing</title>
                         <note source="290">(宋)蔡沈集傳</note>
-                        <author><persName>(宋)蔡沈</persName><persName type="9">cai
+                        <author key="person_1572"><persName>(宋)蔡沈</persName><persName type="9">cai
                            shen</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00001191|ons -->
@@ -82,7 +82,7 @@
                         <title>詩經 ^八卷^</title>
                         <title source="9">shi jing</title>
                         <note source="290">(宋)朱熹傳</note>
-                        <author><persName>(宋)朱熹</persName><persName type="9">zhu
+                        <author key="person_1250"><persName>(宋)朱熹</persName><persName type="9">zhu
                            xi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00001192|ons -->
@@ -95,7 +95,7 @@
                         <title>禮記 ^十卷^</title>
                         <title source="9">li ji</title>
                         <note source="290">(元)陳澔集說</note>
-                        <author><persName>(元)陳澔</persName><persName type="9">chen
+                        <author key="person_313"><persName>(元)陳澔</persName><persName type="9">chen
                            hao</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00001193|ons -->
@@ -108,7 +108,7 @@
                         <title>春秋 ^三十卷^</title>
                         <title source="9">chun qiu</title>
                         <note source="290">(宋)胡安國傳</note>
-                        <author><persName>(宋)胡安國</persName><persName type="9">hu an
+                        <author key="person_1518"><persName>(宋)胡安國</persName><persName type="9">hu an
                            guo</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00001194|ons -->

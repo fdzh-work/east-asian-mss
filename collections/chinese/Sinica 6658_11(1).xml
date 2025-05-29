@@ -52,7 +52,7 @@
                      <title source="#200">諸經緯遺 ^一卷^</title>
                      <title source="#200|9">zhu jing wei yi</title>
                      <note source="#290">(清)劉學寵輯</note>
-                     <author source="#300"><persName>(清)劉學寵</persName><persName type="9">liu xue
+                     <author source="#300" key="person_3430"><persName>(清)劉學寵</persName><persName type="9">liu xue
                            chong</persName></author>
                      <msItem n="01">
                         <title>易川靈圖</title>
@@ -303,7 +303,7 @@
                         <title>易飛候</title>
                         <title source="9">yi fei hou</title>
                         <note source="290">(漢)京房撰</note>
-                        <author><persName>(漢)京房</persName><persName type="9">jing
+                        <author key="person_6476"><persName>(漢)京房</persName><persName type="9">jing
                            fang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180608/00000079|odh -->
@@ -313,7 +313,7 @@
                         <title>易洞林</title>
                         <title source="9">yi dong lin</title>
                         <note source="290">(晉)郭璞撰</note>
-                        <author><persName>(晉)郭璞</persName><persName type="9">guo
+                        <author key="person_2985"><persName>(晉)郭璞</persName><persName type="9">guo
                            pu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180608/00000080|odh -->
@@ -323,7 +323,7 @@
                         <title>春秋後語</title>
                         <title source="9">chun qiu hou yu</title>
                         <note source="290">(晉)孔衍撰</note>
-                        <author><persName>(晉)孔衍</persName><persName type="9">kong
+                        <author key="person_2874"><persName>(晉)孔衍</persName><persName type="9">kong
                            yan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180608/00000081|odh -->
@@ -333,7 +333,7 @@
                         <title>五經析疑</title>
                         <title source="9">wu jing xi yi</title>
                         <note source="290">(魏)邯鄲綽撰</note>
-                        <author><persName>(魏)邯鄲綽</persName><persName type="9">han dan
+                        <author key="person_6747"><persName>(魏)邯鄲綽</persName><persName type="9">han dan
                               chuo</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180608/00000082|odh -->

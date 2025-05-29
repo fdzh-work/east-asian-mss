@@ -53,12 +53,12 @@
                      <title source="#200">冬心畫題記 ^五種^</title>
                      <title source="#200|9">dong xin hua ti ji</title>
                      <note source="#290">(清)金農撰</note>
-                     <author source="#300"><persName>(清)金農</persName><persName type="9">jin
+                     <author source="#300" key="person_5897"><persName>(清)金農</persName><persName type="9">jin
                            nong</persName></author>
                      <msItem n="1">
                         <title>冬心先生畫竹題記 ^一卷^</title>
                         <title source="9">dong xin xian sheng hua zhu ti ji</title>
-                        <author><persName>(清)金農</persName><persName type="9">jin
+                        <author key="person_5897"><persName>(清)金農</persName><persName type="9">jin
                            nong</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180823/00000049|odh -->
@@ -67,7 +67,7 @@
                      <msItem n="2">
                         <title>冬心畫梅題記 ^一卷^</title>
                         <title source="9">dong xin hua mei ti ji</title>
-                        <author><persName>(清)金農</persName><persName type="9">jin
+                        <author key="person_5897"><persName>(清)金農</persName><persName type="9">jin
                            nong</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180823/00000050|odh -->
@@ -76,7 +76,7 @@
                      <msItem n="3">
                         <title>冬心畫馬題記 ^一卷^</title>
                         <title source="9">dong xin hua ma ti ji</title>
-                        <author><persName>(清)金農</persName><persName type="9">jin
+                        <author key="person_5897"><persName>(清)金農</persName><persName type="9">jin
                            nong</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180823/00000051|odh -->
@@ -85,7 +85,7 @@
                      <msItem n="4">
                         <title>冬心畫佛題記 ^一卷^</title>
                         <title source="9">dong xin hua fo ti ji</title>
-                        <author><persName>(清)金農</persName><persName type="9">jin
+                        <author key="person_5897"><persName>(清)金農</persName><persName type="9">jin
                            nong</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180823/00000052|odh -->
@@ -94,7 +94,7 @@
                      <msItem n="5">
                         <title>冬心自寫真題記 ^一卷^</title>
                         <title source="9">dong xin zi xie zhen ti ji</title>
-                        <author><persName>(清)金農</persName><persName type="9">jin
+                        <author key="person_5897"><persName>(清)金農</persName><persName type="9">jin
                            nong</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180823/00000053|odh -->

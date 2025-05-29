@@ -52,7 +52,7 @@
                      <title source="#200">湘中名賢遺集五種</title>
                      <title source="#200|9">xiang zhong ming xian yi ji wu zhong</title>
                      <note source="#290">(清)陳運溶輯</note>
-                     <author source="#300"><persName>(清)陳運溶</persName><persName type="9">chen yun
+                     <author source="#300" key="person_6111"><persName>(清)陳運溶</persName><persName type="9">chen yun
                            rong</persName></author>
                      <note source="#600">光緒庚子[1900]刊</note>
                   </msItem>
@@ -104,7 +104,7 @@
                         <title>蔣恭侯集 ^一卷^</title>
                         <title source="9">jiang gong hou ji</title>
                         <note source="290">(蜀)蔣琬撰</note>
-                        <author><persName>(蜀)蔣琬</persName><persName type="9">jiang
+                        <author key="person_6642"><persName>(蜀)蔣琬</persName><persName type="9">jiang
                            wan</persName></author>
                      </msItem>
                   </msContents>
@@ -131,7 +131,7 @@
                         <title>劉令君集 ^一卷^</title>
                         <title source="9">liu ling jun ji</title>
                         <note source="290">(蜀)劉巴撰</note>
-                        <author><persName>(蜀)劉巴</persName><persName type="9">liu
+                        <author key="person_6640"><persName>(蜀)劉巴</persName><persName type="9">liu
                            ba</persName></author>
                      </msItem>
                   </msContents>
@@ -158,7 +158,7 @@
                         <title>桓令君集 ^一卷^</title>
                         <title source="9">huan ling jun ji</title>
                         <note source="290">(魏)桓階撰</note>
-                        <author><persName>(魏)桓階</persName><persName type="9">huan
+                        <author key="person_6732"><persName>(魏)桓階</persName><persName type="9">huan
                            jie</persName></author>
                      </msItem>
                   </msContents>
@@ -185,7 +185,7 @@
                         <title>車太常集 ^一卷^</title>
                         <title source="9">ju tai chang ji</title>
                         <note source="290">(晉)車胤撰</note>
-                        <author><persName>(晉)車胤</persName><persName type="9">ju
+                        <author key="person_2983"><persName>(晉)車胤</persName><persName type="9">ju
                            yin</persName></author>
                      </msItem>
                   </msContents>
@@ -212,7 +212,7 @@
                         <title>谷儉集 ^一卷^</title>
                         <title source="9">gu jian ji</title>
                         <note source="290">(晉)谷儉撰</note>
-                        <author><persName>(晉)谷儉</persName><persName type="9">gu
+                        <author key="person_2981"><persName>(晉)谷儉</persName><persName type="9">gu
                            jian</persName></author>
                      </msItem>
                   </msContents>

@@ -54,9 +54,9 @@
                      <title source="#200|9">chu han chun qiu</title>
                      <note source="#290">(漢)陸賈撰</note>
                      <note source="#290">(清)茆泮林輯</note>
-                     <author source="#300"><persName>(漢)陸賈</persName><persName type="9">lu
+                     <author source="#300" key="person_6617"><persName>(漢)陸賈</persName><persName type="9">lu
                            jia</persName></author>
-                     <author source="#300"><persName>(清)茆泮林</persName><persName type="9">mao pan
+                     <author source="#300" key="person_5426"><persName>(清)茆泮林</persName><persName type="9">mao pan
                            lin</persName></author>
                      <note source="#600">光緒丙戌[1886]刊</note>
                   </msItem>
@@ -64,7 +64,7 @@
                      <title source="#201">楚漢春秋攷證 ^一卷^</title>
                      <title source="#201|9">chu han chun qiu kao zheng</title>
                      <note source="#291">(清)陳其榮撰</note>
-                     <author source="#301"><persName>(清)陳其榮</persName><persName type="9">chen qi
+                     <author source="#301" key="person_6012"><persName>(清)陳其榮</persName><persName type="9">chen qi
                            rong</persName></author>
                   </msItem>
                </msContents>

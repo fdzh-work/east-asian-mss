@@ -51,7 +51,7 @@
                      <title source="#200">益智圖</title>
                      <title source="#200|9">yi zhi tu</title>
                      <note source="#290">(清)童葉庚等撰</note>
-                     <author source="#300"><persName>(清)童葉庚</persName><persName type="9">tong ye
+                     <author source="#300" key="person_5294"><persName>(清)童葉庚</persName><persName type="9">tong ye
                            geng</persName></author>
                      <note source="#409">民國八年[1919]上海商務印書館五版本</note>
                      <editor source="#440" role="pbl"><persName>商務印書館</persName><persName type="9" role="pbl">shang wu yin shu guan</persName></editor>
@@ -59,7 +59,7 @@
                         <title>益智圖 ^二卷^</title>
                         <title source="9">yi zhi tu</title>
                         <note source="290">(清)童葉庚撰</note>
-                        <author><persName>(清)童葉庚</persName><persName type="9">tong ye
+                        <author key="person_5294"><persName>(清)童葉庚</persName><persName type="9">tong ye
                               geng</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20120608/13:27:26|odh -->
@@ -73,13 +73,13 @@
                         <title source="9">yi zhi xu tu</title>
                         <note source="290">(清)童昂, (清)童昶, (清)童晏撰</note>
                         <note source="290">(清)童葉庚編次</note>
-                        <author><persName>(清)童昂</persName><persName type="9">tong
+                        <author key="person_5291"><persName>(清)童昂</persName><persName type="9">tong
                            ang</persName></author>
-                        <author><persName>(清)童昶</persName><persName type="9">tong
+                        <author key="person_5292"><persName>(清)童昶</persName><persName type="9">tong
                            chang</persName></author>
-                        <author><persName>(清)童晏</persName><persName type="9">tong
+                        <author key="person_5293"><persName>(清)童晏</persName><persName type="9">tong
                            yan</persName></author>
-                        <author><persName>(清)童葉庚</persName><persName type="9">tong ye
+                        <author key="person_5294"><persName>(清)童葉庚</persName><persName type="9">tong ye
                               geng</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20120608/13:38:37|odh -->
@@ -92,7 +92,7 @@
                         <title>益智字圖 ^一卷^</title>
                         <title source="9">yi zhi zi tu</title>
                         <note source="290">(清)瑤華仙史撰</note>
-                        <author><persName>(清)瑤華仙史</persName><persName type="9">yao hua xian
+                        <author key="person_5177"><persName>(清)瑤華仙史</persName><persName type="9">yao hua xian
                               shi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20120608/13:41:43|odh -->
@@ -104,7 +104,7 @@
                         <title>益智燕几圖 ^二卷^</title>
                         <title source="9">yi zhi yan ji tu</title>
                         <note source="290">(清)童葉庚撰</note>
-                        <author><persName>(清)童葉庚</persName><persName type="9">tong ye
+                        <author key="person_5294"><persName>(清)童葉庚</persName><persName type="9">tong ye
                               geng</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20120608/13:51:55|odh -->

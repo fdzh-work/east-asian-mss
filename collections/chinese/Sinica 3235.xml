@@ -52,7 +52,7 @@
                      <title source="#200">遵義鄭徵君遺著</title>
                      <title source="#200|9">zun yi zheng zheng jun yi zhu</title>
                      <note source="#290">(清)鄭珍撰</note>
-                     <author source="#300"><persName>(清)鄭珍</persName><persName type="9">zheng
+                     <author source="#300" key="person_5861"><persName>(清)鄭珍</persName><persName type="9">zheng
                            zhen</persName></author>
                      <note source="#409">民國甲寅[1914]貴陽陳夔龍花近樓刊一九八四年[?]北京中國書店重印本</note>
                      <editor source="#440" role="pbl"><persName>花近樓</persName><persName type="9" role="pbl">hua jin lou</persName></editor>
@@ -60,7 +60,7 @@
                      <msItem n="1">
                         <title>巢經巢文集 ^六卷^</title>
                         <title source="9">chao jing chao wen ji</title>
-                        <author><persName>(清)鄭珍</persName><persName type="9">zheng
+                        <author key="person_5861"><persName>(清)鄭珍</persName><persName type="9">zheng
                            zhen</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20200206/11:41:08|odh -->
@@ -69,7 +69,7 @@
                      <msItem n="2">
                         <title>巢經巢詩集 ^九卷^</title>
                         <title source="9">chao jing chao shi ji</title>
-                        <author><persName>(清)鄭珍</persName><persName type="9">zheng
+                        <author key="person_5861"><persName>(清)鄭珍</persName><persName type="9">zheng
                            zhen</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20200206/11:42:10|odh -->
@@ -78,7 +78,7 @@
                      <msItem n="3">
                         <title>巢經巢詩後集 ^四卷^</title>
                         <title source="9">chao jing chao shi hou ji</title>
-                        <author><persName>(清)鄭珍</persName><persName type="9">zheng
+                        <author key="person_5861"><persName>(清)鄭珍</persName><persName type="9">zheng
                            zhen</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20200206/11:42:54|odh -->
@@ -87,7 +87,7 @@
                      <msItem n="4">
                         <title>巢經巢遺詩 ^一卷附錄一卷^</title>
                         <title source="9">chao jing chao yi shi</title>
-                        <author><persName>(清)鄭珍</persName><persName type="9">zheng
+                        <author key="person_5861"><persName>(清)鄭珍</persName><persName type="9">zheng
                            zhen</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20200206/11:44:19|odh -->
@@ -97,7 +97,7 @@
                         <title>屈廬詩稿 ^四卷^</title>
                         <title source="9">qu lu shi gao</title>
                         <note source="290">(清)鄭知同撰</note>
-                        <author><persName>(清)鄭知同</persName><persName type="9">zheng zhi
+                        <author key="person_5864"><persName>(清)鄭知同</persName><persName type="9">zheng zhi
                               tong</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20200206/11:46:50|odh -->

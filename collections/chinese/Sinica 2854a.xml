@@ -54,7 +54,7 @@
                      <title type="variant" source="#230">伯虎雜曲等三種</title>
                      <title source="#230|9" type="variant">bo hu za qu deng san zhong</title>
                      <note source="#290">(民國)盧前編</note>
-                     <author source="#300"><persName>(民國)盧前</persName><persName type="9">lu
+                     <author source="#300" key="person_3161"><persName>(民國)盧前</persName><persName type="9">lu
                            qian</persName></author>
                      <note source="#409">民國二十五年[1936]金陵盧氏刊1980年江蘇廣陵古籍刻印社重印本</note>
                      <editor source="#440" role="pbl"><persName>江蘇廣陵古籍刻印社</persName><persName type="9" role="pbl">jiang su guang ling gu ji ke yin
@@ -64,7 +64,7 @@
                         <title>伯虎雜曲 ^二卷^</title>
                         <title source="9">bo hu za qu</title>
                         <note source="290">(明)唐寅撰</note>
-                        <author><persName>(明)唐寅</persName><persName type="9">tang
+                        <author key="person_2103"><persName>(明)唐寅</persName><persName type="9">tang
                            yin</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150108/11:11:58|odh -->
@@ -75,7 +75,7 @@
                         <title>射陽先生曲存 ^一卷^</title>
                         <title source="9">she yang xian sheng qu cun</title>
                         <note source="290">(明)吳承恩撰</note>
-                        <author><persName>(明)吳承恩</persName><persName type="9">wu cheng
+                        <author key="person_2060"><persName>(明)吳承恩</persName><persName type="9">wu cheng
                            en</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150108/11:14:45|odh -->
@@ -85,7 +85,7 @@
                         <title>長春競辰樂府 ^一卷^</title>
                         <title source="9">chang chun jing chen yue fu</title>
                         <note source="290">(明)朱讓栩撰</note>
-                        <author><persName>(明)朱讓栩</persName><persName type="9">zhu rang
+                        <author key="person_2277"><persName>(明)朱讓栩</persName><persName type="9">zhu rang
                            xu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150108/11:15:48|odh -->

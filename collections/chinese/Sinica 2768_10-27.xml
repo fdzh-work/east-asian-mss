@@ -52,7 +52,7 @@
                      <title source="#200">音學五書 ^三十八卷^</title>
                      <title source="#200|9">yin xue wu shu</title>
                      <note source="#290">(清)顧炎武撰</note>
-                     <author source="#300"><persName>(清)顧炎武</persName><persName type="9">gu yan
+                     <author source="#300" key="person_6227"><persName>(清)顧炎武</persName><persName type="9">gu yan
                            wu</persName></author>
                      <note source="#600">民國二十二年[1933]刊</note>
                   </msItem>
@@ -100,7 +100,7 @@
                      <msItem>
                         <title>音論 ^三卷^</title>
                         <title source="9">yin lun</title>
-                        <author><persName>(清)顧炎武</persName><persName type="9">gu yan
+                        <author key="person_6227"><persName>(清)顧炎武</persName><persName type="9">gu yan
                            wu</persName></author>
                      </msItem>
                   </msContents>
@@ -126,7 +126,7 @@
                      <msItem>
                         <title>詩本音 ^十卷^</title>
                         <title source="9">shi ben yin</title>
-                        <author><persName>(清)顧炎武</persName><persName type="9">gu yan
+                        <author key="person_6227"><persName>(清)顧炎武</persName><persName type="9">gu yan
                            wu</persName></author>
                      </msItem>
                   </msContents>
@@ -152,7 +152,7 @@
                      <msItem>
                         <title>易音 ^三卷^</title>
                         <title source="9">yi yin</title>
-                        <author><persName>(清)顧炎武</persName><persName type="9">gu yan
+                        <author key="person_6227"><persName>(清)顧炎武</persName><persName type="9">gu yan
                            wu</persName></author>
                      </msItem>
                   </msContents>
@@ -178,7 +178,7 @@
                      <msItem>
                         <title>唐韻正 ^二十卷^</title>
                         <title source="9">tang yun zheng</title>
-                        <author><persName>(清)顧炎武</persName><persName type="9">gu yan
+                        <author key="person_6227"><persName>(清)顧炎武</persName><persName type="9">gu yan
                            wu</persName></author>
                      </msItem>
                   </msContents>
@@ -204,7 +204,7 @@
                      <msItem>
                         <title>古音表 ^二卷^</title>
                         <title source="9">gu yin biao</title>
-                        <author><persName>(清)顧炎武</persName><persName type="9">gu yan
+                        <author key="person_6227"><persName>(清)顧炎武</persName><persName type="9">gu yan
                            wu</persName></author>
                      </msItem>
                   </msContents>

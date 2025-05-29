@@ -54,7 +54,7 @@
                      <title source="#200">辭學指南 ^四卷附刻十三種^</title>
                      <title source="#200|9">ci xue zhi nan</title>
                      <note source="#290">(宋)王應麟撰</note>
-                     <author source="#300"><persName>(宋)王應麟</persName><persName type="9">wang ying
+                     <author source="#300" key="person_1423"><persName>(宋)王應麟</persName><persName type="9">wang ying
                            lin</persName></author>
                      <note source="#409">明正德元年[1506]至清乾隆五十六年[1791]間遞修補刊本</note>
                      <msItem n="1=附刻1">
@@ -112,11 +112,11 @@
                         <note source="290">(漢)史游撰</note>
                         <note source="290">(唐)顏師古注</note>
                         <note source="290">(宋)王應麟補注</note>
-                        <author><persName>(漢)史游</persName><persName type="9">shi
+                        <author key="person_6500"><persName>(漢)史游</persName><persName type="9">shi
                            you</persName></author>
-                        <author><persName>(唐)顏師古</persName><persName type="9">yan shi
+                        <author key="person_873"><persName>(唐)顏師古</persName><persName type="9">yan shi
                            gu</persName></author>
-                        <author><persName>(宋)王應麟</persName><persName type="9">wang ying
+                        <author key="person_1423"><persName>(宋)王應麟</persName><persName type="9">wang ying
                               lin</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00002197|ons -->
@@ -148,9 +148,9 @@
                         <title source="9">zhou yi zheng kang cheng zhu</title>
                         <note source="290">(漢)鄭玄撰</note>
                         <note source="290">(宋)王應麟輯</note>
-                        <author><persName>(漢)鄭玄</persName><persName type="9">zheng
+                        <author key="person_6609"><persName>(漢)鄭玄</persName><persName type="9">zheng
                            xuan</persName></author>
-                        <author><persName>(宋)王應麟</persName><persName type="9">wang ying
+                        <author key="person_1423"><persName>(宋)王應麟</persName><persName type="9">wang ying
                               lin</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00002201|ons -->

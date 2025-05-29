@@ -59,7 +59,7 @@
                         <title>史記志疑 ^三十六卷^</title>
                         <title source="9">shi ji zhi yi</title>
                         <note source="290">(清)梁玉繩撰</note>
-                        <author><persName>(清)梁玉繩</persName><persName type="9">liang yu
+                        <author key="person_4639"><persName>(清)梁玉繩</persName><persName type="9">liang yu
                               sheng</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150828/13:22:04|odh -->
@@ -69,7 +69,7 @@
                         <title>史表功比說 ^一卷^</title>
                         <title source="9">shi biao gong bi shuo</title>
                         <note source="290">(清)張錫瑜撰</note>
-                        <author><persName>(清)張錫瑜</persName><persName type="9">zhang xi
+                        <author key="person_4120"><persName>(清)張錫瑜</persName><persName type="9">zhang xi
                            yu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150828/13:23:22|odh -->
@@ -79,7 +79,7 @@
                         <title>史記天官書補目 ^一卷^</title>
                         <title source="9">shi ji tian guan shu bu mu</title>
                         <note source="290">(清)孫星衍撰</note>
-                        <author><persName>(清)孫星衍</persName><persName type="9">sun xing
+                        <author key="person_3855"><persName>(清)孫星衍</persName><persName type="9">sun xing
                               yan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150828/13:24:57|odh -->
@@ -89,7 +89,7 @@
                         <title>楚漢諸侯疆域志 ^三卷^</title>
                         <title source="9">chu han zhu hou jiang yu zhi</title>
                         <note source="290">(清)劉文淇撰</note>
-                        <author><persName>(清)劉文淇</persName><persName type="9">liu wen
+                        <author key="person_3446"><persName>(清)劉文淇</persName><persName type="9">liu wen
                            qi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150828/13:25:32|odh -->
@@ -99,7 +99,7 @@
                         <title>史漢駢枝 ^一卷^</title>
                         <title source="9">shi han pian zhi</title>
                         <note source="290">(清)成孺撰</note>
-                        <author><persName>(清)成孺</persName><persName type="9">cheng
+                        <author key="person_4257"><persName>(清)成孺</persName><persName type="9">cheng
                            ru</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150828/13:26:14|odh -->
@@ -109,7 +109,7 @@
                         <title>人表攷 ^九卷附錄一卷^</title>
                         <title source="9">ren biao kao</title>
                         <note source="290">(清)梁玉繩撰</note>
-                        <author><persName>(清)梁玉繩</persName><persName type="9">liang yu
+                        <author key="person_4639"><persName>(清)梁玉繩</persName><persName type="9">liang yu
                               sheng</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150828/13:27:04|odh -->
@@ -120,7 +120,7 @@
                         <title>漢書辨疑 ^二十二卷^</title>
                         <title source="9">han shu bian yi</title>
                         <note source="290">(清)錢大昭撰</note>
-                        <author><persName>(清)錢大昭</persName><persName type="9">qian da
+                        <author key="person_5918"><persName>(清)錢大昭</persName><persName type="9">qian da
                               zhao</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150828/13:28:03|odh -->
@@ -130,7 +130,7 @@
                         <title>漢書注校補 ^五十六卷^</title>
                         <title source="9">han shu zhu jiao bu</title>
                         <note source="290">(清)周壽昌撰</note>
-                        <author><persName>(清)周壽昌</persName><persName type="9">zhou shou
+                        <author key="person_3679"><persName>(清)周壽昌</persName><persName type="9">zhou shou
                               chang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150828/13:28:49|odh -->
@@ -140,7 +140,7 @@
                         <title>後漢書補表 ^八卷^</title>
                         <title source="9">hou han shu bu biao</title>
                         <note source="290">(清)錢大昭撰</note>
-                        <author><persName>(清)錢大昭</persName><persName type="9">qian da
+                        <author key="person_5918"><persName>(清)錢大昭</persName><persName type="9">qian da
                               zhao</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150828/13:29:24|odh -->
@@ -150,7 +150,7 @@
                         <title>補續漢書藝文志 ^一卷^</title>
                         <title source="9">bu xu han shu yi wen zhi</title>
                         <note source="290">(清)錢大昭撰</note>
-                        <author><persName>(清)錢大昭</persName><persName type="9">qian da
+                        <author key="person_5918"><persName>(清)錢大昭</persName><persName type="9">qian da
                               zhao</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150828/13:30:00|odh -->
@@ -160,7 +160,7 @@
                         <title>後漢書辨疑 ^十一卷^</title>
                         <title source="9">hou han shu bian yi</title>
                         <note source="290">(清)錢大昭撰</note>
-                        <author><persName>(清)錢大昭</persName><persName type="9">qian da
+                        <author key="person_5918"><persName>(清)錢大昭</persName><persName type="9">qian da
                               zhao</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150828/13:32:32|odh -->
@@ -170,7 +170,7 @@
                         <title>後漢郡國令長攷 ^一卷^</title>
                         <title source="9">hou han jun guo ling zhang kao</title>
                         <note source="290">(清)錢大昭撰</note>
-                        <author><persName>(清)錢大昭</persName><persName type="9">qian da
+                        <author key="person_5918"><persName>(清)錢大昭</persName><persName type="9">qian da
                               zhao</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150828/13:33:29|odh -->
@@ -181,7 +181,7 @@
                         <title>續後漢書辨疑 ^九卷^</title>
                         <title source="9">xu hou han shu bian yi</title>
                         <note source="290">(清)錢大昭撰</note>
-                        <author><persName>(清)錢大昭</persName><persName type="9">qian da
+                        <author key="person_5918"><persName>(清)錢大昭</persName><persName type="9">qian da
                               zhao</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150828/13:34:05|odh -->
@@ -191,7 +191,7 @@
                         <title>後漢書注補正 ^八卷^</title>
                         <title source="9">hou han shu zhu bu zheng</title>
                         <note source="290">(清)周壽昌撰</note>
-                        <author><persName>(清)周壽昌</persName><persName type="9">zhou shou
+                        <author key="person_3679"><persName>(清)周壽昌</persName><persName type="9">zhou shou
                               chang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150828/13:34:35|odh -->
@@ -201,7 +201,7 @@
                         <title>後漢書注又補 ^一卷^</title>
                         <title source="9">hou han shu zhu you bu</title>
                         <note source="290">(清)沈銘彝撰</note>
-                        <author><persName>(清)沈銘彝</persName><persName type="9">shen ming
+                        <author key="person_4903"><persName>(清)沈銘彝</persName><persName type="9">shen ming
                               yi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150828/13:37:19|odh -->
@@ -211,7 +211,7 @@
                         <title>後漢書補注續 ^一卷^</title>
                         <title source="9">hou han shu bu zhu xu</title>
                         <note source="290">(清)侯康撰</note>
-                        <author><persName>(清)侯康</persName><persName type="9">hou
+                        <author key="person_3349"><persName>(清)侯康</persName><persName type="9">hou
                            kang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150828/13:38:12|odh -->
@@ -221,7 +221,7 @@
                         <title>三史拾遺 ^五卷^</title>
                         <title source="9">san shi shi yi</title>
                         <note source="290">(清)錢大昕撰</note>
-                        <author><persName>(清)錢大昕</persName><persName type="9">qian da
+                        <author key="person_5917"><persName>(清)錢大昕</persName><persName type="9">qian da
                            xin</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150828/13:39:01|odh -->
@@ -231,7 +231,7 @@
                         <title>補三國疆域志 ^二卷^</title>
                         <title source="9">bu san guo jiang yu zhi</title>
                         <note source="290">(清)洪亮吉撰</note>
-                        <author><persName>(清)洪亮吉</persName><persName type="9">hong liang
+                        <author key="person_4914"><persName>(清)洪亮吉</persName><persName type="9">hong liang
                               ji</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150828/13:39:30|odh -->
@@ -241,7 +241,7 @@
                         <title>補三史藝文志 ^一卷^</title>
                         <title source="9">bu san shi yi wen zhi</title>
                         <note source="290">(清)金門詔撰</note>
-                        <author><persName>(清)金門詔</persName><persName type="9">jin men
+                        <author key="person_5901"><persName>(清)金門詔</persName><persName type="9">jin men
                               zhao</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150828/13:39:59|odh -->
@@ -251,7 +251,7 @@
                         <title>三國志辨疑 ^三卷^</title>
                         <title source="9">san guo zhi bian yi</title>
                         <note source="290">(清)錢大昭撰</note>
-                        <author><persName>(清)錢大昭</persName><persName type="9">qian da
+                        <author key="person_5918"><persName>(清)錢大昭</persName><persName type="9">qian da
                               zhao</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150828/13:40:27|odh -->
@@ -261,7 +261,7 @@
                         <title>三國志攷證 ^八卷^</title>
                         <title source="9">san guo zhi kao zheng</title>
                         <note source="290">(清)潘眉撰</note>
-                        <author><persName>(清)潘眉</persName><persName type="9">pan
+                        <author key="person_4970"><persName>(清)潘眉</persName><persName type="9">pan
                            mei</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150828/13:41:08|odh -->
@@ -272,7 +272,7 @@
                         <title>三國志旁證 ^三十卷^</title>
                         <title source="9">san guo zhi pang zheng</title>
                         <note source="290">(清)梁章鉅撰</note>
-                        <author><persName>(清)梁章鉅</persName><persName type="9">liang zhang
+                        <author key="person_4640"><persName>(清)梁章鉅</persName><persName type="9">liang zhang
                               ju</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150828/13:41:54|odh -->
@@ -282,7 +282,7 @@
                         <title>三國職官表 ^三卷^</title>
                         <title source="9">san guo zhi guan biao</title>
                         <note source="290">(清)洪飴孫撰</note>
-                        <author><persName>(清)洪飴孫</persName><persName type="9">hong yi
+                        <author key="person_4927"><persName>(清)洪飴孫</persName><persName type="9">hong yi
                            sun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150828/13:42:24|odh -->
@@ -292,7 +292,7 @@
                         <title>三國志補注續 ^一卷^</title>
                         <title source="9">san guo zhi bu zhu xu</title>
                         <note source="290">(清)侯康撰</note>
-                        <author><persName>(清)侯康</persName><persName type="9">hou
+                        <author key="person_3349"><persName>(清)侯康</persName><persName type="9">hou
                            kang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150828/13:42:56|odh -->
@@ -302,7 +302,7 @@
                         <title>補三國藝文志 ^四卷^</title>
                         <title source="9">bu san guo yi wen zhi</title>
                         <note source="290">(清)侯康撰</note>
-                        <author><persName>(清)侯康</persName><persName type="9">hou
+                        <author key="person_3349"><persName>(清)侯康</persName><persName type="9">hou
                            kang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150828/13:43:35|odh -->
@@ -314,9 +314,9 @@
                         <title source="9">song liao jin yuan si shi shuo run kao</title>
                         <note source="290">(清)錢大昕撰</note>
                         <note source="290">(清)錢侗增補</note>
-                        <author><persName>(清)錢大昕</persName><persName type="9">qian da
+                        <author key="person_5917"><persName>(清)錢大昕</persName><persName type="9">qian da
                            xin</persName></author>
-                        <author><persName>(清)錢侗</persName><persName type="9">qian
+                        <author key="person_5909"><persName>(清)錢侗</persName><persName type="9">qian
                            tong</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150828/13:45:15|odh -->
@@ -326,7 +326,7 @@
                         <title>晉書校勘記 ^五卷^</title>
                         <title source="9">jin shu jiao kan ji</title>
                         <note source="290">(清)周家祿撰</note>
-                        <author><persName>(清)周家祿</persName><persName type="9">zhou jia
+                        <author key="person_3685"><persName>(清)周家祿</persName><persName type="9">zhou jia
                            lu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150828/13:46:28|odh -->
@@ -336,7 +336,7 @@
                         <title>東晉疆域志 ^四卷^</title>
                         <title source="9">dong jin jiang yu zhi</title>
                         <note source="290">(清)洪亮吉撰</note>
-                        <author><persName>(清)洪亮吉</persName><persName type="9">hong liang
+                        <author key="person_4914"><persName>(清)洪亮吉</persName><persName type="9">hong liang
                               ji</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150828/13:47:27|odh -->
@@ -346,7 +346,7 @@
                         <title>補晉兵志 ^一卷^</title>
                         <title source="9">bu jin bing zhi</title>
                         <note source="290">(清)錢儀吉撰</note>
-                        <author><persName>(清)錢儀吉</persName><persName type="9">qian yi
+                        <author key="person_5911"><persName>(清)錢儀吉</persName><persName type="9">qian yi
                            ji</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150828/13:47:59|odh -->
@@ -356,7 +356,7 @@
                         <title>晉宋書故 ^一卷^</title>
                         <title source="9">jin song shu gu</title>
                         <note source="290">(清)郝懿行撰</note>
-                        <author><persName>(清)郝懿行</persName><persName type="9">hao yi
+                        <author key="person_5785"><persName>(清)郝懿行</persName><persName type="9">hao yi
                            xing</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150828/13:48:26|odh -->
@@ -366,7 +366,7 @@
                         <title>補梁疆域志 ^四卷^</title>
                         <title source="9">bu liang jiang yu zhi</title>
                         <note source="290">(清)洪齮孫撰</note>
-                        <author><persName>(清)洪齮孫</persName><persName type="9">hong yi
+                        <author key="person_4928"><persName>(清)洪齮孫</persName><persName type="9">hong yi
                            sun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150828/13:49:28|odh -->
@@ -377,7 +377,7 @@
                         <title>魏書校勘記 ^一卷^</title>
                         <title source="9">wei shu jiao kan ji</title>
                         <note source="290">(清)王先謙撰</note>
-                        <author><persName>(清)王先謙</persName><persName type="9">wang xian
+                        <author key="person_5014"><persName>(清)王先謙</persName><persName type="9">wang xian
                               qian</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150828/13:50:17|odh -->
@@ -387,7 +387,7 @@
                         <title>新舊唐書互證 ^二十卷^</title>
                         <title source="9">xin jiu tang shu hu zheng</title>
                         <note source="290">(清)趙紹祖撰</note>
-                        <author><persName>(清)趙紹祖</persName><persName type="9">zhao shao
+                        <author key="person_5745"><persName>(清)趙紹祖</persName><persName type="9">zhao shao
                               zu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150828/13:50:57|odh -->
@@ -397,7 +397,7 @@
                         <title>宋州郡志校勘記 ^一卷^</title>
                         <title source="9">song zhou jun zhi jiao kan ji</title>
                         <note source="290">(清)成孺撰</note>
-                        <author><persName>(清)成孺</persName><persName type="9">cheng
+                        <author key="person_4257"><persName>(清)成孺</persName><persName type="9">cheng
                            ru</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150828/13:53:29|odh -->
@@ -408,11 +408,11 @@
                         <title source="9">song shi yi wen zhi bu</title>
                         <note source="290">(清)黃虞稷, (清)倪燦撰</note>
                         <note source="290">(清)盧文弨錄</note>
-                        <author><persName>(清)黃虞稷</persName><persName type="9">huang yu
+                        <author key="person_6410"><persName>(清)黃虞稷</persName><persName type="9">huang yu
                            ji</persName></author>
-                        <author><persName>(清)倪燦</persName><persName type="9">ni
+                        <author key="person_3369"><persName>(清)倪燦</persName><persName type="9">ni
                            can</persName></author>
-                        <author><persName>(清)盧文弨</persName><persName type="9">lu wen
+                        <author key="person_5212"><persName>(清)盧文弨</persName><persName type="9">lu wen
                            chao</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150828/13:54:20|odh -->
@@ -422,7 +422,7 @@
                         <title>補宋書刑法志 ^一卷^</title>
                         <title source="9">bu song shu xing fa zhi</title>
                         <note source="290">(清)郝懿行撰</note>
-                        <author><persName>(清)郝懿行</persName><persName type="9">hao yi
+                        <author key="person_5785"><persName>(清)郝懿行</persName><persName type="9">hao yi
                            xing</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150828/13:54:54|odh -->
@@ -432,7 +432,7 @@
                         <title>補宋書食貨志 ^一卷^</title>
                         <title source="9">bu song shu shi huo zhi</title>
                         <note source="290">(清)郝懿行撰</note>
-                        <author><persName>(清)郝懿行</persName><persName type="9">hao yi
+                        <author key="person_5785"><persName>(清)郝懿行</persName><persName type="9">hao yi
                            xing</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150828/13:55:16|odh -->
@@ -443,9 +443,9 @@
                         <title source="9">bu liao jin yuan yi wen zhi</title>
                         <note source="290">(清)倪燦撰</note>
                         <note source="290">(清)盧文弨錄</note>
-                        <author><persName>(清)倪燦</persName><persName type="9">ni
+                        <author key="person_3369"><persName>(清)倪燦</persName><persName type="9">ni
                            can</persName></author>
-                        <author><persName>(清)盧文弨</persName><persName type="9">lu wen
+                        <author key="person_5212"><persName>(清)盧文弨</persName><persName type="9">lu wen
                            chao</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150828/13:57:45|odh -->
@@ -455,7 +455,7 @@
                         <title>十六國疆域志 ^十六卷^</title>
                         <title source="9">shi liu guo jiang yu zhi</title>
                         <note source="290">(清)洪亮吉撰</note>
-                        <author><persName>(清)洪亮吉</persName><persName type="9">hong liang
+                        <author key="person_4914"><persName>(清)洪亮吉</persName><persName type="9">hong liang
                               ji</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150828/13:58:28|odh -->
@@ -465,7 +465,7 @@
                         <title>補五代史藝文志 ^一卷^</title>
                         <title source="9">bu wu dai shi yi wen zhi</title>
                         <note source="290">(清)顧櫰三撰</note>
-                        <author><persName>(清)顧櫰三</persName><persName type="9">gu huai
+                        <author key="person_6224"><persName>(清)顧櫰三</persName><persName type="9">gu huai
                            san</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150828/13:59:01|odh -->
@@ -475,7 +475,7 @@
                         <title>讀史舉正 ^八卷^</title>
                         <title source="9">du shi ju zheng</title>
                         <note source="290">(清)張熷撰</note>
-                        <author><persName>(清)張熷</persName><persName type="9">zhang
+                        <author key="person_4066"><persName>(清)張熷</persName><persName type="9">zhang
                            zeng</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150828/13:59:40|odh -->
@@ -485,7 +485,7 @@
                         <title>諸史拾遺 ^五卷^</title>
                         <title source="9">zhu shi shi yi</title>
                         <note source="290">(清)錢大昕撰</note>
-                        <author><persName>(清)錢大昕</persName><persName type="9">qian da
+                        <author key="person_5917"><persName>(清)錢大昕</persName><persName type="9">qian da
                            xin</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150828/14:00:15|odh -->
@@ -495,7 +495,7 @@
                         <title>諸史考異 ^十八卷^</title>
                         <title source="9">zhu shi kao yi</title>
                         <note source="290">(清)洪頤煊撰</note>
-                        <author><persName>(清)洪頤煊</persName><persName type="9">hong yi
+                        <author key="person_4926"><persName>(清)洪頤煊</persName><persName type="9">hong yi
                               xuan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150828/14:01:02|odh -->

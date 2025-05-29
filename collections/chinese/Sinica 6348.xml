@@ -54,14 +54,14 @@
                      <title type="variant" source="#230">山左人詞</title>
                      <title source="#230|9" type="variant">shan zuo ren ci</title>
                      <note source="#290">(清)吳重熹輯</note>
-                     <author source="#300"><persName>(清)吳重熹</persName><persName type="9">wu chong
+                     <author source="#300" key="person_3632"><persName>(清)吳重熹</persName><persName type="9">wu chong
                            xi</persName></author>
                      <note source="#409">清光緒辛丑[1901]海豐吳氏金陵刊本</note>
                      <msItem n="1">
                         <title>樂章集 ^一卷^</title>
                         <title source="9">yue zhang ji</title>
                         <note source="290">(宋)柳永撰</note>
-                        <author><persName>(宋)柳永</persName><persName type="9">liu
+                        <author key="person_1322"><persName>(宋)柳永</persName><persName type="9">liu
                            yong</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150807/10:46:34|odh -->
@@ -71,7 +71,7 @@
                         <title>姑溪詞 ^三卷^</title>
                         <title source="9">gu xi ci</title>
                         <note source="290">(宋)李之儀撰</note>
-                        <author><persName>(宋)李之儀</persName><persName type="9">li zhi
+                        <author key="person_1260"><persName>(宋)李之儀</persName><persName type="9">li zhi
                            yi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150807/10:47:55|odh -->
@@ -91,7 +91,7 @@
                         <title>審齋詞 ^一卷^</title>
                         <title source="9">shen zhai ci</title>
                         <note source="290">(宋)王千秋撰</note>
-                        <author><persName>(宋)王千秋</persName><persName type="9">wang qian
+                        <author key="person_1412"><persName>(宋)王千秋</persName><persName type="9">wang qian
                               qiu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150807/10:50:05|odh -->
@@ -101,7 +101,7 @@
                         <title>孏窟詞 ^一卷^</title>
                         <title source="9">lan ku ci</title>
                         <note source="290">(宋)侯寘撰</note>
-                        <author><persName>(宋)侯寘</persName><persName type="9">hou
+                        <author key="person_944"><persName>(宋)侯寘</persName><persName type="9">hou
                            zhi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150807/10:52:05|odh -->
@@ -111,7 +111,7 @@
                         <title>拙庵詞 ^一卷^</title>
                         <title source="9">zhuo an ci</title>
                         <note source="290">(宋)趙磻老撰</note>
-                        <author><persName>(宋)趙磻老</persName><persName type="9">zhao pan
+                        <author key="person_1664"><persName>(宋)趙磻老</persName><persName type="9">zhao pan
                               lao</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150807/10:55:29|odh -->
@@ -121,7 +121,7 @@
                         <title>稼軒詞 ^十二卷^</title>
                         <title source="9">jia xuan ci</title>
                         <note source="290">(宋)辛棄疾撰</note>
-                        <author><persName>(宋)辛棄疾</persName><persName type="9">xin qi
+                        <author key="person_1678"><persName>(宋)辛棄疾</persName><persName type="9">xin qi
                            ji</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150807/11:05:31|odh -->
@@ -131,7 +131,7 @@
                         <title>草窗詞 ^二卷補二卷^</title>
                         <title source="9">cao chuang ci</title>
                         <note source="290">(宋)周密撰</note>
-                        <author><persName>(宋)周密</persName><persName type="9">zhou
+                        <author key="person_1060"><persName>(宋)周密</persName><persName type="9">zhou
                            mi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150807/11:10:21|odh -->
@@ -141,7 +141,7 @@
                         <title>漱玉詞 ^一卷補遺一卷附錄一卷^</title>
                         <title source="9">shu yu ci</title>
                         <note source="290">(宋)李清照撰</note>
-                        <author><persName>(宋)李清照</persName><persName type="9">li qing
+                        <author key="person_1287"><persName>(宋)李清照</persName><persName type="9">li qing
                               zhao</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150807/11:11:38|odh -->
@@ -151,7 +151,7 @@
                         <title>炊聞詞 ^二卷^</title>
                         <title source="9">chui wen ci</title>
                         <note source="290">(清)王士祿撰</note>
-                        <author><persName>(清)王士祿</persName><persName type="9">wang shi
+                        <author key="person_5031"><persName>(清)王士祿</persName><persName type="9">wang shi
                            lu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150807/11:12:47|odh -->
@@ -161,7 +161,7 @@
                         <title>衍波詞 ^二卷附一卷^</title>
                         <title source="9">yan bo ci</title>
                         <note source="290">(清)王士禛撰</note>
-                        <author><persName>(清)王士禛</persName><persName type="9">wang shi
+                        <author key="person_5032"><persName>(清)王士禛</persName><persName type="9">wang shi
                               zhen</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150807/11:15:04|odh -->
@@ -171,7 +171,7 @@
                         <title>二鄉亭詞 ^三卷^</title>
                         <title source="9">er xiang ting ci</title>
                         <note source="290">(清)宋琬撰</note>
-                        <author><persName>(清)宋琬</persName><persName type="9">song
+                        <author key="person_3901"><persName>(清)宋琬</persName><persName type="9">song
                            wan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150807/11:17:40|odh -->
@@ -181,7 +181,7 @@
                         <title>竹西詞 ^一卷^</title>
                         <title source="9">zhu xi ci</title>
                         <note source="290">(清)楊通佺撰</note>
-                        <author><persName>(清)楊通佺</persName><persName type="9">yang tong
+                        <author key="person_4705"><persName>(清)楊通佺</persName><persName type="9">yang tong
                               quan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150807/11:18:46|odh -->
@@ -191,7 +191,7 @@
                         <title>志壑堂詞 ^一卷^</title>
                         <title source="9">zhi huo tang ci</title>
                         <note source="290">(清)唐夢賚撰</note>
-                        <author><persName>(清)唐夢賚</persName><persName type="9">tang meng
+                        <author key="person_3733"><persName>(清)唐夢賚</persName><persName type="9">tang meng
                               lai</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150807/11:19:37|odh -->
@@ -201,7 +201,7 @@
                         <title>珂雪詞 ^二卷補遺一卷^</title>
                         <title source="9">ke xue ci</title>
                         <note source="290">(清)曹貞吉撰</note>
-                        <author><persName>(清)曹貞吉</persName><persName type="9">cao zhen
+                        <author key="person_4365"><persName>(清)曹貞吉</persName><persName type="9">cao zhen
                            ji</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150807/11:21:06|odh -->
@@ -211,7 +211,7 @@
                         <title>飴山詩餘 ^一卷^</title>
                         <title source="9">yi shan shi yu</title>
                         <note source="290">(清)趙執信撰</note>
-                        <author><persName>(清)趙執信</persName><persName type="9">zhao zhi
+                        <author key="person_5727"><persName>(清)趙執信</persName><persName type="9">zhao zhi
                               xin</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150807/11:22:21|odh -->
@@ -223,7 +223,7 @@
                         <title>^附^ 西圃詞說 ^一卷^</title>
                         <title source="9">xi pu ci shuo</title>
                         <note source="290">(清)田同之撰</note>
-                        <author><persName>(清)田同之</persName><persName type="9">tian tong
+                        <author key="person_5181"><persName>(清)田同之</persName><persName type="9">tian tong
                               zhi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150807/11:23:46|odh -->

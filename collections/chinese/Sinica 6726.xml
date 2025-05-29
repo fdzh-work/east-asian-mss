@@ -54,7 +54,7 @@
                      <title type="variant" source="#230">虞山潘氏叢書</title>
                      <title source="#230|9" type="variant">yu shan pan shi cong shu</title>
                      <note source="#290">(清)潘任撰</note>
-                     <author source="#300"><persName>(清)潘任</persName><persName type="9">pan
+                     <author source="#300" key="person_4962"><persName>(清)潘任</persName><persName type="9">pan
                            ren</persName></author>
                      <note source="#409">清光緒二十年[1894]木活字印本</note>
                      <note source="#600">版心題名《虞山潘氏叢書》</note>
@@ -63,9 +63,9 @@
                         <title source="9">zheng jun cui yan</title>
                         <note source="290">(漢)鄭玄撰</note>
                         <note source="290">(清)潘任編</note>
-                        <author><persName>(漢)鄭玄</persName><persName type="9">zheng
+                        <author key="person_6609"><persName>(漢)鄭玄</persName><persName type="9">zheng
                            xuan</persName></author>
-                        <author><persName>(清)潘任</persName><persName type="9">pan
+                        <author key="person_4962"><persName>(清)潘任</persName><persName type="9">pan
                            ren</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180815/00000021|odh -->
@@ -74,7 +74,7 @@
                      <msItem n="2">
                         <title>孝經鄭注攷證 ^一卷^</title>
                         <title source="9">xiao jing zheng zhu kao zheng</title>
-                        <author><persName>(清)潘任</persName><persName type="9">pan
+                        <author key="person_4962"><persName>(清)潘任</persName><persName type="9">pan
                            ren</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180815/00000022|odh -->
@@ -83,7 +83,7 @@
                      <msItem n="3">
                         <title>周禮札記 ^一卷^</title>
                         <title source="9">zhou li zha ji</title>
-                        <author><persName>(清)潘任</persName><persName type="9">pan
+                        <author key="person_4962"><persName>(清)潘任</persName><persName type="9">pan
                            ren</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180815/00000023|odh -->
@@ -92,7 +92,7 @@
                      <msItem n="4">
                         <title>雙桂軒答問 ^一卷^</title>
                         <title source="9">shuang gui xuan da wen</title>
-                        <author><persName>(清)潘任</persName><persName type="9">pan
+                        <author key="person_4962"><persName>(清)潘任</persName><persName type="9">pan
                            ren</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180815/00000024|odh -->
@@ -101,7 +101,7 @@
                      <msItem n="5">
                         <title>希鄭堂經義 ^一卷^</title>
                         <title source="9">xi zheng tang jing yi</title>
-                        <author><persName>(清)潘任</persName><persName type="9">pan
+                        <author key="person_4962"><persName>(清)潘任</persName><persName type="9">pan
                            ren</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180815/00000025|odh -->
@@ -110,7 +110,7 @@
                      <msItem n="6">
                         <title>說文粹言疏證 ^二卷^</title>
                         <title source="9">shuo wen cui yan shu zhang</title>
-                        <author><persName>(清)潘任</persName><persName type="9">pan
+                        <author key="person_4962"><persName>(清)潘任</persName><persName type="9">pan
                            ren</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180815/00000026|odh -->
@@ -119,7 +119,7 @@
                      <msItem n="7">
                         <title>博約齋經說 ^三卷^</title>
                         <title source="9">bo yue zhai jing shuo</title>
-                        <author><persName>(清)潘任</persName><persName type="9">pan
+                        <author key="person_4962"><persName>(清)潘任</persName><persName type="9">pan
                            ren</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180815/00000027|odh -->

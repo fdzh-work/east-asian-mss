@@ -52,7 +52,7 @@
                      <title source="#200">少室山房集 ^六十四卷^</title>
                      <title source="#200|9">shao shi shan fang ji</title>
                      <note source="#290">(明)胡應麟撰</note>
-                     <author source="#300"><persName>(明)胡應麟</persName><persName type="9">hu ying
+                     <author source="#300" key="person_2524"><persName>(明)胡應麟</persName><persName type="9">hu ying
                            lin</persName></author>
                      <note source="#600">光緒二十二年[1896]刊</note>
                   </msItem>
@@ -101,7 +101,7 @@
                         <title>少室山房筆叢 ^四十八卷^</title>
                         <title source="9">shao shi shan fang bi cong</title>
                         <note source="290">(明)胡應麟撰</note>
-                        <author><persName>(明)胡應麟</persName><persName type="9">hu ying
+                        <author key="person_2524"><persName>(明)胡應麟</persName><persName type="9">hu ying
                            lin</persName></author>
                      </msItem>
                   </msContents>
@@ -128,7 +128,7 @@
                         <title>詩藪 ^內編六卷外編四卷雜編六卷^</title>
                         <title source="9">shi sou</title>
                         <note source="290">(明)胡應麟撰</note>
-                        <author><persName>(明)胡應麟</persName><persName type="9">hu ying
+                        <author key="person_2524"><persName>(明)胡應麟</persName><persName type="9">hu ying
                            lin</persName></author>
                      </msItem>
                   </msContents>

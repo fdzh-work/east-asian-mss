@@ -52,7 +52,7 @@
                      <title source="#200">吳氏遺箸 ^五卷^</title>
                      <title source="#200|9">wu shi yi zhu</title>
                      <note source="#290">(清)吳夌雲撰</note>
-                     <author source="#300"><persName>(清)吳夌雲</persName><persName type="9">wu ling
+                     <author source="#300" key="person_3552"><persName>(清)吳夌雲</persName><persName type="9">wu ling
                            yun</persName></author>
                      <note source="#600">光緒十七年[1891]刊</note>
                   </msItem>
@@ -60,7 +60,7 @@
                      <title source="#201">吳氏遺箸附錄 ^一卷^</title>
                      <title source="#201|9">wu shi yi zhu fu lu</title>
                      <note source="#291">(清)王宗涑撰</note>
-                     <author source="#301"><persName>(清)王宗涑</persName><persName type="9">wang zong
+                     <author source="#301" key="person_5046"><persName>(清)王宗涑</persName><persName type="9">wang zong
                            su</persName></author>
                   </msItem>
                </msContents>
@@ -108,7 +108,7 @@
                         <title>經說 ^三卷^</title>
                         <title source="9">jing shuo</title>
                         <note source="290">(清)吳夌雲撰</note>
-                        <author><persName>(清)吳夌雲</persName><persName type="9">wu ling
+                        <author key="person_3552"><persName>(清)吳夌雲</persName><persName type="9">wu ling
                            yun</persName></author>
                      </msItem>
                   </msContents>
@@ -135,7 +135,7 @@
                         <title>小學說 ^一卷^</title>
                         <title source="9">xiao xue shuo</title>
                         <note source="290">(清)吳夌雲撰</note>
-                        <author><persName>(清)吳夌雲</persName><persName type="9">wu ling
+                        <author key="person_3552"><persName>(清)吳夌雲</persName><persName type="9">wu ling
                            yun</persName></author>
                      </msItem>
                   </msContents>
@@ -162,7 +162,7 @@
                         <title>廣韻說 ^一卷^</title>
                         <title source="9">guang yun shuo</title>
                         <note source="290">(清)吳夌雲撰</note>
-                        <author><persName>(清)吳夌雲</persName><persName type="9">wu ling
+                        <author key="person_3552"><persName>(清)吳夌雲</persName><persName type="9">wu ling
                            yun</persName></author>
                      </msItem>
                   </msContents>

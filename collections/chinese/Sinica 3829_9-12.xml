@@ -52,7 +52,7 @@
                      <title source="#200">金石三例再續編</title>
                      <title source="#200|9">jin shi san li zai xu bian</title>
                      <note source="#290">(清)朱記榮輯</note>
-                     <author source="#300"><persName>(清)朱記榮</persName><persName type="9">zhu ji
+                     <author source="#300" key="person_4430"><persName>(清)朱記榮</persName><persName type="9">zhu ji
                            rong</persName></author>
                   </msItem>
                </msContents>
@@ -127,7 +127,7 @@
                         <title>金石綜例 ^四卷^</title>
                         <title source="9">jin shi zong li</title>
                         <note source="290">(清)馮登府撰</note>
-                        <author><persName>(清)馮登府</persName><persName type="9">feng deng
+                        <author key="person_6284"><persName>(清)馮登府</persName><persName type="9">feng deng
                               fu</persName></author>
                         <note source="600">光緒十三年[1887]素草堂刊</note>
                      </msItem>
@@ -155,7 +155,7 @@
                         <title>石經閣金石跋文 ^一卷^</title>
                         <title source="9">shi jing ge jin shi ba wen</title>
                         <note source="290">(清)馮登府撰</note>
-                        <author><persName>(清)馮登府</persName><persName type="9">feng deng
+                        <author key="person_6284"><persName>(清)馮登府</persName><persName type="9">feng deng
                               fu</persName></author>
                         <note source="600">光緒十三年[1887]素草堂刊</note>
                      </msItem>
@@ -183,7 +183,7 @@
                         <title>金石稱例 ^四卷續一卷^</title>
                         <title source="9">jin shi cheng li</title>
                         <note source="290">(清)梁廷枏撰</note>
-                        <author><persName>(清)梁廷枏</persName><persName type="9">liang ting
+                        <author key="person_4635"><persName>(清)梁廷枏</persName><persName type="9">liang ting
                               nan</persName></author>
                         <note source="600">光緒十三年[1887]素草堂刊</note>
                      </msItem>

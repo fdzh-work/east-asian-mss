@@ -52,7 +52,7 @@
                      <title type="variant" source="#230">重訂楊園先生全集</title>
                      <title source="#230|9" type="variant">chong ding yang yuan xian quan ji</title>
                      <note source="#290">(清)張履祥撰</note>
-                     <author source="#300"><persName>(清)張履祥</persName><persName type="9">zhang lu
+                     <author source="#300" key="person_4008"><persName>(清)張履祥</persName><persName type="9">zhang lu
                            xiang</persName></author>
                      <note source="#409">清光緒辛未[1871]江蘇書局刊本</note>
                      <editor source="#440" role="pbl"><persName>江蘇書局</persName><persName type="9" role="pbl">jiang su shu ju</persName></editor>
@@ -62,7 +62,7 @@
                      <title source="#201">^附^ 張楊園先生年譜 ^一卷^</title>
                      <title source="#201|9">zhang yang yuan xian sheng nian pu</title>
                      <note source="#291">(清)蘇惇元撰</note>
-                     <author source="#301"><persName>(清)蘇惇元</persName><persName type="9">su dun
+                     <author source="#301" key="person_5603"><persName>(清)蘇惇元</persName><persName type="9">su dun
                            yuan</persName></author>
                   </msItem>
                </msContents>
