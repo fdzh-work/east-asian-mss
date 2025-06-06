@@ -237,7 +237,7 @@ declare variable $allinstances :=
                     let $link := concat($url, "|", $linktext, '|', string-join(for $role in $roles order by $role return $role, ', '))
                     order by $linktext
                     return
-                    <field name="link_manuscripts_smni">{ $link }</field>
+                    <field name="link_objects_smni">{ $link }</field>
                 }
                 {
                 (: Filter on which external authorities, if any, this person has been identified in :)

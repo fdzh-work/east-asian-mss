@@ -1,5 +1,6 @@
 import module namespace bod = "http://www.bodleian.ox.ac.uk/bdlss" at "lib/msdesc2solr.xquery";
-declare namespace tei="http://www.tei-c.org/ns/1.0";
+declare namespace map="http://www.w3.org/2005/xpath-functions/map";
+declare namespace tei = "http://www.tei-c.org/ns/1.0";
 declare option saxon:output "indent=yes";
 
 declare variable $collection := collection('../collections/?select=*.xml;recurse=yes');
@@ -29,7 +30,7 @@ declare function local:origin($countrykeyatts as attribute()*, $solrfield as xs:
 
 declare function local:workSubjects($workkeyatts as attribute()*, $solrfield as xs:string) as element()*
 {
-    (: Lookup works referenced in this manuscript in the works authority, to get the associated subject classifications :)
+    (: Lookup works referenced in this object in the works authority, to get the associated subject classifications :)
     let $workkeys as xs:string* := distinct-values(for $att in $workkeyatts return tokenize($att/data(), '\s+')[string-length() gt 0])
     let $worksubjectrefs as xs:string* := distinct-values($worksauthority/tei:TEI/tei:text/tei:body//tei:listBibl/tei:bibl[@xml:id = $workkeys]/tei:term[@ref]/tokenize(@ref, '\s*#')[string-length() gt 0])
     for $ref in $worksubjectrefs 
@@ -43,10 +44,10 @@ declare function local:buildSummaries($ms as document-node()) as xs:string*
         (: No summaries for stub records :)
         ()
     else if ($ms//tei:msDesc/(tei:head|tei:history/tei:origin|tei:msContents/tei:summary) or not($ms//tei:msPart/(tei:head|tei:history/tei:origin|tei:msContents/tei:summary))) then
-        (: For manuscripts without parts, or composite manuscripts with an overall head/summary/origin, index with a single summary :)
+        (: For objects without parts, or composite objects with an overall head/summary/origin, index with a single summary :)
         local:buildSummary($ms//tei:msDesc[1])
     else
-        (: For composite manuscripts, index a summary for each part (but only up to the first 15 parts) :)
+        (: For composite objects, index a summary for each part (but only up to the first 15 parts) :)
         (
         for $part in $ms//tei:msPart[count(preceding::tei:msPart) lt 10]
             return
@@ -117,9 +118,9 @@ declare function local:buildSummary($msdescorpart as element()) as xs:string
 };
 
 (: East Asian includes <lb> that need converting to <br> and retaining for display :)
-declare function local:convertlb($headfull as node()*) as xs:string {
+declare function local:convertlb($head as node()*) as xs:string {
   string-join(
-    for $node in $headfull
+    for $node in $head
     return
       if (name($node) = 'lb') then
         '<br/>'
@@ -129,6 +130,34 @@ declare function local:convertlb($headfull as node()*) as xs:string {
   )
 };
 
+(: East Asian term/subterm facet :)
+declare function local:objectTerms($terms as node()*, $solrfield as xs:string, $solrsuffix as xs:string) as element()* {
+    (: function body :)
+    let $outputnames := map { 
+        "term": 1,
+        "subterm" : 2
+    }   
+    let $complete_terms as element()* := (
+    for $term in $terms
+    return        
+        let $map := map {
+            'term': $term[starts-with(@key, "subject_")]/text(),
+            'subterm': $term[@key]/tei:term/text()
+        }
+        for $key in map:keys($map)
+        order by $term/text(), $outputnames($key)    
+        for $val in $map($key)
+        return
+            <field
+                name="{$solrfield}{$key}{$solrsuffix}"
+                type="{$key}">{$val}</field>  
+    )    
+    for $type in distinct-values($complete_terms/@type)
+    for $t in distinct-values($complete_terms[@type = $type]/text())
+    return
+        <field
+            name="{($complete_terms[@type = $type]/@name)[1]}">{$t}</field>
+};
 
 <add>
 {
@@ -138,7 +167,7 @@ declare function local:convertlb($headfull as node()*) as xs:string {
     let $msids := $collection/tei:TEI/@xml:id/data()
     return if (count($msids) ne count(distinct-values($msids))) then
         let $duplicateids := distinct-values(for $msid in $msids return if (count($msids[. eq $msid]) gt 1) then $msid else '')
-        return bod:logging('error', 'There are multiple manuscripts with the same xml:id in their root TEI elements', $duplicateids)
+        return bod:logging('error', 'There are multiple objects with the same xml:id in their root TEI elements', $duplicateids)
         
     else
         for $ms in $collection
@@ -162,7 +191,7 @@ declare function local:convertlb($headfull as node()*) as xs:string {
                         *ni = not indexed (except _tni fields which are copied to the fulltext index)
                 :)
                 return <doc>
-                    <field name="type">manuscript</field>
+                    <field name="type">object</field>
                     <field name="pk">{ $msid }</field>
                     <field name="id">{ $msid }</field>
                     { bod:one2one($mainshelfmark, 'title', 'error') }
@@ -184,13 +213,15 @@ declare function local:convertlb($headfull as node()*) as xs:string {
                     { local:origin($ms//tei:sourceDesc//tei:origPlace/tei:country/@key, 'ms_origin_sm') }
                     { bod:centuries($ms//tei:origin//tei:origDate, 'ms_date_sm') }
                     { local:workSubjects($ms//tei:msItem/tei:title/@key, 'wk_subjects_sm') }
+                    { local:objectTerms($ms//tei:profileDesc//tei:item/node(), 'ms_', '_sm') }
                     { bod:strings2many(local:buildSummaries($ms), 'ms_summary_sm') }
                     { bod:indexHTML($htmldoc, 'ms_textcontent_tni') }
                     { bod:displayHTML($htmldoc, 'display') }
-                    { bod:requesting($ms/tei:TEI) }
+                    { bod:requesting($ms/tei:TEI) }                    
+
                 </doc>
 
             else
-                bod:logging('warn', 'Cannot process manuscript without @xml:id for root TEI element', base-uri($ms))
+                bod:logging('warn', 'Cannot process object without @xml:id for root TEI element', base-uri($ms))
 }
 </add>

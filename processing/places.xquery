@@ -175,7 +175,7 @@ declare variable $allinstances :=
                 for $link in distinct-values($instances/link/text())
                     order by tokenize($link, '\|')[2]
                     return
-                    <field name="link_manuscripts_smni">{ $link }</field>
+                    <field name="link_objects_smni">{ $link }</field>
                 }
                 {
                 (: Filter on which external authorities, if any, this person has been identified in :)

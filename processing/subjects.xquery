@@ -79,7 +79,7 @@ declare option saxon:output "indent=yes";
                                         ')'
                                 )
                 order by $institution, $classmark
-                return <field name="link_manuscripts_smni">{ concat($url, "|", $linktext[1]) }</field>
+                return <field name="link_objects_smni">{ concat($url, "|", $linktext[1]) }</field>
             }
             {
                 for $relatedid in distinct-values((tokenize(translate($subject/@corresp, '#', ''), ' '), tokenize(translate($subject/@sameAs, '#', ''), ' ')))

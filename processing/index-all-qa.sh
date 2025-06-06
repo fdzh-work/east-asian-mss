@@ -28,7 +28,7 @@ if [ "$1" == "reuse" ]; then
         done
     fi
     # Send the files to Solr
-    printf "manuscript\nwork\nperson\nsubject" | xargs -I {} -P 2 ./generate-solr-document.sh "{}s.xquery" "{}s_index.xml" {} $SERVER "$1"
+    printf "object\nwork\nperson\nsubject" | xargs -I {} -P 2 ./generate-solr-document.sh "{}s.xquery" "{}s_index.xml" {} $SERVER "$1"
 
 else
 
@@ -57,14 +57,14 @@ else
     # Rebuild HTML, which must complete successfully before indexing can start
     if ! ./generate-html.sh;
     then 
-        echo "Indexing cannot proceed because HTML could not be generated for all manuscripts"
+        echo "Indexing cannot proceed because HTML could not be generated for all objects"
         exit 1;
     fi
 
     if [ "$1" == "force" ] || [ "$1" == "noindex" ]; then
 
         echo "Rebuilding index files two at a time..."
-        printf "manuscript\nwork\nperson\nsubject" | xargs -I {} -P 2 ./generate-solr-document.sh "{}s.xquery" "{}s_index.xml" {} $SERVER "$1"
+        printf "object\nwork\nperson\nsubject" | xargs -I {} -P 2 ./generate-solr-document.sh "{}s.xquery" "{}s_index.xml" {} $SERVER "$1"
         if [ $? -gt 0 ]; then
             echo
             echo "WARNING: One or more index files was not completed. The web site will not be fully updated. Check the log files in the solr subfolder."
@@ -75,7 +75,7 @@ else
 
         # Default mode is interactive - build one index at a time, prompting before sending to Solr
         set -e
-        ./generate-solr-document.sh "manuscripts.xquery" "manuscripts_index.xml" manuscript $SERVER "$1"
+        ./generate-solr-document.sh "objects.xquery" "objects_index.xml" object $SERVER "$1"
         ./generate-solr-document.sh "works.xquery" "works_index.xml" work $SERVER "$1"
         ./generate-solr-document.sh "persons.xquery" "persons_index.xml" person $SERVER "$1"
         ./generate-solr-document.sh "subjects.xquery" "places_index.xml" subject $SERVER "$1"
