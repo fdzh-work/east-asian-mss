@@ -49,65 +49,65 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">玉海 ^二百卷^</title>
+                     <title source="#200">玉海 二百卷</title>
                      <title source="#200|9">yu hai</title>
-                     <title source="#200">辭學指南 ^四卷附刻十三種^</title>
+                     <title source="#200">辭學指南 四卷附刻十三種</title>
                      <title source="#200|9">ci xue zhi nan</title>
                      <note source="#290">(宋)王應麟撰</note>
                      <author source="#300" key="person_1423"><persName>(宋)王應麟</persName><persName type="9">wang ying
                            lin</persName></author>
                      <note source="#409">明正德元年[1506]至清乾隆五十六年[1791]間遞修補刊本</note>
                      <msItem n="1=附刻1">
-                        <title>詩攷 ^一卷^</title>
+                        <title>詩攷 一卷</title>
                         <title source="9">shi kao</title>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00002190|ons -->
                         <!-- #0rx: ns0620+01=附刻1 -->
                      </msItem>
                      <msItem n="2=附刻2">
-                        <title>詩地理攷 ^六卷^</title>
+                        <title>詩地理攷 六卷</title>
                         <title source="9">shi di li kao</title>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00002191|ons -->
                         <!-- #0rx: ns0620+02=附刻2 -->
                      </msItem>
                      <msItem n="3=附刻3">
-                        <title>漢藝文志攷證 ^十卷^</title>
+                        <title>漢藝文志攷證 十卷</title>
                         <title source="9">han yi wen zhi kao zheng</title>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00002192|ons -->
                         <!-- #0rx: ns0620+03=附刻3 -->
                      </msItem>
                      <msItem n="4=附刻4">
-                        <title>通鑑地理通釋 ^十四卷^</title>
+                        <title>通鑑地理通釋 十四卷</title>
                         <title source="9">tong jian di li tong shi</title>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00002193|ons -->
                         <!-- #0rx: ns0620+04=附刻4 -->
                      </msItem>
                      <msItem n="5=附刻5">
-                        <title>周書王會補注 ^一卷^</title>
+                        <title>周書王會補注 一卷</title>
                         <title source="9">zhou shu wang hui bu zhu</title>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00002194|ons -->
                         <!-- #0rx: ns0620+05=附刻5 -->
                      </msItem>
                      <msItem n="6=附刻6">
-                        <title>漢制攷 ^四卷^</title>
+                        <title>漢制攷 四卷</title>
                         <title source="9">han zhi kao</title>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00002195|ons -->
                         <!-- #0rx: ns0620+06=附刻6 -->
                      </msItem>
                      <msItem n="7=附刻7">
-                        <title>踐阼篇集解 ^一卷^</title>
+                        <title>踐阼篇集解 一卷</title>
                         <title source="9">jian zuo pian ji jie</title>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00002196|ons -->
                         <!-- #0rx: ns0620+07=附刻7 -->
                      </msItem>
                      <msItem n="8=附刻8">
-                        <title>急就篇 ^四卷^</title>
+                        <title>急就篇 四卷</title>
                         <title source="9">ji jiu pian</title>
                         <note source="290">(漢)史游撰</note>
                         <note source="290">(唐)顏師古注</note>
@@ -123,28 +123,28 @@
                         <!-- #0rx: ns0620+08=附刻8 -->
                      </msItem>
                      <msItem n="9=附刻9">
-                        <title>小學紺珠 ^十卷^</title>
+                        <title>小學紺珠 十卷</title>
                         <title source="9">xiao xue gan zhu</title>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00002198|ons -->
                         <!-- #0rx: ns0620+09=附刻9 -->
                      </msItem>
                      <msItem n="10=附刻10">
-                        <title>姓氏急就篇 ^二卷^</title>
+                        <title>姓氏急就篇 二卷</title>
                         <title source="9">xing shi ji jiu pian</title>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00002199|ons -->
                         <!-- #0rx: ns0620+10=附刻10 -->
                      </msItem>
                      <msItem n="11=附刻11">
-                        <title>六經天文篇 ^二卷^</title>
+                        <title>六經天文篇 二卷</title>
                         <title source="9">liu jing tian wen pian</title>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00002200|ons -->
                         <!-- #0rx: ns0620+11=附刻11 -->
                      </msItem>
                      <msItem n="12=附刻12">
-                        <title>周易鄭康成注 ^一卷^</title>
+                        <title>周易鄭康成注 一卷</title>
                         <title source="9">zhou yi zheng kang cheng zhu</title>
                         <note source="290">(漢)鄭玄撰</note>
                         <note source="290">(宋)王應麟輯</note>
@@ -157,7 +157,7 @@
                         <!-- #0rx: ns0620+12=附刻12 -->
                      </msItem>
                      <msItem n="13=附刻13">
-                        <title>通鑑答問 ^五卷^</title>
+                        <title>通鑑答問 五卷</title>
                         <title source="9">tong jian da wen</title>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00002202|ons -->

@@ -49,14 +49,14 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">揚州叢刻 ^殘十三種^</title>
+                     <title source="#200">揚州叢刻 殘十三種</title>
                      <title source="#200|9">yang zhou cong ke</title>
                      <note source="#290">(民國)陳恆和編</note>
                      <author source="#300" key="person_3209"><persName>(民國)陳恆和</persName><persName type="9">chen heng
                            he</persName></author>
                      <note source="#409">民國十九年[1930]至二十三年[1934]間揚州陳氏福州刊本</note>
                      <msItem n="1">
-                        <title>揚州畫苑錄 ^四卷^</title>
+                        <title>揚州畫苑錄 四卷</title>
                         <title source="9">yang zhou hua yuan lu</title>
                         <note source="290">(清)汪鋆撰</note>
                         <author key="person_4826"><persName>(清)汪鋆</persName><persName type="9">wang
@@ -68,7 +68,7 @@
                         <!-- #600: 民國二十年[1931]刊 -->
                      </msItem>
                      <msItem n="2">
-                        <title>揚州竹枝詞 ^一卷^</title>
+                        <title>揚州竹枝詞 一卷</title>
                         <title source="9">yang zhou zhu zhi ci</title>
                         <note source="290">(清)董偉業撰</note>
                         <author key="person_5508"><persName>(清)董偉業</persName><persName type="9">dong wei
@@ -80,7 +80,7 @@
                         <!-- #600: 民國十九年[1930]刊 -->
                      </msItem>
                      <msItem n="3">
-                        <title>望江南百調 ^一卷^</title>
+                        <title>望江南百調 一卷</title>
                         <title source="9">wang jiang nan bai diao</title>
                         <note source="290">(清)惺庵居士撰</note>
                         <author key="person_6424"><persName>(清)黃鼎銘</persName><persName type="9">huang ding
@@ -92,7 +92,7 @@
                         <!-- #600: 民國二十一年[1932]刊 -->
                      </msItem>
                      <msItem n="4">
-                        <title>瓊花集 ^五卷^</title>
+                        <title>瓊花集 五卷</title>
                         <title source="9">qiong hua ji</title>
                         <note source="290">(明)曹璿輯</note>
                         <author key="person_2261"><persName>(明)曹璿</persName><persName type="9">cao
@@ -104,7 +104,7 @@
                         <!-- #600: 民國二十一年[1932]刊 -->
                      </msItem>
                      <msItem n="5">
-                        <title>揚州芍藥譜 ^一卷^</title>
+                        <title>揚州芍藥譜 一卷</title>
                         <title source="9">yang zhou shao yao pu</title>
                         <note source="290">(宋)王觀撰</note>
                         <author key="person_1449"><persName>(宋)王觀</persName><persName type="9">wang
@@ -116,7 +116,7 @@
                         <!-- #600: 民國二十年[1931]刊 -->
                      </msItem>
                      <msItem n="6">
-                        <title>廣陵小正 ^一卷^</title>
+                        <title>廣陵小正 一卷</title>
                         <title source="9">guang ling xiao zheng</title>
                         <note source="290">佚名撰</note>
                         <!--Unused allegro fields-->
@@ -126,7 +126,7 @@
                         <!-- #600: 民國二十年[1931]刊 -->
                      </msItem>
                      <msItem n="7">
-                        <title>揚州萸灣勝覽 ^一卷^</title>
+                        <title>揚州萸灣勝覽 一卷</title>
                         <title source="9">yang zhou yu wan sheng lan</title>
                         <note source="290">(清釋)源印輯</note>
                         <author key="person_6465"><persName>(清釋)源印</persName><persName type="9">yuan
@@ -138,7 +138,7 @@
                         <!-- #600: 民國二十年[1931]刊 -->
                      </msItem>
                      <msItem n="8">
-                        <title>揚州水利論 ^一卷^</title>
+                        <title>揚州水利論 一卷</title>
                         <title source="9">yang zhou shui li lun</title>
                         <note source="290">(清)佚名撰</note>
                         <!--Unused allegro fields-->
@@ -148,7 +148,7 @@
                         <!-- #600: 民國十九年[1930]刊 -->
                      </msItem>
                      <msItem n="9">
-                        <title>治下河水論 ^一卷^</title>
+                        <title>治下河水論 一卷</title>
                         <title source="9">zhi xia he shui lun</title>
                         <note source="290">(清)張鵬翮撰</note>
                         <author key="person_4131"><persName>(清)張鵬翮</persName><persName type="9">zhang peng
@@ -159,7 +159,7 @@
                         <!-- #600: 民國二十三年[1934]刊 -->
                      </msItem>
                      <msItem n="10">
-                        <title>洩湖水入江議 ^一卷^</title>
+                        <title>洩湖水入江議 一卷</title>
                         <title source="9">xie hu shui ru jiang yi</title>
                         <note source="290">(清)葉機撰</note>
                         <author key="person_5484"><persName>(清)葉機</persName><persName type="9">ye
@@ -170,7 +170,7 @@
                         <!-- #600: 民國二十三年[1934]刊 -->
                      </msItem>
                      <msItem n="11">
-                        <title>高家堰記 ^一卷^</title>
+                        <title>高家堰記 一卷</title>
                         <title source="9">gao jia yan ji</title>
                         <note source="290">(清)俞正燮撰</note>
                         <author key="person_3354"><persName>(清)俞正燮</persName><persName type="9">yu zheng
@@ -181,7 +181,7 @@
                         <!-- #600: 民國二十三年[1934]刊 -->
                      </msItem>
                      <msItem n="12">
-                        <title>運河水道編 ^一卷^</title>
+                        <title>運河水道編 一卷</title>
                         <title source="9">yun he shui dao bian</title>
                         <note source="290">(清)齊召南撰</note>
                         <author key="person_6429"><persName>(清)齊召南</persName><persName type="9">qi zhao
@@ -192,7 +192,7 @@
                         <!-- #600: 民國二十三年[1934]刊 -->
                      </msItem>
                      <msItem n="13">
-                        <title>揚州北湖續志 ^六卷^</title>
+                        <title>揚州北湖續志 六卷</title>
                         <title source="9">yang zhou bei ju xu zhi</title>
                         <note source="290">(清)阮先撰</note>
                         <author key="person_5989"><persName>(清)阮先</persName><persName type="9">ruan

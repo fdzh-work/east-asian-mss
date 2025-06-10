@@ -48,12 +48,12 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">五經四書讀本 ^殘四書^</title>
+                     <title source="#200">五經四書讀本 殘四書</title>
                      <title source="#200|9">wu jing si shu du ben</title>
                      <note source="#409">清雍正中北京國子監刊本</note>
                      <editor source="#440" role="pbl"><persName>國子監</persName><persName type="9" role="pbl">guo zi jian</persName></editor>
                      <msItem n="1">
-                        <title>大學 ^一卷^</title>
+                        <title>大學 一卷</title>
                         <title source="9">da xue</title>
                         <note source="290">(宋)朱熹章句</note>
                         <author key="person_1250"><persName>(宋)朱熹</persName><persName type="9">zhu
@@ -63,7 +63,7 @@
                         <!-- #0rx: dh582+1 -->
                      </msItem>
                      <msItem n="2">
-                        <title>中庸 ^一卷^</title>
+                        <title>中庸 一卷</title>
                         <title source="9">zhong yong</title>
                         <note source="290">(宋)朱熹章句</note>
                         <author key="person_1250"><persName>(宋)朱熹</persName><persName type="9">zhu
@@ -73,7 +73,7 @@
                         <!-- #0rx: dh582+2 -->
                      </msItem>
                      <msItem n="3">
-                        <title>論語 ^十卷^</title>
+                        <title>論語 十卷</title>
                         <title source="9">lun yu</title>
                         <note source="290">(宋)朱熹集注</note>
                         <author key="person_1250"><persName>(宋)朱熹</persName><persName type="9">zhu
@@ -83,7 +83,7 @@
                         <!-- #0rx: dh582+3 -->
                      </msItem>
                      <msItem n="4">
-                        <title>孟子 ^七卷^</title>
+                        <title>孟子 七卷</title>
                         <title source="9">meng zi</title>
                         <note source="290">(宋)朱熹集注</note>
                         <author key="person_1250"><persName>(宋)朱熹</persName><persName type="9">zhu

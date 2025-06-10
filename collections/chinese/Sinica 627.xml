@@ -48,14 +48,14 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">海錄 ^一卷附錄九種^</title>
+                     <title source="#200">海錄 一卷附錄九種</title>
                      <title source="#200|9">hai lu</title>
                      <note source="#290">(清)楊炳南撰</note>
                      <author source="#300" key="person_4692"><persName>(清)楊炳南</persName><persName type="9">yang bing
                            nan</persName></author>
                      <note source="#409">清道光二十二年[1842]序刊本</note>
                      <msItem n="1=附錄1">
-                        <title>海島逸志摘略 ^一卷^</title>
+                        <title>海島逸志摘略 一卷</title>
                         <title source="9">hai dao yi zhi zhai lue</title>
                         <note source="290">(清)王大海撰</note>
                         <author key="person_5036"><persName>(清)王大海</persName><persName type="9">wang da
@@ -65,7 +65,7 @@
                         <!-- #0rx: dh488+1=附錄1 -->
                      </msItem>
                      <msItem n="2=附錄2">
-                        <title>高厚蒙求摘略 ^一卷^</title>
+                        <title>高厚蒙求摘略 一卷</title>
                         <title source="9">gao hou meng qiu zhai lue</title>
                         <note source="290">(清)徐朝俊撰</note>
                         <author key="person_4200"><persName>(清)徐朝俊</persName><persName type="9">xu chao
@@ -75,7 +75,7 @@
                         <!-- #0rx: dh488+2=附錄2 -->
                      </msItem>
                      <msItem n="3=附錄3">
-                        <title>番社采風圖考摘略 ^一卷^</title>
+                        <title>番社采風圖考摘略 一卷</title>
                         <title source="9">fan she cai feng tu kao zhai lue</title>
                         <note source="290">(清)六十七撰</note>
                         <author><persName>(清)六十七</persName><persName type="9">lu shi
@@ -85,7 +85,7 @@
                         <!-- #0rx: dh488+3=附錄3 -->
                      </msItem>
                      <msItem n="4=附錄4">
-                        <title>紅毛番嘆咭唎考略 ^一卷^</title>
+                        <title>紅毛番嘆咭唎考略 一卷</title>
                         <title source="9">hong mao fan tan ji li kao lue</title>
                         <note source="290">(清)汪文泰撰</note>
                         <author key="person_4805"><persName>(清)汪文泰</persName><persName type="9">wang wen
@@ -95,7 +95,7 @@
                         <!-- #0rx: dh488+4=附錄4 -->
                      </msItem>
                      <msItem n="5=附錄5">
-                        <title>崑崙 ^一卷^</title>
+                        <title>崑崙 一卷</title>
                         <title source="9">kun lun</title>
                         <note source="290">(清)佚名撰</note>
                         <!--Unused allegro fields-->
@@ -103,7 +103,7 @@
                         <!-- #0rx: dh488+5=附錄5 -->
                      </msItem>
                      <msItem n="6=附錄6">
-                        <title>三報壟 ^一卷^</title>
+                        <title>三報壟 一卷</title>
                         <title source="9">san bao long</title>
                         <note source="290">(清)佚名撰</note>
                         <!--Unused allegro fields-->
@@ -111,7 +111,7 @@
                         <!-- #0rx: dh488+6=附錄6 -->
                      </msItem>
                      <msItem n="7=附錄7">
-                        <title>瓜亞風土拾遺 ^一卷^</title>
+                        <title>瓜亞風土拾遺 一卷</title>
                         <title source="9">gua ya feng tu shi yi</title>
                         <note source="290">(清)佚名撰</note>
                         <!--Unused allegro fields-->
@@ -119,7 +119,7 @@
                         <!-- #0rx: dh488+7=附錄7 -->
                      </msItem>
                      <msItem n="8=附錄8">
-                        <title>呂宋紀略 ^一卷^</title>
+                        <title>呂宋紀略 一卷</title>
                         <title source="9">lu song ji lue</title>
                         <note source="290">(清)黃可垂撰</note>
                         <author key="person_6364"><persName>(清)黃可垂</persName><persName type="9">huang ke
@@ -129,7 +129,7 @@
                         <!-- #0rx: dh488+8=附錄8 -->
                      </msItem>
                      <msItem n="9=附錄9">
-                        <title>臺灣紀略 ^一卷^</title>
+                        <title>臺灣紀略 一卷</title>
                         <title source="9">tai wan ji lue</title>
                         <note source="290">(清)佚名撰</note>
                         <!--Unused allegro fields-->

@@ -48,7 +48,7 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">稗海 ^殘五種^</title>
+                     <title source="#200">稗海 殘五種</title>
                      <title source="#200|9">bai hai</title>
                      <note source="#290">(明)商濬編</note>
                      <author source="#300" key="person_2106"><persName>(明)商濬</persName><persName type="9">shang
@@ -56,7 +56,7 @@
                      <note source="#409">明萬曆中會稽商氏半埜堂刊本</note>
                      <editor source="#440" role="pbl"><persName>半埜堂</persName><persName type="9" role="pbl">ban ye tang</persName></editor>
                      <msItem n="1">
-                        <title>西京雜記 ^六卷^</title>
+                        <title>西京雜記 六卷</title>
                         <title source="9">xi jing za ji</title>
                         <note source="290">(晉)葛洪撰</note>
                         <author key="person_2960"><persName>(晉)葛洪</persName><persName type="9">ge
@@ -66,7 +66,7 @@
                         <!-- #0rx: dh519+1 -->
                      </msItem>
                      <msItem n="2">
-                        <title>搜神記 ^八卷^</title>
+                        <title>搜神記 八卷</title>
                         <title source="9">sou shen ji</title>
                         <note source="290">(晉)干寶撰</note>
                         <author key="person_2885"><persName>(晉)干寶</persName><persName type="9">gan
@@ -76,7 +76,7 @@
                         <!-- #0rx: dh519+2 -->
                      </msItem>
                      <msItem n="3">
-                        <title>東軒筆錄 ^殘卷九～十五卷^</title>
+                        <title>東軒筆錄 殘卷九～十五卷</title>
                         <title source="9">dong xuan bi lu</title>
                         <note source="290">(宋)魏泰撰</note>
                         <author><persName>(宋)魏泰</persName><persName type="9">wei
@@ -86,7 +86,7 @@
                         <!-- #0rx: dh519+3 -->
                      </msItem>
                      <msItem n="4">
-                        <title>摭言 ^一卷^</title>
+                        <title>摭言 一卷</title>
                         <title source="9">zhi yan</title>
                         <note source="290">(唐)王保定撰</note>
                         <author key="person_758"><persName>(唐)王定保</persName><persName type="9">wang ding
@@ -97,7 +97,7 @@
                         <!-- #0rx: dh519+4 -->
                      </msItem>
                      <msItem n="5">
-                        <title>小名錄 ^二卷^</title>
+                        <title>小名錄 二卷</title>
                         <title source="9">xiao ming lu</title>
                         <note source="290">(唐)陸龜蒙撰</note>
                         <author key="person_858"><persName>(唐)陸龜蒙</persName><persName type="9">lu gui

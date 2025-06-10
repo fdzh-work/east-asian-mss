@@ -48,7 +48,7 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">晉書輯本 ^等五種^</title>
+                     <title source="#200">晉書輯本 等五種</title>
                      <title source="#200|9">jin shu ji ben</title>
                      <note source="#290">(清)湯球輯</note>
                      <author source="#300" key="person_4949"><persName>(清)湯球</persName><persName type="9">tang
@@ -69,7 +69,7 @@
 
 
                         <msItem n="1">
-                           <title>臧榮緒晉書 ^十七卷補遺一卷^</title>
+                           <title>臧榮緒晉書 十七卷補遺一卷</title>
                            <title source="9">zang rong xu jin shu</title>
                            <author key="person_441"><persName>(南齊)臧榮緒</persName><persName type="9">zang rong
                                  xu</persName></author>
@@ -79,7 +79,7 @@
                         </msItem>
 
                         <msItem n="2">
-                           <title>王隱晉書 ^十一卷^</title>
+                           <title>王隱晉書 十一卷</title>
                            <title source="9">wang yin jin shu</title>
                            <author key="person_2940"><persName>(晉)王隱</persName><persName type="9">wang
                               yin</persName></author>
@@ -89,7 +89,7 @@
                         </msItem>
 
                         <msItem n="3">
-                           <title>虞預晉書 ^一卷^</title>
+                           <title>虞預晉書 一卷</title>
                            <title source="9">yu yu jin shu</title>
                            <author key="person_2970"><persName>(晉)虞預</persName><persName type="9">yu
                               yu</persName></author>
@@ -99,7 +99,7 @@
                         </msItem>
 
                         <msItem n="4">
-                           <title>朱鳳晉書 ^一卷^</title>
+                           <title>朱鳳晉書 一卷</title>
                            <title source="9">zhu feng jin shu</title>
                            <author key="person_2908"><persName>(晉)朱鳳</persName><persName type="9">zhu
                               feng</persName></author>
@@ -109,7 +109,7 @@
                         </msItem>
 
                         <msItem n="5">
-                           <title>謝靈運晉書 ^一卷^</title>
+                           <title>謝靈運晉書 一卷</title>
                            <title source="9">xie ling yun jin shu</title>
                            <author key="person_383"><persName>(劉宋)謝靈運</persName><persName type="9">xie ling
                                  yun</persName></author>
@@ -119,7 +119,7 @@
                         </msItem>
 
                         <msItem n="6">
-                           <title>蕭子雲晉書 ^一卷^</title>
+                           <title>蕭子雲晉書 一卷</title>
                            <title source="9">xiao zi yun jin shu</title>
                            <author key="person_3048"><persName>(梁)蕭子雲</persName><persName type="9">xiao zi
                                  yun</persName></author>
@@ -129,7 +129,7 @@
                         </msItem>
 
                         <msItem n="7">
-                           <title>蕭子顯晉史草 ^一卷^</title>
+                           <title>蕭子顯晉史草 一卷</title>
                            <title source="9">xiao zi xian jin shi cao</title>
                            <author><persName>(梁)蕭子顯</persName><persName type="9">xiao zi
                                  xian</persName></author>
@@ -139,7 +139,7 @@
                         </msItem>
 
                         <msItem n="8">
-                           <title>沈約晉書 ^一卷^</title>
+                           <title>沈約晉書 一卷</title>
                            <title source="9">shen yue jin shu</title>
                            <author key="person_3042"><persName>(梁)沈約</persName><persName type="9">shen
                               yue</persName></author>
@@ -149,7 +149,7 @@
                         </msItem>
 
                         <msItem n="9">
-                           <title>何法盛晉中興書 ^七卷^</title>
+                           <title>何法盛晉中興書 七卷</title>
                            <title source="9">he fa sheng jin zhong xing shu</title>
                            <author key="person_351"><persName>(劉宋)何法盛</persName><persName type="9">he fa
                                  sheng</persName></author>
@@ -159,7 +159,7 @@
                         </msItem>
 
                         <msItem n="10">
-                           <title>晉諸公別傳 ^一卷^</title>
+                           <title>晉諸公別傳 一卷</title>
                            <title source="9">jin zhu gong bie zhuan</title>
                            <!--Unused allegro fields-->
                            <!-- #000: 20141030/10:26:44|odh -->
@@ -176,7 +176,7 @@
                         <!-- #0rr: 20141030/10:50:17-371861/1|odh -->
                         <!-- #0rx: dh549+2 -->
                         <msItem n="1">
-                           <title>干寶晉紀 ^一卷^</title>
+                           <title>干寶晉紀 一卷</title>
                            <title source="9">gan bao jin ji</title>
                            <author key="person_2885"><persName>(晉)干寶</persName><persName type="9">gan
                               bao</persName></author>
@@ -186,7 +186,7 @@
                         </msItem>
 
                         <msItem n="2">
-                           <title>陸機晉紀 ^一卷^</title>
+                           <title>陸機晉紀 一卷</title>
                            <title source="9">lu ji jin ji</title>
                            <author key="person_2998"><persName>(晉)陸機</persName><persName type="9">lu
                               ji</persName></author>
@@ -196,7 +196,7 @@
                         </msItem>
 
                         <msItem n="3">
-                           <title>陸機惠帝起居注 ^一卷^</title>
+                           <title>陸機惠帝起居注 一卷</title>
                            <title source="9">lu ji hui di qi ju zhu</title>
                            <author key="person_2998"><persName>(晉)陸機</persName><persName type="9">lu
                               ji</persName></author>
@@ -206,7 +206,7 @@
                         </msItem>
 
                         <msItem n="4">
-                           <title>曹嘉之晉紀 ^一卷^</title>
+                           <title>曹嘉之晉紀 一卷</title>
                            <title source="9">cao jia zhi jin ji</title>
                            <author key="person_2907"><persName>(晉)曹嘉之</persName><persName type="9">cao jia
                                  zhi</persName></author>
@@ -216,7 +216,7 @@
                         </msItem>
 
                         <msItem n="5">
-                           <title>鄧粲晉紀 ^一卷^</title>
+                           <title>鄧粲晉紀 一卷</title>
                            <title source="9">deng can jin ji</title>
                            <author key="person_2990"><persName>(晉)鄧粲</persName><persName type="9">deng
                               can</persName></author>
@@ -226,7 +226,7 @@
                         </msItem>
 
                         <msItem n="6">
-                           <title>劉謙之晉紀 ^一卷^</title>
+                           <title>劉謙之晉紀 一卷</title>
                            <title source="9">liu qian zhi jin ji</title>
                            <author key="person_354"><persName>(劉宋)劉謙之</persName><persName type="9">liu qian
                                  zhi</persName></author>
@@ -236,7 +236,7 @@
                         </msItem>
 
                         <msItem n="7">
-                           <title>裴松之晉紀 ^一卷^</title>
+                           <title>裴松之晉紀 一卷</title>
                            <title source="9">pei song zhi jin ji</title>
                            <author key="person_379"><persName>(劉宋)裴松之</persName><persName type="9">pei song
                                  zhi</persName></author>
@@ -255,7 +255,7 @@
                         <!-- #0rr: 20141030/10:50:24-371882/1|odh -->
                         <!-- #0rx: dh549+3 -->
                         <msItem n="1">
-                           <title>孫盛晉陽秋 ^三卷^</title>
+                           <title>孫盛晉陽秋 三卷</title>
                            <title source="9">sun sheng jin yang qiu</title>
                            <author key="person_2877"><persName>(晉)孫盛</persName><persName type="9">sun
                               sheng</persName></author>
@@ -265,7 +265,7 @@
                         </msItem>
 
                         <msItem n="2">
-                           <title>檀道鸞續晉陽秋 ^二卷^</title>
+                           <title>檀道鸞續晉陽秋 二卷</title>
                            <title source="9">tan dao luan xu jin yang qiu</title>
                            <author key="person_367"><persName>(劉宋)檀道鸞</persName><persName type="9">tan dao
                                  luan</persName></author>
@@ -284,7 +284,7 @@
                         <!-- #0rr: 20141030/10:50:31-371887/1|odh -->
                         <!-- #0rx: dh549+4 -->
                         <msItem n="1">
-                           <title>習鑿齒漢晉春秋 ^三卷^</title>
+                           <title>習鑿齒漢晉春秋 三卷</title>
                            <title source="9">xi zao chi han jin chun qiu</title>
                            <author key="person_2951"><persName>(晉)習鑿齒</persName><persName type="9">xi zao
                                  chi</persName></author>
@@ -294,7 +294,7 @@
                         </msItem>
 
                         <msItem n="2">
-                           <title>杜延業晉春秋 ^一卷^</title>
+                           <title>杜延業晉春秋 一卷</title>
                            <title source="9">du yan ye jin chun qiu</title>
                            <author key="person_718"><persName>(唐)杜延業</persName><persName type="9">du yan
                                  ye</persName></author>
@@ -313,7 +313,7 @@
                         <!-- #0rr: 20141030/10:47:29-371892/1|odh -->
                         <!-- #0rx: dh549+5 -->
                         <msItem n="01">
-                           <title>蕭方等三十國春秋 ^一卷^</title>
+                           <title>蕭方等三十國春秋 一卷</title>
                            <title source="9">xiao fang deng san shi guo chun qiu</title>
                            <author key="person_3051"><persName>(梁)蕭方</persName><persName type="9">xiao
                               fang</persName></author>
@@ -323,7 +323,7 @@
                         </msItem>
 
                         <msItem n="02">
-                           <title>武敏之三十國春秋 ^一卷^</title>
+                           <title>武敏之三十國春秋 一卷</title>
                            <title source="9">wu min zhi san shi guo chun qiu</title>
                            <author key="person_368"><persName>(劉宋)武敏之</persName><persName type="9">wu min
                                  zhi</persName></author>
@@ -333,7 +333,7 @@
                         </msItem>
 
                         <msItem n="03">
-                           <title>常璩蜀李書 ^一卷^</title>
+                           <title>常璩蜀李書 一卷</title>
                            <title source="9">chang qu shu li shu</title>
                            <author><persName>(晉)常璩</persName><persName type="9">chang
                               qu</persName></author>
@@ -343,7 +343,7 @@
                         </msItem>
 
                         <msItem n="04">
-                           <title>和苞漢趙記 ^一卷^</title>
+                           <title>和苞漢趙記 一卷</title>
                            <title source="9">he bao han zhao ji</title>
                            <author key="person_348"><persName>(前趙)和苞</persName><persName type="9">he
                               bao</persName></author>
@@ -353,7 +353,7 @@
                         </msItem>
 
                         <msItem n="05">
-                           <title>田融趙書 ^一卷^</title>
+                           <title>田融趙書 一卷</title>
                            <title source="9">tian rong zhao shu</title>
                            <author key="person_45"><persName>(□燕)田融</persName><persName type="9">tian
                                  rong</persName></author>
@@ -363,7 +363,7 @@
                         </msItem>
 
                         <msItem n="06">
-                           <title>吳篤趙書 ^一卷^</title>
+                           <title>吳篤趙書 一卷</title>
                            <title source="9">wu du zhao shu</title>
                            <author key="person_7"><persName>(□)吳篤</persName><persName type="9">wu
                               du</persName></author>
@@ -373,7 +373,7 @@
                         </msItem>
 
                         <msItem n="07">
-                           <title>王度二石傳 ^一卷^</title>
+                           <title>王度二石傳 一卷</title>
                            <title source="9">wang du er shi zhuan</title>
                            <author key="person_2932"><persName>(晉)王度</persName><persName type="9">wang
                               du</persName></author>
@@ -383,7 +383,7 @@
                         </msItem>
 
                         <msItem n="08">
-                           <title>范亨燕書 ^一卷^</title>
+                           <title>范亨燕書 一卷</title>
                            <title source="9">fan heng yan shu</title>
                            <author key="person_46"><persName>(□燕)范亨</persName><persName type="9">fan
                               heng</persName></author>
@@ -393,7 +393,7 @@
                         </msItem>
 
                         <msItem n="09">
-                           <title>車頻秦書 ^一卷^</title>
+                           <title>車頻秦書 一卷</title>
                            <title source="9">ju pin qin shu</title>
                            <author key="person_344"><persName>(前秦)車頻</persName><persName type="9">ju
                               pin</persName></author>
@@ -403,7 +403,7 @@
                         </msItem>
 
                         <msItem n="10">
-                           <title>王景暉南燕書 ^一卷^</title>
+                           <title>王景暉南燕書 一卷</title>
                            <title source="9">wang jing hui nan yan shu</title>
                            <author key="person_44"><persName>(□燕)王景暉</persName><persName type="9">wang jing
                                  hui</persName></author>
@@ -413,7 +413,7 @@
                         </msItem>
 
                         <msItem n="11">
-                           <title>裴景仁秦記 ^一卷^</title>
+                           <title>裴景仁秦記 一卷</title>
                            <title source="9">pei jing ren qin ji</title>
                            <author key="person_378"><persName>(劉宋)裴景仁</persName><persName type="9">pei jing
                                  ren</persName></author>
@@ -423,7 +423,7 @@
                         </msItem>
 
                         <msItem n="12">
-                           <title>姚和都後秦記 ^一卷^</title>
+                           <title>姚和都後秦記 一卷</title>
                            <title source="9">yao he du hou qin ji</title>
                            <author key="person_1886"><persName>(後魏)姚和都</persName><persName type="9">yao he
                                  du</persName></author>
@@ -433,7 +433,7 @@
                         </msItem>
 
                         <msItem n="13">
-                           <title>張諮涼記 ^一卷^</title>
+                           <title>張諮涼記 一卷</title>
                            <title source="9">zhang zi liang ji</title>
                            <author key="person_43"><persName>(□燕)張諮</persName><persName type="9">zhang
                               zi</persName></author>
@@ -443,7 +443,7 @@
                         </msItem>
 
                         <msItem n="14">
-                           <title>喻歸西河記 ^一卷^</title>
+                           <title>喻歸西河記 一卷</title>
                            <title source="9">yu gui xi he ji</title>
                            <author key="person_2870"><persName>(晉)喻歸</persName><persName type="9">yu
                               gui</persName></author>
@@ -453,7 +453,7 @@
                         </msItem>
 
                         <msItem n="15">
-                           <title>段龜龍涼記 ^一卷^</title>
+                           <title>段龜龍涼記 一卷</title>
                            <title source="9">duan gui long liang ji</title>
                            <author key="person_405"><persName>(北涼)段龜龍</persName><persName type="9">duan gui
                                  long</persName></author>
@@ -463,7 +463,7 @@
                         </msItem>
 
                         <msItem n="16">
-                           <title>劉昞燉煌實錄 ^一卷^</title>
+                           <title>劉昞燉煌實錄 一卷</title>
                            <title source="9">liu bing dun huang shi lu</title>
                            <author key="person_407"><persName>(北魏)劉昞</persName><persName type="9">liu
                               bing</persName></author>
@@ -473,7 +473,7 @@
                         </msItem>
 
                         <msItem n="17">
-                           <title>張詮南燕書 ^一卷^</title>
+                           <title>張詮南燕書 一卷</title>
                            <title source="9">zhang quan nan yan shu</title>
                            <author key="person_42"><persName>(□燕)張詮</persName><persName type="9">zhang
                                  quan</persName></author>
@@ -483,7 +483,7 @@
                         </msItem>
 
                         <msItem n="18">
-                           <title>高閭燕志 ^一卷^</title>
+                           <title>高閭燕志 一卷</title>
                            <title source="9">gao lu yan zhi</title>
                            <author key="person_411"><persName>(北魏)高閭</persName><persName type="9">gao
                               lu</persName></author>

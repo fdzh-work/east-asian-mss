@@ -49,7 +49,7 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">快閣師石山房叢書 ^存五種^</title>
+                     <title source="#200">快閣師石山房叢書 存五種</title>
                      <title source="#200|9">kuai ge shi shi shan fang</title>
                      <title type="variant" source="#230">珍本叢刊</title>
                      <title source="#230|9" type="variant">zhen ben cong kan</title>
@@ -60,7 +60,7 @@
                      <editor source="#440" role="pbl"><persName>浙江省立圖書館</persName><persName type="9" role="pbl">zhe jiang sheng li tu shu guan</persName></editor>
                      <note source="#600">本書亦名《珍本叢刊》</note>
                      <msItem n="1">
-                        <title>七略別錄 ^一卷^</title>
+                        <title>七略別錄 一卷</title>
                         <title source="9">qi lue bie lu</title>
                         <title type="variant">七略別錄佚文</title>
                         <title source="9" type="variant">qi lue bie lu yi wen</title>
@@ -79,7 +79,7 @@
                         <!-- #600: 即七略別錄佚文 -->
                      </msItem>
                      <msItem n="2">
-                        <title>七略 ^七卷^</title>
+                        <title>七略 七卷</title>
                         <title source="9">qi lue</title>
                         <title type="variant">七略佚文</title>
                         <title source="9" type="variant">qi lue yi wen</title>
@@ -96,7 +96,7 @@
                         <!-- #600: 即七略佚文 -->
                      </msItem>
                      <msItem n="3">
-                        <title>漢書藝文志條理 ^八卷^</title>
+                        <title>漢書藝文志條理 八卷</title>
                         <title source="9">han shu yi wen zhi tiao li</title>
                         <author key="person_3789"><persName>(清)姚振宗</persName><persName type="9">yao zhen
                               zong</persName></author>
@@ -105,7 +105,7 @@
                         <!-- #0rx: dh329+3 -->
                      </msItem>
                      <msItem n="4">
-                        <title>漢書藝文志拾補 ^六卷^</title>
+                        <title>漢書藝文志拾補 六卷</title>
                         <title source="9">han shu yi wen zhi shi bu</title>
                         <author key="person_3789"><persName>(清)姚振宗</persName><persName type="9">yao zhen
                               zong</persName></author>
@@ -114,7 +114,7 @@
                         <!-- #0rx: dh329+4 -->
                      </msItem>
                      <msItem n="5">
-                        <title>隋書經籍志考證 ^存四卷(全五十二卷)^</title>
+                        <title>隋書經籍志考證 存四卷(全五十二卷)</title>
                         <title source="9">sui shu jing ji zhi kao zheng</title>
                         <author key="person_3789"><persName>(清)姚振宗</persName><persName type="9">yao zhen
                               zong</persName></author>

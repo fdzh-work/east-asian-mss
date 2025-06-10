@@ -48,12 +48,12 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">五經四書讀本 ^殘五經^</title>
+                     <title source="#200">五經四書讀本 殘五經</title>
                      <title source="#200|9">wu jing si shu du ben</title>
                      <note source="#409">清雍正中北京國子監刊本</note>
                      <editor source="#440" role="pbl"><persName>國子監</persName><persName type="9" role="pbl">guo zi jian</persName></editor>
                      <msItem n="1">
-                        <title>周易 ^四卷^</title>
+                        <title>周易 四卷</title>
                         <title source="9">zhou yi</title>
                         <note source="290">(宋)朱熹本義</note>
                         <author key="person_1250"><persName>(宋)朱熹</persName><persName type="9">zhu
@@ -66,7 +66,7 @@
                         <!-- #900: o -->
                      </msItem>
                      <msItem n="2">
-                        <title>書經 ^六卷^</title>
+                        <title>書經 六卷</title>
                         <title source="9">shu jing</title>
                         <note source="290">(宋)蔡沈集傳</note>
                         <author key="person_1572"><persName>(宋)蔡沈</persName><persName type="9">cai
@@ -79,7 +79,7 @@
                         <!-- #900: o -->
                      </msItem>
                      <msItem n="3">
-                        <title>詩經 ^八卷^</title>
+                        <title>詩經 八卷</title>
                         <title source="9">shi jing</title>
                         <note source="290">(宋)朱熹傳</note>
                         <author key="person_1250"><persName>(宋)朱熹</persName><persName type="9">zhu
@@ -92,7 +92,7 @@
                         <!-- #900: o -->
                      </msItem>
                      <msItem n="4">
-                        <title>禮記 ^十卷^</title>
+                        <title>禮記 十卷</title>
                         <title source="9">li ji</title>
                         <note source="290">(元)陳澔集說</note>
                         <author key="person_313"><persName>(元)陳澔</persName><persName type="9">chen
@@ -105,7 +105,7 @@
                         <!-- #900: o -->
                      </msItem>
                      <msItem n="5">
-                        <title>春秋 ^三十卷^</title>
+                        <title>春秋 三十卷</title>
                         <title source="9">chun qiu</title>
                         <note source="290">(宋)胡安國傳</note>
                         <author key="person_1518"><persName>(宋)胡安國</persName><persName type="9">hu an

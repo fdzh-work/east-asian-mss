@@ -49,7 +49,7 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">兵鈐 ^內書八卷外書八卷^</title>
+                     <title source="#200">兵鈐 內書八卷外書八卷</title>
                      <title source="#200|9">bing qian</title>
                      <note source="#290">(清)呂磻, (清)盧承恩編</note>
                      <author source="#300" key="person_3662"><persName>(清)呂磻</persName><persName type="9">lu
@@ -59,11 +59,11 @@
                      <note source="#409">清康熙乙卯[1675]序鈔本</note>
                   </msItem>
                   <msItem n="2">
-                     <title source="#201">^附^ 指南正法 ^不分卷^</title>
+                     <title source="#201">附 指南正法 不分卷</title>
                      <title source="#201|9">zhi nan zheng fa</title>
                      <note source="#291">佚名撰</note>
                      <msItem n="1">
-                        <title>孫子 ^一卷^</title>
+                        <title>孫子 一卷</title>
                         <title source="9">sun zi</title>
                         <note source="290">(周)孫武撰</note>
                         <author key="person_492"><persName>(周)孫武</persName><persName type="9">sun
@@ -76,7 +76,7 @@
                         <!-- #900: o -->
                      </msItem>
                      <msItem n="2">
-                        <title>鬼谷子 ^一卷^</title>
+                        <title>鬼谷子 一卷</title>
                         <title source="9">gui gu zi</title>
                         <note source="290">(周)王詡撰</note>
                         <author key="person_511"><persName>(周)王詡</persName><persName type="9">wang
@@ -89,7 +89,7 @@
                         <!-- #900: o -->
                      </msItem>
                      <msItem n="3">
-                        <title>素書 ^一卷^</title>
+                        <title>素書 一卷</title>
                         <title source="9">su shu</title>
                         <note source="290">(漢)黃石公撰</note>
                         <author key="person_6627"><persName>(漢)黃石公</persName><persName type="9">huang shi
@@ -114,7 +114,7 @@
                         <!-- #0rz: 內書 -->
                         <!-- #900: o -->
                         <msItem n="1">
-                           <title>心書 ^一卷^</title>
+                           <title>心書 一卷</title>
                            <title source="9">xin shu</title>
                            <author key="person_6643"><persName>(蜀)諸葛亮</persName><persName type="9">zhu ge
                                  liang</persName></author>
@@ -124,7 +124,7 @@
                            <!-- #900: o -->
                         </msItem>
                         <msItem n="2">
-                           <title>新書 ^一卷^</title>
+                           <title>新書 一卷</title>
                            <title source="9">xin shu</title>
                            <author key="person_6643"><persName>(蜀)諸葛亮</persName><persName type="9">zhu ge
                                  liang</persName></author>
@@ -135,7 +135,7 @@
                         <!-- #900: o -->
                      </msItem>
                      <msItem n="5">
-                        <title>孟德新書 ^一卷^</title>
+                        <title>孟德新書 一卷</title>
                         <title source="9">meng de xin shu</title>
                         <note source="290">佚名撰</note>
                         <!--Unused allegro fields-->
@@ -146,7 +146,7 @@
                         <!-- #900: o -->
                      </msItem>
                      <msItem n="6">
-                        <title>衛公問對 ^一卷^</title>
+                        <title>衛公問對 一卷</title>
                         <title source="9">wei gong wen dui</title>
                         <note source="290">舊題(唐)李靖撰</note>
                         <author key="person_713"><persName>(唐)李靖</persName><persName type="9">li
@@ -159,7 +159,7 @@
                         <!-- #900: o -->
                      </msItem>
                      <msItem n="7">
-                        <title>虎鈐經 ^一卷^</title>
+                        <title>虎鈐經 一卷</title>
                         <title source="9">hu qian jing</title>
                         <note source="290">(宋)許洞撰</note>
                         <author key="person_1616"><persName>(宋)許洞</persName><persName type="9">xu
@@ -172,7 +172,7 @@
                         <!-- #900: o -->
                      </msItem>
                      <msItem n="9">
-                        <title>軍政 ^一卷^</title>
+                        <title>軍政 一卷</title>
                         <title source="9">jun zheng</title>
                         <note source="290">佚名撰</note>
                         <!--Unused allegro fields-->
@@ -183,7 +183,7 @@
                         <!-- #900: o -->
                      </msItem>
                      <msItem n="10">
-                        <title>軍例 ^一卷^</title>
+                        <title>軍例 一卷</title>
                         <title source="9">jun li</title>
                         <note source="290">佚名撰</note>
                         <!--Unused allegro fields-->
@@ -193,7 +193,7 @@
                         <!-- #900: o -->
                      </msItem>
                      <msItem n="11">
-                        <title>陣圖 ^一卷^</title>
+                        <title>陣圖 一卷</title>
                         <title source="9">zhen tu</title>
                         <note source="290">佚名撰</note>
                         <!--Unused allegro fields-->
@@ -203,7 +203,7 @@
                         <!-- #900: o -->
                      </msItem>
                      <msItem n="12">
-                        <title>軍器 ^一卷^</title>
+                        <title>軍器 一卷</title>
                         <title source="9">jun qi</title>
                         <note source="290">佚名撰</note>
                         <!--Unused allegro fields-->
@@ -213,7 +213,7 @@
                         <!-- #900: o -->
                      </msItem>
                      <msItem n="13">
-                        <title>火攻 ^一卷^</title>
+                        <title>火攻 一卷</title>
                         <title source="9">huo gong</title>
                         <note source="290">佚名撰</note>
                         <!--Unused allegro fields-->
@@ -223,7 +223,7 @@
                         <!-- #900: o -->
                      </msItem>
                      <msItem n="14">
-                        <title>水攻 ^一卷^</title>
+                        <title>水攻 一卷</title>
                         <title source="9">shui gong</title>
                         <note source="290">佚名撰</note>
                         <!--Unused allegro fields-->
@@ -233,7 +233,7 @@
                         <!-- #900: o -->
                      </msItem>
                      <msItem n="15">
-                        <title>軍藥 ^一卷^</title>
+                        <title>軍藥 一卷</title>
                         <title source="9">jun yao</title>
                         <note source="290">佚名撰</note>
                         <!--Unused allegro fields-->
@@ -243,7 +243,7 @@
                         <!-- #900: o -->
                      </msItem>
                      <msItem n="16">
-                        <title>軍占 ^一卷^</title>
+                        <title>軍占 一卷</title>
                         <title source="9">jun zhan</title>
                         <note source="290">佚名撰</note>
                         <!--Unused allegro fields-->

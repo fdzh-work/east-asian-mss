@@ -48,14 +48,14 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">靈峯草堂叢書 ^存九種^</title>
+                     <title source="#200">靈峯草堂叢書 存九種</title>
                      <title source="#200|9">ling feng cao tang cong shu</title>
                      <note source="#290">(清)陳矩輯</note>
                      <author source="#300" key="person_6091"><persName>(清)陳矩</persName><persName type="9">chen
                            ju</persName></author>
                      <note source="#409">清光緒中貴陽陳氏刊本</note>
                      <msItem n="1">
-                        <title>春秋左傳杜注校勘記 ^一卷^</title>
+                        <title>春秋左傳杜注校勘記 一卷</title>
                         <title source="9">chun qiu zuo zhuan du zhu jiao kan ji</title>
                         <note source="290">(清)黎庶昌撰</note>
                         <author key="person_6426"><persName>(清)黎庶昌</persName><persName type="9">li shu
@@ -67,7 +67,7 @@
                         <!-- #600: 光緒甲午[1894]刊 -->
                      </msItem>
                      <msItem n="2">
-                        <title>孟子外書補注 ^四卷^</title>
+                        <title>孟子外書補注 四卷</title>
                         <title source="9">meng zi wai shu bu zhu</title>
                         <note source="290">(宋)劉攽原本</note>
                         <note source="290">(清)陳矩補注</note>
@@ -82,7 +82,7 @@
                         <!-- #600: 光緒辛卯[1891]刊 -->
                      </msItem>
                      <msItem n="3">
-                        <title>孟子弟子考補正 ^一卷^</title>
+                        <title>孟子弟子考補正 一卷</title>
                         <title source="9">meng zi di zi kao bu zheng</title>
                         <note source="290">(清)朱彝尊原本</note>
                         <note source="290">(清)陳矩補正</note>
@@ -95,7 +95,7 @@
                         <!-- #0rx: dh579+3 -->
                      </msItem>
                      <msItem n="4">
-                        <title>天全石錄 ^一卷^</title>
+                        <title>天全石錄 一卷</title>
                         <title source="9">meng zi di zi kao bu zheng</title>
                         <note source="290">(清)陳矩撰</note>
                         <author key="person_6091"><persName>(清)陳矩</persName><persName type="9">chen
@@ -107,7 +107,7 @@
                         <!-- #600: 光緒癸卯[1903]錦城刊 -->
                      </msItem>
                      <msItem n="5">
-                        <title>洪度集 ^一卷^</title>
+                        <title>洪度集 一卷</title>
                         <title source="9">hong du ji</title>
                         <note source="290">(唐)薛濤撰</note>
                         <author key="person_798"><persName>(唐)薛濤</persName><persName type="9">xue
@@ -119,7 +119,7 @@
                         <!-- #600: 光緒丙午[1906]刊 -->
                      </msItem>
                      <msItem n="6">
-                        <title>翰林學士集 ^一卷^</title>
+                        <title>翰林學士集 一卷</title>
                         <title source="9">han lin xue shi ji</title>
                         <note source="290">(唐)佚名輯</note>
                         <!--Unused allegro fields-->
@@ -129,7 +129,7 @@
                         <!-- #600: 光緒癸巳[1893]影刊日本尾張國眞福寺舊藏唐鈔卷子本 -->
                      </msItem>
                      <msItem n="7">
-                        <title>靈峯草堂集 ^四種四卷^</title>
+                        <title>靈峯草堂集 四種四卷</title>
                         <title source="9">ling feng cao tang ji</title>
                         <author key="person_6091"><persName>(清)陳矩</persName><persName type="9">chen
                            ju</persName></author>
@@ -140,7 +140,7 @@
                         <!-- #600: 光緒癸巳[1893]刊 -->
                         <!-- #905: See note in main title record. -->
                         <msItem n="1">
-                           <title>悟蘭唫 ^一卷^</title>
+                           <title>悟蘭唫 一卷</title>
                            <title source="9">wu lan yin</title>
                            <author key="person_6091"><persName>(清)陳矩</persName><persName type="9">chen
                               ju</persName></author>
@@ -150,7 +150,7 @@
                         </msItem>
 
                         <msItem n="2">
-                           <title>滇游草 ^一卷^</title>
+                           <title>滇游草 一卷</title>
                            <title source="9">dian you cao</title>
                            <author key="person_6091"><persName>(清)陳矩</persName><persName type="9">chen
                               ju</persName></author>
@@ -160,7 +160,7 @@
                         </msItem>
 
                         <msItem n="3">
-                           <title>東瀛草 ^一卷^</title>
+                           <title>東瀛草 一卷</title>
                            <title source="9">dong ying cao</title>
                            <author key="person_6091"><persName>(清)陳矩</persName><persName type="9">chen
                               ju</persName></author>
@@ -170,7 +170,7 @@
                         </msItem>
 
                         <msItem n="4">
-                           <title>東游文藁 ^一卷^</title>
+                           <title>東游文藁 一卷</title>
                            <title source="9">dong you wen gao</title>
                            <author key="person_6091"><persName>(清)陳矩</persName><persName type="9">chen
                               ju</persName></author>
@@ -180,7 +180,7 @@
                         </msItem>
                      </msItem>
                      <msItem n="8">
-                        <title>黔語 ^二卷^</title>
+                        <title>黔語 二卷</title>
                         <title source="9">qian yu</title>
                         <note source="290">(清)吳振棫纂</note>
                         <author key="person_3581"><persName>(清)吳振棫</persName><persName type="9">wu zhen
@@ -190,7 +190,7 @@
                         <!-- #0rx: dh579+8 -->
                      </msItem>
                      <msItem n="9">
-                        <title>毛詩 ^殘三卷^</title>
+                        <title>毛詩 殘三卷</title>
                         <title source="9">mao shi</title>
                         <note source="290">(漢)鄭玄箋</note>
                         <author key="person_6609"><persName>(漢)鄭玄</persName><persName type="9">zheng
