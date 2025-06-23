@@ -75,7 +75,16 @@
                      <availability status="printcat">
                         <p>Orderable through <ref target="https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990221307210107026">SOLO</ref></p></availability>
                   </adminInfo>
-               </additional>
+               <surrogates>
+ <listBibl>
+  <bibl subtype="full" type="digital-facsimile">
+   <ref target="https://digital.bodleian.ox.ac.uk/objects/bbf8170b-1cc8-46df-ba30-7e5d1a1699a9">
+    <title>Digital Bodleian</title>
+   </ref>
+   <note>(full digital facsimile)</note>
+  </bibl>
+ </listBibl>
+</surrogates></additional>
             </msDesc>
             
          </sourceDesc>

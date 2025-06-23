@@ -271,6 +271,15 @@
                      </availability>
                   </adminInfo>
                   <surrogates>
+ <listBibl>
+  <bibl subtype="full" type="digital-facsimile">
+   <ref target="https://digital.bodleian.ox.ac.uk/objects/5688bbf6-0649-4c7c-89b0-9a09e8c4a7f4">
+    <title>Digital Bodleian</title>
+   </ref>
+   <note>(full digital facsimile)</note>
+  </bibl>
+ </listBibl>
+</surrogates><surrogates>
                      <listBibl>
                         <bibl subtype="full" type="digital-facsimile">
                            <ref target="https://digital.bodleian.ox.ac.uk/objects/af5cfa04-01b3-474a-abe4-48834acb29f2">
