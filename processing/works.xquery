@@ -54,7 +54,7 @@ declare variable $allinstances :=
         </instance>;
 
 <add>
-<output>{$allinstances}</output>
+
 {
     comment{concat(' Indexing started at ', current-dateTime(), ' using authority file at ', substring-after(base-uri($authorityentries[1]), 'file:'), ' ')}
 }
