@@ -200,7 +200,7 @@
     <xsl:template match="note[@source='#409']">
         <div class="tei-title">
             <span class="tei-label">
-                <xsl:copy-of select="bod:standardText('Traditional edition statement:')"/>
+                <xsl:copy-of select="bod:standardText('Edition statement:')"/>
                 <xsl:text> </xsl:text>
             </span>
             <span>
