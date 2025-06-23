@@ -52,11 +52,9 @@
                      <title source="#200">皇清經解續編</title>
                      <title source="#200|9">huang qing jing jie xu bian</title>
                      <note source="#290">(清)王先謙輯</note>
-                     <author source="#300" key="person_5014"><persName>(清)王先謙</persName><persName
-                           type="9">wang xian qian</persName></author>
+                     <author source="#300" key="person_5014"><persName>(清)王先謙</persName><persName type="9">wang xian qian</persName></author>
                      <note source="#409">清光緒己丑[1889]上海蜚英館石印本</note>
-                     <editor source="#440" role="pbl"><persName>蜚英館</persName><persName type="9"
-                           role="pbl">fei ying guan</persName></editor>
+                     <editor source="#440" role="pbl"><persName>蜚英館</persName><persName type="9" role="pbl">fei ying guan</persName></editor>
                      <note><list type="contained_items">
                            <head>Contains: </head>
                            <item><ref target="volume_16667">Sinica 6749/1(1)</ref><title>﻿九經誤字
@@ -518,9 +516,7 @@
                         <!-- #909: SerD -->
                      </recordHist>
                      <availability status="printcat">
-                        <p>Orderable through <ref
-                              target="https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990221543390107026"
-                              >SOLO</ref></p>
+                        <p>Orderable through <ref target="https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990221543390107026">SOLO</ref></p>
                      </availability>
                   </adminInfo>
                </additional>
@@ -545,7 +541,7 @@
          <textClass>
             <keywords scheme="#siku">
                <list>
-                  <item><term key="280.89">經部 總義類 群經</term></item>
+                  <item><term key="subject_280" source="280.89">經部 <term>總義類 群經</term></term></item>
                </list>
             </keywords>
             <keywords scheme="#bodleian_chinese_thesaurus">

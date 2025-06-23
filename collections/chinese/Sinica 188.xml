@@ -53,15 +53,11 @@
                      <title source="#200|9">shi ji</title>
                      <note source="#290">(漢)司馬遷撰</note>
                      <note source="#290">(明)徐孚遠, (明)陳子龍測義</note>
-                     <author source="#300" key="person_6502"><persName>(漢)司馬遷</persName><persName
-                           type="9">si ma qian</persName></author>
-                     <author source="#300" key="person_2216"><persName>(明)徐孚遠</persName><persName
-                           type="9">xu fu yuan</persName></author>
-                     <author source="#300" key="person_2707"><persName>(明)陳子龍</persName><persName
-                           type="9">chen zi long</persName></author>
+                     <author source="#300" key="person_6502"><persName>(漢)司馬遷</persName><persName type="9">si ma qian</persName></author>
+                     <author source="#300" key="person_2216"><persName>(明)徐孚遠</persName><persName type="9">xu fu yuan</persName></author>
+                     <author source="#300" key="person_2707"><persName>(明)陳子龍</persName><persName type="9">chen zi long</persName></author>
                      <note source="#409">重刊本敬書堂藏板</note>
-                     <editor source="#440" role="pbl"><persName>敬書堂</persName><persName type="9"
-                           role="pbl">jing shu tang</persName></editor>
+                     <editor source="#440" role="pbl"><persName>敬書堂</persName><persName type="9" role="pbl">jing shu tang</persName></editor>
                   </msItem>
                </msContents>
                <physDesc>
@@ -102,9 +98,7 @@
                         <!-- #909: SerD -->
                      </recordHist>
                      <availability status="printcat">
-                        <p>Orderable through <ref
-                              target="https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990221540430107026"
-                              >SOLO</ref></p>
+                        <p>Orderable through <ref target="https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990221540430107026">SOLO</ref></p>
                      </availability>
                   </adminInfo>
                </additional>
@@ -129,7 +123,7 @@
          <textClass>
             <keywords scheme="#siku">
                <list>
-                  <item><term key="302.17.84">史部 正史類 分刻</term></item>
+                  <item><term key="subject_302" source="302.17.84">史部 <term>正史類 分刻</term></term></item>
                </list>
             </keywords>
             <keywords scheme="#bodleian_chinese_thesaurus">
