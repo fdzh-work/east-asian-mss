@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="volume_1643">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="volume_17566">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -22,8 +22,7 @@
                   <settlement>Oxford</settlement>
                   <postCode>OX1 3BG</postCode>
                   <addrLine>
-                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian
-                        Library</ref>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
                   </addrLine>
                   <addrLine>
                      <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
@@ -42,86 +41,66 @@
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
                   <collection/>
-                  <idno type="shelfmark">Sinica 188</idno>
+                  <idno type="shelfmark">Sinica 4700</idno>
                </msIdentifier>
-               <head>書名:史記 一百三十卷首一卷 / (漢)司馬遷撰 ; (明)徐孚遠, (明)陳子龍測義<lb/>重刊本敬書堂藏板<lb/>線裝26冊 ;
-                  26公分<lb/></head>
+               <head>孔子世家補訂 一卷 ; 附 孟子列傳纂 一卷 / (清)林春薄撰<lb/>
+                  清道光甲午[1834]竹伯山房刊本<lb/>
+                  線裝1冊 ; 26公分<lb/>
+                  與咸豐甲寅[1854]竹柏山房刊《孟子外書補證》合印</head>
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">史記 一百三十卷首一卷</title>
-                     <title source="#200|9">shi ji</title>
-                     <note source="#290">(漢)司馬遷撰</note>
-                     <note source="#290">(明)徐孚遠, (明)陳子龍測義</note>
-                     <author source="#300" key="person_6502"><persName>(漢)司馬遷</persName><persName
-                           type="9">si ma qian</persName></author>
-                     <author source="#300" key="person_2216"><persName>(明)徐孚遠</persName><persName
-                           type="9">xu fu yuan</persName></author>
-                     <author source="#300" key="person_2707"><persName>(明)陳子龍</persName><persName
-                           type="9">chen zi long</persName></author>
-                     <note source="#409">重刊本敬書堂藏板</note>
-                     <editor source="#440" role="pbl"><persName>敬書堂</persName><persName type="9"
-                           role="pbl">jing shu tang</persName></editor>
-                  </msItem>
+                  <title source="#200">孔子世家補訂 一卷</title><title source="#200|9">kong zi shi jia bu ding</title><title source="#200">附 孟子列傳纂 一卷</title><title source="#200|9">meng zi lie zhuan zuan</title><note source="#290">(清)林春薄撰</note><author source="#300"><persName>(清)林春薄</persName><persName type="9">lin chun bao</persName></author><note source="#409">清道光甲午[1834]竹伯山房刊本</note><editor source="#440" role="pbl"><persName>竹柏山房</persName><persName type="9" role="pbl">zhu bai shan fang</persName></editor><note source="#600">與咸豐甲寅[1854]竹柏山房刊《孟子外書補證》合印</note></msItem>         
                </msContents>
                <physDesc>
-
+                  
                   <objectDesc>
-
+                     
                      <supportDesc>
-
-                        <extent><foreign xml:lang="chi">26冊</foreign>26 volumes.<!--線裝26冊 ; 26公分--><dimensions unit="cm">
-                              <height>26</height>
-                           </dimensions></extent>
-                     </supportDesc>
-
+                        <support/>
+                     <extent>1 volume.<!--線裝1冊 ; 26公分--><dimensions unit="cm"><height>26</height></dimensions></extent></supportDesc>
+                     
                   </objectDesc>
 
-                  <bindingDesc>
-                     <binding>
-                        <p xml:lang="chi">線裝</p>
-                        <p>traditional thread binding</p>
-                     </binding>
-                  </bindingDesc>
-               </physDesc>
+               <bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
-                     <origDate calendar="#Gregorian" when="1640" type="d">1640</origDate>
+                     <origDate calendar="#Gregorian" when="1834" type="d">1834</origDate>
                      <origPlace>China</origPlace>
                   </origin>
-
-               </history>
+                  <provenance/>
+                  <acquisition/>
+               <acquisition>Piet van der Loon</acquisition></history>
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source> </source>
-                        <!--Unused allegro fields-->
-                        <!-- #000: 20020815/13:42:48|odh -->
-                        <!-- #0rr: 20121112/11:52:37|odh -->
-                        <!-- #900: or -->
-                        <!-- #909: SerD -->
-                     </recordHist>
+                        <source>
+                        </source>
+                     <!--Unused allegro fields--><!-- #000: 20060112/11:30:22|odh --><!-- #0rr: 20190630/11:30:40-141890/63|omaster --><!-- #900: o --><!-- #909: SerD --></recordHist>
                      <availability status="printcat">
-                        <p>Orderable through <ref
-                              target="https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990221540430107026"
-                              >SOLO</ref></p>
-                     </availability>
+                        <p>Orderable through <ref target="https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/35n82s/alma990221407120107026">SOLO</ref></p></availability>
                   </adminInfo>
                </additional>
             </msDesc>
-
+            
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
          <classDecl>
             <taxonomy xml:id="siku">
-               <bibl> Siku classification </bibl>
+               <bibl>
+                  Siku classification
+               </bibl>
             </taxonomy>
             <taxonomy xml:id="bodleian_chinese_thesaurus">
-               <bibl> Bodleian Chinese thesaurus </bibl>
+               <bibl>
+                  Bodleian Chinese thesaurus
+               </bibl>
             </taxonomy>
             <taxonomy xml:id="harvard-yenching">
-               <bibl> Harvard-Yenching Classification System </bibl>
+               <bibl>
+                  Harvard-Yenching Classification System
+               </bibl>
             </taxonomy>
          </classDecl>
       </encodingDesc>
@@ -129,18 +108,19 @@
          <textClass>
             <keywords scheme="#siku">
                <list>
-                  <item><term key="302.17.84">史部 正史類 分刻</term></item>
-               </list>
+               <item><term key="302.17.88">史部 正史類 分刻</term></item></list>
             </keywords>
             <keywords scheme="#bodleian_chinese_thesaurus">
-               <list> </list>
+               <list>
+               </list>
             </keywords>
             <keywords scheme="#harvard-yenching">
-               <list> </list>
+               <list>
+               </list>
             </keywords>
          </textClass>
       </profileDesc>
-   </teiHeader>
+      </teiHeader>
    <text>
       <body>
          <p><!--Body paragraph provided for validation and future transcription--></p>

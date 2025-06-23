@@ -235,6 +235,16 @@
                         <!-- #000: 20161230/00000019|odh -->
                         <!-- #0rx: dh624+18 -->
                      </msItem>
+                     <msItem n="19">
+                        <title>陽山新錄 一卷</title>
+                        <title source="9">yang shan xin lu</title>
+                        <note source="290">(明)顧元慶, (明)岳岱撰</note>
+                        <author key="person_2765"><persName>(明)顧元慶</persName><persName type="9">gu yuan qing</persName></author>
+                        <author key="person_2154"><persName>(明)岳岱</persName><persName type="9">yue dai</persName></author>
+                     <!--Unused allegro fields-->
+                     <!-- #000: 20161230/00000018|odh -->
+                     <!-- #0rx: dh624+18 -->
+                  </msItem>
                      <msItem n="20">
                         <title>新倩籍 一卷</title>
                         <title source="9">xin qian ji</title>
