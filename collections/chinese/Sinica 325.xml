@@ -50,15 +50,15 @@
                </msContents>
                <physDesc>
                   
-                  <p>Isaiah only. - 精裝1冊 ; 27.0公分</p><objectDesc>
+                  <p>Isaiah only.</p><objectDesc>
                      
                      <supportDesc>
                         
-                     <extent>4 volumes.<!--線裝4冊(various pagings) ; 26.3公分--><dimensions unit="cm"><height>26.3</height></dimensions></extent></supportDesc>
+                        <extent><measure type="volume" n="1">1冊</measure><dimensions unit="cm"><height>27</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <typeDesc><p>woodblock</p></typeDesc><bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+                  <typeDesc><p>woodblock</p></typeDesc><bindingDesc><binding><p xml:lang="chi"> 精裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1838" type="d">1838</origDate>

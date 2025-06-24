@@ -50,15 +50,15 @@
                <msItem n="2"><title source="#201">附 唐詩三百首續選 一卷</title><title source="#201|9">tang shi san bai shou xu xuan</title><note source="#291">(清)于慶元編</note><author source="#301" key="person_3277"><persName>(清)于慶元</persName><persName type="9">yu qing yuan</persName></author></msItem></msItem></msContents>
                <physDesc>
                   
-                  <p>缺卷六. - 線裝7冊</p><objectDesc>
+                  <p>缺卷六.</p><objectDesc>
                      
                      <supportDesc>
                         
-                     <extent>8 volumes.<!--線裝8冊 ; 24公分--><dimensions unit="cm"><height>24</height></dimensions></extent></supportDesc>
+                     <extent><dimensions unit="cm"><height>24</height></dimensions><measure type="volume" n="7">7冊</measure></extent></supportDesc>
                      
                   </objectDesc>
 
-               <bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1894" type="d">1894</origDate>

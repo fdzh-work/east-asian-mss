@@ -50,15 +50,15 @@
                </msContents>
                <physDesc>
                   
-                  <p>26公分</p><objectDesc>
+                  <objectDesc>
                      
                      <supportDesc>
                         
-                     <extent>8 volumes.<!--線裝8冊 ; 27公分--><dimensions unit="cm"><height>27</height></dimensions></extent></supportDesc>
+                     <extent><measure n="8" type="volume">8冊</measure><!--線裝8冊 ; 27公分--><dimensions unit="cm"><height>26</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <sealDesc><seal><p>有「崇雅堂家藏印」、「澹香書屋」印記</p></seal></sealDesc><bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <sealDesc><seal><p>有「崇雅堂家藏印」、「澹香書屋」印記</p></seal></sealDesc><bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1802" type="d">1802</origDate>

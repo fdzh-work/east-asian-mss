@@ -54,11 +54,11 @@
                      
                      <supportDesc>
                         
-                     <extent>1 volume, (vii, 99頁) <!--精裝1冊 (vii, 99頁) ; 21.5公分--><dimensions unit="cm"><height>21.5</height></dimensions></extent></supportDesc>
+                     <extent><measure type="volume" n="1">1冊</measure><!--精裝1冊 (vii, 99頁) ; 21.5公分--><measure type="page" n="99">vii, 99頁</measure><dimensions unit="cm"><height>21.5</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <typeDesc><p>typography</p></typeDesc></physDesc>
+               <typeDesc><p>typography</p></typeDesc><bindingDesc><p xml:lang="chi">精裝</p></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1876" type="d">1876</origDate>

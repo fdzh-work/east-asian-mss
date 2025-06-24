@@ -54,11 +54,11 @@
                      
                      <supportDesc>
                         
-                     <extent>1 volume.<!--洋裝1冊(原平裝3冊) : 圖 ; 25 x 31公分--><dimensions unit="cm"><height>25</height><width>31</width></dimensions></extent></supportDesc>
+                     <extent><measure type="volume" n="1">1冊</measure><!--洋裝1冊(原平裝3冊) : 圖 ; 25 x 31公分--><dimensions unit="cm"><height>25</height><width>31</width></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               </physDesc>
+               <bindingDesc><p xml:lang="chi">洋裝</p></bindingDesc><decoDesc><p>圖</p></decoDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1910" type="d">1910</origDate>

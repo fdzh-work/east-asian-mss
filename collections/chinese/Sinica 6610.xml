@@ -54,11 +54,11 @@
                      
                      <supportDesc>
                         
-                     <extent>1 volume.<!--洋裝(原線裝)1冊 ; 24公分--><dimensions unit="cm"><height>24</height></dimensions></extent></supportDesc>
+                     <extent><measure type="volume" n="1">1冊</measure><!--洋裝(原線裝)1冊 ; 24公分--><dimensions unit="cm"><height>24</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <sealDesc><seal><p>有「王印崇武」、「王崇武」、「王印崇武」印記</p></seal></sealDesc><bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <sealDesc><seal><p>有「王印崇武」、「王崇武」、「王印崇武」印記</p></seal></sealDesc><bindingDesc><binding><p xml:lang="chi">洋裝(原線裝)</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1868" type="d">1868</origDate>

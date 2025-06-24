@@ -50,15 +50,15 @@
                </msContents>
                <physDesc>
                   
-                  <p>殘卷三﹑四(有缺)﹑五(有缺)﹑六 ﹑八. - 折裝4冊 ; 26公分, 29公分</p><objectDesc>
+                  <p>殘卷三﹑四(有缺)﹑五(有缺)﹑六 ﹑八. </p><objectDesc>
                      
                      <supportDesc>
                         
-                     <extent>8 volumes.<!--折裝8冊 ; 26公分--><dimensions unit="cm"><height>26</height></dimensions></extent></supportDesc>
+                        <extent><measure type="volume" n="4">4冊</measure><dimensions unit="cm"><height>26-29</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <bindingDesc><binding><p>traditional "accordion" (or "sutra") binding</p></binding></bindingDesc></physDesc>
+                  <bindingDesc><binding><p xml:lang="chi">折裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1768" type="d">1768</origDate>

@@ -50,14 +50,14 @@
                </msContents>
                <physDesc>
                   
-                  <p>20.3公分</p><objectDesc>
+             <objectDesc>
                      
                      <supportDesc>
                         
-                     <extent>1 volume, (ix, [1], 266頁) <!--平裝1冊 (ix, [1], 266頁) ; 20.5公分--><dimensions unit="cm"><height>20.5</height></dimensions></extent></supportDesc>
+                        <extent>1冊 (ix, [1], 266頁)<!--平裝1冊 (ix, [1], 266頁) ; 20.5公分--><dimensions unit="cm"><height>20.3</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
-
+                  <bindingDesc><binding><p xml:lang="chi">平裝</p></binding></bindingDesc>
                <typeDesc><p>typography</p></typeDesc></physDesc>
                <history>
                   <origin>

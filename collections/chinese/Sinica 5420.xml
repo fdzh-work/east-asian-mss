@@ -54,11 +54,11 @@
                      
                      <supportDesc>
                         
-                     <extent>1 volume, 29 pages.<!--平裝1冊(29頁) ; 19公分--><dimensions unit="cm"><height>19</height></dimensions></extent></supportDesc>
+                     <extent><measure type="volume" n="1">1冊</measure><!--平裝1冊(29頁) ; 19公分--><measure type="page" n="29">29頁</measure><dimensions unit="cm"><height>19</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               </physDesc>
+               <bindingDesc><p xml:lang="chi">平裝</p></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" notBefore="1920" notAfter="1940" type="f">1920 - 1940</origDate>

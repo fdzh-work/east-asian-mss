@@ -50,15 +50,15 @@
                </msContents>
                <physDesc>
                   
-                  <p>20.4公分. - Bound with 4 other works</p><objectDesc>
+                  <p>Bound with 4 other works</p><objectDesc>
                      
                      <supportDesc>
                         
-                     <extent>1 volume, 12 pages.<!--線裝1冊(12頁) ; 20.6公分--><dimensions unit="cm"><height>20.6</height></dimensions></extent></supportDesc>
+                        <extent>1冊(12頁)<!--線裝1冊(12頁) ; 20.6公分--><dimensions unit="cm"><height>20.4</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <typeDesc><p>typography</p><p>Dyer</p></typeDesc><bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <typeDesc><p>typography</p><p>Dyer</p></typeDesc><bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1864" type="d">1864</origDate>

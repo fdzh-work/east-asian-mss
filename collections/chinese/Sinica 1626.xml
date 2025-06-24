@@ -54,11 +54,11 @@
                      
                      <supportDesc>
                         
-                     <extent>1 volume, (2, 15頁) <!--線裝1冊 (2, 15頁) ; 22.9公分--><dimensions unit="cm"><height>22.9</height></dimensions></extent></supportDesc>
+                     <extent><measure type="volume" n="1">1冊</measure><!--線裝1冊 (2, 15頁) ; 22.9公分--><measure type="page">2, 15頁</measure><dimensions unit="cm"><height>22.9</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <typeDesc><p>woodblock</p></typeDesc><bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <typeDesc><p>woodblock</p></typeDesc><bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1856" type="d">1856</origDate>

@@ -50,15 +50,16 @@
                </msContents>
                <physDesc>
                   
-                  <p>線裝1冊(1, 30頁) ; 24.7公分</p><objectDesc>
+                     <objectDesc>
                      
                      <supportDesc>
-                        
+                        <extent><measure n="1" type="volume">1冊(1, 30頁)</measure><dimensions unit="cm"><height>24.7</height></dimensions></extent>
                      </supportDesc>
                      
                   </objectDesc>
 
-               <typeDesc><p>woodblock</p><p>typography</p></typeDesc></physDesc>
+               <typeDesc><p>woodblock</p><p>typography</p></typeDesc>
+                  <bindingDesc><p xml:lang="chi">線裝</p></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" notBefore="1843" notAfter="1865" type="b">1843 - 1865</origDate>

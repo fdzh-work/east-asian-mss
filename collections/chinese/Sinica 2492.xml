@@ -54,11 +54,11 @@
                      
                      <supportDesc>
                         
-                     <extent><!--地圖2幅 : 彩色 ; 63 x 81, 61 x 81公分--><dimensions unit="cm"><height>63</height><width>81, 61</width></dimensions></extent></supportDesc>
+                     <extent>2幅<!--地圖2幅 : 彩色 ; 63 x 81, 61 x 81公分--><dimensions unit="cm"><height>63</height><width>81, 61</width></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               </physDesc>
+               <bindingDesc><p xml:lang="chi">地圖</p></bindingDesc><decoDesc><p>圖</p></decoDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1862" type="d">1862</origDate>

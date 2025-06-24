@@ -54,11 +54,11 @@
                      
                      <supportDesc>
                         
-                     <extent>48 volumes.<!--線裝48冊 ; 25公分--><dimensions unit="cm"><height>25</height></dimensions></extent></supportDesc>
+                     <extent><measure type="volume" n="48">48冊</measure><!--線裝48冊 ; 25公分--><dimensions unit="cm"><height>25</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <sealDesc><seal><p>有「桐城姚伯卬氏藏書記」、「姚氏收藏」、「小紅鵝館」、「姚氏豸青」印記</p></seal></sealDesc><bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <sealDesc><seal><p>有「桐城姚伯卬氏藏書記」、「姚氏收藏」、「小紅鵝館」、「姚氏豸青」印記</p></seal></sealDesc><bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1579" type="d">1579</origDate>

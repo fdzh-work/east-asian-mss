@@ -54,11 +54,11 @@
                      
                      <supportDesc>
                         
-                     <extent><!--線裝12策 ; 17公分--><dimensions unit="cm"><height>17</height></dimensions></extent></supportDesc>
+                     <extent>12策<!--線裝12策 ; 17公分--><dimensions unit="cm"><height>17</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1790" type="d">1790</origDate>

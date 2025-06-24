@@ -49,16 +49,15 @@
                   <title source="#200">福音新報</title><title source="#200|9">fu yin xin bao</title><author source="#300" key="person_6992"><persName>Payson, Adelia M</persName></author><author source="#300" key="person_7090"><persName>Woolston, Beulah</persName></author><author source="#300" key="person_7091"><persName>Woolston, Sarah H</persName></author><editor source="#420" role="pbl"><persName>美華書館</persName><persName type="9" role="pbl">mei hua shu guan</persName></editor><note source="#600">Ed. by A M Payson, B Woolston, and S H Woolston?</note><note source="#600">No.2 onwards published at Foochow</note><note source="#600">In Foochow dialect</note></msItem>         
                </msContents>
                <physDesc>
-                  
-                  <p>毛裝4冊 ; 28.1公分</p><objectDesc>
+               =<objectDesc>
                      
                      <supportDesc>
                         
-                     <extent><!--冊 : 圖--><dimensions unit="cm"><height>冊 : 圖</height></dimensions></extent></supportDesc>
+                        <extent><measure type="volume" n="4">4冊</measure><!--冊 : 圖--><dimensions unit="cm"><height>28.1</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <typeDesc><p>typography</p><p>Beyerhaus</p><p>Cole</p></typeDesc></physDesc>
+                  <typeDesc><p>typography</p><p>Beyerhaus</p><p>Cole</p></typeDesc><bindingDesc><p xml:lang="chi">毛裝</p></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" notBefore="1874" notAfter="1876" type="b">1874 - 1876</origDate>

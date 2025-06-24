@@ -50,15 +50,15 @@
                </msContents>
                <physDesc>
                   
-                  <p>洋裝(原線裝)1冊 ; 37公分</p><objectDesc>
+                <objectDesc>
                      
                      <supportDesc>
                         
-                     <extent>1 volume.<!--線裝1冊 ; 41公分--><dimensions unit="cm"><height>41</height></dimensions></extent></supportDesc>
+                        <extent>1冊<!--線裝1冊 ; 41公分--><dimensions unit="cm"><height>37</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <sealDesc><seal><p>有「謝況況翁」、「峰雲草堂」印記</p></seal></sealDesc><bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+                  <sealDesc><seal><p>有「謝況況翁」、「峰雲草堂」印記</p></seal></sealDesc><bindingDesc><binding><p xml:lang="chi">洋裝(原線裝)</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1879" type="d">1879</origDate>

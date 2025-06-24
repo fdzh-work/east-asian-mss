@@ -62,16 +62,11 @@
 
                      <supportDesc>
                         <support/>
-                        <extent>80 volumes.<!--10函(線裝80冊) ; 18公分--><dimensions unit="cm"><height>18</height></dimensions></extent>
+                        <extent><measure n="10">10函 (線裝80冊)</measure><!--10函(線裝80冊) ; 18公分--><dimensions unit="cm"><height>18</height></dimensions></extent>
                      </supportDesc>
 
                   </objectDesc>
 
-                  <bindingDesc>
-                     <binding>
-                        <p>traditional thread binding</p>
-                     </binding>
-                  </bindingDesc>
                </physDesc>
                <history>
                   <origin>

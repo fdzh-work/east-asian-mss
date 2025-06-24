@@ -50,15 +50,15 @@
                </msContents>
                <physDesc>
                   
-                  <p>殘卷四～七(有缺). - 線裝1冊</p><objectDesc>
+                  <p>殘卷四～七(有缺).</p><objectDesc>
                      
                      <supportDesc>
                         
-                     <extent>2 volumes.<!--線裝2冊 ; 27公分--><dimensions unit="cm"><height>27</height></dimensions></extent></supportDesc>
+                        <extent>1冊<dimensions unit="cm"><height>27</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1589" type="d">1589</origDate>

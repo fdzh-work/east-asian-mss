@@ -54,11 +54,11 @@
                      
                      <supportDesc>
                         
-                     <extent>60 volumes.<!--線裝60冊 ; 25公分--><dimensions unit="cm"><height>25</height></dimensions></extent></supportDesc>
+                     <extent><measure type="volume" n="60">60冊</measure><!--線裝60冊 ; 25公分--><dimensions unit="cm"><height>25</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <sealDesc><seal><p>有「紅櫚書屋」、「淮陰胡氏家藏」、「遂性草堂胡氏所藏」、「讀書爲善作人家」、「南清河胡氏遂性草堂鑑藏金石書畫印」、「養德書院之記」印記</p></seal></sealDesc><bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <sealDesc><seal><p>有「紅櫚書屋」、「淮陰胡氏家藏」、「遂性草堂胡氏所藏」、「讀書爲善作人家」、「南清河胡氏遂性草堂鑑藏金石書畫印」、「養德書院之記」印記</p></seal></sealDesc><bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1522" type="d">1522</origDate>

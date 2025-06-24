@@ -48,13 +48,11 @@
                   <msItem n="1">
                   <title source="#200">罪人得救之法</title><title source="#200|9">zui ren de jiu zhi fa</title><author source="#300" key="person_6958"><persName>McCartee, Divie Bethune</persName></author><note source="#600">By D B McCartee</note></msItem>         
                </msContents>
-               <physDesc>
-                  
-                  <p>18.9 x 24.2公分</p><objectDesc>
+               <physDesc><objectDesc>
                      
                      <supportDesc>
                         
-                     <extent><!--Single sheet ; 20 x 24公分--><dimensions unit="cm"><height>20</height><width>24</width></dimensions></extent></supportDesc>
+                     <extent><measure type="sheet" n="1">Single sheet</measure><dimensions unit="cm"><height>18.9</height><width>24.2</width></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 

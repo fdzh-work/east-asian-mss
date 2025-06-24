@@ -54,11 +54,11 @@
                      
                      <supportDesc>
                         
-                     <extent>48 volumes.<!--線裝48冊 ; 36公分--><dimensions unit="cm"><height>36</height></dimensions></extent></supportDesc>
+                     <extent><measure type="volume" n="48">48冊</measure><!--線裝48冊 ; 36公分--><dimensions unit="cm"><height>36</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <sealDesc><seal><p>有「廣運之寶」印記</p></seal></sealDesc><bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <sealDesc><seal><p>有「廣運之寶」印記</p></seal></sealDesc><bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1447" type="d">1447</origDate>

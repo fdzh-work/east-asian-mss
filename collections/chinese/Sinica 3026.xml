@@ -50,15 +50,15 @@
                </msContents>
                <physDesc>
                   
-                  <p>26公分. - 傳善成堂發兌</p><objectDesc>
+                  <p>傳善成堂發兌</p><objectDesc>
                      
                      <supportDesc>
                         
-                     <extent>4 volumes.<!--線裝4冊 ; 25公分--><dimensions unit="cm"><height>25</height></dimensions></extent></supportDesc>
+                     <extent><measure n="4" type="volume">4冊</measure><!--線裝4冊 ; 25公分--><dimensions unit="cm"><height>26</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1850" type="d">1850</origDate>

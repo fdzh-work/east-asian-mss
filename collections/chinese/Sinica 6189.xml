@@ -290,7 +290,7 @@
 
                      <supportDesc>
                         
-                        <extent>1 volume.<!--洋裝1冊(原線裝8冊) ; 25公分--><dimensions unit="cm"><height>25</height></dimensions></extent>
+                        <extent><measure type="volume" n="1">1冊</measure><!--洋裝1冊(原線裝8冊) ; 25公分--><dimensions unit="cm"><height>25</height></dimensions></extent>
                      </supportDesc>
 
                   </objectDesc>
@@ -302,7 +302,7 @@
                   </sealDesc>
                   <bindingDesc>
                      <binding>
-                        <p>traditional thread binding</p>
+                        <p xml:lang="chi">洋裝</p>
                      </binding>
                   </bindingDesc>
                </physDesc>

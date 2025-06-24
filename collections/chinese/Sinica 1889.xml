@@ -54,11 +54,11 @@
                      
                      <supportDesc>
                         
-                     <extent>6 volumes.<!--洋裝6冊 ; 23.7公分--><dimensions unit="cm"><height>23.7</height></dimensions></extent></supportDesc>
+                     <extent><measure type="volume" n="6">6冊</measure><!--洋裝6冊 ; 23.7公分--><dimensions unit="cm"><height>23.7</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <typeDesc><p>typography</p><p>Legrand</p><p>Cole</p><p>gamble</p></typeDesc></physDesc>
+               <typeDesc><p>typography</p><p>Legrand</p><p>Cole</p><p>gamble</p></typeDesc><bindingDesc><p xml:lang="chi">洋裝</p></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" notBefore="1868" notAfter="1874" type="b">1868 - 1874</origDate>

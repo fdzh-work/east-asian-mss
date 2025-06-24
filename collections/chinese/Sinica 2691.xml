@@ -54,11 +54,11 @@
                      
                      <supportDesc>
                         
-                     <extent>1 volume, 142 pages.<!--平裝1冊(142頁) ; 20.4公分--><dimensions unit="cm"><height>20.4</height></dimensions></extent></supportDesc>
+                     <extent><measure type="volume" n="1">1冊</measure><!--平裝1冊(142頁) ; 20.4公分--><measure type="page" n="142">142頁</measure><dimensions unit="cm"><height>20.4</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <typeDesc><p>typography</p><p>Cole</p><p>gamble</p></typeDesc></physDesc>
+               <typeDesc><p>typography</p><p>Cole</p><p>gamble</p></typeDesc><bindingDesc><p xml:lang="chi">平裝</p></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1910" type="d">1910</origDate>

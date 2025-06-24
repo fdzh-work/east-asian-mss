@@ -54,11 +54,11 @@
                      
                      <supportDesc>
                         
-                     <extent>24 volumes.<!--線裝24冊 ; 27公分--><dimensions unit="cm"><height>27</height></dimensions></extent></supportDesc>
+                     <extent><measure type="volume" n="24">24冊</measure><!--線裝24冊 ; 27公分--><dimensions unit="cm"><height>27</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <sealDesc><seal><p>有「玉涵秘篋」、「孔昭」、「燕緒眼福」、「乙雲山人」、「紫瑜」、「家住姑蘇臺(?)下」、「草廬吳氏」、「莫宿郎官」、「臣起潛印」、「子魚真賞」、「紫瑜」、「真趣」、「子魚所藏」、「子魚經眼」、「玉涵寶藏」、「子魚」、「吴印起潛」等印記</p></seal></sealDesc><bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <sealDesc><seal><p>有「玉涵秘篋」、「孔昭」、「燕緒眼福」、「乙雲山人」、「紫瑜」、「家住姑蘇臺(?)下」、「草廬吳氏」、「莫宿郎官」、「臣起潛印」、「子魚真賞」、「紫瑜」、「真趣」、「子魚所藏」、「子魚經眼」、「玉涵寶藏」、「子魚」、「吴印起潛」等印記</p></seal></sealDesc><bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1566" type="d">1566</origDate>

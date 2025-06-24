@@ -50,15 +50,15 @@
                <msItem n="2"><title source="#201">新約全書</title><title source="#201|9">xin yue quan shu</title></msItem></msItem></msContents>
                <physDesc>
                   
-                  <p>Old Testament only, 線裝3冊</p><objectDesc>
+                  <p>Old Testament only</p><objectDesc>
                      
                      <supportDesc>
                         
-                     <extent>4 volumes, (150, 195, 158, 82, 64頁) <!--線裝4冊 (150, 195, 158, 82, 64頁) ; 21公分--><dimensions unit="cm"><height>21</height></dimensions></extent></supportDesc>
+                        <extent><measure type="volume" n="3">3冊</measure><dimensions unit="cm"><height>21</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <typeDesc><p>typography</p><p>Cole</p></typeDesc><bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+                  <typeDesc><p>typography</p><p>Cole</p></typeDesc><bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1855" type="d">1855</origDate>

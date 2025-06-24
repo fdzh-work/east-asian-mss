@@ -54,11 +54,11 @@
                      
                      <supportDesc>
                         
-                     <extent>2 volumes.<!--線裝2冊(various pagings) : 地圖 ; 28.3公分--><dimensions unit="cm"><height>28.3</height></dimensions></extent></supportDesc>
+                     <extent><measure n="2" type="volume">2冊</measure><!--線裝2冊(various pagings) : 地圖 ; 28.3公分--><dimensions unit="cm"><height>28.3</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <typeDesc><p>woodblock</p></typeDesc><bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <typeDesc><p>woodblock</p></typeDesc><bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1873" type="d">1873</origDate>

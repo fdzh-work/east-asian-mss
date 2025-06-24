@@ -50,14 +50,14 @@
                </msContents>
                <physDesc>
                   
-                  <p>複製 Sinica 2733. - 精裝1冊([16]頁) ; 46 x 53公分</p><objectDesc>
+                  <p>複製 Sinica 2733.</p><objectDesc>
                      
                      <supportDesc>
                         
-                     <extent><!--1張 ; 176 x 110公分--><dimensions unit="cm"><height>176</height><width>110</width></dimensions></extent></supportDesc>
+                        <extent><measure type="volume" n="1">1冊</measure>([16]頁)<dimensions unit="cm"><height>46</height><width>53</width></dimensions></extent></supportDesc>
                      
                   </objectDesc>
-
+                  <bindingDesc><p xml:lang="chi">精裝</p></bindingDesc>
                </physDesc>
                <history>
                   <origin>

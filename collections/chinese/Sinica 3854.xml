@@ -125,17 +125,17 @@
 
                      <supportDesc>
                         
-                        <extent>20 volumes.<!--線裝20冊 : 圖 ; 29公分--><dimensions unit="cm"><height>29</height></dimensions></extent>
+                        <extent><measure type="volume" n="20">20冊</measure><!--線裝20冊 : 圖 ; 29公分--><dimensions unit="cm"><height>29</height></dimensions></extent>
                      </supportDesc>
 
                   </objectDesc>
 
                   <bindingDesc>
                      <binding>
-                        <p>traditional thread binding</p>
+                        <p xml:lang="chi">線裝</p>
                      </binding>
                   </bindingDesc>
-               </physDesc>
+               <decoDesc><p>圖</p></decoDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1919" type="d">1919</origDate>

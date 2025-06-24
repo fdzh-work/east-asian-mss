@@ -54,11 +54,11 @@
                      
                      <supportDesc>
                         
-                     <extent>4 volumes.<!--毛裝4冊 ; 20公分--><dimensions unit="cm"><height>20</height></dimensions></extent></supportDesc>
+                     <extent><measure n="4" type="volume">4冊</measure><!--毛裝4冊 ; 20公分--><dimensions unit="cm"><height>20</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <bindingDesc><binding><p>traditional "rough" binding</p></binding></bindingDesc></physDesc>
+               <bindingDesc><binding><p xml:lang="chi">毛裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1924" type="d">1924</origDate>

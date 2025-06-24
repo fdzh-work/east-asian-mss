@@ -54,11 +54,11 @@
                      
                      <supportDesc>
                         
-                     <extent>1 volume, 151 pages.<!--平裝1冊(151頁) ; 23.8公分--><dimensions unit="cm"><height>23.8</height></dimensions></extent></supportDesc>
+                     <extent><measure type="volume" n="1">1冊</measure><!--平裝1冊(151頁) ; 23.8公分--><measure type="page" n="151">151頁</measure><dimensions unit="cm"><height>23.8</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <typeDesc><p>typography</p></typeDesc></physDesc>
+               <typeDesc><p>typography</p></typeDesc><bindingDesc><p xml:lang="chi">平裝</p></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1889" type="d">1889</origDate>

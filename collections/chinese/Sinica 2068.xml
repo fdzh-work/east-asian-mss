@@ -50,15 +50,15 @@
                </msContents>
                <physDesc>
                   
-                  <p>毛裝. - 15.7公分</p><objectDesc>
+                  <objectDesc>
                      
                      <supportDesc>
                         
-                     <extent>1 volume, 3 pages.<!--線裝1冊(3頁) ; 15.1公分--><dimensions unit="cm"><height>15.1</height></dimensions></extent></supportDesc>
+                     <extent><dimensions unit="cm"><height>15.7</height></dimensions><measure type="volume" n="1">1冊(3頁)</measure></extent></supportDesc>
                      
                   </objectDesc>
 
-               <typeDesc><p>typography</p><p>Beyerhaus</p><p>Legrand</p></typeDesc><bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <typeDesc><p>typography</p><p>Beyerhaus</p><p>Legrand</p></typeDesc><bindingDesc><binding><p xml:lang="chi">毛裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1867" type="d">1867</origDate>

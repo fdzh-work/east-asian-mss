@@ -59,11 +59,11 @@
                      
                      <supportDesc>
                         
-                     <extent>1 volume.<!--折裝1冊 ; 27公分--><dimensions unit="cm"><height>27</height></dimensions></extent></supportDesc>
+                        <extent><measure n="1" type="volume">1冊</measure><!--折裝1冊 ; 27公分--><dimensions unit="cm"><height>27</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <bindingDesc><binding><p>traditional "accordion" (or "sutra") binding</p></binding></bindingDesc></physDesc>
+                  <bindingDesc><binding><p xml:lang="chi">折裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1573" type="d">1573</origDate>

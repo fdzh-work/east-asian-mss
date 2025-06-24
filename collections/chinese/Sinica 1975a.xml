@@ -50,15 +50,15 @@
                </msContents>
                <physDesc>
                   
-                  <p>毛裝1冊 ; 27.5公分</p><objectDesc>
+                  <objectDesc>
                      
                      <supportDesc>
                         
-                     <extent><!--冊 : 圖--><dimensions unit="cm"><height>冊 : 圖</height></dimensions></extent></supportDesc>
+                     <extent><!--冊 : 圖--><dimensions unit="cm"><height>27.5</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <typeDesc><p>typography</p><p>Beyerhaus</p><p>Cole</p></typeDesc></physDesc>
+                  <typeDesc><p>typography</p><p>Beyerhaus</p><p>Cole</p></typeDesc><bindingDesc><p xml:lang="chi">毛裝</p></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" notBefore="1874" notAfter="1876" type="b">1874 - 1876</origDate>

@@ -54,11 +54,11 @@
                      
                      <supportDesc>
                         
-                     <extent>8 volumes.<!--線裝8冊 ; 27公分--><dimensions unit="cm"><height>27</height></dimensions></extent></supportDesc>
+                     <extent><measure type="volume" n="8">8冊</measure><!--線裝8冊 ; 27公分--><dimensions unit="cm"><height>27</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <sealDesc><seal><p>有「南州味根書屋」、「不足爲(?)外人道也」、「香花須賞半開時」等印記</p></seal></sealDesc><bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <sealDesc><seal><p>有「南州味根書屋」、「不足爲(?)外人道也」、「香花須賞半開時」等印記</p></seal></sealDesc><bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1611" type="d">1611</origDate>

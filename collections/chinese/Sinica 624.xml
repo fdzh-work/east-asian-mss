@@ -54,11 +54,11 @@
                      
                      <supportDesc>
                         
-                     <extent>1 volume, ([1], 2, 110頁) <!--線裝1冊 ([1], 2, 110頁) : 圖, 地圖 ; 24.9公分--><dimensions unit="cm"><height>24.9</height></dimensions></extent></supportDesc>
+                     <extent><measure type="volume" n="1">1冊</measure><!--線裝1冊 ([1], 2, 110頁) : 圖, 地圖 ; 24.9公分--><measure type="page">[1], 2, 110頁</measure><dimensions unit="cm"><height>24.9</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <typeDesc><p>typography</p><p>Dyer</p><p>Legrand</p></typeDesc><bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <typeDesc><p>typography</p><p>Dyer</p><p>Legrand</p></typeDesc><bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc><decoDesc><p>圖, 地圖</p></decoDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1856" type="d">1856</origDate>

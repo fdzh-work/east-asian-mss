@@ -50,15 +50,15 @@
                </msContents>
                <physDesc>
                   
-                  <p>增《補四卷、附錄補一卷》. - 精裝2册(原線裝6冊)</p><objectDesc>
+                  <p>增《補四卷、附錄補一卷》.</p><objectDesc>
                      
                      <supportDesc>
                         
-                     <extent>6 volumes.<!--線裝6冊 ; 27公分--><dimensions unit="cm"><height>27</height></dimensions></extent></supportDesc>
+                     <extent><dimensions unit="cm"><height>27</height></dimensions><measure type="volume" n="2">2册(原線裝6冊)</measure></extent></supportDesc>
                      
                   </objectDesc>
 
-               <bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <bindingDesc><binding><p xml:lang="chi">精裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1911" type="d">1911</origDate>

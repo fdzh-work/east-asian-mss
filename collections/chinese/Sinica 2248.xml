@@ -50,15 +50,15 @@
                </msContents>
                <physDesc>
                   
-                  <p>乙亥四卷. - 4冊</p><objectDesc>
+                  <p>乙亥四卷.</p><objectDesc>
                      
                      <supportDesc>
                         
-                     <extent>20 volumes.<!--線裝20冊 ; 26公分--><dimensions unit="cm"><height>26</height></dimensions></extent></supportDesc>
+                     <extent><dimensions unit="cm"><height>26</height></dimensions><measure type="volume" n="4">4冊</measure></extent></supportDesc>
                      
                   </objectDesc>
 
-               <typeDesc><p>woodblock</p><p>typography</p><p>Beyerhaus</p><p>Cole</p></typeDesc><bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <typeDesc><p>woodblock</p><p>typography</p><p>Beyerhaus</p><p>Cole</p></typeDesc><bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" notBefore="1874" notAfter="1878" type="b">1874 - 1878</origDate>

@@ -54,7 +54,7 @@
                      
                      <supportDesc>
                         
-                     <extent>1 volume.<!--折裝1冊 ; 27公分--><dimensions unit="cm"><height>27</height></dimensions></extent></supportDesc>
+                     <extent><measure n="1" type="volume">1冊</measure><!--折裝1冊 ; 27公分--><dimensions unit="cm"><height>27</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 

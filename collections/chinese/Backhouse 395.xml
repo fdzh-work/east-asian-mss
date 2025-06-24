@@ -54,11 +54,11 @@
                      
                      <supportDesc>
                         
-                     <extent>6 volumes.<!--線裝6冊 ; 30公分--><dimensions unit="cm"><height>30</height></dimensions></extent></supportDesc>
+                     <extent><measure type="volume" n="6">6冊</measure><!--線裝6冊 ; 30公分--><dimensions unit="cm"><height>30</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <sealDesc><seal><p>有「王德榮」印記</p></seal></sealDesc><bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <sealDesc><seal><p>有「王德榮」印記</p></seal></sealDesc><bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" notBefore="1000" notAfter="1999" type="d">1000 - 1999</origDate>

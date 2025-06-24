@@ -50,14 +50,14 @@
                </msContents>
                <physDesc>
                   
-                  <p>精裝 ; 17.9公分</p><objectDesc>
+                  <objectDesc>
                      
                      <supportDesc>
                         
-                     <extent>1 volume, (5, 4, 4, 2, 2頁) <!--平裝1冊 (5, 4, 4, 2, 2頁) ; 18.0公分--><dimensions unit="cm"><height>18.0</height></dimensions></extent></supportDesc>
+                        <extent><measure n="1" type="volume">1冊 (5, 4, 4, 2, 2頁)</measure> <dimensions unit="cm"><height>17.9</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
-
+                  <bindingDesc><binding><p xml:lang="chi">精裝</p></binding></bindingDesc>
                <typeDesc><p>stereotype</p></typeDesc></physDesc>
                <history>
                   <origin>

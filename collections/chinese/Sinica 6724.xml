@@ -72,17 +72,17 @@
 
                      <supportDesc>
                         <support/>
-                        <extent>4 volumes.<!--洋裝4冊(原線裝16冊) : 像 ; 27公分--><dimensions unit="cm"><height>27</height></dimensions></extent>
+                        <extent><measure type="volume" n="4">4冊</measure><!--洋裝4冊(原線裝16冊) : 像 ; 27公分--><dimensions unit="cm"><height>27</height></dimensions></extent>
                      </supportDesc>
 
                   </objectDesc>
 
                   <bindingDesc>
                      <binding>
-                        <p>traditional thread binding</p>
+                        <p xml:lang="chi">洋裝</p>
                      </binding>
                   </bindingDesc>
-               </physDesc>
+               <decoDesc><p>像</p></decoDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1871" type="d">1871</origDate>

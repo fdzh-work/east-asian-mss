@@ -48,17 +48,15 @@
                   <msItem n="1">
                   <title source="#200">華洋和合通書</title><title source="#200|9">hua yang he he tong shu</title><title type="variant" source="#230">中西通書</title><title source="#230|9" type="variant">zhong xi tong shu</title><author source="#300" key="person_6840"><persName>Edkins, Joseph</persName></author><author source="#300" key="person_7092"><persName>Wylie, Alexander</persName></author><note source="#600">An almanac first published in 1852 with the title 《華洋和合通書》; entitled 《中西通書》 in subsequent years; last issue 1866? Compiled by J. Edkins 1852-1858 and from 1861, A Wylie 1859 and 1860. Not published in 1862. 1863 issue published in Tientsin, 1864-1866 in Peking</note></msItem>         
                </msContents>
-               <physDesc>
-                  
-                  <p>線裝1冊 ; 21.0公分</p><objectDesc>
+               <physDesc><objectDesc>
                      
                      <supportDesc>
                         
-                     <extent><!--冊--><dimensions unit="cm"><height>冊</height></dimensions></extent></supportDesc>
+                        <extent><measure type="volume" n="1">1冊</measure><!--冊--><dimensions unit="cm"><height>21</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <typeDesc><p>woodblock</p><p>typography</p></typeDesc></physDesc>
+                  <typeDesc><p>woodblock</p><p>typography</p></typeDesc><bindingDesc><p xml:lang="chi">線裝</p></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" notBefore="1852" notAfter="1866" type="b">1852 - 1866</origDate>

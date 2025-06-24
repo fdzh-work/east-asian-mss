@@ -54,11 +54,11 @@
                      
                      <supportDesc>
                         
-                     <extent>40 volumes.<!--線裝40冊 ; 25公分--><dimensions unit="cm"><height>25</height></dimensions></extent></supportDesc>
+                     <extent><measure type="volume" n="40">40冊</measure><!--線裝40冊 ; 25公分--><dimensions unit="cm"><height>25</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <sealDesc><seal><p>有「一六淵海」、「臣士塛印」、「菊農」、「沈印希□」等印記</p></seal></sealDesc><bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <sealDesc><seal><p>有「一六淵海」、「臣士塛印」、「菊農」、「沈印希□」等印記</p></seal></sealDesc><bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1536" type="d">1536</origDate>

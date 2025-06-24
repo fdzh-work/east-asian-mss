@@ -50,15 +50,15 @@
                <msItem n="2"><title source="#201">附 隸韻攷證 二卷</title><title source="#201|9">li yun kao zheng</title><note source="#291">(清)翁方綱撰</note><author source="#301" key="person_5340"><persName>(清)翁方綱</persName><persName type="9">weng fang gang</persName></author></msItem><msItem n="3"><title source="#202">碑目攷證 一卷</title><title source="#202|9">bei mu kao zheng</title><note source="#292">(清)秦恩復撰</note><author source="#302" key="person_5238"><persName>(清)秦恩復</persName><persName type="9">qin en fu</persName></author></msItem></msItem></msContents>
                <physDesc>
                   
-                  <p>30公分</p><objectDesc>
+                  <objectDesc>
                      
                      <supportDesc>
                         
-                     <extent>8 volumes.<!--線裝8冊 ; 29公分--><dimensions unit="cm"><height>29</height></dimensions></extent></supportDesc>
+                     <extent><measure n="8" type="volume">8冊</measure><!--線裝8冊 ; 29公分--><dimensions unit="cm"><height>30</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1810" type="d">1810</origDate>

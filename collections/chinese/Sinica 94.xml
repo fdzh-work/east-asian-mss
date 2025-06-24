@@ -54,11 +54,11 @@
                      
                      <supportDesc>
                         
-                     <extent>11 volume.<!--折裝11冊 : 圖 ; 36公分--><dimensions unit="cm"><height>36</height></dimensions></extent></supportDesc>
+                     <extent><measure type="volume" n="11">11冊</measure><!--折裝11冊 : 圖 ; 36公分--><dimensions unit="cm"><height>36</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <bindingDesc><binding><p>traditional "accordion" (or "sutra") binding</p></binding></bindingDesc></physDesc>
+               <bindingDesc><binding><p xml:lang="chi">折裝</p></binding></bindingDesc><decoDesc><p>圖</p></decoDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1440" type="d">1440</origDate>

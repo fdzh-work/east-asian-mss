@@ -62,7 +62,7 @@
 
                      <supportDesc>
                         <support/>
-                        <extent>105 volumes.<!--105冊 : 圖--></extent>
+                        <extent><measure n="105" type="volume">105冊</measure><!--105冊 : 圖--></extent>
                      </supportDesc>
 
                   </objectDesc>
@@ -106,7 +106,7 @@
                   </msContents>
                   <physDesc>
                      <supportDesc>
-                        <extent>29 volumes.<!--29冊--></extent>
+                        <extent><measure n="29" type="volume">29冊</measure><!--29冊--></extent>
                      </supportDesc>
                   </physDesc>
                   <additional>
@@ -139,7 +139,7 @@
                   </msContents>
                   <physDesc>
                      <supportDesc>
-                        <extent>26 volumes.<!--26冊--></extent>
+                        <extent><measure n="26" type="volume">26冊</measure><!--26冊--></extent>
                      </supportDesc>
                   </physDesc>
                   <additional>
@@ -171,7 +171,7 @@
                   </msContents>
                   <physDesc>
                      <supportDesc>
-                        <extent>50 volumes.<!--50冊--></extent>
+                        <extent><measure n="50" type="volume">50冊</measure><!--50冊--></extent>
                      </supportDesc>
                   </physDesc>
                   <additional>

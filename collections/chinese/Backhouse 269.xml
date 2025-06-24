@@ -54,11 +54,11 @@
                      
                      <supportDesc>
                         
-                     <extent>120 volumes.<!--線裝120冊 ; 27公分--><dimensions unit="cm"><height>27</height></dimensions></extent></supportDesc>
+                     <extent><measure type="volume" n="120">120冊</measure><!--線裝120冊 ; 27公分--><dimensions unit="cm"><height>27</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <sealDesc><seal><p>有「長沙陶澍」、「賜書樓陶氏之記」、「資江陶氏雲汀藏書」、「印心石屋主人而眉龐而髯長仙心儒素而佛賜手此一卷舄奕書香」印記</p></seal></sealDesc><bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <sealDesc><seal><p>有「長沙陶澍」、「賜書樓陶氏之記」、「資江陶氏雲汀藏書」、「印心石屋主人而眉龐而髯長仙心儒素而佛賜手此一卷舄奕書香」印記</p></seal></sealDesc><bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1567" type="d">1567</origDate>

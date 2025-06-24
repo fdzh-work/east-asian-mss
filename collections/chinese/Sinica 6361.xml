@@ -54,11 +54,11 @@
                      
                      <supportDesc>
                         
-                     <extent>1 volume, 112 pages.<!--精裝1冊(112頁) ; 22公分--><dimensions unit="cm"><height>22</height></dimensions></extent></supportDesc>
+                     <extent><measure type="volume" n="1">1冊</measure><!--精裝1冊(112頁) ; 22公分--><measure type="page" n="112">112頁</measure><dimensions unit="cm"><height>22</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               </physDesc>
+               <bindingDesc><p xml:lang="chi">精裝</p></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="2012" type="d">2012</origDate>

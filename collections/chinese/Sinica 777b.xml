@@ -50,15 +50,15 @@
                </msContents>
                <physDesc>
                   
-                  <p>22公分</p><objectDesc>
+                  <objectDesc>
                      
                      <supportDesc>
                         
-                     <extent>1 volume.<!--折裝1冊 ; 23公分--><dimensions unit="cm"><height>23</height></dimensions></extent></supportDesc>
+                        <extent><measure n="1" type="volume">1冊</measure><!--折裝1冊 ; 23公分--><dimensions unit="cm"><height>22</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <bindingDesc><binding><p>traditional "accordion" (or "sutra") binding</p></binding></bindingDesc></physDesc>
+                  <bindingDesc><binding><p xml:lang="chi">折裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1644" type="d">1644</origDate>

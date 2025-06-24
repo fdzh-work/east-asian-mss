@@ -50,11 +50,11 @@
                </msContents>
                <physDesc>
                   
-                  <p>19.0公分</p><objectDesc>
+                 <objectDesc>
                      
                      <supportDesc>
                         
-                     <extent><!--Folded single sheet ; 18.0公分--><dimensions unit="cm"><height>18.0</height></dimensions></extent></supportDesc>
+                     <extent><measure n="1" type="sheet">Folded single sheet</measure><!--Folded single sheet ; 18.0公分--><dimensions unit="cm"><height>19.0</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 

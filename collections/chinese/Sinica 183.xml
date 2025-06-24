@@ -50,15 +50,15 @@
                </msContents>
                <physDesc>
                   
-                  <p>存卷一至六之下﹑七之三至四十四. - 後印. - 線裝17冊 ; 26公分</p><objectDesc>
+                  <p>存卷一至六之下﹑七之三至四十四. - 後印.</p><objectDesc>
                      
                      <supportDesc>
                         
-                     <extent>20 volumes.<!--線裝20冊 ; 29公分--><dimensions unit="cm"><height>29</height></dimensions></extent></supportDesc>
+                        <extent>17冊<dimensions unit="cm"><height>26</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1748" type="d">1748</origDate>

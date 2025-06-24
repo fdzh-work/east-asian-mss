@@ -50,15 +50,15 @@
                </msContents>
                <physDesc>
                   
-                  <p>洋裝1冊(原線裝8冊) ; 26公分</p><objectDesc>
+                  <objectDesc>
                      
                      <supportDesc>
                         
-                     <extent>6 volumes.<!--線裝6冊 ; 27公分--><dimensions unit="cm"><height>27</height></dimensions></extent></supportDesc>
+                     <extent><dimensions unit="cm"><height>26</height></dimensions><measure type="volume" n="1">1冊(原線裝8冊)</measure></extent></supportDesc>
                      
                   </objectDesc>
 
-               <sealDesc><seal><p>有「無不可齋鑒藏」印記</p></seal></sealDesc><bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <sealDesc><seal><p>有「無不可齋鑒藏」印記</p></seal></sealDesc><bindingDesc><binding><p xml:lang="chi">洋裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1894" type="d">1894</origDate>

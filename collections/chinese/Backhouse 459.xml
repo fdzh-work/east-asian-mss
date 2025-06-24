@@ -54,11 +54,11 @@
                      
                      <supportDesc>
                         
-                     <extent>16 volumes.<!--線裝16冊 ; 25公分--><dimensions unit="cm"><height>25</height></dimensions></extent></supportDesc>
+                     <extent><measure type="volume" n="16">16冊</measure><!--線裝16冊 ; 25公分--><dimensions unit="cm"><height>25</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <sealDesc><seal><p>有「古猷州吳氏瀚濤藏書」、「墜之鬻之爲不孝」、「朱夑臣父藏書印」、「慕齋鑑定」、「宛平王氏家藏」、「吳積慶堂」、「劍華堂藏書印」、「墜之鬻之爲不孝」、「樵孫珍藏」、「瀚濤」、「吳印省齋」、「稷堂」印記</p></seal></sealDesc><bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <sealDesc><seal><p>有「古猷州吳氏瀚濤藏書」、「墜之鬻之爲不孝」、「朱夑臣父藏書印」、「慕齋鑑定」、「宛平王氏家藏」、「吳積慶堂」、「劍華堂藏書印」、「墜之鬻之爲不孝」、「樵孫珍藏」、「瀚濤」、「吳印省齋」、「稷堂」印記</p></seal></sealDesc><bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1536" type="d">1536</origDate>

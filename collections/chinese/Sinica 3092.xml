@@ -54,11 +54,11 @@
                      
                      <supportDesc>
                         
-                     <extent>2 volumes.<!--線裝2冊 ; 26公分--><dimensions unit="cm"><height>26</height></dimensions></extent></supportDesc>
+                     <extent><measure type="volume" n="2">2冊</measure><!--線裝2冊 ; 26公分--><dimensions unit="cm"><height>26</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <sealDesc><seal><p>有「定遠胡氏珍藏書畫」、「□□手定」、「衛天鵬印」、「莊游」、「舊知學新」、「□□道人」印記</p></seal></sealDesc><bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <sealDesc><seal><p>有「定遠胡氏珍藏書畫」、「□□手定」、「衛天鵬印」、「莊游」、「舊知學新」、「□□道人」印記</p></seal></sealDesc><bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1814" type="d">1814</origDate>

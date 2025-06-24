@@ -94,14 +94,14 @@
 
                      <supportDesc>
                         
-                        <extent>4 volumes.<!--折裝4冊 ; 28公分--><dimensions unit="cm"><height>28</height></dimensions></extent>
+                        <extent><measure type="volume" n="4">4冊</measure><!--折裝4冊 ; 28公分--><dimensions unit="cm"><height>28</height></dimensions></extent>
                      </supportDesc>
 
                   </objectDesc>
 
                   <bindingDesc>
                      <binding>
-                        <p>traditional "accordion" (or "sutra") binding</p>
+                        <p xml:lang="chi">折裝</p>
                      </binding>
                   </bindingDesc>
                </physDesc>

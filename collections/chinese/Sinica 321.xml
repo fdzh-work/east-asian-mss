@@ -60,11 +60,11 @@
                      
                      <supportDesc>
                         
-                     <extent>1 volume, (1, 16, 10, 17, 36, 46頁) <!--線裝1冊 (1, 16, 10, 17, 36, 46頁) ; 21.1公分--><dimensions unit="cm"><height>21.1</height></dimensions></extent></supportDesc>
+                     <extent><measure n="1" type="volume">1冊</measure> (1, 16, 10, 17, 36, 46頁) <!--線裝1冊 (1, 16, 10, 17, 36, 46頁) ; 21.1公分--><dimensions unit="cm"><height>21.1</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <typeDesc><p>woodblock</p></typeDesc><bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <typeDesc><p>woodblock</p></typeDesc><bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1850" type="d">1850</origDate>

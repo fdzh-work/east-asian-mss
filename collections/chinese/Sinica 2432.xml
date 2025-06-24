@@ -50,15 +50,15 @@
                </msContents>
                <physDesc>
                   
-                  <p>毛裝. - 15.8公分</p><objectDesc>
+                  <p>毛裝.</p><objectDesc>
                      
                      <supportDesc>
                         
-                     <extent>1 volume, 8 pages.<!--線裝1冊(8頁) ; 15.7公分--><dimensions unit="cm"><height>15.7</height></dimensions></extent></supportDesc>
+                     <extent><dimensions unit="cm"><height>15.8</height></dimensions><measure type="volume" n="1">1冊(8頁)</measure></extent></supportDesc>
                      
                   </objectDesc>
 
-               <typeDesc><p>typography</p><p>Beyerhaus</p><p>Cole</p></typeDesc><bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <typeDesc><p>typography</p><p>Beyerhaus</p><p>Cole</p></typeDesc><bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1874" type="d">1874</origDate>

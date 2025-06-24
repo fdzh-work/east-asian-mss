@@ -54,11 +54,11 @@
                      
                      <supportDesc>
                         
-                     <extent>1 volume, 4 pages.<!--毛裝1冊(4頁) ; 17.1公分--><dimensions unit="cm"><height>17.1</height></dimensions></extent></supportDesc>
+                     <extent>1冊(4頁).<!--毛裝1冊(4頁) ; 17.1公分--><dimensions unit="cm"><height>17.1</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <typeDesc><p>typography</p><p>Cole</p></typeDesc><bindingDesc><binding><p>traditional "rough" binding</p></binding></bindingDesc></physDesc>
+               <typeDesc><p>typography</p><p>Cole</p></typeDesc><bindingDesc><binding><p xml:lang="chi">毛裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1873" type="d">1873</origDate>

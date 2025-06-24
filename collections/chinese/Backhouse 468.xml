@@ -54,11 +54,11 @@
                      
                      <supportDesc>
                         
-                     <extent>48 volumes.<!--線裝48冊 ; 29公分--><dimensions unit="cm"><height>29</height></dimensions></extent></supportDesc>
+                     <extent><measure type="volume" n="48">48冊</measure><!--線裝48冊 ; 29公分--><dimensions unit="cm"><height>29</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <sealDesc><seal><p>有「仁和蔡氏滋齋珍藏」等印記</p></seal></sealDesc><bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <sealDesc><seal><p>有「仁和蔡氏滋齋珍藏」等印記</p></seal></sealDesc><bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1594" type="d">1594</origDate>

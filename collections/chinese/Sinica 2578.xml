@@ -50,15 +50,15 @@
                <msItem n="2"><title source="#201">四禮約言 四卷</title><title source="#201|9">si li yue yan</title><note source="#291">(明)呂維祺撰</note><author source="#301" key="person_2073"><persName>(明)呂維祺</persName><persName type="9">lu wei qi</persName></author></msItem><msItem n="3"><title source="#202">附 四禮初稿 四卷</title><title source="#202|9">si li chu gao</title><note source="#292">(明)宋纁撰</note><author source="#302" key="person_2146"><persName>(明)宋纁</persName><persName type="9">song xun</persName></author></msItem></msItem></msContents>
                <physDesc>
                   
-                  <p>線裝6冊. - 有「大文堂自在江浙蘇閩揀選古今書籍發兌印」字樣</p><objectDesc>
+                  <p>- 有「大文堂自在江浙蘇閩揀選古今書籍發兌印」字樣</p><objectDesc>
                      
                      <supportDesc>
                         
-                     <extent>8 volumes.<!--線裝8冊 : 圖 ; 25公分--><dimensions unit="cm"><height>25</height></dimensions></extent></supportDesc>
+                     <extent><dimensions unit="cm"><height>25</height></dimensions><measure type="volume" n="6">6冊</measure></extent></supportDesc>
                      
                   </objectDesc>
 
-               <bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1644" type="d">1644</origDate>

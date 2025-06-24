@@ -50,15 +50,15 @@
                </msContents>
                <physDesc>
                   
-                  <p>同治七年[1868]. - 線裝1冊([15 leaves, variously numbered]) ; 21.7公分</p><objectDesc>
+                  <p>同治七年[1868].</p><objectDesc>
                      
                      <supportDesc>
                         
-                     <extent><!--線裝 : 圖--><dimensions unit="cm"><height>線裝 : 圖</height></dimensions></extent></supportDesc>
+                        <extent><measure type="volume" n="1">1冊</measure>([<measure n="15">15</measure> leaves, variously numbered])<dimensions unit="cm"><height>21.7</height></dimensions><measure type="volume" n="1">1冊([15 leaves, variously numbered])</measure></extent></supportDesc>
                      
                   </objectDesc>
 
-               <typeDesc><p>woodblock</p></typeDesc><bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+                  <typeDesc><p>woodblock</p></typeDesc><bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" notBefore="1864" notAfter="1868" type="b">1864 - 1868</origDate>

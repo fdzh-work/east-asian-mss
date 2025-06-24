@@ -54,11 +54,11 @@
                      
                      <supportDesc>
                         
-                     <extent>12 volumes.<!--線裝12冊 ; 29公分--><dimensions unit="cm"><height>29</height></dimensions></extent></supportDesc>
+                     <extent><measure n="12" type="volume">12冊</measure><!--線裝12冊 ; 29公分--><dimensions unit="cm"><height>29</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <sealDesc><seal><p>有「樓松書屋汪氏校本」、「安邑楊氏晉平珍藏」、「讀有用書」印記</p></seal></sealDesc><bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <sealDesc><seal><p>有「樓松書屋汪氏校本」、「安邑楊氏晉平珍藏」、「讀有用書」印記</p></seal></sealDesc><bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" notBefore="1777" notAfter="1778" type="g">1777 - 1778</origDate>

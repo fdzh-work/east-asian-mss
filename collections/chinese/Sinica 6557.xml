@@ -54,11 +54,11 @@
                      
                      <supportDesc>
                         
-                     <extent><!--Single sheet : 圖 ; 61 x 27公分--><dimensions unit="cm"><height>61</height><width>27</width></dimensions></extent></supportDesc>
+                     <extent><measure type="volume" n="1">Single sheet</measure><!--Single sheet : 圖 ; 61 x 27公分--><dimensions unit="cm"><height>61</height><width>27</width></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <typeDesc><p>woodblock</p></typeDesc></physDesc>
+               <typeDesc><p>woodblock</p></typeDesc><decoDesc><p>圖</p></decoDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" notBefore="1880" notAfter="1890" type="f">1880 - 1890</origDate>

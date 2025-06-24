@@ -54,11 +54,11 @@
                      
                      <supportDesc>
                         
-                     <extent>5 volumes.<!--線裝5冊(various pagings) ; 27.8公分--><dimensions unit="cm"><height>27.8</height></dimensions></extent></supportDesc>
+                     <extent><measure n="5" type="volume">5冊</measure><!--線裝5冊(various pagings) ; 27.8公分--><dimensions unit="cm"><height>27.8</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <typeDesc><p>woodblock</p></typeDesc><bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <typeDesc><p>woodblock</p></typeDesc><bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" notBefore="1874" notAfter="1875" type="g">1874 - 1875</origDate>

@@ -54,11 +54,11 @@
                      
                      <supportDesc>
                         
-                     <extent>1 volume, 126 pages.<!--線裝1冊(126頁) : 圖 ; 17.7公分--><dimensions unit="cm"><height>17.7</height></dimensions></extent></supportDesc>
+                     <extent><measure type="volume" n="1">1冊</measure><!--線裝1冊(126頁) : 圖 ; 17.7公分--><measure type="page" n="126">126頁</measure><dimensions unit="cm"><height>17.7</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <typeDesc><p>typography</p></typeDesc><bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <typeDesc><p>typography</p></typeDesc><bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc><decoDesc><p>圖</p></decoDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1858" type="d">1858</origDate>

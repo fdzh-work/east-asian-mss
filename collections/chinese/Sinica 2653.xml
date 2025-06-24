@@ -54,11 +54,11 @@
                      
                      <supportDesc>
                         
-                     <extent>12 volumes.<!--線裝12冊 ; 24公分--><dimensions unit="cm"><height>24</height></dimensions></extent></supportDesc>
+                     <extent><measure type="volume" n="12">12冊</measure><!--線裝12冊 ; 24公分--><dimensions unit="cm"><height>24</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <sealDesc><seal><p>有「明德館圖書章」、「賣捌所アキタクボタ岡田惣兵衛」、「稼軒進藤氏圖書記」印記</p></seal></sealDesc><bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <sealDesc><seal><p>有「明德館圖書章」、「賣捌所アキタクボタ岡田惣兵衛」、「稼軒進藤氏圖書記」印記</p></seal></sealDesc><bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1644" type="d">1644</origDate>

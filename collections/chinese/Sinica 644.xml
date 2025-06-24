@@ -116,17 +116,17 @@
 
                      <supportDesc>
                         
-                        <extent>2 volumes.<!--線裝2冊 : 地圖 ; 24公分--><dimensions unit="cm"><height>24</height></dimensions></extent>
+                        <extent><measure type="volume" n="2">2冊</measure><!--線裝2冊 : 地圖 ; 24公分--><dimensions unit="cm"><height>24</height></dimensions></extent>
                      </supportDesc>
 
                   </objectDesc>
 
                   <bindingDesc>
                      <binding>
-                        <p>traditional thread binding</p>
+                        <p xml:lang="chi">線裝</p>
                      </binding>
                   </bindingDesc>
-               </physDesc>
+               <decoDesc><p>地圖</p></decoDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1800" type="d">1800</origDate>

@@ -50,15 +50,15 @@
                <msItem n="2"><title source="#201">玉嬋附荐金蘭 二卷</title><title source="#201|9">yu chan fu jian jin lan</title></msItem><msItem n="3"><title source="#202">玉嬋問覡 二卷</title><title source="#202|9">yu chan wen xu</title></msItem><msItem n="4"><title source="#203">玉蟬嘆五更 一卷</title><title source="#203|9">yu chan tan wu geng</title></msItem></msItem></msContents>
                <physDesc>
                   
-                  <p>線裝1冊(原毛裝2冊) ; 20公分</p><objectDesc>
+                  <objectDesc>
                      
                      <supportDesc>
                         
-                     <extent>2 volumes.<!--毛裝2冊 ; 21公分--><dimensions unit="cm"><height>21</height></dimensions></extent></supportDesc>
+                        <extent><measure n="1" type="volume">1冊(原毛裝2冊)</measure><dimensions unit="cm"><height>20</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <bindingDesc><binding><p>traditional "rough" binding</p></binding></bindingDesc></physDesc>
+                  <bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" notBefore="1900" notAfter="1999" type="d">1900 - 1999</origDate>

@@ -61,17 +61,17 @@
 
                      <supportDesc>
                         <support/>
-                        <extent>55 volumes.<!--線裝55冊 : 圖 ; 28公分--><dimensions unit="cm"><height>28</height></dimensions></extent>
+                        <extent><measure type="volume" n="55">55冊</measure><!--線裝55冊 : 圖 ; 28公分--><dimensions unit="cm"><height>28</height></dimensions></extent>
                      </supportDesc>
 
                   </objectDesc>
 
                   <bindingDesc>
                      <binding>
-                        <p>traditional thread binding</p>
+                        <p xml:lang="chi">線裝</p>
                      </binding>
                   </bindingDesc>
-               </physDesc>
+               <decoDesc><p>圖</p></decoDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1724" type="d">1724</origDate>

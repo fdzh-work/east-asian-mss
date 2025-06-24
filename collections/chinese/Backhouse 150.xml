@@ -348,14 +348,14 @@
 
                      <supportDesc>
                         
-                        <extent>5 volumes.<!--線裝5冊 ; 23公分--><dimensions unit="cm"><height>23</height></dimensions></extent>
+                        <extent><measure type="volume" n="5">5冊</measure><!--線裝5冊 ; 23公分--><dimensions unit="cm"><height>23</height></dimensions></extent>
                      </supportDesc>
 
                   </objectDesc>
 
                   <bindingDesc>
                      <binding>
-                        <p>traditional thread binding</p>
+                        <p xml:lang="chi">線裝</p>
                      </binding>
                   </bindingDesc>
                </physDesc>

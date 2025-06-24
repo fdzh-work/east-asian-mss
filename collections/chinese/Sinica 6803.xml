@@ -54,11 +54,11 @@
                      
                      <supportDesc>
                         
-                     <extent>10 volumes.<!--線裝10冊 ; 31公分--><dimensions unit="cm"><height>31</height></dimensions></extent></supportDesc>
+                     <extent><measure type="volume" n="10">10冊</measure><!--線裝10冊 ; 31公分--><dimensions unit="cm"><height>31</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <sealDesc><seal><p>有「梅耶藏書」、「沈曾植印」、「廣道意齋收藏圖籍印」、「梅耶」印記</p></seal></sealDesc><bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <sealDesc><seal><p>有「梅耶藏書」、「沈曾植印」、「廣道意齋收藏圖籍印」、「梅耶」印記</p></seal></sealDesc><bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1706" type="d">1706</origDate>

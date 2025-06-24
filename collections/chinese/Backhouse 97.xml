@@ -50,15 +50,15 @@
                <msItem n="2"><title source="#201">御製文第四集 三十六卷總目四卷</title><title source="#201|9">yu zhi wen di si ji</title><note source="#291">(清)聖祖撰</note><note source="#291">(清)雍正十年[1732]允祿等奉敕編</note><author source="#301" key="person_5350"><persName>(清)聖祖</persName><persName type="9">sheng zu</persName></author><author source="#301" key="person_3389"><persName>(清)允祿</persName><persName type="9">yun lu</persName></author></msItem></msItem></msContents>
                <physDesc>
                   
-                  <p>存第二集, 線裝12冊</p><objectDesc>
+                  <p>存第二集</p><objectDesc>
                      
                      <supportDesc>
                         
-                     <extent>56 volumes.<!--線裝56冊 ; 28公分--><dimensions unit="cm"><height>28</height></dimensions></extent></supportDesc>
+                        <extent><measure type="volume" n="12">12冊</measure></extent></supportDesc>
                      
                   </objectDesc>
 
-               <bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+                  <bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1711" type="d">1711</origDate>

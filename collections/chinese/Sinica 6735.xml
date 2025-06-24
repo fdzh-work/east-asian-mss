@@ -163,7 +163,7 @@
 
                      <supportDesc>
                         
-                        <extent><foreign xml:lang="chi">1冊(原線裝8冊)</foreign>1 volume.<!--洋裝1冊(原線裝8冊) ; 28公分--><dimensions unit="cm"><height>28</height></dimensions></extent>
+                        <extent><measure type="volume" n="1">1冊(原線裝8冊)</measure><!--洋裝1冊(原線裝8冊) ; 28公分--><dimensions unit="cm"><height>28</height></dimensions></extent>
                      </supportDesc>
 
                   </objectDesc>
@@ -171,7 +171,7 @@
                   <bindingDesc>
                      <binding>
                         <p xml:lang="chi">洋裝</p>
-                        <p>traditional thread binding</p>
+               
                      </binding>
                   </bindingDesc>
                </physDesc>

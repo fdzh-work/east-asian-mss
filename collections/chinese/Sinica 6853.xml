@@ -54,11 +54,11 @@
                      
                      <supportDesc>
                         
-                     <extent>1 volume.<!--線裝1冊 ; 35公分--><dimensions unit="cm"><height>35</height></dimensions></extent></supportDesc>
+                     <extent><measure type="volume" n="1">1冊</measure><!--線裝1冊 ; 35公分--><dimensions unit="cm"><height>35</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <sealDesc><seal><p>有「欽天鑒時憲書之印」滿漢文印記</p></seal></sealDesc><bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <sealDesc><seal><p>有「欽天鑒時憲書之印」滿漢文印記</p></seal></sealDesc><bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1837" type="d">1837</origDate>

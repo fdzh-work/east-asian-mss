@@ -54,11 +54,11 @@
                      
                      <supportDesc>
                         
-                     <extent>12 volumes.<!--線裝12冊 ; 25公分--><dimensions unit="cm"><height>25</height></dimensions></extent></supportDesc>
+                     <extent><measure type="volume" n="12">12冊</measure><!--線裝12冊 ; 25公分--><dimensions unit="cm"><height>25</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <sealDesc><seal><p>有「喪中周氏寶藏」、「慎思明辨」、「讀書樂」、「童□之章」、「□研印信」、「臣印明善」、「心畬」、「漢陽周氏藏書」印記</p></seal></sealDesc><bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <sealDesc><seal><p>有「喪中周氏寶藏」、「慎思明辨」、「讀書樂」、「童□之章」、「□研印信」、「臣印明善」、「心畬」、「漢陽周氏藏書」印記</p></seal></sealDesc><bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1825" type="d">1825</origDate>

@@ -54,11 +54,11 @@
                      
                      <supportDesc>
                         
-                     <extent>10 volumes.<!--洋裝10冊(原線裝60冊) ; 27公分--><dimensions unit="cm"><height>27</height></dimensions></extent></supportDesc>
+                     <extent><measure type="volume" n="10">10冊</measure><!--洋裝10冊(原線裝60冊) ; 27公分--><dimensions unit="cm"><height>27</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <bindingDesc><binding><p xml:lang="chi">洋裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1763" type="d">1763</origDate>

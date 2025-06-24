@@ -50,14 +50,14 @@
                </msContents>
                <physDesc>
                   
-                  <p>線裝1冊 ; 20.3公分</p><objectDesc>
+                  <objectDesc>
                      
                      <supportDesc>
-                        
-                     <extent><!--冊--><dimensions unit="cm"><height>冊</height></dimensions></extent></supportDesc>
+                        <extent><measure n="1" type="volume">1冊</measure><dimensions unit="cm"><height>20.3</height></dimensions></extent>
+                     </supportDesc>
                      
                   </objectDesc>
-
+                  <bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc>
                <typeDesc><p>woodblock</p><p>typography</p></typeDesc></physDesc>
                <history>
                   <origin>

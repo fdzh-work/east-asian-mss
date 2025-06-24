@@ -54,11 +54,11 @@
                      
                      <supportDesc>
                         
-                     <extent>143 volumes.<!--線裝143冊 : 地圖 ; 25.4公分--><dimensions unit="cm"><height>25.4</height></dimensions></extent></supportDesc>
+                     <extent><measure type="volume" n="143">143冊</measure><!--線裝143冊 : 地圖 ; 25.4公分--><dimensions unit="cm"><height>25.4</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <typeDesc><p>typography</p><p>Beyerhaus</p><p>Cole</p></typeDesc><bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <typeDesc><p>typography</p><p>Beyerhaus</p><p>Cole</p></typeDesc><bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc><decoDesc><p>地圖</p></decoDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1883" type="d">1883</origDate>

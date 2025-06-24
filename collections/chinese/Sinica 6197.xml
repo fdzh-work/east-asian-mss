@@ -230,14 +230,14 @@
 
                      <supportDesc>
                         
-                        <extent>1 volume.<!--洋裝1冊(原毛裝4冊) ; 19公分--><dimensions unit="cm"><height>19</height></dimensions></extent>
+                        <extent><measure type="volume" n="1">1冊</measure><!--洋裝1冊(原毛裝4冊) ; 19公分--><dimensions unit="cm"><height>19</height></dimensions></extent>
                      </supportDesc>
 
                   </objectDesc>
 
                   <bindingDesc>
                      <binding>
-                        <p>traditional "rough" binding</p>
+                        <p xml:lang="chi">洋裝</p>
                      </binding>
                   </bindingDesc>
                </physDesc>

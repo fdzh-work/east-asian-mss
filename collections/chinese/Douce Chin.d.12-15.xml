@@ -50,15 +50,15 @@
                </msContents>
                <physDesc>
                   
-                  <p>洋裝4冊. - 缺附一卷一冊</p><objectDesc>
+                  <p>- 缺附一卷一冊</p><objectDesc>
                      
                      <supportDesc>
                         
-                     <extent>1 volume.<!--洋裝1冊(原線裝5冊) : 圖 ; 24公分--><dimensions unit="cm"><height>24</height></dimensions></extent></supportDesc>
+                        <extent><measure type="volume" n="4">4冊.</measure><dimensions unit="cm"><height>24</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+                  <bindingDesc><binding><p xml:lang="chi">洋裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1735" type="d">1735</origDate>

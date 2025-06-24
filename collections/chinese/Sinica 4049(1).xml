@@ -54,11 +54,11 @@
                      
                      <supportDesc>
                         
-                     <extent>1 volume.<!--毛裝1冊 ; 16公分--><dimensions unit="cm"><height>16</height></dimensions></extent></supportDesc>
+                     <extent><measure type="volume" n="1">1冊</measure><!--毛裝1冊 ; 16公分--><dimensions unit="cm"><height>16</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <bindingDesc><binding><p>traditional "rough" binding</p></binding></bindingDesc></physDesc>
+               <bindingDesc><binding><p xml:lang="chi">毛裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1912" type="d">1912</origDate>

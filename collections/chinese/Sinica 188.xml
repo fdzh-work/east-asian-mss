@@ -66,7 +66,7 @@
 
                      <supportDesc>
 
-                        <extent><foreign xml:lang="chi">26冊</foreign>26 volumes.<!--線裝26冊 ; 26公分--><dimensions unit="cm">
+                        <extent><measure type="volume" n="26">26冊</measure><!--線裝26冊 ; 26公分--><dimensions unit="cm">
                               <height>26</height>
                            </dimensions></extent>
                      </supportDesc>
@@ -76,7 +76,7 @@
                   <bindingDesc>
                      <binding>
                         <p xml:lang="chi">線裝</p>
-                        <p>traditional thread binding</p>
+                        <p xml:lang="chi">線裝</p>
                      </binding>
                   </bindingDesc>
                </physDesc>

@@ -50,15 +50,15 @@
                </msContents>
                <physDesc>
                   
-                  <p>後印. - 26公分</p><objectDesc>
+                  <p>後印.</p><objectDesc>
                      
                      <supportDesc>
                         
-                     <extent>2 volumes.<!--線裝2冊 : 圖 ; 28公分--><dimensions unit="cm"><height>28</height></dimensions></extent></supportDesc>
+                        <extent><measure type="volume" n="2">2冊</measure><dimensions unit="cm"><height>26</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+                  <bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1805" type="d">1805</origDate>

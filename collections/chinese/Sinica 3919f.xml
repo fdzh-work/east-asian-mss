@@ -54,7 +54,7 @@
                      
                      <supportDesc>
                         
-                     <extent>1 volume.<!--12幅, 1冊 ; 25公分--><dimensions unit="cm"><height>25</height></dimensions></extent></supportDesc>
+                     <extent><measure type="volume" n="1">1冊</measure><!--12幅, 1冊 ; 25公分--><dimensions unit="cm"><height>25</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 

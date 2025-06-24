@@ -60,14 +60,14 @@
 
                      <supportDesc>
                         
-                        <extent>132 volumes.<!--線裝132冊 ; 24公分--><dimensions unit="cm"><height>24</height></dimensions></extent>
+                        <extent><measure type="volume" n="132">132冊</measure><!--線裝132冊 ; 24公分--><dimensions unit="cm"><height>24</height></dimensions></extent>
                      </supportDesc>
 
                   </objectDesc>
 
                   <bindingDesc>
                      <binding>
-                        <p>traditional thread binding</p>
+                        <p xml:lang="chi">線裝</p>
                      </binding>
                   </bindingDesc>
                </physDesc>

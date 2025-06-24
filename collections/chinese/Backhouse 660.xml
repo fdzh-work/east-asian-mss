@@ -54,11 +54,11 @@
                      
                      <supportDesc>
                         
-                     <extent>1 volume, (710, 7頁) <!--平裝1冊 (710, 7頁) ; 18.5公分--><dimensions unit="cm"><height>18.5</height></dimensions></extent></supportDesc>
+                     <extent><measure type="volume" n="1">1冊</measure><!--平裝1冊 (710, 7頁) ; 18.5公分--><measure type="page">710, 7頁</measure><dimensions unit="cm"><height>18.5</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <typeDesc><p>typography</p></typeDesc></physDesc>
+               <typeDesc><p>typography</p></typeDesc><bindingDesc><p xml:lang="chi">平裝</p></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1910" type="d">1910</origDate>

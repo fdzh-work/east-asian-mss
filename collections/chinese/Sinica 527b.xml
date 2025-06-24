@@ -50,15 +50,15 @@
                </msContents>
                <physDesc>
                   
-                  <p>殘卷十三～十六. - 線裝1冊</p><objectDesc>
+                  <p>殘卷十三～十六.</p><objectDesc>
                      
                      <supportDesc>
                         
-                     <extent>6 volumes.<!--線裝6冊 : 圖 ; 24公分--><dimensions unit="cm"><height>24</height></dimensions></extent></supportDesc>
+                     <extent><dimensions unit="cm"><height>24</height></dimensions><measure type="volume" n="1">1冊</measure></extent></supportDesc>
                      
                   </objectDesc>
 
-               <bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1644" type="d">1644</origDate>

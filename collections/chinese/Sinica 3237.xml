@@ -50,15 +50,15 @@
                </msContents>
                <physDesc>
                   
-                  <p>洋裝1冊(原線裝4冊) ; 27公分</p><objectDesc>
+                  <objectDesc>
                      
                      <supportDesc>
                         
-                     <extent>4 volumes.<!--線裝4冊 : 書影 ; 30公分--><dimensions unit="cm"><height>30</height></dimensions></extent></supportDesc>
+                     <extent><dimensions unit="cm"><height>27</height></dimensions><measure type="volume" n="1">冊(原線裝4冊)</measure></extent></supportDesc>
                      
                   </objectDesc>
 
-               <bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <bindingDesc><binding><p xml:lang="chi">洋裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1940" type="d">1940</origDate>

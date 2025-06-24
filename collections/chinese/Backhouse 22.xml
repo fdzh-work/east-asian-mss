@@ -54,11 +54,11 @@
                      
                      <supportDesc>
                         
-                     <extent>140 volumes.<!--線裝140冊 ; 25公分--><dimensions unit="cm"><height>25</height></dimensions></extent></supportDesc>
+                     <extent><measure n="140" type="volume">140冊</measure><!--線裝140冊 ; 25公分--><dimensions unit="cm"><height>25</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <sealDesc><seal><p>有「巴陵方氏藏書印」、「杜衡珍藏」、「方功惠藏書之印」印記</p></seal></sealDesc><bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <sealDesc><seal><p>有「巴陵方氏藏書印」、「杜衡珍藏」、「方功惠藏書之印」印記</p></seal></sealDesc><bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1701" type="d">1701</origDate>

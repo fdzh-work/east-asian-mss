@@ -50,15 +50,15 @@
                </msContents>
                <physDesc>
                   
-                  <p>洋裝5冊</p><objectDesc>
+                <objectDesc>
                      
                      <supportDesc>
                         
-                     <extent>21 volume.<!--線裝21冊(various pagings) ; 26.8公分--><dimensions unit="cm"><height>26.8</height></dimensions></extent></supportDesc>
+                        <extent>5冊<!--線裝21冊(various pagings) ; 26.8公分--><dimensions unit="cm"><height>26.8</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <typeDesc><p>woodblock</p></typeDesc><bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+                  <typeDesc><p>woodblock</p></typeDesc><bindingDesc><binding><p xml:lang="chi">洋裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1832" type="d">1832</origDate>

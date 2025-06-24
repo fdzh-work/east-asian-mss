@@ -54,11 +54,11 @@
                      
                      <supportDesc>
                         
-                     <extent>60 volumes.<!--線裝60冊 ; 28公分--><dimensions unit="cm"><height>28</height></dimensions></extent></supportDesc>
+                     <extent><measure type="volume" n="60">60冊</measure><!--線裝60冊 ; 28公分--><dimensions unit="cm"><height>28</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1487" type="d">1487</origDate>

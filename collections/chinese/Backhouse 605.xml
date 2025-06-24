@@ -50,15 +50,15 @@
                </msContents>
                <physDesc>
                   
-                  <p>存光緒二十一年(1895)十二月﹑二十二年(1896)一至十二月﹑二十三年(1897)五至十月﹑二十四年(1898)一至三﹑七﹑八﹑十至十二月﹑二十五年(1899)一﹑五﹑六﹑八﹑九月﹑二十六年(1900)一至四月. - 線裝222冊 ; 23公分</p><objectDesc>
+                  <p>存光緒二十一年(1895)十二月﹑二十二年(1896)一至十二月﹑二十三年(1897)五至十月﹑二十四年(1898)一至三﹑七﹑八﹑十至十二月﹑二十五年(1899)一﹑五﹑六﹑八﹑九月﹑二十六年(1900)一至四月. </p><objectDesc>
                      
                      <supportDesc>
                         
-                     <extent>559 volumes.<!--線裝559冊 ; 22公分--><dimensions unit="cm"><height>22</height></dimensions></extent></supportDesc>
+                        <extent><measure type="volume" n="222">222冊</measure><dimensions unit="cm"><height>23</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+                  <bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1891" type="d">1891</origDate>

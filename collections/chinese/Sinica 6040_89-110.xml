@@ -63,14 +63,14 @@
 
                      <supportDesc>
                         <support/>
-                        <extent>22 volumes.<!--洋裝22冊(原線裝100冊)--></extent>
+                        <extent><measure type="volume" n="22">22冊</measure><!--洋裝22冊(原線裝100冊)--></extent>
                      </supportDesc>
 
                   </objectDesc>
 
                   <bindingDesc>
                      <binding>
-                        <p>traditional thread binding</p>
+                        <p xml:lang="chi">洋裝</p>
                      </binding>
                   </bindingDesc>
                </physDesc>

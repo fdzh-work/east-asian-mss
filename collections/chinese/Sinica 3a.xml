@@ -48,17 +48,15 @@
                   <msItem n="1">
                   <title source="#200">編註醫學入門 殘卷</title><title source="#200|9">bian zhu yi xue ru men</title><note source="#290">佚名撰</note><note source="#409">明萬曆中建陽書林刊本</note><note source="#600">全書七卷首一卷, 為《內集》二卷(卷一﹑二)﹑《外集》五卷(卷三～七).</note><note source="#600">有明萬曆己卯[1579]序</note><note source="#600">卷五末有「縣庠靜吾湯君名建中贈刻」字樣</note></msItem>         
                </msContents>
-               <physDesc>
-                  
-                  <p>卷一</p><objectDesc>
+               <physDesc><objectDesc>
                      
                      <supportDesc>
                         
-                     <extent>4 volumes, 1 pages.<!--線裝4冊, 1頁 ; nn公分--><dimensions unit="cm"><height>nn</height></dimensions></extent></supportDesc>
+                        <extent>卷一</extent></supportDesc>
                      
                   </objectDesc>
 
-               <bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               </physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1573" type="d">1573</origDate>

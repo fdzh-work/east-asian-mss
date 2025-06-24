@@ -50,15 +50,15 @@
                </msContents>
                <physDesc>
                   
-                  <p>26公分</p><objectDesc>
+                  <objectDesc>
                      
                      <supportDesc>
                         
-                     <extent>6 volumes.<!--線裝6冊 : 圖 ; 25公分--><dimensions unit="cm"><height>25</height></dimensions></extent></supportDesc>
+                     <extent><measure n="6" type="volume">6冊</measure><!--線裝6冊 : 圖 ; 25公分--><dimensions unit="cm"><height>26</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1735" type="d">1735</origDate>

@@ -50,14 +50,14 @@
                </msContents>
                <physDesc>
                   
-                  <p>精裝2冊</p><objectDesc>
+                  <objectDesc>
                      
                      <supportDesc>
                         
-                     <extent><!--冊 ; 27公分--><dimensions unit="cm"><height>27</height></dimensions></extent></supportDesc>
+                        <extent><measure>2冊</measure><!--冊 ; 27公分--><dimensions unit="cm"><height>27</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
-
+                  <bindingDesc><binding><p xml:lang="chi">精裝</p></binding></bindingDesc>
                </physDesc>
                <history>
                   <origin>

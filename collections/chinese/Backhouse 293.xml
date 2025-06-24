@@ -54,11 +54,11 @@
                      
                      <supportDesc>
                         
-                     <extent>95 volumes.<!--線裝95冊 ; 24公分--><dimensions unit="cm"><height>24</height></dimensions></extent></supportDesc>
+                     <extent><measure type="volume" n="95">95冊</measure><!--線裝95冊 ; 24公分--><dimensions unit="cm"><height>24</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <sealDesc><seal><p>有「體元主人」、「萬幾餘暇」印記</p></seal></sealDesc><bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <sealDesc><seal><p>有「體元主人」、「萬幾餘暇」印記</p></seal></sealDesc><bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1710" type="d">1710</origDate>

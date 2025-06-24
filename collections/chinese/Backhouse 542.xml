@@ -54,11 +54,11 @@
                      
                      <supportDesc>
                         
-                     <extent>50 volumes.<!--線裝50冊 ; 28公分--><dimensions unit="cm"><height>28</height></dimensions></extent></supportDesc>
+                     <extent><measure n="50" type="volume">50冊</measure><!--線裝50冊 ; 28公分--><dimensions unit="cm"><height>28</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <sealDesc><seal><p>有「艷秋書屋」、「孫爾淮印」印記</p></seal></sealDesc><bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <sealDesc><seal><p>有「艷秋書屋」、「孫爾淮印」印記</p></seal></sealDesc><bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1603" type="d">1603</origDate>

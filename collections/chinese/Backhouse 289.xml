@@ -54,11 +54,11 @@
                      
                      <supportDesc>
                         
-                     <extent>32 volumes.<!--線裝32冊 ; 25公分--><dimensions unit="cm"><height>25</height></dimensions></extent></supportDesc>
+                     <extent><measure type="volume" n="32">32冊</measure><!--線裝32冊 ; 25公分--><dimensions unit="cm"><height>25</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <sealDesc><seal><p>有「京都嘉餘堂圖章」、「浚儀馮十貳」、「字余曰果卿」、「嗜学斋」、「祥符冯汝桓果卿氏藏書畫印」等印記</p></seal></sealDesc><bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <sealDesc><seal><p>有「京都嘉餘堂圖章」、「浚儀馮十貳」、「字余曰果卿」、「嗜学斋」、「祥符冯汝桓果卿氏藏書畫印」等印記</p></seal></sealDesc><bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1750" type="d">1750</origDate>

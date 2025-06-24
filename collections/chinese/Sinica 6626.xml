@@ -59,7 +59,7 @@
 
                      <supportDesc>
                         <support/>
-                        <extent>6 volumes.<!--洋裝6冊(原線裝24冊) ； 18公分--><dimensions unit="cm"><height>洋裝6冊(原線裝24冊) ； 18</height></dimensions></extent>
+                        <extent><measure type="volume" n="6">6冊</measure> (原線裝24冊)<!--洋裝6冊(原線裝24冊) ； 18公分--><dimensions unit="cm"><height>18</height></dimensions></extent>
                      </supportDesc>
 
                   </objectDesc>
@@ -71,7 +71,7 @@
                   </sealDesc>
                   <bindingDesc>
                      <binding>
-                        <p>traditional thread binding</p>
+                        <p xml:lang="chi">洋裝</p>
                      </binding>
                   </bindingDesc>
                </physDesc>

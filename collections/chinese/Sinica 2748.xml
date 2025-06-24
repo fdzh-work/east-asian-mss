@@ -50,15 +50,15 @@
                <msItem n="2"><title source="#201">殷虛文字類編檢字 一卷</title><title source="#201|9">yin xu wen zi lei bian jian zi</title><title source="#201">殷虛文字待問編 十三卷</title><title source="#201|9">yin xu wen zi dai wen bian</title><note source="#291">商承祚類次</note><author source="#301" key="person_7115"><persName>商承祚</persName><persName type="9">shang cheng zuo</persName></author></msItem><msItem n="3"><title source="#202">殷虛書契考釋 一卷</title><title source="#202|9">yin xu shu qi kao shi</title><note source="#292">(清)羅振玉撰</note><author source="#302" key="person_5327"><persName>(清)羅振玉</persName><persName type="9">luo zhen yu</persName></author></msItem></msItem></msContents>
                <physDesc>
                   
-                  <p>後印. - 6冊</p><objectDesc>
+                  <p>後印.</p><objectDesc>
                      
                      <supportDesc>
                         
-                     <extent>8 volumes.<!--線裝8冊 ; 30公分--><dimensions unit="cm"><height>30</height></dimensions></extent></supportDesc>
+                        <extent>6冊<!--線裝8冊 ; 30公分--><dimensions unit="cm"><height>30</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1934" type="d">1934</origDate>

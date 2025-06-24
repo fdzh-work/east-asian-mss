@@ -54,7 +54,7 @@
                      
                      <supportDesc>
                         
-                     <extent><!--Single sheet ; 64 x 38公分--><dimensions unit="cm"><height>64</height><width>38</width></dimensions></extent></supportDesc>
+                     <extent><measure type="volume" n="1">Single sheet</measure><!--Single sheet ; 64 x 38公分--><dimensions unit="cm"><height>64</height><width>38</width></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 

@@ -54,11 +54,11 @@
                      
                      <supportDesc>
                         
-                     <extent>1 volume, (1, 113頁) <!--線裝1冊 (1, 113頁) : 地圖 ; 26.4公分--><dimensions unit="cm"><height>26.4</height></dimensions></extent></supportDesc>
+                     <extent><measure type="volume" n="1">1冊</measure><!--線裝1冊 (1, 113頁) : 地圖 ; 26.4公分--><measure type="page">1, 113頁</measure><dimensions unit="cm"><height>26.4</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <typeDesc><p>woodblock</p></typeDesc><bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <typeDesc><p>woodblock</p></typeDesc><bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc><decoDesc><p>地圖</p></decoDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1882" type="d">1882</origDate>

@@ -54,7 +54,7 @@
                      
                      <supportDesc>
                         
-                     <extent>1 volume.<!--平裝1冊(various pagings) : 樂譜 ; 22.5公分--><dimensions unit="cm"><height>22.5</height></dimensions></extent></supportDesc>
+                     <extent><measure n="1" type="volume">1冊</measure><!--平裝1冊(various pagings) : 樂譜 ; 22.5公分--><dimensions unit="cm"><height>22.5</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 

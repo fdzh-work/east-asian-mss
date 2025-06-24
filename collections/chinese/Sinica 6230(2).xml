@@ -54,7 +54,7 @@
                      
                      <supportDesc>
                         
-                     <extent>1 volume.<!--平裝1冊 ; 19公分--><dimensions unit="cm"><height>19</height></dimensions></extent></supportDesc>
+                     <extent><measure n="1" type="volume">1冊</measure><!--平裝1冊 ; 19公分--><dimensions unit="cm"><height>19</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 

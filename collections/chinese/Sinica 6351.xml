@@ -50,15 +50,15 @@
                <msItem n="2"><title source="#201">附 重訂徵刻宋人集小啟 一卷</title><title source="#201|9">chong ding zheng ke song ren ji xiao qi</title><title source="#201">增訂叢書舉要校誤記 一卷</title><title source="#201|9">zeng ding cong shu ju yao jiao wu ji</title><note source="#291">(民國)李之鼎撰</note><author source="#301" key="person_3127"><persName>(民國)李之鼎</persName><persName type="9">li zhi ding</persName></author></msItem></msItem></msContents>
                <physDesc>
                   
-                  <p>洋裝6冊(原線裝41冊)</p><objectDesc>
+                  <objectDesc>
                      
                      <supportDesc>
                         
-                     <extent>22 volumes.<!--線裝22冊 ; 20公分--><dimensions unit="cm"><height>20</height></dimensions></extent></supportDesc>
+                        <extent>洋裝6冊(原線裝41冊)<!--線裝22冊 ; 20公分--><dimensions unit="cm"><height>20</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+                  <bindingDesc><binding><p xml:lang="chi">洋裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1918" type="d">1918</origDate>

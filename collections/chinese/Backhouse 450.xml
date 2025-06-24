@@ -54,11 +54,11 @@
                      
                      <supportDesc>
                         
-                     <extent>20 volumes.<!--包背裝20冊 ; 32公分--><dimensions unit="cm"><height>32</height></dimensions></extent></supportDesc>
+                     <extent><measure type="volume" n="20">20冊</measure><!--包背裝20冊 ; 32公分--><dimensions unit="cm"><height>32</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <sealDesc><seal><p>有「廣運之寶」、「趙氏家藏」、「攤書嶽印多」、「雲明研軒主人」、「劉氏惟喆珍藏」、「今山文獻」、「趙國慶印」、「放眼萬卷書中」、「大學文淵閣士章」、「惟吉藏書」、「仁圃藏書」、「子孫保之」、「子孫保之」、「中憲大夫章」等印記</p></seal></sealDesc><bindingDesc><binding><p>traditional "wrapped back" binding</p></binding></bindingDesc></physDesc>
+               <sealDesc><seal><p>有「廣運之寶」、「趙氏家藏」、「攤書嶽印多」、「雲明研軒主人」、「劉氏惟喆珍藏」、「今山文獻」、「趙國慶印」、「放眼萬卷書中」、「大學文淵閣士章」、「惟吉藏書」、「仁圃藏書」、「子孫保之」、「子孫保之」、「中憲大夫章」等印記</p></seal></sealDesc><bindingDesc><binding><p xml:lang="chi">包背裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1514" type="d">1514</origDate>

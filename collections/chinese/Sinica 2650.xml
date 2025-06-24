@@ -98,17 +98,17 @@
 
                      <supportDesc>
                         
-                        <extent>3 volumes.<!--折裝3冊 : 圖 ; 30公分--><dimensions unit="cm"><height>30</height></dimensions></extent>
+                        <extent><measure type="volume" n="3">3冊</measure><!--折裝3冊 : 圖 ; 30公分--><dimensions unit="cm"><height>30</height></dimensions></extent>
                      </supportDesc>
 
                   </objectDesc>
 
                   <bindingDesc>
                      <binding>
-                        <p>traditional "accordion" (or "sutra") binding</p>
+                        <p xml:lang="chi">折裝</p>
                      </binding>
                   </bindingDesc>
-               </physDesc>
+               <decoDesc><p>圖</p></decoDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1836" type="d">1836</origDate>

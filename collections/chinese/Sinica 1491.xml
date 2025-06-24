@@ -54,11 +54,11 @@
                      
                      <supportDesc>
                         
-                     <extent>1 volume, 46 pages.<!--線裝1冊(46頁) : 圖 ; 19.3公分--><dimensions unit="cm"><height>19.3</height></dimensions></extent></supportDesc>
+                     <extent><measure type="volume" n="1">1冊</measure><!--線裝1冊(46頁) : 圖 ; 19.3公分--><measure type="page" n="46">46頁</measure><dimensions unit="cm"><height>19.3</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <typeDesc><p>typography</p><p>Beyerhaus</p></typeDesc><bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <typeDesc><p>typography</p><p>Beyerhaus</p></typeDesc><bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc><decoDesc><p>圖</p></decoDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1874" type="d">1874</origDate>

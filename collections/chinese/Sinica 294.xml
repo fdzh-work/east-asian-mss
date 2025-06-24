@@ -50,15 +50,15 @@
                </msContents>
                <physDesc>
                   
-                  <p>精裝 ; 20.3公分. - Lacks title-page</p><objectDesc>
+                  <p>Lacks title-page</p><objectDesc>
                      
                      <supportDesc>
                         
-                     <extent>1 volume, 16 pages.<!--線裝1冊(16頁) ; 19.5公分--><dimensions unit="cm"><height>19.5</height></dimensions></extent></supportDesc>
+                     <extent><dimensions unit="cm"><height>20.3</height></dimensions><measure type="volume" n="1">1冊</measure></extent></supportDesc>
                      
                   </objectDesc>
 
-               <typeDesc><p>woodblock</p></typeDesc><bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <typeDesc><p>woodblock</p></typeDesc><bindingDesc><binding><p xml:lang="chi">精裝 </p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1849" type="d">1849</origDate>

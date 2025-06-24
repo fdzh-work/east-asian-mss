@@ -54,11 +54,11 @@
                      
                      <supportDesc>
                         
-                     <extent>1 page.<!--1頁 : 圖 ; 21公分--><dimensions unit="cm"><height>21</height></dimensions></extent></supportDesc>
+                     <extent>1 page.<!--1頁 : 圖 ; 21公分--><measure type="page" n="1">1頁</measure><dimensions unit="cm"><height>21</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               </physDesc>
+               <decoDesc><p>圖</p></decoDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1600" type="d">1600</origDate>

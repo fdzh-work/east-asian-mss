@@ -43,22 +43,22 @@
                   <collection/>
                   <idno type="shelfmark">Backhouse 156</idno>
                </msIdentifier>
-               <head>書名:三合聖諭廣訓 不分卷 / (清)聖祖撰 ; (清)世宗廣訓<lb/>清同治十三年[1874]重刊滿蒙漢三合本<lb/>線裝4冊 ; 30公分<lb/></head><msContents>
+               <head>書名:三合聖諭廣訓 不分卷 / (清)聖祖撰 ; (清)世宗廣訓<lb/>清同治十三年[1874]重刊滿蒙漢三合本<lb/></head><msContents>
                   <textLang mainLang="mnc" otherLangs="mon chi">Manchu, Mongolian, Chinese</textLang>
                   <msItem n="1">
                   <title source="#200">三合聖諭廣訓 不分卷</title><title source="#200|9">san he sheng yu guang xun</title><note source="#290">(清)聖祖撰</note><note source="#290">(清)世宗廣訓</note><author source="#300" key="person_5350"><persName>(清)聖祖</persName><persName type="9">sheng zu</persName></author><author source="#300" key="person_3273"><persName>(清)世宗</persName><persName type="9">shi zong</persName></author><note source="#409">清同治十三年[1874]重刊滿蒙漢三合本</note></msItem>         
                </msContents>
                <physDesc>
                   
-                  <p>28公分</p><objectDesc>
+                  <objectDesc>
                      
                      <supportDesc>
                         
-                     <extent>4 volumes.<!--線裝4冊 ; 30公分--><dimensions unit="cm"><height>30</height></dimensions></extent></supportDesc>
+                        <extent><measure type="volume" n="4">4冊</measure><dimensions unit="cm"><height>28</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
-
-               <bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+                  <bindingDesc><p xml:lang="chi">線裝4</p></bindingDesc>
+               </physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1874" type="d">1874</origDate>

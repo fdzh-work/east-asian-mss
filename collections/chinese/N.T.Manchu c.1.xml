@@ -50,15 +50,15 @@
                </msContents>
                <physDesc>
                   
-                  <p>31.3公分</p><objectDesc>
+                  <objectDesc>
                      
                      <supportDesc>
                         
-                     <extent>1 volume, 43 pages.<!--線裝1冊(43頁) ; 29.5公分--><dimensions unit="cm"><height>29.5</height></dimensions></extent></supportDesc>
+                     <extent>1冊(43頁).<!--線裝1冊(43頁) ; 29.5公分--><dimensions unit="cm"><height>31.3</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <typeDesc><p>typography</p><p>Cole</p></typeDesc><bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <typeDesc><p>typography</p><p>Cole</p></typeDesc><bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1859" type="d">1859</origDate>

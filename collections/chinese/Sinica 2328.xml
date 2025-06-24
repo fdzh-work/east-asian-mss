@@ -49,15 +49,14 @@
                   <title source="#200">T'in-lu ts-nen</title><author source="#300" key="person_6978"><persName>Nevius, John Livingstone</persName></author><editor source="#420" role="pbl"><persName>Me-wo Shu-kwun</persName></editor><note source="#600">By J L Nevius</note><note source="#600">In romanised Ningpo dialect</note></msItem>         
                </msContents>
                <physDesc>
-                  
-                  <p>22.7公分</p><objectDesc>
+                 <objectDesc>
                      
                      <supportDesc>
                         
-                     <extent>1 volume, 84 pages.<!--平裝1冊(84頁) ; 22.5公分--><dimensions unit="cm"><height>22.5</height></dimensions></extent></supportDesc>
+                     <extent>1冊(84頁).<!--平裝1冊(84頁) ; 22.5公分--><dimensions unit="cm"><height>22.7</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
-
+                  <bindingDesc><binding><p xml:lang="chi">平裝</p></binding></bindingDesc>
                <typeDesc><p>typography</p></typeDesc></physDesc>
                <history>
                   <origin>

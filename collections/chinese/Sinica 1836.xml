@@ -54,11 +54,11 @@
                      
                      <supportDesc>
                         
-                     <extent>2 volumes, (5, 90, 118頁) <!--線裝2冊 (5, 90, 118頁) ; 25.1公分--><dimensions unit="cm"><height>25.1</height></dimensions></extent></supportDesc>
+                     <extent><measure type="volume" n="2">2冊</measure><!--線裝2冊 (5, 90, 118頁) ; 25.1公分--><measure type="page">5, 90, 118頁</measure><dimensions unit="cm"><height>25.1</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <typeDesc><p>woodblock</p></typeDesc><bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <typeDesc><p>woodblock</p></typeDesc><bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1873" type="d">1873</origDate>

@@ -463,14 +463,14 @@
 
                      <supportDesc>
                         
-                        <extent>21 volume.<!--洋裝21冊(原線裝100冊) ; 28公分--><dimensions unit="cm"><height>28</height></dimensions></extent>
+                        <extent><measure type="volume" n="21">21冊</measure><!--洋裝21冊(原線裝100冊) ; 28公分--><dimensions unit="cm"><height>28</height></dimensions></extent>
                      </supportDesc>
 
                   </objectDesc>
 
                   <bindingDesc>
                      <binding>
-                        <p>traditional thread binding</p>
+                        <p xml:lang="chi">洋裝</p>
                      </binding>
                   </bindingDesc>
                </physDesc>

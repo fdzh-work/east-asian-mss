@@ -50,14 +50,14 @@
                </msContents>
                <physDesc>
                   
-                  <p>殘下經卷之二. - 1冊</p><objectDesc>
+                  <p>殘下經卷之二.</p><objectDesc>
                      
                      <supportDesc>
                         
-                     <extent>3 volumes.<!--洋裝3冊 ; 27公分--><dimensions unit="cm"><height>27</height></dimensions></extent></supportDesc>
+                        <extent><measure type="volume" n="1">1冊</measure><dimensions unit="cm"><height>27</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
-
+                  <bindingDesc><p xml:lang="chi">洋裝</p></bindingDesc>
                </physDesc>
                <history>
                   <origin>

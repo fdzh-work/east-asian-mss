@@ -50,15 +50,15 @@
                </msContents>
                <physDesc>
                   
-                  <p>線裝60冊 ; 27公分</p><objectDesc>
+                  <objectDesc>
                      
                      <supportDesc>
                         
-                     <extent>50 volumes.<!--線裝50冊 ; 28公分--><dimensions unit="cm"><height>28</height></dimensions></extent></supportDesc>
+                        <extent>60冊<dimensions unit="cm"><height>27</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <sealDesc><seal><p>有「學」、「明治壬子採收三宅舊藏」、「平原陸氏壽椿堂藏書印」印記</p></seal></sealDesc><bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+                  <sealDesc><seal><p>有「學」、「明治壬子採收三宅舊藏」、「平原陸氏壽椿堂藏書印」印記</p></seal></sealDesc><bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1603" type="d">1603</origDate>

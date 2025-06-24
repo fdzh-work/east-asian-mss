@@ -50,15 +50,15 @@
                </msContents>
                <physDesc>
                   
-                  <p>24.0公分. MS note on cover: "The first homily of the Church of England in Chinese. Translated by Dr. Morrison, one of the missionaries of the London Missionary Society"</p><objectDesc>
+                  <p>MS note on cover: "The first homily of the Church of England in Chinese. Translated by Dr. Morrison, one of the missionaries of the London Missionary Society"</p><objectDesc>
                      
                      <supportDesc>
                         
-                     <extent>1 volume, 10 pages.<!--線裝1冊(10頁) ; 23.8公分--><dimensions unit="cm"><height>23.8</height></dimensions></extent></supportDesc>
+                        <extent>1冊(10頁)<!--線裝1冊(10頁) ; 23.8公分--><dimensions unit="cm"><height>24.0</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <typeDesc><p>woodblock</p></typeDesc><bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <typeDesc><p>woodblock</p></typeDesc><bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1812" type="d">1812</origDate>

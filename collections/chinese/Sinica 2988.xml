@@ -54,7 +54,7 @@
                      
                      <supportDesc>
                         
-                     <extent>1 volume, (5, 4, 4, 2, 2頁) <!--平裝1冊 (5, 4, 4, 2, 2頁) ; 18.0公分--><dimensions unit="cm"><height>18.0</height></dimensions></extent></supportDesc>
+                     <extent><measure n="1" type="volume">1冊</measure> (5, 4, 4, 2, 2頁) <!--平裝1冊 (5, 4, 4, 2, 2頁) ; 18.0公分--><dimensions unit="cm"><height>18.0</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 

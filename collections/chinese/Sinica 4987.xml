@@ -54,11 +54,11 @@
                      
                      <supportDesc>
                         
-                     <extent>1 volume.<!--線裝1冊(原毛裝4冊) : 圖 ; 20公分--><dimensions unit="cm"><height>20</height></dimensions></extent></supportDesc>
+                     <extent><measure type="volume" n="1">1冊(原毛裝4冊)</measure><!--線裝1冊(原毛裝4冊) : 圖 ; 20公分--><dimensions unit="cm"><height>20</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc><bindingDesc><binding><p>traditional "rough" binding</p></binding></bindingDesc></physDesc>
+               <bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc><decoDesc><p>圖</p></decoDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" notBefore="1900" notAfter="1999" type="d">1900 - 1999</origDate>

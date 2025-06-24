@@ -98,7 +98,7 @@
 
                      <supportDesc>
                         
-                        <extent>11 volume.<!--線裝11冊 ; 17公分--><dimensions unit="cm"><height>17</height></dimensions></extent>
+                        <extent><measure type="volume" n="11">11冊</measure><!--線裝11冊 ; 17公分--><dimensions unit="cm"><height>17</height></dimensions></extent>
                      </supportDesc>
 
                   </objectDesc>
@@ -110,7 +110,7 @@
                   </sealDesc>
                   <bindingDesc>
                      <binding>
-                        <p>traditional thread binding</p>
+                        <p xml:lang="chi">線裝</p>
                      </binding>
                   </bindingDesc>
                </physDesc>

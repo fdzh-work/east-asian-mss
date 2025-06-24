@@ -54,11 +54,11 @@
                      
                      <supportDesc>
                         
-                     <extent>12 volumes.<!--線裝12冊 ; 28公分--><dimensions unit="cm"><height>28</height></dimensions></extent></supportDesc>
+                     <extent><measure type="volume" n="12">12冊</measure><!--線裝12冊 ; 28公分--><dimensions unit="cm"><height>28</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <sealDesc><seal><p>有「廣川」、「宋弼」、「河上草廬」印記</p></seal></sealDesc><bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <sealDesc><seal><p>有「廣川」、「宋弼」、「河上草廬」印記</p></seal></sealDesc><bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1595" type="d">1595</origDate>

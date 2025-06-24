@@ -54,11 +54,11 @@
                      
                      <supportDesc>
                         
-                     <extent>4 volumes.<!--平裝4冊 ; 23公分--><dimensions unit="cm"><height>23</height></dimensions></extent></supportDesc>
+                     <extent><measure type="volume" n="4">4冊</measure><!--平裝4冊 ; 23公分--><dimensions unit="cm"><height>23</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <sealDesc><seal><p>有「楊繼玉印」印記</p></seal></sealDesc></physDesc>
+               <sealDesc><seal><p>有「楊繼玉印」印記</p></seal></sealDesc><bindingDesc><p xml:lang="chi">平裝</p></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1909" type="d">1909</origDate>

@@ -54,11 +54,11 @@
                      
                      <supportDesc>
                         
-                     <extent><!--單張 ; 26公分--><dimensions unit="cm"><height>26</height></dimensions></extent></supportDesc>
+                     <extent>單張<!--單張 ; 26公分--><dimensions unit="cm"><height>26</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               </physDesc>
+               <bindingDesc><p xml:lang="chi">單張</p></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" notBefore="1890" notAfter="1899" type="b">1890 - 1899</origDate>

@@ -50,15 +50,15 @@
                <msItem n="2"><title source="#201">唐書釋音 二十五卷</title><title source="#201|9">tang shu shi yin</title><note source="#291">(宋)董衝撰</note><author source="#301" key="person_1563"><persName>(宋)董衝</persName><persName type="9">dong chong</persName></author></msItem></msItem></msContents>
                <physDesc>
                   
-                  <p>線裝44冊 ; 27公分</p><objectDesc>
+                  <objectDesc>
                      
                      <supportDesc>
                         
-                     <extent>96 volumes.<!--線裝96冊 ; 29公分--><dimensions unit="cm"><height>29</height></dimensions></extent></supportDesc>
+                        <extent><measure n="44" type="volume">44冊</measure><dimensions unit="cm"><height>27</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+                  <bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1297" type="d">1297</origDate>

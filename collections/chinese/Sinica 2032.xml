@@ -54,11 +54,11 @@
                      
                      <supportDesc>
                         
-                     <extent>1 volume, 114 pages.<!--平裝1冊(114頁) ; 21.4公分--><dimensions unit="cm"><height>21.4</height></dimensions></extent></supportDesc>
+                     <extent><measure type="volume" n="1">1冊</measure><!--平裝1冊(114頁) ; 21.4公分--><measure type="page" n="114">114頁</measure><dimensions unit="cm"><height>21.4</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <typeDesc><p>typography</p><p>Beyerhaus</p><p>Cole</p><p>gamble</p></typeDesc></physDesc>
+               <typeDesc><p>typography</p><p>Beyerhaus</p><p>Cole</p><p>gamble</p></typeDesc><bindingDesc><p xml:lang="chi">平裝</p></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1876" type="d">1876</origDate>

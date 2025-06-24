@@ -50,15 +50,15 @@
                </msContents>
                <physDesc>
                   
-                  <p>15.4公分</p><objectDesc>
+               <objectDesc>
                      
                      <supportDesc>
                         
-                     <extent>1 volume, 9 pages.<!--毛裝1冊(9頁) ; 15.0公分--><dimensions unit="cm"><height>15.0</height></dimensions></extent></supportDesc>
+                     <extent>1冊(9頁).<!--毛裝1冊(9頁) ; 15.0公分--><dimensions unit="cm"><height>15.4</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <typeDesc><p>typography</p><p>Beyerhaus</p><p>Legrand</p></typeDesc><bindingDesc><binding><p>traditional "rough" binding</p></binding></bindingDesc></physDesc>
+               <typeDesc><p>typography</p><p>Beyerhaus</p><p>Legrand</p></typeDesc><bindingDesc><binding><p xml:lang="chi">毛裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1874" type="d">1874</origDate>

@@ -231,4 +231,30 @@
                 </xsl:otherwise>
             </xsl:choose>
         </span></xsl:template>
+    <xsl:template match="head[not(.//text())]">
+        <head>
+            <xsl:for-each select="//msItem">
+                <!-- Gather titles -->
+                <xsl:for-each select="title[@source='#200']">
+                    <xsl:value-of select="."/>
+                    <xsl:if test="position() != last()">
+                        <xsl:text>; </xsl:text>
+                    </xsl:if>
+                </xsl:for-each>
+                <!-- Only output '/' if there are any <author> elements -->
+                <xsl:if test="note[@source='#290']">
+                    <xsl:text> / </xsl:text>
+                    <xsl:for-each select="note[@source='#290']">
+                        <xsl:value-of select="."/>
+                        <xsl:if test="position() != last()">
+                            <xsl:text>; </xsl:text>
+                        </xsl:if>
+                    </xsl:for-each>
+                </xsl:if>
+                <xsl:if test="position() != last()">
+                    <lb/>
+                </xsl:if>
+            </xsl:for-each>
+        </head>
+    </xsl:template>
 </xsl:stylesheet>

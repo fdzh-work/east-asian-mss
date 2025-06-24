@@ -50,14 +50,14 @@
                </msContents>
                <physDesc>
                   
-                  <p>洋裝(原線裝)1冊</p><objectDesc>
+                 <objectDesc>
                      
                      <supportDesc>
                         
-                     <extent>1 volume.<!--平裝1冊 : 圖 ; 19公分--><dimensions unit="cm"><height>19</height></dimensions></extent></supportDesc>
+                        <extent>1冊<!--平裝1冊 : 圖 ; 19公分--><dimensions unit="cm"><height>19</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
-
+                 <bindingDesc><binding> <p xml:lang="chi">洋裝(原線裝)</p></binding></bindingDesc>
                </physDesc>
                <history>
                   <origin>

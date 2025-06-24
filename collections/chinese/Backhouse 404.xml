@@ -54,11 +54,11 @@
                      
                      <supportDesc>
                         
-                     <extent>120 volumes.<!--包背裝120冊 ; 29公分--><dimensions unit="cm"><height>29</height></dimensions></extent></supportDesc>
+                     <extent><measure type="volume" n="120">120冊</measure><!--包背裝120冊 ; 29公分--><dimensions unit="cm"><height>29</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <bindingDesc><binding><p>traditional "wrapped back" binding</p></binding></bindingDesc></physDesc>
+               <bindingDesc><binding><p xml:lang="chi">包背裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1480" type="d">1480</origDate>

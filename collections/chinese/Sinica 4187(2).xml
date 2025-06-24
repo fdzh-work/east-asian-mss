@@ -50,15 +50,15 @@
                </msContents>
                <physDesc>
                   
-                  <p>與上本合訂為1冊</p><objectDesc>
+                  <objectDesc>
                      
                      <supportDesc>
                         
-                     <extent>1 volume.<!--毛裝1冊 ; 16公分--><dimensions unit="cm"><height>16</height></dimensions></extent></supportDesc>
+                     <extent><dimensions unit="cm"><height>16</height></dimensions><measure type="volume" n="1">1冊</measure><measure type="volume" n="1">1冊</measure></extent></supportDesc>
                      
                   </objectDesc>
 
-               <bindingDesc><binding><p>traditional "rough" binding</p></binding></bindingDesc></physDesc>
+               <bindingDesc><binding><p xml:lang="chi">與上本合訂為</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1933" type="d">1933</origDate>

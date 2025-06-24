@@ -54,11 +54,11 @@
                      
                      <supportDesc>
                         
-                     <extent>51 volume.<!--平裝51冊 ; 27公分--><dimensions unit="cm"><height>27</height></dimensions></extent></supportDesc>
+                     <extent><measure type="volume" n="51">51冊</measure><!--平裝51冊 ; 27公分--><dimensions unit="cm"><height>27</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               </physDesc>
+               <bindingDesc><p xml:lang="chi">平裝</p></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" notBefore="1906" notAfter="1913" type="b">1906 - 1913</origDate>

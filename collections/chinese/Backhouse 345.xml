@@ -49,16 +49,15 @@
                   <title source="#200">繙譯古文 十六卷</title><title source="#200|9">fan yi gu wen</title><note source="#290">(清)孟保譯</note><author source="#300" key="person_3824"><persName>(清)孟保</persName><persName type="9">meng bao</persName></author><note source="#409">清咸豐元年[1851]序刊滿漢合璧本</note></msItem>         
                </msContents>
                <physDesc>
-                  
-                  <p>26公分</p><objectDesc>
+                  <objectDesc>
                      
                      <supportDesc>
                         
-                     <extent>15 volumes.<!--線裝15冊 ; 25公分--><dimensions unit="cm"><height>25</height></dimensions></extent></supportDesc>
+                        <extent><measure type="volume" n="15">15冊</measure>.<!--線裝15冊 ; 25公分--><dimensions unit="cm"><height>26</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+                  <bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1851" type="d">1851</origDate>

@@ -50,15 +50,15 @@
                </msContents>
                <physDesc>
                   
-                  <p>封面有「御定淵鑑類函奉旨刷印頒行」﹑「板藏清吟堂」字樣. - 洋裝28冊(原線裝140冊) ; 26公分</p><objectDesc>
+                  <p>封面有「御定淵鑑類函奉旨刷印頒行」﹑「板藏清吟堂」字樣. </p><objectDesc>
                      
                      <supportDesc>
                         
-                     <extent>140 volumes.<!--線裝140冊 ; 25公分--><dimensions unit="cm"><height>25</height></dimensions></extent></supportDesc>
+                     <extent><dimensions unit="cm"><height>26</height></dimensions><measure type="volume" n="28">28冊(原線裝140冊)</measure></extent></supportDesc>
                      
                   </objectDesc>
 
-               <bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <bindingDesc><binding><p xml:lang="chi">洋裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1701" type="d">1701</origDate>

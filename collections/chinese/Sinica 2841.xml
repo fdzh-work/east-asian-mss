@@ -54,11 +54,11 @@
                      
                      <supportDesc>
                         
-                     <extent><!--蝴蝶裝2 冊 ; 34公分--><dimensions unit="cm"><height>34</height></dimensions></extent></supportDesc>
+                     <extent><measure type="volume" n="2">2冊</measure><!--蝴蝶裝2 冊 ; 34公分--><dimensions unit="cm"><height>34</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <bindingDesc><binding><p>traditional "butterfly" binding</p></binding></bindingDesc></physDesc>
+               <bindingDesc><binding><p xml:lang="chi">蝴蝶裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1941" type="d">1941</origDate>

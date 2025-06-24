@@ -50,15 +50,15 @@
                </msContents>
                <physDesc>
                   
-                  <p>Later impression? 20.6公分</p><objectDesc>
+                  <p>Later impression?</p><objectDesc>
                      
                      <supportDesc>
                         
-                     <extent>1 volume, 16 pages.<!--線裝1冊(16頁) ; 20.1公分--><dimensions unit="cm"><height>20.1</height></dimensions></extent></supportDesc>
+                     <extent><dimensions unit="cm"><height>20.6</height></dimensions><measure type="volume" n="1">1冊(16頁)</measure></extent></supportDesc>
                      
                   </objectDesc>
 
-               <typeDesc><p>stereotype</p></typeDesc><bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <typeDesc><p>stereotype</p></typeDesc><bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1843" type="d">1843</origDate>

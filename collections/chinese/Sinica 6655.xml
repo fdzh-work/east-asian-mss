@@ -63,14 +63,14 @@
 
                      <supportDesc>
                         <support/>
-                        <extent>3 volumes.<!--洋撰3冊(原線裝12冊) ; 23公分--><dimensions unit="cm"><height>23</height></dimensions></extent>
+                        <extent><measure type="volume" n="3">3冊</measure><!--洋撰3冊(原線裝12冊) ; 23公分--><dimensions unit="cm"><height>23</height></dimensions></extent>
                      </supportDesc>
 
                   </objectDesc>
 
                   <bindingDesc>
                      <binding>
-                        <p>traditional thread binding</p>
+                        <p xml:lang="chi">洋撰</p>
                      </binding>
                   </bindingDesc>
                </physDesc>

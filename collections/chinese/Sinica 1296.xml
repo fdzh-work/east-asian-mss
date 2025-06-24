@@ -43,22 +43,20 @@
                   <collection/>
                   <idno type="shelfmark">Sinica 1296</idno>
                </msIdentifier>
-               <head>書名:耶穌基利士督我主救者新遺詔書<lb/>[Canton], [1815]<lb/>線裝8冊(various pagings) ; 17.6公分<lb/>Tr. by R Morrison<lb/>Second edn. of Morrison's version, in smaller format<lb/></head><msContents>
+               <head>書名:耶穌基利士督我主救者新遺詔書<lb/>[Canton], [1815]<lb/>Tr. by R Morrison<lb/>Second edn. of Morrison's version, in smaller format<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
                   <title source="#200">耶穌基利士督我主救者新遺詔書</title><title source="#200|9">ye su ji li shi du wo zhu jiu zhe xin yi zhao shu</title><author source="#300" key="person_6970"><persName>Morrison, Robert</persName></author><note source="#600">Tr. by R Morrison</note><note source="#600">Second edn. of Morrison's version, in smaller format</note></msItem>         
                </msContents>
-               <physDesc>
-                  
-                  <p>6冊(缺第3, 8本). - 17.2公分</p><objectDesc>
+               <physDesc><objectDesc>
                      
                      <supportDesc>
                         
-                     <extent>8 volumes.<!--線裝8冊(various pagings) ; 17.6公分--><dimensions unit="cm"><height>17.6</height></dimensions></extent></supportDesc>
+                        <extent><measure type="volume" n="6">6冊(缺第3, 8本).</measure><dimensions unit="cm"><height>17.2</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <typeDesc><p>woodblock</p></typeDesc><bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+                  <typeDesc><p>woodblock</p></typeDesc><bindingDesc><binding><p>線裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1815" type="d">1815</origDate>

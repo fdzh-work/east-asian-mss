@@ -50,15 +50,15 @@
                </msContents>
                <physDesc>
                   
-                  <p>存第一～十集. - 線裝10冊 ; 39公分</p><objectDesc>
+                  <p>存第一～十集.</p><objectDesc>
                      
                      <supportDesc>
                         
-                     <extent>28 volumes.<!--木匣1盒(線裝28冊) : 圖 ; 38公分--><dimensions unit="cm"><height>38</height></dimensions></extent></supportDesc>
+                        <extent><measure n="10" type="volume">10冊</measure><dimensions unit="cm"><height>39</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+                  <bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" notBefore="1920" notAfter="1930" type="f">1920 - 1930</origDate>

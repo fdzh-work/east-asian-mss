@@ -54,11 +54,11 @@
                      
                      <supportDesc>
                         
-                     <extent>1 volume, 350 pages.<!--平裝1冊(350頁) ; 13.5公分--><dimensions unit="cm"><height>13.5</height></dimensions></extent></supportDesc>
+                     <extent><measure type="volume" n="1">1冊</measure><!--平裝1冊(350頁) ; 13.5公分--><measure type="page" n="350">350頁</measure><dimensions unit="cm"><height>13.5</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <typeDesc><p>typography</p><p>gamble</p></typeDesc></physDesc>
+               <typeDesc><p>typography</p><p>gamble</p></typeDesc><bindingDesc><p xml:lang="chi">平裝</p></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1875" type="d">1875</origDate>

@@ -50,15 +50,15 @@
                </msContents>
                <physDesc>
                   
-                  <p>21.7公分</p><objectDesc>
+                  <objectDesc>
                      
                      <supportDesc>
                         
-                     <extent>1 volume, (1, 16頁) <!--線裝1冊 (1, 16頁) ; 21.2公分--><dimensions unit="cm"><height>21.2</height></dimensions></extent></supportDesc>
+                        <extent>1冊 (1, 16頁)<!--線裝1冊 (1, 16頁) ; 21.2公分--><dimensions unit="cm"><height>21.7</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <typeDesc><p>woodblock</p></typeDesc><bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <typeDesc><p>woodblock</p></typeDesc><bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1867" type="d">1867</origDate>

@@ -50,15 +50,15 @@
                <msItem n="2"><title source="#201">昭德先生郡齋讀書志附志 二卷</title><title source="#201|9">zhao de xian sheng jun zhai du shu zhi fu zhi</title><note source="#291">(宋)趙希弁撰</note><author source="#301" key="person_1649"><persName>(宋)趙希弁</persName><persName type="9">zhao xi bian</persName></author></msItem></msItem></msContents>
                <physDesc>
                   
-                  <p>26公分</p><objectDesc>
+                  <objectDesc>
                      
                      <supportDesc>
                         
-                     <extent>10 volumes.<!--線裝10冊 ; 28公分--><dimensions unit="cm"><height>28</height></dimensions></extent></supportDesc>
+                     <extent><measure n="10" type="volume">10冊</measure><!--線裝10冊 ; 28公分--><dimensions unit="cm"><height>26</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1884" type="d">1884</origDate>

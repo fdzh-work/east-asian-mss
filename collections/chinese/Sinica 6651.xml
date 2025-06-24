@@ -61,14 +61,14 @@
 
                      <supportDesc>
                         <support/>
-                        <extent>4 volumes.<!--洋裝4冊(原線裝18冊) ; 25公分--><dimensions unit="cm"><height>25</height></dimensions></extent>
+                        <extent><measure type="volume" n="4">4冊</measure><!--洋裝4冊(原線裝18冊) ; 25公分--><dimensions unit="cm"><height>25</height></dimensions></extent>
                      </supportDesc>
 
                   </objectDesc>
 
                   <bindingDesc>
                      <binding>
-                        <p>traditional thread binding</p>
+                        <p xml:lang="chi">洋裝</p>
                      </binding>
                   </bindingDesc>
                </physDesc>

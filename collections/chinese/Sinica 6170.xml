@@ -54,11 +54,11 @@
                      
                      <supportDesc>
                         
-                     <extent>1 volume, 303 pages.<!--精裝1冊(303頁) : 圖 ; 20.9公分--><dimensions unit="cm"><height>20.9</height></dimensions></extent></supportDesc>
+                     <extent><measure type="volume" n="1">1冊</measure><!--精裝1冊(303頁) : 圖 ; 20.9公分--><measure type="page" n="303">303頁</measure><dimensions unit="cm"><height>20.9</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <typeDesc><p>typography</p></typeDesc></physDesc>
+               <typeDesc><p>typography</p></typeDesc><bindingDesc><p xml:lang="chi">精裝</p></bindingDesc><decoDesc><p>圖</p></decoDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1910" type="d">1910</origDate>

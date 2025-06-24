@@ -54,11 +54,11 @@
                      
                      <supportDesc>
                         
-                     <extent>120 volumes.<!--線裝120冊 ; 27公分--><dimensions unit="cm"><height>27</height></dimensions></extent></supportDesc>
+                     <extent><measure type="volume" n="120">120冊</measure><!--線裝120冊 ; 27公分--><dimensions unit="cm"><height>27</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <sealDesc><seal><p>有「滿城張氏藏書印」、「□古山房」、「廷霖之章」印記</p></seal></sealDesc><bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <sealDesc><seal><p>有「滿城張氏藏書印」、「□古山房」、「廷霖之章」印記</p></seal></sealDesc><bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1726" type="d">1726</origDate>

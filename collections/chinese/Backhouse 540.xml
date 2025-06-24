@@ -54,11 +54,11 @@
                      
                      <supportDesc>
                         
-                     <extent>40 volumes.<!--線裝40冊 ; 28公分--><dimensions unit="cm"><height>28</height></dimensions></extent></supportDesc>
+                     <extent><measure type="volume" n="40">40冊</measure><!--線裝40冊 ; 28公分--><dimensions unit="cm"><height>28</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <sealDesc><seal><p>有「寶孝劼(?)藏宋元明本印」、「佞漢齋」、「桐城姚氏小紅鵝館收藏」、「姚押(花押)」、「臣汝功印」、「鄧氏謙□」、「東昌鄧汝功印」、「青芝」、「桐城姚伯卬氏藏書記」、「時軒」、「鄧印汝敏」、「遜修」、「苙澤子」、「志不在溫飽」、「鄧汝功印」、「青芝山人」、「鄧汝功」、「青芝」、「止園」等印記</p></seal></sealDesc><bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <sealDesc><seal><p>有「寶孝劼(?)藏宋元明本印」、「佞漢齋」、「桐城姚氏小紅鵝館收藏」、「姚押(花押)」、「臣汝功印」、「鄧氏謙□」、「東昌鄧汝功印」、「青芝」、「桐城姚伯卬氏藏書記」、「時軒」、「鄧印汝敏」、「遜修」、「苙澤子」、「志不在溫飽」、「鄧汝功印」、「青芝山人」、「鄧汝功」、「青芝」、「止園」等印記</p></seal></sealDesc><bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1538" type="d">1538</origDate>

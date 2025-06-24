@@ -50,15 +50,15 @@
                </msContents>
                <physDesc>
                   
-                  <p>缺第3冊</p><objectDesc>
+                  <objectDesc>
                      
                      <supportDesc>
                         
-                     <extent>4 volumes.<!--線裝4冊 ; 17公分--><dimensions unit="cm"><height>17</height></dimensions></extent></supportDesc>
+                     <extent><measure type="volume" n="3">3冊</measure><dimensions unit="cm"><height>17</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+                  <bindingDesc><binding><p xml:lang="chi">缺第</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1845" type="d">1845</origDate>

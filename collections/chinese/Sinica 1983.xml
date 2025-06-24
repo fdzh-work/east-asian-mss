@@ -54,11 +54,11 @@
                      
                      <supportDesc>
                         
-                     <extent>1 volume, ([1], 7, 38頁) <!--線裝1冊 ([1], 7, 38頁) ; 24.5公分--><dimensions unit="cm"><height>24.5</height></dimensions></extent></supportDesc>
+                     <extent><measure n="1" type="volume">1冊</measure> ([1], 7, 38頁) <!--線裝1冊 ([1], 7, 38頁) ; 24.5公分--><dimensions unit="cm"><height>24.5</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <typeDesc><p>typography</p><p>Beyerhaus</p><p>Cole</p><p>gamble</p></typeDesc><bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <typeDesc><p>typography</p><p>Beyerhaus</p><p>Cole</p><p>gamble</p></typeDesc><bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1875" type="d">1875</origDate>

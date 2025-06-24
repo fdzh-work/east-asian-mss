@@ -50,11 +50,11 @@
                </msContents>
                <physDesc>
                   
-                  <p>184 x 102公分</p><objectDesc>
+               <objectDesc>
                      
                      <supportDesc>
                         
-                     <extent><!--1張 ; 184 x 103公分--><dimensions unit="cm"><height>184</height><width>103</width></dimensions></extent></supportDesc>
+                     <extent><dimensions unit="cm"><height>184</height><width>102</width></dimensions><measure n="1">1張</measure></extent></supportDesc>
                      
                   </objectDesc>
 

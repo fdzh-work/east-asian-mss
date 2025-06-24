@@ -48,16 +48,14 @@
                   <msItem n="1">
                   <title source="#200">華英和合通書</title><title source="#200|9">hua ying he he tong shu</title><title type="variant" source="#230">華番和合通書</title><title source="#230|9" type="variant">hua fan he he tong shu</title><title type="variant" source="#230">和合通書</title><title source="#230|9" type="variant">he he tong shu</title><title type="variant" source="#230">唐番和合通書</title><title source="#230|9" type="variant">tang fan he he tong shu</title><author source="#300" key="person_6767"><persName>Ball, Dyer</persName></author><author source="#300" key="person_6851"><persName>French, John Booth</persName></author><author source="#300" key="person_7067"><persName>Vrooman, Daniel</persName></author><note source="#600">An almanac first published in 1843 with the title 「華英和合通書」; entitled 「華番和合通書」 1844-1853, 「和合通書」 1854-1860 and from 1864, 「唐番和合通書」 1861-1863; last issue 1865? Compiled by D. Ball 1843-1854 and 1859-1860, J.B. French 1855-1858, D. Vrooman from 1861. Published Hong Kong 1843-1854, Canton 1855-1856 and from 1861, Macao 1857-1858, Hong Kong (?) 1859-1860</note></msItem>         
                </msContents>
-               <physDesc>
-                  
-                  <p>線裝1冊(25頁) ; 24.6公分</p><objectDesc>
+               <physDesc><objectDesc>
                      
                      <supportDesc>
-                        
+                        <extent><measure type="volume" n="1">1冊 (25頁)</measure><dimensions unit="cm"><height>24.6</height></dimensions></extent>
                      </supportDesc>
                      
                   </objectDesc>
-
+                  <bindingDesc><p xml:lang="chi">線裝</p></bindingDesc>
                <typeDesc><p>woodblock</p><p>typography</p></typeDesc></physDesc>
                <history>
                   <origin>

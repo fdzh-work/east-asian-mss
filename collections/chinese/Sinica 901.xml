@@ -91,7 +91,7 @@
 
                      <supportDesc>
                         
-                        <extent>4 volumes.<!--線裝4冊 : 圖 ; 30公分--><dimensions unit="cm"><height>30</height></dimensions></extent>
+                        <extent><measure type="volume" n="4">4冊</measure><!--線裝4冊 : 圖 ; 30公分--><dimensions unit="cm"><height>30</height></dimensions></extent>
                      </supportDesc>
 
                   </objectDesc>
@@ -103,10 +103,10 @@
                   </sealDesc>
                   <bindingDesc>
                      <binding>
-                        <p>traditional thread binding</p>
+                        <p xml:lang="chi">線裝</p>
                      </binding>
                   </bindingDesc>
-               </physDesc>
+               <decoDesc><p>圖</p></decoDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1750" type="d">1750</origDate>

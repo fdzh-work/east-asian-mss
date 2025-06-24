@@ -50,15 +50,15 @@
                <msItem n="2"><title source="#201">續弘簡錄元史類編 四十二卷</title><title source="#201|9">xu hong jian lu yuan shi lei bian</title><title type="variant" source="#231">元史類編</title><title source="#231|9" type="variant">yuan shi lei bian</title><note source="#291">(清)邵遠平撰</note><author source="#301" key="person_5775"><persName>(清)邵遠平</persName><persName type="9">shao yuan ping</persName></author></msItem></msItem></msContents>
                <physDesc>
                   
-                  <p>線裝80冊 ; 25公分</p><objectDesc>
+                  <objectDesc>
                      
                      <supportDesc>
                         
-                     <extent>100 volumes.<!--線裝100冊 ; 29公分--><dimensions unit="cm"><height>29</height></dimensions></extent></supportDesc>
+                        <extent>80冊<dimensions unit="cm"><height>25</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1688" type="d">1688</origDate>

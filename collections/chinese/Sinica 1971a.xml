@@ -50,15 +50,15 @@
                </msContents>
                <physDesc>
                   
-                  <p>卷一﹑二. - 線裝2冊 ; 28.8公分. - Has English preface</p><objectDesc>
+                  <p>卷一﹑二.  - Has English preface</p><objectDesc>
                      
                      <supportDesc>
                         
-                     <extent>4 volumes.<!--線裝4冊 : 圖 ; 27.6公分--><dimensions unit="cm"><height>27.6</height></dimensions></extent></supportDesc>
+                        <extent><measure type="volume" n="2">2冊</measure><dimensions unit="cm"><height>28.8</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <typeDesc><p>woodblock</p></typeDesc><bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+                  <typeDesc><p>woodblock</p></typeDesc><bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1870" type="d">1870</origDate>

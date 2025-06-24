@@ -54,11 +54,11 @@
                      
                      <supportDesc>
                         
-                     <extent>1 volume, (738, 226頁) <!--精裝1冊 (738, 226頁) : 地圖 ; 19公分--><dimensions unit="cm"><height>19</height></dimensions></extent></supportDesc>
+                     <extent><measure type="volume" n="1">1冊</measure><!--精裝1冊 (738, 226頁) : 地圖 ; 19公分--><measure type="page">738, 226頁</measure><dimensions unit="cm"><height>19</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <typeDesc><p>typography</p><p>gamble</p></typeDesc></physDesc>
+               <typeDesc><p>typography</p><p>gamble</p></typeDesc><bindingDesc><p xml:lang="chi">精裝</p></bindingDesc><decoDesc><p>地圖</p></decoDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1881" type="d">1881</origDate>

@@ -54,11 +54,11 @@
                      
                      <supportDesc>
                         
-                     <extent>640 volumes.<!--線裝640冊 ; 29公分--><dimensions unit="cm"><height>29</height></dimensions></extent></supportDesc>
+                     <extent><measure type="volume" n="640">640冊</measure><!--線裝640冊 ; 29公分--><dimensions unit="cm"><height>29</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <sealDesc><seal><p>有「書業德記發兌」印記</p></seal></sealDesc><bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <sealDesc><seal><p>有「書業德記發兌」印記</p></seal></sealDesc><bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1814" type="d">1814</origDate>

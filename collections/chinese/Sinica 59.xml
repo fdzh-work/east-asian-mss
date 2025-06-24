@@ -54,7 +54,7 @@
                      
                      <supportDesc>
                         
-                     <extent>3 volumes.<!--洋裝3冊 ; 27公分--><dimensions unit="cm"><height>27</height></dimensions></extent></supportDesc>
+                     <extent><measure n="3" type="volume">3冊</measure><!--洋裝3冊 ; 27公分--><dimensions unit="cm"><height>27</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 

@@ -50,15 +50,15 @@
                </msContents>
                <physDesc>
                   
-                  <p>27公分. - 封面無「芸居樓藏板」字樣</p><objectDesc>
+                  <p> - 封面無「芸居樓藏板」字樣</p><objectDesc>
                      
                      <supportDesc>
                         
-                     <extent>2 volumes.<!--線裝2冊 ; 25公分--><dimensions unit="cm"><height>25</height></dimensions></extent></supportDesc>
+                        <extent>2冊<!--線裝2冊 ; 25公分--><dimensions unit="cm"><height>27</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1865" type="d">1865</origDate>

@@ -50,15 +50,15 @@
                </msContents>
                <physDesc>
                   
-                  <p>毛裝, 24.1公分. Later impression, on poor quality paper. MS note as on first copy</p><objectDesc>
+                  <p> Later impression, on poor quality paper. MS note as on first copy</p><objectDesc>
                      
                      <supportDesc>
                         
-                     <extent>1 volume, 10 pages.<!--線裝1冊(10頁) ; 23.8公分--><dimensions unit="cm"><height>23.8</height></dimensions></extent></supportDesc>
+                     <extent><dimensions unit="cm"><height>24.1</height></dimensions><measure type="volume" n="1">1冊(10頁)</measure></extent></supportDesc>
                      
                   </objectDesc>
 
-               <typeDesc><p>woodblock</p></typeDesc><bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <typeDesc><p>woodblock</p></typeDesc><bindingDesc><binding><p xml:lang="chi">毛裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1812" type="d">1812</origDate>

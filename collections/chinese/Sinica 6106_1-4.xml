@@ -54,7 +54,7 @@
                      
                      <supportDesc>
                         
-                     <extent>4 volumes.<!--精裝4冊(原平裝17冊) ; 21公分--><dimensions unit="cm"><height>21</height></dimensions></extent></supportDesc>
+                     <extent><measure n="4" type="volume">4冊</measure><!--精裝4冊(原平裝17冊) ; 21公分--><dimensions unit="cm"><height>21</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 

@@ -50,14 +50,14 @@
                </msContents>
                <physDesc>
                   
-                  <p>線裝1冊 ; 19.9公分</p><objectDesc>
+                  <objectDesc>
                      
                      <supportDesc>
                         
-                     <extent><!--冊 : 圖 ; 19.9公分--><dimensions unit="cm"><height>19.9</height></dimensions></extent></supportDesc>
+                        <extent>1冊<dimensions unit="cm"><height>19.9</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
-
+                  <bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc>
                <typeDesc><p>typography</p><p>Beyerhaus</p><p>Cole</p></typeDesc></physDesc>
                <history>
                   <origin>

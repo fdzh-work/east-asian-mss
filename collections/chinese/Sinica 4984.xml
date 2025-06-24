@@ -50,15 +50,15 @@
                </msContents>
                <physDesc>
                   
-                  <p>精裝1冊(原毛裝6冊) ; 22公分</p><objectDesc>
+                 <objectDesc>
                      
                      <supportDesc>
                         
-                     <extent>6 volumes.<!--毛裝6冊 ; 20公分--><dimensions unit="cm"><height>20</height></dimensions></extent></supportDesc>
+                        <extent>1冊(原毛裝6冊)<dimensions unit="cm"><height>22</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <bindingDesc><binding><p>traditional "rough" binding</p></binding></bindingDesc></physDesc>
+                  <bindingDesc><binding><p xml:lang="chi">精裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" notBefore="1900" notAfter="1999" type="d">1900 - 1999</origDate>

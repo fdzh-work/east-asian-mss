@@ -54,11 +54,11 @@
                      
                      <supportDesc>
                         
-                     <extent>32 volumes.<!--線裝32冊 ; 28公分--><dimensions unit="cm"><height>28</height></dimensions></extent></supportDesc>
+                     <extent><measure n="32" type="volume">32冊</measure><!--線裝32冊 ; 28公分--><dimensions unit="cm"><height>28</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <sealDesc><seal><p>有「沈氏十二子」、「臣宗疇」、「熙彥印信」、「說經堂圖書印」、「留耕草堂」、「宗疇芷房」、「雪白之性」、「番禺沈氏金石書畫之章」、「潛修齋藏」、「番禺沈氏」、「乙丑生」等印記</p></seal></sealDesc><bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <sealDesc><seal><p>有「沈氏十二子」、「臣宗疇」、「熙彥印信」、「說經堂圖書印」、「留耕草堂」、「宗疇芷房」、「雪白之性」、「番禺沈氏金石書畫之章」、「潛修齋藏」、「番禺沈氏」、「乙丑生」等印記</p></seal></sealDesc><bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1809" type="d">1809</origDate>

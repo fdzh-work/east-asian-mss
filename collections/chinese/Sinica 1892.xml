@@ -54,11 +54,11 @@
                      
                      <supportDesc>
                         
-                     <extent>3 volumes, 382 pages.<!--線裝3冊(382頁) ; 26.7公分--><dimensions unit="cm"><height>26.7</height></dimensions></extent></supportDesc>
+                     <extent><measure type="volume" n="3">3冊</measure><!--線裝3冊(382頁) ; 26.7公分--><measure type="page" n="382">382頁</measure><dimensions unit="cm"><height>26.7</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <typeDesc><p>typography</p><p>Beyerhaus</p><p>Legrand</p></typeDesc><bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <typeDesc><p>typography</p><p>Beyerhaus</p><p>Legrand</p></typeDesc><bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1872" type="d">1872</origDate>

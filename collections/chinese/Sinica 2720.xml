@@ -54,11 +54,11 @@
                      
                      <supportDesc>
                         
-                     <extent>60 volumes.<!--線裝60冊 ; 30公分--><dimensions unit="cm"><height>30</height></dimensions></extent></supportDesc>
+                     <extent><measure type="volume" n="60">60冊</measure><!--線裝60冊 ; 30公分--><dimensions unit="cm"><height>30</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <sealDesc><seal><p>有「寄雲樓藏書印」印記</p></seal></sealDesc><bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <sealDesc><seal><p>有「寄雲樓藏書印」印記</p></seal></sealDesc><bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1912" type="d">1912</origDate>

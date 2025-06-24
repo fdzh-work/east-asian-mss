@@ -50,15 +50,15 @@
                </msContents>
                <physDesc>
                   
-                  <p>19.5公分</p><objectDesc>
+           <objectDesc>
                      
                      <supportDesc>
                         
-                     <extent>1 volume, 11 pages.<!--線裝1冊(11頁) ; 19.4公分--><dimensions unit="cm"><height>19.4</height></dimensions></extent></supportDesc>
+                        <extent>1冊(11頁)<!--線裝1冊(11頁) ; 19.4公分--><dimensions unit="cm"><height>19.5</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <typeDesc><p>stereotype</p></typeDesc><bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <typeDesc><p>stereotype</p></typeDesc><bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1869" type="d">1869</origDate>

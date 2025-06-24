@@ -50,15 +50,15 @@
                </msContents>
                <physDesc>
                   
-                  <p>17.0公分</p><objectDesc>
+          <objectDesc>
                      
                      <supportDesc>
                         
-                     <extent>1 volume.<!--線裝1冊 (various pagings) : 圖 (some folding)--><dimensions unit="cm"><height>線裝1冊 (various pagings) : 圖 (some folding)</height></dimensions></extent></supportDesc>
+                     <extent><!--線裝1冊 (various pagings) : 圖 (some folding)--><dimensions unit="cm"><height>17</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <typeDesc><p>typography</p><p>Legrand</p></typeDesc><bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <typeDesc><p>typography</p><p>Legrand</p></typeDesc><bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" notBefore="1850" notAfter="1853" type="b">1850 - 1853</origDate>

@@ -54,11 +54,11 @@
                      
                      <supportDesc>
                         
-                     <extent>13 volumes.<!--線裝13冊 ; 35公分--><dimensions unit="cm"><height>35</height></dimensions></extent></supportDesc>
+                     <extent><measure type="volume" n="13">13冊</measure><!--線裝13冊 ; 35公分--><dimensions unit="cm"><height>35</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <sealDesc><seal><p>有「明善堂珍藏書畫印記」、「遼海祝氏藏書」印記</p></seal></sealDesc><bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <sealDesc><seal><p>有「明善堂珍藏書畫印記」、「遼海祝氏藏書」印記</p></seal></sealDesc><bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1476" type="d">1476</origDate>

@@ -54,11 +54,11 @@
                      
                      <supportDesc>
                         
-                     <extent>2 volumes.<!--平裝2冊 ; 16公分--><dimensions unit="cm"><height>16</height></dimensions></extent></supportDesc>
+                     <extent><measure type="volume" n="2">2冊</measure><!--平裝2冊 ; 16公分--><dimensions unit="cm"><height>16</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               </physDesc>
+               <bindingDesc><p xml:lang="chi">平裝</p></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1956" type="d">1956</origDate>

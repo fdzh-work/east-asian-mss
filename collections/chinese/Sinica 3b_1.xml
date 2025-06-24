@@ -50,15 +50,15 @@
                </msContents>
                <physDesc>
                   
-                  <p>卷三</p><objectDesc>
+                 <objectDesc>
                      
                      <supportDesc>
                         
-                     <extent>4 volumes, 1 pages.<!--線裝4冊, 1頁 ; nn公分--><dimensions unit="cm"><height>nn</height></dimensions></extent></supportDesc>
+                        <extent>卷三</extent></supportDesc>
                      
                   </objectDesc>
 
-               <bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+                  <bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1573" type="d">1573</origDate>

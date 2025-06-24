@@ -50,15 +50,15 @@
                </msContents>
                <physDesc>
                   
-                  <p>線裝3冊</p><objectDesc>
+                  <objectDesc>
                      
                      <supportDesc>
                         
-                     <extent>4 volumes.<!--線裝4冊 ; 30公分--><dimensions unit="cm"><height>30</height></dimensions></extent></supportDesc>
+                     <extent><dimensions unit="cm"><height>30</height></dimensions><measure type="volume" n="3">3冊</measure></extent></supportDesc>
                      
                   </objectDesc>
 
-               <sealDesc><seal><p>有「京師廣東學堂書藏」印記</p></seal></sealDesc><bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <sealDesc><seal><p>有「京師廣東學堂書藏」印記</p></seal></sealDesc><bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1887" type="d">1887</origDate>

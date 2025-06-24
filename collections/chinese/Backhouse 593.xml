@@ -54,11 +54,11 @@
                      
                      <supportDesc>
                         
-                     <extent>10 volumes.<!--包背裝10冊 ; 30公分--><dimensions unit="cm"><height>30</height></dimensions></extent></supportDesc>
+                     <extent><measure type="volume" n="10">10冊</measure><!--包背裝10冊 ; 30公分--><dimensions unit="cm"><height>30</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <bindingDesc><binding><p>traditional "wrapped back" binding</p></binding></bindingDesc></physDesc>
+               <bindingDesc><binding><p xml:lang="chi">包背裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1522" type="d">1522</origDate>

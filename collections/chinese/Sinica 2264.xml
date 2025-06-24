@@ -83,7 +83,7 @@
 
                      <supportDesc>
                         
-                        <extent>1 volume, 15 pages.<!--線裝1冊(15頁) ; 25.0公分--><dimensions unit="cm"><height>25.0</height></dimensions></extent>
+                        <extent><measure type="volume" n="1">1冊</measure><!--線裝1冊(15頁) ; 25.0公分--><measure type="page" n="15">15頁</measure><dimensions unit="cm"><height>25.0</height></dimensions></extent>
                      </supportDesc>
 
                   </objectDesc>
@@ -94,7 +94,7 @@
                   </typeDesc>
                   <bindingDesc>
                      <binding>
-                        <p>traditional thread binding</p>
+                        <p xml:lang="chi">線裝</p>
                      </binding>
                   </bindingDesc>
                </physDesc>

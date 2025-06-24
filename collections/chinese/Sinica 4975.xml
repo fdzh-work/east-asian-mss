@@ -48,17 +48,15 @@
                   <msItem n="1">
                   <title source="#200">訂輯新編日边洪杏全本 六卷</title><title source="#200|9">ding ji xin bian ri bian hong xing quan ben</title><title type="variant" source="#230">日边洪杏全本</title><title source="#230|9" type="variant">ri bian hong xing quan ben</title><note source="#409">五桂堂書局影印本</note><editor source="#440" role="pbl"><persName>五桂堂書局</persName><persName type="9" role="pbl">wu gui tang shu ju</persName></editor><note source="#600">目錄題名《訂輯新編全本日边洪□》</note><note source="#600">封面題名《日边洪杏全本》</note><note source="#600">卷一首有「以文堂藏板」</note><note source="#600">卷一第一、二葉版心下鐫「以文堂」</note></msItem>         
                </msContents>
-               <physDesc>
-                  
-                  <p>線裝1冊(原毛裝6冊)</p><objectDesc>
+               <physDesc><objectDesc>
                      
                      <supportDesc>
                         
-                     <extent>6 volumes.<!--毛裝6冊 ; 19公分--><dimensions unit="cm"><height>19</height></dimensions></extent></supportDesc>
+                        <extent><measure n="1" type="volume">1冊(原毛裝6冊</measure><!--毛裝6冊 ; 19公分--><dimensions unit="cm"><height>19</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <bindingDesc><binding><p>traditional "rough" binding</p></binding></bindingDesc></physDesc>
+                  <bindingDesc><binding><p xml:lang="chi">線裝1冊</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" notBefore="1900" notAfter="1999" type="d">1900 - 1999</origDate>

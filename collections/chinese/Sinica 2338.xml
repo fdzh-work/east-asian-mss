@@ -50,15 +50,15 @@
                </msContents>
                <physDesc>
                   
-                  <p>21.3公分</p><objectDesc>
+                  <objectDesc>
                      
                      <supportDesc>
                         
-                     <extent>1 volume, (1, 14頁) <!--線裝1冊 (1, 14頁) ; 21.1公分--><dimensions unit="cm"><height>21.1</height></dimensions></extent></supportDesc>
+                        <extent>1冊 (1, 14頁) <!--線裝1冊 (1, 14頁) ; 21.1公分--><dimensions unit="cm"><height>21.3</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <typeDesc><p>typography</p><p>Dyer</p><p>Cole</p></typeDesc><bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <typeDesc><p>typography</p><p>Dyer</p><p>Cole</p></typeDesc><bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1851" type="d">1851</origDate>

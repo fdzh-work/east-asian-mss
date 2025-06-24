@@ -48,17 +48,15 @@
                   <msItem n="1">
                   <title source="#200">四裔編年表 四卷</title><title source="#200|9">si yi bian nian biao</title><title type="variant" source="#230">Blair's chronological tables</title><title type="variant" source="#230">江南製造局譯書</title><title source="#230|9" type="variant">jiang nan zhi zao ju yi shu</title><note source="#290">(美)林樂知, (清)嚴良勳同譯</note><note source="#290">(清)李鳳苞彙編</note><author source="#300" key="person_6759"><persName>Allen, Young John</persName></author><author source="#300" key="person_3756"><persName>(清)嚴良勳</persName><persName type="9">yan liang xun</persName></author><author source="#300" key="person_4562"><persName>(清)李鳳苞</persName><persName type="9">li feng bao</persName></author><note source="#409">清光緒同治十三年[1874]上海江南製造局刊本</note><editor source="#440" role="pbl"><persName>江南製造局</persName><persName type="9" role="pbl">jiang nan zhi zao ju</persName></editor><note source="#600">譯自《Blair's chronological tables》</note><note source="#600">本書為《江南製造局譯書》之一</note></msItem>         
                </msContents>
-               <physDesc>
-                  
-                  <p>洋裝1冊(原線裝4冊)</p><objectDesc>
+               <physDesc><objectDesc>
                      
                      <supportDesc>
                         
-                     <extent>4 volumes.<!--線裝4冊 ; 31公分--><dimensions unit="cm"><height>31</height></dimensions></extent></supportDesc>
+                        <extent><measure n="1" type="volume">1冊(原線裝4冊)</measure><dimensions unit="cm"><height>31</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+                  <bindingDesc><binding><p xml:lang="chi">洋裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1874" type="d">1874</origDate>

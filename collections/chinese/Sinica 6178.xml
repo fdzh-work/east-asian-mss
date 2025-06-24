@@ -54,11 +54,11 @@
                      
                      <supportDesc>
                         
-                     <extent>5 volumes.<!--洋裝5冊(原線裝20冊) ; 25公分--><dimensions unit="cm"><height>25</height></dimensions></extent></supportDesc>
+                     <extent><measure type="volume" n="5">5冊</measure><!--洋裝5冊(原線裝20冊) ; 25公分--><dimensions unit="cm"><height>25</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <sealDesc><seal><p>有「王印崇武」印記</p></seal></sealDesc><bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <sealDesc><seal><p>有「王印崇武」印記</p></seal></sealDesc><bindingDesc><binding><p xml:lang="chi">洋裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1750" type="d">1750</origDate>

@@ -50,15 +50,15 @@
                </msContents>
                <physDesc>
                   
-                  <p>線裝9冊 ; 20.4公分 </p><objectDesc>
+                  <objectDesc>
                      
                      <supportDesc>
                         
-                     <extent>2 volumes.<!--線裝2冊 ; 19.2公分--><dimensions unit="cm"><height>19.2</height></dimensions></extent></supportDesc>
+                        <extent><measure type="volume" n="9">9冊</measure><dimensions unit="cm"><height>20.4</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <typeDesc><p>typography</p><p>Dyer</p><p>Cole</p></typeDesc><bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+                  <typeDesc><p>typography</p><p>Dyer</p><p>Cole</p></typeDesc><bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" notBefore="1853" notAfter="1856" type="b">1853 - 1856</origDate>

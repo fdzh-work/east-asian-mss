@@ -50,15 +50,15 @@
                </msContents>
                <physDesc>
                   
-                  <p>精裝 ; 25.8公分</p><objectDesc>
+                  <objectDesc>
                      
                      <supportDesc>
                         
-                     <extent>4 volumes.<!--線裝4冊(various pagings) ; 26.3公分--><dimensions unit="cm"><height>26.3</height></dimensions></extent></supportDesc>
+                     <extent><dimensions unit="cm"><height>25.8</height></dimensions><measure type="volume" n="4">4冊(various pagings)</measure></extent></supportDesc>
                      
                   </objectDesc>
 
-               <typeDesc><p>woodblock</p></typeDesc><bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <typeDesc><p>woodblock</p></typeDesc><bindingDesc><binding><p xml:lang="chi">精裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1838" type="d">1838</origDate>

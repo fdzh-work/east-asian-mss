@@ -54,11 +54,11 @@
                      
                      <supportDesc>
                         
-                     <extent>1 volume, (2, 2, 65頁) <!--線裝1冊 (2, 2, 65頁) ; 25.5公分--><dimensions unit="cm"><height>25.5</height></dimensions></extent></supportDesc>
+                     <extent><measure type="volume" n="1">1冊</measure><!--線裝1冊 (2, 2, 65頁) ; 25.5公分--><measure type="page">2, 2, 65頁</measure><dimensions unit="cm"><height>25.5</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1904" type="d">1904</origDate>

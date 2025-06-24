@@ -54,11 +54,11 @@
                      
                      <supportDesc>
                         
-                     <extent>4 volumes, (150, 195, 158, 82, 64頁) <!--線裝4冊 (150, 195, 158, 82, 64頁) ; 21公分--><dimensions unit="cm"><height>21</height></dimensions></extent></supportDesc>
+                        <extent><measure n="4" type="volume">4冊</measure> (150, 195, 158, 82, 64頁) <!--線裝4冊 (150, 195, 158, 82, 64頁) ; 21公分--><dimensions unit="cm"><height>21</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <typeDesc><p>typography</p><p>Cole</p></typeDesc><bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <typeDesc><p>typography</p><p>Cole</p></typeDesc><bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1855" type="d">1855</origDate>

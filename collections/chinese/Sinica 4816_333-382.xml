@@ -72,7 +72,7 @@
 
                      <supportDesc>
                         <support/>
-                        <extent>50 volumes.<!--50冊--></extent>
+                        <extent><measure type="volume" n="50">50冊</measure><!--50冊--></extent>
                      </supportDesc>
 
                   </objectDesc>

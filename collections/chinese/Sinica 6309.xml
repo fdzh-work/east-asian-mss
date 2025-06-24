@@ -50,15 +50,15 @@
                <msItem n="2"><title source="#201">欽定天祿琳琅書目後編 二十卷</title><title source="#201|9">qin ding tian lu lin lang shu mu hou bian</title><note source="#291">(清)嘉慶二年[1797]敕撰</note></msItem></msItem></msContents>
                <physDesc>
                   
-                  <p>洋裝2冊(原線裝10冊) ; 29公分</p><objectDesc>
+         <objectDesc>
                      
                      <supportDesc>
                         
-                     <extent>10 volumes.<!--線裝10冊 ; 30公分--><dimensions unit="cm"><height>30</height></dimensions></extent></supportDesc>
+                        <extent>2冊(原線裝10冊)<!--線裝10冊 ; 30公分--><dimensions unit="cm"><height>29</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+                  <bindingDesc><binding><p xml:lang="chi">洋裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1884" type="d">1884</origDate>

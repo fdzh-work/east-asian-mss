@@ -60,7 +60,7 @@
                      
                      <supportDesc>
                         
-                     <extent>1 volume, (2, 2, 16, 6, 352, 24頁) <!--精裝1冊 (2, 2, 16, 6, 352, 24頁) ; 18.8公分--><dimensions unit="cm"><height>18.8</height></dimensions></extent></supportDesc>
+                     <extent><measure n="1" type="volume">1冊</measure> (2, 2, 16, 6, 352, 24頁) <!--精裝1冊 (2, 2, 16, 6, 352, 24頁) ; 18.8公分--><dimensions unit="cm"><height>18.8</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 

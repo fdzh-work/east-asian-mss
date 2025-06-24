@@ -105,14 +105,14 @@
 
                      <supportDesc>
                         
-                        <extent>5 volumes.<!--包背裝5冊 ; 28公分--><dimensions unit="cm"><height>28</height></dimensions></extent>
+                        <extent><measure type="volume" n="5">5冊</measure><!--包背裝5冊 ; 28公分--><dimensions unit="cm"><height>28</height></dimensions></extent>
                      </supportDesc>
 
                   </objectDesc>
 
                   <bindingDesc>
                      <binding>
-                        <p>traditional "wrapped back" binding</p>
+                        <p xml:lang="chi">包背裝</p>
                      </binding>
                   </bindingDesc>
                </physDesc>

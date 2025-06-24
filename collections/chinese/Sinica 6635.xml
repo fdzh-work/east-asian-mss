@@ -113,7 +113,7 @@
 
                      <supportDesc>
                         
-                        <extent>1 volume.<!--洋撰1冊(原線裝6冊) ； 25公分--><dimensions unit="cm"><height>洋撰1冊(原線裝6冊) ； 25</height></dimensions></extent>
+                        <extent><measure type="volume" n="1">1冊</measure> (原線裝6冊)<!--洋撰1冊(原線裝6冊) ； 25公分--><dimensions unit="cm"><height>25</height></dimensions></extent>
                      </supportDesc>
 
                   </objectDesc>
@@ -125,7 +125,7 @@
                   </sealDesc>
                   <bindingDesc>
                      <binding>
-                        <p>traditional thread binding</p>
+                        <p xml:lang="chi">洋撰</p>
                      </binding>
                   </bindingDesc>
                </physDesc>

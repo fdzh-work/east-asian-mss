@@ -54,11 +54,11 @@
                      
                      <supportDesc>
                         
-                     <extent>12 volumes.<!--線裝12冊 : 27公分--><dimensions unit="cm"><height>線裝12冊 : 27</height></dimensions></extent></supportDesc>
+                     <extent><measure type="volume" n="12">12冊</measure><!--線裝12冊 : 27公分--><dimensions unit="cm"><height n="27">27</height></dimensions></extent></supportDesc>
                      
                   </objectDesc>
 
-               <sealDesc><seal><p>有「何承薰字蘭」、「華陽曽氏家藏」印記</p></seal></sealDesc><bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <sealDesc><seal><p>有「何承薰字蘭」、「華陽曽氏家藏」印記</p></seal></sealDesc><bindingDesc><binding><p xml:lang="chi">線裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1602" type="d">1602</origDate>

@@ -50,15 +50,15 @@
                </msContents>
                <physDesc>
                   
-                  <p>毛裝 ; 18.0公分</p><objectDesc>
+                  <objectDesc>
                      
                      <supportDesc>
                         
-                     <extent>1 volume, 5 pages.<!--線裝1冊(5頁) ; 16.5公分--><dimensions unit="cm"><height>16.5</height></dimensions></extent></supportDesc>
+                     <extent><dimensions unit="cm"><height>18</height></dimensions><measure type="volume" n="1">1冊(5頁)</measure></extent></supportDesc>
                      
                   </objectDesc>
 
-               <typeDesc><p>typography</p><p>Legrand</p><p>Cole</p><p>gamble</p></typeDesc><bindingDesc><binding><p>traditional thread binding</p></binding></bindingDesc></physDesc>
+               <typeDesc><p>typography</p><p>Legrand</p><p>Cole</p><p>gamble</p></typeDesc><bindingDesc><binding><p xml:lang="chi">毛裝</p></binding></bindingDesc></physDesc>
                <history>
                   <origin>
                      <origDate calendar="#Gregorian" when="1866" type="d">1866</origDate>
