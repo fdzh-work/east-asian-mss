@@ -48,10 +48,10 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">建安七子集</title>
+                     <title xml:lang="chi" source="#200">建安七子集</title>
                      <title source="#200|9">jian an qi zi ji</title>
                      <note source="#290">(清)楊逢辰編</note>
-                     <author source="#300" key="person_4707"><persName>(清)楊逢辰</persName><persName type="9">yang feng
+                     <author source="#300" key="person_4707"><persName xml:lang="chi">(清)楊逢辰</persName><persName type="9">yang feng
                            chen</persName></author>
                      <note source="#409">清光緒庚寅[1890]長沙楊氏坦園刊本</note>
                      <editor source="#440" role="pbl"><persName>坦園</persName><persName type="9" role="pbl">tan yuan</persName></editor>
@@ -59,7 +59,7 @@
                         <title>孔文舉集 一卷</title>
                         <title source="9">kong wen ju ji</title>
                         <note source="290">(漢)孔融撰</note>
-                        <author key="person_6514"><persName>(漢)孔融</persName><persName type="9">kong
+                        <author key="person_6514"><persName xml:lang="chi">(漢)孔融</persName><persName type="9">kong
                            rong</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20050407/13:25:10|odh -->
@@ -71,7 +71,7 @@
                         <title>陳孔璋集 一卷</title>
                         <title source="9">chen kong zhang ji</title>
                         <note source="290">(漢)陳琳撰</note>
-                        <author key="person_6616"><persName>(漢)陳琳</persName><persName type="9">chen
+                        <author key="person_6616"><persName xml:lang="chi">(漢)陳琳</persName><persName type="9">chen
                            lin</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20050407/13:26:11|odh -->
@@ -83,7 +83,7 @@
                         <title>王仲宣集 一卷</title>
                         <title source="9">wang zhong xuan ji</title>
                         <note source="290">(漢)王粲撰</note>
-                        <author key="person_6566"><persName>(漢)王粲</persName><persName type="9">wang
+                        <author key="person_6566"><persName xml:lang="chi">(漢)王粲</persName><persName type="9">wang
                            can</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20050407/13:27:33|odh -->
@@ -95,7 +95,7 @@
                         <title>徐偉長集 一卷</title>
                         <title source="9">xu wei chang ji</title>
                         <note source="290">(漢)徐幹撰</note>
-                        <author key="person_6531"><persName>(漢)徐幹</persName><persName type="9">xu
+                        <author key="person_6531"><persName xml:lang="chi">(漢)徐幹</persName><persName type="9">xu
                            gan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20050407/13:29:04|odh -->
@@ -107,7 +107,7 @@
                         <title>阮元瑜集 一卷</title>
                         <title source="9">ruan yuan yu ji</title>
                         <note source="290">(漢)阮瑀撰</note>
-                        <author key="person_6614"><persName>(漢)阮瑀</persName><persName type="9">ruan
+                        <author key="person_6614"><persName xml:lang="chi">(漢)阮瑀</persName><persName type="9">ruan
                            yu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20050407/13:30:47|odh -->
@@ -119,7 +119,7 @@
                         <title>應德璉集 一卷</title>
                         <title source="9">ying de lian ji</title>
                         <note source="290">(漢)應瑒撰</note>
-                        <author key="person_6534"><persName>(漢)應瑒</persName><persName type="9">ying
+                        <author key="person_6534"><persName xml:lang="chi">(漢)應瑒</persName><persName type="9">ying
                            yang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20050407/13:32:26|odh -->
@@ -131,7 +131,7 @@
                         <title>劉公幹集 一卷</title>
                         <title source="9">liu gong gan ji</title>
                         <note source="290">(漢)劉楨撰</note>
-                        <author key="person_6492"><persName>(漢)劉楨</persName><persName type="9">liu
+                        <author key="person_6492"><persName xml:lang="chi">(漢)劉楨</persName><persName type="9">liu
                            zhen</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20050407/13:33:42|odh -->

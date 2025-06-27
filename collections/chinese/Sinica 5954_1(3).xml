@@ -49,13 +49,13 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">夢窗詞集 一卷</title>
+                     <title xml:lang="chi" source="#200">夢窗詞集 一卷</title>
                      <title source="#200|9">meng chuang ci ji</title>
                      <note source="#290">(宋)吳文英撰</note>
                      <note source="#290">(民國)朱祖謀校</note>
-                     <author source="#300" key="person_1020"><persName>(宋)吳文英</persName><persName type="9">wu wen
+                     <author source="#300" key="person_1020"><persName xml:lang="chi">(宋)吳文英</persName><persName type="9">wu wen
                            ying</persName></author>
-                     <author source="#300" key="person_3126"><persName>(民國)朱祖謀</persName><persName type="9">zhu zu
+                     <author source="#300" key="person_3126"><persName xml:lang="chi">(民國)朱祖謀</persName><persName type="9">zhu zu
                            mou</persName></author>
                   </msItem>
                </msContents>

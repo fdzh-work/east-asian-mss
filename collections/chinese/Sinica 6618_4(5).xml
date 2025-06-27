@@ -49,16 +49,16 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">文章緣起 一卷</title>
+                     <title xml:lang="chi" source="#200">文章緣起 一卷</title>
                      <title source="#200|9">wen zhang yuan qi</title>
                      <note source="#290">(梁)任昉撰</note>
                      <note source="#290">(明)陳懋仁註</note>
                      <note source="#290">(清)方熊補註</note>
-                     <author source="#300" key="person_3016"><persName>(梁)任昉</persName><persName type="9">ren
+                     <author source="#300" key="person_3016"><persName xml:lang="chi">(梁)任昉</persName><persName type="9">ren
                            fang</persName></author>
-                     <author source="#300" key="person_2711"><persName>(明)陳懋仁</persName><persName type="9">chen mao
+                     <author source="#300" key="person_2711"><persName xml:lang="chi">(明)陳懋仁</persName><persName type="9">chen mao
                            ren</persName></author>
-                     <author source="#300" key="person_4313"><persName>(清)方熊</persName><persName type="9">fang
+                     <author source="#300" key="person_4313"><persName xml:lang="chi">(清)方熊</persName><persName type="9">fang
                            xiong</persName></author>
                   </msItem>
                </msContents>

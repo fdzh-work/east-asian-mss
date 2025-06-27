@@ -49,13 +49,13 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">曾忠襄公年譜 四卷</title>
+                     <title xml:lang="chi" source="#200">曾忠襄公年譜 四卷</title>
                      <title source="#200|9">zeng zhong xiang gong nian pu</title>
                      <note source="#290">(清)王定安初稿</note>
                      <note source="#290">(清)蕭榮爵增訂</note>
-                     <author source="#300" key="person_5048"><persName>(清)王定安</persName><persName type="9">wang ding
+                     <author source="#300" key="person_5048"><persName xml:lang="chi">(清)王定安</persName><persName type="9">wang ding
                            an</persName></author>
-                     <author source="#300" key="person_5583"><persName>(清)蕭榮爵</persName><persName type="9">xiao rong
+                     <author source="#300" key="person_5583"><persName xml:lang="chi">(清)蕭榮爵</persName><persName type="9">xiao rong
                            jue</persName></author>
                   </msItem>
                </msContents>

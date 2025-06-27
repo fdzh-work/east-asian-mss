@@ -46,7 +46,7 @@
                <head>書名: 送姐包心憶恨 一卷 / 半閑主人評選<lb/>廣文堂刊本<lb/>毛裝1冊 ; 20公分<lb/>封面題名《新本送姐包心》<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">送姐包心憶恨 一卷</title><title source="#200|9">song jie bao xin yi hen</title><title type="variant" source="#230">新本送姐包心</title><title source="#230|9" type="variant">xin ben song jie bao xin</title><note source="#290">半閑主人評選</note><author source="#300" key="person_7103"><persName>半閑主人</persName><persName type="9">ban xian shu ren</persName></author><note source="#409">廣文堂刊本</note><editor source="#440" role="pbl"><persName>廣文堂</persName><persName type="9" role="pbl">guang wen tang</persName></editor><note source="#600">封面題名《新本送姐包心》</note></msItem>         
+                  <title xml:lang="chi" source="#200">送姐包心憶恨 一卷</title><title source="#200|9">song jie bao xin yi hen</title><title type="variant" source="#230">新本送姐包心</title><title source="#230|9" type="variant">xin ben song jie bao xin</title><note source="#290">半閑主人評選</note><author source="#300" key="person_7103"><persName xml:lang="chi">半閑主人</persName><persName type="9">ban xian shu ren</persName></author><note source="#409">廣文堂刊本</note><editor source="#440" role="pbl"><persName>廣文堂</persName><persName type="9" role="pbl">guang wen tang</persName></editor><note source="#600">封面題名《新本送姐包心》</note></msItem>         
                </msContents>
                <physDesc>
                   

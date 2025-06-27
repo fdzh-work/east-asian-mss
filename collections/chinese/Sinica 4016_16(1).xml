@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">史記短長說 二卷</title>
+                     <title xml:lang="chi" source="#200">史記短長說 二卷</title>
                      <title source="#200|9">shi ji duan chang shuo</title>
                      <note source="#290">(明)凌稚隆撰</note>
-                     <author source="#300" key="person_2016"><persName>(明)凌稚隆</persName><persName type="9">ling zhi
+                     <author source="#300" key="person_2016"><persName xml:lang="chi">(明)凌稚隆</persName><persName type="9">ling zhi
                            long</persName></author>
                      <note source="#600">道光二十七年[1847]刊</note>
                   </msItem>

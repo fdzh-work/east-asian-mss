@@ -50,10 +50,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">四聲猿</title>
+                     <title xml:lang="chi" source="#200">四聲猿</title>
                      <title source="#200|9">si sheng yuan</title>
                      <note source="#290">(明)徐渭撰</note>
-                     <author source="#300" key="person_2225"><persName>(明)徐渭</persName><persName type="9">xu
+                     <author source="#300" key="person_2225"><persName xml:lang="chi">(明)徐渭</persName><persName type="9">xu
                            wei</persName></author>
                   </msItem>
                </msContents>
@@ -99,7 +99,7 @@
                         <title>漁陽三弄 一卷</title>
                         <title source="9">yu yang san nong</title>
                         <note source="290">(明)徐渭撰</note>
-                        <author key="person_2225"><persName>(明)徐渭</persName><persName type="9">xu
+                        <author key="person_2225"><persName xml:lang="chi">(明)徐渭</persName><persName type="9">xu
                            wei</persName></author>
                      </msItem>
                   </msContents>
@@ -126,7 +126,7 @@
                         <title>翠鄉夢 一卷</title>
                         <title source="9">cui xiang meng</title>
                         <note source="290">(明)徐渭撰</note>
-                        <author key="person_2225"><persName>(明)徐渭</persName><persName type="9">xu
+                        <author key="person_2225"><persName xml:lang="chi">(明)徐渭</persName><persName type="9">xu
                            wei</persName></author>
                      </msItem>
                   </msContents>
@@ -152,7 +152,7 @@
                         <title>雌木蘭 一卷</title>
                         <title source="9">ci mu lan</title>
                         <note source="290">(明)徐渭撰</note>
-                        <author key="person_2225"><persName>(明)徐渭</persName><persName type="9">xu
+                        <author key="person_2225"><persName xml:lang="chi">(明)徐渭</persName><persName type="9">xu
                            wei</persName></author>
                      </msItem>
                   </msContents>
@@ -179,7 +179,7 @@
                         <title>女狀元 一卷</title>
                         <title source="9">nu zhuang yuan</title>
                         <note source="290">(明)徐渭撰</note>
-                        <author key="person_2225"><persName>(明)徐渭</persName><persName type="9">xu
+                        <author key="person_2225"><persName xml:lang="chi">(明)徐渭</persName><persName type="9">xu
                            wei</persName></author>
                      </msItem>
                   </msContents>

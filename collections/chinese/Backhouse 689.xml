@@ -46,7 +46,7 @@
                <head>書名: 周易 四卷 / (宋)朱熹本義<lb/>清光緒十二年[1886]刊本富文堂藏板<lb/>洋裝1冊(原線裝4冊) ; 24公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">周易 四卷</title><title source="#200|9">zhou yi</title><note source="#290">(宋)朱熹本義</note><author source="#300" key="person_1250"><persName>(宋)朱熹</persName><persName type="9">zhu xi</persName></author><note source="#409">清光緒十二年[1886]刊本富文堂藏板</note><editor source="#440" role="pbl"><persName>富文堂</persName><persName type="9" role="pbl">fu wen tang</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">周易 四卷</title><title source="#200|9">zhou yi</title><note source="#290">(宋)朱熹本義</note><author source="#300" key="person_1250"><persName xml:lang="chi">(宋)朱熹</persName><persName type="9">zhu xi</persName></author><note source="#409">清光緒十二年[1886]刊本富文堂藏板</note><editor source="#440" role="pbl"><persName>富文堂</persName><persName type="9" role="pbl">fu wen tang</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

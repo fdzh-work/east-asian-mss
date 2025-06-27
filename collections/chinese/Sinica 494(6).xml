@@ -46,7 +46,7 @@
                <head>書名: 耶穌為誰<lb/>[1870]<lb/>Single sheet ; 17.8 x 23.6公分<lb/>By C W Mateer<lb/>In Mandarin dialect<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">耶穌為誰</title><title source="#200|9">ye su wei shui</title><author source="#300" key="person_6954"><persName>Mateer, Calvin Wilson</persName></author><note source="#600">By C W Mateer</note><note source="#600">In Mandarin dialect</note></msItem>         
+                  <title xml:lang="chi" source="#200">耶穌為誰</title><title source="#200|9">ye su wei shui</title><author source="#300" key="person_6954"><persName xml:lang="chi">Mateer, Calvin Wilson</persName></author><note source="#600">By C W Mateer</note><note source="#600">In Mandarin dialect</note></msItem>         
                </msContents>
                <physDesc>
                   

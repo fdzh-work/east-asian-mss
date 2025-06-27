@@ -46,7 +46,7 @@
                <head>書名: 亨利實錄 : 上海土白<lb/>上洋[Shanghai], 1856<lb/>線裝1冊(35頁) ; 21.8公分<lb/>By M M Sherwood ; tr. C P Tenney<lb/>In Shanghai dialect<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">亨利實錄 : 上海土白</title><title source="#200|9">heng li shi lu : shang hai tu bai</title><author source="#300" key="person_7031"><persName>Sherwood, Mary Martha</persName></author><author source="#300" key="person_7051"><persName>Tenney, Caroline Phebe</persName></author><note source="#600">By M M Sherwood ; tr. C P Tenney</note><note source="#600">In Shanghai dialect</note></msItem>         
+                  <title xml:lang="chi" source="#200">亨利實錄 : 上海土白</title><title source="#200|9">heng li shi lu : shang hai tu bai</title><author source="#300" key="person_7031"><persName xml:lang="chi">Sherwood, Mary Martha</persName></author><author source="#300" key="person_7051"><persName xml:lang="chi">Tenney, Caroline Phebe</persName></author><note source="#600">By M M Sherwood ; tr. C P Tenney</note><note source="#600">In Shanghai dialect</note></msItem>         
                </msContents>
                <physDesc>
                   

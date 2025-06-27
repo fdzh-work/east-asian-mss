@@ -49,13 +49,13 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">九國志 十二卷</title>
+                     <title xml:lang="chi" source="#200">九國志 十二卷</title>
                      <title source="#200|9">jiu guo zhi</title>
                      <note source="#290">(宋)路振撰</note>
                      <note source="#290">(宋)張唐英補</note>
-                     <author source="#300" key="person_1674"><persName>(宋)路振</persName><persName type="9">lu
+                     <author source="#300" key="person_1674"><persName xml:lang="chi">(宋)路振</persName><persName type="9">lu
                            zhen</persName></author>
-                     <author source="#300" key="person_1147"><persName>(宋)張唐英</persName><persName type="9">zhang tang
+                     <author source="#300" key="person_1147"><persName xml:lang="chi">(宋)張唐英</persName><persName type="9">zhang tang
                            ying</persName></author>
                      <note source="#600">道光二十七年[1847]刊</note>
                   </msItem>

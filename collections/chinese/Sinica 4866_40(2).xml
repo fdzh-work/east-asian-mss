@@ -49,9 +49,9 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">春秋分年系傳表 一卷</title>
+                     <title xml:lang="chi" source="#200">春秋分年系傳表 一卷</title>
                      <title source="#200|9">chun qiu fen nian xi zhuan biao</title>
-                     <author source="#300" key="person_5340"><persName>(清)翁方綱</persName><persName type="9">weng fang
+                     <author source="#300" key="person_5340"><persName xml:lang="chi">(清)翁方綱</persName><persName type="9">weng fang
                            gang</persName></author>
                   </msItem>
                </msContents>

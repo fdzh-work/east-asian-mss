@@ -46,7 +46,7 @@
                <head>書名: 朱文公童蒙須知 一卷 / (宋)朱熹撰 ; (日)宇都宮遯菴校<lb/>日本元祿十六年[1703]刊大阪河內屋八兵衛重印本<lb/>線裝1冊 ; 26公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">朱文公童蒙須知 一卷</title><title source="#200|9">zhu wen gong tong meng xu zhi</title><title type="variant" source="#230">童蒙須知</title><title source="#230|9" type="variant">tong meng xu zhi</title><note source="#290">(宋)朱熹撰</note><note source="#290">(日)宇都宮遯菴校</note><author source="#300" key="person_1250"><persName>(宋)朱熹</persName><persName type="9">zhu xi</persName></author><author source="#300" key="person_1918"><persName>(日)宇都宮遯菴</persName><persName type="9">utsunomiya ton'an</persName></author><note source="#409">日本元祿十六年[1703]刊大阪河內屋八兵衛重印本</note></msItem>         
+                  <title xml:lang="chi" source="#200">朱文公童蒙須知 一卷</title><title source="#200|9">zhu wen gong tong meng xu zhi</title><title type="variant" source="#230">童蒙須知</title><title source="#230|9" type="variant">tong meng xu zhi</title><note source="#290">(宋)朱熹撰</note><note source="#290">(日)宇都宮遯菴校</note><author source="#300" key="person_1250"><persName xml:lang="chi">(宋)朱熹</persName><persName type="9">zhu xi</persName></author><author source="#300" key="person_1918"><persName xml:lang="chi">(日)宇都宮遯菴</persName><persName type="9">utsunomiya ton'an</persName></author><note source="#409">日本元祿十六年[1703]刊大阪河內屋八兵衛重印本</note></msItem>         
                </msContents>
                <physDesc>
                   

@@ -48,17 +48,17 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">孫淵如先生全集</title>
+                     <title xml:lang="chi" source="#200">孫淵如先生全集</title>
                      <title source="#200|9">sun yuan ru xian sheng quan ji</title>
                      <note source="#290">(清)孫星衍撰</note>
-                     <author source="#300" key="person_3855"><persName>(清)孫星衍</persName><persName type="9">sun xing
+                     <author source="#300" key="person_3855"><persName xml:lang="chi">(清)孫星衍</persName><persName type="9">sun xing
                            yan</persName></author>
                      <note source="#409">清光緒甲午[1894]湖南思賢書局刊本</note>
                      <editor source="#440" role="pbl"><persName>思賢書局</persName><persName type="9" role="pbl">si xian shu ju</persName></editor>
                      <msItem n="1">
                         <title>芳茂山人文集</title>
                         <title source="9">fang mao shan ren wen ji</title>
-                        <author key="person_3855"><persName>(清)孫星衍</persName><persName type="9">sun xing
+                        <author key="person_3855"><persName xml:lang="chi">(清)孫星衍</persName><persName type="9">sun xing
                               yan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140820/13:16:37|odh -->
@@ -66,7 +66,7 @@
                         <msItem n="1">
                            <title>問字堂集 六卷</title>
                            <title source="9">wen zi tang ji</title>
-                           <author key="person_3855"><persName>(清)孫星衍</persName><persName type="9">sun xing
+                           <author key="person_3855"><persName xml:lang="chi">(清)孫星衍</persName><persName type="9">sun xing
                                  yan</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20140820/13:18:28|odh -->
@@ -76,7 +76,7 @@
                         <msItem n="2">
                            <title>岱南閣集 二卷</title>
                            <title source="9">dai nan ge ji</title>
-                           <author key="person_3855"><persName>(清)孫星衍</persName><persName type="9">sun xing
+                           <author key="person_3855"><persName xml:lang="chi">(清)孫星衍</persName><persName type="9">sun xing
                                  yan</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20140820/13:19:06|odh -->
@@ -86,7 +86,7 @@
                         <msItem n="3">
                            <title>平津館文稿 二卷</title>
                            <title source="9">ping jin guan wen gao</title>
-                           <author key="person_3855"><persName>(清)孫星衍</persName><persName type="9">sun xing
+                           <author key="person_3855"><persName xml:lang="chi">(清)孫星衍</persName><persName type="9">sun xing
                                  yan</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20140820/13:19:43|odh -->
@@ -96,7 +96,7 @@
                         <msItem n="4">
                            <title>五松園文稿 一卷</title>
                            <title source="9">wu song yuan wen gao</title>
-                           <author key="person_3855"><persName>(清)孫星衍</persName><persName type="9">sun xing
+                           <author key="person_3855"><persName xml:lang="chi">(清)孫星衍</persName><persName type="9">sun xing
                                  yan</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20140820/13:20:08|odh -->
@@ -106,7 +106,7 @@
                         <msItem n="5">
                            <title>嘉穀堂集 一卷</title>
                            <title source="9">jia gu tang ji</title>
-                           <author key="person_3855"><persName>(清)孫星衍</persName><persName type="9">sun xing
+                           <author key="person_3855"><persName xml:lang="chi">(清)孫星衍</persName><persName type="9">sun xing
                                  yan</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20140820/13:20:34|odh -->
@@ -116,7 +116,7 @@
                      <msItem n="2">
                         <title>芳茂山人詩錄</title>
                         <title source="9">fang mao shan ren shi lu</title>
-                        <author key="person_3855"><persName>(清)孫星衍</persName><persName type="9">sun xing
+                        <author key="person_3855"><persName xml:lang="chi">(清)孫星衍</persName><persName type="9">sun xing
                               yan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140820/13:17:06|odh -->
@@ -125,7 +125,7 @@
                         <msItem n="1">
                            <title>澄清堂詩稿 二卷</title>
                            <title source="9">cheng qing tang shi gao</title>
-                           <author key="person_3855"><persName>(清)孫星衍</persName><persName type="9">sun xing
+                           <author key="person_3855"><persName xml:lang="chi">(清)孫星衍</persName><persName type="9">sun xing
                                  yan</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20140820/13:23:54|odh -->
@@ -135,7 +135,7 @@
                         <msItem n="2">
                            <title>澄清堂續稿 一卷</title>
                            <title source="9">cheng qing tang xu gao</title>
-                           <author key="person_3855"><persName>(清)孫星衍</persName><persName type="9">sun xing
+                           <author key="person_3855"><persName xml:lang="chi">(清)孫星衍</persName><persName type="9">sun xing
                                  yan</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20140820/13:24:18|odh -->
@@ -145,7 +145,7 @@
                         <msItem n="3">
                            <title>濟上停雲集 一卷</title>
                            <title source="9">ji shang ting yun ji</title>
-                           <author key="person_3855"><persName>(清)孫星衍</persName><persName type="9">sun xing
+                           <author key="person_3855"><persName xml:lang="chi">(清)孫星衍</persName><persName type="9">sun xing
                                  yan</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20140820/14:05:05|odh -->
@@ -155,7 +155,7 @@
                         <msItem n="4">
                            <title>租船詠史集 一卷</title>
                            <title source="9">zu chuan yong shi ji</title>
-                           <author key="person_3855"><persName>(清)孫星衍</persName><persName type="9">sun xing
+                           <author key="person_3855"><persName xml:lang="chi">(清)孫星衍</persName><persName type="9">sun xing
                                  yan</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20140820/14:06:18|odh -->
@@ -165,7 +165,7 @@
                         <msItem n="5">
                            <title>冶城絜養集 二卷</title>
                            <title source="9">ye cheng jie yang ji</title>
-                           <author key="person_3855"><persName>(清)孫星衍</persName><persName type="9">sun xing
+                           <author key="person_3855"><persName xml:lang="chi">(清)孫星衍</persName><persName type="9">sun xing
                                  yan</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20140820/14:11:20|odh -->
@@ -175,7 +175,7 @@
                         <msItem n="6">
                            <title>冶城遺集 一卷</title>
                            <title source="9">ye cheng yi ji</title>
-                           <author key="person_3855"><persName>(清)孫星衍</persName><persName type="9">sun xing
+                           <author key="person_3855"><persName xml:lang="chi">(清)孫星衍</persName><persName type="9">sun xing
                                  yan</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20140820/14:13:52|odh -->
@@ -185,7 +185,7 @@
                         <msItem n="7">
                            <title>冶城集補遺 一卷</title>
                            <title source="9">ye cheng ji bu yi</title>
-                           <author key="person_3855"><persName>(清)孫星衍</persName><persName type="9">sun xing
+                           <author key="person_3855"><persName xml:lang="chi">(清)孫星衍</persName><persName type="9">sun xing
                                  yan</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20140820/14:14:27|odh -->

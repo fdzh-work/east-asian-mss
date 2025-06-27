@@ -46,7 +46,7 @@
                <head>書名: 續英烈傳 五卷三十四回 / (明)空谷老人編次<lb/>清勵園書室刊本<lb/>線裝5冊 ; 22公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">續英烈傳 五卷三十四回</title><title source="#200|9">xu ying lie zhuan</title><note source="#290">(明)空谷老人編次</note><author source="#300" key="person_2506"><persName>(明)空谷老人</persName><persName type="9">kong gu lao ren</persName></author><note source="#409">清勵園書室刊本</note><editor source="#440" role="pbl"><persName>勵園書室</persName><persName type="9" role="pbl">li yuan shu shi</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">續英烈傳 五卷三十四回</title><title source="#200|9">xu ying lie zhuan</title><note source="#290">(明)空谷老人編次</note><author source="#300" key="person_2506"><persName xml:lang="chi">(明)空谷老人</persName><persName type="9">kong gu lao ren</persName></author><note source="#409">清勵園書室刊本</note><editor source="#440" role="pbl"><persName>勵園書室</persName><persName type="9" role="pbl">li yuan shu shi</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

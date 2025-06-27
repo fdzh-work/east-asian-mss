@@ -49,17 +49,17 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">關中三李年譜 八卷</title>
+                     <title xml:lang="chi" source="#200">關中三李年譜 八卷</title>
                      <title source="#200|9">guan zhong san li nian pu</title>
                      <note source="#290">(清)吳懷清撰</note>
-                     <author source="#300" key="person_3576"><persName>(清)吳懷清</persName><persName type="9">wu huai
+                     <author source="#300" key="person_3576"><persName xml:lang="chi">(清)吳懷清</persName><persName type="9">wu huai
                            qing</persName></author>
                      <note source="#409">民國戊辰[1928]京師刊1981年北京市中國書店重印本</note>
                      <editor source="#440" role="pbl"><persName>中國書店</persName><persName type="9" role="pbl">zhong guo shu dian</persName></editor>
                      <msItem n="1">
                         <title>二曲先生年譜 二卷附錄二卷</title>
                         <title source="9">er qu xian sheng nian pu</title>
-                        <author key="person_3576"><persName>(清)吳懷清</persName><persName type="9">wu huai
+                        <author key="person_3576"><persName xml:lang="chi">(清)吳懷清</persName><persName type="9">wu huai
                               qing</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00002741|ons -->
@@ -68,7 +68,7 @@
                      <msItem n="2">
                         <title>雪木先生年譜 一卷</title>
                         <title source="9">xue mu xian sheng nian pu</title>
-                        <author key="person_3576"><persName>(清)吳懷清</persName><persName type="9">wu huai
+                        <author key="person_3576"><persName xml:lang="chi">(清)吳懷清</persName><persName type="9">wu huai
                               qing</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00002742|ons -->
@@ -77,7 +77,7 @@
                      <msItem n="3">
                         <title>天生先生年譜 二卷附錄一卷</title>
                         <title source="9">tian sheng xian sheng nian pu</title>
-                        <author key="person_3576"><persName>(清)吳懷清</persName><persName type="9">wu huai
+                        <author key="person_3576"><persName xml:lang="chi">(清)吳懷清</persName><persName type="9">wu huai
                               qing</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00002743|ons -->

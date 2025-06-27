@@ -50,18 +50,18 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">揚子法言 十三卷</title>
+                     <title xml:lang="chi" source="#200">揚子法言 十三卷</title>
                      <title source="#200|9">yang zi fa yan</title>
                      <note source="#290">(漢)揚雄撰</note>
                      <note source="#290">(晉)李軌注</note>
-                     <author source="#300" key="person_6538"><persName>(漢)揚雄</persName><persName type="9">yang
+                     <author source="#300" key="person_6538"><persName xml:lang="chi">(漢)揚雄</persName><persName type="9">yang
                            xiong</persName></author>
-                     <author source="#300" key="person_2911"><persName>(晉)李軌</persName><persName type="9">li
+                     <author source="#300" key="person_2911"><persName xml:lang="chi">(晉)李軌</persName><persName type="9">li
                            gui</persName></author>
                      <note source="#600">光緒二年[1876]刊</note>
                   </msItem>
                   <msItem n="2">
-                     <title source="#201">揚子法言音義 一卷</title>
+                     <title xml:lang="chi" source="#201">揚子法言音義 一卷</title>
                      <title source="#201|9">yang zi fa yan yin yi</title>
                      <note source="#291">(宋)佚名撰</note>
                   </msItem>

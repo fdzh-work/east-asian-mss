@@ -46,7 +46,7 @@
                <head>書名: 唐類函 二百卷目錄二卷 / (明)俞安期編<lb/>明萬曆三十一年[1603]東吳俞氏刊本<lb/>線裝50冊 ; 28公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">唐類函 二百卷目錄二卷</title><title source="#200|9">tang lei han</title><note source="#290">(明)俞安期編</note><author source="#300" key="person_2005"><persName>(明)俞安期</persName><persName type="9">yu an qi</persName></author><note source="#409">明萬曆三十一年[1603]東吳俞氏刊本</note></msItem>         
+                  <title xml:lang="chi" source="#200">唐類函 二百卷目錄二卷</title><title source="#200|9">tang lei han</title><note source="#290">(明)俞安期編</note><author source="#300" key="person_2005"><persName xml:lang="chi">(明)俞安期</persName><persName type="9">yu an qi</persName></author><note source="#409">明萬曆三十一年[1603]東吳俞氏刊本</note></msItem>         
                </msContents>
                <physDesc>
                   

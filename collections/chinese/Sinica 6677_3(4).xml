@@ -49,13 +49,13 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">衎石齋晚年詩稿 五卷</title>
+                     <title xml:lang="chi" source="#200">衎石齋晚年詩稿 五卷</title>
                      <title source="#200|9">kan shi zhai wan nian shi gao</title>
                      <note source="#290">(清)錢儀吉撰</note>
                      <note source="#290">(民國)錢振聲輯</note>
-                     <author source="#300" key="person_5911"><persName>(清)錢儀吉</persName><persName type="9">qian yi
+                     <author source="#300" key="person_5911"><persName xml:lang="chi">(清)錢儀吉</persName><persName type="9">qian yi
                            ji</persName></author>
-                     <author source="#300" key="person_3204"><persName>(民國)錢振聲</persName><persName type="9">qian zhen
+                     <author source="#300" key="person_3204"><persName xml:lang="chi">(民國)錢振聲</persName><persName type="9">qian zhen
                            sheng</persName></author>
                   </msItem>
                </msContents>

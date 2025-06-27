@@ -49,13 +49,13 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">馬戲圖譜 一卷</title>
+                     <title xml:lang="chi" source="#200">馬戲圖譜 一卷</title>
                      <title source="#200|9">ma xi tu pu</title>
                      <note source="#290">(宋)李清照撰</note>
                      <note source="#290">(明)王蘭芳增輯</note>
-                     <author source="#300" key="person_1287"><persName>(宋)李清照</persName><persName type="9">li qing
+                     <author source="#300" key="person_1287"><persName xml:lang="chi">(宋)李清照</persName><persName type="9">li qing
                            zhao</persName></author>
-                     <author source="#300" key="person_2458"><persName>(明)王蘭芳</persName><persName type="9">wang lan
+                     <author source="#300" key="person_2458"><persName xml:lang="chi">(明)王蘭芳</persName><persName type="9">wang lan
                            fang</persName></author>
                      <note source="#600">光緒丁亥[1887]刊</note>
                   </msItem>

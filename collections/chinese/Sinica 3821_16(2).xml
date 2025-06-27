@@ -51,13 +51,13 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">魚兒佛 一卷</title>
+                     <title xml:lang="chi" source="#200">魚兒佛 一卷</title>
                      <title source="#200|9">yu er fo</title>
                      <note source="#290">(明釋)湛然原本</note>
                      <note source="#290">(明)寓山居士重編</note>
-                     <author source="#300" key="person_2847"><persName>(明釋)湛然</persName><persName type="9">zhan
+                     <author source="#300" key="person_2847"><persName xml:lang="chi">(明釋)湛然</persName><persName type="9">zhan
                            ran</persName></author>
-                     <author source="#300" key="person_2150"><persName>(明)寓山居士</persName><persName type="9">yu shan ju
+                     <author source="#300" key="person_2150"><persName xml:lang="chi">(明)寓山居士</persName><persName type="9">yu shan ju
                            shi</persName></author>
                   </msItem>
                </msContents>

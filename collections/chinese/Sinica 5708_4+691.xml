@@ -49,12 +49,12 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">毛詩答雜問 一卷</title>
+                     <title xml:lang="chi" source="#200">毛詩答雜問 一卷</title>
                      <title source="#200|9">mao shi da za wen</title>
                      <note source="#290">(吳)韋昭, (吳)朱育等撰</note>
-                     <author source="#300" key="person_473"><persName>(吳)韋昭</persName><persName type="9">wei
+                     <author source="#300" key="person_473"><persName xml:lang="chi">(吳)韋昭</persName><persName type="9">wei
                            zhao</persName></author>
-                     <author source="#300" key="person_461"><persName>(吳)朱育</persName><persName type="9">zhu
+                     <author source="#300" key="person_461"><persName xml:lang="chi">(吳)朱育</persName><persName type="9">zhu
                            yu</persName></author>
                   </msItem>
                </msContents>

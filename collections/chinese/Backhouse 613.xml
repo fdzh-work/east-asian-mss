@@ -49,10 +49,10 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">痛史</title>
+                     <title xml:lang="chi" source="#200">痛史</title>
                      <title source="#200|9">tong shi</title>
                      <note source="#290">(民國)樂天居士編</note>
-                     <author source="#300" key="person_3145"><persName>(民國)樂天居士</persName><persName type="9">le tian
+                     <author source="#300" key="person_3145"><persName xml:lang="chi">(民國)樂天居士</persName><persName type="9">le tian
                            ju shi</persName></author>
                      <note source="#409">清宣統三年[1911]至民國元年[1912]上海商務印書館排印本</note>
                      <editor source="#440" role="pbl"><persName>商務印書館</persName><persName type="9" role="pbl">shang wu yin shu guan</persName></editor>
@@ -61,14 +61,14 @@
                            <title>福王登極實錄 一卷</title>
                            <title source="9">fu wang deng ji shi lu</title>
                            <note source="290">(明)文震亨撰</note>
-                           <author key="person_2248"><persName>(明)文震亨</persName><persName type="9">wen zhen
+                           <author key="person_2248"><persName xml:lang="chi">(明)文震亨</persName><persName type="9">wen zhen
                                  heng</persName></author>
                         </msItem>
                         <msItem n="2">
                            <title>附 過江七事</title>
                            <title type="9">guo jiang qi shi</title>
                            <note source="#291">(清)陳貞慧撰</note>
-                           <author key="person_6108"><persName>(清)陳貞慧</persName><persName type="9">chen zhen
+                           <author key="person_6108"><persName xml:lang="chi">(清)陳貞慧</persName><persName type="9">chen zhen
                                  hui</persName></author>
                         </msItem>
                         <msItem n="3">
@@ -98,7 +98,7 @@
                         <title>丁酉北闈大獄記略 一卷</title>
                         <title source="9">ding you bei wei da yu ji lue</title>
                         <note source="290">(清)信天翁撰</note>
-                        <author key="person_3362"><persName>(清)信天翁</persName><persName type="9">xin tian
+                        <author key="person_3362"><persName xml:lang="chi">(清)信天翁</persName><persName type="9">xin tian
                               weng</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20030429/17:09:58|odh -->
@@ -115,7 +115,7 @@
                            <title>附 秋思草堂遺集 一卷</title>
                            <title type="9">qiu si cao tang yi ji</title>
                            <note source="#291">(清)陸莘行撰</note>
-                           <author key="person_6170"><persName>(清)陸莘行</persName><persName type="9">lu xin
+                           <author key="person_6170"><persName xml:lang="chi">(清)陸莘行</persName><persName type="9">lu xin
                                  xing</persName></author>
                         </msItem>
                         <!--Unused allegro fields-->
@@ -128,7 +128,7 @@
                         <title>研堂見聞雜記 一卷</title>
                         <title source="9">yan tang jian wen za ji</title>
                         <note source="290">(清)王家禎撰</note>
-                        <author key="person_5052"><persName>(清)王家禎</persName><persName type="9">wang jia
+                        <author key="person_5052"><persName xml:lang="chi">(清)王家禎</persName><persName type="9">wang jia
                               zhen</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20030429/17:14:07|odh -->
@@ -148,7 +148,7 @@
                         <title>弘光實錄鈔 四卷</title>
                         <title source="9">hong guang shi lu chao</title>
                         <note source="290">(清)黃宗羲撰</note>
-                        <author key="person_6376"><persName>(清)黃宗羲</persName><persName type="9">huang zong
+                        <author key="person_6376"><persName xml:lang="chi">(清)黃宗羲</persName><persName type="9">huang zong
                               xi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20030429/17:16:27|odh -->
@@ -190,7 +190,7 @@
                         <title>浙東紀略 一卷</title>
                         <title source="9">zhe dong ji lue</title>
                         <note source="290">(清)徐芳烈撰</note>
-                        <author key="person_4227"><persName>(清)徐芳烈</persName><persName type="9">xu fang
+                        <author key="person_4227"><persName xml:lang="chi">(清)徐芳烈</persName><persName type="9">xu fang
                            lie</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20030429/17:23:44|odh -->
@@ -201,7 +201,7 @@
                         <title>嘉定縣乙酉紀事 一卷</title>
                         <title source="9">jia ding xian yi you ji shi</title>
                         <note source="290">(清)朱子素撰</note>
-                        <author key="person_4389"><persName>(清)朱子素</persName><persName type="9">zhu zi
+                        <author key="person_4389"><persName xml:lang="chi">(清)朱子素</persName><persName type="9">zhu zi
                            su</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20030429/17:25:23|odh -->
@@ -213,14 +213,14 @@
                            <title>江上孤忠錄 一卷</title>
                            <title source="9">jiang shang gu zhong lu</title>
                            <note source="290">(清)趙曦明撰</note>
-                           <author><persName>(清)趙曦明</persName><persName type="9">zhao xi
+                           <author><persName xml:lang="chi">(清)趙曦明</persName><persName type="9">zhao xi
                                  ming</persName></author>
                         </msItem>
                         <msItem n="2">
                            <title>附 孤忠後錄 一卷</title>
                            <title type="9">gu zhong hou lu</title>
                            <note source="#291">(明)祝純嘏撰</note>
-                           <author key="person_2492"><persName>(明)祝純嘏</persName><persName type="9">zhu chun
+                           <author key="person_2492"><persName xml:lang="chi">(明)祝純嘏</persName><persName type="9">zhu chun
                                  gu</persName></author>
                         </msItem>
                         <!--Unused allegro fields-->
@@ -233,7 +233,7 @@
                         <title>啟禎記聞錄 八卷</title>
                         <title source="9">qi zhen ji wen lu</title>
                         <note source="290">(明)葉紹袁撰</note>
-                        <author key="person_2549"><persName>(明)葉紹袁</persName><persName type="9">ye shao
+                        <author key="person_2549"><persName xml:lang="chi">(明)葉紹袁</persName><persName type="9">ye shao
                               yuan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20030429/17:32:10|odh -->
@@ -244,7 +244,7 @@
                         <title>海上見聞錄 二卷</title>
                         <title source="9">hai shang jian wen lu</title>
                         <note source="290">(清)阮旻錫撰</note>
-                        <author key="person_5992"><persName>(清)阮旻錫</persName><persName type="9">ruan min
+                        <author key="person_5992"><persName xml:lang="chi">(清)阮旻錫</persName><persName type="9">ruan min
                            xi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20030429/17:42:51|odh -->
@@ -264,7 +264,7 @@
                         <title>鹿樵紀聞 三卷</title>
                         <title source="9">lu qiao ji wen</title>
                         <note source="290">(清)吳偉業撰</note>
-                        <author key="person_3532"><persName>(清)吳偉業</persName><persName type="9">wu wei
+                        <author key="person_3532"><persName xml:lang="chi">(清)吳偉業</persName><persName type="9">wu wei
                            ye</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20030429/17:55:33|odh -->
@@ -284,7 +284,7 @@
                         <title>客滇述 一卷</title>
                         <title source="9">ke dian shu</title>
                         <note source="290">(明)顧山貞撰</note>
-                        <author key="person_2766"><persName>(明)顧山貞</persName><persName type="9">gu shan
+                        <author key="person_2766"><persName xml:lang="chi">(明)顧山貞</persName><persName type="9">gu shan
                               zhen</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20030429/17:57:25|odh -->
@@ -296,14 +296,14 @@
                            <title>守鄖紀略 一卷</title>
                            <title source="9">shou yun ji lue</title>
                            <note source="290">(清)高斗樞撰</note>
-                           <author key="person_6303"><persName>(清)高斗樞</persName><persName type="9">gao dou
+                           <author key="person_6303"><persName xml:lang="chi">(清)高斗樞</persName><persName type="9">gao dou
                                  shu</persName></author>
                         </msItem>
                         <msItem n="2">
                            <title>附 大梁守城記 一卷</title>
                            <title type="9">da liang shou cheng ji</title>
                            <note source="#291">(清)周在浚撰</note>
-                           <author key="person_3678"><persName>(清)周在浚</persName><persName type="9">zhou zai
+                           <author key="person_3678"><persName xml:lang="chi">(清)周在浚</persName><persName type="9">zhou zai
                                  jun</persName></author>
                         </msItem>
                         <!--Unused allegro fields-->
@@ -324,7 +324,7 @@
                            <title>甲申三月忠逆諸臣紀事 一卷</title>
                            <title type="9">jia shen san yue zhong ni zhu chen ji shi</title>
                            <note source="#291">(清)錢邦芑撰</note>
-                           <author key="person_5952"><persName>(清)錢邦芑</persName><persName type="9">qian bang
+                           <author key="person_5952"><persName xml:lang="chi">(清)錢邦芑</persName><persName type="9">qian bang
                                  qi</persName></author>
                         </msItem>
                         <msItem n="3">

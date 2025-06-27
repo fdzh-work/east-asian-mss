@@ -46,7 +46,7 @@
                <head>書名: 保羅垂訓<lb/>上海 : 美華書館, 1875<lb/>線裝1冊(7頁) ; 15.2公分<lb/>By W A P Martin<lb/>Title page has 「倪維思 (J L Nevius) 著」, but this is a mistake; the text is identical with that of Martin's tract<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">保羅垂訓</title><title source="#200|9">bao luo chui xun</title><author source="#300" key="person_6952"><persName>Martin, William Alexander Parsons</persName></author><editor source="#420" role="pbl"><persName>美華書館</persName><persName type="9" role="pbl">mei hua shu guan</persName></editor><note source="#600">By W A P Martin</note><note source="#600">Title page has 「倪維思 (J L Nevius) 著」, but this is a mistake; the text is identical with that of Martin's tract</note></msItem>         
+                  <title xml:lang="chi" source="#200">保羅垂訓</title><title source="#200|9">bao luo chui xun</title><author source="#300" key="person_6952"><persName xml:lang="chi">Martin, William Alexander Parsons</persName></author><editor source="#420" role="pbl"><persName>美華書館</persName><persName type="9" role="pbl">mei hua shu guan</persName></editor><note source="#600">By W A P Martin</note><note source="#600">Title page has 「倪維思 (J L Nevius) 著」, but this is a mistake; the text is identical with that of Martin's tract</note></msItem>         
                </msContents>
                <physDesc>
                   

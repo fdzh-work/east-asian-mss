@@ -46,7 +46,7 @@
                <head>書名: 天津文鈔 七卷 / (民國)華光鼐編 ; (民國)金鉞校<lb/>民國九年[1920]天津金氏刊1991年北京中國書店重印本殘損版以影印配補<lb/>線裝4冊 ; 29公分<lb/>ISBN 7-80568-341-7<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">天津文鈔 七卷</title><title source="#200|9">tian jin wen chao</title><note source="#290">(民國)華光鼐編</note><note source="#290">(民國)金鉞校</note><author source="#300" key="person_3172"><persName>(民國)華光鼐</persName><persName type="9">hua guang nai</persName></author><author source="#300" key="person_3202"><persName>(民國)金鉞</persName><persName type="9">jin yue</persName></author><note source="#409">民國九年[1920]天津金氏刊1991年北京中國書店重印本殘損版以影印配補</note><editor source="#440" role="pbl"><persName>中國書店</persName><persName type="9" role="pbl">zhong guo shu dian</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">天津文鈔 七卷</title><title source="#200|9">tian jin wen chao</title><note source="#290">(民國)華光鼐編</note><note source="#290">(民國)金鉞校</note><author source="#300" key="person_3172"><persName xml:lang="chi">(民國)華光鼐</persName><persName type="9">hua guang nai</persName></author><author source="#300" key="person_3202"><persName xml:lang="chi">(民國)金鉞</persName><persName type="9">jin yue</persName></author><note source="#409">民國九年[1920]天津金氏刊1991年北京中國書店重印本殘損版以影印配補</note><editor source="#440" role="pbl"><persName>中國書店</persName><persName type="9" role="pbl">zhong guo shu dian</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

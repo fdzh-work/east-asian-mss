@@ -46,8 +46,8 @@
                <head>書名: 新刊銅人鍼灸經 七卷 / (宋)王惟一撰<lb/>新編西方子明堂灸經 八卷 / 原題西方子撰<lb/>明正德乙亥[1515]山西平陽府刊本<lb/>線裝2冊 : 圖 ; 26公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem><note source="#409">明正德乙亥[1515]山西平陽府刊本</note><msItem n="1">
-                  <title source="#200">新刊銅人鍼灸經 七卷</title><title source="#200|9">xin kan tong ren zhen jiu jing</title><note source="#290">(宋)王惟一撰</note><author source="#300" key="person_1422"><persName>(宋)王惟一</persName><persName type="9">wang wei yi</persName></author></msItem>         
-               <msItem n="2"><title source="#201">新編西方子明堂灸經 八卷</title><title source="#201|9">xin bian xi fang zi ming tang jiu jing</title><note source="#291">原題西方子撰</note><author source="#301" key="person_7176"><persName>西方子</persName><persName type="9">xi fang zi</persName></author></msItem></msItem></msContents>
+                  <title xml:lang="chi" source="#200">新刊銅人鍼灸經 七卷</title><title source="#200|9">xin kan tong ren zhen jiu jing</title><note source="#290">(宋)王惟一撰</note><author source="#300" key="person_1422"><persName xml:lang="chi">(宋)王惟一</persName><persName type="9">wang wei yi</persName></author></msItem>         
+               <msItem n="2"><title xml:lang="chi" source="#201">新編西方子明堂灸經 八卷</title><title source="#201|9">xin bian xi fang zi ming tang jiu jing</title><note source="#291">原題西方子撰</note><author source="#301" key="person_7176"><persName xml:lang="chi">西方子</persName><persName type="9">xi fang zi</persName></author></msItem></msItem></msContents>
                <physDesc>
                   
                   <objectDesc>

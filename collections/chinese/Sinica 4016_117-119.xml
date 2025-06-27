@@ -49,14 +49,14 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">女科 二卷</title>
+                     <title xml:lang="chi" source="#200">女科 二卷</title>
                      <title source="#200|9">nu ke</title>
-                     <title source="#200">產後編 二卷</title>
+                     <title xml:lang="chi" source="#200">產後編 二卷</title>
                      <title source="#200|9">chan hou bian</title>
                      <title type="variant" source="#230">傅青主女科</title>
                      <title source="#230|9" type="variant">fu qing zhu nu ke</title>
                      <note source="#290">(清)傅山撰</note>
-                     <author source="#300" key="person_3375"><persName>(清)傅山</persName><persName type="9">fu
+                     <author source="#300" key="person_3375"><persName xml:lang="chi">(清)傅山</persName><persName type="9">fu
                            shan</persName></author>
                      <note source="#600">一名《傅青主女科》</note>
                      <note source="#600">道光二十七年[1847]刊</note>

@@ -46,7 +46,7 @@
                <head>書名: 歸田錄 二卷 / (宋)歐陽修撰<lb/>民國八年[1919]上海商務印書館鉛字排印二十三年[1934]重排國難後第二版本<lb/>線裝1冊 ; 27公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">歸田錄 二卷</title><title source="#200|9">gui tian lu</title><note source="#290">(宋)歐陽修撰</note><author source="#300" key="person_1349"><persName>(宋)歐陽修</persName><persName type="9">ou yang xiu</persName></author><note source="#409">民國八年[1919]上海商務印書館鉛字排印二十三年[1934]重排國難後第二版本</note><editor source="#440" role="pbl"><persName>商務印書館</persName><persName type="9" role="pbl">shang wu yin shu guan</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">歸田錄 二卷</title><title source="#200|9">gui tian lu</title><note source="#290">(宋)歐陽修撰</note><author source="#300" key="person_1349"><persName xml:lang="chi">(宋)歐陽修</persName><persName type="9">ou yang xiu</persName></author><note source="#409">民國八年[1919]上海商務印書館鉛字排印二十三年[1934]重排國難後第二版本</note><editor source="#440" role="pbl"><persName>商務印書館</persName><persName type="9" role="pbl">shang wu yin shu guan</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

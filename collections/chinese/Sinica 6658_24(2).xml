@@ -49,12 +49,12 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">顏元孫干祿字書 一卷</title>
+                     <title xml:lang="chi" source="#200">顏元孫干祿字書 一卷</title>
                      <title source="#200|9">yan yuan sun gan lu zi shu</title>
                      <title type="variant" source="#230">干祿字書</title>
                      <title source="#230|9" type="variant">gan lu zi shu</title>
                      <note source="#290">(唐)顏元孫撰</note>
-                     <author source="#300" key="person_872"><persName>(唐)顏元孫</persName><persName type="9">yan yuan
+                     <author source="#300" key="person_872"><persName xml:lang="chi">(唐)顏元孫</persName><persName type="9">yan yuan
                            sun</persName></author>
                   </msItem>
                </msContents>

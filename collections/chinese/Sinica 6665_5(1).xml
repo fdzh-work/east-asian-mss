@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">李羣玉詩集 三卷詩後集五卷補遺一卷</title>
+                     <title xml:lang="chi" source="#200">李羣玉詩集 三卷詩後集五卷補遺一卷</title>
                      <title source="#200|9">li qun yu shi ji</title>
                      <note source="#290">(唐)李群玉撰</note>
-                     <author source="#300" key="person_700"><persName>(唐)李群玉</persName><persName type="9">li qun
+                     <author source="#300" key="person_700"><persName xml:lang="chi">(唐)李群玉</persName><persName type="9">li qun
                            yu</persName></author>
                      <note source="#600">民國丙寅[1926]刊</note>
                   </msItem>

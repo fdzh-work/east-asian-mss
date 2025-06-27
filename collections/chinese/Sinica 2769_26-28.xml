@@ -49,15 +49,15 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">羣經平議 三十五卷</title>
+                     <title xml:lang="chi" source="#200">羣經平議 三十五卷</title>
                      <title source="#200|9">qun jing ping yi</title>
                      <note source="#290">(清)俞樾撰</note>
-                     <author source="#300" key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
+                     <author source="#300" key="person_3353"><persName xml:lang="chi">(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                      <msItem n="01">
                         <title>周易平議 二卷</title>
                         <title source="9">zhou yi ping yi</title>
-                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName xml:lang="chi">(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20161101/00000102|odh -->
@@ -66,7 +66,7 @@
                      <msItem n="02">
                         <title>尚書平議 四卷</title>
                         <title source="9">shang shu ping yi</title>
-                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName xml:lang="chi">(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20161101/00000103|odh -->
@@ -75,7 +75,7 @@
                      <msItem n="03">
                         <title>周書平議 一卷</title>
                         <title source="9">zhou shu ping yi</title>
-                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName xml:lang="chi">(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20161101/00000104|odh -->
@@ -84,7 +84,7 @@
                      <msItem n="04">
                         <title>毛詩平議 四卷</title>
                         <title source="9">mao shi ping yi</title>
-                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName xml:lang="chi">(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20161101/00000105|odh -->
@@ -93,7 +93,7 @@
                      <msItem n="05">
                         <title>周禮平議 二卷</title>
                         <title source="9">zhou li ping yi</title>
-                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName xml:lang="chi">(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20161101/00000106|odh -->
@@ -102,7 +102,7 @@
                      <msItem n="06">
                         <title>考工記世室重屋明堂考 一卷</title>
                         <title source="9">kao gong ji shi shi zhong wu ming tang kao</title>
-                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName xml:lang="chi">(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20161101/00000107|odh -->
@@ -111,7 +111,7 @@
                      <msItem n="07">
                         <title>儀禮平議 二卷</title>
                         <title source="9">yi li ping yi</title>
-                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName xml:lang="chi">(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20161101/00000108|odh -->
@@ -120,7 +120,7 @@
                      <msItem n="08">
                         <title>大戴禮記平議 二卷</title>
                         <title source="9">da dai li ji ping yi</title>
-                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName xml:lang="chi">(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20161101/00000109|odh -->
@@ -129,7 +129,7 @@
                      <msItem n="09">
                         <title>小戴禮記平議 四卷</title>
                         <title source="9">xiao dai li ji ping yi</title>
-                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName xml:lang="chi">(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20161101/00000110|odh -->
@@ -138,7 +138,7 @@
                      <msItem n="10">
                         <title>春秋公羊傳平議 一卷</title>
                         <title source="9">chun qiu gong yang zhuan ping yi</title>
-                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName xml:lang="chi">(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20161101/00000111|odh -->
@@ -147,7 +147,7 @@
                      <msItem n="11">
                         <title>春秋穀梁傳平議 一卷</title>
                         <title source="9">chun qiu gu liang zhuan ping yi</title>
-                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName xml:lang="chi">(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20161101/00000112|odh -->
@@ -156,7 +156,7 @@
                      <msItem n="12">
                         <title>春秋左傳平議 三卷</title>
                         <title source="9">chun qiu zuo zhuan ping yi</title>
-                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName xml:lang="chi">(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20161101/00000113|odh -->
@@ -165,7 +165,7 @@
                      <msItem n="13">
                         <title>春秋外傳國語平議 二卷</title>
                         <title source="9">chun qiu wai zhuan guo yu ping yi</title>
-                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName xml:lang="chi">(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20161101/00000114|odh -->
@@ -174,7 +174,7 @@
                      <msItem n="14">
                         <title>論語平議 二卷</title>
                         <title source="9">lun yu ping yi</title>
-                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName xml:lang="chi">(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20161101/00000115|odh -->
@@ -183,7 +183,7 @@
                      <msItem n="15">
                         <title>孟子平議 二卷</title>
                         <title source="9">meng zi ping yi</title>
-                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName xml:lang="chi">(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20161101/00000116|odh -->
@@ -192,7 +192,7 @@
                      <msItem n="16">
                         <title>爾雅平議 一卷</title>
                         <title source="9">er ya ping yi</title>
-                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName xml:lang="chi">(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20161101/00000117|odh -->

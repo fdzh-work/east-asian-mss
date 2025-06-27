@@ -49,17 +49,17 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">方叔淵遺藁 一卷</title>
+                     <title xml:lang="chi" source="#200">方叔淵遺藁 一卷</title>
                      <title source="#200|9">fang shu yuan yi gao</title>
                      <note source="#290">(元)方瀾撰</note>
-                     <author source="#300" key="person_137"><persName>(元)方瀾</persName><persName type="9">fang
+                     <author source="#300" key="person_137"><persName xml:lang="chi">(元)方瀾</persName><persName type="9">fang
                            lan</persName></author>
                   </msItem>
                   <msItem n="2">
-                     <title source="#201">附 高氏三宴詩集 三卷</title>
+                     <title xml:lang="chi" source="#201">附 高氏三宴詩集 三卷</title>
                      <title source="#201|9">gao shi san yan shi ji</title>
                      <note source="#291">(晉)高正臣編</note>
-                     <author source="#301" key="person_3008"><persName>(晉)高正臣</persName><persName type="9">gao zheng
+                     <author source="#301" key="person_3008"><persName xml:lang="chi">(晉)高正臣</persName><persName type="9">gao zheng
                            chen</persName></author>
                   </msItem>
                </msContents>

@@ -49,16 +49,16 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">脈學四種</title>
+                     <title xml:lang="chi" source="#200">脈學四種</title>
                      <title source="#200|9">mai xue si zhong</title>
                      <note source="#290">(清)周學海撰</note>
-                     <author source="#300" key="person_3683"><persName>(清)周學海</persName><persName type="9">zhou xue
+                     <author source="#300" key="person_3683"><persName xml:lang="chi">(清)周學海</persName><persName type="9">zhou xue
                            hai</persName></author>
                      <note source="#600">光緒丙申[1896]刊</note>
                      <msItem n="1">
                         <title>脈義簡摩 八卷</title>
                         <title source="9">mai yi jian mo</title>
-                        <author key="person_3683"><persName>(清)周學海</persName><persName type="9">zhou xue
+                        <author key="person_3683"><persName xml:lang="chi">(清)周學海</persName><persName type="9">zhou xue
                               hai</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20181013/00000074|odh -->
@@ -67,7 +67,7 @@
                      <msItem n="2">
                         <title>脈簡補義 二卷</title>
                         <title source="9">mai jian bu yi</title>
-                        <author key="person_3683"><persName>(清)周學海</persName><persName type="9">zhou xue
+                        <author key="person_3683"><persName xml:lang="chi">(清)周學海</persName><persName type="9">zhou xue
                               hai</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20181013/00000075|odh -->
@@ -77,7 +77,7 @@
                      <msItem n="3">
                         <title>診家直訣 二卷</title>
                         <title source="9">zhen jia zhi jue</title>
-                        <author key="person_3683"><persName>(清)周學海</persName><persName type="9">zhou xue
+                        <author key="person_3683"><persName xml:lang="chi">(清)周學海</persName><persName type="9">zhou xue
                               hai</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20181013/00000076|odh -->
@@ -90,9 +90,9 @@
                         <title source="9">ping mai fa pian</title>
                         <note source="290">(漢)張機撰</note>
                         <note source="290">(清)周學海章句</note>
-                        <author key="person_6524"><persName>(漢)張機</persName><persName type="9">zhang
+                        <author key="person_6524"><persName xml:lang="chi">(漢)張機</persName><persName type="9">zhang
                            ji</persName></author>
-                        <author key="person_3683"><persName>(清)周學海</persName><persName type="9">zhou xue
+                        <author key="person_3683"><persName xml:lang="chi">(清)周學海</persName><persName type="9">zhou xue
                               hai</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20181013/00000077|odh -->

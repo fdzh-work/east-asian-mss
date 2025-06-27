@@ -46,7 +46,7 @@
                <head>書名: 四部叢刊書錄 不分卷 / (民國)商務印書館編<lb/>民國十八年[1929]上海該館排印本<lb/>線裝1冊 ; 20公分<lb/>書皮題名《重印四部叢刊書錄》<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">四部叢刊書錄 不分卷</title><title source="#200|9">si bu cong kan shu lu</title><title type="variant" source="#230">重印四部叢刊書錄</title><title source="#230|9" type="variant">chong yin si bu cong kan shu lu</title><note source="#290">(民國)商務印書館編</note><author><persName>(民國)商務印書館</persName><persName type="9">shang wu yin shu guan</persName></author><note source="#409">民國十八年[1929]上海該館排印本</note><editor source="#440" role="pbl"><persName>商務印書館</persName><persName type="9" role="pbl">shang wu yin shu guan</persName></editor><note source="#600">書皮題名《重印四部叢刊書錄》</note></msItem>         
+                  <title xml:lang="chi" source="#200">四部叢刊書錄 不分卷</title><title source="#200|9">si bu cong kan shu lu</title><title type="variant" source="#230">重印四部叢刊書錄</title><title source="#230|9" type="variant">chong yin si bu cong kan shu lu</title><note source="#290">(民國)商務印書館編</note><author><persName xml:lang="chi">(民國)商務印書館</persName><persName type="9">shang wu yin shu guan</persName></author><note source="#409">民國十八年[1929]上海該館排印本</note><editor source="#440" role="pbl"><persName>商務印書館</persName><persName type="9" role="pbl">shang wu yin shu guan</persName></editor><note source="#600">書皮題名《重印四部叢刊書錄》</note></msItem>         
                </msContents>
                <physDesc>
                   

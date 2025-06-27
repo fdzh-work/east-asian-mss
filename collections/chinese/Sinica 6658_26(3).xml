@@ -49,12 +49,12 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">謝廷芳辨惑論 一卷</title>
+                     <title xml:lang="chi" source="#200">謝廷芳辨惑論 一卷</title>
                      <title source="#200|9">xie ting fang bian huo lun</title>
                      <title type="variant" source="#230">辨惑論</title>
                      <title source="#230|9" type="variant">bian huo lun</title>
                      <note source="#290">(元)謝應芳撰</note>
-                     <author source="#300" key="person_274"><persName>(元)謝應芳</persName><persName type="9">xie ying
+                     <author source="#300" key="person_274"><persName xml:lang="chi">(元)謝應芳</persName><persName type="9">xie ying
                            fang</persName></author>
                   </msItem>
                </msContents>

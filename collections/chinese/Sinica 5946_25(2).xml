@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">西溪梅竹山莊圖題詠 一卷</title>
+                     <title xml:lang="chi" source="#200">西溪梅竹山莊圖題詠 一卷</title>
                      <title source="#200|9">xi xi mei zhu shan zhuang tu ti yong</title>
                      <note source="#290">(清)章黼輯</note>
-                     <author source="#300" key="person_5289"><persName>(清)章黼</persName><persName type="9">shang
+                     <author source="#300" key="person_5289"><persName xml:lang="chi">(清)章黼</persName><persName type="9">shang
                            fu</persName></author>
                      <note source="#600">光緒二十三年[1897]刊</note>
                   </msItem>

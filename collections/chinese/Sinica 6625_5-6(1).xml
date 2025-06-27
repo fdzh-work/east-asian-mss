@@ -50,7 +50,7 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">南唐書合刻 四十八卷</title>
+                     <title xml:lang="chi" source="#200">南唐書合刻 四十八卷</title>
                      <title source="#200|9">nan tang shu he ke</title>
                   </msItem>
                </msContents>
@@ -97,7 +97,7 @@
                         <title>南唐書 三十卷</title>
                         <title source="9">nan tang shu</title>
                         <note source="290">(宋)馬令撰</note>
-                        <author key="person_1798"><persName>(宋)馬令</persName><persName type="9">ma
+                        <author key="person_1798"><persName xml:lang="chi">(宋)馬令</persName><persName type="9">ma
                            ling</persName></author>
                      </msItem>
                   </msContents>
@@ -123,7 +123,7 @@
                         <title>南唐書 十八卷</title>
                         <title source="9">nan tang shu</title>
                         <note source="290">(宋)陸游撰</note>
-                        <author><persName>(宋)陸游</persName><persName type="9">lu
+                        <author><persName xml:lang="chi">(宋)陸游</persName><persName type="9">lu
                            you</persName></author>
                      </msItem>
                   </msContents>

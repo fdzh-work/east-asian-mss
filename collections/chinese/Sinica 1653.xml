@@ -46,7 +46,7 @@
                <head>書名: 論語新纂 / 尚德者纂<lb/>重鐫<lb/>新嘉坡 : 堅夏書院, 道光二十一年[1841]<lb/>線裝1冊(41, 41頁) ; 21.0公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">論語新纂</title><title source="#200|9">lun yu xin zuan</title><note source="#290">尚德者纂</note><author source="#300" key="person_6963"><persName>Medhurst, Walter Henry</persName></author><editor source="#420" role="pbl"><persName>堅夏書院</persName><persName type="9" role="pbl">jian xia shu yuan</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">論語新纂</title><title source="#200|9">lun yu xin zuan</title><note source="#290">尚德者纂</note><author source="#300" key="person_6963"><persName xml:lang="chi">Medhurst, Walter Henry</persName></author><editor source="#420" role="pbl"><persName>堅夏書院</persName><persName type="9" role="pbl">jian xia shu yuan</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

@@ -46,7 +46,7 @@
                <head>書名: 真道辨正 / 鄞縣楊修誠譔<lb/>上海 : 美華書館, 1875<lb/>線裝1冊(7頁) ; 23.8公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">真道辨正</title><title source="#200|9">zhen dao bian zheng</title><note source="#290">鄞縣楊修誠譔</note><author source="#300" key="person_4659"><persName>(清)楊修誠</persName><persName type="9">yang xiu cheng</persName></author><editor source="#420" role="pbl"><persName>美華書館</persName><persName type="9" role="pbl">mei hua shu guan</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">真道辨正</title><title source="#200|9">zhen dao bian zheng</title><note source="#290">鄞縣楊修誠譔</note><author source="#300" key="person_4659"><persName xml:lang="chi">(清)楊修誠</persName><persName type="9">yang xiu cheng</persName></author><editor source="#420" role="pbl"><persName>美華書館</persName><persName type="9" role="pbl">mei hua shu guan</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

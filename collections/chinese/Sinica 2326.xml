@@ -46,7 +46,7 @@
                <head>書名: Tao-kao-go ing-nyiaen<lb/>Zong-hae [Shanghai] : Me-wo Shu-kwun, 1875<lb/>平裝1冊(34頁) ; 21.4公分<lb/>By J Butler<lb/>In romanised Ningpo dialect<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">Tao-kao-go ing-nyiaen</title><author source="#300" key="person_6797"><persName>Butler, John</persName></author><editor source="#420" role="pbl"><persName>Me-wo Shu-kwun</persName></editor><note source="#600">By J Butler</note><note source="#600">In romanised Ningpo dialect</note></msItem>         
+                  <title xml:lang="chi" source="#200">Tao-kao-go ing-nyiaen</title><author source="#300" key="person_6797"><persName xml:lang="chi">Butler, John</persName></author><editor source="#420" role="pbl"><persName>Me-wo Shu-kwun</persName></editor><note source="#600">By J Butler</note><note source="#600">In romanised Ningpo dialect</note></msItem>         
                </msContents>
                <physDesc>
                   

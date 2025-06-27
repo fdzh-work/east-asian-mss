@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">諸葛武侯文集 四卷</title>
+                     <title xml:lang="chi" source="#200">諸葛武侯文集 四卷</title>
                      <title source="#200|9">zhu ge wu hou wen ji</title>
                      <note source="#290">(蜀)諸葛亮撰</note>
-                     <author source="#300" key="person_6643"><persName>(蜀)諸葛亮</persName><persName type="9">zhu ge
+                     <author source="#300" key="person_6643"><persName xml:lang="chi">(蜀)諸葛亮</persName><persName type="9">zhu ge
                            liang</persName></author>
                   </msItem>
                </msContents>

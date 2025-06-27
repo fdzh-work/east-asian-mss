@@ -50,10 +50,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">外國史略 一卷</title>
+                     <title xml:lang="chi" source="#200">外國史略 一卷</title>
                      <title source="#200|9">wai guo shi lue</title>
                      <note source="#290">(英)馬禮遜撰</note>
-                     <author source="#300" key="person_6970"><persName>Morrison, Robert</persName></author>
+                     <author source="#300" key="person_6970"><persName xml:lang="chi">Morrison, Robert</persName></author>
                   </msItem>
                </msContents>
                <physDesc>

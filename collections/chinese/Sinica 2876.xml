@@ -47,10 +47,10 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">醫統正脈全書</title>
+                     <title xml:lang="chi" source="#200">醫統正脈全書</title>
                      <title source="#200|9">yi tong zheng mai quan shu</title>
                      <note source="#290">(明)王肯堂編</note>
-                     <author source="#300" key="person_2455"><persName>(明)王肯堂</persName><persName type="9">wang ken
+                     <author source="#300" key="person_2455"><persName xml:lang="chi">(明)王肯堂</persName><persName type="9">wang ken
                            tang</persName></author>
                      <note source="#409">清末江陰朱文震校刊民國癸亥[1923]北平中醫學社修補1986年北京中國書店重印殘損版以油印配補</note>
                      <editor source="#440" role="pbl"><persName>中國書店</persName><persName type="9" role="pbl">zhong guo shu dian</persName></editor>

@@ -49,12 +49,12 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">錢塘縣志 不分卷</title>
+                     <title xml:lang="chi" source="#200">錢塘縣志 不分卷</title>
                      <title source="#200|9">qian tang xian zhi</title>
                      <title type="variant" source="#230">萬曆錢塘縣志</title>
                      <title source="#230|9" type="variant">wan li qian tang xian zhi</title>
                      <note source="#290">(明)聶心湯撰</note>
-                     <author source="#300" key="person_2519"><persName>(明)聶心湯</persName><persName type="9">nie xin
+                     <author source="#300" key="person_2519"><persName xml:lang="chi">(明)聶心湯</persName><persName type="9">nie xin
                            tang</persName></author>
                      <note source="#600">光緒十九年[1893]刊</note>
                   </msItem>

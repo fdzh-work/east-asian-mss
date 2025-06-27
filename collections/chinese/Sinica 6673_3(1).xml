@@ -50,18 +50,18 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">啟禎兩朝剝復錄 十卷</title>
+                     <title xml:lang="chi" source="#200">啟禎兩朝剝復錄 十卷</title>
                      <title source="#200|9">qi zhen liang chao bo fu lu</title>
                      <note source="#290">(明)吳應箕纂</note>
-                     <author source="#300" key="person_2059"><persName>(明)吳應箕</persName><persName type="9">wu ying
+                     <author source="#300" key="person_2059"><persName xml:lang="chi">(明)吳應箕</persName><persName type="9">wu ying
                            ji</persName></author>
                      <note source="#600">清光緒二十八年[1902]刊</note>
                   </msItem>
                   <msItem n="2">
-                     <title source="#201">啟禎兩朝剝復錄札記 一卷</title>
+                     <title xml:lang="chi" source="#201">啟禎兩朝剝復錄札記 一卷</title>
                      <title source="#201|9">qi zhen liang chao bo fu lu zha ji</title>
                      <note source="#291">(民國)劉世珩撰</note>
-                     <author source="#301" key="person_3073"><persName>(民國)劉世珩</persName><persName type="9">liu shi
+                     <author source="#301" key="person_3073"><persName xml:lang="chi">(民國)劉世珩</persName><persName type="9">liu shi
                            heng</persName></author>
                   </msItem>
                </msContents>

@@ -49,13 +49,13 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">李相國論事集 六卷遺文一卷</title>
+                     <title xml:lang="chi" source="#200">李相國論事集 六卷遺文一卷</title>
                      <title source="#200|9">li xiang guo lun shi ji</title>
                      <note source="#290">(唐)李絳撰</note>
                      <note source="#290">(唐)蔣偕輯</note>
-                     <author source="#300" key="person_698"><persName>(唐)李絳</persName><persName type="9">li
+                     <author source="#300" key="person_698"><persName xml:lang="chi">(唐)李絳</persName><persName type="9">li
                            jiang</persName></author>
-                     <author source="#300" key="person_794"><persName>(唐)蔣偕</persName><persName type="9">jiang
+                     <author source="#300" key="person_794"><persName xml:lang="chi">(唐)蔣偕</persName><persName type="9">jiang
                            jie</persName></author>
                   </msItem>
                </msContents>

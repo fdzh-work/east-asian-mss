@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">洛陽伽藍記鉤沈 五卷</title>
+                     <title xml:lang="chi" source="#200">洛陽伽藍記鉤沈 五卷</title>
                      <title source="#200|9">luo yang qie lan ji gou chen</title>
                      <note source="#290">(民國)唐晏撰</note>
-                     <author source="#300" key="person_3219"><persName>(民國)震鈞</persName><persName type="9">zhen
+                     <author source="#300" key="person_3219"><persName xml:lang="chi">(民國)震鈞</persName><persName type="9">zhen
                            jun</persName></author>
                   </msItem>
                </msContents>

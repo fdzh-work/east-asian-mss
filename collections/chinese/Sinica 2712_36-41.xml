@@ -50,20 +50,20 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">京師坊巷志 十卷</title>
+                     <title xml:lang="chi" source="#200">京師坊巷志 十卷</title>
                      <title source="#200|9">jing shi fang xiang zhi</title>
                      <note source="#290">(清)朱一新, (清)繆荃孫同撰</note>
-                     <author source="#300" key="person_4376"><persName>(清)朱一新</persName><persName type="9">zhu yi
+                     <author source="#300" key="person_4376"><persName xml:lang="chi">(清)朱一新</persName><persName type="9">zhu yi
                            xin</persName></author>
-                     <author source="#300" key="person_5321"><persName>(清)繆荃孫</persName><persName type="9">miao quan
+                     <author source="#300" key="person_5321"><persName xml:lang="chi">(清)繆荃孫</persName><persName type="9">miao quan
                            sun</persName></author>
                      <note source="#600">民國戊午[1918]刊</note>
                   </msItem>
                   <msItem n="2">
-                     <title source="#201">附 京師坊巷志考正 一卷</title>
+                     <title xml:lang="chi" source="#201">附 京師坊巷志考正 一卷</title>
                      <title source="#201|9">jing shi fang xiang zhi kao zheng</title>
                      <note source="#291">劉承幹撰</note>
-                     <author source="#301" key="person_7100"><persName>劉承幹</persName><persName type="9">liu cheng
+                     <author source="#301" key="person_7100"><persName xml:lang="chi">劉承幹</persName><persName type="9">liu cheng
                            gan</persName></author>
                   </msItem>
                </msContents>

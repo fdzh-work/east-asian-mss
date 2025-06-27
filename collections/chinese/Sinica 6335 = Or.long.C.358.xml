@@ -46,7 +46,7 @@
                <head>書名: 明堂圖 / (元)滑壽撰 ; (明)吳崑校<lb/>清乾隆壬寅[1782]吳郡魏玉麟刊<lb/>4幅 ; 106 x 33公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">明堂圖</title><title source="#200|9">ming tang tu</title><note source="#290">(元)滑壽撰</note><note source="#290">(明)吳崑校</note><author source="#300" key="person_196"><persName>(元)滑壽</persName><persName type="9">hua shou</persName></author><author source="#300" key="person_2056"><persName>(明)吳崑</persName><persName type="9">wu kun</persName></author><note source="#409">清乾隆壬寅[1782]吳郡魏玉麟刊</note></msItem>         
+                  <title xml:lang="chi" source="#200">明堂圖</title><title source="#200|9">ming tang tu</title><note source="#290">(元)滑壽撰</note><note source="#290">(明)吳崑校</note><author source="#300" key="person_196"><persName xml:lang="chi">(元)滑壽</persName><persName type="9">hua shou</persName></author><author source="#300" key="person_2056"><persName xml:lang="chi">(明)吳崑</persName><persName type="9">wu kun</persName></author><note source="#409">清乾隆壬寅[1782]吳郡魏玉麟刊</note></msItem>         
                </msContents>
                <physDesc>
                   

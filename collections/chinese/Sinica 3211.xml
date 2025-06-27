@@ -47,10 +47,10 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">景刊宋金元明本詞五十種</title>
+                     <title xml:lang="chi" source="#200">景刊宋金元明本詞五十種</title>
                      <title source="#200|9">ying kan song jin yuan ming ben ci wu shi zhong</title>
                      <note source="#290">中國書店輯</note>
-                     <author><persName>中國書店</persName><persName type="9">zhong guo shu
+                     <author><persName xml:lang="chi">中國書店</persName><persName type="9">zhong guo shu
                            dian</persName></author>
                      <note source="#409">一九八一年北京中國書店合輯修補重印民國刊板</note>
                      <editor source="#440" role="pbl"><persName>中國書店</persName><persName type="9" role="pbl">zhong guo shu dian</persName></editor>

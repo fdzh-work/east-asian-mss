@@ -49,14 +49,14 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">王懷祖先生說文解字校勘記殘藁 一卷</title>
+                     <title xml:lang="chi" source="#200">王懷祖先生說文解字校勘記殘藁 一卷</title>
                      <title source="#200|9">wang huai zu xian sheng shuo wen jie zi jiao kan ji can
                         gao</title>
                      <note source="#290">(清)王念孫撰</note>
                      <note source="#290">(清)桂馥編</note>
-                     <author source="#300" key="person_5076"><persName>(清)王念孫</persName><persName type="9">wang nian
+                     <author source="#300" key="person_5076"><persName xml:lang="chi">(清)王念孫</persName><persName type="9">wang nian
                            sun</persName></author>
-                     <author source="#300" key="person_4623"><persName>(清)桂馥</persName><persName type="9">gui
+                     <author source="#300" key="person_4623"><persName xml:lang="chi">(清)桂馥</persName><persName type="9">gui
                            fu</persName></author>
                   </msItem>
                </msContents>

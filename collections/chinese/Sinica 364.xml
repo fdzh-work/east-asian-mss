@@ -47,7 +47,7 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">十三經注疏</title>
+                     <title xml:lang="chi" source="#200">十三經注疏</title>
                      <title source="#200|9">shi san jing zhu shu</title>
                      <note source="#409">清同治十年[1871]廣東書局重刊殿本</note>
                      <editor source="#440" role="pbl"><persName>廣東書局</persName><persName type="9" role="pbl">guang dong shu ju</persName></editor>

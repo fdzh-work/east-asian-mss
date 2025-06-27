@@ -47,10 +47,10 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">勵耘書屋叢刻</title>
+                     <title xml:lang="chi" source="#200">勵耘書屋叢刻</title>
                      <title source="#200|9">li yun shu wu cong ke</title>
                      <note source="#290">陳垣撰</note>
-                     <author source="#300" key="person_7192"><persName>陳垣</persName><persName type="9">chen
+                     <author source="#300" key="person_7192"><persName xml:lang="chi">陳垣</persName><persName type="9">chen
                            yuan</persName></author>
                      <note source="#409">民國二十至三十三年[1931-1944]刊1982年北京中國書店重印本</note>
                      <editor source="#440" role="pbl"><persName>中國書店</persName><persName type="9" role="pbl">zhong guo shu dian</persName></editor>

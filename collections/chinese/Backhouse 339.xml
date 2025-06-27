@@ -47,12 +47,12 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">古經解彙函</title>
+                     <title xml:lang="chi" source="#200">古經解彙函</title>
                      <title source="#200|9">gu jing jie hui han</title>
-                     <title source="#200">附 小學彙函</title>
+                     <title xml:lang="chi" source="#200">附 小學彙函</title>
                      <title source="#200|9">xiao xue hui han</title>
                      <note source="#290">(清)鍾謙鈞等輯</note>
-                     <author source="#300" key="person_5964"><persName>(清)鍾謙鈞</persName><persName type="9">zhong qian
+                     <author source="#300" key="person_5964"><persName xml:lang="chi">(清)鍾謙鈞</persName><persName type="9">zhong qian
                            jun</persName></author>
                      <note source="#409">清光緒己丑[1889]湘南書局刊本</note>
                      <editor source="#440" role="pbl"><persName>湘南書局</persName><persName type="9" role="pbl">xiang nan shu ju</persName></editor>

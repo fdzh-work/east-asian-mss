@@ -49,12 +49,12 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">黃氏日抄古今紀要逸編 一卷</title>
+                     <title xml:lang="chi" source="#200">黃氏日抄古今紀要逸編 一卷</title>
                      <title source="#200|9">huang shi ri chao gu jin ji yao yi bian</title>
                      <title type="variant" source="#230">古今紀要逸編</title>
                      <title source="#230|9" type="variant">gu jin ji yao yi bian</title>
                      <note source="#290">(宋)黃震撰</note>
-                     <author source="#300" key="person_1841"><persName>(宋)黃震</persName><persName type="9">huang
+                     <author source="#300" key="person_1841"><persName xml:lang="chi">(宋)黃震</persName><persName type="9">huang
                            zhen</persName></author>
                   </msItem>
                </msContents>

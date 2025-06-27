@@ -47,10 +47,10 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">群書拾補初編 三十九卷</title>
+                     <title xml:lang="chi" source="#200">群書拾補初編 三十九卷</title>
                      <title source="#200|9">qun shu shi bu chu bian</title>
                      <note source="#290">(清)盧文弨撰</note>
-                     <author source="#300" key="person_5212"><persName>(清)盧文弨</persName><persName type="9">lu wen
+                     <author source="#300" key="person_5212"><persName xml:lang="chi">(清)盧文弨</persName><persName type="9">lu wen
                            chao</persName></author>
                      <note source="#409">清光緒丁亥[1887]上海蜚英館縮印抱經堂叢書本</note>
                      <editor source="#440" role="pbl"><persName>蜚英館</persName><persName type="9" role="pbl">fei ying guan</persName></editor>

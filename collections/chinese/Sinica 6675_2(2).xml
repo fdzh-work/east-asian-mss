@@ -49,9 +49,9 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">南省公餘錄 八卷</title>
+                     <title xml:lang="chi" source="#200">南省公餘錄 八卷</title>
                      <title source="#200|9">nan sheng gong yu lu</title>
-                     <author source="#300" key="person_4640"><persName>(清)梁章鉅</persName><persName type="9">liang zhang
+                     <author source="#300" key="person_4640"><persName xml:lang="chi">(清)梁章鉅</persName><persName type="9">liang zhang
                            ju</persName></author>
                   </msItem>
                </msContents>

@@ -51,12 +51,12 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">棲霞長春子丘神仙磻溪集詞 一卷</title>
+                     <title xml:lang="chi" source="#200">棲霞長春子丘神仙磻溪集詞 一卷</title>
                      <title source="#200|9">qi xia chang chun zi qiu shen xian pan xi ji ci</title>
                      <title type="variant" source="#230">磻溪詞</title>
                      <title source="#230|9" type="variant">pan xi ci</title>
                      <note source="#290">(元)丘處機撰</note>
-                     <author source="#300" key="person_51"><persName>(元)丘處機</persName><persName type="9">qiu chu
+                     <author source="#300" key="person_51"><persName xml:lang="chi">(元)丘處機</persName><persName type="9">qiu chu
                            ji</persName></author>
                      <note source="#600">景刊金本</note>
                   </msItem>

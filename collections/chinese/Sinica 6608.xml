@@ -49,13 +49,13 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">中國六大政治家第一﹑二編合冊</title>
+                     <title xml:lang="chi" source="#200">中國六大政治家第一﹑二編合冊</title>
                      <title source="#200|9">zhong guo liu da zheng zhi jia di yi er bian he
                         ce</title>
-                     <title source="#200">附 中國法理學發達史論</title>
+                     <title xml:lang="chi" source="#200">附 中國法理學發達史論</title>
                      <title source="#200|9">zhong guo fa li xue fa da shi lun</title>
                      <note source="#290">(民國)梁啟超著作</note>
-                     <author source="#300" key="person_3140"><persName>(民國)梁啟超</persName><persName type="9">liang qi
+                     <author source="#300" key="person_3140"><persName xml:lang="chi">(民國)梁啟超</persName><persName type="9">liang qi
                            chao</persName></author>
                      <note source="#409">清宣統二年[1910]上海廣智書局排印本</note>
                      <editor source="#440" role="pbl"><persName>廣智書局</persName><persName type="9" role="pbl">guang zhi shu ju</persName></editor>
@@ -63,7 +63,7 @@
                         <title>管子</title>
                         <title source="9">guan zi</title>
                         <note source="290">(民國)梁啟超述</note>
-                        <author key="person_3140"><persName>(民國)梁啟超</persName><persName type="9">liang qi
+                        <author key="person_3140"><persName xml:lang="chi">(民國)梁啟超</persName><persName type="9">liang qi
                               chao</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20170803/16:00:24|odh -->
@@ -73,7 +73,7 @@
                         <title>商君</title>
                         <title source="9">shang jun</title>
                         <note source="290">(清)麥孟華述</note>
-                        <author key="person_6347"><persName>(清)麥孟華</persName><persName type="9">mai meng
+                        <author key="person_6347"><persName xml:lang="chi">(清)麥孟華</persName><persName type="9">mai meng
                               hua</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20170803/16:02:09|odh -->

@@ -46,7 +46,7 @@
                <head>書名: 民眾聖歌集 / 趙紫宸作歌<lb/>北平, [1931年序]<lb/>線裝1冊 ; 20公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">民眾聖歌集</title><title source="#200|9">min zhong sheng ge ji</title><note source="#290">趙紫宸作歌</note><author source="#300" key="person_7183"><persName>趙紫宸</persName><persName type="9">zhao zi chen</persName></author></msItem>         
+                  <title xml:lang="chi" source="#200">民眾聖歌集</title><title source="#200|9">min zhong sheng ge ji</title><note source="#290">趙紫宸作歌</note><author source="#300" key="person_7183"><persName xml:lang="chi">趙紫宸</persName><persName type="9">zhao zi chen</persName></author></msItem>         
                </msContents>
                <physDesc>
                   

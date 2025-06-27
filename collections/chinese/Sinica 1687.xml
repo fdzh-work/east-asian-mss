@@ -46,7 +46,7 @@
                <head>書名: 福音選篇<lb/>京師[Peking] : 英國施醫院, 1863<lb/>線裝1冊(43頁) ; 21.9公分<lb/>Compiled and tr. by J Edkins<lb/>pecimen of new NT version in Mandarin; preface in Classical<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">福音選篇</title><title source="#200|9">fu yin xuan pian</title><author source="#300" key="person_6840"><persName>Edkins, Joseph</persName></author><editor source="#420" role="pbl"><persName>英國施醫院</persName><persName type="9" role="pbl">ying guo shi yi yuan</persName></editor><note source="#600">Compiled and tr. by J Edkins</note><note source="#600">pecimen of new NT version in Mandarin; preface in Classical</note></msItem>         
+                  <title xml:lang="chi" source="#200">福音選篇</title><title source="#200|9">fu yin xuan pian</title><author source="#300" key="person_6840"><persName xml:lang="chi">Edkins, Joseph</persName></author><editor source="#420" role="pbl"><persName>英國施醫院</persName><persName type="9" role="pbl">ying guo shi yi yuan</persName></editor><note source="#600">Compiled and tr. by J Edkins</note><note source="#600">pecimen of new NT version in Mandarin; preface in Classical</note></msItem>         
                </msContents>
                <physDesc>
                   

@@ -46,7 +46,7 @@
                <head>書名: 官話七日報 = The Chinese weekly news<lb/>上海 : 美華書館[發售] : 商務印書館[代印], [1890年代]<lb/>單張 ; 26公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">官話七日報 = The Chinese weekly news</title><title source="#200|9">guan hua qi ri bao</title><editor source="#420" role="pbl"><persName>美華書館</persName><persName type="9" role="pbl">mei hua shu guan</persName></editor><editor source="#420" role="pbl"><persName>商務印書館</persName><persName type="9" role="pbl">shang wu yin shu guan</persName></editor><editor source="#440" role="pbl"><persName>漢報館</persName><persName type="9" role="pbl">han bao guan</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">官話七日報 = The Chinese weekly news</title><title source="#200|9">guan hua qi ri bao</title><editor source="#420" role="pbl"><persName>美華書館</persName><persName type="9" role="pbl">mei hua shu guan</persName></editor><editor source="#420" role="pbl"><persName>商務印書館</persName><persName type="9" role="pbl">shang wu yin shu guan</persName></editor><editor source="#440" role="pbl"><persName>漢報館</persName><persName type="9" role="pbl">han bao guan</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">雪橋詩話三集 十二卷</title>
+                     <title xml:lang="chi" source="#200">雪橋詩話三集 十二卷</title>
                      <title source="#200|9">xue qiao shi hua san ji</title>
                      <note source="#290">(清)楊鍾羲撰</note>
-                     <author source="#300" key="person_4708"><persName>(清)楊鍾羲</persName><persName type="9">yang zhong
+                     <author source="#300" key="person_4708"><persName xml:lang="chi">(清)楊鍾羲</persName><persName type="9">yang zhong
                            xi</persName></author>
                      <note source="#600">民國己未[1919]刊</note>
                   </msItem>

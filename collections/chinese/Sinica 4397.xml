@@ -46,8 +46,8 @@
                <head>書名: 勸世了解歌<lb/>通俗歌廣播化<lb/>民國五十年[1961]臺北排印再版本竹林書局發行<lb/>毛裝1冊 ; 16公分<lb/>封面題名《勸世了解通俗》<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem><editor source="#440" role="pbl"><persName>竹林書局</persName><persName type="9" role="pbl">zhu lin shu ju</persName></editor><note source="#409">民國五十年[1961]臺北排印再版本竹林書局發行</note><note source="#600">封面題名《勸世了解通俗》</note><msItem n="1">
-                  <title source="#200">勸世了解歌</title><title source="#200|9">quan shi liao jie ge</title><title type="variant" source="#230">勸世了解通俗</title><title source="#230|9" type="variant">quan shi liao jie tong su</title></msItem>         
-               <msItem n="2"><title source="#201">通俗歌廣播化</title><title source="#201|9">tong su ge guang bo hua</title></msItem></msItem></msContents>
+                  <title xml:lang="chi" source="#200">勸世了解歌</title><title source="#200|9">quan shi liao jie ge</title><title type="variant" source="#230">勸世了解通俗</title><title source="#230|9" type="variant">quan shi liao jie tong su</title></msItem>         
+               <msItem n="2"><title xml:lang="chi" source="#201">通俗歌廣播化</title><title source="#201|9">tong su ge guang bo hua</title></msItem></msItem></msContents>
                <physDesc>
                   
                   <objectDesc>

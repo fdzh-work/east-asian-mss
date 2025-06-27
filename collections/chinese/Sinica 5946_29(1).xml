@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">杭州上天竺講寺志 十五卷</title>
+                     <title xml:lang="chi" source="#200">杭州上天竺講寺志 十五卷</title>
                      <title source="#200|9">hang zhou shang tian zhu jiang si zhi</title>
                      <note source="#290">(明釋)廣賓撰</note>
-                     <author source="#300" key="person_2844"><persName>(明釋)廣賓</persName><persName type="9">guang
+                     <author source="#300" key="person_2844"><persName xml:lang="chi">(明釋)廣賓</persName><persName type="9">guang
                            bin</persName></author>
                      <note source="#600">光緒丁酉[1897]刊</note>
                   </msItem>

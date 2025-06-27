@@ -48,10 +48,10 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">羣碧樓自箸書</title>
+                     <title xml:lang="chi" source="#200">羣碧樓自箸書</title>
                      <title source="#200|9">qun bi lou zi zhu shu</title>
                      <note source="#290">(民國)鄧邦述撰</note>
-                     <author source="#300" key="person_3199"><persName>(民國)鄧邦述</persName><persName type="9">deng bang
+                     <author source="#300" key="person_3199"><persName xml:lang="chi">(民國)鄧邦述</persName><persName type="9">deng bang
                            shu</persName></author>
                      <note source="#409">民國江寧鄧氏刊1986年江蘇廣陵古籍刻印社重印本</note>
                      <editor source="#440" role="pbl"><persName>江蘇廣陵古籍刻印社</persName><persName type="9" role="pbl">jiang su guang ling gu ji ke yin
@@ -59,7 +59,7 @@
                      <msItem n="1">
                         <title>羣碧樓詩鈔 四卷</title>
                         <title source="9">qun bi lou shi chao</title>
-                        <author key="person_3199"><persName>(民國)鄧邦述</persName><persName type="9">deng bang
+                        <author key="person_3199"><persName xml:lang="chi">(民國)鄧邦述</persName><persName type="9">deng bang
                               shu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150121/13:24:38|odh -->
@@ -70,7 +70,7 @@
                         <title source="9">qun bi lou shan ben shu lu</title>
                         <title>寒瘦山房鬻存善本書目 七卷</title>
                         <title source="9">han shou shan fang yu cun shan ben shu mu</title>
-                        <author key="person_3199"><persName>(民國)鄧邦述</persName><persName type="9">deng bang
+                        <author key="person_3199"><persName xml:lang="chi">(民國)鄧邦述</persName><persName type="9">deng bang
                               shu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150121/13:29:36|odh -->
@@ -79,7 +79,7 @@
                      <msItem n="3">
                         <title>漚夢詞 四卷</title>
                         <title source="9">ou meng ci</title>
-                        <author key="person_3199"><persName>(民國)鄧邦述</persName><persName type="9">deng bang
+                        <author key="person_3199"><persName xml:lang="chi">(民國)鄧邦述</persName><persName type="9">deng bang
                               shu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150121/13:31:38|odh -->
@@ -88,7 +88,7 @@
                      <msItem n="4">
                         <title>綴玉吟 一卷</title>
                         <title source="9">zhui yu yin</title>
-                        <author key="person_3199"><persName>(民國)鄧邦述</persName><persName type="9">deng bang
+                        <author key="person_3199"><persName xml:lang="chi">(民國)鄧邦述</persName><persName type="9">deng bang
                               shu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150121/13:34:43|odh -->

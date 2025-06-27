@@ -48,10 +48,10 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">唐人四集</title>
+                     <title xml:lang="chi" source="#200">唐人四集</title>
                      <title source="#200|9">tang ren si ji</title>
                      <note source="#290">(明)毛晉編</note>
-                     <author source="#300" key="person_2368"><persName>(明)毛晉</persName><persName type="9">mao
+                     <author source="#300" key="person_2368"><persName xml:lang="chi">(明)毛晉</persName><persName type="9">mao
                            jin</persName></author>
                      <note source="#409">明崇禎中虞山毛氏汲古閣刊本</note>
                      <editor source="#440" role="pbl"><persName>汲古閣</persName><persName type="9" role="pbl">ji gu ge</persName></editor>
@@ -59,7 +59,7 @@
                         <title>歌詩編 四卷集外詩一卷</title>
                         <title source="9">ge shi bian</title>
                         <note source="290">(唐)李賀撰</note>
-                        <author key="person_707"><persName>(唐)李賀</persName><persName type="9">li
+                        <author key="person_707"><persName xml:lang="chi">(唐)李賀</persName><persName type="9">li
                            he</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20130809/11:22:21|odh -->
@@ -69,7 +69,7 @@
                         <title>唐英歌詩 三卷</title>
                         <title source="9">tang ying ge shi</title>
                         <note source="290">(唐)吳融撰</note>
-                        <author key="person_585"><persName>(唐)吳融</persName><persName type="9">wu
+                        <author key="person_585"><persName xml:lang="chi">(唐)吳融</persName><persName type="9">wu
                            rong</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20130809/11:26:49|odh -->
@@ -82,7 +82,7 @@
                         <title>唐風集 三卷</title>
                         <title source="9">tang feng ji</title>
                         <note source="290">(唐)杜荀鶴撰</note>
-                        <author key="person_721"><persName>(唐)杜荀鶴</persName><persName type="9">du xun
+                        <author key="person_721"><persName xml:lang="chi">(唐)杜荀鶴</persName><persName type="9">du xun
                            he</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20130809/11:28:41|odh -->
@@ -93,17 +93,17 @@
                         <title source="9">dou shi lian zhu ji</title>
                         <note source="290">(唐)竇常, (唐)竇牟, (唐)竇群, (唐)竇庠, (唐)竇鞏撰</note>
                         <note source="290">(唐)褚藏言輯</note>
-                        <author key="person_777"><persName>(唐)竇常</persName><persName type="9">dou
+                        <author key="person_777"><persName xml:lang="chi">(唐)竇常</persName><persName type="9">dou
                            chang</persName></author>
-                        <author key="person_779"><persName>(唐)竇牟</persName><persName type="9">dou
+                        <author key="person_779"><persName xml:lang="chi">(唐)竇牟</persName><persName type="9">dou
                            mou</persName></author>
-                        <author key="person_780"><persName>(唐)竇群</persName><persName type="9">dou
+                        <author key="person_780"><persName xml:lang="chi">(唐)竇群</persName><persName type="9">dou
                            qun</persName></author>
-                        <author key="person_778"><persName>(唐)竇庠</persName><persName type="9">dou
+                        <author key="person_778"><persName xml:lang="chi">(唐)竇庠</persName><persName type="9">dou
                            xiang</persName></author>
-                        <author key="person_783"><persName>(唐)竇鞏</persName><persName type="9">dou
+                        <author key="person_783"><persName xml:lang="chi">(唐)竇鞏</persName><persName type="9">dou
                            gong</persName></author>
-                        <author key="person_816"><persName>(唐)褚藏言</persName><persName type="9">chu cang
+                        <author key="person_816"><persName xml:lang="chi">(唐)褚藏言</persName><persName type="9">chu cang
                               yan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20130809/11:29:29|odh -->

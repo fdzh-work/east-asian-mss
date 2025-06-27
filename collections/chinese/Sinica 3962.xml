@@ -46,7 +46,7 @@
                <head>書名: 福音輯訓<lb/>上海 : 美華書館, 1903<lb/>線裝1冊(2, 2, 110頁) ; 24.8公分<lb/>By S.B. Drake<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">福音輯訓</title><title source="#200|9">fu yin ji xun</title><author source="#300" key="person_6835"><persName>Drake, Samuel B</persName></author><editor source="#420" role="pbl"><persName>美華書館</persName><persName type="9" role="pbl">mei hua shu guan</persName></editor><note source="#600">By S.B. Drake</note></msItem>         
+                  <title xml:lang="chi" source="#200">福音輯訓</title><title source="#200|9">fu yin ji xun</title><author source="#300" key="person_6835"><persName xml:lang="chi">Drake, Samuel B</persName></author><editor source="#420" role="pbl"><persName>美華書館</persName><persName type="9" role="pbl">mei hua shu guan</persName></editor><note source="#600">By S.B. Drake</note></msItem>         
                </msContents>
                <physDesc>
                   

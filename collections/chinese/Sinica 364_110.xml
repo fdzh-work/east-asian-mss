@@ -50,16 +50,16 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">孝經注疏 九卷</title>
+                     <title xml:lang="chi" source="#200">孝經注疏 九卷</title>
                      <title source="#200|9">xiao jing zhu shu</title>
                      <note source="#290">(唐)玄宗注</note>
                      <note source="#290">(唐)陸德明音義</note>
                      <note source="#290">(宋)邢昺校</note>
-                     <author source="#300" key="person_753"><persName>(唐)玄宗</persName><persName type="9">xuan
+                     <author source="#300" key="person_753"><persName xml:lang="chi">(唐)玄宗</persName><persName type="9">xuan
                            zong</persName></author>
-                     <author source="#300" key="person_854"><persName>(唐)陸德明</persName><persName type="9">lu de
+                     <author source="#300" key="person_854"><persName xml:lang="chi">(唐)陸德明</persName><persName type="9">lu de
                            ming</persName></author>
-                     <author source="#300" key="person_1681"><persName>(宋)邢昺</persName><persName type="9">xing
+                     <author source="#300" key="person_1681"><persName xml:lang="chi">(宋)邢昺</persName><persName type="9">xing
                            bing</persName></author>
                   </msItem>
                </msContents>

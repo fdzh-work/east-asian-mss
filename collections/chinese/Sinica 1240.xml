@@ -46,7 +46,7 @@
                <head>書名: 種痘捷法<lb/>[Canton] : 博濟醫局, 咸豐九年[1859]<lb/>線裝1冊(4頁) ; 16.6公分<lb/>By J G Kerr<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">種痘捷法</title><title source="#200|9">zhong dou jie fa</title><author source="#300" key="person_6911"><persName>Kerr, John Glasgow</persName></author><editor source="#420" role="pbl"><persName>博濟醫局</persName><persName type="9" role="pbl">bo ji yi ju</persName></editor><note source="#600">By J G Kerr</note></msItem>         
+                  <title xml:lang="chi" source="#200">種痘捷法</title><title source="#200|9">zhong dou jie fa</title><author source="#300" key="person_6911"><persName xml:lang="chi">Kerr, John Glasgow</persName></author><editor source="#420" role="pbl"><persName>博濟醫局</persName><persName type="9" role="pbl">bo ji yi ju</persName></editor><note source="#600">By J G Kerr</note></msItem>         
                </msContents>
                <physDesc>
                   

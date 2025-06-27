@@ -46,7 +46,7 @@
                <head>書名: 善終誌傳<lb/>[Amoy] : 廈門禮拜堂, 道光二十六年[1846]<lb/>線裝1冊(5頁) ; 19.0公分<lb/>By J Stronach<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">善終誌傳</title><title source="#200|9">shan zhong zhi zhuan</title><author source="#300" key="person_7047"><persName>Stronach, John</persName></author><editor source="#420" role="pbl"><persName>廈門禮拜堂</persName><persName type="9" role="pbl">xia men li bai tang</persName></editor><note source="#600">By J Stronach</note></msItem>         
+                  <title xml:lang="chi" source="#200">善終誌傳</title><title source="#200|9">shan zhong zhi zhuan</title><author source="#300" key="person_7047"><persName xml:lang="chi">Stronach, John</persName></author><editor source="#420" role="pbl"><persName>廈門禮拜堂</persName><persName type="9" role="pbl">xia men li bai tang</persName></editor><note source="#600">By J Stronach</note></msItem>         
                </msContents>
                <physDesc>
                   

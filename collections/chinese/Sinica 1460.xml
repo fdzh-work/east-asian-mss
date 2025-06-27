@@ -46,7 +46,7 @@
                <head>書名: 三字經<lb/>天津 : 東門內耶穌堂, 1863<lb/>線裝1冊(9頁) ; 20.3公分<lb/>By H Blodget<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">三字經</title><title source="#200|9">san zi jing</title><author source="#300" key="person_6775"><persName>Blodget, Henry</persName></author><editor source="#420" role="pbl"><persName>東門內耶穌堂</persName><persName type="9" role="pbl">dong men nei ye su tang</persName></editor><note source="#600">By H Blodget</note></msItem>         
+                  <title xml:lang="chi" source="#200">三字經</title><title source="#200|9">san zi jing</title><author source="#300" key="person_6775"><persName xml:lang="chi">Blodget, Henry</persName></author><editor source="#420" role="pbl"><persName>東門內耶穌堂</persName><persName type="9" role="pbl">dong men nei ye su tang</persName></editor><note source="#600">By H Blodget</note></msItem>         
                </msContents>
                <physDesc>
                   

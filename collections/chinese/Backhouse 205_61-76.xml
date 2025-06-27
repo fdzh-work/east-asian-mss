@@ -50,17 +50,17 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">晉書 一百三十卷</title>
+                     <title xml:lang="chi" source="#200">晉書 一百三十卷</title>
                      <title source="#200|9">jin shu</title>
                      <note source="#290">(唐)太宗撰</note>
-                     <author source="#300" key="person_601"><persName>(唐)太宗</persName><persName type="9">tai
+                     <author source="#300" key="person_601"><persName xml:lang="chi">(唐)太宗</persName><persName type="9">tai
                            zong</persName></author>
                   </msItem>
                   <msItem n="2">
-                     <title source="#201">晉書音義 一卷</title>
+                     <title xml:lang="chi" source="#201">晉書音義 一卷</title>
                      <title source="#201|9">jin shu yin yi</title>
                      <note source="#291">(唐)何超撰</note>
-                     <author source="#301" key="person_556"><persName>(唐)何超</persName><persName type="9">he
+                     <author source="#301" key="person_556"><persName xml:lang="chi">(唐)何超</persName><persName type="9">he
                            chao</persName></author>
                   </msItem>
                </msContents>

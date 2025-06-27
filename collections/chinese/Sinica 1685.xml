@@ -46,7 +46,7 @@
                <head>書名: 始古論<lb/>[Shanghai], [1865]<lb/>線裝1冊(26頁) ; 22.7公分<lb/>Running title: 「雙千字文」<lb/>By W A P Martin<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">始古論</title><title source="#200|9">shi gu lun</title><title type="variant" source="#230">雙千字文</title><title source="#230|9" type="variant">shuang qian zi wen</title><author source="#300" key="person_6952"><persName>Martin, William Alexander Parsons</persName></author><note source="#600">Running title: 「雙千字文」</note><note source="#600">By W A P Martin</note></msItem>         
+                  <title xml:lang="chi" source="#200">始古論</title><title source="#200|9">shi gu lun</title><title type="variant" source="#230">雙千字文</title><title source="#230|9" type="variant">shuang qian zi wen</title><author source="#300" key="person_6952"><persName xml:lang="chi">Martin, William Alexander Parsons</persName></author><note source="#600">Running title: 「雙千字文」</note><note source="#600">By W A P Martin</note></msItem>         
                </msContents>
                <physDesc>
                   

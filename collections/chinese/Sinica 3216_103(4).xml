@@ -50,15 +50,15 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">孔衍春秋後語 一卷</title>
+                     <title xml:lang="chi" source="#200">孔衍春秋後語 一卷</title>
                      <title source="#200|9">kong yan chun qiu hou yu</title>
                      <title type="variant" source="#230">春秋後語</title>
                      <title source="#230|9" type="variant">chun qiu hou yu</title>
                      <note source="#290">(晉)孔衍撰</note>
                      <note source="#290">(唐)盧藏用注</note>
-                     <author source="#300" key="person_2874"><persName>(晉)孔衍</persName><persName type="9">kong
+                     <author source="#300" key="person_2874"><persName xml:lang="chi">(晉)孔衍</persName><persName type="9">kong
                            yan</persName></author>
-                     <author source="#300" key="person_772"><persName>(唐)盧藏用</persName><persName type="9">lu zang
+                     <author source="#300" key="person_772"><persName xml:lang="chi">(唐)盧藏用</persName><persName type="9">lu zang
                            yong</persName></author>
                   </msItem>
                </msContents>

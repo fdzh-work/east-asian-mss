@@ -49,12 +49,12 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">花外集 一卷</title>
+                     <title xml:lang="chi" source="#200">花外集 一卷</title>
                      <title source="#200|9">hua wai ji</title>
                      <title type="variant" source="#230">碧山樂府</title>
                      <title source="#230|9" type="variant">bi shan yue fu</title>
                      <note source="#290">(宋)王沂孫撰</note>
-                     <author source="#300" key="person_1435"><persName>(宋)王沂孫</persName><persName type="9">wang yi
+                     <author source="#300" key="person_1435"><persName xml:lang="chi">(宋)王沂孫</persName><persName type="9">wang yi
                            sun</persName></author>
                      <note source="#600">一名《碧山樂府》</note>
                   </msItem>

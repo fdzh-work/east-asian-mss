@@ -46,7 +46,7 @@
                <head>書名: 聖書大道<lb/>[Shanghai], [1861?]<lb/>線裝1冊(53頁) ; 21.2公分<lb/>By W Muirhead<lb/>Lacks title-page; title taken from beginning of text<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">聖書大道</title><title source="#200|9">sheng shu da dao</title><author source="#300" key="person_6976"><persName>Muirhead, William</persName></author><note source="#600">By W Muirhead</note><note source="#600">Lacks title-page; title taken from beginning of text</note></msItem>         
+                  <title xml:lang="chi" source="#200">聖書大道</title><title source="#200|9">sheng shu da dao</title><author source="#300" key="person_6976"><persName xml:lang="chi">Muirhead, William</persName></author><note source="#600">By W Muirhead</note><note source="#600">Lacks title-page; title taken from beginning of text</note></msItem>         
                </msContents>
                <physDesc>
                   

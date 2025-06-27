@@ -46,7 +46,7 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">聖經</title><title source="#200|9">sheng jing</title><author source="#300" key="person_6919"><persName>Lassar, Joannes</persName></author><author source="#300" key="person_6948"><persName>Marshman, Joshua</persName></author><note source="#600">The title does not appear on the book, and has been supplied</note><note source="#600">Tr. by J Lassar &amp; J Marshman</note><note source="#600">Each fasc. has a printed label indicating its contents, followed by "Printed at Serampore with metallic moveable characters" and the date</note></msItem>         
+                  <title xml:lang="chi" source="#200">聖經</title><title source="#200|9">sheng jing</title><author source="#300" key="person_6919"><persName xml:lang="chi">Lassar, Joannes</persName></author><author source="#300" key="person_6948"><persName xml:lang="chi">Marshman, Joshua</persName></author><note source="#600">The title does not appear on the book, and has been supplied</note><note source="#600">Tr. by J Lassar &amp; J Marshman</note><note source="#600">Each fasc. has a printed label indicating its contents, followed by "Printed at Serampore with metallic moveable characters" and the date</note></msItem>         
                </msContents>
                <physDesc>
                   

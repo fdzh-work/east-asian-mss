@@ -50,13 +50,13 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">金匱鉤玄 三卷</title>
+                     <title xml:lang="chi" source="#200">金匱鉤玄 三卷</title>
                      <title source="#200|9">jin gui gou xuan</title>
                      <note source="#290">(元)朱震亨撰</note>
                      <note source="#290">(明)戴元禮錄補</note>
-                     <author source="#300" key="person_154"><persName>(元)朱震亨</persName><persName type="9">zhu zhen
+                     <author source="#300" key="person_154"><persName xml:lang="chi">(元)朱震亨</persName><persName type="9">zhu zhen
                            heng</persName></author>
-                     <author source="#300" key="person_2240"><persName>(明)戴元禮</persName><persName type="9">dai yuan
+                     <author source="#300" key="person_2240"><persName xml:lang="chi">(明)戴元禮</persName><persName type="9">dai yuan
                            li</persName></author>
                   </msItem>
                </msContents>

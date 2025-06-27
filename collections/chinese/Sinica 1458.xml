@@ -46,7 +46,7 @@
                <head>書名: 聖會錄要<lb/>[Hong Kong], 1875<lb/>線裝1冊(7頁) ; 20.4公分<lb/>By A B Hutchinson<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">聖會錄要</title><title source="#200|9">sheng hui lu yao</title><author source="#300" key="person_6897"><persName>Hutchinson, Arthur B</persName></author><note source="#600">By A B Hutchinson</note></msItem>         
+                  <title xml:lang="chi" source="#200">聖會錄要</title><title source="#200|9">sheng hui lu yao</title><author source="#300" key="person_6897"><persName xml:lang="chi">Hutchinson, Arthur B</persName></author><note source="#600">By A B Hutchinson</note></msItem>         
                </msContents>
                <physDesc>
                   

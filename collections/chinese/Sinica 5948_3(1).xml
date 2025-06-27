@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">爾雅古義 十二卷</title>
+                     <title xml:lang="chi" source="#200">爾雅古義 十二卷</title>
                      <title source="#200|9">er ya gu yi</title>
                      <note source="#290">(清)黃奭輯</note>
-                     <author source="#300" key="person_6371"><persName>(清)黃奭</persName><persName type="9">huang
+                     <author source="#300" key="person_6371"><persName xml:lang="chi">(清)黃奭</persName><persName type="9">huang
                            shi</persName></author>
                      <msItem n="01">
                         <title>爾雅文學注 一卷</title>
@@ -66,7 +66,7 @@
                         <title>爾雅樊光注 一卷</title>
                         <title source="9">er ya fan guang zhu</title>
                         <note source="290">(漢)樊光撰</note>
-                        <author key="person_6554"><persName>(漢)樊光</persName><persName type="9">fan
+                        <author key="person_6554"><persName xml:lang="chi">(漢)樊光</persName><persName type="9">fan
                            guang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180412/00000020|odh -->
@@ -76,7 +76,7 @@
                         <title>爾雅李巡注 一卷</title>
                         <title source="9">er ya li xun zhu</title>
                         <note source="290">(漢)李巡撰</note>
-                        <author key="person_6544"><persName>(漢)李巡</persName><persName type="9">li
+                        <author key="person_6544"><persName xml:lang="chi">(漢)李巡</persName><persName type="9">li
                            xun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180412/00000021|odh -->
@@ -89,7 +89,7 @@
                         <title>爾雅孫炎音注 一卷</title>
                         <title source="9">er ya sun yan yin zhu</title>
                         <note source="290">(魏)孫炎撰</note>
-                        <author key="person_6721"><persName>(魏)孫炎</persName><persName type="9">sun
+                        <author key="person_6721"><persName xml:lang="chi">(魏)孫炎</persName><persName type="9">sun
                            yan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180412/00000022|odh -->
@@ -99,7 +99,7 @@
                         <title>爾雅郭璞音義 一卷</title>
                         <title source="9">er ya guo pu yin yi</title>
                         <note source="290">(晉)郭璞撰</note>
-                        <author key="person_2985"><persName>(晉)郭璞</persName><persName type="9">guo
+                        <author key="person_2985"><persName xml:lang="chi">(晉)郭璞</persName><persName type="9">guo
                            pu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180412/00000023|odh -->
@@ -109,7 +109,7 @@
                         <title>爾雅郭璞圖贊 一卷</title>
                         <title source="9">er ya guo pu tu zan</title>
                         <note source="290">(晉)郭璞撰</note>
-                        <author key="person_2985"><persName>(晉)郭璞</persName><persName type="9">guo
+                        <author key="person_2985"><persName xml:lang="chi">(晉)郭璞</persName><persName type="9">guo
                            pu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180412/00000024|odh -->
@@ -119,7 +119,7 @@
                         <title>爾雅沈旋集注 一卷</title>
                         <title source="9">er ya shen xuan ji zhu</title>
                         <note source="290">(梁)沈旋撰</note>
-                        <author key="person_3041"><persName>(梁)沈旋</persName><persName type="9">shen
+                        <author key="person_3041"><persName xml:lang="chi">(梁)沈旋</persName><persName type="9">shen
                            xuan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180412/00000025|odh -->
@@ -129,7 +129,7 @@
                         <title>爾雅施乾音注 一卷</title>
                         <title source="9">er ya shi qian yin zhu</title>
                         <note source="290">(陳)施乾撰</note>
-                        <author key="person_6677"><persName>(陳)施乾</persName><persName type="9">shi
+                        <author key="person_6677"><persName xml:lang="chi">(陳)施乾</persName><persName type="9">shi
                            qian</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180412/00000026|odh -->
@@ -139,7 +139,7 @@
                         <title>爾雅謝嶠音注 一卷</title>
                         <title source="9">er ya xie jiao yin zhu</title>
                         <note source="290">(陳)謝嶠撰</note>
-                        <author key="person_6682"><persName>(陳)謝嶠</persName><persName type="9">xie
+                        <author key="person_6682"><persName xml:lang="chi">(陳)謝嶠</persName><persName type="9">xie
                            jiao</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180412/00000027|odh -->
@@ -149,7 +149,7 @@
                         <title>爾雅顧野王音注 一卷</title>
                         <title source="9">er ya gu ye wang yin zhu</title>
                         <note source="290">(梁)顧野王撰</note>
-                        <author key="person_3063"><persName>(梁)顧野王</persName><persName type="9">gu ye
+                        <author key="person_3063"><persName xml:lang="chi">(梁)顧野王</persName><persName type="9">gu ye
                            wang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180412/00000028|odh -->

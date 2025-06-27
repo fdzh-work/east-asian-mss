@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">御覽唐闕史 二卷</title>
+                     <title xml:lang="chi" source="#200">御覽唐闕史 二卷</title>
                      <title source="#200|9">yu lan tang que shi</title>
                      <note source="#290">(唐)高彥休撰</note>
-                     <author source="#300" key="person_885"><persName>(唐)高彥休</persName><persName type="9">gao yan
+                     <author source="#300" key="person_885"><persName xml:lang="chi">(唐)高彥休</persName><persName type="9">gao yan
                            xiu</persName></author>
                   </msItem>
                </msContents>

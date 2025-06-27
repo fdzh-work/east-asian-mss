@@ -49,13 +49,13 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">大戴禮記 十三卷</title>
+                     <title xml:lang="chi" source="#200">大戴禮記 十三卷</title>
                      <title source="#200|9">da dai li ji</title>
                      <note source="#290">(漢)戴德撰</note>
                      <note source="#290">(北周)盧辯注</note>
-                     <author source="#300" key="person_6536"><persName>(漢)戴德</persName><persName type="9">dai
+                     <author source="#300" key="person_6536"><persName xml:lang="chi">(漢)戴德</persName><persName type="9">dai
                            de</persName></author>
-                     <author source="#300" key="person_402"><persName>(北周)盧辯</persName><persName type="9">lu
+                     <author source="#300" key="person_402"><persName xml:lang="chi">(北周)盧辯</persName><persName type="9">lu
                            bian</persName></author>
                   </msItem>
                </msContents>

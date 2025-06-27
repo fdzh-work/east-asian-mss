@@ -49,9 +49,9 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">薇省詞鈔 十卷坿錄一卷</title>
+                     <title xml:lang="chi" source="#200">薇省詞鈔 十卷坿錄一卷</title>
                      <title source="#200|9">wei sheng ci chao</title>
-                     <author source="#300" key="person_3151"><persName>(民國)況周頤</persName><persName type="9">kuang zhou
+                     <author source="#300" key="person_3151"><persName xml:lang="chi">(民國)況周頤</persName><persName type="9">kuang zhou
                            yi</persName></author>
                      <note source="#600">光緒戊戌[1898]廣陵刊</note>
                   </msItem>

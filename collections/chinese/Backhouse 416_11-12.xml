@@ -50,16 +50,16 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">鏡鏡詅癡 五卷</title>
+                     <title xml:lang="chi" source="#200">鏡鏡詅癡 五卷</title>
                      <title source="#200|9">jing jing ling chi</title>
                      <note source="#290">(清)鄭復光著</note>
                      <note source="#290">(清)楊尚文繢圖</note>
                      <note source="#290">(清)張穆編校</note>
-                     <author source="#300" key="person_5844"><persName>(清)鄭復光</persName><persName type="9">zheng fu
+                     <author source="#300" key="person_5844"><persName xml:lang="chi">(清)鄭復光</persName><persName type="9">zheng fu
                            guang</persName></author>
-                     <author source="#300"><persName>(清)楊尚文</persName><persName type="9">yang shang
+                     <author source="#300"><persName xml:lang="chi">(清)楊尚文</persName><persName type="9">yang shang
                            wen</persName></author>
-                     <author source="#300" key="person_4085"><persName>(清)張穆</persName><persName type="9">zhang
+                     <author source="#300" key="person_4085"><persName xml:lang="chi">(清)張穆</persName><persName type="9">zhang
                            mu</persName></author>
                      <note source="#600">道光二十七年[1847]刊</note>
                   </msItem>

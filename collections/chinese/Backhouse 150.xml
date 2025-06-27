@@ -49,7 +49,7 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">覆元槧古今雜劇三十種</title>
+                     <title xml:lang="chi" source="#200">覆元槧古今雜劇三十種</title>
                      <title source="#200|9">fu yuan qian gu jin za ju san shi zhong</title>
                      <note source="#290">(元)佚名編</note>
                      <note source="#409">日本大正甲寅[1914]京都帝國大學文科大學影刊本</note>
@@ -63,7 +63,7 @@
                         <title source="9">gu hang xin kan guan muy di ben li tai bai bian ye
                            lang</title>
                         <note source="290">(元)王伯成撰</note>
-                        <author key="person_204"><persName>(元)王伯成</persName><persName type="9">wang bo
+                        <author key="person_204"><persName xml:lang="chi">(元)王伯成</persName><persName type="9">wang bo
                               cheng</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180919/00000035|odh -->
@@ -73,7 +73,7 @@
                         <title>新刊關目嚴子陵垂釣七里灘 一卷</title>
                         <title source="9">xin kan guan mu yan zi ling chui diao qi li tan</title>
                         <note source="290">(元)宮天挺撰</note>
-                        <author key="person_106"><persName>(元)宮天挺</persName><persName type="9">gong tian
+                        <author key="person_106"><persName xml:lang="chi">(元)宮天挺</persName><persName type="9">gong tian
                               ting</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180919/00000036|odh -->
@@ -83,7 +83,7 @@
                         <title>大都新編楚昭王疎者下船 一卷</title>
                         <title source="9">da du xin bian chu zhao wang shu zhe xia chuan</title>
                         <note source="290">(元)鄭廷玉撰</note>
-                        <author key="person_295"><persName>(元)鄭廷玉</persName><persName type="9">zheng ting
+                        <author key="person_295"><persName xml:lang="chi">(元)鄭廷玉</persName><persName type="9">zheng ting
                               yu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180919/00000037|odh -->
@@ -93,7 +93,7 @@
                         <title>古杭新刊的本蔚遲恭三奪㮶 一卷</title>
                         <title source="9">gu hang xin kan di ben wei chi gong san duo shuo</title>
                         <note source="290">(元)尚仲賢撰</note>
-                        <author key="person_108"><persName>(元)尚仲賢</persName><persName type="9">shang zhong
+                        <author key="person_108"><persName xml:lang="chi">(元)尚仲賢</persName><persName type="9">shang zhong
                               xian</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180919/00000038|odh -->
@@ -121,7 +121,7 @@
                         <title>新刊關目詐妮子調風月 一卷</title>
                         <title source="9">xin kan guan mu xi ni zi diao feng yue</title>
                         <note source="290">(元)關漢卿撰</note>
-                        <author key="person_306"><persName>(元)關漢卿</persName><persName type="9">guan han
+                        <author key="person_306"><persName xml:lang="chi">(元)關漢卿</persName><persName type="9">guan han
                               qing</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180919/00000041|odh -->
@@ -131,7 +131,7 @@
                         <title>新刊的本泰華山陳摶高臥 一卷</title>
                         <title source="9">xin kan di ben tai hua shan chen tuan gao wo</title>
                         <note source="290">(元)馬致遠撰</note>
-                        <author key="person_324"><persName>(元)馬致遠</persName><persName type="9">ma zhi
+                        <author key="person_324"><persName xml:lang="chi">(元)馬致遠</persName><persName type="9">ma zhi
                            yuan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180919/00000042|odh -->
@@ -141,7 +141,7 @@
                         <title>趙氏孤兒 一卷</title>
                         <title source="9">zhao shi gu er</title>
                         <note source="290">(元)紀君詳撰</note>
-                        <author key="person_236"><persName>(元)紀君詳</persName><persName type="9">ji jun
+                        <author key="person_236"><persName xml:lang="chi">(元)紀君詳</persName><persName type="9">ji jun
                               xiang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180919/00000043|odh -->
@@ -152,7 +152,7 @@
                         <title source="9">xin kan di ben xue ren guan yi jin huan xiang guan
                            mu</title>
                         <note source="290">(元)張國賓撰</note>
-                        <author key="person_112"><persName>(元)張國賓</persName><persName type="9">zhang guo
+                        <author key="person_112"><persName xml:lang="chi">(元)張國賓</persName><persName type="9">zhang guo
                               bin</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180919/00000044|odh -->
@@ -163,7 +163,7 @@
                         <title source="9">gu hang xin kan guan mu fu cheng wang zhou gong she
                            zheng</title>
                         <note source="290">(元)鄭光祖撰</note>
-                        <author key="person_293"><persName>(元)鄭光祖</persName><persName type="9">zheng guang
+                        <author key="person_293"><persName xml:lang="chi">(元)鄭光祖</persName><persName type="9">zheng guang
                               zu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180919/00000045|odh -->
@@ -173,7 +173,7 @@
                         <title>新刊關目好酒趙元遇上皇 一卷</title>
                         <title source="9">xin kan guan mu hao jiu zhao yuan yu shang huang</title>
                         <note source="290">(元)高文秀撰</note>
-                        <author key="person_325"><persName>(元)高文秀</persName><persName type="9">gao wen
+                        <author key="person_325"><persName xml:lang="chi">(元)高文秀</persName><persName type="9">gao wen
                            xiu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180919/00000046|odh -->
@@ -183,7 +183,7 @@
                         <title>新刊關目陳季卿悞道竹葉舟 一卷</title>
                         <title source="9">xin kan guan mu chen ji qing wu dao zhu ye zhou</title>
                         <note source="290">(元)范康撰</note>
-                        <author key="person_251"><persName>(元)范康</persName><persName type="9">fan
+                        <author key="person_251"><persName xml:lang="chi">(元)范康</persName><persName type="9">fan
                            kang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180919/00000047|odh -->
@@ -209,7 +209,7 @@
                         <title>古杭新刊關目霍光鬼諫 一卷</title>
                         <title source="9">gu hang xin kan guan mu huo guang gui jian</title>
                         <note source="290">(元)楊梓撰</note>
-                        <author key="person_178"><persName>(元)楊梓</persName><persName type="9">yang
+                        <author key="person_178"><persName xml:lang="chi">(元)楊梓</persName><persName type="9">yang
                            zi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180919/00000050|odh -->
@@ -219,7 +219,7 @@
                         <title>新刊關目張鼎智勘魔合羅 一卷</title>
                         <title source="9">xin kan guan mu zhang ding zhi kan mo he luo</title>
                         <note source="290">(元)孟漢卿撰</note>
-                        <author key="person_100"><persName>(元)孟漢卿</persName><persName type="9">meng han
+                        <author key="person_100"><persName xml:lang="chi">(元)孟漢卿</persName><persName type="9">meng han
                               qing</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180919/00000051|odh -->
@@ -229,7 +229,7 @@
                         <title>古杭新刊的本關大王單刀會 一卷</title>
                         <title source="9">gu hang xin kan di ben guan da wang dan dao hui</title>
                         <note source="290">(元)關漢卿撰</note>
-                        <author key="person_306"><persName>(元)關漢卿</persName><persName type="9">guan han
+                        <author key="person_306"><persName xml:lang="chi">(元)關漢卿</persName><persName type="9">guan han
                               qing</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180919/00000052|odh -->
@@ -239,7 +239,7 @@
                         <title>新編關目晉文公火燒介子推 一卷</title>
                         <title source="9">xin bian guan mu jin wen gong huo shao ji zi tui</title>
                         <note source="290">(元)狄君厚撰</note>
-                        <author key="person_202"><persName>(元)狄君厚</persName><persName type="9">di jun
+                        <author key="person_202"><persName xml:lang="chi">(元)狄君厚</persName><persName type="9">di jun
                            hou</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180919/00000053|odh -->
@@ -249,7 +249,7 @@
                         <title>新刊關目閨怨佳人拜月亭 一卷</title>
                         <title source="9">xin kan guan mu gui yuan jia ren bai yue ting</title>
                         <note source="290">(元)關漢卿撰</note>
-                        <author key="person_306"><persName>(元)關漢卿</persName><persName type="9">guan han
+                        <author key="person_306"><persName xml:lang="chi">(元)關漢卿</persName><persName type="9">guan han
                               qing</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180919/00000054|odh -->
@@ -259,7 +259,7 @@
                         <title>新栞關目馬丹陽三度任風子 一卷</title>
                         <title source="9">xin kan guan mu ma dan yang san du ren feng zi</title>
                         <note source="290">(元)馬致遠撰</note>
-                        <author key="person_324"><persName>(元)馬致遠</persName><persName type="9">ma zhi
+                        <author key="person_324"><persName xml:lang="chi">(元)馬致遠</persName><persName type="9">ma zhi
                            yuan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180919/00000055|odh -->
@@ -269,7 +269,7 @@
                         <title>新栞關目全蕭何追韓信 一卷</title>
                         <title source="9">xin kan guan mu quan xiao he zhui han xin</title>
                         <note source="290">(元)金仁傑撰</note>
-                        <author key="person_301"><persName>(元)金仁傑</persName><persName type="9">jin ren
+                        <author key="person_301"><persName xml:lang="chi">(元)金仁傑</persName><persName type="9">jin ren
                            jie</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180919/00000056|odh -->
@@ -287,7 +287,7 @@
                         <title>新刊關目看錢奴買寃家債主 一卷</title>
                         <title source="9">xin kan guan mu kan qian nu mai yuan jia zhai zhu</title>
                         <note source="290">(元)鄭廷玉撰</note>
-                        <author key="person_295"><persName>(元)鄭廷玉</persName><persName type="9">zheng ting
+                        <author key="person_295"><persName xml:lang="chi">(元)鄭廷玉</persName><persName type="9">zheng ting
                               yu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180919/00000058|odh -->
@@ -297,7 +297,7 @@
                         <title>新刊關目漢高皇濯足氣英布 一卷</title>
                         <title source="9">xin kan guan mu han gao huang zhuo zu qi ying bu</title>
                         <note source="290">(元)尚仲賢撰</note>
-                        <author key="person_108"><persName>(元)尚仲賢</persName><persName type="9">shang zhong
+                        <author key="person_108"><persName xml:lang="chi">(元)尚仲賢</persName><persName type="9">shang zhong
                               xian</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180919/00000059|odh -->
@@ -324,7 +324,7 @@
                         <title>新刊的本散家財天賜老生兒 一卷</title>
                         <title source="9">xin kan di ben san jia cai tian ci lao sheng er</title>
                         <note source="290">(元)武漢臣撰</note>
-                        <author key="person_185"><persName>(元)武漢臣</persName><persName type="9">wu han
+                        <author key="person_185"><persName xml:lang="chi">(元)武漢臣</persName><persName type="9">wu han
                            chen</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180919/00000062|odh -->
@@ -334,7 +334,7 @@
                         <title>新刊死生交范張鷄黍 一卷</title>
                         <title source="9">xin kan si sheng jiao fan zhang ji shu</title>
                         <note source="290">(元)宮天挺撰</note>
-                        <author key="person_106"><persName>(元)宮天挺</persName><persName type="9">gong tian
+                        <author key="person_106"><persName xml:lang="chi">(元)宮天挺</persName><persName type="9">gong tian
                               ting</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180919/00000063|odh -->

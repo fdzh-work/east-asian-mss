@@ -49,13 +49,13 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">明雷石菴尚書胡二峰侍郎遺集合刻</title>
+                     <title xml:lang="chi" source="#200">明雷石菴尚書胡二峰侍郎遺集合刻</title>
                      <title source="#200|9">ming lei shi an shang shu hu er feng shi lang yi
                         ji</title>
                      <note source="#290">(民國)黃𩪠, (民國)李根源輯刊</note>
-                     <author source="#300" key="person_3234"><persName>(民國)黃𩪠</persName><persName type="9">huang
+                     <author source="#300" key="person_3234"><persName xml:lang="chi">(民國)黃𩪠</persName><persName type="9">huang
                            ying</persName></author>
-                     <author source="#300" key="person_3131"><persName>(民國)李根源</persName><persName type="9">li gen
+                     <author source="#300" key="person_3131"><persName xml:lang="chi">(民國)李根源</persName><persName type="9">li gen
                            yuan</persName></author>
                      <note source="#409">民國甲寅年[1914]雲南圖書館刊本</note>
                      <editor source="#440" role="pbl"><persName>雲南圖書館</persName><persName type="9" role="pbl">yun nan tu shu guan</persName></editor>
@@ -65,7 +65,7 @@
                         <title>雷石菴尚書遺集 一卷</title>
                         <title source="9">lei shi an xian sheng yi ji</title>
                         <note source="290">(明)雷躍龍撰</note>
-                        <author key="person_2752"><persName>(明)雷躍龍</persName><persName type="9">lei yue
+                        <author key="person_2752"><persName xml:lang="chi">(明)雷躍龍</persName><persName type="9">lei yue
                               long</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20170807/13:37:57|odh -->
@@ -75,7 +75,7 @@
                         <title>胡二峰侍郎遺集 一卷</title>
                         <title source="9">hu er feng shi lang yi ji</title>
                         <note source="290">(明)胡璇撰</note>
-                        <author key="person_2528"><persName>(明)胡璇</persName><persName type="9">hu
+                        <author key="person_2528"><persName xml:lang="chi">(明)胡璇</persName><persName type="9">hu
                            xuan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20170807/13:41:31|odh -->

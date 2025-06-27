@@ -49,11 +49,11 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">五藏山經傳 五卷</title>
+                     <title xml:lang="chi" source="#200">五藏山經傳 五卷</title>
                      <title source="#200|9">wu zang shan jing zhuan</title>
-                     <title source="#200">海内經附傳 一卷</title>
+                     <title xml:lang="chi" source="#200">海内經附傳 一卷</title>
                      <title source="#200|9">hai nei jing fu zhuan</title>
-                     <author source="#300" key="person_3664"><persName>(清)呂調陽</persName><persName type="9">lu tiao
+                     <author source="#300" key="person_3664"><persName xml:lang="chi">(清)呂調陽</persName><persName type="9">lu tiao
                            yang</persName></author>
                   </msItem>
                </msContents>

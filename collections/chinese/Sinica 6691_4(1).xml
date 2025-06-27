@@ -49,9 +49,9 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">尚書七篇解義 二卷</title>
+                     <title xml:lang="chi" source="#200">尚書七篇解義 二卷</title>
                      <title source="#200|9">shang shu qi pian jie yi</title>
-                     <author source="#300" key="person_4458"><persName>(清)李光地</persName><persName type="9">li guang
+                     <author source="#300" key="person_4458"><persName xml:lang="chi">(清)李光地</persName><persName type="9">li guang
                            di</persName></author>
                   </msItem>
                </msContents>

@@ -46,7 +46,7 @@
                <head>書名: 法官須知 不分卷有缺 / (民國)政學社編輯<lb/>民國元年[1912]上海該社排印再版本<lb/>線裝8冊 ; 20公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">法官須知 不分卷有缺</title><title source="#200|9">fa guan xu zhi</title><note source="#290">(民國)政學社編輯</note><author><persName>(民國)政學社</persName><persName type="9">zheng xue she</persName></author><note source="#409">民國元年[1912]上海該社排印再版本</note><editor source="#440" role="pbl"><persName>政學社</persName><persName type="9" role="pbl">zheng xue she</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">法官須知 不分卷有缺</title><title source="#200|9">fa guan xu zhi</title><note source="#290">(民國)政學社編輯</note><author><persName xml:lang="chi">(民國)政學社</persName><persName type="9">zheng xue she</persName></author><note source="#409">民國元年[1912]上海該社排印再版本</note><editor source="#440" role="pbl"><persName>政學社</persName><persName type="9" role="pbl">zheng xue she</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

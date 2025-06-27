@@ -46,7 +46,7 @@
                <head>書名: 約翰言行錄 / 善德纂<lb/>新嘉坡 : 堅夏書院, 道光十七年[1837]<lb/>線裝1冊(1, 1, 23頁) ; 21.0公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">約翰言行錄</title><title source="#200|9">yue han yan xing lu</title><note source="#290">善德纂</note><author source="#300" key="person_6873"><persName>Gützlaff, Karl Friedrich August</persName></author><editor source="#420" role="pbl"><persName>堅夏書院</persName><persName type="9" role="pbl">jian xia shu yuan</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">約翰言行錄</title><title source="#200|9">yue han yan xing lu</title><note source="#290">善德纂</note><author source="#300" key="person_6873"><persName xml:lang="chi">Gützlaff, Karl Friedrich August</persName></author><editor source="#420" role="pbl"><persName>堅夏書院</persName><persName type="9" role="pbl">jian xia shu yuan</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

@@ -49,13 +49,13 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">蔣子萬機論 一卷</title>
+                     <title xml:lang="chi" source="#200">蔣子萬機論 一卷</title>
                      <title source="#200|9">jiang zi wan ji lun</title>
                      <note source="#290">(魏)蔣濟撰</note>
                      <note source="#290">(清)嚴可均輯</note>
-                     <author source="#300" key="person_6745"><persName>(魏)蔣濟</persName><persName type="9">jiang
+                     <author source="#300" key="person_6745"><persName xml:lang="chi">(魏)蔣濟</persName><persName type="9">jiang
                            ji</persName></author>
-                     <author source="#300" key="person_3751"><persName>(清)嚴可均</persName><persName type="9">yan ke
+                     <author source="#300" key="person_3751"><persName xml:lang="chi">(清)嚴可均</persName><persName type="9">yan ke
                            jun</persName></author>
                   </msItem>
                </msContents>

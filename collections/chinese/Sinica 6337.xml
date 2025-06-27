@@ -48,10 +48,10 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">琴學叢書</title>
+                     <title xml:lang="chi" source="#200">琴學叢書</title>
                      <title source="#200|9">qin xue cong shu</title>
                      <note source="#290">(民國)楊宗稷撰</note>
-                     <author source="#300" key="person_3142"><persName>(民國)楊宗稷</persName><persName type="9">yang zong
+                     <author source="#300" key="person_3142"><persName xml:lang="chi">(民國)楊宗稷</persName><persName type="9">yang zong
                            ji</persName></author>
                      <note source="#409">民國楊氏刊本</note>
                      <msItem n="1">
@@ -66,7 +66,7 @@
                            <title>琴操 二卷</title>
                            <title source="9">qin cao</title>
                            <note type="#290">(漢)蔡邕撰</note>
-                           <author key="person_6588"><persName>(漢)蔡邕</persName><persName type="9">cai
+                           <author key="person_6588"><persName xml:lang="chi">(漢)蔡邕</persName><persName type="9">cai
                               yong</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20150727/13:31:33|odh -->
@@ -77,7 +77,7 @@
                            <title>碣石調幽蘭 一卷</title>
                            <title source="9">jie shi diao you lan</title>
                            <note type="#290">(陳)丘公明撰</note>
-                           <author key="person_6671"><persName>(陳)丘公明</persName><persName type="9">qiu gong
+                           <author key="person_6671"><persName xml:lang="chi">(陳)丘公明</persName><persName type="9">qiu gong
                                  ming</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20150727/13:31:41|odh -->

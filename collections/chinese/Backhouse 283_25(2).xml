@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">五曹算經 五卷</title>
+                     <title xml:lang="chi" source="#200">五曹算經 五卷</title>
                      <title source="#200|9">wu cao suan jing</title>
                      <note source="#290">(唐)李淳風等奉敕注釋</note>
-                     <author source="#300" key="person_689"><persName>(唐)李淳風</persName><persName type="9">li chun
+                     <author source="#300" key="person_689"><persName xml:lang="chi">(唐)李淳風</persName><persName type="9">li chun
                            feng</persName></author>
                      <note source="#600">乾隆四十二年[1777]刊</note>
                   </msItem>

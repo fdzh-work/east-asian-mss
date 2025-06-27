@@ -49,12 +49,12 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">星經 二卷</title>
+                     <title xml:lang="chi" source="#200">星經 二卷</title>
                      <title source="#200|9">xing jing</title>
                      <note source="#290">(漢)甘公, (漢)石申撰</note>
-                     <author source="#300" key="person_6572"><persName>(漢)甘公</persName><persName type="9">gan
+                     <author source="#300" key="person_6572"><persName xml:lang="chi">(漢)甘公</persName><persName type="9">gan
                            gong</persName></author>
-                     <author source="#300" key="person_6576"><persName>(漢)石申</persName><persName type="9">shi
+                     <author source="#300" key="person_6576"><persName xml:lang="chi">(漢)石申</persName><persName type="9">shi
                            shen</persName></author>
                   </msItem>
                </msContents>

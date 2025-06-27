@@ -48,7 +48,7 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">樂府小令</title>
+                     <title xml:lang="chi" source="#200">樂府小令</title>
                      <title source="#200|9">yue fu xiao ling</title>
                      <note source="#290">(清)佚名編</note>
                      <note source="#409">清刊袖珍本騷餘館藏板</note>
@@ -57,7 +57,7 @@
                         <title>張小山小令 二卷</title>
                         <title source="9">zhang xiao shan xiao ling</title>
                         <note source="290">(元)張可久撰</note>
-                        <author key="person_111"><persName>(元)張可久</persName><persName type="9">zhang ke
+                        <author key="person_111"><persName xml:lang="chi">(元)張可久</persName><persName type="9">zhang ke
                               jiu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20111129/16:50:02|odh -->
@@ -69,7 +69,7 @@
                         <title>喬夢符小令 一卷</title>
                         <title source="9">qiao meng fu xiao ling</title>
                         <note source="290">(元)喬吉撰</note>
-                        <author key="person_92"><persName>(元)喬吉</persName><persName type="9">qiao
+                        <author key="person_92"><persName xml:lang="chi">(元)喬吉</persName><persName type="9">qiao
                            ji</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20111129/16:52:05|odh -->
@@ -81,7 +81,7 @@
                         <title>疑雨集 四卷</title>
                         <title source="9">yi yu ji</title>
                         <note source="290">(清)王彥泓撰</note>
-                        <author key="person_5066"><persName>(清)王彥泓</persName><persName type="9">wang yan
+                        <author key="person_5066"><persName xml:lang="chi">(清)王彥泓</persName><persName type="9">wang yan
                               hong</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20111129/16:55:03|odh -->
@@ -93,7 +93,7 @@
                         <title>板橋道情 一卷</title>
                         <title source="9">ban qiao dao qing</title>
                         <note source="290">(清)鄭燮撰</note>
-                        <author key="person_5859"><persName>(清)鄭燮</persName><persName type="9">zheng
+                        <author key="person_5859"><persName xml:lang="chi">(清)鄭燮</persName><persName type="9">zheng
                            xie</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20111129/16:57:13|odh -->
@@ -105,7 +105,7 @@
                         <title>西堂樂府 一卷</title>
                         <title source="9">xi tang yue fu</title>
                         <note source="290">(清)尤侗撰</note>
-                        <author key="person_3925"><persName>(清)尤侗</persName><persName type="9">you
+                        <author key="person_3925"><persName xml:lang="chi">(清)尤侗</persName><persName type="9">you
                            tong</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20111129/16:58:29|odh -->
@@ -117,7 +117,7 @@
                         <title>揚州竹枝詞 一卷</title>
                         <title source="9">yang zhou zhu zhi ci</title>
                         <note source="290">(清)董偉業撰</note>
-                        <author key="person_5508"><persName>(清)董偉業</persName><persName type="9">dong wei
+                        <author key="person_5508"><persName xml:lang="chi">(清)董偉業</persName><persName type="9">dong wei
                            ye</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20111129/16:58:56|odh -->
@@ -129,7 +129,7 @@
                         <title>葉兒樂府 一卷</title>
                         <title source="9">ye er yue fu</title>
                         <note source="290">(清)朱彝尊撰</note>
-                        <author key="person_4396"><persName>(清)朱彝尊</persName><persName type="9">zhu yi
+                        <author key="person_4396"><persName xml:lang="chi">(清)朱彝尊</persName><persName type="9">zhu yi
                            zun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20111129/16:59:36|odh -->
@@ -141,7 +141,7 @@
                         <title>北樂府小令 一卷</title>
                         <title source="9">bei yue fu xiao ling</title>
                         <note source="290">(清)厲鶚撰</note>
-                        <author><persName>(清)厲鶚</persName><persName type="9">li
+                        <author><persName xml:lang="chi">(清)厲鶚</persName><persName type="9">li
                            e</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20111129/17:01:01|odh -->

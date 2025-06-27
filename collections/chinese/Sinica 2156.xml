@@ -46,8 +46,8 @@
                <head>書名: 新編筭學啟蒙 三卷總括一卷 / (元)朱世傑編撰<lb/>筭學啟蒙識誤 一卷 / (清)羅士琳斠詮<lb/>清同治十年[1871]上海江南機器製造局影寫重刊本<lb/>線裝2冊 ; 30公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem><editor source="#440" role="pbl"><persName>江南機器製造局</persName><persName type="9" role="pbl">jiang nan ji qi zhi zao ju</persName></editor><note source="#409">清同治十年[1871]上海江南機器製造局影寫重刊本</note><msItem n="1">
-                  <title source="#200">新編筭學啟蒙 三卷總括一卷</title><title source="#200|9">xin bian suan xue qi meng</title><title type="variant" source="#230">算學啟蒙</title><title source="#230|9" type="variant">suan xue qi meng</title><note source="#290">(元)朱世傑編撰</note><author source="#300" key="person_145"><persName>(元)朱世傑</persName><persName type="9">zhu shi jie</persName></author></msItem>         
-               <msItem n="2"><title source="#201">筭學啟蒙識誤 一卷</title><title source="#201|9">suan xue qi meng shi wu</title><note source="#291">(清)羅士琳斠詮</note><author source="#301" key="person_5324"><persName>(清)羅士琳</persName><persName type="9">luo shi lin</persName></author></msItem></msItem></msContents>
+                  <title xml:lang="chi" source="#200">新編筭學啟蒙 三卷總括一卷</title><title source="#200|9">xin bian suan xue qi meng</title><title type="variant" source="#230">算學啟蒙</title><title source="#230|9" type="variant">suan xue qi meng</title><note source="#290">(元)朱世傑編撰</note><author source="#300" key="person_145"><persName xml:lang="chi">(元)朱世傑</persName><persName type="9">zhu shi jie</persName></author></msItem>         
+               <msItem n="2"><title xml:lang="chi" source="#201">筭學啟蒙識誤 一卷</title><title source="#201|9">suan xue qi meng shi wu</title><note source="#291">(清)羅士琳斠詮</note><author source="#301" key="person_5324"><persName xml:lang="chi">(清)羅士琳</persName><persName type="9">luo shi lin</persName></author></msItem></msItem></msContents>
                <physDesc>
                   
                   <objectDesc>

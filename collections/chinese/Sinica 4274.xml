@@ -46,8 +46,8 @@
                <head>書名: 怪紳士之歌<lb/>流行春風之歌<lb/>桃花泣血記之歌<lb/>日本昭和九年[1934]排印本臺南州嘉義市捷發漢書部發行<lb/>毛裝1冊 : 樂譜 ; 16公分<lb/>封面題名《怪紳士春風桃花泣血記歌》<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem><editor source="#440" role="pbl"><persName>捷發漢書部</persName><persName type="9" role="pbl">jie fa han shu bu</persName></editor><note source="#409">日本昭和九年[1934]排印本臺南州嘉義市捷發漢書部發行</note><note source="#600">封面題名《怪紳士春風桃花泣血記歌》</note><msItem n="1">
-                  <title source="#200">怪紳士之歌</title><title source="#200|9">guai shen shi zhi ge</title><title type="variant" source="#230">怪紳士春風桃花泣血記歌</title><title source="#230|9" type="variant">guai shen shi chun feng tao hua qi xue ji ge</title></msItem>         
-               <msItem n="2"><title source="#201">流行春風之歌</title><title source="#201|9">liu xing chun feng zhi ge</title></msItem><msItem n="3"><title source="#202">桃花泣血記之歌</title><title source="#202|9">tao hua qi xue ji zhi ge</title></msItem></msItem></msContents>
+                  <title xml:lang="chi" source="#200">怪紳士之歌</title><title source="#200|9">guai shen shi zhi ge</title><title type="variant" source="#230">怪紳士春風桃花泣血記歌</title><title source="#230|9" type="variant">guai shen shi chun feng tao hua qi xue ji ge</title></msItem>         
+               <msItem n="2"><title xml:lang="chi" source="#201">流行春風之歌</title><title source="#201|9">liu xing chun feng zhi ge</title></msItem><msItem n="3"><title xml:lang="chi" source="#202">桃花泣血記之歌</title><title source="#202|9">tao hua qi xue ji zhi ge</title></msItem></msItem></msContents>
                <physDesc>
                   
                   <objectDesc>

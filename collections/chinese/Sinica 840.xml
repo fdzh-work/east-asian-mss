@@ -48,16 +48,16 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">曆算全書 存十種</title>
+                     <title xml:lang="chi" source="#200">曆算全書 存十種</title>
                      <title source="#200|9">li suan quan shu</title>
                      <note source="#290">(清)梅文鼎撰</note>
-                     <author source="#300" key="person_4650"><persName>(清)梅文鼎</persName><persName type="9">mei wen
+                     <author source="#300" key="person_4650"><persName xml:lang="chi">(清)梅文鼎</persName><persName type="9">mei wen
                            ding</persName></author>
                      <note source="#409">清刊本</note>
                      <msItem n="1">
                         <title>三角法舉要 五卷</title>
                         <title source="9">san jiao fa ju yao</title>
-                        <author key="person_4650"><persName>(清)梅文鼎</persName><persName type="9">mei wen
+                        <author key="person_4650"><persName xml:lang="chi">(清)梅文鼎</persName><persName type="9">mei wen
                               ding</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140121/15:38:59|odh -->
@@ -69,9 +69,9 @@
                         <title source="9">gou gu chan wei</title>
                         <note source="290">(清)梅文鼎撰</note>
                         <note source="290">(清)楊作枚補</note>
-                        <author key="person_4650"><persName>(清)梅文鼎</persName><persName type="9">mei wen
+                        <author key="person_4650"><persName xml:lang="chi">(清)梅文鼎</persName><persName type="9">mei wen
                               ding</persName></author>
-                        <author key="person_4658"><persName>(清)楊作枚</persName><persName type="9">yang zuo
+                        <author key="person_4658"><persName xml:lang="chi">(清)楊作枚</persName><persName type="9">yang zuo
                               mei</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140121/15:43:15|odh -->
@@ -81,7 +81,7 @@
                      <msItem n="3">
                         <title>弧三角舉要 五卷</title>
                         <title source="9">hu san jiao ju yao</title>
-                        <author key="person_4650"><persName>(清)梅文鼎</persName><persName type="9">mei wen
+                        <author key="person_4650"><persName xml:lang="chi">(清)梅文鼎</persName><persName type="9">mei wen
                               ding</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140121/15:43:56|odh -->
@@ -91,7 +91,7 @@
                      <msItem n="4">
                         <title>塹堵測量 二卷</title>
                         <title source="9">qian du ce liang</title>
-                        <author key="person_4650"><persName>(清)梅文鼎</persName><persName type="9">mei wen
+                        <author key="person_4650"><persName xml:lang="chi">(清)梅文鼎</persName><persName type="9">mei wen
                               ding</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140121/15:44:58|odh -->
@@ -101,7 +101,7 @@
                      <msItem n="5">
                         <title>方圓冪積 一卷</title>
                         <title source="9">fang yuan mi ji</title>
-                        <author key="person_4650"><persName>(清)梅文鼎</persName><persName type="9">mei wen
+                        <author key="person_4650"><persName xml:lang="chi">(清)梅文鼎</persName><persName type="9">mei wen
                               ding</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140121/15:45:19|odh -->
@@ -111,7 +111,7 @@
                      <msItem n="6">
                         <title>幾何補編 殘三卷</title>
                         <title source="9">ji he bu bian</title>
-                        <author key="person_4650"><persName>(清)梅文鼎</persName><persName type="9">mei wen
+                        <author key="person_4650"><persName xml:lang="chi">(清)梅文鼎</persName><persName type="9">mei wen
                               ding</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140121/15:48:09|odh -->
@@ -123,7 +123,7 @@
                      <msItem n="7">
                         <title>環中黍尺 五卷</title>
                         <title source="9">huan zhong shu chi</title>
-                        <author key="person_4650"><persName>(清)梅文鼎</persName><persName type="9">mei wen
+                        <author key="person_4650"><persName xml:lang="chi">(清)梅文鼎</persName><persName type="9">mei wen
                               ding</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140121/15:48:44|odh -->
@@ -133,7 +133,7 @@
                      <msItem n="8">
                         <title>曆學駢枝 四卷</title>
                         <title source="9">li xue pian zhi</title>
-                        <author key="person_4650"><persName>(清)梅文鼎</persName><persName type="9">mei wen
+                        <author key="person_4650"><persName xml:lang="chi">(清)梅文鼎</persName><persName type="9">mei wen
                               ding</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140121/15:50:02|odh -->
@@ -143,7 +143,7 @@
                      <msItem n="9">
                         <title>交食蒙求訂補 二卷附一卷</title>
                         <title source="9">jiao shi meng qiu ding bu</title>
-                        <author key="person_4650"><persName>(清)梅文鼎</persName><persName type="9">mei wen
+                        <author key="person_4650"><persName xml:lang="chi">(清)梅文鼎</persName><persName type="9">mei wen
                               ding</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140121/15:55:28|odh -->
@@ -155,7 +155,7 @@
                      <msItem n="10">
                         <title>方程論 六卷</title>
                         <title source="9">fang cheng lun</title>
-                        <author key="person_4650"><persName>(清)梅文鼎</persName><persName type="9">mei wen
+                        <author key="person_4650"><persName xml:lang="chi">(清)梅文鼎</persName><persName type="9">mei wen
                               ding</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140121/15:56:08|odh -->

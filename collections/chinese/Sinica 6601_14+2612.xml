@@ -50,10 +50,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">亞東論略 一卷</title>
+                     <title xml:lang="chi" source="#200">亞東論略 一卷</title>
                      <title source="#200|9">ya dong lun lue</title>
                      <note source="#290">(英)戴樂爾撰</note>
-                     <author source="#300" key="person_7061"><persName>Tyler, William Ferdinand</persName></author>
+                     <author source="#300" key="person_7061"><persName xml:lang="chi">Tyler, William Ferdinand</persName></author>
                   </msItem>
                </msContents>
                <physDesc>

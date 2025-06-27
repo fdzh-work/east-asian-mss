@@ -49,16 +49,16 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">尚書大傳 五卷附序錄一卷辨譌一卷</title>
+                     <title xml:lang="chi" source="#200">尚書大傳 五卷附序錄一卷辨譌一卷</title>
                      <title source="#200|9">shang shu da zhuan</title>
                      <note source="#290">(漢)伏勝撰</note>
                      <note source="#290">(漢)鄭玄注</note>
                      <note source="#290">(清)陳壽祺輯校併撰序錄、辨譌</note>
-                     <author source="#300" key="person_6479"><persName>(漢)伏勝</persName><persName type="9">fu
+                     <author source="#300" key="person_6479"><persName xml:lang="chi">(漢)伏勝</persName><persName type="9">fu
                            sheng</persName></author>
-                     <author source="#300" key="person_6609"><persName>(漢)鄭玄</persName><persName type="9">zheng
+                     <author source="#300" key="person_6609"><persName xml:lang="chi">(漢)鄭玄</persName><persName type="9">zheng
                            xuan</persName></author>
-                     <author source="#300" key="person_6023"><persName>(清)陳壽祺</persName><persName type="9">chen shou
+                     <author source="#300" key="person_6023"><persName xml:lang="chi">(清)陳壽祺</persName><persName type="9">chen shou
                            qi</persName></author>
                   </msItem>
                </msContents>

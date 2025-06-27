@@ -50,24 +50,24 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">新纂門目五臣音註揚子法言 十卷</title>
+                     <title xml:lang="chi" source="#200">新纂門目五臣音註揚子法言 十卷</title>
                      <title source="#200|9">xin zuan men mu wu chen yin zhu yang zi fa yan</title>
                      <title type="variant" source="#230">揚子法言</title>
                      <title source="#230|9" type="variant">yang zi fa yan</title>
                      <note source="#290">(漢)揚雄撰</note>
                      <note source="#290">(晉)李軌, (唐)柳宗元注</note>
                      <note source="#290">(宋)宋咸, (宋)吳祕, (宋)司馬光添注</note>
-                     <author source="#300" key="person_6538"><persName>(漢)揚雄</persName><persName type="9">yang
+                     <author source="#300" key="person_6538"><persName xml:lang="chi">(漢)揚雄</persName><persName type="9">yang
                            xiong</persName></author>
-                     <author source="#300" key="person_2911"><persName>(晉)李軌</persName><persName type="9">li
+                     <author source="#300" key="person_2911"><persName xml:lang="chi">(晉)李軌</persName><persName type="9">li
                            gui</persName></author>
-                     <author source="#300" key="person_725"><persName>(唐)柳宗元</persName><persName type="9">liu zong
+                     <author source="#300" key="person_725"><persName xml:lang="chi">(唐)柳宗元</persName><persName type="9">liu zong
                            yuan</persName></author>
-                     <author source="#300" key="person_1114"><persName>(宋)宋咸</persName><persName type="9">song
+                     <author source="#300" key="person_1114"><persName xml:lang="chi">(宋)宋咸</persName><persName type="9">song
                            xian</persName></author>
-                     <author source="#300" key="person_1033"><persName>(宋)吳祕</persName><persName type="9">wu
+                     <author source="#300" key="person_1033"><persName xml:lang="chi">(宋)吳祕</persName><persName type="9">wu
                            mi</persName></author>
-                     <author source="#300"><persName>(宋)司馬光</persName><persName type="9">si ma
+                     <author source="#300"><persName xml:lang="chi">(宋)司馬光</persName><persName type="9">si ma
                            guang</persName></author>
                   </msItem>
                </msContents>

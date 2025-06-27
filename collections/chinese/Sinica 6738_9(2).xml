@@ -49,17 +49,17 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">倪石陵書 一卷</title>
+                     <title xml:lang="chi" source="#200">倪石陵書 一卷</title>
                      <title source="#200|9">ni shi ling shu</title>
                      <note source="#290">(宋)倪朴撰</note>
-                     <author source="#300" key="person_955"><persName>(宋)倪朴</persName><persName type="9">ni
+                     <author source="#300" key="person_955"><persName xml:lang="chi">(宋)倪朴</persName><persName type="9">ni
                            pu</persName></author>
                   </msItem>
                   <msItem n="2">
-                     <title source="#201">倪石陵書考異 一卷</title>
+                     <title xml:lang="chi" source="#201">倪石陵書考異 一卷</title>
                      <title source="#201|9">ni shi ling shu kao yi</title>
                      <note source="#291">(民國)胡宗楙撰</note>
-                     <author source="#301" key="person_3169"><persName>(民國)胡宗楙</persName><persName type="9">hu zong
+                     <author source="#301" key="person_3169"><persName xml:lang="chi">(民國)胡宗楙</persName><persName type="9">hu zong
                            mao</persName></author>
                   </msItem>
                </msContents>

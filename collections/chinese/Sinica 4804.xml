@@ -46,7 +46,7 @@
                <head>書名: 橫陽札記 十卷 / 吳承志纂 ; 劉承幹校<lb/>民國壬戌[1922]南林劉氏求恕齋刊《求恕齋叢書》本<lb/>線裝4冊 ; 24公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">橫陽札記 十卷</title><title source="#200|9">heng yang zha ji</title><note source="#290">吳承志纂</note><note source="#290">劉承幹校</note><author source="#300" key="person_7108"><persName>吳承志</persName><persName type="9">wu cheng zhi</persName></author><author source="#300" key="person_7100"><persName>劉承幹</persName><persName type="9">liu cheng gan</persName></author><note source="#409">民國壬戌[1922]南林劉氏求恕齋刊《求恕齋叢書》本</note><editor source="#440" role="pbl"><persName>求恕齋</persName><persName type="9" role="pbl">qiu shu zhai</persName></editor><editor source="#446" role="pbl"><persName>求恕齋叢書</persName><persName type="9" role="pbl">qiu shu zhai cong shu</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">橫陽札記 十卷</title><title source="#200|9">heng yang zha ji</title><note source="#290">吳承志纂</note><note source="#290">劉承幹校</note><author source="#300" key="person_7108"><persName xml:lang="chi">吳承志</persName><persName type="9">wu cheng zhi</persName></author><author source="#300" key="person_7100"><persName xml:lang="chi">劉承幹</persName><persName type="9">liu cheng gan</persName></author><note source="#409">民國壬戌[1922]南林劉氏求恕齋刊《求恕齋叢書》本</note><editor source="#440" role="pbl"><persName>求恕齋</persName><persName type="9" role="pbl">qiu shu zhai</persName></editor><editor source="#446" role="pbl"><persName>求恕齋叢書</persName><persName type="9" role="pbl">qiu shu zhai cong shu</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

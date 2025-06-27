@@ -46,7 +46,7 @@
                <head>書名: 真道自證 / 善德纂<lb/>新嘉坡 : 堅夏書院, [c.1838?]<lb/>線裝1冊(1, 27頁) ; 22.9公分<lb/>Text in 6 juan, continuous pagination<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">真道自證</title><title source="#200|9">zhen dao zi zheng</title><note source="#290">善德纂</note><author source="#300" key="person_6873"><persName>Gützlaff, Karl Friedrich August</persName></author><editor source="#420" role="pbl"><persName>堅夏書院</persName><persName type="9" role="pbl">jian xia shu yuan</persName></editor><note source="#600">Text in 6 juan, continuous pagination</note></msItem>         
+                  <title xml:lang="chi" source="#200">真道自證</title><title source="#200|9">zhen dao zi zheng</title><note source="#290">善德纂</note><author source="#300" key="person_6873"><persName xml:lang="chi">Gützlaff, Karl Friedrich August</persName></author><editor source="#420" role="pbl"><persName>堅夏書院</persName><persName type="9" role="pbl">jian xia shu yuan</persName></editor><note source="#600">Text in 6 juan, continuous pagination</note></msItem>         
                </msContents>
                <physDesc>
                   

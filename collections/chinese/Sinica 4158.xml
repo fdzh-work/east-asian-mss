@@ -46,7 +46,7 @@
                <head>書名: 酒令雅言句集 / (民國)黃淑屘著<lb/>日本昭和四年[1929]台北黃塗活版所排印本<lb/>毛裝1冊 ; 16公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">酒令雅言句集</title><title source="#200|9">jiu ling ya yan ju ji</title><note source="#290">(民國)黃淑屘著</note><author source="#300" key="person_3230"><persName>(民國)黃淑屘</persName><persName type="9">huang shu man</persName></author><note source="#409">日本昭和四年[1929]台北黃塗活版所排印本</note><editor source="#440" role="pbl"><persName>黃塗活版所</persName><persName type="9" role="pbl">huang tu huo ban suo</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">酒令雅言句集</title><title source="#200|9">jiu ling ya yan ju ji</title><note source="#290">(民國)黃淑屘著</note><author source="#300" key="person_3230"><persName xml:lang="chi">(民國)黃淑屘</persName><persName type="9">huang shu man</persName></author><note source="#409">日本昭和四年[1929]台北黃塗活版所排印本</note><editor source="#440" role="pbl"><persName>黃塗活版所</persName><persName type="9" role="pbl">huang tu huo ban suo</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

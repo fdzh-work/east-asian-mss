@@ -49,17 +49,17 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">漢書地理志水道圖說 七卷</title>
+                     <title xml:lang="chi" source="#200">漢書地理志水道圖說 七卷</title>
                      <title source="#200|9">han shu di li zhi shui dao tu shuo</title>
-                     <author source="#300" key="person_6075"><persName>(清)陳澧</persName><persName type="9">chen
+                     <author source="#300" key="person_6075"><persName xml:lang="chi">(清)陳澧</persName><persName type="9">chen
                            li</persName></author>
                      <note source="#600">同治十一年[1872]刊</note>
                   </msItem>
                   <msItem n="2">
-                     <title source="#201">附 考正德清胡氏禹貢圖 一卷</title>
+                     <title xml:lang="chi" source="#201">附 考正德清胡氏禹貢圖 一卷</title>
                      <title source="#201|9">kao zheng de qing hu shi yu gong tu</title>
                      <note source="#291">(清)陳宗誼撰</note>
-                     <author source="#301" key="person_6033"><persName>(清)陳宗誼</persName><persName type="9">chen zong
+                     <author source="#301" key="person_6033"><persName xml:lang="chi">(清)陳宗誼</persName><persName type="9">chen zong
                            yi</persName></author>
                   </msItem>
                </msContents>

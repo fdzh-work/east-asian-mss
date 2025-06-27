@@ -49,16 +49,16 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">宋史紀事本末 一百九卷</title>
+                     <title xml:lang="chi" source="#200">宋史紀事本末 一百九卷</title>
                      <title source="#200|9">song shi ji shi ben mo</title>
                      <note source="#290">(明)馮琦撰</note>
                      <note source="#290">(明)陳邦瞻增訂</note>
                      <note source="#290">(明)張溥論正</note>
-                     <author source="#300" key="person_2794"><persName>(明)馮琦</persName><persName type="9">feng
+                     <author source="#300" key="person_2794"><persName xml:lang="chi">(明)馮琦</persName><persName type="9">feng
                            qi</persName></author>
-                     <author source="#300" key="person_2732"><persName>(明)陳邦瞻</persName><persName type="9">chen bang
+                     <author source="#300" key="person_2732"><persName xml:lang="chi">(明)陳邦瞻</persName><persName type="9">chen bang
                            zhan</persName></author>
-                     <author source="#300" key="person_2189"><persName>(明)張溥</persName><persName type="9">zhang
+                     <author source="#300" key="person_2189"><persName xml:lang="chi">(明)張溥</persName><persName type="9">zhang
                            pu</persName></author>
                   </msItem>
                </msContents>

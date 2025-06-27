@@ -46,7 +46,7 @@
                <head>書名: 詩篇全書<lb/>福州 : 美華書局, 同治七年[1868]<lb/>線裝1冊(2, 132頁) ; 24.2公分<lb/>Tr. by L B Peet and S F Woodin<lb/>In Foochow dialect<lb/>Running title 「舊約詩篇」<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">詩篇全書</title><title source="#200|9">shi pian quan shu</title><title type="variant" source="#230">舊約詩篇</title><title source="#230|9" type="variant">jiu yue shi pian</title><author source="#300" key="person_6994"><persName>Peet, Lyman Birt</persName></author><author source="#300" key="person_7089"><persName>Woodin, Simeon Foster</persName></author><editor source="#420" role="pbl"><persName>美華書局</persName><persName type="9" role="pbl">mei hua shu ju</persName></editor><note source="#600">Tr. by L B Peet and S F Woodin</note><note source="#600">In Foochow dialect</note><note source="#600">Running title 「舊約詩篇」</note></msItem>         
+                  <title xml:lang="chi" source="#200">詩篇全書</title><title source="#200|9">shi pian quan shu</title><title type="variant" source="#230">舊約詩篇</title><title source="#230|9" type="variant">jiu yue shi pian</title><author source="#300" key="person_6994"><persName xml:lang="chi">Peet, Lyman Birt</persName></author><author source="#300" key="person_7089"><persName xml:lang="chi">Woodin, Simeon Foster</persName></author><editor source="#420" role="pbl"><persName>美華書局</persName><persName type="9" role="pbl">mei hua shu ju</persName></editor><note source="#600">Tr. by L B Peet and S F Woodin</note><note source="#600">In Foochow dialect</note><note source="#600">Running title 「舊約詩篇」</note></msItem>         
                </msContents>
                <physDesc>
                   

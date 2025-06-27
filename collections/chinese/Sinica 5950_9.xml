@@ -49,9 +49,9 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">吳興金石記 十六卷</title>
+                     <title xml:lang="chi" source="#200">吳興金石記 十六卷</title>
                      <title source="#200|9">wu xing jin shi ji</title>
-                     <author source="#300" key="person_6150"><persName>(清)陸心源</persName><persName type="9">lu xin
+                     <author source="#300" key="person_6150"><persName xml:lang="chi">(清)陸心源</persName><persName type="9">lu xin
                            yuan</persName></author>
                      <note source="#600">光緒庚寅[1890]刊</note>
                   </msItem>

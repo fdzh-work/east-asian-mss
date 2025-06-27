@@ -46,7 +46,7 @@
                <head>書名: 安南志畧 十九卷首一卷 / (元安南)黎崱編<lb/>清光緒甲申[1884]上海樂善堂排印本<lb/>線裝4冊 ; 23公分<lb/>原缺卷二十<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">安南志畧 十九卷首一卷</title><title source="#200|9">an nan zhi lue</title><note source="#290">(元安南)黎崱編</note><author source="#300" key="person_339"><persName>(元安南)黎崱</persName><persName type="9">li ze</persName></author><note source="#409">清光緒甲申[1884]上海樂善堂排印本</note><editor source="#440" role="pbl"><persName>樂善堂p上海</persName><persName type="9" role="pbl">le shan tang</persName></editor><note source="#600">原缺卷二十</note></msItem>         
+                  <title xml:lang="chi" source="#200">安南志畧 十九卷首一卷</title><title source="#200|9">an nan zhi lue</title><note source="#290">(元安南)黎崱編</note><author source="#300" key="person_339"><persName xml:lang="chi">(元安南)黎崱</persName><persName type="9">li ze</persName></author><note source="#409">清光緒甲申[1884]上海樂善堂排印本</note><editor source="#440" role="pbl"><persName>樂善堂p上海</persName><persName type="9" role="pbl">le shan tang</persName></editor><note source="#600">原缺卷二十</note></msItem>         
                </msContents>
                <physDesc>
                   

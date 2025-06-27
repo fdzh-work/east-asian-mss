@@ -49,12 +49,12 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">毛詩古音考 四卷附錄一卷</title>
+                     <title xml:lang="chi" source="#200">毛詩古音考 四卷附錄一卷</title>
                      <title source="#200|9">mao shi gu yin kao</title>
-                     <title source="#200">附 讀詩拙言 一卷</title>
+                     <title xml:lang="chi" source="#200">附 讀詩拙言 一卷</title>
                      <title source="#200|9">du shi zhuo yan</title>
                      <note source="#290">(明)陳第撰</note>
-                     <author source="#300" key="person_2723"><persName>(明)陳第</persName><persName type="9">chen
+                     <author source="#300" key="person_2723"><persName xml:lang="chi">(明)陳第</persName><persName type="9">chen
                            di</persName></author>
                      <note source="#600">民國二十二年[1933]刊</note>
                   </msItem>

@@ -46,7 +46,7 @@
                <head>書名: 靈魂總論 / 培端氏著<lb/>12th edition<lb/>上海 : 美華書館, 1863<lb/>線裝1冊(5頁) ; 14.2公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">靈魂總論</title><title source="#200|9">ling hun zong lun</title><note source="#290">培端氏著</note><author source="#300" key="person_6958"><persName>McCartee, Divie Bethune</persName></author><editor source="#420" role="pbl"><persName>美華書館</persName><persName type="9" role="pbl">mei hua shu guan</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">靈魂總論</title><title source="#200|9">ling hun zong lun</title><note source="#290">培端氏著</note><author source="#300" key="person_6958"><persName xml:lang="chi">McCartee, Divie Bethune</persName></author><editor source="#420" role="pbl"><persName>美華書館</persName><persName type="9" role="pbl">mei hua shu guan</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

@@ -49,15 +49,15 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">葬經翼 一卷圖一卷</title>
+                     <title xml:lang="chi" source="#200">葬經翼 一卷圖一卷</title>
                      <title source="#200|9">zang jing yi</title>
                      <note source="#290">(明)繆希雍撰</note>
                      <note source="#290">佚名撰</note>
-                     <author source="#300" key="person_2512"><persName>(明)繆希雍</persName><persName type="9">miao xi
+                     <author source="#300" key="person_2512"><persName xml:lang="chi">(明)繆希雍</persName><persName type="9">miao xi
                            yong</persName></author>
                   </msItem>
                   <msItem n="2">
-                     <title source="#201">附 難解二十四篇 一卷</title>
+                     <title xml:lang="chi" source="#201">附 難解二十四篇 一卷</title>
                      <title source="#201|9">nan jie er shi si pian</title>
                   </msItem>
                </msContents>

@@ -46,7 +46,7 @@
                <head>書名: 福音總論<lb/>[Malacca], 道光十九年[1839]<lb/>線裝1冊(7頁) ; 14.6公分<lb/>By S Dyer<lb/>Stereotyped in London<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">福音總論</title><title source="#200|9">fu yin zong lun</title><author source="#300" key="person_6838"><persName>Dyer, Samuel</persName></author><note source="#600">By S Dyer</note><note source="#600">Stereotyped in London</note></msItem>         
+                  <title xml:lang="chi" source="#200">福音總論</title><title source="#200|9">fu yin zong lun</title><author source="#300" key="person_6838"><persName xml:lang="chi">Dyer, Samuel</persName></author><note source="#600">By S Dyer</note><note source="#600">Stereotyped in London</note></msItem>         
                </msContents>
                <physDesc>
                   

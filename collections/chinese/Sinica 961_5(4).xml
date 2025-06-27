@@ -49,20 +49,20 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">漢舊儀 二卷</title>
+                     <title xml:lang="chi" source="#200">漢舊儀 二卷</title>
                      <title source="#200|9">han jiu yi</title>
                      <note source="#290">(漢)衛宏撰</note>
                      <note source="#290">(清)孫星衍校</note>
-                     <author source="#300" key="person_6590"><persName>(漢)衛宏</persName><persName type="9">wei
+                     <author source="#300" key="person_6590"><persName xml:lang="chi">(漢)衛宏</persName><persName type="9">wei
                            hong</persName></author>
-                     <author source="#300" key="person_3855"><persName>(清)孫星衍</persName><persName type="9">sun xing
+                     <author source="#300" key="person_3855"><persName xml:lang="chi">(清)孫星衍</persName><persName type="9">sun xing
                            yan</persName></author>
                   </msItem>
                   <msItem n="2">
-                     <title source="#201">漢舊儀補遺 二卷</title>
+                     <title xml:lang="chi" source="#201">漢舊儀補遺 二卷</title>
                      <title source="#201|9">han jiu yi bu yi</title>
                      <note source="#291">(清)孫星衍輯</note>
-                     <author source="#301" key="person_3855"><persName>(清)孫星衍</persName><persName type="9">sun xing
+                     <author source="#301" key="person_3855"><persName xml:lang="chi">(清)孫星衍</persName><persName type="9">sun xing
                            yan</persName></author>
                   </msItem>
                </msContents>

@@ -49,13 +49,13 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">婦人集 一卷</title>
+                     <title xml:lang="chi" source="#200">婦人集 一卷</title>
                      <title source="#200|9">fu ren ji</title>
                      <note source="#290">(清)陳維寂撰</note>
                      <note source="#290">(清)冒褒注</note>
-                     <author source="#300" key="person_3404"><persName>(清)冒褒</persName><persName type="9">mao
+                     <author source="#300" key="person_3404"><persName xml:lang="chi">(清)冒褒</persName><persName type="9">mao
                            bao</persName></author>
-                     <author source="#300" key="person_6099"><persName>(清)陳維崧</persName><persName type="9">chen wei
+                     <author source="#300" key="person_6099"><persName xml:lang="chi">(清)陳維崧</persName><persName type="9">chen wei
                            song</persName></author>
                   </msItem>
                </msContents>

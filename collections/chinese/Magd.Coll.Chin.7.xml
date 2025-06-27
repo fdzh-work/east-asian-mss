@@ -46,7 +46,7 @@
                <head>書名: 勸世良言<lb/>Canton, 1832<lb/>線裝6冊(25, 31, 24, 19, 28, 22, 34, 31, 21頁) ; 23.6公分<lb/>(清)梁阿發著<lb/>The fascicles are contained in a case bearing a western label from which the imprint is taken<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">勸世良言</title><title source="#200|9">quan shi liang yan</title><author source="#300" key="person_4646"><persName>(清)梁阿發</persName><persName type="9">liang a fa</persName></author><note source="#600">(清)梁阿發著</note><note source="#600">The fascicles are contained in a case bearing a western label from which the imprint is taken</note></msItem>         
+                  <title xml:lang="chi" source="#200">勸世良言</title><title source="#200|9">quan shi liang yan</title><author source="#300" key="person_4646"><persName xml:lang="chi">(清)梁阿發</persName><persName type="9">liang a fa</persName></author><note source="#600">(清)梁阿發著</note><note source="#600">The fascicles are contained in a case bearing a western label from which the imprint is taken</note></msItem>         
                </msContents>
                <physDesc>
                   

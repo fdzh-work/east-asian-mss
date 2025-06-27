@@ -46,7 +46,7 @@
                <head>書名: 經學指南<lb/>羊城[Canton] : 第十甫福音堂, 1875<lb/>線裝1冊(28頁) ; 26.3公分<lb/>By J Preston<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">經學指南</title><title source="#200|9">jing xue zhi nan</title><author source="#300" key="person_7004"><persName>Preston, John</persName></author><editor source="#420" role="pbl"><persName>第十甫福音堂</persName><persName type="9" role="pbl">di shi fu fu yin tang</persName></editor><note source="#600">By J Preston</note></msItem>         
+                  <title xml:lang="chi" source="#200">經學指南</title><title source="#200|9">jing xue zhi nan</title><author source="#300" key="person_7004"><persName xml:lang="chi">Preston, John</persName></author><editor source="#420" role="pbl"><persName>第十甫福音堂</persName><persName type="9" role="pbl">di shi fu fu yin tang</persName></editor><note source="#600">By J Preston</note></msItem>         
                </msContents>
                <physDesc>
                   

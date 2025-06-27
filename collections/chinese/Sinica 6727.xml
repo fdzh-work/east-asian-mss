@@ -47,12 +47,12 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">賭棋山莊所著書</title>
+                     <title xml:lang="chi" source="#200">賭棋山莊所著書</title>
                      <title source="#200|9">du qi shan zhuang suo zhu shu</title>
                      <title type="variant" source="#230">賭棋山莊全集</title>
                      <title source="#230|9" type="variant">du qi shan zhuang quan ji</title>
                      <note source="#290">(清)謝章鋌撰</note>
-                     <author source="#300" key="person_5698"><persName>(清)謝章鋌</persName><persName type="9">xie zhang
+                     <author source="#300" key="person_5698"><persName xml:lang="chi">(清)謝章鋌</persName><persName type="9">xie zhang
                            ting</persName></author>
                      <note source="#409">清光緒民國間刊本</note>
                      <note><list type="contained_items"><head>Contains: </head><item><ref target="volume_16222">Sinica 6727/1-2</ref><title>賭棋山莊集 文七卷文續二卷文又續二卷詩十四卷酒邊詞八卷</title> / <persName>(清)謝章鋌</persName></item><item><ref target="volume_16223">Sinica 6727/3(1)</ref><title>賭棋山莊餘集 文三卷詩一卷詞一卷</title> / <persName>(清)謝章鋌</persName></item><item><ref target="volume_16224">Sinica 6727/3(2)</ref><title>說文閩音通 一卷附錄一卷</title> / <persName>(清)謝章鋌</persName></item><item><ref target="volume_16225">Sinica 6727/3(3)-4(1)</ref><title>賭棋山莊集詞話 十二卷續五卷</title> / <persName>(清)謝章鋌</persName></item><item><ref target="volume_16226">Sinica 6727/4(2)-5</ref><title>賭棋山莊筆記</title> / <persName>(清)謝章鋌</persName></item><item><ref target="volume_16227">Sinica 6727/6(1)</ref><title>東嵐謝氏明詩畧 四卷</title> / <persName>(清)謝章鋌</persName></item><item><ref target="volume_16228">Sinica 6727/6(2)</ref><title>賭棋山莊八十壽言 一卷</title> / <persName>(清)謝章鋌</persName></item></list></note></msItem>

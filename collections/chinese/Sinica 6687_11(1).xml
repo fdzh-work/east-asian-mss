@@ -49,9 +49,9 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">湘軍志 十六卷</title>
+                     <title xml:lang="chi" source="#200">湘軍志 十六卷</title>
                      <title source="#200|9">xiang jun zhi</title>
-                     <author source="#300" key="person_5165"><persName>(清)王闓運</persName><persName type="9">wang kai
+                     <author source="#300" key="person_5165"><persName xml:lang="chi">(清)王闓運</persName><persName type="9">wang kai
                            yun</persName></author>
                      <note source="#600">宣統元年[1909]東州刊</note>
                   </msItem>

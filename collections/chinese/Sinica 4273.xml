@@ -46,7 +46,7 @@
                <head>書名: 孔子項𬃖論歌 / (民國)王賢德作<lb/>日本昭和十一年[1936]石印再版本臺南州嘉義市捷發漢書部發行<lb/>毛裝1冊 ; 16公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">孔子項𬃖論歌</title><title source="#200|9">kong zi xiang tuo lun ge</title><note source="#290">(民國)王賢德作</note><author source="#300" key="person_3160"><persName>(民國)王賢德</persName><persName type="9">wang xian de</persName></author><note source="#409">日本昭和十一年[1936]石印再版本臺南州嘉義市捷發漢書部發行</note><editor source="#440" role="pbl"><persName>捷發漢書部</persName><persName type="9" role="pbl">jie fa han shu bu</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">孔子項𬃖論歌</title><title source="#200|9">kong zi xiang tuo lun ge</title><note source="#290">(民國)王賢德作</note><author source="#300" key="person_3160"><persName xml:lang="chi">(民國)王賢德</persName><persName type="9">wang xian de</persName></author><note source="#409">日本昭和十一年[1936]石印再版本臺南州嘉義市捷發漢書部發行</note><editor source="#440" role="pbl"><persName>捷發漢書部</persName><persName type="9" role="pbl">jie fa han shu bu</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

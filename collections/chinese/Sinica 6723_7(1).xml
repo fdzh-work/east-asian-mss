@@ -49,16 +49,16 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">考槃餘事 十七卷</title>
+                     <title xml:lang="chi" source="#200">考槃餘事 十七卷</title>
                      <title source="#200|9">kao pan yu shi</title>
                      <note source="#290">(明)屠隆撰</note>
-                     <author source="#300" key="person_2153"><persName>(明)屠隆</persName><persName type="9">tu
+                     <author source="#300" key="person_2153"><persName xml:lang="chi">(明)屠隆</persName><persName type="9">tu
                            long</persName></author>
                      <note source="#600">光緒乙酉[1885]刊</note>
                      <msItem n="01">
                         <title>書箋 一卷</title>
                         <title source="9">shu jian</title>
-                        <author key="person_2153"><persName>(明)屠隆</persName><persName type="9">tu
+                        <author key="person_2153"><persName xml:lang="chi">(明)屠隆</persName><persName type="9">tu
                            long</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180813/00000037|odh -->
@@ -67,7 +67,7 @@
                      <msItem n="02">
                         <title>洞天帖錄 一卷</title>
                         <title source="9">dong tian tie lu</title>
-                        <author key="person_2153"><persName>(明)屠隆</persName><persName type="9">tu
+                        <author key="person_2153"><persName xml:lang="chi">(明)屠隆</persName><persName type="9">tu
                            long</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180813/00000038|odh -->
@@ -76,7 +76,7 @@
                      <msItem n="03">
                         <title>辨帖箋 一卷</title>
                         <title source="9">bian tie jian</title>
-                        <author key="person_2153"><persName>(明)屠隆</persName><persName type="9">tu
+                        <author key="person_2153"><persName xml:lang="chi">(明)屠隆</persName><persName type="9">tu
                            long</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180813/00000039|odh -->
@@ -85,7 +85,7 @@
                      <msItem n="04">
                         <title>畫箋 一卷</title>
                         <title source="9">hua jian</title>
-                        <author key="person_2153"><persName>(明)屠隆</persName><persName type="9">tu
+                        <author key="person_2153"><persName xml:lang="chi">(明)屠隆</persName><persName type="9">tu
                            long</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180813/00000040|odh -->
@@ -94,7 +94,7 @@
                      <msItem n="05">
                         <title>紙箋 一卷</title>
                         <title source="9">zhi jian</title>
-                        <author key="person_2153"><persName>(明)屠隆</persName><persName type="9">tu
+                        <author key="person_2153"><persName xml:lang="chi">(明)屠隆</persName><persName type="9">tu
                            long</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180813/00000041|odh -->
@@ -103,7 +103,7 @@
                      <msItem n="06">
                         <title>筆箋 一卷</title>
                         <title source="9">bi jian</title>
-                        <author key="person_2153"><persName>(明)屠隆</persName><persName type="9">tu
+                        <author key="person_2153"><persName xml:lang="chi">(明)屠隆</persName><persName type="9">tu
                            long</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180813/00000042|odh -->
@@ -112,7 +112,7 @@
                      <msItem n="07">
                         <title>墨箋 一卷</title>
                         <title source="9">mo jian</title>
-                        <author key="person_2153"><persName>(明)屠隆</persName><persName type="9">tu
+                        <author key="person_2153"><persName xml:lang="chi">(明)屠隆</persName><persName type="9">tu
                            long</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180813/00000043|odh -->
@@ -121,7 +121,7 @@
                      <msItem n="08">
                         <title>硯箋 一卷</title>
                         <title source="9">yan jian</title>
-                        <author key="person_2153"><persName>(明)屠隆</persName><persName type="9">tu
+                        <author key="person_2153"><persName xml:lang="chi">(明)屠隆</persName><persName type="9">tu
                            long</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180813/00000044|odh -->
@@ -130,7 +130,7 @@
                      <msItem n="09">
                         <title>琴箋 一卷</title>
                         <title source="9">qin jian</title>
-                        <author key="person_2153"><persName>(明)屠隆</persName><persName type="9">tu
+                        <author key="person_2153"><persName xml:lang="chi">(明)屠隆</persName><persName type="9">tu
                            long</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180813/00000045|odh -->
@@ -139,7 +139,7 @@
                      <msItem n="10">
                         <title>香箋 一卷</title>
                         <title source="9">xiang jian</title>
-                        <author key="person_2153"><persName>(明)屠隆</persName><persName type="9">tu
+                        <author key="person_2153"><persName xml:lang="chi">(明)屠隆</persName><persName type="9">tu
                            long</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180813/00000046|odh -->
@@ -148,7 +148,7 @@
                      <msItem n="11">
                         <title>文房器具箋 一卷</title>
                         <title source="9">wen fang qi ju jian</title>
-                        <author key="person_2153"><persName>(明)屠隆</persName><persName type="9">tu
+                        <author key="person_2153"><persName xml:lang="chi">(明)屠隆</persName><persName type="9">tu
                            long</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180813/00000047|odh -->
@@ -157,7 +157,7 @@
                      <msItem n="12">
                         <title>起居器服箋 一卷</title>
                         <title source="9">qi ju qi fu jian</title>
-                        <author key="person_2153"><persName>(明)屠隆</persName><persName type="9">tu
+                        <author key="person_2153"><persName xml:lang="chi">(明)屠隆</persName><persName type="9">tu
                            long</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180813/00000048|odh -->
@@ -166,7 +166,7 @@
                      <msItem n="13">
                         <title>遊具箋 一卷</title>
                         <title source="9">you ju jian</title>
-                        <author key="person_2153"><persName>(明)屠隆</persName><persName type="9">tu
+                        <author key="person_2153"><persName xml:lang="chi">(明)屠隆</persName><persName type="9">tu
                            long</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180813/00000049|odh -->
@@ -175,7 +175,7 @@
                      <msItem n="14">
                         <title>山齋志 一卷</title>
                         <title source="9">shan zhai zhi</title>
-                        <author key="person_2153"><persName>(明)屠隆</persName><persName type="9">tu
+                        <author key="person_2153"><persName xml:lang="chi">(明)屠隆</persName><persName type="9">tu
                            long</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180813/00000050|odh -->
@@ -184,7 +184,7 @@
                      <msItem n="15">
                         <title>茶箋 一卷</title>
                         <title source="9">cha jian</title>
-                        <author key="person_2153"><persName>(明)屠隆</persName><persName type="9">tu
+                        <author key="person_2153"><persName xml:lang="chi">(明)屠隆</persName><persName type="9">tu
                            long</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180813/00000051|odh -->
@@ -193,7 +193,7 @@
                      <msItem n="16">
                         <title>盆玩品 一卷</title>
                         <title source="9">pen wan pin</title>
-                        <author key="person_2153"><persName>(明)屠隆</persName><persName type="9">tu
+                        <author key="person_2153"><persName xml:lang="chi">(明)屠隆</persName><persName type="9">tu
                            long</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180813/00000052|odh -->
@@ -202,7 +202,7 @@
                      <msItem n="17">
                         <title>魚鶴品 一卷</title>
                         <title source="9">yu he pin</title>
-                        <author key="person_2153"><persName>(明)屠隆</persName><persName type="9">tu
+                        <author key="person_2153"><persName xml:lang="chi">(明)屠隆</persName><persName type="9">tu
                            long</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180813/00000053|odh -->

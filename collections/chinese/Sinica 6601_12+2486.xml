@@ -50,10 +50,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">黑蠻風土記 一卷</title>
+                     <title xml:lang="chi" source="#200">黑蠻風土記 一卷</title>
                      <title source="#200|9">hei man feng tu ji</title>
                      <note source="#290">(英)立溫斯敦撰</note>
-                     <author source="#300" key="person_6929"><persName>Livingstone, David</persName></author>
+                     <author source="#300" key="person_6929"><persName xml:lang="chi">Livingstone, David</persName></author>
                   </msItem>
                </msContents>
                <physDesc>

@@ -46,7 +46,7 @@
                <head>書名: 百鳥圖說<lb/>[Shanghai] : 益智書會, 光緒八年[1882]<lb/>線裝1冊(29頁) ; 25.6公分<lb/>By Mrs Williamson (?)<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">百鳥圖說</title><title source="#200|9">bai niao tu shuo</title><author source="#300" key="person_7085"><persName>Williamson, mrs</persName></author><editor source="#420" role="pbl"><persName>益智書會</persName><persName type="9" role="pbl">yi zhi shu hui</persName></editor><note source="#600">By Mrs Williamson (?)</note></msItem>         
+                  <title xml:lang="chi" source="#200">百鳥圖說</title><title source="#200|9">bai niao tu shuo</title><author source="#300" key="person_7085"><persName xml:lang="chi">Williamson, mrs</persName></author><editor source="#420" role="pbl"><persName>益智書會</persName><persName type="9" role="pbl">yi zhi shu hui</persName></editor><note source="#600">By Mrs Williamson (?)</note></msItem>         
                </msContents>
                <physDesc>
                   

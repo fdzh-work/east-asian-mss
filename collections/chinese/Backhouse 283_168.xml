@@ -49,12 +49,12 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">鄭所南先生文集 一卷</title>
+                     <title xml:lang="chi" source="#200">鄭所南先生文集 一卷</title>
                      <title source="#200|9">zheng suo nan xian sheng wen ji</title>
                      <title type="variant" source="#230">所南文集</title>
                      <title source="#230|9" type="variant">suo nan wen ji</title>
                      <note source="#290">(宋)鄭思肖撰</note>
-                     <author source="#300" key="person_1707"><persName>(宋)鄭思肖</persName><persName type="9">zheng si
+                     <author source="#300" key="person_1707"><persName xml:lang="chi">(宋)鄭思肖</persName><persName type="9">zheng si
                            xiao</persName></author>
                   </msItem>
                </msContents>

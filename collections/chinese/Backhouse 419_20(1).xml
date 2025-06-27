@@ -49,15 +49,15 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">寶顏堂訂正丙丁龜鑑 五卷續錄一卷</title>
+                     <title xml:lang="chi" source="#200">寶顏堂訂正丙丁龜鑑 五卷續錄一卷</title>
                      <title source="#200|9">bao yan tang ding zheng bing ding gui jian</title>
                      <title type="variant" source="#230">丙丁龜鑑</title>
                      <title source="#230|9" type="variant">bing ding gui jian</title>
                      <note source="#290">(宋)柴望撰</note>
                      <note source="#290">(明)顧雲鵬等校</note>
-                     <author source="#300" key="person_1323"><persName>(宋)柴望</persName><persName type="9">chai
+                     <author source="#300" key="person_1323"><persName xml:lang="chi">(宋)柴望</persName><persName type="9">chai
                            wang</persName></author>
-                     <author source="#300" key="person_2774"><persName>(明)顧雲鵬</persName><persName type="9">gu yun
+                     <author source="#300" key="person_2774"><persName xml:lang="chi">(明)顧雲鵬</persName><persName type="9">gu yun
                            peng</persName></author>
                   </msItem>
                </msContents>

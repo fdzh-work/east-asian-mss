@@ -49,13 +49,13 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">通鑑紀事本末 二百三十九卷</title>
+                     <title xml:lang="chi" source="#200">通鑑紀事本末 二百三十九卷</title>
                      <title source="#200|9">tong jian ji shi ben mo</title>
                      <note source="#290">(宋)袁樞撰</note>
                      <note source="#290">(明)張溥論正</note>
-                     <author source="#300" key="person_1602"><persName>(宋)袁樞</persName><persName type="9">yuan
+                     <author source="#300" key="person_1602"><persName xml:lang="chi">(宋)袁樞</persName><persName type="9">yuan
                            shu</persName></author>
-                     <author source="#300" key="person_2189"><persName>(明)張溥</persName><persName type="9">zhang
+                     <author source="#300" key="person_2189"><persName xml:lang="chi">(明)張溥</persName><persName type="9">zhang
                            pu</persName></author>
                   </msItem>
                </msContents>

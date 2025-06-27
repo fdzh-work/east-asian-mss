@@ -49,19 +49,19 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">顧氏遺書</title>
+                     <title xml:lang="chi" source="#200">顧氏遺書</title>
                      <title source="#200|9">gu shi yi shu</title>
                      <title type="variant" source="#230">武陵山人遺書</title>
                      <title source="#230|9" type="variant">wu ling shan ren yi shu</title>
                      <note source="#290">(清)顧觀光撰</note>
-                     <author source="#300" key="person_6235"><persName>(清)顧觀光</persName><persName type="9">gu guan
+                     <author source="#300" key="person_6235"><persName xml:lang="chi">(清)顧觀光</persName><persName type="9">gu guan
                            guang</persName></author>
                      <note source="#409">清光緒九年[1883]獨山莫祥芝上海刊民國印本</note>
                      <note source="#600">封面題名《武陵山人遺書》</note>
                      <msItem n="1">
                         <title>六秝通考 一卷</title>
                         <title source="9">liu li tong kao</title>
-                        <author key="person_6235"><persName>(清)顧觀光</persName><persName type="9">gu guan
+                        <author key="person_6235"><persName xml:lang="chi">(清)顧觀光</persName><persName type="9">gu guan
                               guang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150113/12:43:29|odh -->
@@ -70,7 +70,7 @@
                      <msItem n="2">
                         <title>九執秝解 一卷</title>
                         <title source="9">jiu zhi li jie</title>
-                        <author key="person_6235"><persName>(清)顧觀光</persName><persName type="9">gu guan
+                        <author key="person_6235"><persName xml:lang="chi">(清)顧觀光</persName><persName type="9">gu guan
                               guang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150113/12:47:17|odh -->
@@ -79,7 +79,7 @@
                      <msItem n="3">
                         <title>囘囘秝解 一卷</title>
                         <title source="9">hui hui li jie</title>
-                        <author key="person_6235"><persName>(清)顧觀光</persName><persName type="9">gu guan
+                        <author key="person_6235"><persName xml:lang="chi">(清)顧觀光</persName><persName type="9">gu guan
                               guang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150113/12:47:54|odh -->
@@ -88,7 +88,7 @@
                      <msItem n="4">
                         <title>算賸初編 一續編一卷餘編一卷</title>
                         <title source="9">suan sheng li jie</title>
-                        <author key="person_6235"><persName>(清)顧觀光</persName><persName type="9">gu guan
+                        <author key="person_6235"><persName xml:lang="chi">(清)顧觀光</persName><persName type="9">gu guan
                               guang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150113/12:49:52|odh -->
@@ -97,7 +97,7 @@
                      <msItem n="5">
                         <title>九數外錄 一卷</title>
                         <title source="9">jiu shu wai lu</title>
-                        <author key="person_6235"><persName>(清)顧觀光</persName><persName type="9">gu guan
+                        <author key="person_6235"><persName xml:lang="chi">(清)顧觀光</persName><persName type="9">gu guan
                               guang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150113/12:50:27|odh -->
@@ -106,7 +106,7 @@
                      <msItem n="6">
                         <title>神農本草經 四卷</title>
                         <title source="9">shen nong ben cao jing</title>
-                        <author key="person_6235"><persName>(清)顧觀光</persName><persName type="9">gu guan
+                        <author key="person_6235"><persName xml:lang="chi">(清)顧觀光</persName><persName type="9">gu guan
                               guang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150113/12:50:57|odh -->
@@ -115,7 +115,7 @@
                      <msItem n="7">
                         <title>周髀算經校勘記 一卷</title>
                         <title source="9">zhou bi suan jing jiao kan ji</title>
-                        <author key="person_6235"><persName>(清)顧觀光</persName><persName type="9">gu guan
+                        <author key="person_6235"><persName xml:lang="chi">(清)顧觀光</persName><persName type="9">gu guan
                               guang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150113/12:52:20|odh -->
@@ -124,7 +124,7 @@
                      <msItem n="8">
                         <title>傷寒雜病論補注 一卷</title>
                         <title source="9">shang han za bing lun bu zhu</title>
-                        <author key="person_6235"><persName>(清)顧觀光</persName><persName type="9">gu guan
+                        <author key="person_6235"><persName xml:lang="chi">(清)顧觀光</persName><persName type="9">gu guan
                               guang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150113/12:53:52|odh -->
@@ -133,7 +133,7 @@
                      <msItem n="9">
                         <title>吳越春秋校勘記 一卷</title>
                         <title source="9">wu yue chun qiu jiao kan ji</title>
-                        <author key="person_6235"><persName>(清)顧觀光</persName><persName type="9">gu guan
+                        <author key="person_6235"><persName xml:lang="chi">(清)顧觀光</persName><persName type="9">gu guan
                               guang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150113/12:56:04|odh -->
@@ -142,7 +142,7 @@
                      <msItem n="10">
                         <title>華陽國志校勘記 一卷</title>
                         <title source="9">hua yang guo zhi jiao kan ji</title>
-                        <author key="person_6235"><persName>(清)顧觀光</persName><persName type="9">gu guan
+                        <author key="person_6235"><persName xml:lang="chi">(清)顧觀光</persName><persName type="9">gu guan
                               guang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150113/12:56:39|odh -->

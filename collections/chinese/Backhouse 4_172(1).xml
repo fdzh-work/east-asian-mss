@@ -49,12 +49,12 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">寒山堂金石林時地攷 二卷</title>
+                     <title xml:lang="chi" source="#200">寒山堂金石林時地攷 二卷</title>
                      <title source="#200|9">han shan tang jin shi lin shi di kao</title>
                      <title type="variant" source="#230">金石林時地攷 二卷</title>
                      <title source="#230|9" type="variant">jin shi lin shi di kao</title>
                      <note source="#290">(明)趙均撰</note>
-                     <author source="#300" key="person_2632"><persName>(明)趙均</persName><persName type="9">zhao
+                     <author source="#300" key="person_2632"><persName xml:lang="chi">(明)趙均</persName><persName type="9">zhao
                            jun</persName></author>
                   </msItem>
                </msContents>

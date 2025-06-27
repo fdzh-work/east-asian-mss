@@ -46,7 +46,7 @@
                <head>書名: 晏子春秋 七卷 / (周)晏嬰撰 ; (清)蘇輿校<lb/>清光緒壬辰年[1892]長沙王氏思賢講舍刊本<lb/>線裝1冊 ; 27公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">晏子春秋 七卷</title><title source="#200|9">yan zi chun qiu</title><note source="#290">(周)晏嬰撰</note><note source="#290">(清)蘇輿校</note><author source="#300" key="person_505"><persName>(周)晏嬰</persName><persName type="9">yan ying</persName></author><author source="#300" key="person_5607"><persName>(清)蘇輿</persName><persName type="9">su yu</persName></author><note source="#409">清光緒壬辰年[1892]長沙王氏思賢講舍刊本</note><editor source="#440" role="pbl"><persName>思賢講舍</persName><persName type="9" role="pbl">si xian jiang she</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">晏子春秋 七卷</title><title source="#200|9">yan zi chun qiu</title><note source="#290">(周)晏嬰撰</note><note source="#290">(清)蘇輿校</note><author source="#300" key="person_505"><persName xml:lang="chi">(周)晏嬰</persName><persName type="9">yan ying</persName></author><author source="#300" key="person_5607"><persName xml:lang="chi">(清)蘇輿</persName><persName type="9">su yu</persName></author><note source="#409">清光緒壬辰年[1892]長沙王氏思賢講舍刊本</note><editor source="#440" role="pbl"><persName>思賢講舍</persName><persName type="9" role="pbl">si xian jiang she</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

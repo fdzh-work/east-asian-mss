@@ -49,17 +49,17 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">江西詩社宗派圖錄 一卷</title>
+                     <title xml:lang="chi" source="#200">江西詩社宗派圖錄 一卷</title>
                      <title source="#200|9">jiang xi shi she zong pai tu lu</title>
                      <note source="#290">(清)張泰來述</note>
-                     <author source="#300" key="person_4050"><persName>(清)張泰來</persName><persName type="9">zhang tai
+                     <author source="#300" key="person_4050"><persName xml:lang="chi">(清)張泰來</persName><persName type="9">zhang tai
                            lai</persName></author>
                   </msItem>
                   <msItem n="2">
-                     <title source="#201">附 江西詩派小序 一卷</title>
+                     <title xml:lang="chi" source="#201">附 江西詩派小序 一卷</title>
                      <title source="#201|9">jiang xi shi pai xiao xu</title>
                      <note source="#291">(宋)劉克莊撰</note>
-                     <author source="#301" key="person_965"><persName>(宋)劉克莊</persName><persName type="9">liu ke
+                     <author source="#301" key="person_965"><persName xml:lang="chi">(宋)劉克莊</persName><persName type="9">liu ke
                            zhuang</persName></author>
                   </msItem>
                </msContents>

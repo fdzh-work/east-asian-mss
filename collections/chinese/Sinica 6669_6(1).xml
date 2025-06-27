@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">樊樊山先生書琴樓夢</title>
+                     <title xml:lang="chi" source="#200">樊樊山先生書琴樓夢</title>
                      <title source="#200|9">fan fan shan xian sheng shu qin lou meng</title>
                      <note source="#290">樊樊山著作</note>
-                     <author source="#300"><persName>(民國)樊增祥</persName><persName type="9">fan zeng
+                     <author source="#300"><persName xml:lang="chi">(民國)樊增祥</persName><persName type="9">fan zeng
                            xiang</persName></author>
                      <note source="#600">民國三年[1914]上海國學書室鉛印本</note>
                   </msItem>

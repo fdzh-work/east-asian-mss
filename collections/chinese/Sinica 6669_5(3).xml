@@ -49,15 +49,15 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">哭庵丁戊詩集</title>
+                     <title xml:lang="chi" source="#200">哭庵丁戊詩集</title>
                      <title source="#200|9">ku an ding wu shi ji</title>
-                     <author source="#300" key="person_3122"><persName>(民國)易順鼎</persName><persName type="9">yi shun
+                     <author source="#300" key="person_3122"><persName xml:lang="chi">(民國)易順鼎</persName><persName type="9">yi shun
                            ding</persName></author>
                      <note source="#600">宣統中鉛印本</note>
                      <msItem n="1">
                         <title>宣南集 一卷</title>
                         <title source="9">xuan nan ji</title>
-                        <author key="person_3122"><persName>(民國)易順鼎</persName><persName type="9">yi shun
+                        <author key="person_3122"><persName xml:lang="chi">(民國)易順鼎</persName><persName type="9">yi shun
                               ding</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180614/00000038|odh -->
@@ -66,7 +66,7 @@
                      <msItem n="2">
                         <title>嶺南集 一卷補遺一卷</title>
                         <title source="9">ling nan ji</title>
-                        <author key="person_3122"><persName>(民國)易順鼎</persName><persName type="9">yi shun
+                        <author key="person_3122"><persName xml:lang="chi">(民國)易順鼎</persName><persName type="9">yi shun
                               ding</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180614/00000039|odh -->
@@ -75,7 +75,7 @@
                      <msItem n="3">
                         <title>甬東集 一卷</title>
                         <title source="9">yong dong ji</title>
-                        <author key="person_3122"><persName>(民國)易順鼎</persName><persName type="9">yi shun
+                        <author key="person_3122"><persName xml:lang="chi">(民國)易順鼎</persName><persName type="9">yi shun
                               ding</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180614/00000040|odh -->

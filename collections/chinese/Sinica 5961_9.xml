@@ -50,10 +50,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">文館詞林 殘二十三卷</title>
+                     <title xml:lang="chi" source="#200">文館詞林 殘二十三卷</title>
                      <title source="#200|9">wen guan ci lin</title>
                      <note source="#290">(唐)許敬宗等奉敕輯</note>
-                     <author source="#300" key="person_819"><persName>(唐)許敬宗</persName><persName type="9">xu jing
+                     <author source="#300" key="person_819"><persName xml:lang="chi">(唐)許敬宗</persName><persName type="9">xu jing
                            zong</persName></author>
                      <note source="#600">殘卷一百五十二﹑一百五十六至一百五十八﹑卷一百六十﹑卷三百四十六﹑卷三百四十七﹑卷四百十四﹑卷四百五十二﹑卷四百五十三﹑卷四百五十七﹑卷四百五十九﹑卷六百六十二﹑卷六百六十四至卷六百七十﹑卷六百九十一﹑卷六百九十五﹑卷六百九十九﹑附殘簡二</note>
                      <note source="#600">民國甲寅[1914]刊</note>

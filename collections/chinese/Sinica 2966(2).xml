@@ -46,7 +46,7 @@
                <head>書名: 聖諭廣訓 一卷 / (清)聖祖撰 ; (清)世宗廣訓<lb/>清刊本永賢堂藏板<lb/>洋裝(原線裝)1冊 ; 23冊<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">聖諭廣訓 一卷</title><title source="#200|9">sheng yu guang xun</title><note source="#290">(清)聖祖撰</note><note source="#290">(清)世宗廣訓</note><author source="#300" key="person_5350"><persName>(清)聖祖</persName><persName type="9">sheng zu</persName></author><author source="#300" key="person_3273"><persName>(清)世宗</persName><persName type="9">shi zong</persName></author><note source="#409">清刊本永賢堂藏板</note><editor source="#440" role="pbl"><persName>永賢堂</persName><persName type="9" role="pbl">yong xian tang</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">聖諭廣訓 一卷</title><title source="#200|9">sheng yu guang xun</title><note source="#290">(清)聖祖撰</note><note source="#290">(清)世宗廣訓</note><author source="#300" key="person_5350"><persName xml:lang="chi">(清)聖祖</persName><persName type="9">sheng zu</persName></author><author source="#300" key="person_3273"><persName xml:lang="chi">(清)世宗</persName><persName type="9">shi zong</persName></author><note source="#409">清刊本永賢堂藏板</note><editor source="#440" role="pbl"><persName>永賢堂</persName><persName type="9" role="pbl">yong xian tang</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

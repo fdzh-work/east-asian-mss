@@ -50,28 +50,28 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">晏子春秋 七卷</title>
+                     <title xml:lang="chi" source="#200">晏子春秋 七卷</title>
                      <title source="#200|9">yan zi chun qiu</title>
                      <note source="#290">(周)晏嬰撰</note>
                      <note source="#290">(清)孫星衍校</note>
-                     <author source="#300" key="person_505"><persName>(周)晏嬰</persName><persName type="9">yan
+                     <author source="#300" key="person_505"><persName xml:lang="chi">(周)晏嬰</persName><persName type="9">yan
                            ying</persName></author>
-                     <author source="#300" key="person_3855"><persName>(清)孫星衍</persName><persName type="9">sun xing
+                     <author source="#300" key="person_3855"><persName xml:lang="chi">(清)孫星衍</persName><persName type="9">sun xing
                            yan</persName></author>
                      <note source="#600">光緒元年[1875]刊</note>
                   </msItem>
                   <msItem n="2">
-                     <title source="#201">晏子春秋音義 二卷</title>
+                     <title xml:lang="chi" source="#201">晏子春秋音義 二卷</title>
                      <title source="#201|9">yan zi chun qiu yin yi</title>
                      <note source="#291">(清)孫星衍撰</note>
-                     <author source="#301" key="person_3855"><persName>(清)孫星衍</persName><persName type="9">sun xing
+                     <author source="#301" key="person_3855"><persName xml:lang="chi">(清)孫星衍</persName><persName type="9">sun xing
                            yan</persName></author>
                   </msItem>
                   <msItem n="3">
-                     <title source="#202">晏子春秋校勘 二卷</title>
+                     <title xml:lang="chi" source="#202">晏子春秋校勘 二卷</title>
                      <title source="#202|9">yan zi chun qiu jiao kan</title>
                      <note source="#292">(清)黃以周撰</note>
-                     <author source="#302" key="person_6353"><persName>(清)黃以周</persName><persName type="9">huang yi
+                     <author source="#302" key="person_6353"><persName xml:lang="chi">(清)黃以周</persName><persName type="9">huang yi
                            zhou</persName></author>
                   </msItem>
                </msContents>

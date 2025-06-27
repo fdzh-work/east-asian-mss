@@ -49,12 +49,12 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">元史 殘四十九卷附考證</title>
+                     <title xml:lang="chi" source="#200">元史 殘四十九卷附考證</title>
                      <title source="#200|9">yuan shi</title>
                      <note source="#290">(明)宋濂, (明)王禕等奉敕撰</note>
-                     <author source="#300" key="person_2144"><persName>(明)宋濂</persName><persName type="9">song
+                     <author source="#300" key="person_2144"><persName xml:lang="chi">(明)宋濂</persName><persName type="9">song
                            lian</persName></author>
-                     <author source="#300" key="person_2447"><persName>(明)王禕</persName><persName type="9">wang
+                     <author source="#300" key="person_2447"><persName xml:lang="chi">(明)王禕</persName><persName type="9">wang
                            yi</persName></author>
                      <note source="#600">全書二百十卷, 殘卷一至一百四十九</note>
                      <note source="#600">同治十三年[1874]江蘇書局重刊殿本</note>

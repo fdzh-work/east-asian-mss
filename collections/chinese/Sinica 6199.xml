@@ -46,8 +46,8 @@
                <head>書名: 新出苦情驚世木魚寒興取柴<lb/>三姑妹<lb/>廣州民智書店﹑大成書局排印本<lb/>洋裝(原平裝)1冊(36頁) ; 18公分<lb/>書皮題名《三姑妹. 寒興取柴》<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem><editor source="#440" role="pbl"><persName>民智書店</persName><persName type="9" role="pbl">min zhi shu dian</persName></editor><editor source="#440" role="pbl"><persName>大成書局</persName><persName type="9" role="pbl">da cheng shu ju</persName></editor><note source="#409">廣州民智書店﹑大成書局排印本</note><note source="#600">書皮題名《三姑妹. 寒興取柴》</note><msItem n="1">
-                  <title source="#200">新出苦情驚世木魚寒興取柴</title><title source="#200|9">xin chu ku qing jing shi mu yu han xing qu chai</title><title type="variant" source="#230">寒興取柴</title><title source="#230|9" type="variant">han xing qu chai</title></msItem>         
-               <msItem n="2"><title source="#201">三姑妹</title><title source="#201|9">san gu mei</title></msItem></msItem></msContents>
+                  <title xml:lang="chi" source="#200">新出苦情驚世木魚寒興取柴</title><title source="#200|9">xin chu ku qing jing shi mu yu han xing qu chai</title><title type="variant" source="#230">寒興取柴</title><title source="#230|9" type="variant">han xing qu chai</title></msItem>         
+               <msItem n="2"><title xml:lang="chi" source="#201">三姑妹</title><title source="#201|9">san gu mei</title></msItem></msItem></msContents>
                <physDesc>
                   
                   <objectDesc>

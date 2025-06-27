@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">樂府古題要解 二卷</title>
+                     <title xml:lang="chi" source="#200">樂府古題要解 二卷</title>
                      <title source="#200|9">yue fu gu ti yao jie</title>
                      <note source="#290">(唐)吳兢撰</note>
-                     <author source="#300" key="person_584"><persName>(唐)吳兢</persName><persName type="9">wu
+                     <author source="#300" key="person_584"><persName xml:lang="chi">(唐)吳兢</persName><persName type="9">wu
                            jing</persName></author>
                   </msItem>
                </msContents>

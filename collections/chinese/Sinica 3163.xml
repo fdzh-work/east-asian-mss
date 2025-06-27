@@ -48,16 +48,16 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">樊山全集</title>
+                     <title xml:lang="chi" source="#200">樊山全集</title>
                      <title source="#200|9">fan shan quan ji</title>
                      <note source="#290">(民國)樊增祥撰</note>
-                     <author source="#300"><persName>(民國)樊增祥</persName><persName type="9">fan zeng
+                     <author source="#300"><persName xml:lang="chi">(民國)樊增祥</persName><persName type="9">fan zeng
                            xiang</persName></author>
                      <note source="#409">清光緒中刊本</note>
                      <msItem n="1">
                         <title>樊山集 二十八卷</title>
                         <title source="9">fan shan ji</title>
-                        <author><persName>(民國)樊增祥</persName><persName type="9">fan zeng
+                        <author><persName xml:lang="chi">(民國)樊增祥</persName><persName type="9">fan zeng
                               xiang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150415/16:57:16|odh -->
@@ -67,7 +67,7 @@
                      <msItem n="2">
                         <title>樊山續集 二十八卷</title>
                         <title source="9">fan shan xu ji</title>
-                        <author><persName>(民國)樊增祥</persName><persName type="9">fan zeng
+                        <author><persName xml:lang="chi">(民國)樊增祥</persName><persName type="9">fan zeng
                               xiang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150415/16:58:19|odh -->
@@ -77,7 +77,7 @@
                      <msItem n="3">
                         <title>樊山公牘 三卷</title>
                         <title source="9">fan shan gong du</title>
-                        <author><persName>(民國)樊增祥</persName><persName type="9">fan zeng
+                        <author><persName xml:lang="chi">(民國)樊增祥</persName><persName type="9">fan zeng
                               xiang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150415/16:59:31|odh -->
@@ -87,7 +87,7 @@
                      <msItem n="4">
                         <title>樊山時文 一卷</title>
                         <title source="9">fan shan gong du</title>
-                        <author><persName>(民國)樊增祥</persName><persName type="9">fan zeng
+                        <author><persName xml:lang="chi">(民國)樊增祥</persName><persName type="9">fan zeng
                               xiang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150415/17:00:10|odh -->
@@ -97,7 +97,7 @@
                      <msItem n="5">
                         <title>樊山批判 十五卷</title>
                         <title source="9">fan shan pi pan</title>
-                        <author><persName>(民國)樊增祥</persName><persName type="9">fan zeng
+                        <author><persName xml:lang="chi">(民國)樊增祥</persName><persName type="9">fan zeng
                               xiang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150415/17:01:03|odh -->
@@ -108,9 +108,9 @@
                         <title>二家詠古詩 一卷</title>
                         <title source="9">er jia yong gu shi</title>
                         <note source="290">(清)張之洞, (民國)樊增祥合撰</note>
-                        <author key="person_3977"><persName>(清)張之洞</persName><persName type="9">zhang zhi
+                        <author key="person_3977"><persName xml:lang="chi">(清)張之洞</persName><persName type="9">zhang zhi
                               dong</persName></author>
-                        <author><persName>(民國)樊增祥</persName><persName type="9">fan zeng
+                        <author><persName xml:lang="chi">(民國)樊增祥</persName><persName type="9">fan zeng
                               xiang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150415/17:04:18|odh -->
@@ -121,9 +121,9 @@
                      <msItem n="7">
                         <title>二家試帖</title>
                         <title source="9">er jia shi tie</title>
-                        <author key="person_3977"><persName>(清)張之洞</persName><persName type="9">zhang zhi
+                        <author key="person_3977"><persName xml:lang="chi">(清)張之洞</persName><persName type="9">zhang zhi
                               dong</persName></author>
-                        <author><persName>(民國)樊增祥</persName><persName type="9">fan zeng
+                        <author><persName xml:lang="chi">(民國)樊增祥</persName><persName type="9">fan zeng
                               xiang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150415/17:07:20|odh -->
@@ -133,7 +133,7 @@
                         <msItem n="1">
                            <title>廣雅堂試帖 一卷</title>
                            <title source="9">guang ya tang shi tie</title>
-                           <author key="person_3977"><persName>(清)張之洞</persName><persName type="9">zhang zhi
+                           <author key="person_3977"><persName xml:lang="chi">(清)張之洞</persName><persName type="9">zhang zhi
                                  dong</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20150415/17:11:21|odh -->
@@ -143,7 +143,7 @@
                         <msItem n="2">
                            <title>畫妃亭試帖 一卷</title>
                            <title source="9">hua fei tang shi tie</title>
-                           <author><persName>(民國)樊增祥</persName><persName type="9">fan zeng
+                           <author><persName xml:lang="chi">(民國)樊增祥</persName><persName type="9">fan zeng
                                  xiang</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20150415/17:15:52|odh -->
@@ -153,9 +153,9 @@
                      <msItem n="8">
                         <title>二家詞鈔</title>
                         <title source="9">er jia ci chao</title>
-                        <author key="person_4494"><persName>(清)李慈銘</persName><persName type="9">li ci
+                        <author key="person_4494"><persName xml:lang="chi">(清)李慈銘</persName><persName type="9">li ci
                            ming</persName></author>
-                        <author><persName>(民國)樊增祥</persName><persName type="9">fan zeng
+                        <author><persName xml:lang="chi">(民國)樊增祥</persName><persName type="9">fan zeng
                               xiang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150415/17:08:41|odh -->
@@ -165,7 +165,7 @@
                         <msItem n="1">
                            <title>霞川花隱詞 二卷</title>
                            <title source="9">xia chuan hua yin ci</title>
-                           <author key="person_4494"><persName>(清)李慈銘</persName><persName type="9">li ci
+                           <author key="person_4494"><persName xml:lang="chi">(清)李慈銘</persName><persName type="9">li ci
                                  ming</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20150415/17:18:21|odh -->
@@ -175,7 +175,7 @@
                         <msItem n="2">
                            <title>五十麝齋詞賡 三卷</title>
                            <title source="9">wu shi she zhai ci geng</title>
-                           <author><persName>(民國)樊增祥</persName><persName type="9">fan zeng
+                           <author><persName xml:lang="chi">(民國)樊增祥</persName><persName type="9">fan zeng
                                  xiang</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20150415/17:21:03|odh -->

@@ -46,7 +46,7 @@
                <head>書名: 金生挑盒 一卷<lb/>廣州廣文堂刊本<lb/>毛裝1冊 : 圖 ; 20公分<lb/>封面題名《金生挑盒新南音》<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">金生挑盒 一卷</title><title source="#200|9">jin sheng tao an</title><title type="variant" source="#230">金生挑盒新南音</title><title source="#230|9" type="variant">jin sheng tao an xin nan yin</title><note source="#409">廣州廣文堂刊本</note><editor source="#440" role="pbl"><persName>廣文堂</persName><persName type="9" role="pbl">guang wen tang</persName></editor><note source="#600">封面題名《金生挑盒新南音》</note></msItem>         
+                  <title xml:lang="chi" source="#200">金生挑盒 一卷</title><title source="#200|9">jin sheng tao an</title><title type="variant" source="#230">金生挑盒新南音</title><title source="#230|9" type="variant">jin sheng tao an xin nan yin</title><note source="#409">廣州廣文堂刊本</note><editor source="#440" role="pbl"><persName>廣文堂</persName><persName type="9" role="pbl">guang wen tang</persName></editor><note source="#600">封面題名《金生挑盒新南音》</note></msItem>         
                </msContents>
                <physDesc>
                   

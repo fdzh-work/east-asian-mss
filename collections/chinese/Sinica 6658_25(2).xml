@@ -49,12 +49,12 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">黃伯思法帖刊誤 一卷</title>
+                     <title xml:lang="chi" source="#200">黃伯思法帖刊誤 一卷</title>
                      <title source="#200|9">huang bo si fa tie kan wu</title>
                      <title type="variant" source="#230">法帖刊誤</title>
                      <title source="#230|9" type="variant">fa tie kan wu</title>
                      <note source="#290">(宋)黃伯思撰</note>
-                     <author source="#300" key="person_1822"><persName>(宋)黃伯思</persName><persName type="9">huang bo
+                     <author source="#300" key="person_1822"><persName xml:lang="chi">(宋)黃伯思</persName><persName type="9">huang bo
                            si</persName></author>
                   </msItem>
                </msContents>

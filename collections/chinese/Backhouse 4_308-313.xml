@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">求表捷術 四種</title>
+                     <title xml:lang="chi" source="#200">求表捷術 四種</title>
                      <title source="#200|9">qiu biao jie shu</title>
                      <note source="#290">(清)戴煦撰</note>
-                     <author source="#300" key="person_4268"><persName>(清)戴煦</persName><persName type="9">dai
+                     <author source="#300" key="person_4268"><persName xml:lang="chi">(清)戴煦</persName><persName type="9">dai
                            xu</persName></author>
                   </msItem>
                </msContents>
@@ -101,7 +101,7 @@
                      <msItem>
                         <title>對數簡法 二卷</title>
                         <title source="9">dui shu jian fa</title>
-                        <author key="person_4268"><persName>(清)戴煦</persName><persName type="9">dai
+                        <author key="person_4268"><persName xml:lang="chi">(清)戴煦</persName><persName type="9">dai
                            xu</persName></author>
                      </msItem>
                   </msContents>
@@ -129,7 +129,7 @@
                      <msItem>
                         <title>續對數簡法 一卷</title>
                         <title source="9">xu dui shu jian fa</title>
-                        <author key="person_4268"><persName>(清)戴煦</persName><persName type="9">dai
+                        <author key="person_4268"><persName xml:lang="chi">(清)戴煦</persName><persName type="9">dai
                            xu</persName></author>
                      </msItem>
                   </msContents>
@@ -156,7 +156,7 @@
                      <msItem>
                         <title>外切密率 四卷</title>
                         <title source="9">wai qie mi shuai</title>
-                        <author key="person_4268"><persName>(清)戴煦</persName><persName type="9">dai
+                        <author key="person_4268"><persName xml:lang="chi">(清)戴煦</persName><persName type="9">dai
                            xu</persName></author>
                      </msItem>
                   </msContents>
@@ -184,7 +184,7 @@
                      <msItem>
                         <title>假數測圓 二卷</title>
                         <title source="9">jia shu ce yuan</title>
-                        <author key="person_4268"><persName>(清)戴煦</persName><persName type="9">dai
+                        <author key="person_4268"><persName xml:lang="chi">(清)戴煦</persName><persName type="9">dai
                            xu</persName></author>
                      </msItem>
                   </msContents>

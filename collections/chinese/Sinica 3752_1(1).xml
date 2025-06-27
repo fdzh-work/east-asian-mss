@@ -50,10 +50,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">萬木草堂叢書目錄 一卷</title>
+                     <title xml:lang="chi" source="#200">萬木草堂叢書目錄 一卷</title>
                      <title source="#200|9">wan mu cao tang cong shu mu lu</title>
                      <note source="#290">(民國)康有為撰</note>
-                     <author source="#300" key="person_3100"><persName>(民國)康有為</persName><persName type="9">kang you
+                     <author source="#300" key="person_3100"><persName xml:lang="chi">(民國)康有為</persName><persName type="9">kang you
                            wei</persName></author>
                   </msItem>
                </msContents>

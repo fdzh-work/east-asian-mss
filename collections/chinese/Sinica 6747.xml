@@ -47,10 +47,10 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">六子全書</title>
+                     <title xml:lang="chi" source="#200">六子全書</title>
                      <title source="#200|9">liu zi quan shu</title>
                      <note source="#290">(明)顧春輯</note>
-                     <author source="#300" key="person_2770"><persName>(明)顧春</persName><persName type="9">gu
+                     <author source="#300" key="person_2770"><persName xml:lang="chi">(明)顧春</persName><persName type="9">gu
                            chun</persName></author>
                      <note source="#409">民國甲寅[1913]右文社影印世德堂本</note>
                      <editor source="#440" role="pbl"><persName>右文社</persName><persName type="9" role="pbl">you wen she</persName></editor>

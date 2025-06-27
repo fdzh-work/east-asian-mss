@@ -46,7 +46,7 @@
                <head>書名: 天道溯源 三卷 / 美國丁韙良著<lb/>浙甯[Ningpo] : 華花書局, 1860<lb/>線裝1冊([7], 112頁) ; 23.8公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">天道溯源 三卷</title><title source="#200|9">tian dao su yuan</title><note source="#290">美國丁韙良著</note><author source="#300" key="person_6952"><persName>Martin, William Alexander Parsons</persName></author><editor source="#420" role="pbl"><persName>華花書局</persName><persName type="9" role="pbl">hua hua shu ju</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">天道溯源 三卷</title><title source="#200|9">tian dao su yuan</title><note source="#290">美國丁韙良著</note><author source="#300" key="person_6952"><persName xml:lang="chi">Martin, William Alexander Parsons</persName></author><editor source="#420" role="pbl"><persName>華花書局</persName><persName type="9" role="pbl">hua hua shu ju</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

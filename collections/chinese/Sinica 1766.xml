@@ -46,7 +46,7 @@
                <head>書名: Son-fah k'ae-t'ong / by W A P Martin<lb/>Nying-po [Ningpo], 1854<lb/>線裝1冊(63頁) ; 24.2公分<lb/>In romanised Ningpo dialect<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">Son-fah k'ae-t'ong</title><note source="#290">by W A P Martin</note><author source="#300" key="person_6952"><persName>Martin, William Alexander Parsons</persName></author><note source="#600">In romanised Ningpo dialect</note></msItem>         
+                  <title xml:lang="chi" source="#200">Son-fah k'ae-t'ong</title><note source="#290">by W A P Martin</note><author source="#300" key="person_6952"><persName xml:lang="chi">Martin, William Alexander Parsons</persName></author><note source="#600">In romanised Ningpo dialect</note></msItem>         
                </msContents>
                <physDesc>
                   

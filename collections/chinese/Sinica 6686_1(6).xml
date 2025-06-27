@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">大唐創業起居注 三卷</title>
+                     <title xml:lang="chi" source="#200">大唐創業起居注 三卷</title>
                      <title source="#200|9">da tang chuang ye qi ju zhu</title>
                      <note source="#290">(唐)溫大雅撰</note>
-                     <author source="#300"><persName>(唐)溫大雅</persName><persName type="9">wen da
+                     <author source="#300"><persName xml:lang="chi">(唐)溫大雅</persName><persName type="9">wen da
                            ya</persName></author>
                      <note source="#600">光緒乙巳[1905]刊</note>
                   </msItem>

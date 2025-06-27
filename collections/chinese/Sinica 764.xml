@@ -46,7 +46,7 @@
                <head>書名: 指月錄 三十二卷附音釋 / (明)瞿汝稷撰<lb/>清初靈隱寺釋弘禮集貲重刊本<lb/>線裝10冊 ; 27公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">指月錄 三十二卷附音釋</title><title source="#200|9">zhi yue lu</title><note source="#290">(明)瞿汝稷撰</note><author source="#300" key="person_2485"><persName>(明)瞿汝稷</persName><persName type="9">qu ru ji</persName></author><note source="#409">清初靈隱寺釋弘禮集貲重刊本</note><editor source="#440" role="pbl"><persName>靈隱寺</persName><persName type="9" role="pbl">ling yin si</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">指月錄 三十二卷附音釋</title><title source="#200|9">zhi yue lu</title><note source="#290">(明)瞿汝稷撰</note><author source="#300" key="person_2485"><persName xml:lang="chi">(明)瞿汝稷</persName><persName type="9">qu ru ji</persName></author><note source="#409">清初靈隱寺釋弘禮集貲重刊本</note><editor source="#440" role="pbl"><persName>靈隱寺</persName><persName type="9" role="pbl">ling yin si</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

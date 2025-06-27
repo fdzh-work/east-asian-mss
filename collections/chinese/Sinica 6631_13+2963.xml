@@ -50,12 +50,12 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">魏皇覽 一卷</title>
+                     <title xml:lang="chi" source="#200">魏皇覽 一卷</title>
                      <title source="#200|9">wei huang lan</title>
                      <note source="#290">(魏)劉邵, (魏)王象等撰</note>
-                     <author source="#300" key="person_6716"><persName>(魏)劉邵</persName><persName type="9">liu
+                     <author source="#300" key="person_6716"><persName xml:lang="chi">(魏)劉邵</persName><persName type="9">liu
                            shao</persName></author>
-                     <author source="#300" key="person_6739"><persName>(魏)王象</persName><persName type="9">wang
+                     <author source="#300" key="person_6739"><persName xml:lang="chi">(魏)王象</persName><persName type="9">wang
                            xiang</persName></author>
                   </msItem>
                </msContents>

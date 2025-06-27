@@ -51,13 +51,13 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">絕妙詞選 十卷</title>
+                     <title xml:lang="chi" source="#200">絕妙詞選 十卷</title>
                      <title source="#200|9">jue miao ci xuan</title>
                      <title type="variant" source="#230">中興以來絕妙詞選</title>
                      <title source="#230|9" type="variant">zhong xing yi lai jue miao ci
                         xuan</title>
                      <note source="#290">(宋)黃昇輯</note>
-                     <author source="#300" key="person_1832"><persName>(宋)黃昇</persName><persName type="9">huang
+                     <author source="#300" key="person_1832"><persName xml:lang="chi">(宋)黃昇</persName><persName type="9">huang
                            sheng</persName></author>
                      <note source="#600">景刊宋本</note>
                   </msItem>

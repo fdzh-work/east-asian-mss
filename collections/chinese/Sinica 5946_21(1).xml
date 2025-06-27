@@ -50,15 +50,15 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">吳越備史 四卷補遺一卷雜考一卷</title>
+                     <title xml:lang="chi" source="#200">吳越備史 四卷補遺一卷雜考一卷</title>
                      <title source="#200|9">wu yue bei shi</title>
                      <note source="#290">(宋)范坰, (宋)林禹撰</note>
                      <note source="#290">雜考(清)錢受徵撰</note>
-                     <author source="#300" key="person_1531"><persName>(宋)范坰</persName><persName type="9">fan
+                     <author source="#300" key="person_1531"><persName xml:lang="chi">(宋)范坰</persName><persName type="9">fan
                            jiong</persName></author>
-                     <author source="#300" key="person_1316"><persName>(宋)林禹</persName><persName type="9">lin
+                     <author source="#300" key="person_1316"><persName xml:lang="chi">(宋)林禹</persName><persName type="9">lin
                            yu</persName></author>
-                     <author source="#300" key="person_5912"><persName>(清)錢受徵</persName><persName type="9">qian shou
+                     <author source="#300" key="person_5912"><persName xml:lang="chi">(清)錢受徵</persName><persName type="9">qian shou
                            wei</persName></author>
                      <note source="#600">光緒乙未[1895]刊</note>
                   </msItem>

@@ -46,7 +46,7 @@
                <head>書名: 平安通書<lb/>寧波 : 華化聖經書房, 1850-1853<lb/>線裝1冊 (various pagings) : 圖 (some folding)<lb/>By D B McCartee<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">平安通書</title><title source="#200|9">ping an tong shu</title><author source="#300" key="person_6958"><persName>McCartee, Divie Bethune</persName></author><editor source="#420" role="pbl"><persName>華化聖經書房</persName><persName type="9" role="pbl">hua hua sheng jing shu fang</persName></editor><note source="#600">By D B McCartee</note></msItem>         
+                  <title xml:lang="chi" source="#200">平安通書</title><title source="#200|9">ping an tong shu</title><author source="#300" key="person_6958"><persName xml:lang="chi">McCartee, Divie Bethune</persName></author><editor source="#420" role="pbl"><persName>華化聖經書房</persName><persName type="9" role="pbl">hua hua sheng jing shu fang</persName></editor><note source="#600">By D B McCartee</note></msItem>         
                </msContents>
                <physDesc>
                   

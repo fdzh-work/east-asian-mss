@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">南宋四名臣詞集 一卷</title>
+                     <title xml:lang="chi" source="#200">南宋四名臣詞集 一卷</title>
                      <title source="#200|9">nan song si ming chen ci ji</title>
                      <note source="#290">(清)王鵬運輯</note>
-                     <author source="#300" key="person_5173"><persName>(清)王鵬運</persName><persName type="9">wang peng
+                     <author source="#300" key="person_5173"><persName xml:lang="chi">(清)王鵬運</persName><persName type="9">wang peng
                            yun</persName></author>
                   </msItem>
                </msContents>
@@ -98,7 +98,7 @@
                         <title>趙忠簡得全居士詞</title>
                         <title source="9">zhao zhong jian de quan ju shi ci</title>
                         <note source="290">(宋)趙鼎撰</note>
-                        <author key="person_1673"><persName>(宋)趙鼎</persName><persName type="9">zhao
+                        <author key="person_1673"><persName xml:lang="chi">(宋)趙鼎</persName><persName type="9">zhao
                            ding</persName></author>
                      </msItem>
                   </msContents>
@@ -124,7 +124,7 @@
                         <title>李莊簡詞</title>
                         <title source="9">li zhuang jian ci</title>
                         <note source="290">(宋)李光撰</note>
-                        <author key="person_1264"><persName>(宋)李光</persName><persName type="9">li
+                        <author key="person_1264"><persName xml:lang="chi">(宋)李光</persName><persName type="9">li
                            guang</persName></author>
                      </msItem>
                   </msContents>
@@ -150,7 +150,7 @@
                         <title>李忠定梁溪詞</title>
                         <title source="9">li zhong ding liang xi ci</title>
                         <note source="290">(宋)李綱撰</note>
-                        <author key="person_1293"><persName>(宋)李綱</persName><persName type="9">li
+                        <author key="person_1293"><persName xml:lang="chi">(宋)李綱</persName><persName type="9">li
                            gang</persName></author>
                      </msItem>
                   </msContents>
@@ -177,7 +177,7 @@
                         <title>胡忠簡澹菴長短句</title>
                         <title source="9">hu zhong jian dan an chang duan ju</title>
                         <note source="290">(宋)胡銓撰</note>
-                        <author key="person_1526"><persName>(宋)胡銓</persName><persName type="9">hu
+                        <author key="person_1526"><persName xml:lang="chi">(宋)胡銓</persName><persName type="9">hu
                            quan</persName></author>
                      </msItem>
                   </msContents>

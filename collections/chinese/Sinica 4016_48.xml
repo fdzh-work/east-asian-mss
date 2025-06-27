@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">洞天清祿集 一卷</title>
+                     <title xml:lang="chi" source="#200">洞天清祿集 一卷</title>
                      <title source="#200|9">dong tian qing lu ji</title>
                      <note source="#290">(宋)趙希鵠撰</note>
-                     <author source="#300" key="person_1650"><persName>(宋)趙希鵠</persName><persName type="9">zhao xi
+                     <author source="#300" key="person_1650"><persName xml:lang="chi">(宋)趙希鵠</persName><persName type="9">zhao xi
                            gu</persName></author>
                      <note source="#600">道光二十九年[1849]刊</note>
                   </msItem>

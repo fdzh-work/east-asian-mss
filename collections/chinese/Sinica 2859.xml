@@ -48,16 +48,16 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">李氏五種合刊</title>
+                     <title xml:lang="chi" source="#200">李氏五種合刊</title>
                      <title source="#200|9">li shi wu zhong he kan</title>
                      <note source="#290">(清)李兆洛撰</note>
-                     <author source="#300" key="person_4457"><persName>(清)李兆洛</persName><persName type="9">li zhao
+                     <author source="#300" key="person_4457"><persName xml:lang="chi">(清)李兆洛</persName><persName type="9">li zhao
                            luo</persName></author>
                      <note source="#409">清同治十年[1871]合肥李鴻章金陵刊本</note>
                      <msItem n="1">
                         <title>歷代地理志韻編今釋 二十卷</title>
                         <title source="9">li dai di li zhi yun bian jin shi</title>
-                        <author key="person_4457"><persName>(清)李兆洛</persName><persName type="9">li zhao
+                        <author key="person_4457"><persName xml:lang="chi">(清)李兆洛</persName><persName type="9">li zhao
                            luo</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150107/15:24:57|odh -->
@@ -66,7 +66,7 @@
                      <msItem n="2">
                         <title>皇朝輿地韻編 二卷</title>
                         <title source="9">huang chao yu di yun bian</title>
-                        <author key="person_4457"><persName>(清)李兆洛</persName><persName type="9">li zhao
+                        <author key="person_4457"><persName xml:lang="chi">(清)李兆洛</persName><persName type="9">li zhao
                            luo</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150107/15:26:05|odh -->
@@ -77,9 +77,9 @@
                         <title source="9">li dai di li yan ge tu</title>
                         <note source="290">(清)六嚴撰</note>
                         <note source="290">(清)馬徵麟增輯</note>
-                        <author key="person_3395"><persName>(清)六嚴</persName><persName type="9">lu
+                        <author key="person_3395"><persName xml:lang="chi">(清)六嚴</persName><persName type="9">lu
                            yan</persName></author>
-                        <author key="person_6257"><persName>(清)馬徵麟</persName><persName type="9">ma zheng
+                        <author key="person_6257"><persName xml:lang="chi">(清)馬徵麟</persName><persName type="9">ma zheng
                               lin</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150107/15:30:17|odh -->
@@ -90,7 +90,7 @@
                      <msItem n="4">
                         <title>皇朝一通輿圖 一卷</title>
                         <title source="9">huang chao yi tong yu tu</title>
-                        <author key="person_4457"><persName>(清)李兆洛</persName><persName type="9">li zhao
+                        <author key="person_4457"><persName xml:lang="chi">(清)李兆洛</persName><persName type="9">li zhao
                            luo</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150107/15:34:12|odh -->
@@ -101,9 +101,9 @@
                         <title source="9">ji yuan bian</title>
                         <note source="290">(清)李兆洛撰</note>
                         <note source="290">(清)六承如編</note>
-                        <author key="person_4457"><persName>(清)李兆洛</persName><persName type="9">li zhao
+                        <author key="person_4457"><persName xml:lang="chi">(清)李兆洛</persName><persName type="9">li zhao
                            luo</persName></author>
-                        <author key="person_3396"><persName>(清)六承如</persName><persName type="9">lu cheng
+                        <author key="person_3396"><persName xml:lang="chi">(清)六承如</persName><persName type="9">lu cheng
                            ru</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150107/15:29:07|odh -->

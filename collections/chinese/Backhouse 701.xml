@@ -46,7 +46,7 @@
                <head>書名: 書目提要 / 商務印書館編譯所編纂<lb/>清光緒三十四年[1908]上海該館排印本<lb/>平裝1冊 ； 23公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">書目提要</title><title source="#200|9">shu mu ti yao</title><note source="#290">商務印書館編譯所編纂</note><author><persName>商務印書館編譯所</persName><persName type="9">shang wu yin shu guan bian yi suo</persName></author><note source="#409">清光緒三十四年[1908]上海該館排印本</note><editor source="#440" role="pbl"><persName>商務印書館</persName><persName type="9" role="pbl">shang wu yin shu guan</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">書目提要</title><title source="#200|9">shu mu ti yao</title><note source="#290">商務印書館編譯所編纂</note><author><persName xml:lang="chi">商務印書館編譯所</persName><persName type="9">shang wu yin shu guan bian yi suo</persName></author><note source="#409">清光緒三十四年[1908]上海該館排印本</note><editor source="#440" role="pbl"><persName>商務印書館</persName><persName type="9" role="pbl">shang wu yin shu guan</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

@@ -46,7 +46,7 @@
                <head>書名: 新約全書<lb/>上海 : 美華書館, 1875<lb/>平裝1冊(350頁) ; 13.5公分<lb/>Delegates' version<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">新約全書</title><title source="#200|9">xin yue quan shu</title><editor source="#420" role="pbl"><persName>美華書館</persName><persName type="9" role="pbl">mei hua shu guan</persName></editor><note source="#600">Delegates' version</note></msItem>         
+                  <title xml:lang="chi" source="#200">新約全書</title><title source="#200|9">xin yue quan shu</title><editor source="#420" role="pbl"><persName>美華書館</persName><persName type="9" role="pbl">mei hua shu guan</persName></editor><note source="#600">Delegates' version</note></msItem>         
                </msContents>
                <physDesc>
                   

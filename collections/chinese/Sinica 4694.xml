@@ -46,7 +46,7 @@
                <head>書名: 莊子今箋 一卷 / 高亨撰<lb/>民國二十一年[1932]序開封岐文齋刊本<lb/>線裝2冊 ; 29公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">莊子今箋 一卷</title><title source="#200|9">zhuang zi jin jian</title><note source="#290">高亨撰</note><author source="#300" key="person_7204"><persName>高亨</persName><persName type="9">gao heng</persName></author><note source="#409">民國二十一年[1932]序開封岐文齋刊本</note><editor source="#440" role="pbl"><persName>岐文齋</persName><persName type="9" role="pbl">qi wen zhai</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">莊子今箋 一卷</title><title source="#200|9">zhuang zi jin jian</title><note source="#290">高亨撰</note><author source="#300" key="person_7204"><persName xml:lang="chi">高亨</persName><persName type="9">gao heng</persName></author><note source="#409">民國二十一年[1932]序開封岐文齋刊本</note><editor source="#440" role="pbl"><persName>岐文齋</persName><persName type="9" role="pbl">qi wen zhai</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

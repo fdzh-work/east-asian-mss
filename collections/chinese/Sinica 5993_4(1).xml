@@ -51,10 +51,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">東山詞 存卷上(原二卷)</title>
+                     <title xml:lang="chi" source="#200">東山詞 存卷上(原二卷)</title>
                      <title source="#200|9">dong shan ci</title>
                      <note source="#290">(宋)賀鑄撰</note>
-                     <author source="#300" key="person_1635"><persName>(宋)賀鑄</persName><persName type="9">he
+                     <author source="#300" key="person_1635"><persName xml:lang="chi">(宋)賀鑄</persName><persName type="9">he
                            zhu</persName></author>
                      <note source="#600">景刊宋本</note>
                   </msItem>

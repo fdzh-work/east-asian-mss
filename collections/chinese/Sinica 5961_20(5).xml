@@ -49,12 +49,12 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">虔臺節略 一卷</title>
+                     <title xml:lang="chi" source="#200">虔臺節略 一卷</title>
                      <title source="#200|9">qian tai jie lue</title>
-                     <title source="#200">附 彭節愍公家書 一卷</title>
+                     <title xml:lang="chi" source="#200">附 彭節愍公家書 一卷</title>
                      <title source="#200|9">peng jie min gong jia shu</title>
                      <note source="#290">(清)彭孫貽撰</note>
-                     <author source="#300" key="person_4143"><persName>(清)彭孫貽</persName><persName type="9">peng sun
+                     <author source="#300" key="person_4143"><persName xml:lang="chi">(清)彭孫貽</persName><persName type="9">peng sun
                            yi</persName></author>
                      <note source="#600">民國乙卯[1915]刊</note>
                   </msItem>

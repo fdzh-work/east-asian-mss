@@ -50,13 +50,13 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">孟子註疏 十四卷</title>
+                     <title xml:lang="chi" source="#200">孟子註疏 十四卷</title>
                      <title source="#200|9">meng zi zhu shu</title>
                      <note source="#290">(漢)趙岐注</note>
                      <note source="#290">(宋)孫奭音義并疏</note>
-                     <author source="#300" key="person_6601"><persName>(漢)趙岐</persName><persName type="9">zhao
+                     <author source="#300" key="person_6601"><persName xml:lang="chi">(漢)趙岐</persName><persName type="9">zhao
                            qi</persName></author>
-                     <author source="#300" key="person_1105"><persName>(宋)孫奭</persName><persName type="9">sun
+                     <author source="#300" key="person_1105"><persName xml:lang="chi">(宋)孫奭</persName><persName type="9">sun
                            shi</persName></author>
                   </msItem>
                </msContents>

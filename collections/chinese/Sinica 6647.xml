@@ -48,17 +48,17 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">對雨樓叢書 殘四種</title>
+                     <title xml:lang="chi" source="#200">對雨樓叢書 殘四種</title>
                      <title source="#200|9">dui yu lou cong shu</title>
                      <note source="#290">(清)繆荃孫輯</note>
-                     <author source="#300" key="person_5321"><persName>(清)繆荃孫</persName><persName type="9">miao quan
+                     <author source="#300" key="person_5321"><persName xml:lang="chi">(清)繆荃孫</persName><persName type="9">miao quan
                            sun</persName></author>
                      <note source="#409">清光緒中江陰繆氏刊本</note>
                      <msItem n="1">
                         <title>詩品 三卷</title>
                         <title source="9">shi pin</title>
                         <note source="290">(梁)鍾嶸撰</note>
-                        <author key="person_3059"><persName>(梁)鍾嶸</persName><persName type="9">zhong
+                        <author key="person_3059"><persName xml:lang="chi">(梁)鍾嶸</persName><persName type="9">zhong
                            rong</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180530/00000008|odh -->
@@ -69,7 +69,7 @@
                         <title>荀子考異 一卷</title>
                         <title source="9">xun zi kao yi</title>
                         <note source="290">(宋)錢佃撰</note>
-                        <author key="person_1721"><persName>(宋)錢佃</persName><persName type="9">qian
+                        <author key="person_1721"><persName xml:lang="chi">(宋)錢佃</persName><persName type="9">qian
                            dian</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180530/00000009|odh -->
@@ -80,7 +80,7 @@
                         <title>茅亭客話 十卷</title>
                         <title source="9">mao ting ke hua</title>
                         <note source="290">(宋)黃休復撰</note>
-                        <author key="person_1821"><persName>(宋)黃休復</persName><persName type="9">huang xiu
+                        <author key="person_1821"><persName xml:lang="chi">(宋)黃休復</persName><persName type="9">huang xiu
                               fu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180530/00000010|odh -->
@@ -92,9 +92,9 @@
                         <title source="9">nan chao shi jing yu</title>
                         <note source="290">(宋)洪邁撰</note>
                         <note source="290">札(清)繆荃孫撰</note>
-                        <author key="person_1390"><persName>(宋)洪邁</persName><persName type="9">hong
+                        <author key="person_1390"><persName xml:lang="chi">(宋)洪邁</persName><persName type="9">hong
                            mai</persName></author>
-                        <author key="person_5321"><persName>(清)繆荃孫</persName><persName type="9">miao quan
+                        <author key="person_5321"><persName xml:lang="chi">(清)繆荃孫</persName><persName type="9">miao quan
                               sun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180530/00000011|odh -->

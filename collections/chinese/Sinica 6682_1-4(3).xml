@@ -49,9 +49,9 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">柏堂經說</title>
+                     <title xml:lang="chi" source="#200">柏堂經說</title>
                      <title source="#200|9">bai tang jing shuo</title>
-                     <author source="#300"><persName>(清)方宗誠</persName><persName type="9">fang zong
+                     <author source="#300"><persName xml:lang="chi">(清)方宗誠</persName><persName type="9">fang zong
                            che</persName></author>
                   </msItem>
                </msContents>
@@ -96,7 +96,7 @@
                      <msItem>
                         <title>讀易筆記 二卷</title>
                         <title source="9">du yi bi ji</title>
-                        <author><persName>(清)方宗誠</persName><persName type="9">fang zong
+                        <author><persName xml:lang="chi">(清)方宗誠</persName><persName type="9">fang zong
                               cheng</persName></author>
                         <note source="600">光緒三年[1877]刊</note>
                      </msItem>
@@ -122,7 +122,7 @@
                      <msItem>
                         <title>書傳補義 三卷</title>
                         <title source="9">shu zhuan bu yi</title>
-                        <author><persName>(清)方宗誠</persName><persName type="9">fang zong
+                        <author><persName xml:lang="chi">(清)方宗誠</persName><persName type="9">fang zong
                               cheng</persName></author>
                         <note source="600">光緒二年[1876]刊</note>
                      </msItem>
@@ -148,7 +148,7 @@
                      <msItem>
                         <title>詩傳補義 三卷</title>
                         <title source="9">shi zhuan bu yi</title>
-                        <author><persName>(清)方宗誠</persName><persName type="9">fang zong
+                        <author><persName xml:lang="chi">(清)方宗誠</persName><persName type="9">fang zong
                               cheng</persName></author>
                         <note source="600">光緒元年[1875]刊</note>
                      </msItem>
@@ -174,7 +174,7 @@
                      <msItem>
                         <title>禮記集說補義 一卷</title>
                         <title source="9">li ji ji shuo bu yi</title>
-                        <author><persName>(清)方宗誠</persName><persName type="9">fang zong
+                        <author><persName xml:lang="chi">(清)方宗誠</persName><persName type="9">fang zong
                               cheng</persName></author>
                         <note source="600">光緒四年[1878]刊</note>
                      </msItem>
@@ -200,7 +200,7 @@
                      <msItem>
                         <title>春秋傳正誼 四卷</title>
                         <title source="9">chun qiu zhuan zheng yi</title>
-                        <author><persName>(清)方宗誠</persName><persName type="9">fang zong
+                        <author><persName xml:lang="chi">(清)方宗誠</persName><persName type="9">fang zong
                               cheng</persName></author>
                         <note source="600">光緒四年[1878]刊</note>
                      </msItem>
@@ -226,7 +226,7 @@
                      <msItem>
                         <title>春秋集義 十二卷</title>
                         <title source="9">chun qiu ji yi</title>
-                        <author><persName>(清)方宗誠</persName><persName type="9">fang zong
+                        <author><persName xml:lang="chi">(清)方宗誠</persName><persName type="9">fang zong
                               cheng</persName></author>
                         <note source="600">光緒八年[1882]刊</note>
                      </msItem>
@@ -252,7 +252,7 @@
                      <msItem>
                         <title>讀學庸筆記 二卷</title>
                         <title source="9">du xue yong bi ji</title>
-                        <author><persName>(清)方宗誠</persName><persName type="9">fang zong
+                        <author><persName xml:lang="chi">(清)方宗誠</persName><persName type="9">fang zong
                               cheng</persName></author>
                         <note source="600">光緒五年[1879]刊</note>
                      </msItem>
@@ -278,7 +278,7 @@
                      <msItem>
                         <title>孝經章義 一卷</title>
                         <title source="9">xiao jing zhang yi</title>
-                        <author><persName>(清)方宗誠</persName><persName type="9">fang zong
+                        <author><persName xml:lang="chi">(清)方宗誠</persName><persName type="9">fang zong
                               cheng</persName></author>
                         <note source="600">光緒八年[1882]刊</note>
                      </msItem>
@@ -304,7 +304,7 @@
                      <msItem>
                         <title>讀論孟筆記 三卷補記二卷</title>
                         <title source="9">du lun meng bi ji</title>
-                        <author><persName>(清)方宗誠</persName><persName type="9">fang zong
+                        <author><persName xml:lang="chi">(清)方宗誠</persName><persName type="9">fang zong
                               cheng</persName></author>
                         <note source="600">缺卷三</note>
                         <note source="600">光緒三年[1877]刊</note>

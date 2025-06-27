@@ -50,21 +50,21 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">老子道德經 二卷</title>
+                     <title xml:lang="chi" source="#200">老子道德經 二卷</title>
                      <title source="#200|9">lao zi dao de jing</title>
                      <note source="#290">(周)李耳撰</note>
                      <note source="#290">(魏)王弼注</note>
-                     <author source="#300" key="person_509"><persName>(周)李耳</persName><persName type="9">li
+                     <author source="#300" key="person_509"><persName xml:lang="chi">(周)李耳</persName><persName type="9">li
                            er</persName></author>
-                     <author source="#300" key="person_6736"><persName>(魏)王弼</persName><persName type="9">wang
+                     <author source="#300" key="person_6736"><persName xml:lang="chi">(魏)王弼</persName><persName type="9">wang
                            bi</persName></author>
                      <note source="#600">光緒元年[1875]刊</note>
                   </msItem>
                   <msItem n="2">
-                     <title source="#201">老子道經音義 一卷</title>
+                     <title xml:lang="chi" source="#201">老子道經音義 一卷</title>
                      <title source="#201|9">lao zi dao de jing</title>
                      <note source="#291">(唐)陸德明撰</note>
-                     <author source="#301" key="person_854"><persName>(唐)陸德明</persName><persName type="9">lu de
+                     <author source="#301" key="person_854"><persName xml:lang="chi">(唐)陸德明</persName><persName type="9">lu de
                            ming</persName></author>
                   </msItem>
                </msContents>

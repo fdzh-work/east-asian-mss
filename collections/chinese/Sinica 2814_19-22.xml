@@ -49,16 +49,16 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">崔舍人玉堂類稿 二十卷附錄一卷</title>
+                     <title xml:lang="chi" source="#200">崔舍人玉堂類稿 二十卷附錄一卷</title>
                      <title source="#200|9">cui she ren yu tang lei gao</title>
-                     <title source="#200">附 崔舍人西垣類稿 二卷</title>
+                     <title xml:lang="chi" source="#200">附 崔舍人西垣類稿 二卷</title>
                      <title source="#200|9">cui she ren xi yuan lei gao</title>
                      <title type="variant" source="#230">玉堂類稿</title>
                      <title source="#230|9" type="variant">yu tang lei gao</title>
                      <title type="variant" source="#230">西垣類稿</title>
                      <title source="#230|9" type="variant">xi yuan lei gao</title>
                      <note source="#290">(宋)崔敦詩撰</note>
-                     <author source="#300" key="person_1134"><persName>(宋)崔敦詩</persName><persName type="9">cui dun
+                     <author source="#300" key="person_1134"><persName xml:lang="chi">(宋)崔敦詩</persName><persName type="9">cui dun
                            shi</persName></author>
                   </msItem>
                </msContents>

@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">四印齋彙刻宋元三十一家詞</title>
+                     <title xml:lang="chi" source="#200">四印齋彙刻宋元三十一家詞</title>
                      <title source="#200|9">si yin zhai hui ke song yuan san shi yi jia ci</title>
                      <note source="#290">(清)王鵬運輯</note>
-                     <author source="#300" key="person_5173"><persName>(清)王鵬運</persName><persName type="9">wang peng
+                     <author source="#300" key="person_5173"><persName xml:lang="chi">(清)王鵬運</persName><persName type="9">wang peng
                            yun</persName></author>
                   </msItem>
                </msContents>
@@ -99,7 +99,7 @@
                         <title>逍遙詞 一卷</title>
                         <title source="9">xiao yao ci</title>
                         <note source="290">(宋)潘閬撰</note>
-                        <author key="person_1400"><persName>(宋)潘閬</persName><persName type="9">pan
+                        <author key="person_1400"><persName xml:lang="chi">(宋)潘閬</persName><persName type="9">pan
                            lang</persName></author>
                      </msItem>
                   </msContents>
@@ -125,7 +125,7 @@
                         <title>筠谿詞 一卷</title>
                         <title source="9">yun xi ci</title>
                         <note source="290">(宋)李彌遜撰</note>
-                        <author key="person_1275"><persName>(宋)李彌遜</persName><persName type="9">li mi
+                        <author key="person_1275"><persName xml:lang="chi">(宋)李彌遜</persName><persName type="9">li mi
                            xun</persName></author>
                      </msItem>
                   </msContents>
@@ -151,7 +151,7 @@
                         <title>栟櫚詞 一卷</title>
                         <title source="9">bing lu ci</title>
                         <note source="290">(宋)鄧肅撰</note>
-                        <author key="person_1699"><persName>(宋)鄧肅</persName><persName type="9">deng
+                        <author key="person_1699"><persName xml:lang="chi">(宋)鄧肅</persName><persName type="9">deng
                            su</persName></author>
                      </msItem>
                   </msContents>
@@ -177,7 +177,7 @@
                         <title>樵歌拾遺 一卷</title>
                         <title source="9">qiao ge shi yi</title>
                         <note source="290">(宋)朱敦儒撰</note>
-                        <author key="person_1247"><persName>(宋)朱敦儒</persName><persName type="9">zhu dun
+                        <author key="person_1247"><persName xml:lang="chi">(宋)朱敦儒</persName><persName type="9">zhu dun
                            ru</persName></author>
                      </msItem>
                   </msContents>
@@ -203,7 +203,7 @@
                         <title>梅詞 一卷</title>
                         <title source="9">mei ci</title>
                         <note source="290">(宋)朱雍撰</note>
-                        <author key="person_1256"><persName>(宋)朱雍</persName><persName type="9">zhu
+                        <author key="person_1256"><persName xml:lang="chi">(宋)朱雍</persName><persName type="9">zhu
                            yong</persName></author>
                      </msItem>
                   </msContents>
@@ -229,7 +229,7 @@
                         <title>綺川詞 一卷</title>
                         <title source="9">qi chuan ci</title>
                         <note source="290">(宋)倪偁撰</note>
-                        <author key="person_952"><persName>(宋)倪偁</persName><persName type="9">ni
+                        <author key="person_952"><persName xml:lang="chi">(宋)倪偁</persName><persName type="9">ni
                            cheng</persName></author>
                      </msItem>
                   </msContents>
@@ -255,7 +255,7 @@
                         <title>東溪詞 一卷</title>
                         <title source="9">dong xi ci</title>
                         <note source="290">(宋)高登撰</note>
-                        <author key="person_1806"><persName>(宋)高登</persName><persName type="9">gao
+                        <author key="person_1806"><persName xml:lang="chi">(宋)高登</persName><persName type="9">gao
                            deng</persName></author>
                      </msItem>
                   </msContents>
@@ -281,7 +281,7 @@
                         <title>文定公詞 一卷</title>
                         <title source="9">wen ding gong ci</title>
                         <note source="290">(宋)丘崈撰</note>
-                        <author key="person_928"><persName>(宋)丘崈</persName><persName type="9">qiu
+                        <author key="person_928"><persName xml:lang="chi">(宋)丘崈</persName><persName type="9">qiu
                            chong</persName></author>
                      </msItem>
                   </msContents>
@@ -307,7 +307,7 @@
                         <title>燕喜詞 一卷</title>
                         <title source="9">yan xi ci</title>
                         <note source="290">(宋)曹冠撰</note>
-                        <author key="person_1230"><persName>(宋)曹冠</persName><persName type="9">cao
+                        <author key="person_1230"><persName xml:lang="chi">(宋)曹冠</persName><persName type="9">cao
                            guan</persName></author>
                      </msItem>
                   </msContents>
@@ -333,7 +333,7 @@
                         <title>梅山詞 一卷</title>
                         <title source="9">mai shan ci</title>
                         <note source="290">(宋)姜特立撰</note>
-                        <author key="person_1091"><persName>(宋)姜特立</persName><persName type="9">jiang te
+                        <author key="person_1091"><persName xml:lang="chi">(宋)姜特立</persName><persName type="9">jiang te
                            li</persName></author>
                      </msItem>
                   </msContents>
@@ -359,7 +359,7 @@
                         <title>拙庵詞 一卷</title>
                         <title source="9">zhuo an ci</title>
                         <note source="290">(宋)趙磻老撰</note>
-                        <author key="person_1664"><persName>(宋)趙磻老</persName><persName type="9">zhao pan
+                        <author key="person_1664"><persName xml:lang="chi">(宋)趙磻老</persName><persName type="9">zhao pan
                               lao</persName></author>
                      </msItem>
                   </msContents>
@@ -385,7 +385,7 @@
                         <title>宣卿詞 一卷</title>
                         <title source="9">xuan qing ci</title>
                         <note source="290">(宋)袁去華撰</note>
-                        <author key="person_1601"><persName>(宋)袁去華</persName><persName type="9">yuan qu
+                        <author key="person_1601"><persName xml:lang="chi">(宋)袁去華</persName><persName type="9">yuan qu
                            hua</persName></author>
                      </msItem>
                   </msContents>
@@ -411,7 +411,7 @@
                         <title>晦菴詞 一卷</title>
                         <title source="9">hui an ci</title>
                         <note source="290">(宋)李處全撰</note>
-                        <author key="person_1295"><persName>(宋)李處全</persName><persName type="9">li chu
+                        <author key="person_1295"><persName xml:lang="chi">(宋)李處全</persName><persName type="9">li chu
                            quan</persName></author>
                      </msItem>
                   </msContents>
@@ -437,7 +437,7 @@
                         <title>養拙堂詞 一卷</title>
                         <title source="9">yang zhuo tang ci</title>
                         <note source="290">(宋)管鑑撰</note>
-                        <author key="person_1499"><persName>(宋)管鑑</persName><persName type="9">guan
+                        <author key="person_1499"><persName xml:lang="chi">(宋)管鑑</persName><persName type="9">guan
                            jian</persName></author>
                      </msItem>
                   </msContents>
@@ -463,7 +463,7 @@
                         <title>雙溪詩餘 一卷</title>
                         <title source="9">shuang xi shi yu</title>
                         <note source="290">(宋)王炎撰</note>
-                        <author key="person_1439"><persName>(宋)王炎</persName><persName type="9">wang
+                        <author key="person_1439"><persName xml:lang="chi">(宋)王炎</persName><persName type="9">wang
                            yan</persName></author>
                      </msItem>
                   </msContents>
@@ -489,7 +489,7 @@
                         <title>龍川詞補 一卷</title>
                         <title source="9">long chuan ci bu</title>
                         <note source="290">(宋)陳亮撰</note>
-                        <author key="person_1731"><persName>(宋)陳亮</persName><persName type="9">chen
+                        <author key="person_1731"><persName xml:lang="chi">(宋)陳亮</persName><persName type="9">chen
                            liang</persName></author>
                      </msItem>
                   </msContents>
@@ -515,7 +515,7 @@
                         <title>龜峰詞 一卷</title>
                         <title source="9">gui feng ci</title>
                         <note source="290">(宋)陳人傑撰</note>
-                        <author key="person_1732"><persName>(宋)陳人傑</persName><persName type="9">chen ren
+                        <author key="person_1732"><persName xml:lang="chi">(宋)陳人傑</persName><persName type="9">chen ren
                               jie</persName></author>
                      </msItem>
                   </msContents>
@@ -541,7 +541,7 @@
                         <title>梅屋詩餘 一卷</title>
                         <title source="9">mei wu shi yu</title>
                         <note source="290">(宋)許棐撰</note>
-                        <author key="person_1615"><persName>(宋)許棐</persName><persName type="9">xu
+                        <author key="person_1615"><persName xml:lang="chi">(宋)許棐</persName><persName type="9">xu
                            fei</persName></author>
                      </msItem>
                   </msContents>
@@ -567,7 +567,7 @@
                         <title>秋崖詞 一卷</title>
                         <title source="9">qiu ya ci</title>
                         <note source="290">(宋)方岳撰</note>
-                        <author key="person_1216"><persName>(宋)方岳</persName><persName type="9">fang
+                        <author key="person_1216"><persName xml:lang="chi">(宋)方岳</persName><persName type="9">fang
                            yue</persName></author>
                      </msItem>
                   </msContents>
@@ -593,7 +593,7 @@
                         <title>碎錦詞 一卷</title>
                         <title source="9">sui jin ci</title>
                         <note source="290">(元)李好古撰</note>
-                        <author key="person_157"><persName>(元)李好古</persName><persName type="9">li hao
+                        <author key="person_157"><persName xml:lang="chi">(元)李好古</persName><persName type="9">li hao
                            gu</persName></author>
                      </msItem>
                   </msContents>
@@ -619,7 +619,7 @@
                         <title>潛齋詞 一卷</title>
                         <title source="9">qian zhai ci</title>
                         <note source="290">(宋)何夢桂撰</note>
-                        <author key="person_936"><persName>(宋)何夢桂</persName><persName type="9">he meng
+                        <author key="person_936"><persName xml:lang="chi">(宋)何夢桂</persName><persName type="9">he meng
                            gui</persName></author>
                      </msItem>
                   </msContents>
@@ -645,7 +645,7 @@
                         <title>覆瓿詞 一卷</title>
                         <title source="9">fu pou ci</title>
                         <note source="290">(宋)趙必𤩪撰</note>
-                        <author key="person_1655"><persName>(宋)趙必𤩪</persName><persName type="9">zhao bi
+                        <author key="person_1655"><persName xml:lang="chi">(宋)趙必𤩪</persName><persName type="9">zhao bi
                               xiang</persName></author>
                      </msItem>
                   </msContents>
@@ -673,7 +673,7 @@
                         <title source="9">fu zhang ci</title>
                         <note source="290">(宋)佚名撰</note>
                         <note source="290">(宋)歐良輯</note>
-                        <author key="person_1348"><persName>(宋)歐良</persName><persName type="9">ou
+                        <author key="person_1348"><persName xml:lang="chi">(宋)歐良</persName><persName type="9">ou
                            liang</persName></author>
                      </msItem>
                   </msContents>
@@ -723,7 +723,7 @@
                         <title>藏春樂府 一卷</title>
                         <title source="9">cang chun yue fu</title>
                         <note source="290">(元)劉秉忠撰</note>
-                        <author key="person_69"><persName>(元)劉秉忠</persName><persName type="9">liu bing
+                        <author key="person_69"><persName xml:lang="chi">(元)劉秉忠</persName><persName type="9">liu bing
                               zhong</persName></author>
                      </msItem>
                   </msContents>
@@ -749,7 +749,7 @@
                         <title>淮陽樂府 一卷</title>
                         <title source="9">huai yang yue fu</title>
                         <note source="290">(元)張弘範撰</note>
-                        <author key="person_116"><persName>(元)張弘範</persName><persName type="9">zhang hong
+                        <author key="person_116"><persName xml:lang="chi">(元)張弘範</persName><persName type="9">zhang hong
                               fan</persName></author>
                      </msItem>
                   </msContents>
@@ -775,7 +775,7 @@
                         <title>樵菴詞 一卷</title>
                         <title source="9">qiao an ci</title>
                         <note source="290">(元)劉因撰</note>
-                        <author key="person_64"><persName>(元)劉因</persName><persName type="9">liu
+                        <author key="person_64"><persName xml:lang="chi">(元)劉因</persName><persName type="9">liu
                            yin</persName></author>
                      </msItem>
                   </msContents>
@@ -801,7 +801,7 @@
                         <title>牆東詩餘 一卷</title>
                         <title source="9">qiang dong shi yu</title>
                         <note source="290">(元)陸文圭撰</note>
-                        <author key="person_317"><persName>(元)陸文圭</persName><persName type="9">lu wen
+                        <author key="person_317"><persName xml:lang="chi">(元)陸文圭</persName><persName type="9">lu wen
                            gui</persName></author>
                      </msItem>
                   </msContents>
@@ -827,7 +827,7 @@
                         <title>天游詞 一卷</title>
                         <title source="9">tian you ci</title>
                         <note source="290">(元)詹玉撰</note>
-                        <author key="person_272"><persName>(元)詹玉</persName><persName type="9">zhan
+                        <author key="person_272"><persName xml:lang="chi">(元)詹玉</persName><persName type="9">zhan
                            yu</persName></author>
                      </msItem>
                   </msContents>
@@ -853,7 +853,7 @@
                         <title>草廬詞 一卷</title>
                         <title source="9">cao lu ci</title>
                         <note source="290">(元)吳澄撰</note>
-                        <author key="person_84"><persName>(元)吳澄</persName><persName type="9">wu
+                        <author key="person_84"><persName xml:lang="chi">(元)吳澄</persName><persName type="9">wu
                            cheng</persName></author>
                      </msItem>
                   </msContents>
@@ -879,7 +879,7 @@
                         <title>五峰詞 一卷</title>
                         <title source="9">wu feng ci</title>
                         <note source="290">(元)李孝光撰</note>
-                        <author key="person_158"><persName>(元)李孝光</persName><persName type="9">li xiao
+                        <author key="person_158"><persName xml:lang="chi">(元)李孝光</persName><persName type="9">li xiao
                               guang</persName></author>
                      </msItem>
                   </msContents>

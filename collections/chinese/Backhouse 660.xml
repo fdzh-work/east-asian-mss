@@ -46,7 +46,7 @@
                <head>書名: 公禱書<lb/>[Peking?], 1910<lb/>平裝1冊(710, 7頁) ; 18.5公分<lb/>Tr. by C P Scott<lb/>In Mandarin dialect<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">公禱書</title><title source="#200|9">gong dao shu</title><author source="#300" key="person_7028"><persName>Scott, Charles P</persName></author><note source="#600">Tr. by C P Scott</note><note source="#600">In Mandarin dialect</note></msItem>         
+                  <title xml:lang="chi" source="#200">公禱書</title><title source="#200|9">gong dao shu</title><author source="#300" key="person_7028"><persName xml:lang="chi">Scott, Charles P</persName></author><note source="#600">Tr. by C P Scott</note><note source="#600">In Mandarin dialect</note></msItem>         
                </msContents>
                <physDesc>
                   

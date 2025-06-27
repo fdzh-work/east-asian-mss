@@ -51,27 +51,27 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">南山堂自訂詩 十卷</title>
+                     <title xml:lang="chi" source="#200">南山堂自訂詩 十卷</title>
                      <title source="#200|9">nan shan tang zi ding shi</title>
                      <note source="#290">(清)吳景旭撰</note>
-                     <author source="#300" key="person_3587"><persName>(清)吳景旭</persName><persName type="9">wu jing
+                     <author source="#300" key="person_3587"><persName xml:lang="chi">(清)吳景旭</persName><persName type="9">wu jing
                            xu</persName></author>
                      <note source="#600">民國十二年[1923]﹑十年[1921]﹑十一年[1922]﹑五年[1916]刊</note>
                   </msItem>
                   <msItem n="2">
-                     <title source="#201">使交集 一卷</title>
+                     <title xml:lang="chi" source="#201">使交集 一卷</title>
                      <title source="#201|9">shi jiao ji</title>
-                     <title source="#201">吳太史遺稿 一卷</title>
+                     <title xml:lang="chi" source="#201">吳太史遺稿 一卷</title>
                      <title source="#201|9">wu tai shi yi gao</title>
                      <note source="#291">(清)吳光撰</note>
-                     <author source="#301" key="person_3539"><persName>(清)吳光</persName><persName type="9">wu
+                     <author source="#301" key="person_3539"><persName xml:lang="chi">(清)吳光</persName><persName type="9">wu
                            guang</persName></author>
                   </msItem>
                   <msItem n="3">
-                     <title source="#202">慈壽堂文鈔 八卷</title>
+                     <title xml:lang="chi" source="#202">慈壽堂文鈔 八卷</title>
                      <title source="#202|9">ci shou tang wen chao</title>
                      <note source="#292">(清)沈樹德撰</note>
-                     <author source="#302" key="person_4873"><persName>(清)沈樹德</persName><persName type="9">shen shu
+                     <author source="#302" key="person_4873"><persName xml:lang="chi">(清)沈樹德</persName><persName type="9">shen shu
                            de</persName></author>
                   </msItem>
                </msContents>

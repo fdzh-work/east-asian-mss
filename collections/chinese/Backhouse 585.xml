@@ -49,17 +49,17 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">宋名臣言行錄</title>
+                     <title xml:lang="chi" source="#200">宋名臣言行錄</title>
                      <title source="#200|9">song ming chen yan xing lu</title>
                      <note source="#290">(清)洪瑩編</note>
-                     <author source="#300" key="person_4919"><persName>(清)洪瑩</persName><persName type="9">hong
+                     <author source="#300" key="person_4919"><persName xml:lang="chi">(清)洪瑩</persName><persName type="9">hong
                            ying</persName></author>
                      <note source="#409">清道光元年[1821]歙洪瑩仿宋刊二十二年[1842]丹徒包良訓修補本</note>
                      <msItem n="1=前集">
                         <title>五朝名臣言行錄 十卷</title>
                         <title source="9">wu chao ming chen yan xing lu</title>
                         <note source="290">(宋)朱熹撰</note>
-                        <author key="person_1250"><persName>(宋)朱熹</persName><persName type="9">zhu
+                        <author key="person_1250"><persName xml:lang="chi">(宋)朱熹</persName><persName type="9">zhu
                            xi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20030513/11:59:07|odh -->
@@ -69,7 +69,7 @@
                         <title>三朝名臣言行錄 十四卷</title>
                         <title source="9">san chao ming chen yan xing lu</title>
                         <note source="290">(宋)朱熹撰</note>
-                        <author key="person_1250"><persName>(宋)朱熹</persName><persName type="9">zhu
+                        <author key="person_1250"><persName xml:lang="chi">(宋)朱熹</persName><persName type="9">zhu
                            xi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20030513/11:59:49|odh -->
@@ -79,7 +79,7 @@
                         <title>皇朝名臣言行 八卷</title>
                         <title source="9">huang chao ming chen yan xing lu</title>
                         <note source="290">(宋)李幼武撰</note>
-                        <author key="person_1273"><persName>(宋)李幼武</persName><persName type="9">li you
+                        <author key="person_1273"><persName xml:lang="chi">(宋)李幼武</persName><persName type="9">li you
                            wu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20030513/12:00:52|odh -->
@@ -89,7 +89,7 @@
                         <title>四朝名臣言行 上十三卷下十三卷</title>
                         <title source="9">si chao ming chen yan xing lu</title>
                         <note source="290">(宋)李幼武撰</note>
-                        <author key="person_1273"><persName>(宋)李幼武</persName><persName type="9">li you
+                        <author key="person_1273"><persName xml:lang="chi">(宋)李幼武</persName><persName type="9">li you
                            wu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20030513/12:01:39|odh -->
@@ -99,7 +99,7 @@
                         <title>皇朝道學名臣言行錄 十七卷</title>
                         <title source="9">huang chao dao xue ming chen yan xing lu</title>
                         <note source="290">(宋)李幼武撰</note>
-                        <author key="person_1273"><persName>(宋)李幼武</persName><persName type="9">li you
+                        <author key="person_1273"><persName xml:lang="chi">(宋)李幼武</persName><persName type="9">li you
                            wu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20030513/12:02:40|odh -->

@@ -50,14 +50,14 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">盧綝晉四王遺事 一卷</title>
+                     <title xml:lang="chi" source="#200">盧綝晉四王遺事 一卷</title>
                      <title source="#200|9">lu chen jin si wang yi shi</title>
                      <title type="variant" source="#230">晉四王遺事</title>
                      <title source="#230|9" type="variant">jin si wang yi shi</title>
                      <title type="variant" source="#230">晉四王起事</title>
                      <title source="#230|9" type="variant">jin si wang qi shi</title>
                      <note source="#290">(晉)盧綝撰</note>
-                     <author source="#300" key="person_2942"><persName>(晉)盧綝</persName><persName type="9">lu
+                     <author source="#300" key="person_2942"><persName xml:lang="chi">(晉)盧綝</persName><persName type="9">lu
                            chen</persName></author>
                      <note source="#600">一作《晉四王起事》</note>
                   </msItem>

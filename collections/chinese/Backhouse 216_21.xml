@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">沈四山人詩錄 六卷附錄一卷</title>
+                     <title xml:lang="chi" source="#200">沈四山人詩錄 六卷附錄一卷</title>
                      <title source="#200|9">shen si shan ren shi lu</title>
                      <note source="#290">(清)沈謹學撰</note>
-                     <author source="#300" key="person_4894"><persName>(清)沈謹學</persName><persName type="9">shen jin
+                     <author source="#300" key="person_4894"><persName xml:lang="chi">(清)沈謹學</persName><persName type="9">shen jin
                            xue</persName></author>
                      <note source="#600">光緒三年[1877]刊</note>
                   </msItem>

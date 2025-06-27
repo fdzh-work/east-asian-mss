@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">漢書地理志水道圖說補正 二卷</title>
+                     <title xml:lang="chi" source="#200">漢書地理志水道圖說補正 二卷</title>
                      <title source="#200|9">han shu di li zhi shui dao tu shuo bu zheng</title>
                      <note source="#290">(清)吳承志撰</note>
-                     <author source="#300" key="person_3579"><persName>(清)吳承志</persName><persName type="9">wu cheng
+                     <author source="#300" key="person_3579"><persName xml:lang="chi">(清)吳承志</persName><persName type="9">wu cheng
                            zhi</persName></author>
                      <note source="#600">民國辛酉[1921]刊</note>
                   </msItem>

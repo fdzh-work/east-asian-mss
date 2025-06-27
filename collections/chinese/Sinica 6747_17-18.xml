@@ -49,13 +49,13 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">沖虛至德真經 八卷</title>
+                     <title xml:lang="chi" source="#200">沖虛至德真經 八卷</title>
                      <title source="#200|9">chong xu zhi de zhen jing</title>
                      <note source="#290">(周)列禦寇撰</note>
                      <note source="#290">(晉)張湛注</note>
-                     <author source="#300" key="person_480"><persName>(周)列禦寇</persName><persName type="9">lie yu
+                     <author source="#300" key="person_480"><persName xml:lang="chi">(周)列禦寇</persName><persName type="9">lie yu
                            kou</persName></author>
-                     <author source="#300" key="person_2891"><persName>(晉)張湛</persName><persName type="9">zhang
+                     <author source="#300" key="person_2891"><persName xml:lang="chi">(晉)張湛</persName><persName type="9">zhang
                            zhan</persName></author>
                   </msItem>
                </msContents>

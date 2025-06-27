@@ -50,19 +50,19 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">南唐書 十八卷</title>
+                     <title xml:lang="chi" source="#200">南唐書 十八卷</title>
                      <title source="#200|9">nan tang shu</title>
                      <title type="variant" source="#230">陸氏南唐書</title>
                      <title source="#230|9" type="variant">lu shi nan tang shu</title>
                      <note source="#290">(宋)陸游撰</note>
-                     <author source="#300"><persName>(宋)陸游</persName><persName type="9">lu
+                     <author source="#300"><persName xml:lang="chi">(宋)陸游</persName><persName type="9">lu
                            you</persName></author>
                   </msItem>
                   <msItem n="2">
-                     <title source="#201">南唐書音釋 一卷</title>
+                     <title xml:lang="chi" source="#201">南唐書音釋 一卷</title>
                      <title source="#201|9">nan tang shu yin shi</title>
                      <note source="#291">(元)戚光撰</note>
-                     <author source="#301" key="person_128"><persName>(元)戚光</persName><persName type="9">qi
+                     <author source="#301" key="person_128"><persName xml:lang="chi">(元)戚光</persName><persName type="9">qi
                            guang</persName></author>
                   </msItem>
                </msContents>

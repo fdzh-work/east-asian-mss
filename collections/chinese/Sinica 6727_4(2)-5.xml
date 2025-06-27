@@ -49,9 +49,9 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">賭棋山莊筆記</title>
+                     <title xml:lang="chi" source="#200">賭棋山莊筆記</title>
                      <title source="#200|9">du qi shan zhuang bi ji</title>
-                     <author source="#300" key="person_5698"><persName>(清)謝章鋌</persName><persName type="9">xie zhang
+                     <author source="#300" key="person_5698"><persName xml:lang="chi">(清)謝章鋌</persName><persName type="9">xie zhang
                            ting</persName></author>
                      <note source="#600">光緒辛丑[1901]刊</note>
                   </msItem>
@@ -97,7 +97,7 @@
                      <msItem>
                         <title>圍爐瑣憶 一卷</title>
                         <title source="9">wei lu suo yi</title>
-                        <author key="person_5698"><persName>(清)謝章鋌</persName><persName type="9">xie zhang
+                        <author key="person_5698"><persName xml:lang="chi">(清)謝章鋌</persName><persName type="9">xie zhang
                               ting</persName></author>
                      </msItem>
                   </msContents>
@@ -122,7 +122,7 @@
                      <msItem>
                         <title>籐陰客贅 一卷</title>
                         <title source="9">teng yin ke zhui</title>
-                        <author key="person_5698"><persName>(清)謝章鋌</persName><persName type="9">xie zhang
+                        <author key="person_5698"><persName xml:lang="chi">(清)謝章鋌</persName><persName type="9">xie zhang
                               ting</persName></author>
                      </msItem>
                   </msContents>
@@ -147,7 +147,7 @@
                      <msItem>
                         <title>稗販雜錄 四卷</title>
                         <title source="9">bai fan za lu</title>
-                        <author key="person_5698"><persName>(清)謝章鋌</persName><persName type="9">xie zhang
+                        <author key="person_5698"><persName xml:lang="chi">(清)謝章鋌</persName><persName type="9">xie zhang
                               ting</persName></author>
                      </msItem>
                   </msContents>
@@ -174,7 +174,7 @@
                         <title>課餘偶錄 四卷續錄五卷</title>
                         <title source="9">ke yu ou lu</title>
                         <note source="290">光緒戊戌[1898]福州刊續錄庚子[1900]刊</note>
-                        <author key="person_5698"><persName>(清)謝章鋌</persName><persName type="9">xie zhang
+                        <author key="person_5698"><persName xml:lang="chi">(清)謝章鋌</persName><persName type="9">xie zhang
                               ting</persName></author>
                      </msItem>
                   </msContents>

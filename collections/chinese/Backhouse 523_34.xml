@@ -49,9 +49,9 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">明地理志圖</title>
+                     <title xml:lang="chi" source="#200">明地理志圖</title>
                      <title source="#200|9">ming di li zhi tu</title>
-                     <author source="#300" key="person_4671"><persName>(清)楊守敬</persName><persName type="9">yang shou
+                     <author source="#300" key="person_4671"><persName xml:lang="chi">(清)楊守敬</persName><persName type="9">yang shou
                            jing</persName></author>
                      <note source="#600">宣統二年[1910]鄂城刊</note>
                   </msItem>

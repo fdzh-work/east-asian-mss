@@ -46,7 +46,7 @@
                <head>書名: 十三經集字摹本 不分卷有缺 / (清)萬青銓撰<lb/>清刊本<lb/>線裝6冊 ; 24公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">十三經集字摹本 不分卷有缺</title><title source="#200|9">shi san jing ji zi mo ben</title><note source="#290">(清)萬青銓撰</note><author source="#300" key="person_5467"><persName>(清)萬青銓</persName><persName type="9">wan qing quan</persName></author><note source="#409">清刊本</note></msItem>         
+                  <title xml:lang="chi" source="#200">十三經集字摹本 不分卷有缺</title><title source="#200|9">shi san jing ji zi mo ben</title><note source="#290">(清)萬青銓撰</note><author source="#300" key="person_5467"><persName xml:lang="chi">(清)萬青銓</persName><persName type="9">wan qing quan</persName></author><note source="#409">清刊本</note></msItem>         
                </msContents>
                <physDesc>
                   

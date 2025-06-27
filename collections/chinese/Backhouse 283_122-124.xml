@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">宣和奉使高麗圖經 四十卷附錄一卷</title>
+                     <title xml:lang="chi" source="#200">宣和奉使高麗圖經 四十卷附錄一卷</title>
                      <title source="#200|9">xuan he feng shi gao li tu jing</title>
                      <note source="#290">(宋)徐兢撰</note>
-                     <author source="#300" key="person_1194"><persName>(宋)徐兢</persName><persName type="9">xu
+                     <author source="#300" key="person_1194"><persName xml:lang="chi">(宋)徐兢</persName><persName type="9">xu
                            jing</persName></author>
                      <note source="#600">乾隆五十八年[1793]刊</note>
                   </msItem>

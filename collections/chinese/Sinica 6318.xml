@@ -48,17 +48,17 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">梁氏筆記</title>
+                     <title xml:lang="chi" source="#200">梁氏筆記</title>
                      <title source="#200|9">liang shi bi ji</title>
                      <note source="#290">(清)梁章鉅撰</note>
-                     <author source="#300" key="person_4640"><persName>(清)梁章鉅</persName><persName type="9">liang zhang
+                     <author source="#300" key="person_4640"><persName xml:lang="chi">(清)梁章鉅</persName><persName type="9">liang zhang
                            ju</persName></author>
                      <note source="#409">民國十五年[1926]上海掃葉山房石印本</note>
                      <editor source="#440" role="pbl"><persName>掃葉山房</persName><persName type="9" role="pbl">sao ye shan fang</persName></editor>
                      <msItem n="1">
                         <title>歸田瑣記 八卷</title>
                         <title source="9">gui tian suo ji</title>
-                        <author key="person_4640"><persName>(清)梁章鉅</persName><persName type="9">liang zhang
+                        <author key="person_4640"><persName xml:lang="chi">(清)梁章鉅</persName><persName type="9">liang zhang
                               ju</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150324/15:48:37|odh -->
@@ -67,7 +67,7 @@
                      <msItem n="2">
                         <title>浪跡叢談 十一卷</title>
                         <title source="9">lang ji cong tan</title>
-                        <author key="person_4640"><persName>(清)梁章鉅</persName><persName type="9">liang zhang
+                        <author key="person_4640"><persName xml:lang="chi">(清)梁章鉅</persName><persName type="9">liang zhang
                               ju</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150324/15:49:28|odh -->
@@ -76,7 +76,7 @@
                      <msItem n="3">
                         <title>浪跡續談 八卷</title>
                         <title source="9">lang ji xu tan</title>
-                        <author key="person_4640"><persName>(清)梁章鉅</persName><persName type="9">liang zhang
+                        <author key="person_4640"><persName xml:lang="chi">(清)梁章鉅</persName><persName type="9">liang zhang
                               ju</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150324/15:50:51|odh -->

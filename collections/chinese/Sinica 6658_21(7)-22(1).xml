@@ -49,12 +49,12 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">重訂居官寡過錄 六卷</title>
+                     <title xml:lang="chi" source="#200">重訂居官寡過錄 六卷</title>
                      <title source="#200|9">chong ding ju guan gua guo lu</title>
                      <title type="variant" source="#230">居官寡過錄</title>
                      <title source="#230|9" type="variant">ju guan gua guo lu</title>
                      <note source="#290">(清)盤嶠野人輯</note>
-                     <author source="#300" key="person_5207"><persName>(清)盤嶠野人</persName><persName type="9">pan jiao
+                     <author source="#300" key="person_5207"><persName xml:lang="chi">(清)盤嶠野人</persName><persName type="9">pan jiao
                            ye ren</persName></author>
                   </msItem>
                </msContents>

@@ -46,7 +46,7 @@
                <head>書名: 聖會禱文<lb/>[Hong Kong], 1872<lb/>線裝1冊(111頁) ; 20.1公分<lb/>Tr. by J Piper<lb/>In Canton dialect<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">聖會禱文</title><title source="#200|9">sheng hui dao wen</title><author source="#300" key="person_6999"><persName>Piper, John</persName></author><note source="#600">Tr. by J Piper</note><note source="#600">In Canton dialect</note></msItem>         
+                  <title xml:lang="chi" source="#200">聖會禱文</title><title source="#200|9">sheng hui dao wen</title><author source="#300" key="person_6999"><persName xml:lang="chi">Piper, John</persName></author><note source="#600">Tr. by J Piper</note><note source="#600">In Canton dialect</note></msItem>         
                </msContents>
                <physDesc>
                   

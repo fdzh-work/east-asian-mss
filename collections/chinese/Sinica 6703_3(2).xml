@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">十三經詁答問 六卷</title>
+                     <title xml:lang="chi" source="#200">十三經詁答問 六卷</title>
                      <title source="#200|9">shi san jing gu da wen</title>
                      <note source="#290">(清)馮登府撰</note>
-                     <author source="#300" key="person_6284"><persName>(清)馮登府</persName><persName type="9">feng deng
+                     <author source="#300" key="person_6284"><persName xml:lang="chi">(清)馮登府</persName><persName type="9">feng deng
                            fu</persName></author>
                      <note source="#600">光緒丁亥[1887]刊</note>
                   </msItem>

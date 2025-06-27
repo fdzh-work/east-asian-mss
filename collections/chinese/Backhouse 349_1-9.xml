@@ -50,20 +50,20 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">續後漢書 四十二卷義例一卷音義四卷</title>
+                     <title xml:lang="chi" source="#200">續後漢書 四十二卷義例一卷音義四卷</title>
                      <title source="#200|9">xu hou han shu</title>
                      <title type="variant" source="#230">續後漢書札記</title>
                      <title source="#230|9" type="variant">xu hou han shu zha ji</title>
                      <note source="#290">(宋)蕭常撰</note>
-                     <author source="#300" key="person_1583"><persName>(宋)蕭常</persName><persName type="9">xiao
+                     <author source="#300" key="person_1583"><persName xml:lang="chi">(宋)蕭常</persName><persName type="9">xiao
                            chang</persName></author>
                      <note source="#600">道光辛丑[1841]刊刊</note>
                   </msItem>
                   <msItem n="2">
-                     <title source="#201">重刻續後漢書札記 一卷</title>
+                     <title xml:lang="chi" source="#201">重刻續後漢書札記 一卷</title>
                      <title source="#201|9">chong ke xu hou han shu zha ji</title>
                      <note source="#291">(清)郁松年撰</note>
-                     <author source="#301" key="person_5777"><persName>(清)郁松年</persName><persName type="9">yu song
+                     <author source="#301" key="person_5777"><persName xml:lang="chi">(清)郁松年</persName><persName type="9">yu song
                            nian</persName></author>
                   </msItem>
                </msContents>

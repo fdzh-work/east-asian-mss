@@ -46,7 +46,7 @@
                <head>書名: 稽神錄 六卷拾遺一卷 / (宋)徐鉉撰<lb/>民國八年[1919]上海商務印書館鉛字排印十六年[1927]五版本<lb/>線裝1冊 ; 27公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">稽神錄 六卷拾遺一卷</title><title source="#200|9">ji shen lu</title><note source="#290">(宋)徐鉉撰</note><author source="#300" key="person_1204"><persName>(宋)徐鉉</persName><persName type="9">xu xuan</persName></author><note source="#409">民國八年[1919]上海商務印書館鉛字排印十六年[1927]五版本</note><editor source="#440" role="pbl"><persName>商務印書館</persName><persName type="9" role="pbl">shang wu yin shu guan</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">稽神錄 六卷拾遺一卷</title><title source="#200|9">ji shen lu</title><note source="#290">(宋)徐鉉撰</note><author source="#300" key="person_1204"><persName xml:lang="chi">(宋)徐鉉</persName><persName type="9">xu xuan</persName></author><note source="#409">民國八年[1919]上海商務印書館鉛字排印十六年[1927]五版本</note><editor source="#440" role="pbl"><persName>商務印書館</persName><persName type="9" role="pbl">shang wu yin shu guan</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

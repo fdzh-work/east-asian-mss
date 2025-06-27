@@ -46,8 +46,8 @@
                <head>書名: 六指頭 一卷<lb/>萬花村 一卷<lb/>平分銀 一卷<lb/>民國丙寅[1926]漢口崇文堂刊本<lb/>線裝1冊 ; 19公分<lb/>封面題名《宣講驚人炮》<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem><editor source="#440" role="pbl"><persName>崇文堂</persName><persName type="9" role="pbl">chong wen tang</persName></editor><note source="#409">民國丙寅[1926]漢口崇文堂刊本</note><note source="#600">封面題名《宣講驚人炮》</note><msItem n="1">
-                  <title source="#200">六指頭 一卷</title><title source="#200|9">liu zhi tou</title><title type="variant" source="#230">宣講驚人炮</title><title source="#230|9" type="variant">xuan jiang jing ren pao</title></msItem>         
-               <msItem n="2"><title source="#201">萬花村 一卷</title><title source="#201|9">wan hua cun</title></msItem><msItem n="3"><title source="#202">平分銀 一卷</title><title source="#202|9">ping fen yin</title></msItem></msItem></msContents>
+                  <title xml:lang="chi" source="#200">六指頭 一卷</title><title source="#200|9">liu zhi tou</title><title type="variant" source="#230">宣講驚人炮</title><title source="#230|9" type="variant">xuan jiang jing ren pao</title></msItem>         
+               <msItem n="2"><title xml:lang="chi" source="#201">萬花村 一卷</title><title source="#201|9">wan hua cun</title></msItem><msItem n="3"><title xml:lang="chi" source="#202">平分銀 一卷</title><title source="#202|9">ping fen yin</title></msItem></msItem></msContents>
                <physDesc>
                   
                   <objectDesc>

@@ -46,7 +46,7 @@
                <head>書名: 毘陵集 十六 / (宋)張守撰<lb/>清翻刊《武英殿聚珍版書》本<lb/>線裝3冊 ; 25公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">毘陵集 十六</title><title source="#200|9">pi ling ji</title><note source="#290">(宋)張守撰</note><author source="#300" key="person_1153"><persName>(宋)張守</persName><persName type="9">zhang shou</persName></author><note source="#409">清翻刊《武英殿聚珍版書》本</note><editor source="#446" role="pbl"><persName>武英殿聚珍版書</persName><persName type="9" role="pbl">wu ying dian ju zhen ban shu</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">毘陵集 十六</title><title source="#200|9">pi ling ji</title><note source="#290">(宋)張守撰</note><author source="#300" key="person_1153"><persName xml:lang="chi">(宋)張守</persName><persName type="9">zhang shou</persName></author><note source="#409">清翻刊《武英殿聚珍版書》本</note><editor source="#446" role="pbl"><persName>武英殿聚珍版書</persName><persName type="9" role="pbl">wu ying dian ju zhen ban shu</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

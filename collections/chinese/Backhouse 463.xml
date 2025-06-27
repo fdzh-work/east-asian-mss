@@ -46,7 +46,7 @@
                <head>書名: 普通百科新大辭典 / (清)黃人編輯<lb/>(清)宣統辛亥[1911]上海國學扶輪社排印本<lb/>線裝15冊 ; 20公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">普通百科新大辭典</title><title source="#200|9">pu tong bai ke xin da ci dian</title><note source="#290">(清)黃人編輯</note><author source="#300" key="person_6352"><persName>(清)黃人</persName><persName type="9">huang ren</persName></author><note source="#409">(清)宣統辛亥[1911]上海國學扶輪社排印本</note><editor source="#440" role="pbl"><persName>國學扶輪社</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">普通百科新大辭典</title><title source="#200|9">pu tong bai ke xin da ci dian</title><note source="#290">(清)黃人編輯</note><author source="#300" key="person_6352"><persName xml:lang="chi">(清)黃人</persName><persName type="9">huang ren</persName></author><note source="#409">(清)宣統辛亥[1911]上海國學扶輪社排印本</note><editor source="#440" role="pbl"><persName>國學扶輪社</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

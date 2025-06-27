@@ -49,16 +49,16 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">鄭氏周易 三卷</title>
+                     <title xml:lang="chi" source="#200">鄭氏周易 三卷</title>
                      <title source="#200|9">zheng shi zhou yi</title>
                      <note source="#290">(漢)鄭玄撰</note>
                      <note source="#290">(宋)王應麟撰集</note>
                      <note source="#290">(清)惠棟增補</note>
-                     <author source="#300" key="person_6609"><persName>(漢)鄭玄</persName><persName type="9">zheng
+                     <author source="#300" key="person_6609"><persName xml:lang="chi">(漢)鄭玄</persName><persName type="9">zheng
                            xuan</persName></author>
-                     <author source="#300" key="person_1423"><persName>(宋)王應麟</persName><persName type="9">wang ying
+                     <author source="#300" key="person_1423"><persName xml:lang="chi">(宋)王應麟</persName><persName type="9">wang ying
                            lin</persName></author>
-                     <author source="#300" key="person_4245"><persName>(清)惠棟</persName><persName type="9">hui
+                     <author source="#300" key="person_4245"><persName xml:lang="chi">(清)惠棟</persName><persName type="9">hui
                            dong</persName></author>
                   </msItem>
                </msContents>

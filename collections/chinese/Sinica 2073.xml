@@ -46,7 +46,7 @@
                <head>書名: 上海土音字寫法<lb/>[Shanghai], [1855]<lb/>線裝1冊(20, 2頁) ; 16.6公分<lb/>By T P Crawford<lb/>Explanation of New Phonetic Character for writing Shanghai dialect<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">上海土音字寫法</title><title source="#200|9">shang hai tu bai zi xie fa</title><author source="#300" key="person_6819"><persName>Crawford, Tarleton Perry</persName></author><note source="#600">By T P Crawford</note><note source="#600">Explanation of New Phonetic Character for writing Shanghai dialect</note></msItem>         
+                  <title xml:lang="chi" source="#200">上海土音字寫法</title><title source="#200|9">shang hai tu bai zi xie fa</title><author source="#300" key="person_6819"><persName xml:lang="chi">Crawford, Tarleton Perry</persName></author><note source="#600">By T P Crawford</note><note source="#600">Explanation of New Phonetic Character for writing Shanghai dialect</note></msItem>         
                </msContents>
                <physDesc>
                   

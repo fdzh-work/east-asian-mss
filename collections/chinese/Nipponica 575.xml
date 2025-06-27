@@ -46,7 +46,7 @@
                <head>書名: 小學 內篇一卷外篇一卷 / (宋)朱熹撰<lb/>日本明治癸酉[1873]大阪前川文榮堂補刊本<lb/>線裝2冊 ; 25公分<lb/>封面題名《小學素讀本》<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">小學 內篇一卷外篇一卷</title><title source="#200|9">xiao xue</title><title type="variant" source="#230">小學素讀本</title><title source="#230|9" type="variant">xiao xue su du ben</title><note source="#290">(宋)朱熹撰</note><author source="#300" key="person_1250"><persName>(宋)朱熹</persName><persName type="9">zhu xi</persName></author><note source="#409">日本明治癸酉[1873]大阪前川文榮堂補刊本</note><editor source="#440" role="pbl"><persName>文榮堂</persName><persName type="9" role="pbl">bun'eidouj</persName></editor><note source="#600">封面題名《小學素讀本》</note></msItem>         
+                  <title xml:lang="chi" source="#200">小學 內篇一卷外篇一卷</title><title source="#200|9">xiao xue</title><title type="variant" source="#230">小學素讀本</title><title source="#230|9" type="variant">xiao xue su du ben</title><note source="#290">(宋)朱熹撰</note><author source="#300" key="person_1250"><persName xml:lang="chi">(宋)朱熹</persName><persName type="9">zhu xi</persName></author><note source="#409">日本明治癸酉[1873]大阪前川文榮堂補刊本</note><editor source="#440" role="pbl"><persName>文榮堂</persName><persName type="9" role="pbl">bun'eidouj</persName></editor><note source="#600">封面題名《小學素讀本》</note></msItem>         
                </msContents>
                <physDesc>
                   

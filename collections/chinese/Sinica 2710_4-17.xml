@@ -49,12 +49,12 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">本艸經疏 三十卷</title>
+                     <title xml:lang="chi" source="#200">本艸經疏 三十卷</title>
                      <title source="#200|9">ben cao jing shu</title>
                      <title type="variant" source="#230">本草經疏</title>
                      <title source="#230|9" type="variant">ben cao jing shu</title>
                      <note source="#290">(明)繆希雍撰</note>
-                     <author source="#300" key="person_2512"><persName>(明)繆希雍</persName><persName type="9">miao xi
+                     <author source="#300" key="person_2512"><persName xml:lang="chi">(明)繆希雍</persName><persName type="9">miao xi
                            yong</persName></author>
                   </msItem>
                </msContents>

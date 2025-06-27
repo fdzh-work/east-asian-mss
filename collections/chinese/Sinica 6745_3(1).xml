@@ -49,15 +49,15 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">易緯八種</title>
+                     <title xml:lang="chi" source="#200">易緯八種</title>
                      <title source="#200|9">yi wei ba zhong</title>
                      <note source="#290">(漢)鄭玄注</note>
-                     <author source="#300" key="person_6609"><persName>(漢)鄭玄</persName><persName type="9">zheng
+                     <author source="#300" key="person_6609"><persName xml:lang="chi">(漢)鄭玄</persName><persName type="9">zheng
                            xuan</persName></author>
                      <msItem n="1">
                         <title>易緯乾坤鑿度 二卷</title>
                         <title source="9">yi wei qian kun zao du</title>
-                        <author key="person_6609"><persName>(漢)鄭玄</persName><persName type="9">zheng
+                        <author key="person_6609"><persName xml:lang="chi">(漢)鄭玄</persName><persName type="9">zheng
                            xuan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20181016/00000006|odh -->
@@ -66,7 +66,7 @@
                      <msItem n="2">
                         <title>易緯乾鑿度 二卷</title>
                         <title source="9">yi wei qian zao du</title>
-                        <author key="person_6609"><persName>(漢)鄭玄</persName><persName type="9">zheng
+                        <author key="person_6609"><persName xml:lang="chi">(漢)鄭玄</persName><persName type="9">zheng
                            xuan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20181016/00000007|odh -->
@@ -75,7 +75,7 @@
                      <msItem n="3">
                         <title>易緯稽覽圖 二卷</title>
                         <title source="9">yi wei ji lan tu</title>
-                        <author key="person_6609"><persName>(漢)鄭玄</persName><persName type="9">zheng
+                        <author key="person_6609"><persName xml:lang="chi">(漢)鄭玄</persName><persName type="9">zheng
                            xuan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20181016/00000008|odh -->
@@ -84,7 +84,7 @@
                      <msItem n="4">
                         <title>易緯辨終備 一卷</title>
                         <title source="9">yi wei bian zhong bei</title>
-                        <author key="person_6609"><persName>(漢)鄭玄</persName><persName type="9">zheng
+                        <author key="person_6609"><persName xml:lang="chi">(漢)鄭玄</persName><persName type="9">zheng
                            xuan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20181016/00000009|odh -->
@@ -93,7 +93,7 @@
                      <msItem n="5">
                         <title>易緯通卦驗 二卷</title>
                         <title source="9">yi wei tong gua yan</title>
-                        <author key="person_6609"><persName>(漢)鄭玄</persName><persName type="9">zheng
+                        <author key="person_6609"><persName xml:lang="chi">(漢)鄭玄</persName><persName type="9">zheng
                            xuan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20181016/00000010|odh -->
@@ -102,7 +102,7 @@
                      <msItem n="6">
                         <title>易緯乾元序制記 一卷</title>
                         <title source="9">yi wei qian yuan xu zhi ji</title>
-                        <author key="person_6609"><persName>(漢)鄭玄</persName><persName type="9">zheng
+                        <author key="person_6609"><persName xml:lang="chi">(漢)鄭玄</persName><persName type="9">zheng
                            xuan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20181016/00000011|odh -->
@@ -111,7 +111,7 @@
                      <msItem n="7">
                         <title>易緯是類謀 一卷</title>
                         <title source="9">yi wei shi lei mou</title>
-                        <author key="person_6609"><persName>(漢)鄭玄</persName><persName type="9">zheng
+                        <author key="person_6609"><persName xml:lang="chi">(漢)鄭玄</persName><persName type="9">zheng
                            xuan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20181016/00000012|odh -->
@@ -120,7 +120,7 @@
                      <msItem n="8">
                         <title>易緯坤靈圖 一卷</title>
                         <title source="9">yi wei kun ling tu</title>
-                        <author key="person_6609"><persName>(漢)鄭玄</persName><persName type="9">zheng
+                        <author key="person_6609"><persName xml:lang="chi">(漢)鄭玄</persName><persName type="9">zheng
                            xuan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20181016/00000013|odh -->

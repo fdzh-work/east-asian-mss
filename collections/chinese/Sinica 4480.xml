@@ -46,8 +46,8 @@
                <head>書名: 三伯出山糊靈厝歌<lb/>三伯顯聖歌<lb/>民國五十年[1961]臺北排印四版本竹林書局發行<lb/>毛裝1冊 ; 16公分<lb/>封面題名《三伯出山續顯聖》<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem><editor source="#440" role="pbl"><persName>竹林書局</persName><persName type="9" role="pbl">zhu lin shu ju</persName></editor><note source="#409">民國五十年[1961]臺北排印四版本竹林書局發行</note><note source="#600">封面題名《三伯出山續顯聖》</note><msItem n="1">
-                  <title source="#200">三伯出山糊靈厝歌</title><title source="#200|9">san bo chu shan hu ling cuo ge</title><title type="variant" source="#230">三伯出山續顯聖</title><title source="#230|9" type="variant">san bo chu shan xu xian sheng</title></msItem>         
-               <msItem n="2"><title source="#201">三伯顯聖歌</title><title source="#201|9">san bo xian sheng ge</title></msItem></msItem></msContents>
+                  <title xml:lang="chi" source="#200">三伯出山糊靈厝歌</title><title source="#200|9">san bo chu shan hu ling cuo ge</title><title type="variant" source="#230">三伯出山續顯聖</title><title source="#230|9" type="variant">san bo chu shan xu xian sheng</title></msItem>         
+               <msItem n="2"><title xml:lang="chi" source="#201">三伯顯聖歌</title><title source="#201|9">san bo xian sheng ge</title></msItem></msItem></msContents>
                <physDesc>
                   
                   <objectDesc>

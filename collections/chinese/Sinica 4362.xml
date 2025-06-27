@@ -46,8 +46,8 @@
                <head>書名: 紅顏新歌<lb/>解心悶新歌<lb/>日本昭和七年[1932]臺北排印本<lb/>平裝1冊 ; 16公分<lb/>封面題名《新歌双璧》<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem><note source="#409">日本昭和七年[1932]臺北排印本</note><note source="#600">封面題名《新歌双璧》</note><msItem n="1">
-                  <title source="#200">紅顏新歌</title><title source="#200|9">hong yan xin ge</title><title type="variant" source="#230">新歌双璧</title><title source="#230|9" type="variant">xin ge shuang bi</title></msItem>         
-               <msItem n="2"><title source="#201">解心悶新歌</title><title source="#201|9">jia xin men xin ge</title></msItem></msItem></msContents>
+                  <title xml:lang="chi" source="#200">紅顏新歌</title><title source="#200|9">hong yan xin ge</title><title type="variant" source="#230">新歌双璧</title><title source="#230|9" type="variant">xin ge shuang bi</title></msItem>         
+               <msItem n="2"><title xml:lang="chi" source="#201">解心悶新歌</title><title source="#201|9">jia xin men xin ge</title></msItem></msItem></msContents>
                <physDesc>
                   
                   <objectDesc>

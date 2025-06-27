@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">太平治蹟統類 三十卷</title>
+                     <title xml:lang="chi" source="#200">太平治蹟統類 三十卷</title>
                      <title source="#200|9">tai ping zhi ji tong lei</title>
                      <note source="#290">(宋)彭百川撰</note>
-                     <author source="#300" key="person_1192"><persName>(宋)彭百川</persName><persName type="9">peng bai
+                     <author source="#300" key="person_1192"><persName xml:lang="chi">(宋)彭百川</persName><persName type="9">peng bai
                            chuan</persName></author>
                      <note source="#600">民國甲寅[1914]刊</note>
                   </msItem>

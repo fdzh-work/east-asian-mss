@@ -49,18 +49,18 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">求古居宋本書 一卷</title>
+                     <title xml:lang="chi" source="#200">求古居宋本書 一卷</title>
                      <title source="#200|9">qiu gu lu song ben shu</title>
                      <note source="#290">(清)黃丕烈撰</note>
-                     <author source="#300" key="person_6348"><persName>(清)黃丕烈</persName><persName type="9">huang pi
+                     <author source="#300" key="person_6348"><persName xml:lang="chi">(清)黃丕烈</persName><persName type="9">huang pi
                            lie</persName></author>
                      <note source="#600">民國七年[1918]刊</note>
                   </msItem>
                   <msItem n="2">
-                     <title source="#201">求古居宋本書考證 一卷</title>
+                     <title xml:lang="chi" source="#201">求古居宋本書考證 一卷</title>
                      <title source="#201|9">qiu gu lu song ben shu kao zheng</title>
                      <note source="#291">(民國)雷愷撰</note>
-                     <author source="#301" key="person_3218"><persName>(民國)雷愷</persName><persName type="9">lei
+                     <author source="#301" key="person_3218"><persName xml:lang="chi">(民國)雷愷</persName><persName type="9">lei
                            kai</persName></author>
                   </msItem>
                </msContents>

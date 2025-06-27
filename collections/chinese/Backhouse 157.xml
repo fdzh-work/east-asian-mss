@@ -46,8 +46,8 @@
                <head>書名: 文選 十二卷 / (梁)蕭統編<lb/>附 文選音注 十二卷 / (明)吳近仁撰<lb/>明萬曆二十三年[1595]晉陵吳近仁刊本<lb/>線裝12冊 ; 28公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem><note source="#409">明萬曆二十三年[1595]晉陵吳近仁刊本</note><msItem n="1">
-                  <title source="#200">文選 十二卷</title><title source="#200|9">wen xuan</title><note source="#290">(梁)蕭統編</note><author source="#300" key="person_3052"><persName>(梁)蕭統</persName><persName type="9">xiao tong</persName></author></msItem>         
-               <msItem n="2"><title source="#201">附 文選音注 十二卷</title><title source="#201|9">wen xuan yin zhu</title><note source="#291">(明)吳近仁撰</note><author source="#301" key="person_2067"><persName>(明)吳近仁</persName><persName type="9">qu jin ren</persName></author></msItem></msItem></msContents>
+                  <title xml:lang="chi" source="#200">文選 十二卷</title><title source="#200|9">wen xuan</title><note source="#290">(梁)蕭統編</note><author source="#300" key="person_3052"><persName xml:lang="chi">(梁)蕭統</persName><persName type="9">xiao tong</persName></author></msItem>         
+               <msItem n="2"><title xml:lang="chi" source="#201">附 文選音注 十二卷</title><title source="#201|9">wen xuan yin zhu</title><note source="#291">(明)吳近仁撰</note><author source="#301" key="person_2067"><persName xml:lang="chi">(明)吳近仁</persName><persName type="9">qu jin ren</persName></author></msItem></msItem></msContents>
                <physDesc>
                   
                   <p>朱筆批點</p><objectDesc>

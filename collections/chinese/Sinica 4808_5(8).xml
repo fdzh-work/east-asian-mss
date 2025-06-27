@@ -49,9 +49,9 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">發墨守 一卷</title>
+                     <title xml:lang="chi" source="#200">發墨守 一卷</title>
                      <title source="#200|9">fa mo shou</title>
-                     <author source="#300" key="person_6609"><persName>(漢)鄭玄</persName><persName type="9">zheng
+                     <author source="#300" key="person_6609"><persName xml:lang="chi">(漢)鄭玄</persName><persName type="9">zheng
                            xuan</persName></author>
                   </msItem>
                </msContents>

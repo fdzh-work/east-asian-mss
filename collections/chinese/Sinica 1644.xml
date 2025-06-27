@@ -46,7 +46,7 @@
                <head>書名: 慈惠博愛<lb/>新嘉坡 : 堅夏書院, 道光十九年[1839]<lb/>線裝1冊(5頁) ; 22.9公分<lb/>By K F A Gützlaff<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">慈惠博愛</title><title source="#200|9">zi hui bo ai</title><author source="#300" key="person_6873"><persName>Gützlaff, Karl Friedrich August</persName></author><editor source="#420" role="pbl"><persName>堅夏書院</persName><persName type="9" role="pbl">jian xia shu yuan</persName></editor><note source="#600">By K F A Gützlaff</note></msItem>         
+                  <title xml:lang="chi" source="#200">慈惠博愛</title><title source="#200|9">zi hui bo ai</title><author source="#300" key="person_6873"><persName xml:lang="chi">Gützlaff, Karl Friedrich August</persName></author><editor source="#420" role="pbl"><persName>堅夏書院</persName><persName type="9" role="pbl">jian xia shu yuan</persName></editor><note source="#600">By K F A Gützlaff</note></msItem>         
                </msContents>
                <physDesc>
                   

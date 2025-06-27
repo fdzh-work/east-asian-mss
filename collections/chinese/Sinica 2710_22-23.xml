@@ -49,16 +49,16 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">脈訣刊誤集解 二卷附錄一卷</title>
+                     <title xml:lang="chi" source="#200">脈訣刊誤集解 二卷附錄一卷</title>
                      <title source="#200|9">mai jue kan wu ji jie</title>
                      <note source="#290">(元)戴起宗撰</note>
                      <note source="#290">(明)朱升節抄</note>
                      <note source="#290">(明)汪機補訂併撰附錄</note>
-                     <author source="#300" key="person_132"><persName>(元)戴起宗</persName><persName type="9">dai qi
+                     <author source="#300" key="person_132"><persName xml:lang="chi">(元)戴起宗</persName><persName type="9">dai qi
                            zong</persName></author>
-                     <author source="#300" key="person_2264"><persName>(明)朱升節</persName><persName type="9">zhu sheng
+                     <author source="#300" key="person_2264"><persName xml:lang="chi">(明)朱升節</persName><persName type="9">zhu sheng
                            jie</persName></author>
-                     <author source="#300" key="person_2377"><persName>(明)汪機</persName><persName type="9">wang
+                     <author source="#300" key="person_2377"><persName xml:lang="chi">(明)汪機</persName><persName type="9">wang
                            ji</persName></author>
                   </msItem>
                </msContents>

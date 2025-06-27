@@ -50,10 +50,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">晉張景陽集 一卷</title>
+                     <title xml:lang="chi" source="#200">晉張景陽集 一卷</title>
                      <title source="#200|9">jin zhang jing yang ji</title>
                      <note source="#290">(晉)張協撰</note>
-                     <author source="#300" key="person_2887"><persName>(晉)張協</persName><persName type="9">zhang
+                     <author source="#300" key="person_2887"><persName xml:lang="chi">(晉)張協</persName><persName type="9">zhang
                            xie</persName></author>
                   </msItem>
                </msContents>

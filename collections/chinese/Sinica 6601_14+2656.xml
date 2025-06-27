@@ -50,10 +50,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">粵東市舶論 一卷</title>
+                     <title xml:lang="chi" source="#200">粵東市舶論 一卷</title>
                      <title source="#200|9">yue dong shi bo lun</title>
                      <note source="#290">(清)蕭令裕撰</note>
-                     <author source="#300" key="person_5580"><persName>(清)蕭令裕</persName><persName type="9">xiao ling
+                     <author source="#300" key="person_5580"><persName xml:lang="chi">(清)蕭令裕</persName><persName type="9">xiao ling
                            yu</persName></author>
                   </msItem>
                </msContents>

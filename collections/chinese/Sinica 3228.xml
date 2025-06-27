@@ -49,10 +49,10 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">雙硯齋叢書</title>
+                     <title xml:lang="chi" source="#200">雙硯齋叢書</title>
                      <title source="#200|9">shuang yan zhai cong shu</title>
                      <note source="#290">(民國)鄧邦述輯</note>
-                     <author source="#300" key="person_3199"><persName>(民國)鄧邦述</persName><persName type="9">deng bang
+                     <author source="#300" key="person_3199"><persName xml:lang="chi">(民國)鄧邦述</persName><persName type="9">deng bang
                            shu</persName></author>
                      <note source="#409">民國十一年[1922]江寧鄧氏刊一九八六年揚州江蘇廣陵古籍刻印社重印本</note>
                      <editor source="#440" role="pbl"><persName>江蘇廣陵古籍刻印社</persName><persName type="9" role="pbl">jiang su guang ling gu ji ke yin
@@ -61,7 +61,7 @@
                         <title>雙硯齋詩鈔 十六卷</title>
                         <title source="9">zhuang yan zhai shi chao</title>
                         <note source="290">(清)鄧廷楨撰</note>
-                        <author key="person_5831"><persName>(清)鄧廷楨</persName><persName type="9">deng ting
+                        <author key="person_5831"><persName xml:lang="chi">(清)鄧廷楨</persName><persName type="9">deng ting
                               zhen</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20200131/12:09:56|odh -->
@@ -71,7 +71,7 @@
                         <title>詩雙聲疊韻譜 一卷</title>
                         <title source="9">shi shuang sheng die yun pu</title>
                         <note source="290">(清)鄧廷楨撰</note>
-                        <author key="person_5831"><persName>(清)鄧廷楨</persName><persName type="9">deng ting
+                        <author key="person_5831"><persName xml:lang="chi">(清)鄧廷楨</persName><persName type="9">deng ting
                               zhen</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20200131/12:17:40|odh -->
@@ -81,7 +81,7 @@
                         <title>許氏說文雙聲叠韻譜 一卷</title>
                         <title source="9">xu shi shuo wen jie zi shuang sheng die yun pu</title>
                         <note source="290">(清)鄧廷楨撰</note>
-                        <author key="person_5831"><persName>(清)鄧廷楨</persName><persName type="9">deng ting
+                        <author key="person_5831"><persName xml:lang="chi">(清)鄧廷楨</persName><persName type="9">deng ting
                               zhen</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20200131/12:19:45|odh -->
@@ -91,7 +91,7 @@
                         <title>雙硯齋筆記 六卷</title>
                         <title source="9">shuang yan zhai bi ji</title>
                         <note source="290">(清)鄧廷楨撰</note>
-                        <author key="person_5831"><persName>(清)鄧廷楨</persName><persName type="9">deng ting
+                        <author key="person_5831"><persName xml:lang="chi">(清)鄧廷楨</persName><persName type="9">deng ting
                               zhen</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20200131/12:20:51|odh -->
@@ -101,7 +101,7 @@
                         <title>雙硯齋詞鈔 二卷</title>
                         <title source="9">zhuang yan zhai ci chao</title>
                         <note source="290">(清)鄧廷楨撰</note>
-                        <author key="person_5831"><persName>(清)鄧廷楨</persName><persName type="9">deng ting
+                        <author key="person_5831"><persName xml:lang="chi">(清)鄧廷楨</persName><persName type="9">deng ting
                               zhen</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20200131/12:22:01|odh -->
@@ -111,7 +111,7 @@
                         <title>空一切盦詞 一卷</title>
                         <title source="9">kong yi qie an ci</title>
                         <note source="290">(清)鄧嘉純撰</note>
-                        <author key="person_5827"><persName>(清)鄧嘉純</persName><persName type="9">deng jia
+                        <author key="person_5827"><persName xml:lang="chi">(清)鄧嘉純</persName><persName type="9">deng jia
                               chun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20200131/12:24:26|odh -->
@@ -121,7 +121,7 @@
                         <title>晴花暖玉詞 一卷</title>
                         <title source="9">qing hua nuan yu ci</title>
                         <note source="290">(清)鄧嘉縝撰</note>
-                        <author key="person_5829"><persName>(清)鄧嘉縝</persName><persName type="9">deng jia
+                        <author key="person_5829"><persName xml:lang="chi">(清)鄧嘉縝</persName><persName type="9">deng jia
                               zhen</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20200131/12:27:06|odh -->

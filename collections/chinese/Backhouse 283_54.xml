@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">離騷草木疏 四卷</title>
+                     <title xml:lang="chi" source="#200">離騷草木疏 四卷</title>
                      <title source="#200|9">li sao cao mu shu</title>
                      <note source="#290">(宋)吳仁傑撰</note>
-                     <author source="#300" key="person_1012"><persName>(宋)吳仁傑</persName><persName type="9">wu ren
+                     <author source="#300" key="person_1012"><persName xml:lang="chi">(宋)吳仁傑</persName><persName type="9">wu ren
                            jie</persName></author>
                      <note source="#600">乾隆四十五年[1780]刊</note>
                   </msItem>

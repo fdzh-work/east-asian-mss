@@ -49,14 +49,14 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">釋地三種</title>
+                     <title xml:lang="chi" source="#200">釋地三種</title>
                      <title source="#200|9">shi di san zhong</title>
-                     <author source="#300" key="person_3664"><persName>(清)呂調陽</persName><persName type="9">lu tiao
+                     <author source="#300" key="person_3664"><persName xml:lang="chi">(清)呂調陽</persName><persName type="9">lu tiao
                            yang</persName></author>
                      <msItem n="1">
                         <title>羣經釋地 六卷</title>
                         <title source="9">qun jing shi di</title>
-                        <author key="person_3664"><persName>(清)呂調陽</persName><persName type="9">lu tiao
+                        <author key="person_3664"><persName xml:lang="chi">(清)呂調陽</persName><persName type="9">lu tiao
                               yang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20141029/11:08:26|odh -->
@@ -66,7 +66,7 @@
                      <msItem n="2">
                         <title>古史釋地 三卷</title>
                         <title source="9">gu shi shi di</title>
-                        <author key="person_3664"><persName>(清)呂調陽</persName><persName type="9">lu tiao
+                        <author key="person_3664"><persName xml:lang="chi">(清)呂調陽</persName><persName type="9">lu tiao
                               yang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20141029/11:09:01|odh -->
@@ -76,7 +76,7 @@
                      <msItem n="3">
                         <title>諸子釋地 一卷</title>
                         <title source="9">zhu zi shi di</title>
-                        <author key="person_3664"><persName>(清)呂調陽</persName><persName type="9">lu tiao
+                        <author key="person_3664"><persName xml:lang="chi">(清)呂調陽</persName><persName type="9">lu tiao
                               yang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20141029/11:09:35|odh -->

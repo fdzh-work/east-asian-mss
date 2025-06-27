@@ -49,9 +49,9 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">張文襄公駢體文 二卷</title>
+                     <title xml:lang="chi" source="#200">張文襄公駢體文 二卷</title>
                      <title source="#200|9">zhang wen xiang gong pian ti wen</title>
-                     <author source="#300" key="person_3977"><persName>(清)張之洞</persName><persName type="9">zhang zhi
+                     <author source="#300" key="person_3977"><persName xml:lang="chi">(清)張之洞</persName><persName type="9">zhang zhi
                            dong</persName></author>
                   </msItem>
                </msContents>

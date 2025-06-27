@@ -51,11 +51,11 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">大洋海大西洋海印度海北冰海南冰海攷 一卷</title>
+                     <title xml:lang="chi" source="#200">大洋海大西洋海印度海北冰海南冰海攷 一卷</title>
                      <title source="#200|9">da xi yang da xi yang hai yin du hai bei bing hai nan
                         bing hai kao</title>
                      <note source="#290">(清)楊毓輝撰</note>
-                     <author source="#300" key="person_4689"><persName>(清)楊毓輝</persName><persName type="9">yang yu
+                     <author source="#300" key="person_4689"><persName xml:lang="chi">(清)楊毓輝</persName><persName type="9">yang yu
                            hui</persName></author>
                   </msItem>
                </msContents>

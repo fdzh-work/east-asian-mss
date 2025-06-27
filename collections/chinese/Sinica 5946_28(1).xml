@@ -49,15 +49,15 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">湻祐臨安志輯逸 八卷</title>
+                     <title xml:lang="chi" source="#200">湻祐臨安志輯逸 八卷</title>
                      <title source="#200|9">chun you lin an zhi jiyi</title>
                      <title type="variant" source="#230">淳祐臨安志輯逸</title>
                      <title source="#230|9" type="variant">chun you lin an zhi jiyi</title>
                      <note source="#290">(宋)施諤撰</note>
                      <note source="#290">(清)胡敬輯</note>
-                     <author source="#300" key="person_1220"><persName>(宋)施諤</persName><persName type="9">shi
+                     <author source="#300" key="person_1220"><persName xml:lang="chi">(宋)施諤</persName><persName type="9">shi
                            e</persName></author>
-                     <author source="#300" key="person_5372"><persName>(清)胡敬</persName><persName type="9">hu
+                     <author source="#300" key="person_5372"><persName xml:lang="chi">(清)胡敬</persName><persName type="9">hu
                            jing</persName></author>
                      <note source="#600">光緒庚子[1900]刊</note>
                   </msItem>

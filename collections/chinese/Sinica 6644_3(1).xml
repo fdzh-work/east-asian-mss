@@ -49,13 +49,13 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">補漢兵志 一卷札記一卷</title>
+                     <title xml:lang="chi" source="#200">補漢兵志 一卷札記一卷</title>
                      <title source="#200|9">bu han bing zhi</title>
                      <note source="#290">(宋)錢文子撰</note>
                      <note source="#290">札記(民國)徐乃昌撰</note>
-                     <author source="#300" key="person_1723"><persName>(宋)錢文子</persName><persName type="9">qian wen
+                     <author source="#300" key="person_1723"><persName xml:lang="chi">(宋)錢文子</persName><persName type="9">qian wen
                            zi</persName></author>
-                     <author source="#300"><persName>(民國)徐乃昌</persName><persName type="9">xu nai
+                     <author source="#300"><persName xml:lang="chi">(民國)徐乃昌</persName><persName type="9">xu nai
                            chang</persName></author>
                      <note source="#600">影刊影宋鈔本</note>
                   </msItem>

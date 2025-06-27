@@ -48,17 +48,17 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">劉向新序說苑</title>
+                     <title xml:lang="chi" source="#200">劉向新序說苑</title>
                      <title source="#200|9">liu xiang xin xu shuo yuan</title>
                      <note source="#290">(漢)劉向撰</note>
-                     <author source="#300" key="person_6488"><persName>(漢)劉向</persName><persName type="9">liu
+                     <author source="#300" key="person_6488"><persName xml:lang="chi">(漢)劉向</persName><persName type="9">liu
                            xiang</persName></author>
                      <note source="#409">清刊本</note>
                      <note source="#600">書名據封面題</note>
                      <msItem n="1">
                         <title>新序 十卷</title>
                         <title source="9">xin xu</title>
-                        <author key="person_6488"><persName>(漢)劉向</persName><persName type="9">liu
+                        <author key="person_6488"><persName xml:lang="chi">(漢)劉向</persName><persName type="9">liu
                            xiang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140227/14:29:19|odh -->
@@ -67,7 +67,7 @@
                      <msItem n="2">
                         <title>說苑 二十卷</title>
                         <title source="9">shuo yuan</title>
-                        <author key="person_6488"><persName>(漢)劉向</persName><persName type="9">liu
+                        <author key="person_6488"><persName xml:lang="chi">(漢)劉向</persName><persName type="9">liu
                            xiang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140227/14:29:44|odh -->

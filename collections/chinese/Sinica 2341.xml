@@ -46,7 +46,7 @@
                <head>書名: 讚神聖詩<lb/>上海 : 美華書院, 1877<lb/>線裝1冊(9, 122, 5頁) ; 19.6公分<lb/>In Mandarin dialect<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">讚神聖詩</title><title source="#200|9">zan shen sheng shi</title><editor source="#420" role="pbl"><persName>美華書院</persName><persName type="9" role="pbl">mei hua shu yuan</persName></editor><note source="#600">In Mandarin dialect</note></msItem>         
+                  <title xml:lang="chi" source="#200">讚神聖詩</title><title source="#200|9">zan shen sheng shi</title><editor source="#420" role="pbl"><persName>美華書院</persName><persName type="9" role="pbl">mei hua shu yuan</persName></editor><note source="#600">In Mandarin dialect</note></msItem>         
                </msContents>
                <physDesc>
                   

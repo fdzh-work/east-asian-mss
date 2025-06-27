@@ -50,28 +50,28 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">古文尚書 十卷</title>
+                     <title xml:lang="chi" source="#200">古文尚書 十卷</title>
                      <title source="#200|9">gu wen shang shu</title>
                      <note source="#290">(漢)馬融, (漢)鄭玄注</note>
                      <note source="#290">(宋)王應麟撰集</note>
                      <note source="#290">(清)孫星衍補集</note>
-                     <author source="#300" key="person_6621"><persName>(漢)馬融</persName><persName type="9">ma
+                     <author source="#300" key="person_6621"><persName xml:lang="chi">(漢)馬融</persName><persName type="9">ma
                            rong</persName></author>
-                     <author source="#300" key="person_6609"><persName>(漢)鄭玄</persName><persName type="9">zheng
+                     <author source="#300" key="person_6609"><persName xml:lang="chi">(漢)鄭玄</persName><persName type="9">zheng
                            xuan</persName></author>
-                     <author source="#300" key="person_1423"><persName>(宋)王應麟</persName><persName type="9">wang ying
+                     <author source="#300" key="person_1423"><persName xml:lang="chi">(宋)王應麟</persName><persName type="9">wang ying
                            lin</persName></author>
-                     <author source="#300" key="person_3855"><persName>(清)孫星衍</persName><persName type="9">sun xing
+                     <author source="#300" key="person_3855"><persName xml:lang="chi">(清)孫星衍</persName><persName type="9">sun xing
                            yan</persName></author>
                   </msItem>
                   <msItem n="2">
-                     <title source="#201">尚書逸文 二卷</title>
+                     <title xml:lang="chi" source="#201">尚書逸文 二卷</title>
                      <title source="#201|9">shang shu yi wen</title>
                      <note source="#291">(清)江聲撰集</note>
                      <note source="#291">(清)孫星衍補訂</note>
-                     <author source="#301" key="person_4772"><persName>(清)江聲</persName><persName type="9">jiang
+                     <author source="#301" key="person_4772"><persName xml:lang="chi">(清)江聲</persName><persName type="9">jiang
                            sheng</persName></author>
-                     <author source="#301" key="person_3855"><persName>(清)孫星衍</persName><persName type="9">sun xing
+                     <author source="#301" key="person_3855"><persName xml:lang="chi">(清)孫星衍</persName><persName type="9">sun xing
                            yan</persName></author>
                   </msItem>
                </msContents>

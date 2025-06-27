@@ -48,12 +48,12 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">崇禎曆書</title>
+                     <title xml:lang="chi" source="#200">崇禎曆書</title>
                      <title source="#200|9">chong zhen li shu</title>
                      <note source="#290">(明)徐光啟, (明)李天經修</note>
-                     <author source="#300" key="person_2212"><persName>(明)徐光啟</persName><persName type="9">xu guang
+                     <author source="#300" key="person_2212"><persName xml:lang="chi">(明)徐光啟</persName><persName type="9">xu guang
                            qi</persName></author>
-                     <author source="#300" key="person_2294"><persName>(明)李天經</persName><persName type="9">li tian
+                     <author source="#300" key="person_2294"><persName xml:lang="chi">(明)李天經</persName><persName type="9">li tian
                            jing</persName></author>
                      <note source="#409">明崇禎中刊本</note>
                      <msItem n="1">
@@ -62,9 +62,9 @@
                         <title type="variant">治曆緣起</title>
                         <title source="9" type="variant">zhi li yuan qi</title>
                         <note source="290">(明)徐光啟, (明)李天經撰</note>
-                        <author key="person_2212"><persName>(明)徐光啟</persName><persName type="9">xu guang
+                        <author key="person_2212"><persName xml:lang="chi">(明)徐光啟</persName><persName type="9">xu guang
                            qi</persName></author>
-                        <author key="person_2294"><persName>(明)李天經</persName><persName type="9">li tian
+                        <author key="person_2294"><persName xml:lang="chi">(明)李天經</persName><persName type="9">li tian
                               jing</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20060405/11:57:43|odh -->
@@ -75,7 +75,7 @@
                         <title>測天約說 二卷</title>
                         <title source="9">ce tian yue shuo</title>
                         <note source="290">(明西洋)鄧玉函撰</note>
-                        <author key="person_7052"><persName>Terentius, Joannes</persName></author>
+                        <author key="person_7052"><persName xml:lang="chi">Terentius, Joannes</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20060405/11:59:48|odh -->
                         <!-- #0rx: dh330+02 -->
@@ -84,7 +84,7 @@
                         <title>大測 二卷</title>
                         <title source="9">da ce</title>
                         <note source="290">(明西洋)鄧玉函撰</note>
-                        <author key="person_7052"><persName>Terentius, Joannes</persName></author>
+                        <author key="person_7052"><persName xml:lang="chi">Terentius, Joannes</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20060405/12:00:28|odh -->
                         <!-- #0rx: dh330+03 -->
@@ -93,7 +93,7 @@
                         <title>日躔表 二卷</title>
                         <title source="9">ri chan biao</title>
                         <note source="290">(明西洋)羅雅谷撰</note>
-                        <author key="person_7012"><persName>Rho, Giacomo</persName></author>
+                        <author key="person_7012"><persName xml:lang="chi">Rho, Giacomo</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20060405/12:02:57|odh -->
                         <!-- #0rx: dh330+04 -->
@@ -102,7 +102,7 @@
                         <title>月離曆指 四卷</title>
                         <title source="9">yue li li zhi</title>
                         <note source="290">(明西洋)羅雅谷撰</note>
-                        <author key="person_7012"><persName>Rho, Giacomo</persName></author>
+                        <author key="person_7012"><persName xml:lang="chi">Rho, Giacomo</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20060405/12:03:46|odh -->
                         <!-- #0rx: dh330+05 -->
@@ -111,7 +111,7 @@
                         <title>月離表 四卷</title>
                         <title source="9">yue li biao</title>
                         <note source="290">(明西洋)羅雅谷撰</note>
-                        <author key="person_7012"><persName>Rho, Giacomo</persName></author>
+                        <author key="person_7012"><persName xml:lang="chi">Rho, Giacomo</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20060405/12:04:14|odh -->
                         <!-- #0rx: dh330+06 -->
@@ -120,7 +120,7 @@
                         <title>恆星曆指 二卷</title>
                         <title source="9">heng xing li zhi</title>
                         <note source="290">(明西洋)湯若望撰</note>
-                        <author key="person_7023"><persName>Schall von Bell, Johann Adam</persName></author>
+                        <author key="person_7023"><persName xml:lang="chi">Schall von Bell, Johann Adam</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20060405/12:05:43|odh -->
                         <!-- #0rx: dh330+07 -->
@@ -129,7 +129,7 @@
                         <title>日躔曆指 四卷</title>
                         <title source="9">ri chan li zhi</title>
                         <note source="290">(明西洋)羅雅谷撰</note>
-                        <author key="person_7012"><persName>Rho, Giacomo</persName></author>
+                        <author key="person_7012"><persName xml:lang="chi">Rho, Giacomo</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20060405/12:06:26|odh -->
                         <!-- #0rx: dh330+08 -->
@@ -138,7 +138,7 @@
                         <title>黃赤道距度表 一卷</title>
                         <title source="9">huang chi dao ju du biao</title>
                         <note source="290">(明西洋)鄧玉函撰</note>
-                        <author key="person_7052"><persName>Terentius, Joannes</persName></author>
+                        <author key="person_7052"><persName xml:lang="chi">Terentius, Joannes</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20060405/12:07:47|odh -->
                         <!-- #0rr: 20060405/12:08:20|odh -->
@@ -148,7 +148,7 @@
                         <title>正球升度表 一卷</title>
                         <title source="9">zheng qiu sheng du biao</title>
                         <note source="290">(明西洋)鄧玉函撰</note>
-                        <author key="person_7052"><persName>Terentius, Joannes</persName></author>
+                        <author key="person_7052"><persName xml:lang="chi">Terentius, Joannes</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20060405/12:09:21|odh -->
                         <!-- #0rx: dh330+10 -->
@@ -158,9 +158,9 @@
                         <title source="9">ji he yao fa</title>
                         <note source="290">(明西洋)艾儒略口述</note>
                         <note source="290">(明)瞿式穀筆授</note>
-                        <author key="person_2483"><persName>(明)瞿式穀</persName><persName type="9">qu shi
+                        <author key="person_2483"><persName xml:lang="chi">(明)瞿式穀</persName><persName type="9">qu shi
                            gu</persName></author>
-                        <author key="person_6758"><persName>Aleni, Giulio</persName></author>
+                        <author key="person_6758"><persName xml:lang="chi">Aleni, Giulio</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20060405/12:10:15|odh -->
                         <!-- #0rr: 20060405/12:13:11|odh -->
@@ -170,7 +170,7 @@
                         <title>交食曆指 七卷</title>
                         <title source="9">jiao shi li zhi</title>
                         <note source="290">(明西洋)湯若望撰</note>
-                        <author key="person_7023"><persName>Schall von Bell, Johann Adam</persName></author>
+                        <author key="person_7023"><persName xml:lang="chi">Schall von Bell, Johann Adam</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20060405/12:14:43|odh -->
                         <!-- #0rx: dh330+12 -->
@@ -179,7 +179,7 @@
                         <title>交食表 九卷</title>
                         <title source="9">jiao shi biao</title>
                         <note source="290">(明西洋)湯若望撰</note>
-                        <author key="person_7023"><persName>Schall von Bell, Johann Adam</persName></author>
+                        <author key="person_7023"><persName xml:lang="chi">Schall von Bell, Johann Adam</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20060405/12:15:19|odh -->
                         <!-- #0rx: dh330+13 -->

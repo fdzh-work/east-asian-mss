@@ -46,7 +46,7 @@
                <head>書名: 投轄錄 一卷 / (宋)王明清撰<lb/>民國九年[1920]上海商務印書館鉛字排印十五年[1926]三版本<lb/>線裝1冊 ; 27公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">投轄錄 一卷</title><title source="#200|9">tou xia lu</title><note source="#290">(宋)王明清撰</note><author source="#300" key="person_1426"><persName>(宋)王明清</persName><persName type="9">wang ming qing</persName></author><note source="#409">民國九年[1920]上海商務印書館鉛字排印十五年[1926]三版本</note><editor source="#440" role="pbl"><persName>商務印書館</persName><persName type="9" role="pbl">shang wu yin shu guan</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">投轄錄 一卷</title><title source="#200|9">tou xia lu</title><note source="#290">(宋)王明清撰</note><author source="#300" key="person_1426"><persName xml:lang="chi">(宋)王明清</persName><persName type="9">wang ming qing</persName></author><note source="#409">民國九年[1920]上海商務印書館鉛字排印十五年[1926]三版本</note><editor source="#440" role="pbl"><persName>商務印書館</persName><persName type="9" role="pbl">shang wu yin shu guan</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

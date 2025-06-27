@@ -49,10 +49,10 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">通鑑綱目</title>
+                     <title xml:lang="chi" source="#200">通鑑綱目</title>
                      <title source="#200|9">tong jian gang mu</title>
                      <note source="#290">(明)陳仁錫評</note>
-                     <author source="#300" key="person_2701"><persName>(明)陳仁錫</persName><persName type="9">chen ren
+                     <author source="#300" key="person_2701"><persName xml:lang="chi">(明)陳仁錫</persName><persName type="9">chen ren
                            xi</persName></author>
                      <note source="#409">清嘉慶戊辰[1808]刊本</note>
                      <note source="#600">書名據各編版心﹑全書封面題</note>
@@ -61,7 +61,7 @@
                         <title>資治通鑑綱目前編 二十五卷</title>
                         <title source="9">zi zhi tong jian gang mu qian bian</title>
                         <note source="290">(明)南軒撰</note>
-                        <author key="person_2045"><persName>(明)南軒</persName><persName type="9">nan
+                        <author key="person_2045"><persName xml:lang="chi">(明)南軒</persName><persName type="9">nan
                            xuan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20120105/12:50:01|odh -->
@@ -74,7 +74,7 @@
                         <title>資治通鑑綱目 五十九卷</title>
                         <title source="9">zi zhi tong jian gang mu</title>
                         <note source="290">(宋)朱熹撰</note>
-                        <author key="person_1250"><persName>(宋)朱熹</persName><persName type="9">zhu
+                        <author key="person_1250"><persName xml:lang="chi">(宋)朱熹</persName><persName type="9">zhu
                            xi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20120105/12:52:24|odh -->
@@ -86,7 +86,7 @@
                         <title>續資治通鑑綱目卷之末 一卷</title>
                         <title source="9">xu zi zhi tong jian gang mu juan zhi mo</title>
                         <note source="290">(明)陳桱撰</note>
-                        <author key="person_2713"><persName>(明)陳桱</persName><persName type="9">chen
+                        <author key="person_2713"><persName xml:lang="chi">(明)陳桱</persName><persName type="9">chen
                            jing</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20120105/12:57:48|odh -->
@@ -98,7 +98,7 @@
                         <title>續資治通鑑綱目 二十七卷</title>
                         <title source="9">xu zi zhi tong jian gang mu</title>
                         <note source="290">(明)商輅等奉敕撰</note>
-                        <author key="person_2107"><persName>(明)商輅</persName><persName type="9">shang
+                        <author key="person_2107"><persName xml:lang="chi">(明)商輅</persName><persName type="9">shang
                            lu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20120105/12:54:14|odh -->

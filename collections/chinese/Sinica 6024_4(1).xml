@@ -49,13 +49,13 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">批評釋義音字琵琶記 二卷</title>
+                     <title xml:lang="chi" source="#200">批評釋義音字琵琶記 二卷</title>
                      <title source="#200|9">pi ping shi yi yin zi pi pa ji</title>
                      <note source="#290">(元)高明撰</note>
                      <note source="#290">(明)陳繼儒評</note>
-                     <author source="#300" key="person_326"><persName>(元)高明</persName><persName type="9">gao
+                     <author source="#300" key="person_326"><persName xml:lang="chi">(元)高明</persName><persName type="9">gao
                            ming</persName></author>
-                     <author source="#300" key="person_2725"><persName>(明)陳繼儒</persName><persName type="9">chen ji
+                     <author source="#300" key="person_2725"><persName xml:lang="chi">(明)陳繼儒</persName><persName type="9">chen ji
                            ru</persName></author>
                   </msItem>
                </msContents>
@@ -102,9 +102,9 @@
                         <title source="9">pi pa ji zha ji</title>
                         <note source="290">(民國)吳梅輯</note>
                         <note source="290">(明)陳繼儒評</note>
-                        <author key="person_3081"><persName>(民國)吳梅</persName><persName type="9">wu
+                        <author key="person_3081"><persName xml:lang="chi">(民國)吳梅</persName><persName type="9">wu
                            mei</persName></author>
-                        <author key="person_2725"><persName>(明)陳繼儒</persName><persName type="9">chen ji
+                        <author key="person_2725"><persName xml:lang="chi">(明)陳繼儒</persName><persName type="9">chen ji
                            ru</persName></author>
                      </msItem>
                   </msContents>

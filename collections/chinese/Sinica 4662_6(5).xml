@@ -49,15 +49,15 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">括地志 一卷</title>
+                     <title xml:lang="chi" source="#200">括地志 一卷</title>
                      <title source="#200|9">kuo di zhi</title>
                      <title type="variant" source="#230">括地志</title>
                      <title source="#230|9" type="variant">kuo di zhi</title>
                      <note source="#290">(唐)李泰等撰</note>
                      <note source="#290">(民國)曹元忠輯</note>
-                     <author source="#300" key="person_687"><persName>(唐)李泰</persName><persName type="9">li
+                     <author source="#300" key="person_687"><persName xml:lang="chi">(唐)李泰</persName><persName type="9">li
                            tai</persName></author>
-                     <author source="#300" key="person_3123"><persName>(民國)曹元忠</persName><persName type="9">cao yuan
+                     <author source="#300" key="person_3123"><persName xml:lang="chi">(民國)曹元忠</persName><persName type="9">cao yuan
                            zhong</persName></author>
                   </msItem>
                </msContents>

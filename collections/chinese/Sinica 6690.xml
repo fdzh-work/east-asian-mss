@@ -47,10 +47,10 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">顧端文公遺書</title>
+                     <title xml:lang="chi" source="#200">顧端文公遺書</title>
                      <title source="#200|9">gu duan wen gong yi shu</title>
                      <note source="#290">(明)顧憲成撰</note>
-                     <author source="#300" key="person_2768"><persName>(明)顧憲成</persName><persName type="9">gu xian
+                     <author source="#300" key="person_2768"><persName xml:lang="chi">(明)顧憲成</persName><persName type="9">gu xian
                            cheng</persName></author>
                      <note source="#409">清光緒丁丑[1877]涇里宗祠刊本</note>
                      <editor source="#440" role="pbl"><persName>涇里宗祠</persName><persName type="9" role="pbl">jing li zong ci</persName></editor>

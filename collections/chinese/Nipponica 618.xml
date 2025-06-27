@@ -48,7 +48,7 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">七書正文</title>
+                     <title xml:lang="chi" source="#200">七書正文</title>
                      <title source="#200|9">qi shu zheng wen</title>
                      <note source="#290">(宋)佚名輯</note>
                      <note source="#409">日本寬政五年[1793]東都書肆西村源六等刊本</note>
@@ -56,7 +56,7 @@
                         <title>孫子 一卷</title>
                         <title source="9">sun zi</title>
                         <note source="290">(周)孫武撰</note>
-                        <author key="person_492"><persName>(周)孫武</persName><persName type="9">sun
+                        <author key="person_492"><persName xml:lang="chi">(周)孫武</persName><persName type="9">sun
                            wu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20191021/13:54:28|odh -->
@@ -66,7 +66,7 @@
                         <title>吳子 一卷</title>
                         <title source="9">wu zi</title>
                         <note source="290">(周)吳起撰</note>
-                        <author key="person_484"><persName>(周)吳起</persName><persName type="9">wu
+                        <author key="person_484"><persName xml:lang="chi">(周)吳起</persName><persName type="9">wu
                            qi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20191021/13:55:25|odh -->
@@ -76,7 +76,7 @@
                         <title>司馬法 一卷</title>
                         <title source="9">si ma fa</title>
                         <note source="290">(周)司馬穰苴撰</note>
-                        <author key="person_483"><persName>(周)司馬穰苴</persName><persName type="9">si ma rang
+                        <author key="person_483"><persName xml:lang="chi">(周)司馬穰苴</persName><persName type="9">si ma rang
                               ju</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20191021/13:57:23|odh -->
@@ -86,7 +86,7 @@
                         <title>尉繚子 一卷</title>
                         <title source="9">yu liao zi</title>
                         <note source="290">(周)尉繚撰</note>
-                        <author key="person_496"><persName>(周)尉繚</persName><persName type="9">yu
+                        <author key="person_496"><persName xml:lang="chi">(周)尉繚</persName><persName type="9">yu
                            liao</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20191021/13:59:14|odh -->
@@ -96,7 +96,7 @@
                         <title>三略 一卷</title>
                         <title source="9">san lue</title>
                         <note source="290">(漢)黃石公撰</note>
-                        <author key="person_6627"><persName>(漢)黃石公</persName><persName type="9">huang shi
+                        <author key="person_6627"><persName xml:lang="chi">(漢)黃石公</persName><persName type="9">huang shi
                               gong</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20191021/14:00:37|odh -->
@@ -106,7 +106,7 @@
                         <title>六韜 一卷</title>
                         <title source="9">liu tao</title>
                         <note source="290">(周)呂望撰</note>
-                        <author key="person_485"><persName>(周)呂望</persName><persName type="9">lu
+                        <author key="person_485"><persName xml:lang="chi">(周)呂望</persName><persName type="9">lu
                            wang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20191021/14:01:05|odh -->
@@ -116,7 +116,7 @@
                         <title>唐太宗李衛公問對 一卷</title>
                         <title source="9">tang tai zong li wei gong wen dui</title>
                         <note source="290">(唐)李靖撰</note>
-                        <author key="person_713"><persName>(唐)李靖</persName><persName type="9">li
+                        <author key="person_713"><persName xml:lang="chi">(唐)李靖</persName><persName type="9">li
                            jing</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20191021/14:03:13|odh -->

@@ -46,7 +46,7 @@
                <head>書名: 戒酒論<lb/>浙甯[Ningpo] : 北門外白宅, 1876<lb/>毛裝1冊(7頁) ; 18.4公分<lb/>By S P Barchet<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">戒酒論</title><title source="#200|9">jie jiu lun</title><author source="#300" key="person_6769"><persName>Barchet, S P</persName></author><editor source="#420" role="pbl"><persName>北門外白宅</persName><persName type="9" role="pbl">bei men wai bai zhai</persName></editor><note source="#600">By S P Barchet</note></msItem>         
+                  <title xml:lang="chi" source="#200">戒酒論</title><title source="#200|9">jie jiu lun</title><author source="#300" key="person_6769"><persName xml:lang="chi">Barchet, S P</persName></author><editor source="#420" role="pbl"><persName>北門外白宅</persName><persName type="9" role="pbl">bei men wai bai zhai</persName></editor><note source="#600">By S P Barchet</note></msItem>         
                </msContents>
                <physDesc>
                   

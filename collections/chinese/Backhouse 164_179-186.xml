@@ -49,23 +49,23 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">孟子注疏解經 十四卷</title>
+                     <title xml:lang="chi" source="#200">孟子注疏解經 十四卷</title>
                      <title source="#200|9">meng zi zhu shu jie jing</title>
                      <note source="#290">(漢)趙岐注</note>
                      <note source="#290">(宋)孫奭疏並撰音義</note>
-                     <author source="#300" key="person_6601"><persName>(漢)趙岐</persName><persName type="9">zhao
+                     <author source="#300" key="person_6601"><persName xml:lang="chi">(漢)趙岐</persName><persName type="9">zhao
                            qi</persName></author>
-                     <author source="#300" key="person_1105"><persName>(宋)孫奭</persName><persName type="9">sun
+                     <author source="#300" key="person_1105"><persName xml:lang="chi">(宋)孫奭</persName><persName type="9">sun
                            shi</persName></author>
                   </msItem>
                   <msItem n="2">
-                     <title source="#201">孟子注疏校勘記 十四卷</title>
+                     <title xml:lang="chi" source="#201">孟子注疏校勘記 十四卷</title>
                      <title source="#201|9">meng zi zhu shu jiao kan ji</title>
                      <note source="#291">(清)阮元撰</note>
                      <note source="#291">(清)盧宣旬摘錄</note>
-                     <author source="#301" key="person_5987"><persName>(清)阮元</persName><persName type="9">ruan
+                     <author source="#301" key="person_5987"><persName xml:lang="chi">(清)阮元</persName><persName type="9">ruan
                            yuan</persName></author>
-                     <author source="#301" key="person_5210"><persName>(清)盧宣旬</persName><persName type="9">lu xuan
+                     <author source="#301" key="person_5210"><persName xml:lang="chi">(清)盧宣旬</persName><persName type="9">lu xuan
                            xun</persName></author>
                   </msItem>
                </msContents>

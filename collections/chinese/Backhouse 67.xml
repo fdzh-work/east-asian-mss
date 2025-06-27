@@ -46,7 +46,7 @@
                <head>書名: 池北偶談 二十六卷 / (清)王士禛撰<lb/>清康熙四十年[1701]序刊本文粹堂藏板<lb/>線裝6冊 ; 28公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">池北偶談 二十六卷</title><title source="#200|9">chi bei ou tan</title><note source="#290">(清)王士禛撰</note><author source="#300" key="person_5032"><persName>(清)王士禛</persName><persName type="9">wang shi zhen</persName></author><note source="#409">清康熙四十年[1701]序刊本文粹堂藏板</note><editor source="#440" role="pbl"><persName>文粹堂</persName><persName type="9" role="pbl">wen cui tang</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">池北偶談 二十六卷</title><title source="#200|9">chi bei ou tan</title><note source="#290">(清)王士禛撰</note><author source="#300" key="person_5032"><persName xml:lang="chi">(清)王士禛</persName><persName type="9">wang shi zhen</persName></author><note source="#409">清康熙四十年[1701]序刊本文粹堂藏板</note><editor source="#440" role="pbl"><persName>文粹堂</persName><persName type="9" role="pbl">wen cui tang</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

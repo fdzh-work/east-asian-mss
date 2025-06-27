@@ -47,10 +47,10 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">新安許氏先集</title>
+                     <title xml:lang="chi" source="#200">新安許氏先集</title>
                      <title source="#200|9">xin an xu shi xian ji</title>
                      <note source="#290">(民國)許同莘編</note>
-                     <author source="#300" key="person_3183"><persName>(民國)許同莘</persName><persName type="9">xu tong
+                     <author source="#300" key="person_3183"><persName xml:lang="chi">(民國)許同莘</persName><persName type="9">xu tong
                            xin</persName></author>
                      <note source="#409">民國無錫許氏簡素堂刊1992年北京中國書店重印本殘損版以影印配補</note>
                      <editor source="#440" role="pbl"><persName>簡素堂</persName><persName type="9" role="pbl">jian su tang</persName></editor>

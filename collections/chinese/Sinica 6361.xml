@@ -46,7 +46,7 @@
                <head>書名: 地書 : 從點到點 / 徐冰著<lb/>桂林 : 廣西師範大學出版社, 2012<lb/>精裝1冊(112頁) ; 22公分<lb/>ISBN 978-7-5495-1369-7<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">地書 : 從點到點</title><title source="#200|9">di shu : cong dian dao dian</title><note source="#290">徐冰著</note><author source="#300" key="person_7137"><persName>徐冰</persName><persName type="9">xu bing</persName></author><editor source="#420" role="pbl"><persName>廣西師範大學出版社</persName><persName type="9" role="pbl">guang si shi fan da xue chu ban she</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">地書 : 從點到點</title><title source="#200|9">di shu : cong dian dao dian</title><note source="#290">徐冰著</note><author source="#300" key="person_7137"><persName xml:lang="chi">徐冰</persName><persName type="9">xu bing</persName></author><editor source="#420" role="pbl"><persName>廣西師範大學出版社</persName><persName type="9" role="pbl">guang si shi fan da xue chu ban she</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

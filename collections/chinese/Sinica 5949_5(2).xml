@@ -49,12 +49,12 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">李草閣詩集 六卷拾遺一卷文集一卷</title>
+                     <title xml:lang="chi" source="#200">李草閣詩集 六卷拾遺一卷文集一卷</title>
                      <title source="#200|9">li cao ge shi ji</title>
-                     <title source="#200">附 筠谷詩集 一卷</title>
+                     <title xml:lang="chi" source="#200">附 筠谷詩集 一卷</title>
                      <title source="#200|9">yun gu shi ji</title>
                      <note source="#290">(明)李曄撰</note>
-                     <author source="#300" key="person_2304"><persName>(明)李曄</persName><persName type="9">li
+                     <author source="#300" key="person_2304"><persName xml:lang="chi">(明)李曄</persName><persName type="9">li
                            ye</persName></author>
                      <note source="#600">光緒丁酉[1897]刊</note>
                   </msItem>

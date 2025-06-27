@@ -46,7 +46,7 @@
                <head>書名: 三字經<lb/>[s.l.], [s.a.]<lb/>線裝1冊(16頁) ; 12.4公分<lb/>By W H Medhurst<lb/>Reprint of Shanghai edn. of 1856, but omits last line of p.16a<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">三字經</title><title source="#200|9">san zi jing</title><author source="#300" key="person_6963"><persName>Medhurst, Walter Henry</persName></author><note source="#600">By W H Medhurst</note><note source="#600">Reprint of Shanghai edn. of 1856, but omits last line of p.16a</note></msItem>         
+                  <title xml:lang="chi" source="#200">三字經</title><title source="#200|9">san zi jing</title><author source="#300" key="person_6963"><persName xml:lang="chi">Medhurst, Walter Henry</persName></author><note source="#600">By W H Medhurst</note><note source="#600">Reprint of Shanghai edn. of 1856, but omits last line of p.16a</note></msItem>         
                </msContents>
                <physDesc>
                   

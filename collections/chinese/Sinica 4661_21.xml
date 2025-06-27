@@ -49,20 +49,20 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">渚宮舊事 五卷</title>
+                     <title xml:lang="chi" source="#200">渚宮舊事 五卷</title>
                      <title source="#200|9">zhu gong jiu shi</title>
                      <note source="#290">(唐)余知古撰</note>
                      <note source="#290">(清)孫星衍校</note>
-                     <author source="#300" key="person_557"><persName>(唐)余知古</persName><persName type="9">yu zhi
+                     <author source="#300" key="person_557"><persName xml:lang="chi">(唐)余知古</persName><persName type="9">yu zhi
                            gu</persName></author>
-                     <author source="#300" key="person_3855"><persName>(清)孫星衍</persName><persName type="9">sun xing
+                     <author source="#300" key="person_3855"><persName xml:lang="chi">(清)孫星衍</persName><persName type="9">sun xing
                            yan</persName></author>
                   </msItem>
                   <msItem n="2">
-                     <title source="#201">渚宮舊事補遺 一卷</title>
+                     <title xml:lang="chi" source="#201">渚宮舊事補遺 一卷</title>
                      <title source="#201|9">zhu gong jiu shi bu yi</title>
                      <note source="#291">(清)孫星衍撰</note>
-                     <author source="#301" key="person_3855"><persName>(清)孫星衍</persName><persName type="9">sun xing
+                     <author source="#301" key="person_3855"><persName xml:lang="chi">(清)孫星衍</persName><persName type="9">sun xing
                            yan</persName></author>
                   </msItem>
                </msContents>

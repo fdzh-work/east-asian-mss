@@ -49,13 +49,13 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">元耶律文正公西游錄略注補 一卷</title>
+                     <title xml:lang="chi" source="#200">元耶律文正公西游錄略注補 一卷</title>
                      <title source="#200|9">yuan ye lu wen zheng gong xi you lu lue zhu bu</title>
                      <note source="#290">(清)李文田注</note>
                      <note source="#290">(清)范壽金補</note>
-                     <author source="#300" key="person_4499"><persName>(清)李文田</persName><persName type="9">li wen
+                     <author source="#300" key="person_4499"><persName xml:lang="chi">(清)李文田</persName><persName type="9">li wen
                            tian</persName></author>
-                     <author source="#300" key="person_5411"><persName>(清)范壽金</persName><persName type="9">fan shou
+                     <author source="#300" key="person_5411"><persName xml:lang="chi">(清)范壽金</persName><persName type="9">fan shou
                            jin</persName></author>
                   </msItem>
                </msContents>

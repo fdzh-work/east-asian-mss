@@ -49,13 +49,13 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">涇皋家塾三書 三卷</title>
+                     <title xml:lang="chi" source="#200">涇皋家塾三書 三卷</title>
                      <title source="#200|9">jing gao jia shu san shu</title>
                      <msItem n="1">
                         <title>童蒙須知 一卷</title>
                         <title source="9">tong meng xu zhi</title>
                         <note source="290">(宋)朱熹撰</note>
-                        <author key="person_1250"><persName>(宋)朱熹</persName><persName type="9">zhu
+                        <author key="person_1250"><persName xml:lang="chi">(宋)朱熹</persName><persName type="9">zhu
                            xi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180629/00000017|odh -->
@@ -65,7 +65,7 @@
                         <title>居家雜儀 一卷</title>
                         <title source="9">ju jia za yi</title>
                         <note source="290">(宋)司馬光撰</note>
-                        <author><persName>(宋)司馬光</persName><persName type="9">si ma
+                        <author><persName xml:lang="chi">(宋)司馬光</persName><persName type="9">si ma
                            guang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180629/00000018|odh -->
@@ -76,9 +76,9 @@
                         <title source="9">xiang yue</title>
                         <note source="290">(宋)呂大鈞撰</note>
                         <note source="290">(宋)朱熹注</note>
-                        <author key="person_1048"><persName>(宋)呂大鈞</persName><persName type="9">lu da
+                        <author key="person_1048"><persName xml:lang="chi">(宋)呂大鈞</persName><persName type="9">lu da
                            jun</persName></author>
-                        <author key="person_1250"><persName>(宋)朱熹</persName><persName type="9">zhu
+                        <author key="person_1250"><persName xml:lang="chi">(宋)朱熹</persName><persName type="9">zhu
                            xi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180629/00000019|odh -->

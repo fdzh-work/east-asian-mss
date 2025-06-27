@@ -50,12 +50,12 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">祕傳證治要訣 十二卷</title>
+                     <title xml:lang="chi" source="#200">祕傳證治要訣 十二卷</title>
                      <title source="#200|9">mi chuan zheng zhi yao jue</title>
                      <title type="variant" source="#230">證治要訣</title>
                      <title source="#230|9" type="variant">zheng zhi yao jue</title>
                      <note source="#290">(明)戴元禮撰</note>
-                     <author source="#300" key="person_2240"><persName>(明)戴元禮</persName><persName type="9">dai yuan
+                     <author source="#300" key="person_2240"><persName xml:lang="chi">(明)戴元禮</persName><persName type="9">dai yuan
                            li</persName></author>
                   </msItem>
                </msContents>

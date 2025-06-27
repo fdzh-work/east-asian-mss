@@ -51,20 +51,20 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">靈棋經 二卷</title>
+                     <title xml:lang="chi" source="#200">靈棋經 二卷</title>
                      <title source="#200|9">ling qi jing</title>
                      <note source="#290">(漢)東方朔撰</note>
                      <note source="#290">(晉)顏幼明, (劉宋)何承天注</note>
                      <note source="#290">(元)陳師凱, (明)劉基解</note>
-                     <author source="#300"><persName>(漢)東方朔</persName><persName type="9">dong fang
+                     <author source="#300"><persName xml:lang="chi">(漢)東方朔</persName><persName type="9">dong fang
                            shuo</persName></author>
-                     <author source="#300" key="person_3002"><persName>(晉)顏幼明</persName><persName type="9">yan you
+                     <author source="#300" key="person_3002"><persName xml:lang="chi">(晉)顏幼明</persName><persName type="9">yan you
                            ming</persName></author>
-                     <author source="#300" key="person_350"><persName>(劉宋)何承天</persName><persName type="9">he cheng
+                     <author source="#300" key="person_350"><persName xml:lang="chi">(劉宋)何承天</persName><persName type="9">he cheng
                            tian</persName></author>
-                     <author source="#300" key="person_310"><persName>(元)陳師凱</persName><persName type="9">chen shi
+                     <author source="#300" key="person_310"><persName xml:lang="chi">(元)陳師凱</persName><persName type="9">chen shi
                            kai</persName></author>
-                     <author source="#300" key="person_2026"><persName>(明)劉基</persName><persName type="9">liu
+                     <author source="#300" key="person_2026"><persName xml:lang="chi">(明)劉基</persName><persName type="9">liu
                            ji</persName></author>
                   </msItem>
                </msContents>

@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">廣陵先生文集 二十卷拾遺一卷補遺一卷附錄一卷</title>
+                     <title xml:lang="chi" source="#200">廣陵先生文集 二十卷拾遺一卷補遺一卷附錄一卷</title>
                      <title source="#200|9">guang ling xian sheng wen ji</title>
                      <note source="#290">(宋)王令撰</note>
-                     <author source="#300" key="person_1407"><persName>(宋)王令</persName><persName type="9">wang
+                     <author source="#300" key="person_1407"><persName xml:lang="chi">(宋)王令</persName><persName type="9">wang
                            ling</persName></author>
                      <note source="#600">民國十一年[1922]刊</note>
                   </msItem>

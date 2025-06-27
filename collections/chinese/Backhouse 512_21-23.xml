@@ -49,11 +49,11 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">小倉山房尺牘 八卷</title>
+                     <title xml:lang="chi" source="#200">小倉山房尺牘 八卷</title>
                      <title source="#200|9">xiao cang shan fang chi du</title>
-                     <title source="#200">附 牘外餘言 一卷</title>
+                     <title xml:lang="chi" source="#200">附 牘外餘言 一卷</title>
                      <title source="#200|9">du wai yu yan</title>
-                     <author source="#300"><persName>(清)袁枚</persName><persName type="9">yuan
+                     <author source="#300"><persName xml:lang="chi">(清)袁枚</persName><persName type="9">yuan
                            mei</persName></author>
                   </msItem>
                </msContents>

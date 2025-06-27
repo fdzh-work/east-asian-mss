@@ -46,7 +46,7 @@
                <head>書名: 耶穌教問答, 官話<lb/>上海 : 美華書館, 1874<lb/>線裝1冊(18頁) ; 16.5公分<lb/>By H S C Nevius<lb/>Small type edn<lb/>In Mandarin dialect<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">耶穌教問答, 官話</title><title source="#200|9">ye su jiao wen da, guan hua</title><author source="#300" key="person_6977"><persName>Nevius, Helen Sanford Coan</persName></author><editor source="#420" role="pbl"><persName>美華書館</persName><persName type="9" role="pbl">mei hua shu guan</persName></editor><note source="#600">By H S C Nevius</note><note source="#600">Small type edn</note><note source="#600">In Mandarin dialect</note></msItem>         
+                  <title xml:lang="chi" source="#200">耶穌教問答, 官話</title><title source="#200|9">ye su jiao wen da, guan hua</title><author source="#300" key="person_6977"><persName xml:lang="chi">Nevius, Helen Sanford Coan</persName></author><editor source="#420" role="pbl"><persName>美華書館</persName><persName type="9" role="pbl">mei hua shu guan</persName></editor><note source="#600">By H S C Nevius</note><note source="#600">Small type edn</note><note source="#600">In Mandarin dialect</note></msItem>         
                </msContents>
                <physDesc>
                   

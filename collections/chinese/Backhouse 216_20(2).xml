@@ -49,12 +49,12 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">天馬山房詩別錄 一卷</title>
+                     <title xml:lang="chi" source="#200">天馬山房詩別錄 一卷</title>
                      <title source="#200|9">tian ma shan fang shi bie lu</title>
                      <title type="variant" source="#230">雲閒百詠</title>
                      <title source="#230|9" type="variant">yun jian bai yong</title>
                      <note source="#290">(清)汪巽東撰</note>
-                     <author source="#300" key="person_4795"><persName>(清)汪巽東</persName><persName type="9">wang xun
+                     <author source="#300" key="person_4795"><persName xml:lang="chi">(清)汪巽東</persName><persName type="9">wang xun
                            dong</persName></author>
                      <note source="#600">一名「雲閒百詠」</note>
                      <note source="#600">光緒三年[1877]刊</note>

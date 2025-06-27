@@ -50,18 +50,18 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">王翰林集註黃帝八十一難經 五卷</title>
+                     <title xml:lang="chi" source="#200">王翰林集註黃帝八十一難經 五卷</title>
                      <title source="#200|9">wang han lin ji zhu huang di ba shi yi nan jing</title>
                      <title type="variant" source="#230">難經集註</title>
                      <title source="#230|9" type="variant">nan jing ji zhu</title>
                      <note source="#290">(周)秦越人撰</note>
                      <note source="#290">(宋)丁德用等註</note>
                      <note source="#290">(明)王九思等校正音釋</note>
-                     <author source="#300" key="person_517"><persName>(周)秦越人</persName><persName type="9">qin yue
+                     <author source="#300" key="person_517"><persName xml:lang="chi">(周)秦越人</persName><persName type="9">qin yue
                            ren</persName></author>
-                     <author source="#300" key="person_926"><persName>(宋)丁德用</persName><persName type="9">ding de
+                     <author source="#300" key="person_926"><persName xml:lang="chi">(宋)丁德用</persName><persName type="9">ding de
                            yong</persName></author>
-                     <author source="#300" key="person_2414"><persName>(明)王九思</persName><persName type="9">wang jiu
+                     <author source="#300" key="person_2414"><persName xml:lang="chi">(明)王九思</persName><persName type="9">wang jiu
                            si</persName></author>
                      <note source="#600">一名《難經集註》</note>
                   </msItem>

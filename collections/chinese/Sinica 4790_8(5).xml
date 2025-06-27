@@ -49,12 +49,12 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">齊丘子 一卷</title>
+                     <title xml:lang="chi" source="#200">齊丘子 一卷</title>
                      <title source="#200|9">qi qiu zi</title>
                      <title type="variant" source="#230">化書</title>
                      <title source="#230|9" type="variant">hua shu</title>
                      <note source="#290">(南唐)譚峭撰</note>
-                     <author source="#300" key="person_428"><persName>(南唐)譚峭</persName><persName type="9">tan
+                     <author source="#300" key="person_428"><persName xml:lang="chi">(南唐)譚峭</persName><persName type="9">tan
                            qiao</persName></author>
                      <note source="#600">一名《化書》</note>
                   </msItem>

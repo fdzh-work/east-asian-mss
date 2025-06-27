@@ -48,7 +48,7 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">國語國策合注</title>
+                     <title xml:lang="chi" source="#200">國語國策合注</title>
                      <title source="#200|9">guo yu guo ce he zhu</title>
                      <note source="#409">清乾隆乙酉[1765]刊本文盛堂藏板</note>
                      <editor source="#440" role="pbl"><persName>文盛堂</persName><persName type="9" role="pbl">wen sheng tang</persName></editor>
@@ -57,9 +57,9 @@
                         <title source="9">guo yu</title>
                         <note source="290">(吳)韋昭解</note>
                         <note source="290">(宋)宋庠補音</note>
-                        <author key="person_473"><persName>(吳)韋昭</persName><persName type="9">wei
+                        <author key="person_473"><persName xml:lang="chi">(吳)韋昭</persName><persName type="9">wei
                            zhao</persName></author>
-                        <author key="person_1115"><persName>(宋)宋庠</persName><persName type="9">song
+                        <author key="person_1115"><persName xml:lang="chi">(宋)宋庠</persName><persName type="9">song
                            xiang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20130829/11:35:35|odh -->
@@ -69,7 +69,7 @@
                         <title>戰國策 十卷</title>
                         <title source="9">zhan guo ce</title>
                         <note source="290">(宋)鮑彪校注</note>
-                        <author key="person_1818"><persName>(宋)鮑彪</persName><persName type="9">bao
+                        <author key="person_1818"><persName xml:lang="chi">(宋)鮑彪</persName><persName type="9">bao
                            biao</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20130829/11:36:56|odh -->

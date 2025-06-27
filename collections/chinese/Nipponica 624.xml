@@ -46,7 +46,7 @@
                <head>書名: 太極圖說 一卷 / (宋)周敦頤撰 ; (日)熊谷立閑集注<lb/>日本延寶六年[1678]京都孫兵衞刊本<lb/>線裝1冊 ; 27公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">太極圖說 一卷</title><title source="#200|9">tai ji tu shuo</title><note source="#290">(宋)周敦頤撰</note><note source="#290">(日)熊谷立閑集注</note><author source="#300" key="person_1064"><persName>(宋)周敦頤</persName><persName type="9">zhou dun yi</persName></author><author source="#300" key="person_1947"><persName>(日)熊谷茘齋</persName><persName type="9">kumagai reisaij</persName></author><note source="#409">日本延寶六年[1678]京都孫兵衞刊本</note></msItem>         
+                  <title xml:lang="chi" source="#200">太極圖說 一卷</title><title source="#200|9">tai ji tu shuo</title><note source="#290">(宋)周敦頤撰</note><note source="#290">(日)熊谷立閑集注</note><author source="#300" key="person_1064"><persName xml:lang="chi">(宋)周敦頤</persName><persName type="9">zhou dun yi</persName></author><author source="#300" key="person_1947"><persName xml:lang="chi">(日)熊谷茘齋</persName><persName type="9">kumagai reisaij</persName></author><note source="#409">日本延寶六年[1678]京都孫兵衞刊本</note></msItem>         
                </msContents>
                <physDesc>
                   

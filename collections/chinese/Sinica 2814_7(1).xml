@@ -49,13 +49,13 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">文公朱先生感興詩 一卷</title>
+                     <title xml:lang="chi" source="#200">文公朱先生感興詩 一卷</title>
                      <title source="#200|9">wen gong zhu xian sheng gan xing shi</title>
                      <note source="#290">(宋)朱熹撰</note>
                      <note source="#290">(宋)蔡模注</note>
-                     <author source="#300" key="person_1250"><persName>(宋)朱熹</persName><persName type="9">zhu
+                     <author source="#300" key="person_1250"><persName xml:lang="chi">(宋)朱熹</persName><persName type="9">zhu
                            xi</persName></author>
-                     <author source="#300" key="person_1570"><persName>(宋)蔡模</persName><persName type="9">cai
+                     <author source="#300" key="person_1570"><persName xml:lang="chi">(宋)蔡模</persName><persName type="9">cai
                            mo</persName></author>
                   </msItem>
                </msContents>

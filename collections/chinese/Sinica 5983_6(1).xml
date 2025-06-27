@@ -49,12 +49,12 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">濟南集 八卷</title>
+                     <title xml:lang="chi" source="#200">濟南集 八卷</title>
                      <title source="#200|9">ji nan ji</title>
-                     <title source="#200">附 德隅堂畫品 一卷</title>
+                     <title xml:lang="chi" source="#200">附 德隅堂畫品 一卷</title>
                      <title source="#200|9">de yu tang hua pin</title>
                      <note source="#290">(宋)李廌撰</note>
-                     <author source="#300" key="person_1274"><persName>(宋)李廌</persName><persName type="9">li
+                     <author source="#300" key="person_1274"><persName xml:lang="chi">(宋)李廌</persName><persName type="9">li
                            jian</persName></author>
                      <note source="#600">民國辛酉[1921]刊</note>
                   </msItem>

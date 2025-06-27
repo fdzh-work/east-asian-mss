@@ -49,9 +49,9 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">釋氏疑年錄 十二卷</title>
+                     <title xml:lang="chi" source="#200">釋氏疑年錄 十二卷</title>
                      <title source="#200|9">shi shi yi nian lu</title>
-                     <author source="#300" key="person_7192"><persName>陳垣</persName><persName type="9">chen
+                     <author source="#300" key="person_7192"><persName xml:lang="chi">陳垣</persName><persName type="9">chen
                            yuan</persName></author>
                      <editor source="#440" role="pbl"><persName>輔仁大學</persName><persName type="9" role="pbl">fu ren da xue</persName></editor>
                      <editor source="#446" role="pbl"><persName>輔仁大學叢書</persName><persName type="9" role="pbl">fu ren da xue xong shu</persName></editor>

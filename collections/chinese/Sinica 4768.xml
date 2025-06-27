@@ -46,8 +46,8 @@
                <head>書名: 孔氏家語 十卷 / (魏)王肅注<lb/>附 孔子家語札記 一卷 / (民國)劉世珩撰<lb/>清光緒二十四年[1894]貴池劉氏影刊宋蜀刻大字本<lb/>線裝4冊 ; 34公分<lb/>本書為《玉海堂景宋叢書》之一<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem><editor source="#446" role="pbl"><persName>玉海堂景宋叢書</persName><persName type="9" role="pbl">yu hai tang ying song cong shu</persName></editor><note source="#409">清光緒二十四年[1894]貴池劉氏影刊宋蜀刻大字本</note><note source="#600">本書為《玉海堂景宋叢書》之一</note><msItem n="1">
-                  <title source="#200">孔氏家語 十卷</title><title source="#200|9">kong shi jia yu</title><note source="#290">(魏)王肅注</note><author source="#300" key="person_6738"><persName>(魏)王肅</persName><persName type="9">wang su</persName></author></msItem>         
-               <msItem n="2"><title source="#201">附 孔子家語札記 一卷</title><title source="#201|9">kong shi jia yu zha ji</title><note source="#291">(民國)劉世珩撰</note><author source="#301" key="person_3073"><persName>(民國)劉世珩</persName><persName type="9">liu shi heng</persName></author></msItem></msItem></msContents>
+                  <title xml:lang="chi" source="#200">孔氏家語 十卷</title><title source="#200|9">kong shi jia yu</title><note source="#290">(魏)王肅注</note><author source="#300" key="person_6738"><persName xml:lang="chi">(魏)王肅</persName><persName type="9">wang su</persName></author></msItem>         
+               <msItem n="2"><title xml:lang="chi" source="#201">附 孔子家語札記 一卷</title><title source="#201|9">kong shi jia yu zha ji</title><note source="#291">(民國)劉世珩撰</note><author source="#301" key="person_3073"><persName xml:lang="chi">(民國)劉世珩</persName><persName type="9">liu shi heng</persName></author></msItem></msItem></msContents>
                <physDesc>
                   
                   <objectDesc>

@@ -46,7 +46,7 @@
                <head>書名: 寸知堂遺草 一卷 / (清)梁翰撰<lb/>清道光丙午[1846]姪九圖十二石山齋編刊本<lb/>線裝1冊 ; 29公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">寸知堂遺草 一卷</title><title source="#200|9">cun zhi tang yi cao</title><note source="#290">(清)梁翰撰</note><author source="#300" key="person_4643"><persName>(清)梁翰</persName><persName type="9">liang han</persName></author><author source="#300" key="person_4628"><persName>(清)梁九圖</persName><persName type="9">liang jiu tu</persName></author><note source="#409">清道光丙午[1846]姪九圖十二石山齋編刊本</note><editor source="#440" role="pbl"><persName>十二石山齋</persName><persName type="9" role="pbl">shi er shi shan zhai</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">寸知堂遺草 一卷</title><title source="#200|9">cun zhi tang yi cao</title><note source="#290">(清)梁翰撰</note><author source="#300" key="person_4643"><persName xml:lang="chi">(清)梁翰</persName><persName type="9">liang han</persName></author><author source="#300" key="person_4628"><persName xml:lang="chi">(清)梁九圖</persName><persName type="9">liang jiu tu</persName></author><note source="#409">清道光丙午[1846]姪九圖十二石山齋編刊本</note><editor source="#440" role="pbl"><persName>十二石山齋</persName><persName type="9" role="pbl">shi er shi shan zhai</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

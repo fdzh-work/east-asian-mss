@@ -46,7 +46,7 @@
                <head>書名: 文學書官話 = Mandarin grammar / 美國高第丕, 中國張儒珍著<lb/>[Shanghai], 1869<lb/>線裝1冊(2, 1, 53頁) ; 19.6公分<lb/>In Mandarin colloquial<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">文學書官話 = Mandarin grammar</title><title source="#200|9">wen xue shu guan hua</title><note source="#290">美國高第丕, 中國張儒珍著</note><author source="#300" key="person_6819"><persName>Crawford, Tarleton Perry</persName></author><author source="#300" key="person_3986"><persName>(清)張儒珍</persName><persName type="9">zhang ru zhen</persName></author><note source="#600">In Mandarin colloquial</note></msItem>         
+                  <title xml:lang="chi" source="#200">文學書官話 = Mandarin grammar</title><title source="#200|9">wen xue shu guan hua</title><note source="#290">美國高第丕, 中國張儒珍著</note><author source="#300" key="person_6819"><persName xml:lang="chi">Crawford, Tarleton Perry</persName></author><author source="#300" key="person_3986"><persName xml:lang="chi">(清)張儒珍</persName><persName type="9">zhang ru zhen</persName></author><note source="#600">In Mandarin colloquial</note></msItem>         
                </msContents>
                <physDesc>
                   

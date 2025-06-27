@@ -46,7 +46,7 @@
                <head>書名: 亨利實錄<lb/>[Peking] : 耶穌堂, 1865<lb/>線裝1冊(35頁) ; 20.4公分<lb/>By M M Sherwood ; tr. by H Blodget<lb/>In Mandarin dialect<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">亨利實錄</title><title source="#200|9">heng li shi lu</title><author source="#300" key="person_7031"><persName>Sherwood, Mary Martha</persName></author><author source="#300" key="person_6775"><persName>Blodget, Henry</persName></author><editor source="#420" role="pbl"><persName>耶穌堂</persName><persName type="9" role="pbl">ye su tang</persName></editor><note source="#600">By M M Sherwood ; tr. by H Blodget</note><note source="#600">In Mandarin dialect</note></msItem>         
+                  <title xml:lang="chi" source="#200">亨利實錄</title><title source="#200|9">heng li shi lu</title><author source="#300" key="person_7031"><persName xml:lang="chi">Sherwood, Mary Martha</persName></author><author source="#300" key="person_6775"><persName xml:lang="chi">Blodget, Henry</persName></author><editor source="#420" role="pbl"><persName>耶穌堂</persName><persName type="9" role="pbl">ye su tang</persName></editor><note source="#600">By M M Sherwood ; tr. by H Blodget</note><note source="#600">In Mandarin dialect</note></msItem>         
                </msContents>
                <physDesc>
                   

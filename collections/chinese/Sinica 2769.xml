@@ -47,10 +47,10 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">皇清經解續編</title>
+                     <title xml:lang="chi" source="#200">皇清經解續編</title>
                      <title source="#200|9">huang qing jing jie xu bian</title>
                      <note source="#290">(清)王先謙輯</note>
-                     <author source="#300" key="person_5014"><persName>(清)王先謙</persName><persName type="9">wang xian
+                     <author source="#300" key="person_5014"><persName xml:lang="chi">(清)王先謙</persName><persName type="9">wang xian
                            qian</persName></author>
                      <note source="#409">清光緒十四年[1888]南菁書院刊本</note>
                      <editor source="#440" role="pbl"><persName>南菁書院</persName><persName type="9" role="pbl">nan jing shu yuan</persName></editor>

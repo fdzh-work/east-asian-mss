@@ -49,14 +49,14 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">魏叔子文集外篇 二十二卷</title>
+                     <title xml:lang="chi" source="#200">魏叔子文集外篇 二十二卷</title>
                      <title source="#200|9">wei shu zi wen ji wai pian</title>
-                     <title source="#200">魏叔子日錄 三卷</title>
+                     <title xml:lang="chi" source="#200">魏叔子日錄 三卷</title>
                      <title source="#200|9">wei shu zi ri lu</title>
-                     <title source="#200">魏叔子詩集 八卷</title>
+                     <title xml:lang="chi" source="#200">魏叔子詩集 八卷</title>
                      <title source="#200|9">wei shu zi shi ji</title>
                      <note source="#290">(清)魏禧撰</note>
-                     <author source="#300" key="person_6323"><persName>(清)魏禧</persName><persName type="9">wei
+                     <author source="#300" key="person_6323"><persName xml:lang="chi">(清)魏禧</persName><persName type="9">wei
                            xi</persName></author>
                   </msItem>
                </msContents>

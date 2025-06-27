@@ -46,7 +46,7 @@
                <head>書名: Ts'u-'oh di-li veng-teh, Nying-po t'u-wo / Le Ing-pah faen-yih<lb/>Zong-hae [Shanghai] : Me-wo Shu-kwun, 1873<lb/>平裝1冊(126頁) : 圖, 地圖 ; 22.7公分<lb/>In romanised Ningpo dialect<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">Ts'u-'oh di-li veng-teh, Nying-po t'u-wo</title><note source="#290">Le Ing-pah faen-yih</note><author source="#300" key="person_6927"><persName>Leyenberger, Joseph Anderson</persName></author><editor source="#420" role="pbl"><persName>Me-wo Shu-kwun</persName></editor><note source="#600">In romanised Ningpo dialect</note></msItem>         
+                  <title xml:lang="chi" source="#200">Ts'u-'oh di-li veng-teh, Nying-po t'u-wo</title><note source="#290">Le Ing-pah faen-yih</note><author source="#300" key="person_6927"><persName xml:lang="chi">Leyenberger, Joseph Anderson</persName></author><editor source="#420" role="pbl"><persName>Me-wo Shu-kwun</persName></editor><note source="#600">In romanised Ningpo dialect</note></msItem>         
                </msContents>
                <physDesc>
                   

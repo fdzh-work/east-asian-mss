@@ -46,7 +46,7 @@
                <head>書名: 博物新論 / 英國醫士合信著<lb/>上海 : 墨海書館, 咸豐五年[1855]<lb/>線裝1冊(various pagings) : 圖 ; 23.9公分<lb/>Text divided into 「初集」, 「二集」 and 「三集」<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">博物新論</title><title source="#200|9">bo xin lun</title><note source="#290">英國醫士合信著</note><author source="#300" key="person_6891"><persName>Hobson, Benjamin</persName></author><editor source="#420" role="pbl"><persName>墨海書館</persName><persName type="9" role="pbl">mo hai shu guan</persName></editor><note source="#600">Text divided into 「初集」, 「二集」 and 「三集」</note></msItem>         
+                  <title xml:lang="chi" source="#200">博物新論</title><title source="#200|9">bo xin lun</title><note source="#290">英國醫士合信著</note><author source="#300" key="person_6891"><persName xml:lang="chi">Hobson, Benjamin</persName></author><editor source="#420" role="pbl"><persName>墨海書館</persName><persName type="9" role="pbl">mo hai shu guan</persName></editor><note source="#600">Text divided into 「初集」, 「二集」 and 「三集」</note></msItem>         
                </msContents>
                <physDesc>
                   

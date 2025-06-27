@@ -49,13 +49,13 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">月令章句 四卷</title>
+                     <title xml:lang="chi" source="#200">月令章句 四卷</title>
                      <title source="#200|9">yue ling zhang ju</title>
                      <note source="#290">(漢)蔡邕撰</note>
                      <note source="#290">(民國)葉德輝輯</note>
-                     <author source="#300" key="person_6588"><persName>(漢)蔡邕</persName><persName type="9">cai
+                     <author source="#300" key="person_6588"><persName xml:lang="chi">(漢)蔡邕</persName><persName type="9">cai
                            yong</persName></author>
-                     <author source="#300" key="person_3174"><persName>(民國)葉德輝</persName><persName type="9">ye de
+                     <author source="#300" key="person_3174"><persName xml:lang="chi">(民國)葉德輝</persName><persName type="9">ye de
                            hui</persName></author>
                      <note source="#600">光緒甲辰[1904]刊</note>
                   </msItem>

@@ -46,8 +46,8 @@
                <head>書名: 舊約全書<lb/>新約全書<lb/>福州 : 美華書局, 1881<lb/>精裝1冊(738, 226頁) : 地圖 ; 19公分<lb/>Delegates' version<lb/>O.T. and N.T. each have their own title-page, spine title is 「聖經全書」<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem><editor source="#420" role="pbl"><persName>美華書局</persName><persName type="9" role="pbl">mei hua shu ju</persName></editor><note source="#600">Delegates' version</note><note source="#600">O.T. and N.T. each have their own title-page, spine title is 「聖經全書」</note><msItem n="1">
-                  <title source="#200">舊約全書</title><title source="#200|9">jiu yue quan shu</title><title type="variant" source="#230">聖經全書</title><title source="#230|9" type="variant">sheng jing quan shu</title></msItem>         
-               <msItem n="2"><title source="#201">新約全書</title><title source="#201|9">xin yue quan shu</title></msItem></msItem></msContents>
+                  <title xml:lang="chi" source="#200">舊約全書</title><title source="#200|9">jiu yue quan shu</title><title type="variant" source="#230">聖經全書</title><title source="#230|9" type="variant">sheng jing quan shu</title></msItem>         
+               <msItem n="2"><title xml:lang="chi" source="#201">新約全書</title><title source="#201|9">xin yue quan shu</title></msItem></msItem></msContents>
                <physDesc>
                   
                   <objectDesc>

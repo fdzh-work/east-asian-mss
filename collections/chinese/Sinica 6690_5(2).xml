@@ -50,21 +50,21 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">顧端文公年譜 二卷譜前一卷譜後一卷</title>
+                     <title xml:lang="chi" source="#200">顧端文公年譜 二卷譜前一卷譜後一卷</title>
                      <title source="#200|9">gu duan wen gong nian pu</title>
                      <note source="#290">(清)顧與沐記略</note>
                      <note source="#290">(清)顧樞初編</note>
                      <note source="#290">(清)顧貞觀訂補</note>
                      <note source="#290">(清)鍾英, (清)鍾瑄等錄</note>
-                     <author source="#300" key="person_6232"><persName>(清)顧與沐</persName><persName type="9">gu yu
+                     <author source="#300" key="person_6232"><persName xml:lang="chi">(清)顧與沐</persName><persName type="9">gu yu
                            mu</persName></author>
-                     <author source="#300" key="person_6223"><persName>(清)顧樞</persName><persName type="9">gu
+                     <author source="#300" key="person_6223"><persName xml:lang="chi">(清)顧樞</persName><persName type="9">gu
                            shu</persName></author>
-                     <author source="#300" key="person_6237"><persName>(清)顧貞觀</persName><persName type="9">gu zhen
+                     <author source="#300" key="person_6237"><persName xml:lang="chi">(清)顧貞觀</persName><persName type="9">gu zhen
                            guan</persName></author>
-                     <author source="#300" key="person_5963"><persName>(清)鍾英</persName><persName type="9">zhong
+                     <author source="#300" key="person_5963"><persName xml:lang="chi">(清)鍾英</persName><persName type="9">zhong
                            ying</persName></author>
-                     <author source="#300" key="person_5961"><persName>(清)鍾瑄</persName><persName type="9">zhong
+                     <author source="#300" key="person_5961"><persName xml:lang="chi">(清)鍾瑄</persName><persName type="9">zhong
                            xuan</persName></author>
                   </msItem>
                </msContents>

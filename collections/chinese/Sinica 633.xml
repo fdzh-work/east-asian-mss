@@ -48,16 +48,16 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">都門紀略</title>
+                     <title xml:lang="chi" source="#200">都門紀略</title>
                      <title source="#200|9">du men ji lue</title>
                      <note source="#290">(清)楊靜亭撰</note>
-                     <author source="#300" key="person_4709"><persName>(清)楊靜亭</persName><persName type="9">yang jing
+                     <author source="#300" key="person_4709"><persName xml:lang="chi">(清)楊靜亭</persName><persName type="9">yang jing
                            ting</persName></author>
                      <note source="#409">清同治丙寅[1866]﹑甲子[1864]刊本</note>
                      <msItem n="1">
                         <title>都門雜記 一卷</title>
                         <title source="9">du men za ji</title>
-                        <author key="person_4709"><persName>(清)楊靜亭</persName><persName type="9">yang jing
+                        <author key="person_4709"><persName xml:lang="chi">(清)楊靜亭</persName><persName type="9">yang jing
                               ting</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20131118/12:52:15|odh -->
@@ -68,7 +68,7 @@
                      <msItem n="2">
                         <title>都門會館 一卷</title>
                         <title source="9">du men hui guan</title>
-                        <author key="person_4709"><persName>(清)楊靜亭</persName><persName type="9">yang jing
+                        <author key="person_4709"><persName xml:lang="chi">(清)楊靜亭</persName><persName type="9">yang jing
                               ting</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20131118/12:53:13|odh -->
@@ -79,7 +79,7 @@
                      <msItem n="3">
                         <title>都門雜詠 一卷</title>
                         <title source="9">du men za yong</title>
-                        <author key="person_4709"><persName>(清)楊靜亭</persName><persName type="9">yang jing
+                        <author key="person_4709"><persName xml:lang="chi">(清)楊靜亭</persName><persName type="9">yang jing
                               ting</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20131118/12:54:34|odh -->
@@ -90,7 +90,7 @@
                      <msItem n="4">
                         <title>路程輯要 一卷</title>
                         <title source="9">lu cheng ji yao</title>
-                        <author key="person_4709"><persName>(清)楊靜亭</persName><persName type="9">yang jing
+                        <author key="person_4709"><persName xml:lang="chi">(清)楊靜亭</persName><persName type="9">yang jing
                               ting</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20131118/12:56:38|odh -->

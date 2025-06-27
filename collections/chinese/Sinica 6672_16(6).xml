@@ -50,22 +50,22 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">風后握奇經 一卷</title>
+                     <title xml:lang="chi" source="#200">風后握奇經 一卷</title>
                      <title source="#200|9">feng hou wo qi jing</title>
                      <note source="#290">(漢)公孫弘解</note>
-                     <author source="#300" key="person_6487"><persName>(漢)公孫弘</persName><persName type="9">gong sun
+                     <author source="#300" key="person_6487"><persName xml:lang="chi">(漢)公孫弘</persName><persName type="9">gong sun
                            hong</persName></author>
                   </msItem>
                   <msItem n="2">
-                     <title source="#201">附 握奇經續圖 一卷</title>
+                     <title xml:lang="chi" source="#201">附 握奇經續圖 一卷</title>
                      <title source="#201|9">wo qi jing xu tu</title>
                      <note source="#291">佚名撰</note>
                   </msItem>
                   <msItem n="3">
-                     <title source="#202">八陣總述 一卷</title>
+                     <title xml:lang="chi" source="#202">八陣總述 一卷</title>
                      <title source="#202|9">ba zhen zong shu</title>
                      <note source="#292">(晉)馬隆述</note>
-                     <author source="#302" key="person_3007"><persName>(晉)馬隆</persName><persName type="9">ma
+                     <author source="#302" key="person_3007"><persName xml:lang="chi">(晉)馬隆</persName><persName type="9">ma
                            long</persName></author>
                   </msItem>
                </msContents>

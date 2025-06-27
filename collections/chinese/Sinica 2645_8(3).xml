@@ -49,12 +49,12 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">伯仲諫臺疏草 二卷</title>
+                     <title xml:lang="chi" source="#200">伯仲諫臺疏草 二卷</title>
                      <title source="#200|9">bo zhong jian tai shu cao</title>
                      <note source="#290">(明)鄭欽, (明)鄭銳撰</note>
-                     <author source="#300" key="person_2673"><persName>(明)鄭欽</persName><persName type="9">zheng
+                     <author source="#300" key="person_2673"><persName xml:lang="chi">(明)鄭欽</persName><persName type="9">zheng
                            qin</persName></author>
-                     <author source="#300" key="person_2676"><persName>(明)鄭銳</persName><persName type="9">zheng
+                     <author source="#300" key="person_2676"><persName xml:lang="chi">(明)鄭銳</persName><persName type="9">zheng
                            rui</persName></author>
                   </msItem>
                </msContents>

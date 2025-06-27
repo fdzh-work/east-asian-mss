@@ -49,12 +49,12 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">漢管處士年譜 一卷</title>
+                     <title xml:lang="chi" source="#200">漢管處士年譜 一卷</title>
                      <title source="#200|9">han guan chu shi nian pu</title>
                      <title type="variant" source="#230">管處士年譜</title>
                      <title source="#230|9" type="variant">guan chu shi nian pu</title>
                      <note source="#290">(清)管世駿編纂</note>
-                     <author source="#300" key="person_5298"><persName>(清)管世駿</persName><persName type="9">guan shi
+                     <author source="#300" key="person_5298"><persName xml:lang="chi">(清)管世駿</persName><persName type="9">guan shi
                            jun</persName></author>
                      <note source="#600">民國丙寅[1926]刊</note>
                   </msItem>

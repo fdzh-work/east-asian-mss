@@ -46,7 +46,7 @@
                <head>書名: 識字初階<lb/>漢口 : 中西書局, 光緒十二年[1886]<lb/>線裝1冊([37]頁) ; 24.0公分<lb/>By A Foster?<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">識字初階</title><title source="#200|9">shi zi chu ji</title><author source="#300" key="person_6850"><persName>Foster, Arnold</persName></author><editor source="#420" role="pbl"><persName>中西書局</persName><persName type="9" role="pbl">zhong xi shu ju</persName></editor><note source="#600">By A Foster?</note></msItem>         
+                  <title xml:lang="chi" source="#200">識字初階</title><title source="#200|9">shi zi chu ji</title><author source="#300" key="person_6850"><persName xml:lang="chi">Foster, Arnold</persName></author><editor source="#420" role="pbl"><persName>中西書局</persName><persName type="9" role="pbl">zhong xi shu ju</persName></editor><note source="#600">By A Foster?</note></msItem>         
                </msContents>
                <physDesc>
                   

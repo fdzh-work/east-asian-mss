@@ -47,10 +47,10 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">影印四庫全書四種</title>
+                     <title xml:lang="chi" source="#200">影印四庫全書四種</title>
                      <title source="#200|9">ying yin si ku quan shu si zhong</title>
                      <note source="#290">中央圖書館籌備處選</note>
-                     <author><persName>中央圖書館籌備處</persName><persName type="9">zhong yang tu shu guan
+                     <author><persName xml:lang="chi">中央圖書館籌備處</persName><persName type="9">zhong yang tu shu guan
                            chou bei chu</persName></author>
                      <note source="#409">民國二十四年[1935]上海商務印書館影印文淵閣鈔本</note>
                      <editor source="#440" role="pbl"><persName>商務印書館</persName><persName type="9" role="pbl">shang wu yin shu guan</persName></editor>

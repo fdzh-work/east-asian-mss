@@ -49,13 +49,13 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">兩京新記 二卷</title>
+                     <title xml:lang="chi" source="#200">兩京新記 二卷</title>
                      <title source="#200|9">liang jing xin ji</title>
                      <note source="#290">(唐)韋述撰</note>
                      <note source="#290">(民國)曹元忠輯</note>
-                     <author source="#300" key="person_866"><persName>(唐)韋述</persName><persName type="9">wei
+                     <author source="#300" key="person_866"><persName xml:lang="chi">(唐)韋述</persName><persName type="9">wei
                            shu</persName></author>
-                     <author source="#300" key="person_3123"><persName>(民國)曹元忠</persName><persName type="9">cao yuan
+                     <author source="#300" key="person_3123"><persName xml:lang="chi">(民國)曹元忠</persName><persName type="9">cao yuan
                            zhong</persName></author>
                   </msItem>
                </msContents>

@@ -48,10 +48,10 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">雙梅景闇叢書</title>
+                     <title xml:lang="chi" source="#200">雙梅景闇叢書</title>
                      <title source="#200|9">shuang mei ying an cong shu</title>
                      <note source="#290">(民國)葉德輝編</note>
-                     <author source="#300" key="person_3174"><persName>(民國)葉德輝</persName><persName type="9">ye de
+                     <author source="#300" key="person_3174"><persName xml:lang="chi">(民國)葉德輝</persName><persName type="9">ye de
                            hui</persName></author>
                      <note source="#409">清光緒宣統間長沙葉氏郋園刊本</note>
                      <msItem n="1">
@@ -91,7 +91,7 @@
                         <title>天地陰陽交歡大樂賦 一卷</title>
                         <title source="9">tian di yin yang jiao huan da le fu</title>
                         <note source="290">(唐)白行簡撰</note>
-                        <author key="person_765"><persName>(唐)白行簡</persName><persName type="9">bai xing
+                        <author key="person_765"><persName xml:lang="chi">(唐)白行簡</persName><persName type="9">bai xing
                               jian</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150114/13:04:51|odh -->
@@ -102,7 +102,7 @@
                         <title>青樓集 一卷</title>
                         <title source="9">qing lou ji</title>
                         <note source="290">(元)雪簑釣隱撰</note>
-                        <author key="person_93"><persName>(元)夏庭芝</persName><persName type="9">xia ting
+                        <author key="person_93"><persName xml:lang="chi">(元)夏庭芝</persName><persName type="9">xia ting
                               zhi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150114/13:05:48|odh -->
@@ -113,7 +113,7 @@
                         <title>板橋雜記 三卷</title>
                         <title source="9">ban qiao za ji</title>
                         <note source="290">(清)余懷撰</note>
-                        <author key="person_3339"><persName>(清)余懷</persName><persName type="9">yu
+                        <author key="person_3339"><persName xml:lang="chi">(清)余懷</persName><persName type="9">yu
                            huai</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150114/13:08:12|odh -->
@@ -124,7 +124,7 @@
                         <title>吳門畫舫錄 一卷</title>
                         <title source="9">wu men hua fang lu</title>
                         <note source="290">(清)西溪山人撰</note>
-                        <author key="person_5645"><persName>(清)西溪山人</persName><persName type="9">xi xi shan
+                        <author key="person_5645"><persName xml:lang="chi">(清)西溪山人</persName><persName type="9">xi xi shan
                               ren</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150114/13:08:59|odh -->
@@ -135,7 +135,7 @@
                         <title>燕蘭小譜 五卷</title>
                         <title source="9">yan lan xiao pu</title>
                         <note source="290">(清)西湖安樂山樵吟</note>
-                        <author key="person_3639"><persName>(清)吳長元</persName><persName type="9">wu chang
+                        <author key="person_3639"><persName xml:lang="chi">(清)吳長元</persName><persName type="9">wu chang
                               yuan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150114/13:10:00|odh -->
@@ -146,7 +146,7 @@
                         <title>海漚小譜 一卷</title>
                         <title source="9">hai ou xiao pu</title>
                         <note source="290">(清)秋谷老人撰</note>
-                        <author key="person_5727"><persName>(清)趙執信</persName><persName type="9">zhao zhi
+                        <author key="person_5727"><persName xml:lang="chi">(清)趙執信</persName><persName type="9">zhao zhi
                               xin</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150114/13:14:45|odh -->
@@ -156,7 +156,7 @@
                         <title>觀劇絕句 一卷</title>
                         <title source="9">guan ju jue ju</title>
                         <note source="290">(清)金德瑛等撰</note>
-                        <author key="person_5883"><persName>(清)金德瑛</persName><persName type="9">jin de
+                        <author key="person_5883"><persName xml:lang="chi">(清)金德瑛</persName><persName type="9">jin de
                            ying</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150114/13:19:37|odh -->
@@ -168,14 +168,14 @@
                            <title>木皮散人鼓詞 一卷</title>
                            <title source="9">mu pi san ren gu ji</title>
                            <note source="290">(明)賈鳧西撰</note>
-                           <author key="person_2628"><persName>(明)賈鳧西</persName><persName type="9">jia fu
+                           <author key="person_2628"><persName xml:lang="chi">(明)賈鳧西</persName><persName type="9">jia fu
                                  xi</persName></author>
                         </msItem>
                         <msItem n="2">
                            <title>附 萬古愁曲 一卷</title>
                            <title type="9">wan gu chou qu</title>
                            <note source="#291">(清)歸莊撰</note>
-                           <author key="person_4729"><persName>(清)歸莊</persName><persName type="9">gui
+                           <author key="person_4729"><persName xml:lang="chi">(清)歸莊</persName><persName type="9">gui
                                  zhuang</persName></author>
                         </msItem>
                         <!--Unused allegro fields-->
@@ -189,7 +189,7 @@
                         <title>乾嘉詩壇點將錄 一卷</title>
                         <title source="9">qian jia shi tan dian jiang lu</title>
                         <note source="290">(清)舒位撰</note>
-                        <author key="person_5396"><persName>(清)舒位</persName><persName type="9">shu
+                        <author key="person_5396"><persName xml:lang="chi">(清)舒位</persName><persName type="9">shu
                            wei</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150114/13:28:12|odh -->
@@ -200,7 +200,7 @@
                         <title>東林點將錄 一卷</title>
                         <title source="9">dong lin dian jiang lu</title>
                         <note source="290">(明)王紹徽撰</note>
-                        <author key="person_2453"><persName>(明)王紹徽</persName><persName type="9">wang shao
+                        <author key="person_2453"><persName xml:lang="chi">(明)王紹徽</persName><persName type="9">wang shao
                               hui</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150114/13:29:02|odh -->
@@ -210,7 +210,7 @@
                         <title>重刻足本乾嘉詩壇點將錄 一卷</title>
                         <title source="9">chong ke zu ben qian jia shi tan dian jiang lu</title>
                         <note source="290">(清)舒位撰</note>
-                        <author key="person_5396"><persName>(清)舒位</persName><persName type="9">shu
+                        <author key="person_5396"><persName xml:lang="chi">(清)舒位</persName><persName type="9">shu
                            wei</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150114/13:30:40|odh -->
@@ -221,7 +221,7 @@
                         <title>秦雲擷英小譜 一卷</title>
                         <title source="9">qin yun xie ying xiao pu</title>
                         <note source="290">(清)王昶撰</note>
-                        <author key="person_5096"><persName>(清)王昶</persName><persName type="9">wang
+                        <author key="person_5096"><persName xml:lang="chi">(清)王昶</persName><persName type="9">wang
                            chang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150114/13:31:27|odh -->

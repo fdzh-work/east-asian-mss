@@ -46,7 +46,7 @@
                <head>書名: 十竹齋箋譜初集 殘一卷 / (明)胡正言撰<lb/>民國刊彩色套印本<lb/>線裝1冊 : 圖 ; 34公分<lb/>全書四卷, 殘卷四<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">十竹齋箋譜初集 殘一卷</title><title source="#200|9">shi zhu zhai jian pu</title><note source="#290">(明)胡正言撰</note><author source="#300" key="person_2527"><persName>(明)胡正言</persName><persName type="9">hu zheng yan</persName></author><note source="#409">民國刊彩色套印本</note><note source="#600">全書四卷, 殘卷四</note></msItem>         
+                  <title xml:lang="chi" source="#200">十竹齋箋譜初集 殘一卷</title><title source="#200|9">shi zhu zhai jian pu</title><note source="#290">(明)胡正言撰</note><author source="#300" key="person_2527"><persName xml:lang="chi">(明)胡正言</persName><persName type="9">hu zheng yan</persName></author><note source="#409">民國刊彩色套印本</note><note source="#600">全書四卷, 殘卷四</note></msItem>         
                </msContents>
                <physDesc>
                   

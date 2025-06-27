@@ -51,17 +51,17 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">傷寒瑣言 卷一</title>
+                     <title xml:lang="chi" source="#200">傷寒瑣言 卷一</title>
                      <title source="#200|9">shang han suo yan</title>
-                     <title source="#200">傷寒家秘的本 卷二</title>
+                     <title xml:lang="chi" source="#200">傷寒家秘的本 卷二</title>
                      <title source="#200|9">shang han jia mi di ben</title>
-                     <title source="#200">傷寒殺車搥法 卷三</title>
+                     <title xml:lang="chi" source="#200">傷寒殺車搥法 卷三</title>
                      <title source="#200|9">shang han sha che chui fa</title>
-                     <title source="#200">傷寒一提金 卷四</title>
+                     <title xml:lang="chi" source="#200">傷寒一提金 卷四</title>
                      <title source="#200|9">shang han yi ti jin</title>
-                     <title source="#200">傷寒截江網 卷五</title>
+                     <title xml:lang="chi" source="#200">傷寒截江網 卷五</title>
                      <title source="#200|9">shang han jie jiang wang</title>
-                     <title source="#200">傷寒明理續論 卷六</title>
+                     <title xml:lang="chi" source="#200">傷寒明理續論 卷六</title>
                      <title source="#200|9">shang han ming li xu lun</title>
                      <title type="variant" source="#230">家秘的本</title>
                      <title source="#230|9" type="variant">jia mi di ben</title>
@@ -74,7 +74,7 @@
                      <title type="variant" source="#230">明理續論</title>
                      <title source="#230|9" type="variant">ming li xu lun</title>
                      <note source="#290">(明)陶華撰</note>
-                     <author source="#300" key="person_2737"><persName>(明)陶華</persName><persName type="9">tao
+                     <author source="#300" key="person_2737"><persName xml:lang="chi">(明)陶華</persName><persName type="9">tao
                            hua</persName></author>
                   </msItem>
                </msContents>

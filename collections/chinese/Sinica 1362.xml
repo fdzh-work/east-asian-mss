@@ -46,7 +46,7 @@
                <head>書名: a e i o o u o u<lb/>[Hong Kong], [c.1870]<lb/>線裝1冊(4頁) ; 19.2公分<lb/>By E Faber<lb/>Syllabary of the Hakka dialect<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">a e i o o u o u</title><author source="#300" key="person_6843"><persName>Faber, Ernst</persName></author><note source="#600">By E Faber</note><note source="#600">Syllabary of the Hakka dialect</note></msItem>         
+                  <title xml:lang="chi" source="#200">a e i o o u o u</title><author source="#300" key="person_6843"><persName xml:lang="chi">Faber, Ernst</persName></author><note source="#600">By E Faber</note><note source="#600">Syllabary of the Hakka dialect</note></msItem>         
                </msContents>
                <physDesc>
                   

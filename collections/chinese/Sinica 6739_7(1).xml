@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">邵氏聞見後錄 三十卷</title>
+                     <title xml:lang="chi" source="#200">邵氏聞見後錄 三十卷</title>
                      <title source="#200|9">shao shi wen jian hou lu</title>
                      <note source="#290">(宋)邵博撰</note>
-                     <author source="#300" key="person_1683"><persName>(宋)邵博</persName><persName type="9">shao
+                     <author source="#300" key="person_1683"><persName xml:lang="chi">(宋)邵博</persName><persName type="9">shao
                            bo</persName></author>
                      <note source="#600">民國九年[1920]三版</note>
                   </msItem>

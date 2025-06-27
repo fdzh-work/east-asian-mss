@@ -46,7 +46,7 @@
                <head>書名: 金臺集 二卷 / (元)納新撰<lb/>民國壬戌[1922]武進董康刊一九九〇年[?]北京市中國書店重印本殘損版以影印配補<lb/>線裝1冊 ; 28公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">金臺集 二卷</title><title source="#200|9">jin tai ji</title><note source="#290">(元)納新撰</note><author source="#300" key="person_237"><persName>(元)納新</persName><persName type="9">na xin</persName></author><note source="#409">民國壬戌[1922]武進董康刊一九九〇年[?]北京市中國書店重印本殘損版以影印配補</note><editor source="#440" role="pbl"><persName>中國書店</persName><persName type="9" role="pbl">zhong guo shu dian</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">金臺集 二卷</title><title source="#200|9">jin tai ji</title><note source="#290">(元)納新撰</note><author source="#300" key="person_237"><persName xml:lang="chi">(元)納新</persName><persName type="9">na xin</persName></author><note source="#409">民國壬戌[1922]武進董康刊一九九〇年[?]北京市中國書店重印本殘損版以影印配補</note><editor source="#440" role="pbl"><persName>中國書店</persName><persName type="9" role="pbl">zhong guo shu dian</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

@@ -49,19 +49,19 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">慎子 一卷</title>
+                     <title xml:lang="chi" source="#200">慎子 一卷</title>
                      <title source="#200|9">shen zi</title>
                      <note source="#290">(周)慎到撰</note>
                      <note source="#290">(清)錢熙祚校</note>
-                     <author source="#300" key="person_504"><persName>(周)慎到</persName><persName type="9">shen
+                     <author source="#300" key="person_504"><persName xml:lang="chi">(周)慎到</persName><persName type="9">shen
                            dao</persName></author>
-                     <author source="#300" key="person_5944"><persName>(清)錢熙祚</persName><persName type="9">qian xi
+                     <author source="#300" key="person_5944"><persName xml:lang="chi">(清)錢熙祚</persName><persName type="9">qian xi
                            zuo</persName></author>
-                     <author source="#300" key="person_5944"><persName>(清)錢熙祚</persName><persName type="9">qian xi
+                     <author source="#300" key="person_5944"><persName xml:lang="chi">(清)錢熙祚</persName><persName type="9">qian xi
                            zuo</persName></author>
                   </msItem>
                   <msItem n="2">
-                     <title source="#201">附 慎子逸文 一卷</title>
+                     <title xml:lang="chi" source="#201">附 慎子逸文 一卷</title>
                      <title source="#201|9">shen zi yi wen</title>
                      <note source="#291">(清)錢熙祚輯</note>
                   </msItem>

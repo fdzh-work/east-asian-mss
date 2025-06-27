@@ -49,11 +49,11 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">精選名賢詞話草堂詩餘 二卷</title>
+                     <title xml:lang="chi" source="#200">精選名賢詞話草堂詩餘 二卷</title>
                      <title source="#200|9">jing xuan ming xian ci hua cao tang shi yu</title>
                      <note source="#290">(宋)何士信輯</note>
                      <note source="#290">佚名注</note>
-                     <author source="#300" key="person_935"><persName>(宋)何士信</persName><persName type="9">he shi
+                     <author source="#300" key="person_935"><persName xml:lang="chi">(宋)何士信</persName><persName type="9">he shi
                            xin</persName></author>
                   </msItem>
                </msContents>

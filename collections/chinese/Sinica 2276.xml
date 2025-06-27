@@ -46,7 +46,7 @@
                <head>書名: 以利亞言行傳<lb/>上海 : 美華書館, 1861<lb/>線裝1冊(2, 18頁) ; 24.4公分<lb/>By M S Culbertson<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">以利亞言行傳</title><title source="#200|9">yi li ya yan xing zhuan</title><author source="#300" key="person_6822"><persName>Culbertson, Michael Simpson</persName></author><editor source="#420" role="pbl"><persName>美華書館</persName><persName type="9" role="pbl">mei hua shu guan</persName></editor><note source="#600">By M S Culbertson</note></msItem>         
+                  <title xml:lang="chi" source="#200">以利亞言行傳</title><title source="#200|9">yi li ya yan xing zhuan</title><author source="#300" key="person_6822"><persName xml:lang="chi">Culbertson, Michael Simpson</persName></author><editor source="#420" role="pbl"><persName>美華書館</persName><persName type="9" role="pbl">mei hua shu guan</persName></editor><note source="#600">By M S Culbertson</note></msItem>         
                </msContents>
                <physDesc>
                   

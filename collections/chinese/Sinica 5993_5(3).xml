@@ -51,10 +51,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">虛齋樂府 二卷</title>
+                     <title xml:lang="chi" source="#200">虛齋樂府 二卷</title>
                      <title source="#200|9">xu zhai yue fu</title>
                      <note source="#290">(宋)趙以夫撰</note>
-                     <author source="#300" key="person_1640"><persName>(宋)趙以夫</persName><persName type="9">zhao yi
+                     <author source="#300" key="person_1640"><persName xml:lang="chi">(宋)趙以夫</persName><persName type="9">zhao yi
                            fu</persName></author>
                      <note source="#600">景刊宋本</note>
                   </msItem>

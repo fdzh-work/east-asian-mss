@@ -46,8 +46,8 @@
                <head>書名: 東華全錄 天命四卷天聰崇德十八卷順治三十六卷康熙一百十卷雍正二十六卷乾隆一百二十卷嘉慶五十卷道光六十卷 / (清)王先謙編<lb/>東華續錄 咸豐六十九卷 / (清)潘頤福編<lb/>清光緒十三年[1887]刊本板存京都善成堂<lb/>線裝140冊 ; 25公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem><editor source="#440" role="pbl"><persName>善成堂</persName><persName type="9" role="pbl">shan cheng tang</persName></editor><note source="#409">清光緒十三年[1887]刊本板存京都善成堂</note><msItem n="1">
-                  <title source="#200">東華全錄 天命四卷天聰崇德十八卷順治三十六卷康熙一百十卷雍正二十六卷乾隆一百二十卷嘉慶五十卷道光六十卷</title><title source="#200|9">dong hua quan lu</title><note source="#290">(清)王先謙編</note><author source="#300" key="person_5014"><persName>(清)王先謙</persName><persName type="9">wang xian qian</persName></author></msItem>         
-               <msItem n="2"><title source="#201">東華續錄 咸豐六十九卷</title><title source="#201|9">dong hua xu lu</title><note source="#291">(清)潘頤福編</note><author source="#301" key="person_4978"><persName>(清)潘頤福</persName><persName type="9">pan yi fu</persName></author></msItem></msItem></msContents>
+                  <title xml:lang="chi" source="#200">東華全錄 天命四卷天聰崇德十八卷順治三十六卷康熙一百十卷雍正二十六卷乾隆一百二十卷嘉慶五十卷道光六十卷</title><title source="#200|9">dong hua quan lu</title><note source="#290">(清)王先謙編</note><author source="#300" key="person_5014"><persName xml:lang="chi">(清)王先謙</persName><persName type="9">wang xian qian</persName></author></msItem>         
+               <msItem n="2"><title xml:lang="chi" source="#201">東華續錄 咸豐六十九卷</title><title source="#201|9">dong hua xu lu</title><note source="#291">(清)潘頤福編</note><author source="#301" key="person_4978"><persName xml:lang="chi">(清)潘頤福</persName><persName type="9">pan yi fu</persName></author></msItem></msItem></msContents>
                <physDesc>
                   
                   <objectDesc>

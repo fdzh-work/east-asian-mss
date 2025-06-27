@@ -49,13 +49,13 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">漢禮器制度 一卷</title>
+                     <title xml:lang="chi" source="#200">漢禮器制度 一卷</title>
                      <title source="#200|9">han li qi zhi du</title>
                      <note source="#290">(漢)叔孫通撰</note>
                      <note source="#290">(清)孫星衍校集</note>
-                     <author source="#300" key="person_6499"><persName>(漢)叔孫通</persName><persName type="9">shu sun
+                     <author source="#300" key="person_6499"><persName xml:lang="chi">(漢)叔孫通</persName><persName type="9">shu sun
                            tong</persName></author>
-                     <author source="#300" key="person_3855"><persName>(清)孫星衍</persName><persName type="9">sun xing
+                     <author source="#300" key="person_3855"><persName xml:lang="chi">(清)孫星衍</persName><persName type="9">sun xing
                            yan</persName></author>
                   </msItem>
                </msContents>

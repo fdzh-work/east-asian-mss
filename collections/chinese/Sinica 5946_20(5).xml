@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">庚辛泣杭錄 十六卷</title>
+                     <title xml:lang="chi" source="#200">庚辛泣杭錄 十六卷</title>
                      <title source="#200|9">geng xin qi hang lu</title>
                      <note source="#290">(清)丁丙輯</note>
-                     <author source="#300" key="person_3242"><persName>(清)丁丙</persName><persName type="9">ding
+                     <author source="#300" key="person_3242"><persName xml:lang="chi">(清)丁丙</persName><persName type="9">ding
                            bing</persName></author>
                      <note source="#600">光緒二十一年[1895]刊</note>
                      <msItem n="01">
@@ -60,9 +60,9 @@
                         <title source="9">qin ding jiao ping yue fei fang lue</title>
                         <note source="290">(清)朱學勤等撰</note>
                         <note source="290">(清)丁丙錄</note>
-                        <author key="person_4391"><persName>(清)朱學勤</persName><persName type="9">zhu xue
+                        <author key="person_4391"><persName xml:lang="chi">(清)朱學勤</persName><persName type="9">zhu xue
                            qin</persName></author>
-                        <author key="person_3242"><persName>(清)丁丙</persName><persName type="9">ding
+                        <author key="person_3242"><persName xml:lang="chi">(清)丁丙</persName><persName type="9">ding
                            bing</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180409/00000036|odh -->
@@ -72,7 +72,7 @@
                         <title>昭忠祠志 一卷</title>
                         <title source="9">zhao zhong ci zhi</title>
                         <note source="290">(清)范承堃撰</note>
-                        <author key="person_5414"><persName>(清)范承堃</persName><persName type="9">fan cheng
+                        <author key="person_5414"><persName xml:lang="chi">(清)范承堃</persName><persName type="9">fan cheng
                               kun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180409/00000037|odh -->
@@ -82,7 +82,7 @@
                         <title>崇義祠志 一卷</title>
                         <title source="9">chong yi ci zhi</title>
                         <note source="290">(清)陸楨撰</note>
-                        <author key="person_6157"><persName>(清)陸楨</persName><persName type="9">lu
+                        <author key="person_6157"><persName xml:lang="chi">(清)陸楨</persName><persName type="9">lu
                            zhen</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180409/00000038|odh -->
@@ -92,7 +92,7 @@
                         <title>義烈墓錄 一卷</title>
                         <title source="9">yi lie mu lu</title>
                         <note source="290">(清)孫樹禮撰</note>
-                        <author key="person_3856"><persName>(清)孫樹禮</persName><persName type="9">sun shu
+                        <author key="person_3856"><persName xml:lang="chi">(清)孫樹禮</persName><persName type="9">sun shu
                            li</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180409/00000039|odh -->
@@ -103,7 +103,7 @@
                         <title>兩浙庚辛紀略 一卷</title>
                         <title source="9">liang- zhe geng xin ji lue</title>
                         <note source="290">(清)陳學繩撰</note>
-                        <author key="person_6030"><persName>(清)陳學繩</persName><persName type="9">chen xue
+                        <author key="person_6030"><persName xml:lang="chi">(清)陳學繩</persName><persName type="9">chen xue
                               sheng</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180409/00000040|odh -->
@@ -114,7 +114,7 @@
                         <title>庚申浙變記 一卷</title>
                         <title source="9">geng shen zhe bian ji</title>
                         <note source="290">(清)繆德棻撰</note>
-                        <author key="person_5316"><persName>(清)繆德棻</persName><persName type="9">miao de
+                        <author key="person_5316"><persName xml:lang="chi">(清)繆德棻</persName><persName type="9">miao de
                               feng</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180409/00000041|odh -->
@@ -126,9 +126,9 @@
                         <title source="9">zhuan xi yu sheng ji</title>
                         <note source="290">(清)許奉恩撰</note>
                         <note source="290">(清)丁丙節錄</note>
-                        <author key="person_5653"><persName>(清)許奉恩</persName><persName type="9">xu feng
+                        <author key="person_5653"><persName xml:lang="chi">(清)許奉恩</persName><persName type="9">xu feng
                            en</persName></author>
-                        <author key="person_3242"><persName>(清)丁丙</persName><persName type="9">ding
+                        <author key="person_3242"><persName xml:lang="chi">(清)丁丙</persName><persName type="9">ding
                            bing</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180409/00000042|odh -->
@@ -139,7 +139,7 @@
                         <title>杭城再陷紀實 一卷</title>
                         <title source="9">hang cheng zai xian ji shi</title>
                         <note source="290">(清)華學烈撰</note>
-                        <author key="person_5446"><persName>(清)華學烈</persName><persName type="9">hua xue
+                        <author key="person_5446"><persName xml:lang="chi">(清)華學烈</persName><persName type="9">hua xue
                            lie</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180409/00000043|odh -->
@@ -150,9 +150,9 @@
                         <title source="9">si tong ji</title>
                         <note source="290">(清)李圭撰</note>
                         <note source="290">(清)丁丙節錄</note>
-                        <author key="person_4473"><persName>(清)李圭</persName><persName type="9">li
+                        <author key="person_4473"><persName xml:lang="chi">(清)李圭</persName><persName type="9">li
                            gui</persName></author>
-                        <author key="person_3242"><persName>(清)丁丙</persName><persName type="9">ding
+                        <author key="person_3242"><persName xml:lang="chi">(清)丁丙</persName><persName type="9">ding
                            bing</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180409/00000044|odh -->
@@ -162,7 +162,7 @@
                         <title>難中記</title>
                         <title source="9">nan zhong ji</title>
                         <note source="290">(清)張爾嘉撰</note>
-                        <author key="person_4069"><persName>(清)張爾嘉</persName><persName type="9">zhang er
+                        <author key="person_4069"><persName xml:lang="chi">(清)張爾嘉</persName><persName type="9">zhang er
                               jia</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180409/00000045|odh -->
@@ -172,7 +172,7 @@
                         <title>殉烈記</title>
                         <title source="9">xun lie ji</title>
                         <note source="290">(清)張光烈撰</note>
-                        <author key="person_3989"><persName>(清)張光烈</persName><persName type="9">zhang guang
+                        <author key="person_3989"><persName xml:lang="chi">(清)張光烈</persName><persName type="9">zhang guang
                               lie</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180409/00000046|odh -->
@@ -184,11 +184,11 @@
                         <title source="9">ping zhe ji lue</title>
                         <note source="290">(清)秦緗業, (清)陳鍾英撰</note>
                         <note source="290">(清)丁丙節錄</note>
-                        <author key="person_5243"><persName>(清)秦緗業</persName><persName type="9">qin xiang
+                        <author key="person_5243"><persName xml:lang="chi">(清)秦緗業</persName><persName type="9">qin xiang
                               ye</persName></author>
-                        <author key="person_6117"><persName>(清)陳鍾英</persName><persName type="9">chen zhong
+                        <author key="person_6117"><persName xml:lang="chi">(清)陳鍾英</persName><persName type="9">chen zhong
                               ying</persName></author>
-                        <author key="person_3242"><persName>(清)丁丙</persName><persName type="9">ding
+                        <author key="person_3242"><persName xml:lang="chi">(清)丁丙</persName><persName type="9">ding
                            bing</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180409/00000047|odh -->
@@ -198,7 +198,7 @@
                         <title>湘軍記 一卷</title>
                         <title source="9">xiang jun ji</title>
                         <note source="290">(清)王安定撰</note>
-                        <author key="person_5044"><persName>(清)王安定</persName><persName type="9">wang an
+                        <author key="person_5044"><persName xml:lang="chi">(清)王安定</persName><persName type="9">wang an
                               ding</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180409/00000048|odh -->
@@ -208,7 +208,7 @@
                         <title>杭城紀難詩</title>
                         <title source="9">hang chang ji nan shi</title>
                         <note source="290">(清)陸以湉撰</note>
-                        <author key="person_6143"><persName>(清)陸以湉</persName><persName type="9">lu yi
+                        <author key="person_6143"><persName xml:lang="chi">(清)陸以湉</persName><persName type="9">lu yi
                            tian</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180409/00000049|odh -->
@@ -218,7 +218,7 @@
                         <title>蒿目錄</title>
                         <title source="9">hao mu lu</title>
                         <note source="290">(清)許瑤光撰</note>
-                        <author key="person_5672"><persName>(清)許瑤光</persName><persName type="9">xu yao
+                        <author key="person_5672"><persName xml:lang="chi">(清)許瑤光</persName><persName type="9">xu yao
                               guang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180409/00000050|odh -->
@@ -229,9 +229,9 @@
                         <title>杭城辛酉紀事詩 一卷</title>
                         <title source="9">hang cheng xin you ji shi shi</title>
                         <note source="290">(清)張蔭榘, (清)吳淦輯</note>
-                        <author key="person_4104"><persName>(清)張蔭榘</persName><persName type="9">zhang yin
+                        <author key="person_4104"><persName xml:lang="chi">(清)張蔭榘</persName><persName type="9">zhang yin
                               ju</persName></author>
-                        <author key="person_3599"><persName>(清)吳淦</persName><persName type="9">wu
+                        <author key="person_3599"><persName xml:lang="chi">(清)吳淦</persName><persName type="9">wu
                            gan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180409/00000051|odh -->
@@ -241,7 +241,7 @@
                         <title>杭城紀難詩編 一卷</title>
                         <title source="9">hang cheng ji nan shi bian</title>
                         <note source="290">(清)王震元輯</note>
-                        <author key="person_5166"><persName>(清)王震元</persName><persName type="9">wang zhen
+                        <author key="person_5166"><persName xml:lang="chi">(清)王震元</persName><persName type="9">wang zhen
                               yuan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180409/00000052|odh -->

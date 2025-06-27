@@ -47,7 +47,7 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">二十四史</title>
+                     <title xml:lang="chi" source="#200">二十四史</title>
                      <title source="#200|9">er shi si shi</title>
                      <note source="#409">清同治八年[1869]嶺南陳焯之葄古堂重刊內府本</note>
                      <editor source="#440" role="pbl"><persName>葄古堂</persName><persName type="9" role="pbl">zuo gu tang</persName></editor>

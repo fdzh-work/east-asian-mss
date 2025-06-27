@@ -46,7 +46,7 @@
                <head>書名: 三蘇先生文粹 七十卷 / (宋)蘇洵, (宋)蘇軾, (宋)蘇轍撰 ; (宋)佚名編<lb/>明嘉靖中刊本<lb/>線裝20冊 ; 27公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">三蘇先生文粹 七十卷</title><title source="#200|9">san su xian sheng wen cui</title><note source="#290">(宋)蘇洵, (宋)蘇軾, (宋)蘇轍撰</note><note source="#290">(宋)佚名編</note><author source="#300" key="person_1589"><persName>(宋)蘇洵</persName><persName type="9">su xun</persName></author><author source="#300" key="person_1593"><persName>(宋)蘇軾</persName><persName type="9">su shi</persName></author><author source="#300"><persName>(宋)蘇轍</persName><persName type="9">su zhe</persName></author><note source="#409">明嘉靖中刊本</note></msItem>         
+                  <title xml:lang="chi" source="#200">三蘇先生文粹 七十卷</title><title source="#200|9">san su xian sheng wen cui</title><note source="#290">(宋)蘇洵, (宋)蘇軾, (宋)蘇轍撰</note><note source="#290">(宋)佚名編</note><author source="#300" key="person_1589"><persName xml:lang="chi">(宋)蘇洵</persName><persName type="9">su xun</persName></author><author source="#300" key="person_1593"><persName xml:lang="chi">(宋)蘇軾</persName><persName type="9">su shi</persName></author><author source="#300"><persName xml:lang="chi">(宋)蘇轍</persName><persName type="9">su zhe</persName></author><note source="#409">明嘉靖中刊本</note></msItem>         
                </msContents>
                <physDesc>
                   

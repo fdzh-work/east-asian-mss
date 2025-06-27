@@ -46,8 +46,8 @@
                <head>書名: 青冥三會新歌<lb/>新編烟花勸世歌<lb/>日本昭和八年[1933]臺中瑞成書局排印本<lb/>毛裝1冊 ; 16公分<lb/>封面題名《最新流行青冥三會新歌附烟花勸世歌》<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem><editor source="#440" role="pbl"><persName>瑞成書局</persName><persName type="9" role="pbl">rui cheng shu ju</persName></editor><note source="#409">日本昭和八年[1933]臺中瑞成書局排印本</note><note source="#600">封面題名《最新流行青冥三會新歌附烟花勸世歌》</note><msItem n="1">
-                  <title source="#200">青冥三會新歌</title><title source="#200|9">qing ming san hui xin ge</title><title type="variant" source="#230">最新流行青冥三會新歌附烟花勸世歌</title><title source="#230|9" type="variant">zui xin liu xing qing ming san hui xin ge fu yan hua quan shi ge</title></msItem>         
-               <msItem n="2"><title source="#201">新編烟花勸世歌</title><title source="#201|9">xin bian yan hua quan shi ge</title><title type="variant" source="#231">烟花勸世歌</title><title source="#231|9" type="variant">yan hua quan shi ge</title></msItem></msItem></msContents>
+                  <title xml:lang="chi" source="#200">青冥三會新歌</title><title source="#200|9">qing ming san hui xin ge</title><title type="variant" source="#230">最新流行青冥三會新歌附烟花勸世歌</title><title source="#230|9" type="variant">zui xin liu xing qing ming san hui xin ge fu yan hua quan shi ge</title></msItem>         
+               <msItem n="2"><title xml:lang="chi" source="#201">新編烟花勸世歌</title><title source="#201|9">xin bian yan hua quan shi ge</title><title type="variant" source="#231">烟花勸世歌</title><title source="#231|9" type="variant">yan hua quan shi ge</title></msItem></msItem></msContents>
                <physDesc>
                   
                   <objectDesc>

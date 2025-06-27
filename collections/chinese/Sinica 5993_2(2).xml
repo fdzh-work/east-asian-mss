@@ -51,12 +51,12 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">于湖居士文集樂府 四卷</title>
+                     <title xml:lang="chi" source="#200">于湖居士文集樂府 四卷</title>
                      <title source="#200|9">yu hu ju shi wen ji yue fu</title>
                      <title type="variant" source="#230">于湖居士樂府</title>
                      <title source="#230|9" type="variant">yu hu ju shi yue fu</title>
                      <note source="#290">(宋)張孝祥撰</note>
-                     <author source="#300" key="person_1152"><persName>(宋)張孝祥</persName><persName type="9">zhang xiao
+                     <author source="#300" key="person_1152"><persName xml:lang="chi">(宋)張孝祥</persName><persName type="9">zhang xiao
                            xiang</persName></author>
                      <note source="#600">民國乙未[1915]景刊宋本</note>
                   </msItem>

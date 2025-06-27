@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">眞西山先生集 八卷</title>
+                     <title xml:lang="chi" source="#200">眞西山先生集 八卷</title>
                      <title source="#200|9">zhen xi shan xian sheng ji</title>
                      <note source="#290">(宋)眞德秀撰</note>
-                     <author source="#300" key="person_1474"><persName>(宋)真德秀</persName><persName type="9">zhen de
+                     <author source="#300" key="person_1474"><persName xml:lang="chi">(宋)真德秀</persName><persName type="9">zhen de
                            xiu</persName></author>
                   </msItem>
                </msContents>

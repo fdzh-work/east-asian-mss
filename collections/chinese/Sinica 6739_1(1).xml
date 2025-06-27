@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">東原錄 一卷</title>
+                     <title xml:lang="chi" source="#200">東原錄 一卷</title>
                      <title source="#200|9">dong yuan lu</title>
                      <note source="#290">(宋)龔鼎臣撰</note>
-                     <author source="#300" key="person_1852"><persName>(宋)龔鼎臣</persName><persName type="9">gong ding
+                     <author source="#300" key="person_1852"><persName xml:lang="chi">(宋)龔鼎臣</persName><persName type="9">gong ding
                            chen</persName></author>
                      <note source="#600">民國九年[1920]初版</note>
                   </msItem>

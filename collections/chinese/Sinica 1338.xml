@@ -46,7 +46,7 @@
                <head>書名: 醒世良言 / 大英教士韋廉臣譯<lb/>[Shanghai], [1866]<lb/>線裝1冊(2頁) ; 18.5公分<lb/>By A Williamson<lb/>In Peking dialect<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">醒世良言</title><title source="#200|9">xing shi liang yan</title><note source="#290">大英教士韋廉臣譯</note><author source="#300" key="person_7083"><persName>Williamson, Alexander</persName></author><note source="#600">By A Williamson</note><note source="#600">In Peking dialect</note></msItem>         
+                  <title xml:lang="chi" source="#200">醒世良言</title><title source="#200|9">xing shi liang yan</title><note source="#290">大英教士韋廉臣譯</note><author source="#300" key="person_7083"><persName xml:lang="chi">Williamson, Alexander</persName></author><note source="#600">By A Williamson</note><note source="#600">In Peking dialect</note></msItem>         
                </msContents>
                <physDesc>
                   

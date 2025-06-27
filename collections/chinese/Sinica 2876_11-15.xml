@@ -50,10 +50,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">黃帝針灸甲乙經 十二卷</title>
+                     <title xml:lang="chi" source="#200">黃帝針灸甲乙經 十二卷</title>
                      <title source="#200|9">huang di zhen jiu jia yi jing</title>
                      <note source="#290">(晉)皇甫謐撰</note>
-                     <author source="#300" key="person_2941"><persName>(晉)皇甫謐</persName><persName type="9">huang fu
+                     <author source="#300" key="person_2941"><persName xml:lang="chi">(晉)皇甫謐</persName><persName type="9">huang fu
                            mi</persName></author>
                   </msItem>
                </msContents>

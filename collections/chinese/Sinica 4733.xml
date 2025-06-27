@@ -46,7 +46,7 @@
                <head>書名: 隨隱漫錄 五卷 / (宋)陳世崇撰<lb/>民國九年[1920]上海商務印書館鉛字排印十七年[1928]四版本<lb/>線裝1冊 ; 27公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">隨隱漫錄 五卷</title><title source="#200|9">sui yin man lu</title><note source="#290">(宋)陳世崇撰</note><author source="#300" key="person_1730"><persName>(宋)陳世崇</persName><persName type="9">chen shi chong</persName></author><note source="#409">民國九年[1920]上海商務印書館鉛字排印十七年[1928]四版本</note><editor source="#440" role="pbl"><persName>商務印書館</persName><persName type="9" role="pbl">shang wu yin shu guan</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">隨隱漫錄 五卷</title><title source="#200|9">sui yin man lu</title><note source="#290">(宋)陳世崇撰</note><author source="#300" key="person_1730"><persName xml:lang="chi">(宋)陳世崇</persName><persName type="9">chen shi chong</persName></author><note source="#409">民國九年[1920]上海商務印書館鉛字排印十七年[1928]四版本</note><editor source="#440" role="pbl"><persName>商務印書館</persName><persName type="9" role="pbl">shang wu yin shu guan</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

@@ -46,7 +46,7 @@
                <head>書名: 粵東筆記 十六卷附八景全圖一卷 / (清)李調元撰<lb/>清中葉後期文畬堂刊本<lb/>線裝4冊 : 圖 ; 17公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">粵東筆記 十六卷附八景全圖一卷</title><title source="#200|9">yue dong bi ji</title><note source="#290">(清)李調元撰</note><author source="#300"><persName>(清)李調元</persName><persName type="9">li tiao yuan</persName></author><note source="#409">清中葉後期文畬堂刊本</note><editor source="#440" role="pbl"><persName>文畬堂</persName><persName type="9" role="pbl">wen she tang</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">粵東筆記 十六卷附八景全圖一卷</title><title source="#200|9">yue dong bi ji</title><note source="#290">(清)李調元撰</note><author source="#300"><persName xml:lang="chi">(清)李調元</persName><persName type="9">li tiao yuan</persName></author><note source="#409">清中葉後期文畬堂刊本</note><editor source="#440" role="pbl"><persName>文畬堂</persName><persName type="9" role="pbl">wen she tang</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

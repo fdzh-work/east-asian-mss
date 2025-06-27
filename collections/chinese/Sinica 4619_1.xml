@@ -46,7 +46,7 @@
                <head>書名: 故宮善本書營初編 不分卷 / (民國)張允亮等編<lb/>民國十八年[1929]北平故宮博物院圖書館影印本<lb/>線裝1冊 ; 33公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">故宮善本書營初編 不分卷</title><title source="#200|9">gu gong shan ben shu ying chu bian</title><note source="#290">(民國)張允亮等編</note><author source="#300" key="person_3104"><persName>(民國)張允亮</persName><persName type="9">zhang yun liang</persName></author><note source="#409">民國十八年[1929]北平故宮博物院圖書館影印本</note><editor source="#440" role="pbl"><persName>故宮博物院圖書館</persName><persName type="9" role="pbl">gu gong bo wu yuan tu shu guan</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">故宮善本書營初編 不分卷</title><title source="#200|9">gu gong shan ben shu ying chu bian</title><note source="#290">(民國)張允亮等編</note><author source="#300" key="person_3104"><persName xml:lang="chi">(民國)張允亮</persName><persName type="9">zhang yun liang</persName></author><note source="#409">民國十八年[1929]北平故宮博物院圖書館影印本</note><editor source="#440" role="pbl"><persName>故宮博物院圖書館</persName><persName type="9" role="pbl">gu gong bo wu yuan tu shu guan</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

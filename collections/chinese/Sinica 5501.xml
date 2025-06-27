@@ -46,7 +46,7 @@
                <head>書名: 愛情非罪<lb/>廣州 : 華興書局[印行], [1920或1930年代?]<lb/>平裝1冊(60頁) ; 19公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">愛情非罪</title><title source="#200|9">ai qing fei zui</title><editor source="#420" role="pbl"><persName>華興書局</persName><persName type="9" role="pbl">hua qing shu ju</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">愛情非罪</title><title source="#200|9">ai qing fei zui</title><editor source="#420" role="pbl"><persName>華興書局</persName><persName type="9" role="pbl">hua qing shu ju</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

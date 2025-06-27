@@ -49,12 +49,12 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">隋書 殘五十四卷附考異</title>
+                     <title xml:lang="chi" source="#200">隋書 殘五十四卷附考異</title>
                      <title source="#200|9">sui shu</title>
                      <note source="#290">(唐)魏徵, (唐)長孫無忌等奉敕撰</note>
-                     <author source="#300" key="person_887"><persName>(唐)魏徵</persName><persName type="9">wei
+                     <author source="#300" key="person_887"><persName xml:lang="chi">(唐)魏徵</persName><persName type="9">wei
                            zheng</persName></author>
-                     <author source="#300" key="person_845"><persName>(唐)長孫無忌</persName><persName type="9">zhang sun
+                     <author source="#300" key="person_845"><persName xml:lang="chi">(唐)長孫無忌</persName><persName type="9">zhang sun
                            wu ji</persName></author>
                      <note source="#600">全書八十五卷, 殘卷三十二至八十五</note>
                      <note source="#600">同治十年[1871]淮南書局重刊汲古閣本</note>

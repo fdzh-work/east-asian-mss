@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">論語古注集箋 二十卷</title>
+                     <title xml:lang="chi" source="#200">論語古注集箋 二十卷</title>
                      <title source="#200|9">lun yu gu zhu ji jian</title>
                      <note source="#290">(清)潘維城撰</note>
-                     <author source="#300" key="person_4972"><persName>(清)潘維城</persName><persName type="9">pan wei
+                     <author source="#300" key="person_4972"><persName xml:lang="chi">(清)潘維城</persName><persName type="9">pan wei
                            cheng</persName></author>
                   </msItem>
                </msContents>

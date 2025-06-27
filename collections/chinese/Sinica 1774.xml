@@ -46,7 +46,7 @@
                <head>書名: 聖書問答 = Catechism of scripture doctrine and practice<lb/>[Ningpo], 1853<lb/>線裝1冊(38頁) ; 25.9公分<lb/>By J W Quarterman<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">聖書問答 = Catechism of scripture doctrine and practice</title><title source="#200|9">sheng shu wen da</title><author source="#300" key="person_7005"><persName>Quarterman, John Winn</persName></author><note source="#600">By J W Quarterman</note></msItem>         
+                  <title xml:lang="chi" source="#200">聖書問答 = Catechism of scripture doctrine and practice</title><title source="#200|9">sheng shu wen da</title><author source="#300" key="person_7005"><persName xml:lang="chi">Quarterman, John Winn</persName></author><note source="#600">By J W Quarterman</note></msItem>         
                </msContents>
                <physDesc>
                   

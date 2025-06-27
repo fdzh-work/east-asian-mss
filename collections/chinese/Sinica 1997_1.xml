@@ -46,7 +46,7 @@
                <head>書名: 新約串珠<lb/>福州 : 美華書院, 同治八年[1869]<lb/>線裝1冊(1, 165頁) ; 24.7公分<lb/>Delegates' version ; references by A W Cribb<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">新約串珠</title><title source="#200|9">xin yue chuan zhu</title><author source="#300" key="person_6820"><persName>Cribb, Arthur William</persName></author><editor source="#420" role="pbl"><persName>美華書院</persName><persName type="9" role="pbl">mei hua shu yuan</persName></editor><note source="#600">Delegates' version ; references by A W Cribb</note></msItem>         
+                  <title xml:lang="chi" source="#200">新約串珠</title><title source="#200|9">xin yue chuan zhu</title><author source="#300" key="person_6820"><persName xml:lang="chi">Cribb, Arthur William</persName></author><editor source="#420" role="pbl"><persName>美華書院</persName><persName type="9" role="pbl">mei hua shu yuan</persName></editor><note source="#600">Delegates' version ; references by A W Cribb</note></msItem>         
                </msContents>
                <physDesc>
                   

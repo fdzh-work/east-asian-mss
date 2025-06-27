@@ -46,7 +46,7 @@
                <head>書名: 天路指明<lb/>[Hankow], [1862]<lb/>線裝1冊(3, 35頁) ; 23.7公分<lb/>By G John<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">天路指明</title><title source="#200|9">tian lu zhi ming</title><author source="#300" key="person_6903"><persName>John, Griffith</persName></author><note source="#600">By G John</note></msItem>         
+                  <title xml:lang="chi" source="#200">天路指明</title><title source="#200|9">tian lu zhi ming</title><author source="#300" key="person_6903"><persName xml:lang="chi">John, Griffith</persName></author><note source="#600">By G John</note></msItem>         
                </msContents>
                <physDesc>
                   

@@ -49,13 +49,13 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">山公啓事 一卷佚事一卷</title>
+                     <title xml:lang="chi" source="#200">山公啓事 一卷佚事一卷</title>
                      <title source="#200|9">shan gong qi shi</title>
                      <note source="#290">(晉)山濤撰</note>
                      <note source="#290">(民國)葉德輝輯</note>
-                     <author source="#300" key="person_2879"><persName>(晉)山濤</persName><persName type="9">shan
+                     <author source="#300" key="person_2879"><persName xml:lang="chi">(晉)山濤</persName><persName type="9">shan
                            tao</persName></author>
-                     <author source="#300" key="person_3174"><persName>(民國)葉德輝</persName><persName type="9">ye de
+                     <author source="#300" key="person_3174"><persName xml:lang="chi">(民國)葉德輝</persName><persName type="9">ye de
                            hui</persName></author>
                      <note source="#600">光緒庚子[1900]刊</note>
                   </msItem>

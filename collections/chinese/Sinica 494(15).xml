@@ -46,7 +46,7 @@
                <head>書名: 壽說<lb/>[Shanghai] : 中國聖教書會 = Chinese Religious Tract Society, [1883]<lb/>Single sheet ; 22.8 x 14.4公分<lb/>By Woo Ts-siang<lb/>No.11, Eternal life<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">壽說</title><title source="#200|9">shou shuo</title><title type="variant" source="#230">Eternal life</title><author source="#300" key="person_7088"><persName>Woo Ts-siang</persName></author><editor source="#420" role="pbl"><persName>中國聖教書會 = Chinese Religious Tract Society</persName><persName type="9" role="pbl">zhong guo sheng jiao shu hui</persName></editor><note source="#600">By Woo Ts-siang</note><note source="#600">No.11, Eternal life</note></msItem>         
+                  <title xml:lang="chi" source="#200">壽說</title><title source="#200|9">shou shuo</title><title type="variant" source="#230">Eternal life</title><author source="#300" key="person_7088"><persName xml:lang="chi">Woo Ts-siang</persName></author><editor source="#420" role="pbl"><persName>中國聖教書會 = Chinese Religious Tract Society</persName><persName type="9" role="pbl">zhong guo sheng jiao shu hui</persName></editor><note source="#600">By Woo Ts-siang</note><note source="#600">No.11, Eternal life</note></msItem>         
                </msContents>
                <physDesc>
                   

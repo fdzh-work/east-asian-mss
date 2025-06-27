@@ -49,12 +49,12 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">魏昭士文集 十卷</title>
+                     <title xml:lang="chi" source="#200">魏昭士文集 十卷</title>
                      <title source="#200|9">wei zhao shi wen ji</title>
                      <title type="variant" source="#230">耕廡文稿</title>
                      <title source="#230|9" type="variant">geng wu wen gao</title>
                      <note source="#290">(清)魏世傚撰</note>
-                     <author source="#300" key="person_6313"><persName>(清)魏世傚</persName><persName type="9">wei shi
+                     <author source="#300" key="person_6313"><persName xml:lang="chi">(清)魏世傚</persName><persName type="9">wei shi
                            xiao</persName></author>
                      <note source="#600">封面題名《耕廡文稿》</note>
                   </msItem>

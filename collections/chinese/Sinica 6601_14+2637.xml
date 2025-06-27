@@ -50,10 +50,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">過蜀峽記 一卷</title>
+                     <title xml:lang="chi" source="#200">過蜀峽記 一卷</title>
                      <title source="#200|9">guo shu xia ji</title>
                      <note source="#290">(英國)艾約瑟撰</note>
-                     <author source="#300" key="person_6840"><persName>Edkins, Joseph</persName></author>
+                     <author source="#300" key="person_6840"><persName xml:lang="chi">Edkins, Joseph</persName></author>
                   </msItem>
                </msContents>
                <physDesc>

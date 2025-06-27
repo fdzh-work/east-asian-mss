@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">續後漢書辨疑 九卷</title>
+                     <title xml:lang="chi" source="#200">續後漢書辨疑 九卷</title>
                      <title source="#200|9">xu hou han shu bian yi</title>
                      <note source="#290">(清)錢大昭撰</note>
-                     <author source="#300" key="person_5918"><persName>(清)錢大昭</persName><persName type="9">qian da
+                     <author source="#300" key="person_5918"><persName xml:lang="chi">(清)錢大昭</persName><persName type="9">qian da
                            zhao</persName></author>
                      <note source="#600">光緒十四年[1888]刊</note>
                   </msItem>

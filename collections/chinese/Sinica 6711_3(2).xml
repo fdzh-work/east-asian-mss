@@ -50,14 +50,14 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">尤本文選考異 一卷</title>
+                     <title xml:lang="chi" source="#200">尤本文選考異 一卷</title>
                      <title source="#200|9">you ben wen xuan kao yi</title>
                      <title type="variant" source="#230">文選考異</title>
                      <title source="#230|9" type="variant">wen xuan kao yi</title>
                      <title type="variant" source="#230">文選注攷異</title>
                      <title source="#230|9" type="variant">wen xuan zhu kao yi</title>
                      <note source="#290">(宋)尤袤撰</note>
-                     <author source="#300" key="person_1123"><persName>(宋)尤袤</persName><persName type="9">you
+                     <author source="#300" key="person_1123"><persName xml:lang="chi">(宋)尤袤</persName><persName type="9">you
                            mao</persName></author>
                      <note source="#600">一名《文選注攷異》</note>
                      <note source="#600">光緒丙申[1896]刊</note>

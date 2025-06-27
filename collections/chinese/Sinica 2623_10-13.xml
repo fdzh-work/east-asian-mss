@@ -49,12 +49,12 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">古微書 三十六卷</title>
+                     <title xml:lang="chi" source="#200">古微書 三十六卷</title>
                      <title source="#200|9">gu wei shu</title>
                      <note source="#290">(明)孫瑴輯</note>
-                     <author source="#300" key="person_2139"><persName>(明)孫瑴</persName><persName type="9">sun
+                     <author source="#300" key="person_2139"><persName xml:lang="chi">(明)孫瑴</persName><persName type="9">sun
                            jue</persName></author>
-                     <author source="#300" key="person_5944"><persName>(清)錢熙祚</persName><persName type="9">qian xi
+                     <author source="#300" key="person_5944"><persName xml:lang="chi">(清)錢熙祚</persName><persName type="9">qian xi
                            zuo</persName></author>
                      <msItem n="01">
                         <title>尚書考靈曜 二卷</title>

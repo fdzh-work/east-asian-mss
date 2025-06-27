@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">圭塘小藳 十三卷續集一卷續集附錄一卷別集二卷別集附錄一卷</title>
+                     <title xml:lang="chi" source="#200">圭塘小藳 十三卷續集一卷續集附錄一卷別集二卷別集附錄一卷</title>
                      <title source="#200|9">gui tang xiao gao</title>
                      <note source="#290">(元)許有壬撰</note>
-                     <author source="#300" key="person_269"><persName>(元)許有壬</persName><persName type="9">xu you
+                     <author source="#300" key="person_269"><persName xml:lang="chi">(元)許有壬</persName><persName type="9">xu you
                            ren</persName></author>
                      <note source="#600">民國癸亥[1923]刊</note>
                   </msItem>

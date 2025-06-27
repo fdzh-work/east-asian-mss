@@ -50,14 +50,14 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">何法盛晉中興書 一卷</title>
+                     <title xml:lang="chi" source="#200">何法盛晉中興書 一卷</title>
                      <title source="#200|9">he fa sheng jin zhong xing shu</title>
-                     <title source="#200">附 徵祥說 一卷</title>
+                     <title xml:lang="chi" source="#200">附 徵祥說 一卷</title>
                      <title source="#200|9">zheng xiang shuo</title>
                      <title type="variant" source="#230">晉中興書</title>
                      <title source="#230|9" type="variant">jin zhong xing shu</title>
                      <note source="#290">(劉宋)何法盛撰</note>
-                     <author source="#300" key="person_351"><persName>(劉宋)何法盛</persName><persName type="9">he fa
+                     <author source="#300" key="person_351"><persName xml:lang="chi">(劉宋)何法盛</persName><persName type="9">he fa
                            sheng</persName></author>
                   </msItem>
                </msContents>

@@ -46,7 +46,7 @@
                <head>書名: 啟蒙幼學初階<lb/>[Hong Kong], [1874]<lb/>線裝1冊(32頁) ; 19.8公分<lb/>By C P Piton<lb/>Has no title-page, running title used<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">啟蒙幼學初階</title><title source="#200|9">qi meng you xue chu jie</title><author source="#300" key="person_7000"><persName>Piton, Charles Philippe</persName></author><note source="#600">By C P Piton</note><note source="#600">Has no title-page, running title used</note></msItem>         
+                  <title xml:lang="chi" source="#200">啟蒙幼學初階</title><title source="#200|9">qi meng you xue chu jie</title><author source="#300" key="person_7000"><persName xml:lang="chi">Piton, Charles Philippe</persName></author><note source="#600">By C P Piton</note><note source="#600">Has no title-page, running title used</note></msItem>         
                </msContents>
                <physDesc>
                   

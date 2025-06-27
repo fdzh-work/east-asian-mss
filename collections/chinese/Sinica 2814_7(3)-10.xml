@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">泰軒易傳 六卷</title>
+                     <title xml:lang="chi" source="#200">泰軒易傳 六卷</title>
                      <title source="#200|9">tai xuan yi zhuan</title>
                      <note source="#290">(宋)李中正撰</note>
-                     <author source="#300" key="person_1259"><persName>(宋)李中正</persName><persName type="9">li zhong
+                     <author source="#300" key="person_1259"><persName xml:lang="chi">(宋)李中正</persName><persName type="9">li zhong
                            zheng</persName></author>
                      <msItem n="1">
                         <title>周易上經傳 卷一至三</title>

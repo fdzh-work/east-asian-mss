@@ -46,7 +46,7 @@
                <head>書名: 照像略法 / 傅蘭雅譯<lb/>[Shanghai] : 格致彙編館[發售], 光緒七年[1881]<lb/>線裝1冊 ; 27.3公分<lb/>Assembled from pages offprinted from 《格致彙編》<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">照像略法</title><title source="#200|9">zhao xiang lue fa</title><title type="variant" source="#230">格致彙編</title><title source="#230|9" type="variant">ge zhi hui bian</title><note source="#290">傅蘭雅譯</note><author source="#300" key="person_6855"><persName>Fryer, John</persName></author><editor source="#420" role="pbl"><persName>格致彙編館</persName><persName type="9" role="pbl">ge zhi hui bian guan</persName></editor><note source="#600">Assembled from pages offprinted from 《格致彙編》</note></msItem>         
+                  <title xml:lang="chi" source="#200">照像略法</title><title source="#200|9">zhao xiang lue fa</title><title type="variant" source="#230">格致彙編</title><title source="#230|9" type="variant">ge zhi hui bian</title><note source="#290">傅蘭雅譯</note><author source="#300" key="person_6855"><persName xml:lang="chi">Fryer, John</persName></author><editor source="#420" role="pbl"><persName>格致彙編館</persName><persName type="9" role="pbl">ge zhi hui bian guan</persName></editor><note source="#600">Assembled from pages offprinted from 《格致彙編》</note></msItem>         
                </msContents>
                <physDesc>
                   

@@ -49,12 +49,12 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">奇經脉訣 九卷</title>
+                     <title xml:lang="chi" source="#200">奇經脉訣 九卷</title>
                      <title source="#200|9">qi jing mai jue</title>
                      <title type="variant" source="#230">撮粹擷華</title>
                      <title source="#230|9" type="variant">cuo cui xie hua</title>
                      <note source="#290">(明)李時珍撰</note>
-                     <author source="#300" key="person_2303"><persName>(明)李時珍</persName><persName type="9">li shi
+                     <author source="#300" key="person_2303"><persName xml:lang="chi">(明)李時珍</persName><persName type="9">li shi
                            zhen</persName></author>
                      <note source="#409">清萬卷樓刊本</note>
                      <editor source="#440" role="pbl"><persName>萬卷樓</persName></editor>

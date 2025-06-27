@@ -49,13 +49,13 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">穆天子傳 六卷附錄一卷</title>
+                     <title xml:lang="chi" source="#200">穆天子傳 六卷附錄一卷</title>
                      <title source="#200|9">mu tian zi zhuan</title>
                      <note source="#290">(晉)郭璞註</note>
                      <note source="#290">(清)洪頤煊校</note>
-                     <author source="#300" key="person_2985"><persName>(晉)郭璞</persName><persName type="9">guo
+                     <author source="#300" key="person_2985"><persName xml:lang="chi">(晉)郭璞</persName><persName type="9">guo
                            pu</persName></author>
-                     <author source="#300" key="person_4926"><persName>(清)洪頤煊</persName><persName type="9">hong yi
+                     <author source="#300" key="person_4926"><persName xml:lang="chi">(清)洪頤煊</persName><persName type="9">hong yi
                            xuan</persName></author>
                      <note source="#600">嘉慶丙寅[1806]刊</note>
                   </msItem>

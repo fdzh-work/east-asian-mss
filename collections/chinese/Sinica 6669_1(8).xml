@@ -49,9 +49,9 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">蜀船詩錄 一卷</title>
+                     <title xml:lang="chi" source="#200">蜀船詩錄 一卷</title>
                      <title source="#200|9">shu chuan shi lu</title>
-                     <author source="#300" key="person_3122"><persName>(民國)易順鼎</persName><persName type="9">yi shun
+                     <author source="#300" key="person_3122"><persName xml:lang="chi">(民國)易順鼎</persName><persName type="9">yi shun
                            ding</persName></author>
                      <note source="#600">光緒中刊《楚頌樓詩》第十四</note>
                   </msItem>

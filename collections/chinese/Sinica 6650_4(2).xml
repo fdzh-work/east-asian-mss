@@ -49,16 +49,16 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">鄭東父遺書 六卷</title>
+                     <title xml:lang="chi" source="#200">鄭東父遺書 六卷</title>
                      <title source="#200|9">zheng dong fu yi shu</title>
                      <note source="#290">(民國)鄭杲撰</note>
-                     <author source="#300" key="person_3201"><persName>(民國)鄭杲</persName><persName type="9">zheng
+                     <author source="#300" key="person_3201"><persName xml:lang="chi">(民國)鄭杲</persName><persName type="9">zheng
                            gao</persName></author>
                      <note source="#600">光緒甲辰[1904]刊</note>
                      <msItem n="1">
                         <title>春秋說 二卷</title>
                         <title source="9">chun qiu shuo</title>
-                        <author key="person_3201"><persName>(民國)鄭杲</persName><persName type="9">zheng
+                        <author key="person_3201"><persName xml:lang="chi">(民國)鄭杲</persName><persName type="9">zheng
                            gao</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180601/00000011|odh -->
@@ -67,7 +67,7 @@
                      <msItem n="2">
                         <title>論書序大傳 一卷</title>
                         <title source="9">lun shu xu da zhuan</title>
-                        <author key="person_3201"><persName>(民國)鄭杲</persName><persName type="9">zheng
+                        <author key="person_3201"><persName xml:lang="chi">(民國)鄭杲</persName><persName type="9">zheng
                            gao</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180601/00000012|odh -->
@@ -76,7 +76,7 @@
                      <msItem n="3">
                         <title>書張尚書之洞勸學篇後 一卷</title>
                         <title source="9">shu zhang shang shu zhi dong quan xue pien hou</title>
-                        <author key="person_3201"><persName>(民國)鄭杲</persName><persName type="9">zheng
+                        <author key="person_3201"><persName xml:lang="chi">(民國)鄭杲</persName><persName type="9">zheng
                            gao</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180601/00000013|odh -->
@@ -85,7 +85,7 @@
                      <msItem n="4">
                         <title>筆記 一卷</title>
                         <title source="9">bi ji</title>
-                        <author key="person_3201"><persName>(民國)鄭杲</persName><persName type="9">zheng
+                        <author key="person_3201"><persName xml:lang="chi">(民國)鄭杲</persName><persName type="9">zheng
                            gao</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180601/00000014|odh -->

@@ -46,7 +46,7 @@
                <head>書名: 廈腔神詩<lb/>[Amoy] : 濟世醫館, [1862]<lb/>線裝1冊(20頁) ; 21.5公分<lb/>By W C Burns<lb/>In Amoy dialect<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">廈腔神詩</title><title source="#200|9">xia qiang shen shi</title><author source="#300" key="person_6796"><persName>Burns, William Chalmers</persName></author><editor source="#420" role="pbl"><persName>濟世醫館</persName><persName type="9" role="pbl">ji shi yi guan</persName></editor><note source="#600">By W C Burns</note><note source="#600">In Amoy dialect</note></msItem>         
+                  <title xml:lang="chi" source="#200">廈腔神詩</title><title source="#200|9">xia qiang shen shi</title><author source="#300" key="person_6796"><persName xml:lang="chi">Burns, William Chalmers</persName></author><editor source="#420" role="pbl"><persName>濟世醫館</persName><persName type="9" role="pbl">ji shi yi guan</persName></editor><note source="#600">By W C Burns</note><note source="#600">In Amoy dialect</note></msItem>         
                </msContents>
                <physDesc>
                   

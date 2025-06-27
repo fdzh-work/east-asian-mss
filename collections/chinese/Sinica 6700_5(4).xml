@@ -49,9 +49,9 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">孟子外書補證 一卷</title>
+                     <title xml:lang="chi" source="#200">孟子外書補證 一卷</title>
                      <title source="#200|9">meng zi wai shu bu zheng</title>
-                     <author source="#300" key="person_4587"><persName>(清)林春溥</persName><persName type="9">lin chun
+                     <author source="#300" key="person_4587"><persName xml:lang="chi">(清)林春溥</persName><persName type="9">lin chun
                            pu</persName></author>
                      <note source="#600">咸豐甲寅[1854]刊</note>
                   </msItem>

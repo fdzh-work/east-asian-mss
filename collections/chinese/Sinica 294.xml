@@ -46,7 +46,7 @@
                <head>書名: 中外理辨<lb/>[Shanghai], [1849]<lb/>線裝1冊(16頁) ; 19.5公分<lb/>Title at beginning of text 「中外理辨 : 上海土白」<lb/>By T McClatchie<lb/>In Shanghai dialect<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">中外理辨</title><title source="#200|9">zhong wai li bian</title><title type="variant" source="#230">中外理辨 : 上海土白</title><title source="#230|9" type="variant">zhong wai li bian : shang hai tu bai</title><author source="#300" key="person_6960"><persName>McClatchie, Thomas</persName></author><note source="#600">Title at beginning of text 「中外理辨 : 上海土白」</note><note source="#600">By T McClatchie</note><note source="#600">In Shanghai dialect</note></msItem>         
+                  <title xml:lang="chi" source="#200">中外理辨</title><title source="#200|9">zhong wai li bian</title><title type="variant" source="#230">中外理辨 : 上海土白</title><title source="#230|9" type="variant">zhong wai li bian : shang hai tu bai</title><author source="#300" key="person_6960"><persName xml:lang="chi">McClatchie, Thomas</persName></author><note source="#600">Title at beginning of text 「中外理辨 : 上海土白」</note><note source="#600">By T McClatchie</note><note source="#600">In Shanghai dialect</note></msItem>         
                </msContents>
                <physDesc>
                   

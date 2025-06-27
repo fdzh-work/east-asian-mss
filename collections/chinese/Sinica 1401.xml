@@ -46,7 +46,7 @@
                <head>書名: 主神十條誡 / 胡德邁撰<lb/>[Ningpo] : 開明山福音殿, 1867<lb/>線裝1冊(7頁) ; 19.6公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">主神十條誡</title><title source="#200|9">zhu shen shi tiao jie</title><note source="#290">胡德邁撰</note><author source="#300" key="person_6895"><persName>Hudson, Thomas Hall</persName></author><editor source="#420" role="pbl"><persName>開明山福音殿</persName><persName type="9" role="pbl">kai ming shan fu yin dian</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">主神十條誡</title><title source="#200|9">zhu shen shi tiao jie</title><note source="#290">胡德邁撰</note><author source="#300" key="person_6895"><persName xml:lang="chi">Hudson, Thomas Hall</persName></author><editor source="#420" role="pbl"><persName>開明山福音殿</persName><persName type="9" role="pbl">kai ming shan fu yin dian</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

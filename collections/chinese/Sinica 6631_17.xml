@@ -50,16 +50,16 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">眾家晉史 一卷</title>
+                     <title xml:lang="chi" source="#200">眾家晉史 一卷</title>
                      <title source="#200|9">zhong jia jin shi</title>
                      <note source="#290">(清)黃奭輯</note>
-                     <author source="#300" key="person_6371"><persName>(清)黃奭</persName><persName type="9">huang
+                     <author source="#300" key="person_6371"><persName xml:lang="chi">(清)黃奭</persName><persName type="9">huang
                            shi</persName></author>
                      <msItem n="01">
                         <title>裴松之晉紀</title>
                         <title source="9">pei song zhi jin shu</title>
                         <note source="290">(劉宋)裴松之撰</note>
-                        <author key="person_7099"><persName>劉宋)裴松之</persName><persName type="9">pei song
+                        <author key="person_7099"><persName xml:lang="chi">劉宋)裴松之</persName><persName type="9">pei song
                               zhi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180516/00000261|odh -->
@@ -69,7 +69,7 @@
                         <title>蕭子雲晉書</title>
                         <title source="9">xiao zi yun jin shu</title>
                         <note source="290">(梁)蕭子雲撰</note>
-                        <author key="person_3048"><persName>(梁)蕭子雲</persName><persName type="9">xiao zi
+                        <author key="person_3048"><persName xml:lang="chi">(梁)蕭子雲</persName><persName type="9">xiao zi
                            yun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180516/00000262|odh -->
@@ -79,7 +79,7 @@
                         <title>蕭景暢晉史草</title>
                         <title source="9">xiao jing chang jin shi cao</title>
                         <note source="290">(梁)蕭子顯撰</note>
-                        <author><persName>(梁)蕭子顯</persName><persName type="9">xiao zi
+                        <author><persName xml:lang="chi">(梁)蕭子顯</persName><persName type="9">xiao zi
                            yun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180516/00000263|odh -->
@@ -89,7 +89,7 @@
                         <title>沈約晉書</title>
                         <title source="9">shen yue jin shu</title>
                         <note source="290">(梁)沈約撰</note>
-                        <author key="person_3042"><persName>(梁)沈約</persName><persName type="9">shen
+                        <author key="person_3042"><persName xml:lang="chi">(梁)沈約</persName><persName type="9">shen
                            yue</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180516/00000264|odh -->
@@ -155,7 +155,7 @@
                         <title>李軌晉泰始起居注</title>
                         <title source="9">li gui jin tai shi qi ju zhu</title>
                         <note source="290">(晉)李軌撰</note>
-                        <author key="person_2911"><persName>(晉)李軌</persName><persName type="9">li
+                        <author key="person_2911"><persName xml:lang="chi">(晉)李軌</persName><persName type="9">li
                            gui</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180516/00000272|odh -->
@@ -165,7 +165,7 @@
                         <title>李軌晉咸寧起居注</title>
                         <title source="9">li gui jin xian ning qi ju zhu</title>
                         <note source="290">(晉)李軌撰</note>
-                        <author key="person_2911"><persName>(晉)李軌</persName><persName type="9">li
+                        <author key="person_2911"><persName xml:lang="chi">(晉)李軌</persName><persName type="9">li
                            gui</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180516/00000273|odh -->
@@ -175,7 +175,7 @@
                         <title>李軌晉泰康起居注</title>
                         <title source="9">li gui jin tai kang qi ju zhu</title>
                         <note source="290">(晉)李軌撰</note>
-                        <author key="person_2911"><persName>(晉)李軌</persName><persName type="9">li
+                        <author key="person_2911"><persName xml:lang="chi">(晉)李軌</persName><persName type="9">li
                            gui</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180516/00000274|odh -->
@@ -225,7 +225,7 @@
                         <title>晉咸和起居注</title>
                         <title source="9">jin xian he qi ju zhu</title>
                         <note source="290">(晉)李軌撰</note>
-                        <author key="person_2911"><persName>(晉)李軌</persName><persName type="9">li
+                        <author key="person_2911"><persName xml:lang="chi">(晉)李軌</persName><persName type="9">li
                            gui</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180516/00000280|odh -->

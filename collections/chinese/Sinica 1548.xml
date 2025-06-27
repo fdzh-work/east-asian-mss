@@ -46,7 +46,7 @@
                <head>書名: 依經問答新編<lb/>福州 : 美華書局, 1865<lb/>線裝1冊(3, 38頁) ; 20.2公分<lb/>By R S Maclay<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">依經問答新編</title><title source="#200|9">yi jing wen da xin bian</title><author source="#300" key="person_6942"><persName>Maclay, Robert Samuel</persName></author><editor source="#420" role="pbl"><persName>美華書局</persName><persName type="9" role="pbl">mei hua shu ju</persName></editor><note source="#600">By R S Maclay</note></msItem>         
+                  <title xml:lang="chi" source="#200">依經問答新編</title><title source="#200|9">yi jing wen da xin bian</title><author source="#300" key="person_6942"><persName xml:lang="chi">Maclay, Robert Samuel</persName></author><editor source="#420" role="pbl"><persName>美華書局</persName><persName type="9" role="pbl">mei hua shu ju</persName></editor><note source="#600">By R S Maclay</note></msItem>         
                </msContents>
                <physDesc>
                   

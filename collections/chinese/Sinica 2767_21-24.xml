@@ -49,14 +49,14 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">志學編八種</title>
+                     <title xml:lang="chi" source="#200">志學編八種</title>
                      <title source="#200|9">zhi xue bian ba zhong</title>
-                     <author source="#300" key="person_3664"><persName>(清)呂調陽</persName><persName type="9">lu tiao
+                     <author source="#300" key="person_3664"><persName xml:lang="chi">(清)呂調陽</persName><persName type="9">lu tiao
                            yang</persName></author>
                      <msItem n="1">
                         <title>大學節訓 一卷</title>
                         <title source="9">da xue jie xun</title>
-                        <author key="person_3664"><persName>(清)呂調陽</persName><persName type="9">lu tiao
+                        <author key="person_3664"><persName xml:lang="chi">(清)呂調陽</persName><persName type="9">lu tiao
                               yang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20141029/11:02:00|odh -->
@@ -66,7 +66,7 @@
                      <msItem n="2">
                         <title>中庸節訓 一卷</title>
                         <title source="9">zhong yong jie xun</title>
-                        <author key="person_3664"><persName>(清)呂調陽</persName><persName type="9">lu tiao
+                        <author key="person_3664"><persName xml:lang="chi">(清)呂調陽</persName><persName type="9">lu tiao
                               yang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20141029/11:02:26|odh -->
@@ -76,7 +76,7 @@
                      <msItem n="3">
                         <title>洪範原數 一卷</title>
                         <title source="9">hong fan yuan shu</title>
-                        <author key="person_3664"><persName>(清)呂調陽</persName><persName type="9">lu tiao
+                        <author key="person_3664"><persName xml:lang="chi">(清)呂調陽</persName><persName type="9">lu tiao
                               yang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20141029/11:03:18|odh -->
@@ -86,7 +86,7 @@
                      <msItem n="4">
                         <title>釋天 一卷</title>
                         <title source="9">shi tian</title>
-                        <author key="person_3664"><persName>(清)呂調陽</persName><persName type="9">lu tiao
+                        <author key="person_3664"><persName xml:lang="chi">(清)呂調陽</persName><persName type="9">lu tiao
                               yang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20141029/11:03:40|odh -->
@@ -96,7 +96,7 @@
                      <msItem n="5">
                         <title>重訂談天正議 一卷</title>
                         <title source="9">chong ding tan tian zheng yi</title>
-                        <author key="person_3664"><persName>(清)呂調陽</persName><persName type="9">lu tiao
+                        <author key="person_3664"><persName xml:lang="chi">(清)呂調陽</persName><persName type="9">lu tiao
                               yang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20141029/11:04:46|odh -->
@@ -106,7 +106,7 @@
                      <msItem n="6">
                         <title>三代紀念考 一卷</title>
                         <title source="9">san dai ji nian kao</title>
-                        <author key="person_3664"><persName>(清)呂調陽</persName><persName type="9">lu tiao
+                        <author key="person_3664"><persName xml:lang="chi">(清)呂調陽</persName><persName type="9">lu tiao
                               yang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20141029/11:05:26|odh -->
@@ -116,7 +116,7 @@
                      <msItem n="7">
                         <title>周官司徒類攷 一卷</title>
                         <title source="9">zhou guan si tu lei kao</title>
-                        <author key="person_3664"><persName>(清)呂調陽</persName><persName type="9">lu tiao
+                        <author key="person_3664"><persName xml:lang="chi">(清)呂調陽</persName><persName type="9">lu tiao
                               yang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20141029/11:06:15|odh -->
@@ -126,7 +126,7 @@
                      <msItem n="8">
                         <title>考工記考 一卷圖一卷</title>
                         <title source="9">kao gong ji kao</title>
-                        <author key="person_3664"><persName>(清)呂調陽</persName><persName type="9">lu tiao
+                        <author key="person_3664"><persName xml:lang="chi">(清)呂調陽</persName><persName type="9">lu tiao
                               yang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20141029/11:06:44|odh -->

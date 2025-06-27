@@ -49,13 +49,13 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">唐書直筆新例 四卷新例須知一卷附校記一卷</title>
+                     <title xml:lang="chi" source="#200">唐書直筆新例 四卷新例須知一卷附校記一卷</title>
                      <title source="#200|9">tang shu zhi bi xin li</title>
                      <note source="#290">(宋)呂夏卿撰</note>
                      <note source="#290">校記(清)張鈞衡撰</note>
-                     <author source="#300" key="person_1043"><persName>(宋)呂夏卿</persName><persName type="9">lu xia
+                     <author source="#300" key="person_1043"><persName xml:lang="chi">(宋)呂夏卿</persName><persName type="9">lu xia
                            qing</persName></author>
-                     <author source="#300" key="person_4118"><persName>(清)張鈞衡</persName><persName type="9">zhang jun
+                     <author source="#300" key="person_4118"><persName xml:lang="chi">(清)張鈞衡</persName><persName type="9">zhang jun
                            heng</persName></author>
                      <note source="#600">影刊影鈔宋本</note>
                   </msItem>

@@ -49,13 +49,13 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">論語集解義疏 十卷</title>
+                     <title xml:lang="chi" source="#200">論語集解義疏 十卷</title>
                      <title source="#200|9">lun yu ji jie yi shu</title>
                      <note source="#290">(魏)何晏集解</note>
                      <note source="#290">(梁)皇侃義疏</note>
-                     <author source="#300" key="person_6712"><persName>(魏)何晏</persName><persName type="9">he
+                     <author source="#300" key="person_6712"><persName xml:lang="chi">(魏)何晏</persName><persName type="9">he
                            yan</persName></author>
-                     <author source="#300" key="person_3045"><persName>(梁)皇侃</persName><persName type="9">huang
+                     <author source="#300" key="person_3045"><persName xml:lang="chi">(梁)皇侃</persName><persName type="9">huang
                            kan</persName></author>
                   </msItem>
                </msContents>

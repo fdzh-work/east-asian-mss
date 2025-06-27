@@ -50,11 +50,11 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">秘書省續編到四庫闕書目 二卷</title>
+                     <title xml:lang="chi" source="#200">秘書省續編到四庫闕書目 二卷</title>
                      <title source="#200|9">mi shu sheng xu bian dao si ku que shu mu</title>
                      <note source="#290">(宋)紹興中改定</note>
                      <note source="#290">(民國)葉德輝考證</note>
-                     <author source="#300" key="person_3174"><persName>(民國)葉德輝</persName><persName type="9">ye de
+                     <author source="#300" key="person_3174"><persName xml:lang="chi">(民國)葉德輝</persName><persName type="9">ye de
                            hui</persName></author>
                      <note source="#600">光緒癸卯[1903]刊</note>
                   </msItem>

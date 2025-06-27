@@ -48,17 +48,17 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">江刻書目三種</title>
+                     <title xml:lang="chi" source="#200">江刻書目三種</title>
                      <title source="#200|9">jiang ke shu mu san zhong</title>
                      <note source="#290">(清)江標編</note>
-                     <author source="#300" key="person_4765"><persName>(清)江標</persName><persName type="9">jiang
+                     <author source="#300" key="person_4765"><persName xml:lang="chi">(清)江標</persName><persName type="9">jiang
                            biao</persName></author>
                      <note source="#409">清光緒中元和江氏靈鶼閣刊蘇州振新書社印本</note>
                      <msItem n="1">
                         <title>鐵琴銅劍樓藏宋元本書目 四卷</title>
                         <title source="9">tie qin tong jian lou cang song yuan ben shu mu</title>
                         <note source="290">(清)瞿鏞撰</note>
-                        <author key="person_5220"><persName>(清)瞿鏞</persName><persName type="9">qu
+                        <author key="person_5220"><persName xml:lang="chi">(清)瞿鏞</persName><persName type="9">qu
                            yong</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20060105/12:44:11|odh -->
@@ -69,7 +69,7 @@
                         <title>海源閣藏書目 一卷</title>
                         <title source="9">hai yuan ge cang shu mu</title>
                         <note source="290">(清)楊紹和撰</note>
-                        <author key="person_4697"><persName>(清)楊紹和</persName><persName type="9">yang shao
+                        <author key="person_4697"><persName xml:lang="chi">(清)楊紹和</persName><persName type="9">yang shao
                               he</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20060105/12:46:58|odh -->
@@ -80,7 +80,7 @@
                         <title>豐順丁氏持靜齋書目 五卷</title>
                         <title source="9">feng shun ding shi chi jing zhai shu mu</title>
                         <note source="290">(清)丁日昌撰</note>
-                        <author key="person_3253"><persName>(清)丁日昌</persName><persName type="9">ding ri
+                        <author key="person_3253"><persName xml:lang="chi">(清)丁日昌</persName><persName type="9">ding ri
                               chang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20060105/12:49:40|odh -->

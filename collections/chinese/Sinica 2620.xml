@@ -47,10 +47,10 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">觀古堂書目叢刻</title>
+                     <title xml:lang="chi" source="#200">觀古堂書目叢刻</title>
                      <title source="#200|9">guan gu tang shu mu cong ke</title>
                      <note source="#290">(民國)葉德輝編</note>
-                     <author source="#300" key="person_3174"><persName>(民國)葉德輝</persName><persName type="9">ye de
+                     <author source="#300" key="person_3174"><persName xml:lang="chi">(民國)葉德輝</persName><persName type="9">ye de
                            hui</persName></author>
                      <note source="#409">清光緒二十一年[1895]至民國十年[1921]湘潭葉氏刊本</note>
                      <note><list type="contained_items"><head>Contains: </head><item><ref target="volume_7972">Sinica 2620/1-4</ref><title>秘書省續編到四庫闕書目 二卷</title> / <persName>(民國)葉德輝</persName></item><item><ref target="volume_7983">Sinica 2620/5-6</ref><title>古今書刻 二編</title> / <persName>(明)周弘祖</persName></item><item><ref target="volume_7984">Sinica 2620/7</ref><title>南廱志經籍考 二卷</title> / <persName>(明)梅鷟</persName></item><item><ref target="volume_7985">Sinica 2620/8-11</ref><title>百川書志 二十卷</title> / <persName>(明)高儒</persName></item><item><ref target="volume_7973">Sinica 2620/12-13(1)</ref><title>萬卷堂書目 四卷</title> / <persName>(明)朱睦㮮</persName></item><item><ref target="volume_7974">Sinica 2620/13(2)</ref></item><item><ref target="volume_7975">Sinica 2620/13(3)</ref></item><item><ref target="volume_7976">Sinica 2620/14-15</ref><title>孝慈堂書目 不分卷</title> / <persName>(清)王聞遠</persName></item><item><ref target="volume_7977">Sinica 2620/16-17(1)</ref><title>佳趣堂書目 不分卷</title> / <persName>(清)陸漻</persName></item><item><ref target="volume_7978">Sinica 2620/17(2)</ref><title>竹崦盦傳鈔書目 一卷</title> / <persName>(清)趙魏</persName></item><item><ref target="volume_7979">Sinica 2620/18-19</ref><title>結一廬書目 四卷附錄一卷</title> / <persName>(清)朱學勤</persName></item><item><ref target="volume_7980">Sinica 2620/20(1)</ref><title>結一廬書目 一卷附錄一卷</title> / <persName>(清)朱學勤</persName></item><item><ref target="volume_7981">Sinica 2620/20(2)</ref></item><item><ref target="volume_7982">Sinica 2620/20(3)</ref><title>潛采堂宋人集目錄 一卷</title> / <persName>(清)朱彝尊</persName></item></list></note></msItem>

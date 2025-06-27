@@ -49,19 +49,19 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">尚書今古文集解 三十一卷</title>
+                     <title xml:lang="chi" source="#200">尚書今古文集解 三十一卷</title>
                      <title source="#200|9">shang shu jin gu wen ji jie</title>
                      <note source="#290">(清)劉逢祿撰</note>
-                     <author source="#300" key="person_3474"><persName>(清)劉逢祿</persName><persName type="9">liu feng
+                     <author source="#300" key="person_3474"><persName xml:lang="chi">(清)劉逢祿</persName><persName type="9">liu feng
                            lu</persName></author>
                   </msItem>
                   <msItem n="2">
-                     <title source="#201">尚書今古文集解校勘記一卷</title>
+                     <title xml:lang="chi" source="#201">尚書今古文集解校勘記一卷</title>
                      <title source="#201|9">shang shu jin gu wen ji jie jiao kan ji</title>
                      <note source="#291">(清)劉葆楨, (清)劉翰藻撰</note>
-                     <author source="#301" key="person_3471"><persName>(清)劉葆楨</persName><persName type="9">liu bao
+                     <author source="#301" key="person_3471"><persName xml:lang="chi">(清)劉葆楨</persName><persName type="9">liu bao
                            zhen</persName></author>
-                     <author source="#301" key="person_3468"><persName>(清)劉翰藻</persName><persName type="9">liu han
+                     <author source="#301" key="person_3468"><persName xml:lang="chi">(清)劉翰藻</persName><persName type="9">liu han
                            zao</persName></author>
                   </msItem>
                </msContents>

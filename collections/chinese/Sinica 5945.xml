@@ -47,10 +47,10 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">永嘉叢書</title>
+                     <title xml:lang="chi" source="#200">永嘉叢書</title>
                      <title source="#200|9">yong jia cong shu</title>
                      <note source="#290">(清)孫衣言輯</note>
-                     <author source="#300" key="person_3873"><persName>(清)孫衣言</persName><persName type="9">sun yi
+                     <author source="#300" key="person_3873"><persName xml:lang="chi">(清)孫衣言</persName><persName type="9">sun yi
                            yan</persName></author>
                      <note source="#409">清咸豐光緒間瑞安孫氏詒善祠塾刊本</note>
                      <note><list type="contained_items"><head>Contains: </head><item><ref target="volume_10774">Sinica 5945/1-2</ref><title>水心先生文集 二十九卷補遺一卷</title> / <persName>(宋)葉適</persName></item><item><ref target="volume_10781">Sinica 5945/3</ref><title>水心先生別集 十六卷</title> / <persName>(宋)葉適</persName></item><item><ref target="volume_10782">Sinica 5945/4-5</ref><title>止齋先生文集 五十二卷附錄一卷</title> / <persName>(宋)陳傅良</persName></item><item><ref target="volume_10783">Sinica 5945/6-7</ref><title>艮齋先生薛常州浪語集 三十五卷</title> / <persName>(宋)薛季宣</persName></item><item><ref target="volume_10784">Sinica 5945/8</ref><title>橫塘集 二十卷</title> / <persName>(宋)許景衡</persName></item><item><ref target="volume_10785">Sinica 5945/9-13</ref><title>禮記集解 六十一卷</title> / <persName>(清)孫希旦</persName></item><item><ref target="volume_10775">Sinica 5945/14-15</ref><title>集韻考正 十卷</title> / <persName>(清)方成珪</persName></item><item><ref target="volume_10776">Sinica 5945/16(1)</ref><title>劉左史文集 四卷</title> / <persName>(宋)劉安節</persName></item><item><ref target="volume_10777">Sinica 5945/16(2)</ref><title>劉給諫文集 五卷</title> / <persName>(宋)劉安上</persName></item><item><ref target="volume_10778">Sinica 5945/16(3)</ref><title>蒙川先生遺稿 四卷補遺一</title> / <persName>(宋)劉黻</persName></item><item><ref target="volume_10779">Sinica 5945/16(4)</ref><title>竹軒雜著 六卷</title> / <persName>(宋)林季仲</persName></item><item><ref target="volume_10780">Sinica 5945/16(5)</ref><title>開禧德安守城錄 一卷</title> / <persName>(宋)王致遠</persName></item></list></note></msItem>

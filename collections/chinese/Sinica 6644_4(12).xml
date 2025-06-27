@@ -49,13 +49,13 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">續幽怪錄 四卷札記一卷逸文一卷</title>
+                     <title xml:lang="chi" source="#200">續幽怪錄 四卷札記一卷逸文一卷</title>
                      <title source="#200|9">xu you guai lu</title>
                      <note source="#290">(唐)李復言撰</note>
                      <note source="#290">札記逸文一卷(民國)徐乃昌撰併輯</note>
-                     <author source="#300" key="person_678"><persName>(唐)李復言</persName><persName type="9">li fu
+                     <author source="#300" key="person_678"><persName xml:lang="chi">(唐)李復言</persName><persName type="9">li fu
                            yan</persName></author>
-                     <author source="#300"><persName>(民國)徐乃昌</persName><persName type="9">xu nai
+                     <author source="#300"><persName xml:lang="chi">(民國)徐乃昌</persName><persName type="9">xu nai
                            chan</persName></author>
                      <note source="#600">影刊宋太廟前尹家刻本</note>
                   </msItem>

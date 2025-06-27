@@ -49,13 +49,13 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">人倫大統賦 二卷</title>
+                     <title xml:lang="chi" source="#200">人倫大統賦 二卷</title>
                      <title source="#200|9">ren lun da tong fu</title>
                      <note source="#290">(金)張行簡撰</note>
                      <note source="#290">(元)薛延年注</note>
-                     <author source="#300" key="person_6656"><persName>(金)張行簡</persName><persName type="9">zhang xing
+                     <author source="#300" key="person_6656"><persName xml:lang="chi">(金)張行簡</persName><persName type="9">zhang xing
                            jian</persName></author>
-                     <author source="#300" key="person_262"><persName>(元)薛延年</persName><persName type="9">xue yan
+                     <author source="#300" key="person_262"><persName xml:lang="chi">(元)薛延年</persName><persName type="9">xue yan
                            nian</persName></author>
                   </msItem>
                </msContents>

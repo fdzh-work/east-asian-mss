@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">江陰李氏得月樓書目摘錄 一卷</title>
+                     <title xml:lang="chi" source="#200">江陰李氏得月樓書目摘錄 一卷</title>
                      <title source="#200|9">jiang yin li shi de yue lou shu mu zhai lu</title>
                      <note source="#290">(明)李鶚翀撰</note>
-                     <author source="#300" key="person_2326"><persName>(明)李鶚翀</persName><persName type="9">li e
+                     <author source="#300" key="person_2326"><persName xml:lang="chi">(明)李鶚翀</persName><persName type="9">li e
                            chong</persName></author>
                      <note source="#600">光緒丙申[1896]刊</note>
                   </msItem>

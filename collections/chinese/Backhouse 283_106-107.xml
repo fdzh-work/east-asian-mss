@@ -50,18 +50,18 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">袁氏世範 三卷</title>
+                     <title xml:lang="chi" source="#200">袁氏世範 三卷</title>
                      <title source="#200|9">yuan shi shi fan</title>
                      <note source="#290">(宋)袁采撰</note>
-                     <author source="#300" key="person_1606"><persName>(宋)袁采</persName><persName type="9">yuan
+                     <author source="#300" key="person_1606"><persName xml:lang="chi">(宋)袁采</persName><persName type="9">yuan
                            cai</persName></author>
                      <note source="#600">乾隆五十五年[1790]刊</note>
                   </msItem>
                   <msItem n="2">
-                     <title source="#201">附 集事詩鑒 一卷</title>
+                     <title xml:lang="chi" source="#201">附 集事詩鑒 一卷</title>
                      <title source="#201|9">ji shi shi jian</title>
                      <note source="#291">(宋)方昕撰</note>
-                     <author source="#301" key="person_1217"><persName>(宋)方昕</persName><persName type="9">fang
+                     <author source="#301" key="person_1217"><persName xml:lang="chi">(宋)方昕</persName><persName type="9">fang
                            xin</persName></author>
                   </msItem>
                </msContents>

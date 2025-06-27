@@ -50,18 +50,18 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">傅與礪詩集 八卷文集十一卷附錄一卷</title>
+                     <title xml:lang="chi" source="#200">傅與礪詩集 八卷文集十一卷附錄一卷</title>
                      <title source="#200|9">fu yu li shi ji</title>
                      <note source="#290">(元)傅若金撰</note>
-                     <author source="#300" key="person_58"><persName>(元)傅若金</persName><persName type="9">fu ruo
+                     <author source="#300" key="person_58"><persName xml:lang="chi">(元)傅若金</persName><persName type="9">fu ruo
                            jin</persName></author>
                      <note source="#600">民國三年[1914]刊</note>
                   </msItem>
                   <msItem n="2">
-                     <title source="#201">附 綠窗遺藁 一卷</title>
+                     <title xml:lang="chi" source="#201">附 綠窗遺藁 一卷</title>
                      <title source="#201|9">lu chuang yi gao</title>
                      <note source="#291">(元)孫淑撰</note>
-                     <author source="#301" key="person_101"><persName>(元)孫淑</persName><persName type="9">sun
+                     <author source="#301" key="person_101"><persName xml:lang="chi">(元)孫淑</persName><persName type="9">sun
                            shu</persName></author>
                   </msItem>
                </msContents>

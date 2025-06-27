@@ -49,16 +49,16 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">荒政叢書 十卷附錄二卷</title>
+                     <title xml:lang="chi" source="#200">荒政叢書 十卷附錄二卷</title>
                      <title source="#200|9">huang zheng cong shu</title>
                      <note source="#290">(清)俞森輯</note>
-                     <author source="#300" key="person_3352"><persName>(清)俞森</persName><persName type="9">yu
+                     <author source="#300" key="person_3352"><persName xml:lang="chi">(清)俞森</persName><persName type="9">yu
                            sen</persName></author>
                      <msItem n="01">
                         <title>救荒全書 一卷</title>
                         <title source="9">jiu huang quan shu</title>
                         <note source="290">(宋)董煟撰</note>
-                        <author key="person_1562"><persName>(宋)董煟</persName><persName type="9">dong
+                        <author key="person_1562"><persName xml:lang="chi">(宋)董煟</persName><persName type="9">dong
                            wei</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20161117/00000145|odh -->
@@ -68,7 +68,7 @@
                         <title>荒政叢言 一卷</title>
                         <title source="9">huang zheng cong yan</title>
                         <note source="290">(明)林希元撰</note>
-                        <author key="person_2328"><persName>(明)林希元</persName><persName type="9">lin xi
+                        <author key="person_2328"><persName xml:lang="chi">(明)林希元</persName><persName type="9">lin xi
                            yuan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20161117/00000146|odh -->
@@ -78,7 +78,7 @@
                         <title>荒政考 一卷</title>
                         <title source="9">huang zheng kao</title>
                         <note source="290">(明)屠隆撰</note>
-                        <author key="person_2153"><persName>(明)屠隆</persName><persName type="9">tu
+                        <author key="person_2153"><persName xml:lang="chi">(明)屠隆</persName><persName type="9">tu
                            long</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20161117/00000147|odh -->
@@ -88,7 +88,7 @@
                         <title>荒政議 一卷</title>
                         <title source="9">huang zheng yi</title>
                         <note source="290">(明)周孔教撰</note>
-                        <author key="person_2080"><persName>(明)周孔教</persName><persName type="9">zhou kong
+                        <author key="person_2080"><persName xml:lang="chi">(明)周孔教</persName><persName type="9">zhou kong
                               jiao</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20161117/00000148|odh -->
@@ -98,7 +98,7 @@
                         <title>賑豫紀略 一卷</title>
                         <title source="9">zhen yu ji lue</title>
                         <note source="290">(明)鐘化民撰</note>
-                        <author key="person_2698"><persName>(明)鐘化民</persName><persName type="9">zhong hua
+                        <author key="person_2698"><persName xml:lang="chi">(明)鐘化民</persName><persName type="9">zhong hua
                               min</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20161117/00000149|odh -->
@@ -108,7 +108,7 @@
                         <title>荒箸略 一卷</title>
                         <title source="9">huang zhu lue</title>
                         <note source="290">(明)劉世教撰</note>
-                        <author key="person_2020"><persName>(明)劉世教</persName><persName type="9">liu shi
+                        <author key="person_2020"><persName xml:lang="chi">(明)劉世教</persName><persName type="9">liu shi
                               jiao</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20161117/00000150|odh -->
@@ -118,7 +118,7 @@
                         <title>救荒策 一卷</title>
                         <title source="9">jiu huang ce</title>
                         <note source="290">(清)魏禧撰</note>
-                        <author key="person_6323"><persName>(清)魏禧</persName><persName type="9">wei
+                        <author key="person_6323"><persName xml:lang="chi">(清)魏禧</persName><persName type="9">wei
                            xi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20161117/00000151|odh -->
@@ -128,7 +128,7 @@
                         <title>常平倉考 一卷</title>
                         <title source="9">chang ping cang kao</title>
                         <note source="290">(清)俞森撰</note>
-                        <author key="person_3352"><persName>(清)俞森</persName><persName type="9">yu
+                        <author key="person_3352"><persName xml:lang="chi">(清)俞森</persName><persName type="9">yu
                            sen</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20161117/00000152|odh -->
@@ -138,7 +138,7 @@
                         <title>義倉考 一卷</title>
                         <title source="9">yi cang kao</title>
                         <note source="290">(清)俞森撰</note>
-                        <author key="person_3352"><persName>(清)俞森</persName><persName type="9">yu
+                        <author key="person_3352"><persName xml:lang="chi">(清)俞森</persName><persName type="9">yu
                            sen</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20161117/00000153|odh -->
@@ -148,7 +148,7 @@
                         <title>社倉考 一卷</title>
                         <title source="9">she cang kao</title>
                         <note source="290">(清)俞森撰</note>
-                        <author key="person_3352"><persName>(清)俞森</persName><persName type="9">yu
+                        <author key="person_3352"><persName xml:lang="chi">(清)俞森</persName><persName type="9">yu
                            sen</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20161117/00000154|odh -->

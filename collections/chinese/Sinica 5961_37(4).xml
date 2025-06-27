@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">勘書巢未定稿 一卷</title>
+                     <title xml:lang="chi" source="#200">勘書巢未定稿 一卷</title>
                      <title source="#200|9">kan shu chao wei ding gao</title>
                      <note source="#290">(清)溫曰鑑撰</note>
-                     <author source="#300" key="person_4957"><persName>(清)溫曰鑑</persName><persName type="9">wen yue
+                     <author source="#300" key="person_4957"><persName xml:lang="chi">(清)溫曰鑑</persName><persName type="9">wen yue
                            jian</persName></author>
                      <note source="#600">民國丙辰[1916]刊</note>
                   </msItem>

@@ -48,14 +48,14 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">詞選七種</title>
+                     <title xml:lang="chi" source="#200">詞選七種</title>
                      <title source="#200|9">ci xuan qi zhong</title>
                      <note source="#409">清光緒中刊本</note>
                      <msItem n="1">
                         <title>唐五代詞選 三卷</title>
                         <title source="9">tang wu dai ci xuan</title>
                         <note source="290">(清)成肇麐輯</note>
-                        <author key="person_4259"><persName>(清)成肇麐</persName><persName type="9">cheng zhao
+                        <author key="person_4259"><persName xml:lang="chi">(清)成肇麐</persName><persName type="9">cheng zhao
                               lin</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150320/12:33:47|odh -->
@@ -66,7 +66,7 @@
                         <title>宋四家詞選 一卷</title>
                         <title source="9">song si jia ci xuan</title>
                         <note source="290">(清)周濟輯</note>
-                        <author key="person_3707"><persName>(清)周濟</persName><persName type="9">zhou
+                        <author key="person_3707"><persName xml:lang="chi">(清)周濟</persName><persName type="9">zhou
                            ji</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150320/12:35:30|odh -->
@@ -77,7 +77,7 @@
                         <title>詞源 二卷</title>
                         <title source="9">ci yuan</title>
                         <note source="290">(宋)張炎撰</note>
-                        <author key="person_1166"><persName>(宋)張炎</persName><persName type="9">zhang
+                        <author key="person_1166"><persName xml:lang="chi">(宋)張炎</persName><persName type="9">zhang
                            yan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150320/12:40:52|odh -->
@@ -88,7 +88,7 @@
                         <title>樂府指迷 一卷</title>
                         <title source="9">yue fu zhi mi</title>
                         <note source="290">(宋)沈義父撰</note>
-                        <author key="person_1379"><persName>(宋)沈義父</persName><persName type="9">shen yi
+                        <author key="person_1379"><persName xml:lang="chi">(宋)沈義父</persName><persName type="9">shen yi
                            fu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150320/12:41:31|odh -->
@@ -99,7 +99,7 @@
                         <title>詞旨 一卷</title>
                         <title source="9">ci zhi</title>
                         <note source="290">(元)陸輔之撰</note>
-                        <author key="person_318"><persName>(元)陸行直</persName><persName type="9">lu xing
+                        <author key="person_318"><persName xml:lang="chi">(元)陸行直</persName><persName type="9">lu xing
                            zhi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150320/12:44:13|odh -->
@@ -111,14 +111,14 @@
                            <title>詞選 二卷</title>
                            <title source="9">ci xuan</title>
                            <note source="290">(清)張惠言輯</note>
-                           <author key="person_4025"><persName>(清)張惠言</persName><persName type="9">zhang hui
+                           <author key="person_4025"><persName xml:lang="chi">(清)張惠言</persName><persName type="9">zhang hui
                                  yan</persName></author>
                         </msItem>
                         <msItem n="2">
                            <title>詞選附錄 一卷</title>
                            <title type="9">ci xuan fu lu</title>
                            <note source="#291">(清)鄭善長輯</note>
-                           <author key="person_5841"><persName>(清)鄭善長</persName><persName type="9">zheng shan
+                           <author key="person_5841"><persName xml:lang="chi">(清)鄭善長</persName><persName type="9">zheng shan
                                  chang</persName></author>
                         </msItem>
                         <!--Unused allegro fields-->
@@ -129,7 +129,7 @@
                         <title>續詞選 二卷</title>
                         <title source="9">xu ci xuan</title>
                         <note source="290">(清)董毅輯</note>
-                        <author key="person_5521"><persName>(清)董毅</persName><persName type="9">dong
+                        <author key="person_5521"><persName xml:lang="chi">(清)董毅</persName><persName type="9">dong
                            yi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150320/12:50:43|odh -->

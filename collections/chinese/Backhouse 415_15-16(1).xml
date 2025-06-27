@@ -49,16 +49,16 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">尚書鄭注 十卷</title>
+                     <title xml:lang="chi" source="#200">尚書鄭注 十卷</title>
                      <title source="#200|9">shang shu zheng zhu</title>
                      <note source="#290">(漢)鄭玄撰</note>
                      <note source="#290">(宋)王應麟輯</note>
                      <note source="#290">(清)孔廣林增訂</note>
-                     <author source="#300" key="person_6609"><persName>(漢)鄭玄</persName><persName type="9">zheng
+                     <author source="#300" key="person_6609"><persName xml:lang="chi">(漢)鄭玄</persName><persName type="9">zheng
                            xuan</persName></author>
-                     <author source="#300" key="person_1423"><persName>(宋)王應麟</persName><persName type="9">wang ying
+                     <author source="#300" key="person_1423"><persName xml:lang="chi">(宋)王應麟</persName><persName type="9">wang ying
                            lin</persName></author>
-                     <author source="#300" key="person_3813"><persName>(清)孔廣林</persName><persName type="9">kong guang
+                     <author source="#300" key="person_3813"><persName xml:lang="chi">(清)孔廣林</persName><persName type="9">kong guang
                            lin</persName></author>
                   </msItem>
                </msContents>

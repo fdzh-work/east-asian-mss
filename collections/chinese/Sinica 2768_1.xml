@@ -50,25 +50,25 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">切韻指掌圖 二卷</title>
+                     <title xml:lang="chi" source="#200">切韻指掌圖 二卷</title>
                      <title source="#200|9">qie yun zhi zhang tu</title>
                      <note source="#290">(宋)司馬光撰</note>
-                     <author source="#300"><persName>(宋)司馬光</persName><persName type="9">si ma
+                     <author source="#300"><persName xml:lang="chi">(宋)司馬光</persName><persName type="9">si ma
                            guang</persName></author>
                      <note source="#600">民國十九年[1930]刊</note>
                   </msItem>
                   <msItem n="2">
-                     <title source="#201">附 切韻指掌圖檢例 一卷</title>
+                     <title xml:lang="chi" source="#201">附 切韻指掌圖檢例 一卷</title>
                      <title source="#201|9">qie yun zhi zhang tu jian li</title>
                      <note source="#291">(明)邵光祖撰</note>
-                     <author source="#301" key="person_2650"><persName>(明)邵光祖</persName><persName type="9">shao guang
+                     <author source="#301" key="person_2650"><persName xml:lang="chi">(明)邵光祖</persName><persName type="9">shao guang
                            zu</persName></author>
                   </msItem>
                   <msItem n="3">
-                     <title source="#202">切韻指掌圖校記 一卷</title>
+                     <title xml:lang="chi" source="#202">切韻指掌圖校記 一卷</title>
                      <title source="#202|9">qie yun zhi zhang tu jiao ji</title>
                      <note source="#292">嚴式誨撰</note>
-                     <author source="#302" key="person_7117"><persName>嚴式誨</persName><persName type="9">yan shi
+                     <author source="#302" key="person_7117"><persName xml:lang="chi">嚴式誨</persName><persName type="9">yan shi
                            hui</persName></author>
                   </msItem>
                </msContents>

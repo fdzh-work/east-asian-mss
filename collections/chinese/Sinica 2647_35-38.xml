@@ -50,14 +50,14 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">雅雨堂詩集 二卷</title>
+                     <title xml:lang="chi" source="#200">雅雨堂詩集 二卷</title>
                      <title source="#200|9">ya yu tang shi ji</title>
-                     <title source="#200">雅雨堂文集 四卷</title>
+                     <title xml:lang="chi" source="#200">雅雨堂文集 四卷</title>
                      <title source="#200|9">ya yu tang wen ji</title>
-                     <title source="#200">附 雅雨山人出塞集 一卷</title>
+                     <title xml:lang="chi" source="#200">附 雅雨山人出塞集 一卷</title>
                      <title source="#200|9">ya yu shan ren chu sai ji</title>
                      <note source="#290">(清)盧見曾撰</note>
-                     <author source="#300" key="person_5214"><persName>(清)盧見曾</persName><persName type="9">lu jian
+                     <author source="#300" key="person_5214"><persName xml:lang="chi">(清)盧見曾</persName><persName type="9">lu jian
                            zeng</persName></author>
                      <note source="#600">光二十年[1840]盧樞清雅堂刊本</note>
                   </msItem>

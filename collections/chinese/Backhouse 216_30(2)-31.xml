@@ -49,17 +49,17 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">石氏喬梓詩集</title>
+                     <title xml:lang="chi" source="#200">石氏喬梓詩集</title>
                      <title source="#200|9">shi shi qiao zi shi ji</title>
                      <note source="#290">(淸)潘鍾瑞輯</note>
-                     <author source="#300" key="person_3239"><persName>(淸)潘鍾瑞</persName><persName type="9">pan zhong
+                     <author source="#300" key="person_3239"><persName xml:lang="chi">(淸)潘鍾瑞</persName><persName type="9">pan zhong
                            rui</persName></author>
                      <note source="#600">光緒九年[1883]刊</note>
                      <msItem n="1">
                         <title>聽雨樓詩 一卷</title>
                         <title source="9">ting yu lou shi</title>
                         <note source="290">(清)石嘉吉撰</note>
-                        <author key="person_5221"><persName>(清)石嘉吉</persName><persName type="9">shi jia
+                        <author key="person_5221"><persName xml:lang="chi">(清)石嘉吉</persName><persName type="9">shi jia
                            ji</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20161231/00000075|odh -->
@@ -71,7 +71,7 @@
                         <title>附 夢蜨草 一卷</title>
                         <title source="9">meng die cao</title>
                         <note source="290">(清)石渠撰</note>
-                        <author key="person_5225"><persName>(清)石渠</persName><persName type="9">shi
+                        <author key="person_5225"><persName xml:lang="chi">(清)石渠</persName><persName type="9">shi
                            qu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20161231/00000076|odh -->

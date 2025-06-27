@@ -47,7 +47,7 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">二十四史</title>
+                     <title xml:lang="chi" source="#200">二十四史</title>
                      <title source="#200|9">er shi si shi</title>
                      <note source="#409">清光緒三十四年[1908]上海集成圖書公司排印內府本</note>
                      <editor source="#440" role="pbl"><persName>集成圖書公司</persName><persName type="9" role="pbl">ji cheng tu shu gong si</persName></editor>

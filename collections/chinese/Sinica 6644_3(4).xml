@@ -49,15 +49,15 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">廣成先生玉函經 一卷</title>
+                     <title xml:lang="chi" source="#200">廣成先生玉函經 一卷</title>
                      <title source="#200|9">guang cheng xian sheng yu han jing</title>
                      <title type="variant" source="#230">玉函經</title>
                      <title source="#230|9" type="variant">yu han jing</title>
                      <note source="#290">(前蜀)杜光庭撰</note>
                      <note source="#290">(宋)黎民壽注</note>
-                     <author source="#300" key="person_345"><persName>(前蜀)杜光庭</persName><persName type="9">du guang
+                     <author source="#300" key="person_345"><persName xml:lang="chi">(前蜀)杜光庭</persName><persName type="9">du guang
                            ting</persName></author>
-                     <author source="#300" key="person_1844"><persName>(宋)黎民壽</persName><persName type="9">li min
+                     <author source="#300" key="person_1844"><persName xml:lang="chi">(宋)黎民壽</persName><persName type="9">li min
                            shou</persName></author>
                      <note source="#600">影刊宋本</note>
                   </msItem>

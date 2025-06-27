@@ -49,11 +49,11 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">韻學要指 十一卷</title>
+                     <title xml:lang="chi" source="#200">韻學要指 十一卷</title>
                      <title source="#200|9">yun xue yao zhi</title>
                      <title type="variant" source="#230">古今通韻括畧</title>
                      <title source="#230|9" type="variant">gu jin tong yun kuo lue</title>
-                     <author source="#300" key="person_4742"><persName>(清)毛奇齡</persName><persName type="9">mao qi
+                     <author source="#300" key="person_4742"><persName xml:lang="chi">(清)毛奇齡</persName><persName type="9">mao qi
                            ling</persName></author>
                      <note source="#600">一名《古今通韻括畧》</note>
                   </msItem>

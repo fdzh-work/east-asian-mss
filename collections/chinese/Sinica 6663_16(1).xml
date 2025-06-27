@@ -49,14 +49,14 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">讀書說 四卷</title>
+                     <title xml:lang="chi" source="#200">讀書說 四卷</title>
                      <title source="#200|9">du shu shuo</title>
                      <note source="#290">(清)胡承諾</note>
-                     <author source="#300" key="person_5370"><persName>(清)胡承諾</persName><persName type="9">hu cheng
+                     <author source="#300" key="person_5370"><persName xml:lang="chi">(清)胡承諾</persName><persName type="9">hu cheng
                            nuo</persName></author>
                   </msItem>
                   <msItem n="2">
-                     <title source="#201">附 胡承諾年譜 一卷</title>
+                     <title xml:lang="chi" source="#201">附 胡承諾年譜 一卷</title>
                      <title source="#201|9">hu cheng nuo nian pu</title>
                      <note source="#291">(清)佚名撰</note>
                   </msItem>

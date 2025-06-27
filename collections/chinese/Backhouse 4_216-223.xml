@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">南雷文定 前集十一卷後集四卷三集三卷詩歷四卷附錄一卷</title>
+                     <title xml:lang="chi" source="#200">南雷文定 前集十一卷後集四卷三集三卷詩歷四卷附錄一卷</title>
                      <title source="#200|9">nan lei wen ding</title>
                      <note source="#290">(清)黃宗羲撰</note>
-                     <author source="#300" key="person_6376"><persName>(清)黃宗羲</persName><persName type="9">huang zong
+                     <author source="#300" key="person_6376"><persName xml:lang="chi">(清)黃宗羲</persName><persName type="9">huang zong
                            xi</persName></author>
                   </msItem>
                </msContents>

@@ -49,9 +49,9 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">宋元舊本書經眼錄 三卷拊錄二卷</title>
+                     <title xml:lang="chi" source="#200">宋元舊本書經眼錄 三卷拊錄二卷</title>
                      <title source="#200|9">song yuan jiu ben shu jing yan lu</title>
-                     <author source="#300" key="person_5440"><persName>(清)莫友芝</persName><persName type="9">mo you
+                     <author source="#300" key="person_5440"><persName xml:lang="chi">(清)莫友芝</persName><persName type="9">mo you
                            zhi</persName></author>
                      <note source="#600">同治癸酉[1873]莫繩孫刊</note>
                   </msItem>

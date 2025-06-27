@@ -49,12 +49,12 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">瑤臺片玉乙種 三卷</title>
+                     <title xml:lang="chi" source="#200">瑤臺片玉乙種 三卷</title>
                      <title source="#200|9">yao tai pian yu yi zhong</title>
                      <title type="variant" source="#230">花底拾遺集</title>
                      <title source="#230|9" type="variant">hua di shi yi ji</title>
                      <note source="#290">(□)江詒撰</note>
-                     <author source="#300" key="person_20"><persName>(□)江詒</persName><persName type="9">jiang
+                     <author source="#300" key="person_20"><persName xml:lang="chi">(□)江詒</persName><persName type="9">jiang
                            yi</persName></author>
                      <note source="#600">一名《花底拾遺集》</note>
                   </msItem>

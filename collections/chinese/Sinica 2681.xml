@@ -46,7 +46,7 @@
                <head>書名: 杜工部集 二十卷 / (唐)杜甫撰 ; (明)王世貞等評<lb/>清光緒二年[1876]粵東翰墨園刊六色套印本<lb/>線裝10冊 ; 30公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">杜工部集 二十卷</title><title source="#200|9">du gong bu ji</title><note source="#290">(唐)杜甫撰</note><note source="#290">(明)王世貞等評</note><author source="#300" key="person_720"><persName>(唐)杜甫</persName><persName type="9">du fu</persName></author><author source="#300" key="person_2412"><persName>(明)王世貞</persName><persName type="9">wang shi zhen</persName></author><note source="#409">清光緒二年[1876]粵東翰墨園刊六色套印本</note><editor source="#440" role="pbl"><persName>翰墨園</persName><persName type="9" role="pbl">han mo yuan</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">杜工部集 二十卷</title><title source="#200|9">du gong bu ji</title><note source="#290">(唐)杜甫撰</note><note source="#290">(明)王世貞等評</note><author source="#300" key="person_720"><persName xml:lang="chi">(唐)杜甫</persName><persName type="9">du fu</persName></author><author source="#300" key="person_2412"><persName xml:lang="chi">(明)王世貞</persName><persName type="9">wang shi zhen</persName></author><note source="#409">清光緒二年[1876]粵東翰墨園刊六色套印本</note><editor source="#440" role="pbl"><persName>翰墨園</persName><persName type="9" role="pbl">han mo yuan</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

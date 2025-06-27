@@ -50,12 +50,12 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">房景先五經疑問 一卷</title>
+                     <title xml:lang="chi" source="#200">房景先五經疑問 一卷</title>
                      <title source="#200|9">fang jing xian wu jing yi wen</title>
                      <title type="variant" source="#230">五經疑問</title>
                      <title source="#230|9" type="variant">wu jing yi wen</title>
                      <note source="#290">(後魏)房景先撰</note>
-                     <author source="#300" key="person_1892"><persName>(後魏)房景先</persName><persName type="9">fang jing
+                     <author source="#300" key="person_1892"><persName xml:lang="chi">(後魏)房景先</persName><persName type="9">fang jing
                            xian</persName></author>
                   </msItem>
                </msContents>

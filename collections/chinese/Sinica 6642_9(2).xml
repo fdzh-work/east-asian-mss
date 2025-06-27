@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">大誓答問 一卷</title>
+                     <title xml:lang="chi" source="#200">大誓答問 一卷</title>
                      <title source="#200|9">da shi da wen</title>
                      <note source="#290">(清)龔自珍纂</note>
-                     <author source="#300" key="person_6445"><persName>(清)龔自珍</persName><persName type="9">gong zi
+                     <author source="#300" key="person_6445"><persName xml:lang="chi">(清)龔自珍</persName><persName type="9">gong zi
                            zhen</persName></author>
                      <note source="#600">光緒十六年[1890]刊</note>
                   </msItem>

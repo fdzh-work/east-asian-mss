@@ -46,7 +46,7 @@
                <head>書名: 今古奇觀 四十卷 / (明)抱瓮老人編<lb/>清嘉慶二十五年[1820]芥子園刊本萃古堂藏板<lb/>線裝10冊 : 圖 ; 17公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">今古奇觀 四十卷</title><title source="#200|9">jin gu qi guan</title><note source="#290">(明)抱瓮老人編</note><author source="#300" key="person_2242"><persName>(明)抱瓮老人</persName><persName type="9">bao weng lao ren</persName></author><note source="#409">清嘉慶二十五年[1820]芥子園刊本萃古堂藏板</note><editor source="#440" role="pbl"><persName>芥子園</persName><persName type="9" role="pbl">jie zi yuan</persName></editor><editor source="#440" role="pbl"><persName>萃古堂</persName><persName type="9" role="pbl">cui gu tang</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">今古奇觀 四十卷</title><title source="#200|9">jin gu qi guan</title><note source="#290">(明)抱瓮老人編</note><author source="#300" key="person_2242"><persName xml:lang="chi">(明)抱瓮老人</persName><persName type="9">bao weng lao ren</persName></author><note source="#409">清嘉慶二十五年[1820]芥子園刊本萃古堂藏板</note><editor source="#440" role="pbl"><persName>芥子園</persName><persName type="9" role="pbl">jie zi yuan</persName></editor><editor source="#440" role="pbl"><persName>萃古堂</persName><persName type="9" role="pbl">cui gu tang</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

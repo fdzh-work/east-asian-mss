@@ -49,9 +49,9 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">學詩詳說 三十卷</title>
+                     <title xml:lang="chi" source="#200">學詩詳說 三十卷</title>
                      <title source="#200|9">xue shi xiang shuo</title>
-                     <author source="#300" key="person_6216"><persName>(清)顧廣譽</persName><persName type="9">gu guang
+                     <author source="#300" key="person_6216"><persName xml:lang="chi">(清)顧廣譽</persName><persName type="9">gu guang
                            yu</persName></author>
                   </msItem>
                </msContents>

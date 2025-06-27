@@ -50,14 +50,14 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">自撰年譜 一卷續一卷別記一卷</title>
+                     <title xml:lang="chi" source="#200">自撰年譜 一卷續一卷別記一卷</title>
                      <title source="#200|9">zi zhuan nian pu</title>
-                     <title source="#200">甲行日注 八卷</title>
+                     <title xml:lang="chi" source="#200">甲行日注 八卷</title>
                      <title source="#200|9">jia xing ri zhu</title>
                      <title type="variant" source="#230">葉天寥年譜</title>
                      <title source="#230|9" type="variant">ye tian liao nian pu</title>
                      <note source="#290">(清)葉紹袁撰</note>
-                     <author source="#300" key="person_5490"><persName>(清)葉紹袁</persName><persName type="9">ye shao
+                     <author source="#300" key="person_5490"><persName xml:lang="chi">(清)葉紹袁</persName><persName type="9">ye shao
                            yuan</persName></author>
                      <note source="#600">封面題名「葉天寥年譜」</note>
                      <note source="#600">民國二年[1913]刊</note>

@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">咄咄吟 二卷附錄一卷</title>
+                     <title xml:lang="chi" source="#200">咄咄吟 二卷附錄一卷</title>
                      <title source="#200|9">duo duo yin</title>
                      <note source="#290">(清)木居士著</note>
-                     <author source="#300" key="person_5705"><persName>(清)貝青喬</persName><persName type="9">bei qing
+                     <author source="#300" key="person_5705"><persName xml:lang="chi">(清)貝青喬</persName><persName type="9">bei qing
                            qiao</persName></author>
                      <note source="#600">民國三年[1914]刊</note>
                   </msItem>

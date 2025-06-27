@@ -46,7 +46,7 @@
                <head>書名: Catechism in English and Chinese = 依經問答<lb/>福州 : Methodist Episcopal Mission Press = 美華書局, 1872<lb/>線裝1冊([2], 26頁) ; 20.3公分<lb/>By R S Maclay<lb/>Doubled leaves, each half paginated separately<lb/></head><msContents>
                   <textLang mainLang="eng" otherLangs="chi">English, Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">Catechism in English and Chinese = 依經問答</title><title source="#200|9">yi jing wen da</title><author source="#300" key="person_6942"><persName>Maclay, Robert Samuel</persName></author><editor source="#420" role="pbl"><persName>Methodist Episcopal Mission Press = 美華書局</persName><persName type="9" role="pbl">mei hua shu ju</persName></editor><note source="#600">By R S Maclay</note><note source="#600">Doubled leaves, each half paginated separately</note></msItem>         
+                  <title xml:lang="chi" source="#200">Catechism in English and Chinese = 依經問答</title><title source="#200|9">yi jing wen da</title><author source="#300" key="person_6942"><persName xml:lang="chi">Maclay, Robert Samuel</persName></author><editor source="#420" role="pbl"><persName>Methodist Episcopal Mission Press = 美華書局</persName><persName type="9" role="pbl">mei hua shu ju</persName></editor><note source="#600">By R S Maclay</note><note source="#600">Doubled leaves, each half paginated separately</note></msItem>         
                </msContents>
                <physDesc>
                   

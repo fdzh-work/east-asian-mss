@@ -49,13 +49,13 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">海東金石苑 八卷補遺六卷附錄二卷</title>
+                     <title xml:lang="chi" source="#200">海東金石苑 八卷補遺六卷附錄二卷</title>
                      <title source="#200|9">hai dong jin shi yuan</title>
                      <note source="#290">(清)劉喜海撰</note>
                      <note source="#290">劉承幹補</note>
-                     <author source="#300"><persName>(清)劉喜海</persName><persName type="9">liu xi
+                     <author source="#300"><persName xml:lang="chi">(清)劉喜海</persName><persName type="9">liu xi
                            hao</persName></author>
-                     <author source="#300" key="person_7100"><persName>劉承幹</persName><persName type="9">liu cheng
+                     <author source="#300" key="person_7100"><persName xml:lang="chi">劉承幹</persName><persName type="9">liu cheng
                            gan</persName></author>
                      <note source="#409">民國壬戌[1922]刊</note>
                   </msItem>

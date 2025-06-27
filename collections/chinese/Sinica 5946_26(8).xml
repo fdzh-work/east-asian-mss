@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">金氏世德紀 二卷</title>
+                     <title xml:lang="chi" source="#200">金氏世德紀 二卷</title>
                      <title source="#200|9">jin shi shi de ji</title>
                      <note source="#290">(清)金應麟輯</note>
-                     <author source="#300" key="person_5887"><persName>(清)金應麟</persName><persName type="9">jin ying
+                     <author source="#300" key="person_5887"><persName xml:lang="chi">(清)金應麟</persName><persName type="9">jin ying
                            lin</persName></author>
                      <note source="#600">光緒丙申[1896]刊</note>
                   </msItem>

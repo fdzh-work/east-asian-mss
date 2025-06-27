@@ -50,13 +50,13 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">春秋世族譜 一卷附補正一卷</title>
+                     <title xml:lang="chi" source="#200">春秋世族譜 一卷附補正一卷</title>
                      <title source="#200|9">chu qiu shi zu pu</title>
                      <note source="#290">(清)陳厚耀撰</note>
                      <note source="#290">(清)王士濂攷證併撰補正</note>
-                     <author source="#300" key="person_6014"><persName>(清)陳厚耀</persName><persName type="9">chen hou
+                     <author source="#300" key="person_6014"><persName xml:lang="chi">(清)陳厚耀</persName><persName type="9">chen hou
                            yao</persName></author>
-                     <author source="#300" key="person_5029"><persName>(清)王士濂</persName><persName type="9">wang shi
+                     <author source="#300" key="person_5029"><persName xml:lang="chi">(清)王士濂</persName><persName type="9">wang shi
                            lian</persName></author>
                   </msItem>
                </msContents>

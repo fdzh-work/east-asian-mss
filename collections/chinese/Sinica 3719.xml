@@ -47,10 +47,10 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">吳興長穚沈氏家集</title>
+                     <title xml:lang="chi" source="#200">吳興長穚沈氏家集</title>
                      <title source="#200|9">wu xing chang jiao shen shi jia ji</title>
                      <note source="#290">(清)沈家本編</note>
-                     <author source="#300" key="person_4852"><persName>(清)沈家本</persName><persName type="9">shen jia
+                     <author source="#300" key="person_4852"><persName xml:lang="chi">(清)沈家本</persName><persName type="9">shen jia
                            ben</persName></author>
                      <note source="#409">清光緒中吳興沈氏刊1990年北京中國書店重印本殘損版以影印配補</note>
                      <editor source="#440" role="pbl"><persName>(清)沈家本</persName><persName type="9" role="pbl">shen jia ben</persName></editor>

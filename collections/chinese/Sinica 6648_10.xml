@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">賓退錄 十卷</title>
+                     <title xml:lang="chi" source="#200">賓退錄 十卷</title>
                      <title source="#200|9">bin tui lu</title>
                      <note source="#290">(宋)趙與峕撰</note>
-                     <author source="#300" key="person_1666"><persName>(宋)趙與峕</persName><persName type="9">zhao yu
+                     <author source="#300" key="person_1666"><persName xml:lang="chi">(宋)趙與峕</persName><persName type="9">zhao yu
                            shi</persName></author>
                      <note source="#600">繆氏對雨樓影刊影鈔宋陳解元本</note>
                   </msItem>

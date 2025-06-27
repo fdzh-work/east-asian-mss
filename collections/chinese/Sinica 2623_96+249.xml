@@ -49,13 +49,13 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">周易參同契考異 一卷</title>
+                     <title xml:lang="chi" source="#200">周易參同契考異 一卷</title>
                      <title source="#200|9">zhou yi can tong qi kao yi</title>
                      <note source="#290">(宋)朱熹撰</note>
                      <note source="#290">(宋)黃瑞節附錄</note>
-                     <author source="#300" key="person_1250"><persName>(宋)朱熹</persName><persName type="9">zhu
+                     <author source="#300" key="person_1250"><persName xml:lang="chi">(宋)朱熹</persName><persName type="9">zhu
                            xi</persName></author>
-                     <author source="#300" key="person_1839"><persName>(宋)黃瑞節</persName><persName type="9">huang rui
+                     <author source="#300" key="person_1839"><persName xml:lang="chi">(宋)黃瑞節</persName><persName type="9">huang rui
                            jie</persName></author>
                   </msItem>
                </msContents>

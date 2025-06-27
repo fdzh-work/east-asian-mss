@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">蘭因集 二卷</title>
+                     <title xml:lang="chi" source="#200">蘭因集 二卷</title>
                      <title source="#200|9">lan yin ji</title>
                      <note source="#290">(清)頤道居士輯</note>
-                     <author source="#300" key="person_6056"><persName>(清)陳文述</persName><persName type="9">chen wen
+                     <author source="#300" key="person_6056"><persName xml:lang="chi">(清)陳文述</persName><persName type="9">chen wen
                            shu</persName></author>
                      <note source="#600">光緒辛巳[1881]刊</note>
                   </msItem>

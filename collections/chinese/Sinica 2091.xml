@@ -46,7 +46,7 @@
                <head>書名: 天牖二光<lb/>重刊<lb/>上海 : 美華書館, 1868<lb/>線裝1冊([2], 20頁) ; 15.7公分<lb/>By J L Nevius<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">天牖二光</title><title source="#200|9">tian you er guang</title><author source="#300" key="person_6978"><persName>Nevius, John Livingstone</persName></author><editor source="#420" role="pbl"><persName>美華書館</persName><persName type="9" role="pbl">mei hua shu guan</persName></editor><note source="#600">By J L Nevius</note></msItem>         
+                  <title xml:lang="chi" source="#200">天牖二光</title><title source="#200|9">tian you er guang</title><author source="#300" key="person_6978"><persName xml:lang="chi">Nevius, John Livingstone</persName></author><editor source="#420" role="pbl"><persName>美華書館</persName><persName type="9" role="pbl">mei hua shu guan</persName></editor><note source="#600">By J L Nevius</note></msItem>         
                </msContents>
                <physDesc>
                   

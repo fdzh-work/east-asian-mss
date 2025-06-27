@@ -49,16 +49,16 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">疇齋二譜 二卷外錄一卷</title>
+                     <title xml:lang="chi" source="#200">疇齋二譜 二卷外錄一卷</title>
                      <title source="#200|9">chou zhai er pu</title>
                      <note source="#290">(元)張仲壽撰</note>
-                     <author source="#300" key="person_109"><persName>(元)張仲壽</persName><persName type="9">zhang zhong
+                     <author source="#300" key="person_109"><persName xml:lang="chi">(元)張仲壽</persName><persName type="9">zhang zhong
                            shou</persName></author>
                      <note source="#600">光緒丁酉[1897]刊</note>
                      <msItem n="1">
                         <title>墨譜 一卷</title>
                         <title source="9">mo pu</title>
-                        <author key="person_109"><persName>(元)張仲壽</persName><persName type="9">zhang zhong
+                        <author key="person_109"><persName xml:lang="chi">(元)張仲壽</persName><persName type="9">zhang zhong
                               shou</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180415/22:21:53|odh -->
@@ -68,7 +68,7 @@
                      <msItem n="2">
                         <title>琴譜 一卷</title>
                         <title source="9">qin pu</title>
-                        <author key="person_109"><persName>(元)張仲壽</persName><persName type="9">zhang zhong
+                        <author key="person_109"><persName xml:lang="chi">(元)張仲壽</persName><persName type="9">zhang zhong
                               shou</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180415/22:22:11|odh -->

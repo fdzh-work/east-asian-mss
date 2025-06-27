@@ -46,7 +46,7 @@
                <head>書名: 真道啟蒙<lb/>[Canton], 1875<lb/>線裝1冊(26頁) ; 21.0公分<lb/>By Miss L Whilden<lb/>In Canton dialect<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">真道啟蒙</title><title source="#200|9">zhen dao qi meng</title><author source="#300" key="person_7080"><persName>Whilden, L T, miss</persName></author><note source="#600">By Miss L Whilden</note><note source="#600">In Canton dialect</note></msItem>         
+                  <title xml:lang="chi" source="#200">真道啟蒙</title><title source="#200|9">zhen dao qi meng</title><author source="#300" key="person_7080"><persName xml:lang="chi">Whilden, L T, miss</persName></author><note source="#600">By Miss L Whilden</note><note source="#600">In Canton dialect</note></msItem>         
                </msContents>
                <physDesc>
                   

@@ -46,7 +46,7 @@
                <head>書名: 邵氏聞見後錄 三十卷 / (宋)邵博撰<lb/>民國二十二年[1933]上海商務印書館鉛字排印國難後第一版本<lb/>線裝3冊 ; 27公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">邵氏聞見後錄 三十卷</title><title source="#200|9">shao shi wen jian hou lu</title><note source="#290">(宋)邵博撰</note><author source="#300" key="person_1683"><persName>(宋)邵博</persName><persName type="9">shao bo</persName></author><note source="#409">民國二十二年[1933]上海商務印書館鉛字排印國難後第一版本</note><editor source="#440" role="pbl"><persName>商務印書館</persName><persName type="9" role="pbl">shang wu yin shu guan</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">邵氏聞見後錄 三十卷</title><title source="#200|9">shao shi wen jian hou lu</title><note source="#290">(宋)邵博撰</note><author source="#300" key="person_1683"><persName xml:lang="chi">(宋)邵博</persName><persName type="9">shao bo</persName></author><note source="#409">民國二十二年[1933]上海商務印書館鉛字排印國難後第一版本</note><editor source="#440" role="pbl"><persName>商務印書館</persName><persName type="9" role="pbl">shang wu yin shu guan</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

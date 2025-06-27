@@ -47,10 +47,10 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">周秦諸子校注十種 殘七種</title>
+                     <title xml:lang="chi" source="#200">周秦諸子校注十種 殘七種</title>
                      <title source="#200|9">zhou qin zhu zi jiao zhu shi zhong</title>
                      <note source="#290">陳乃乾輯</note>
-                     <author source="#300" key="person_7190"><persName>陳乃乾</persName><persName type="9">chen nai
+                     <author source="#300" key="person_7190"><persName xml:lang="chi">陳乃乾</persName><persName type="9">chen nai
                            qian</persName></author>
                      <note source="#409">民國中國學會影印本</note>
                      <editor source="#440" role="pbl"><persName>中國學會</persName><persName type="9" role="pbl">zhong guo xue hui</persName></editor>

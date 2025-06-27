@@ -46,8 +46,8 @@
                <head>書名: 頌揚真神歌 / 倪維思選輯<lb/>[附:] 婚喪公禮<lb/>上海 : 美華書局, 1871<lb/>線裝1冊(118, 13頁) ; 19.5公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem><editor source="#420" role="pbl"><persName>美華書局</persName><persName type="9" role="pbl">mei hua shu ju</persName></editor><msItem n="1">
-                  <title source="#200">頌揚真神歌</title><title source="#200|9">song yang zhen shen ge</title><note source="#290">倪維思選輯</note><author source="#300" key="person_6978"><persName>Nevius, John Livingstone</persName></author></msItem>         
-               <msItem n="2"><title source="#201">[附:] 婚喪公禮</title><title source="#201|9">hun sang gong li</title></msItem></msItem></msContents>
+                  <title xml:lang="chi" source="#200">頌揚真神歌</title><title source="#200|9">song yang zhen shen ge</title><note source="#290">倪維思選輯</note><author source="#300" key="person_6978"><persName xml:lang="chi">Nevius, John Livingstone</persName></author></msItem>         
+               <msItem n="2"><title xml:lang="chi" source="#201">[附:] 婚喪公禮</title><title source="#201|9">hun sang gong li</title></msItem></msItem></msContents>
                <physDesc>
                   
                   <objectDesc>

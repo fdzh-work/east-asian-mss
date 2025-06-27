@@ -48,19 +48,19 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">金剛頂經彙譯八種</title>
+                     <title xml:lang="chi" source="#200">金剛頂經彙譯八種</title>
                      <title source="#200|9">jin gang ding jing hui yi ba zhong</title>
                      <note source="#290">(唐釋)不空奉詔譯</note>
-                     <author source="#300" key="person_891"><persName>(唐釋)不空</persName><persName type="9">bu
+                     <author source="#300" key="person_891"><persName xml:lang="chi">(唐釋)不空</persName><persName type="9">bu
                            kong</persName></author>
-                     <author><persName>北京刻經處</persName><persName type="9">bei jing ke jing
+                     <author><persName xml:lang="chi">北京刻經處</persName><persName type="9">bei jing ke jing
                            chu</persName></author>
                      <note source="#409">民國十一年[1922]北京刻經處編刊本</note>
                      <editor source="#440" role="pbl"><persName>北京刻經處</persName><persName type="9" role="pbl">bei jing ke jing chu</persName></editor>
                      <msItem n="1">
                         <title>陀羅尼門諸部要目 一卷</title>
                         <title source="9">tuo luo ni men zhu bu yao mu</title>
-                        <author key="person_891"><persName>(唐釋)不空</persName><persName type="9">bu
+                        <author key="person_891"><persName xml:lang="chi">(唐釋)不空</persName><persName type="9">bu
                            kong</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20120502/16:51:02|odh -->
@@ -71,7 +71,7 @@
                      <msItem n="2">
                         <title>金剛頂瑜伽經十八會指歸 一卷</title>
                         <title source="9">jin gang ding yu jia jing shi ba hui zhi gui</title>
-                        <author key="person_891"><persName>(唐釋)不空</persName><persName type="9">bu
+                        <author key="person_891"><persName xml:lang="chi">(唐釋)不空</persName><persName type="9">bu
                            kong</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20120502/16:54:34|odh -->
@@ -82,7 +82,7 @@
                         <title>略述金剛頂瑜伽分別聖位修證法門 一卷</title>
                         <title source="9">lue shu jin gang ding yu jia fen bie sheng wei xiu zheng
                            fa men</title>
-                        <author key="person_891"><persName>(唐釋)不空</persName><persName type="9">bu
+                        <author key="person_891"><persName xml:lang="chi">(唐釋)不空</persName><persName type="9">bu
                            kong</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20120502/16:58:38|odh -->
@@ -94,9 +94,9 @@
                         <title source="9">lue shu jin gang ding jing pi lu zhe na yi bai ba zun fa
                            shen qi yin</title>
                         <note source="290">(唐釋)善無畏, (唐釋)一行譯</note>
-                        <author key="person_893"><persName>(唐釋)善無畏</persName><persName type="9">shan wu
+                        <author key="person_893"><persName xml:lang="chi">(唐釋)善無畏</persName><persName type="9">shan wu
                               wei</persName></author>
-                        <author key="person_890"><persName>(唐釋)一行</persName><persName type="9">yi
+                        <author key="person_890"><persName xml:lang="chi">(唐釋)一行</persName><persName type="9">yi
                            xing</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20120502/17:03:07|odh -->
@@ -106,7 +106,7 @@
                      <msItem n="5">
                         <title>金剛頂瑜伽三十七尊出生義 一卷</title>
                         <title source="9">jin gang ding yu jia san shi qi zun chu sheng yi</title>
-                        <author key="person_891"><persName>(唐釋)不空</persName><persName type="9">bu
+                        <author key="person_891"><persName xml:lang="chi">(唐釋)不空</persName><persName type="9">bu
                            kong</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20120502/17:13:55|odh -->
@@ -117,7 +117,7 @@
                         <title>金剛頂瑜伽略述三十七尊心要 一卷</title>
                         <title source="9">jin gang ding yu jia lue shu san shi qi zun xin
                            yao</title>
-                        <author key="person_891"><persName>(唐釋)不空</persName><persName type="9">bu
+                        <author key="person_891"><persName xml:lang="chi">(唐釋)不空</persName><persName type="9">bu
                            kong</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20120502/17:15:59|odh -->
@@ -128,7 +128,7 @@
                         <title source="9">jin gang ding jing jin gang jie pi lu zhe na ru lai zi
                            shou yong shen ne zheng zhi juan shu fa shen yi ming fo zui shang sheng
                            mi mi san mo di li chan wen</title>
-                        <author key="person_891"><persName>(唐釋)不空</persName><persName type="9">bu
+                        <author key="person_891"><persName xml:lang="chi">(唐釋)不空</persName><persName type="9">bu
                            kong</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20120502/17:30:57|odh -->
@@ -138,7 +138,7 @@
                      <msItem n="8">
                         <title>金剛頂瑜伽三十七尊禮 一卷</title>
                         <title source="9">jin gang ding yu jia san shi qi zun li</title>
-                        <author key="person_891"><persName>(唐釋)不空</persName><persName type="9">bu
+                        <author key="person_891"><persName xml:lang="chi">(唐釋)不空</persName><persName type="9">bu
                            kong</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20120502/17:39:54|odh -->

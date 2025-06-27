@@ -46,7 +46,7 @@
                <head>書名: 上帝總論<lb/>福州 : 霞浦街福音堂, 同治十三年[1874]<lb/>線裝1冊(2頁) ; 16.6公分<lb/>By C Hartwell (?)<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">上帝總論</title><title source="#200|9">shang di zong lun</title><author source="#300" key="person_6882"><persName>Hartwell, Charles</persName></author><editor source="#420" role="pbl"><persName>霞浦街福音堂</persName><persName type="9" role="pbl">xia pu jie fu yin tang</persName></editor><note source="#600">By C Hartwell (?)</note></msItem>         
+                  <title xml:lang="chi" source="#200">上帝總論</title><title source="#200|9">shang di zong lun</title><author source="#300" key="person_6882"><persName xml:lang="chi">Hartwell, Charles</persName></author><editor source="#420" role="pbl"><persName>霞浦街福音堂</persName><persName type="9" role="pbl">xia pu jie fu yin tang</persName></editor><note source="#600">By C Hartwell (?)</note></msItem>         
                </msContents>
                <physDesc>
                   

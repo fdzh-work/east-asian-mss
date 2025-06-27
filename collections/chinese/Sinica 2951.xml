@@ -47,7 +47,7 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">蒙學三種</title>
+                     <title xml:lang="chi" source="#200">蒙學三種</title>
                      <title source="#200|9">meng xue san zhong</title>
                      <note source="#409">清中葉後期南京刊本金谷園藏版</note>
                      <editor source="#440" role="pbl"><persName>金谷園</persName><persName type="9" role="pbl">jin gu yuan</persName></editor>

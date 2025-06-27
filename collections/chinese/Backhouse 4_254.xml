@@ -49,13 +49,13 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">群英書義 二卷</title>
+                     <title xml:lang="chi" source="#200">群英書義 二卷</title>
                      <title source="#200|9">qun ying shu yi</title>
                      <note source="#290">(明)張泰撰</note>
                      <note source="#290">(明)劉錦文編</note>
-                     <author source="#300" key="person_2187"><persName>(明)張泰</persName><persName type="9">zhang
+                     <author source="#300" key="person_2187"><persName xml:lang="chi">(明)張泰</persName><persName type="9">zhang
                            tai</persName></author>
-                     <author source="#300" key="person_2040"><persName>(明)劉錦文</persName><persName type="9">liu jin
+                     <author source="#300" key="person_2040"><persName xml:lang="chi">(明)劉錦文</persName><persName type="9">liu jin
                            wen</persName></author>
                   </msItem>
                </msContents>

@@ -49,15 +49,15 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">郭氏玄中記 一卷</title>
+                     <title xml:lang="chi" source="#200">郭氏玄中記 一卷</title>
                      <title source="#200|9">guo shi xuan zhong ji</title>
                      <title type="variant" source="#230">玄中記</title>
                      <title source="#230|9" type="variant">xuan zhong ji</title>
                      <note source="#290">(晉)郭璞撰</note>
                      <note source="#290">(民國)葉德輝校輯</note>
-                     <author source="#300" key="person_2985"><persName>(晉)郭璞</persName><persName type="9">guo
+                     <author source="#300" key="person_2985"><persName xml:lang="chi">(晉)郭璞</persName><persName type="9">guo
                            pu</persName></author>
-                     <author source="#300" key="person_3174"><persName>(民國)葉德輝</persName><persName type="9">ye de
+                     <author source="#300" key="person_3174"><persName xml:lang="chi">(民國)葉德輝</persName><persName type="9">ye de
                            hui</persName></author>
                   </msItem>
                </msContents>

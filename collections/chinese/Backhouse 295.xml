@@ -47,10 +47,10 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">皇清經解</title>
+                     <title xml:lang="chi" source="#200">皇清經解</title>
                      <title source="#200|9">huang qing jing jie</title>
                      <note source="#290">(清)阮元輯</note>
-                     <author source="#300" key="person_5987"><persName>(清)阮元</persName><persName type="9">ruan
+                     <author source="#300" key="person_5987"><persName xml:lang="chi">(清)阮元</persName><persName type="9">ruan
                            yuan</persName></author>
                      <note source="#409">清道光九年[1829]廣東學海堂刊咸豐十年[1860]修補本</note>
                      <editor source="#440" role="pbl"><persName>學海堂</persName><persName type="9" role="pbl">xue hai tang</persName></editor>

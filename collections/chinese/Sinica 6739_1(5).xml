@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">珩璜新論 一卷</title>
+                     <title xml:lang="chi" source="#200">珩璜新論 一卷</title>
                      <title source="#200|9">heng huang xin lun</title>
                      <note source="#290">(宋)孔平仲撰</note>
-                     <author source="#300"><persName>(宋)孔平仲</persName><persName type="9">kong ping
+                     <author source="#300"><persName xml:lang="chi">(宋)孔平仲</persName><persName type="9">kong ping
                            zhong</persName></author>
                      <note source="#600">民國十四年[1925]三版</note>
                   </msItem>

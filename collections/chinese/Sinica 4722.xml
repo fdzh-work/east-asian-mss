@@ -46,7 +46,7 @@
                <head>書名: 文祿堂訪書記 五卷 / (民國)王文進撰<lb/>民國壬午[1942]北京文祿堂書籍鋪排印本<lb/>線裝5冊 ; 26公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">文祿堂訪書記 五卷</title><title source="#200|9">wen lu tang fang shu ji</title><note source="#290">(民國)王文進撰</note><author source="#300" key="person_3156"><persName>(民國)王文進</persName><persName type="9">wang wen jin</persName></author><note source="#409">民國壬午[1942]北京文祿堂書籍鋪排印本</note><editor source="#440" role="pbl"><persName>文祿堂書籍鋪</persName><persName type="9" role="pbl">wen lu tang shu ji pu</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">文祿堂訪書記 五卷</title><title source="#200|9">wen lu tang fang shu ji</title><note source="#290">(民國)王文進撰</note><author source="#300" key="person_3156"><persName xml:lang="chi">(民國)王文進</persName><persName type="9">wang wen jin</persName></author><note source="#409">民國壬午[1942]北京文祿堂書籍鋪排印本</note><editor source="#440" role="pbl"><persName>文祿堂書籍鋪</persName><persName type="9" role="pbl">wen lu tang shu ji pu</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

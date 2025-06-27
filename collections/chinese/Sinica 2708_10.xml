@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">臨汀蒼玉洞宋人題名 一卷附錄一卷</title>
+                     <title xml:lang="chi" source="#200">臨汀蒼玉洞宋人題名 一卷附錄一卷</title>
                      <title source="#200|9">lin ting cang yu dong song ren ti ming</title>
                      <note source="#290">(清)劉喜海輯</note>
-                     <author source="#300"><persName>(清)劉喜海</persName><persName type="9">liu xi
+                     <author source="#300"><persName xml:lang="chi">(清)劉喜海</persName><persName type="9">liu xi
                            hai</persName></author>
                      <note source="#600">影印諸成劉氏刊本</note>
                   </msItem>

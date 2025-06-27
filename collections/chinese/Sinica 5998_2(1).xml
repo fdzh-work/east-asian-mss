@@ -49,15 +49,15 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">程氏心法三種</title>
+                     <title xml:lang="chi" source="#200">程氏心法三種</title>
                      <title source="#200|9">cheng shi xin fa</title>
                      <note source="#290">(明)程宗猷撰</note>
-                     <author source="#300" key="person_2500"><persName>(明)程宗猷</persName><persName type="9">cheng zong
+                     <author source="#300" key="person_2500"><persName xml:lang="chi">(明)程宗猷</persName><persName type="9">cheng zong
                            you</persName></author>
                      <msItem n="1">
                         <title>蹶張心法 一卷</title>
                         <title source="9">jue zhang xin fa</title>
-                        <author key="person_2500"><persName>(明)程宗猷</persName><persName type="9">cheng zong
+                        <author key="person_2500"><persName xml:lang="chi">(明)程宗猷</persName><persName type="9">cheng zong
                               you</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180919/00000012|odh -->
@@ -66,7 +66,7 @@
                      <msItem n="2">
                         <title>長鎗法選 一卷</title>
                         <title source="9">chang qiang fa xuan</title>
-                        <author key="person_2500"><persName>(明)程宗猷</persName><persName type="9">cheng zong
+                        <author key="person_2500"><persName xml:lang="chi">(明)程宗猷</persName><persName type="9">cheng zong
                               you</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180919/00000013|odh -->
@@ -76,7 +76,7 @@
                      <msItem n="3">
                         <title>單刀法選 一卷</title>
                         <title source="9">dan dao fa xuan</title>
-                        <author key="person_2500"><persName>(明)程宗猷</persName><persName type="9">cheng zong
+                        <author key="person_2500"><persName xml:lang="chi">(明)程宗猷</persName><persName type="9">cheng zong
                               you</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180919/00000014|odh -->

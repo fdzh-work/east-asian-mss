@@ -49,12 +49,12 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">胥屏山館詩存 二卷</title>
+                     <title xml:lang="chi" source="#200">胥屏山館詩存 二卷</title>
                      <title source="#200|9">xu ping shan guan shi cun</title>
-                     <title source="#200">胥屏山館文存 一卷</title>
+                     <title xml:lang="chi" source="#200">胥屏山館文存 一卷</title>
                      <title source="#200|9">xu ping shan guan wen cun</title>
                      <note source="#290">(清)陸麟書撰</note>
-                     <author source="#300" key="person_6181"><persName>(清)陸麟書</persName><persName type="9">lu lin
+                     <author source="#300" key="person_6181"><persName xml:lang="chi">(清)陸麟書</persName><persName type="9">lu lin
                            shu</persName></author>
                   </msItem>
                </msContents>

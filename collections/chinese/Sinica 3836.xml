@@ -46,7 +46,7 @@
                <head>書名: 隸釋 二十七卷 ; 隸續 二十一卷 / (宋)洪适撰<lb/>清乾隆丁酉[1777]隸續戊戌[1778]錢塘汪日秀樓宋書屋刊本<lb/>線裝12冊 ; 29公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">隸釋 二十七卷</title><title source="#200|9">li shi</title><title source="#200">隸續 二十一卷</title><title source="#200|9">li xu</title><note source="#290">(宋)洪适撰</note><author source="#300" key="person_1387"><persName>(宋)洪适</persName><persName type="9">hong kuo</persName></author><note source="#409">清乾隆丁酉[1777]隸續戊戌[1778]錢塘汪日秀樓宋書屋刊本</note><editor source="#440" role="pbl"><persName>樓宋書屋</persName><persName type="9" role="pbl">lou song shu wu</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">隸釋 二十七卷</title><title source="#200|9">li shi</title><title xml:lang="chi" source="#200">隸續 二十一卷</title><title source="#200|9">li xu</title><note source="#290">(宋)洪适撰</note><author source="#300" key="person_1387"><persName xml:lang="chi">(宋)洪适</persName><persName type="9">hong kuo</persName></author><note source="#409">清乾隆丁酉[1777]隸續戊戌[1778]錢塘汪日秀樓宋書屋刊本</note><editor source="#440" role="pbl"><persName>樓宋書屋</persName><persName type="9" role="pbl">lou song shu wu</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

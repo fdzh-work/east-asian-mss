@@ -47,10 +47,10 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">學津討原</title>
+                     <title xml:lang="chi" source="#200">學津討原</title>
                      <title source="#200|9">xue jin tao yuan</title>
                      <note source="#290">(清)張海鵬編</note>
-                     <author source="#300" key="person_4054"><persName>(清)張海鵬</persName><persName type="9">zhang hai
+                     <author source="#300" key="person_4054"><persName xml:lang="chi">(清)張海鵬</persName><persName type="9">zhang hai
                            peng</persName></author>
                      <note source="#409">清嘉慶十年[1805]虞山張氏曠照閣刊本</note>
                      <note><list><head>Contains: </head>

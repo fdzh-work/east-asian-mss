@@ -51,12 +51,12 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">秋崖先生小稿詞 四卷</title>
+                     <title xml:lang="chi" source="#200">秋崖先生小稿詞 四卷</title>
                      <title source="#200|9">qiu ya xian sheng xiao gao ci</title>
                      <title type="variant" source="#230">秋崖先生詞</title>
                      <title source="#230|9" type="variant">qiu ya xian sheng ci</title>
                      <note source="#290">(宋)方岳撰</note>
-                     <author source="#300" key="person_1216"><persName>(宋)方岳</persName><persName type="9">fang
+                     <author source="#300" key="person_1216"><persName xml:lang="chi">(宋)方岳</persName><persName type="9">fang
                            yue</persName></author>
                      <note source="#600">景刊元本</note>
                   </msItem>

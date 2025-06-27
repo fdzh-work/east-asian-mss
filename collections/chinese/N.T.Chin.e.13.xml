@@ -46,7 +46,7 @@
                <head>書名: 新約全書<lb/>羊城[Canton] : 惠愛醫館, 咸豐六年[1856]<lb/>線裝1冊([1], 185頁) ; 22.5公分<lb/>Delegates' version<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">新約全書</title><title source="#200|9">xin yue quan shu</title><editor source="#420" role="pbl"><persName>惠愛醫館</persName><persName type="9" role="pbl">hui ai yi guan</persName></editor><note source="#600">Delegates' version</note></msItem>         
+                  <title xml:lang="chi" source="#200">新約全書</title><title source="#200|9">xin yue quan shu</title><editor source="#420" role="pbl"><persName>惠愛醫館</persName><persName type="9" role="pbl">hui ai yi guan</persName></editor><note source="#600">Delegates' version</note></msItem>         
                </msContents>
                <physDesc>
                   

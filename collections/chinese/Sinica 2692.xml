@@ -46,7 +46,7 @@
                <head>書名: 公禱書<lb/>成都 : 華英書局[代印] : 四川轄境西區聖公會[發], 1919<lb/>精裝1冊(254頁) ; 18.1公分<lb/>In Mandarin dialect<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">公禱書</title><title source="#200|9">gong dao shu</title><editor source="#420" role="pbl"><persName>華英書局</persName><persName type="9" role="pbl">hua ying shu ju</persName></editor><editor source="#420" role="pbl"><persName>四川轄境西區聖公會</persName><persName type="9" role="pbl">si chuan xia jing xi qu sheng gong hui</persName></editor><note source="#600">In Mandarin dialect</note></msItem>         
+                  <title xml:lang="chi" source="#200">公禱書</title><title source="#200|9">gong dao shu</title><editor source="#420" role="pbl"><persName>華英書局</persName><persName type="9" role="pbl">hua ying shu ju</persName></editor><editor source="#420" role="pbl"><persName>四川轄境西區聖公會</persName><persName type="9" role="pbl">si chuan xia jing xi qu sheng gong hui</persName></editor><note source="#600">In Mandarin dialect</note></msItem>         
                </msContents>
                <physDesc>
                   

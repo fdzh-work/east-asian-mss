@@ -49,12 +49,12 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">魏鄭公文集 三卷</title>
+                     <title xml:lang="chi" source="#200">魏鄭公文集 三卷</title>
                      <title source="#200|9">wei zheng gong wen ji</title>
-                     <title source="#200">魏鄭公詩集 一卷</title>
+                     <title xml:lang="chi" source="#200">魏鄭公詩集 一卷</title>
                      <title source="#200|9">wei zheng gong shi ji</title>
                      <note source="#290">(唐)魏徵撰</note>
-                     <author source="#300" key="person_887"><persName>(唐)魏徵</persName><persName type="9">wei
+                     <author source="#300" key="person_887"><persName xml:lang="chi">(唐)魏徵</persName><persName type="9">wei
                            zheng</persName></author>
                   </msItem>
                </msContents>

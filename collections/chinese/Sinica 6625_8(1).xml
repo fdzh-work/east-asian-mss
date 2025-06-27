@@ -50,12 +50,12 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">太乙照神經 三卷</title>
+                     <title xml:lang="chi" source="#200">太乙照神經 三卷</title>
                      <title source="#200|9">tai yi zhao shen jing</title>
-                     <title source="#200">神相證驗百條 二卷</title>
+                     <title xml:lang="chi" source="#200">神相證驗百條 二卷</title>
                      <title source="#200|9">shen xiang zheng yan bai tiao</title>
                      <note source="#290">(清)劉學誠輯</note>
-                     <author source="#300" key="person_3431"><persName>(清)劉學誠</persName><persName type="9">liu xue
+                     <author source="#300" key="person_3431"><persName xml:lang="chi">(清)劉學誠</persName><persName type="9">liu xue
                            cheng</persName></author>
                   </msItem>
                </msContents>

@@ -46,7 +46,7 @@
                <head>書名: 詞館試律清華集 四卷 / (清)蔣義彬編<lb/>清道光己丑年[1829]刊本 會文堂藏板<lb/>線裝4冊 ; 19公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">詞館試律清華集 四卷</title><title source="#200|9">ci guan shi lu qing hua ji</title><note source="#290">(清)蔣義彬編</note><author source="#300" key="person_5576"><persName>(清)蔣義彬</persName><persName type="9">jiang yi bin</persName></author><note source="#409">清道光己丑年[1829]刊本 會文堂藏板</note><editor source="#440" role="pbl"><persName>會文堂</persName><persName type="9" role="pbl">hui wen tang</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">詞館試律清華集 四卷</title><title source="#200|9">ci guan shi lu qing hua ji</title><note source="#290">(清)蔣義彬編</note><author source="#300" key="person_5576"><persName xml:lang="chi">(清)蔣義彬</persName><persName type="9">jiang yi bin</persName></author><note source="#409">清道光己丑年[1829]刊本 會文堂藏板</note><editor source="#440" role="pbl"><persName>會文堂</persName><persName type="9" role="pbl">hui wen tang</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

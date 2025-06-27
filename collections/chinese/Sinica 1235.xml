@@ -46,7 +46,7 @@
                <head>書名: 上主創世<lb/>[Peking] : 燈市口書院, 1874<lb/>平裝1冊(6頁) ; 16.3公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">上主創世</title><title source="#200|9">shang zhu chuang shi</title><editor source="#420" role="pbl"><persName>燈市口書院</persName><persName type="9" role="pbl">deng shi kou shu yuan</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">上主創世</title><title source="#200|9">shang zhu chuang shi</title><editor source="#420" role="pbl"><persName>燈市口書院</persName><persName type="9" role="pbl">deng shi kou shu yuan</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

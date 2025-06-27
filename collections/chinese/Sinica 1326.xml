@@ -46,7 +46,7 @@
                <head>書名: 指南針 / 胡德邁譔<lb/>重鐫<lb/>[Ningpo] : 開明山福音殿, 1867<lb/>線裝1冊(2, 6頁) ; 18.1公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">指南針</title><title source="#200|9">zhi nan zhen</title><note source="#290">胡德邁譔</note><author source="#300" key="person_6895"><persName>Hudson, Thomas Hall</persName></author><editor source="#420" role="pbl"><persName>開明山福音殿</persName><persName type="9" role="pbl">kai ming shan fu yin dian</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">指南針</title><title source="#200|9">zhi nan zhen</title><note source="#290">胡德邁譔</note><author source="#300" key="person_6895"><persName xml:lang="chi">Hudson, Thomas Hall</persName></author><editor source="#420" role="pbl"><persName>開明山福音殿</persName><persName type="9" role="pbl">kai ming shan fu yin dian</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

@@ -49,13 +49,13 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">四書章句集注</title>
+                     <title xml:lang="chi" source="#200">四書章句集注</title>
                      <title source="#200|9">si shu zhang ju ji zhu</title>
                      <title type="variant" source="#230">四庫全書四書集注仿制本</title>
                      <title source="#230|9" type="variant">si ku quan shu si shu ji zhu fang zhi
                         ben</title>
                      <note source="#290">(宋)朱熹撰</note>
-                     <author source="#300" key="person_1250"><persName>(宋)朱熹</persName><persName type="9">zhu
+                     <author source="#300" key="person_1250"><persName xml:lang="chi">(宋)朱熹</persName><persName type="9">zhu
                            xi</persName></author>
                      <note source="#409">2007年北京商務印書館影印中國國家圖書館藏文津閣四庫全書鈔本</note>
                      <editor source="#440" role="pbl"><persName>商務印書館</persName><persName type="9" role="pbl">shang wu yin shu guan</persName></editor>
@@ -63,7 +63,7 @@
                      <msItem n="1">
                         <title>大學章句 一卷</title>
                         <title source="9">da xue zhang ju</title>
-                        <author key="person_1250"><persName>(宋)朱熹</persName><persName type="9">zhu
+                        <author key="person_1250"><persName xml:lang="chi">(宋)朱熹</persName><persName type="9">zhu
                            xi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20151130/14:38:52|odh -->
@@ -72,7 +72,7 @@
                      <msItem n="2">
                         <title>中庸章句 一卷</title>
                         <title source="9">zhong yong zhang ju</title>
-                        <author key="person_1250"><persName>(宋)朱熹</persName><persName type="9">zhu
+                        <author key="person_1250"><persName xml:lang="chi">(宋)朱熹</persName><persName type="9">zhu
                            xi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20151130/14:45:37|odh -->
@@ -81,7 +81,7 @@
                      <msItem n="3">
                         <title>論語集註 十卷</title>
                         <title source="9">lun yu ji zhu</title>
-                        <author key="person_1250"><persName>(宋)朱熹</persName><persName type="9">zhu
+                        <author key="person_1250"><persName xml:lang="chi">(宋)朱熹</persName><persName type="9">zhu
                            xi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20151130/14:41:56|odh -->
@@ -91,7 +91,7 @@
                      <msItem n="4">
                         <title>孟子集註 七卷</title>
                         <title source="9">meng zi ji zhu</title>
-                        <author key="person_1250"><persName>(宋)朱熹</persName><persName type="9">zhu
+                        <author key="person_1250"><persName xml:lang="chi">(宋)朱熹</persName><persName type="9">zhu
                            xi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20151130/14:45:08|odh -->

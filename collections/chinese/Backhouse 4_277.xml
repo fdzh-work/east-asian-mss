@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">唐昭陵石蹟考略 五卷</title>
+                     <title xml:lang="chi" source="#200">唐昭陵石蹟考略 五卷</title>
                      <title source="#200|9">tang zhao ling shi ji kao lue</title>
                      <note source="#290">(清)林侗撰</note>
-                     <author source="#300" key="person_4582"><persName>(清)林侗</persName><persName type="9">lin
+                     <author source="#300" key="person_4582"><persName xml:lang="chi">(清)林侗</persName><persName type="9">lin
                            tong</persName></author>
                   </msItem>
                </msContents>

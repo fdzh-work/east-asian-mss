@@ -49,12 +49,12 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">重彫足本鑑誡錄 十卷</title>
+                     <title xml:lang="chi" source="#200">重彫足本鑑誡錄 十卷</title>
                      <title source="#200|9">chong diao zu ben jian jie lu</title>
                      <title type="variant" source="#230">鑑誡錄</title>
                      <title source="#230|9" type="variant">jian jie lu</title>
                      <note source="#290">(後蜀)何光遠撰</note>
-                     <author source="#300" key="person_1878"><persName>(後蜀)何光遠</persName><persName type="9">he guang
+                     <author source="#300" key="person_1878"><persName xml:lang="chi">(後蜀)何光遠</persName><persName type="9">he guang
                            yuan</persName></author>
                      <note source="#600">嘉慶八年[1803]刊</note>
                   </msItem>

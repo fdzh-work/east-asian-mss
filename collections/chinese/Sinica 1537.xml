@@ -46,7 +46,7 @@
                <head>書名: Kiau ts lok<lb/>Zong-Hae [Shanghai], 1861<lb/>線裝1冊(123頁) ; 20.1公分<lb/>By T H Gallaudet ; tr. by C P Tenney<lb/>In romanised Shanghai dialect<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">Kiau ts lok</title><author source="#300" key="person_6857"><persName>Gallaudet, Thomas Hopkins</persName></author><author source="#300" key="person_7051"><persName>Tenney, Caroline Phebe</persName></author><note source="#600">By T H Gallaudet ; tr. by C P Tenney</note><note source="#600">In romanised Shanghai dialect</note></msItem>         
+                  <title xml:lang="chi" source="#200">Kiau ts lok</title><author source="#300" key="person_6857"><persName xml:lang="chi">Gallaudet, Thomas Hopkins</persName></author><author source="#300" key="person_7051"><persName xml:lang="chi">Tenney, Caroline Phebe</persName></author><note source="#600">By T H Gallaudet ; tr. by C P Tenney</note><note source="#600">In romanised Shanghai dialect</note></msItem>         
                </msContents>
                <physDesc>
                   

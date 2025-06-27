@@ -49,13 +49,13 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">吳越春秋 六卷</title>
+                     <title xml:lang="chi" source="#200">吳越春秋 六卷</title>
                      <title source="#200|9">wu yue chun qiu</title>
                      <note source="#290">(漢)趙曄撰</note>
                      <note source="#290">(宋)徐天祜音注</note>
-                     <author source="#300" key="person_6602"><persName>(漢)趙曄</persName><persName type="9">zhao
+                     <author source="#300" key="person_6602"><persName xml:lang="chi">(漢)趙曄</persName><persName type="9">zhao
                            ye</persName></author>
-                     <author source="#300" key="person_1195"><persName>(宋)徐天祜</persName><persName type="9">xu tian
+                     <author source="#300" key="person_1195"><persName xml:lang="chi">(宋)徐天祜</persName><persName type="9">xu tian
                            you</persName></author>
                   </msItem>
                </msContents>

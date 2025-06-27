@@ -48,16 +48,16 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">王菉友九種</title>
+                     <title xml:lang="chi" source="#200">王菉友九種</title>
                      <title source="#200|9">wang lu you jiu zhong</title>
                      <note source="#290">(清)王筠撰</note>
-                     <author source="#300"><persName>(清)王筠</persName><persName type="9">wang
+                     <author source="#300"><persName xml:lang="chi">(清)王筠</persName><persName type="9">wang
                            yun</persName></author>
                      <note source="#409">清道光咸豐間刊本</note>
                      <msItem n="1">
                         <title>菉友蛾術編 二卷</title>
                         <title source="9">lu you e shu bian</title>
-                        <author><persName>(清)王筠</persName><persName type="9">wang
+                        <author><persName xml:lang="chi">(清)王筠</persName><persName type="9">wang
                            yun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180808/00000078|odh -->
@@ -67,7 +67,7 @@
                      <msItem n="2">
                         <title>禹貢正字 一卷</title>
                         <title source="9">yu gong zheng zi</title>
-                        <author><persName>(清)王筠</persName><persName type="9">wang
+                        <author><persName xml:lang="chi">(清)王筠</persName><persName type="9">wang
                            yun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180808/00000079|odh -->
@@ -76,7 +76,7 @@
                      <msItem n="3">
                         <title>四書說略 四卷</title>
                         <title source="9">si shu shuo lue</title>
-                        <author><persName>(清)王筠</persName><persName type="9">wang
+                        <author><persName xml:lang="chi">(清)王筠</persName><persName type="9">wang
                            yun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180808/00000080|odh -->
@@ -85,7 +85,7 @@
                      <msItem n="4">
                         <title>正字略定本 一卷</title>
                         <title source="9">zheng zi lue ding ben</title>
-                        <author><persName>(清)王筠</persName><persName type="9">wang
+                        <author><persName xml:lang="chi">(清)王筠</persName><persName type="9">wang
                            yun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180808/00000081|odh -->
@@ -94,7 +94,7 @@
                      <msItem n="5">
                         <title>菉友肊說 一卷</title>
                         <title source="9">lu you yi shuoo</title>
-                        <author><persName>(清)王筠</persName><persName type="9">wang
+                        <author><persName xml:lang="chi">(清)王筠</persName><persName type="9">wang
                            yun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180808/00000082|odh -->
@@ -103,7 +103,7 @@
                      <msItem n="6">
                         <title>夏小正正義 一卷</title>
                         <title source="9">xia xiao zheng zheng yi</title>
-                        <author><persName>(清)王筠</persName><persName type="9">wang
+                        <author><persName xml:lang="chi">(清)王筠</persName><persName type="9">wang
                            yun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180808/00000083|odh -->
@@ -112,7 +112,7 @@
                      <msItem n="7">
                         <title>弟子職正音 一卷</title>
                         <title source="9">di zi zhi zheng yin</title>
-                        <author><persName>(清)王筠</persName><persName type="9">wang
+                        <author><persName xml:lang="chi">(清)王筠</persName><persName type="9">wang
                            yun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180808/00000084|odh -->
@@ -121,7 +121,7 @@
                      <msItem n="8">
                         <title>毛詩重言 三卷</title>
                         <title source="9">mao shi chong yan</title>
-                        <author><persName>(清)王筠</persName><persName type="9">wang
+                        <author><persName xml:lang="chi">(清)王筠</persName><persName type="9">wang
                            yun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180808/00000085|odh -->
@@ -130,7 +130,7 @@
                      <msItem n="9">
                         <title>毛詩雙聲疊韻說 一卷</title>
                         <title source="9">mao shi shuang sheng die yun shuo</title>
-                        <author><persName>(清)王筠</persName><persName type="9">wang
+                        <author><persName xml:lang="chi">(清)王筠</persName><persName type="9">wang
                            yun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180808/00000086|odh -->

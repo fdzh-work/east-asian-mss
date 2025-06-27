@@ -46,7 +46,7 @@
                <head>書名: 文章辨體 五十卷外集五卷 / (明)吳訥編<lb/>明嘉靖中刊本<lb/>線裝24冊 ; 28公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">文章辨體 五十卷外集五卷</title><title source="#200|9">wen zhang bian ti</title><note source="#290">(明)吳訥編</note><author source="#300" key="person_2066"><persName>(明)吳訥</persName><persName type="9">wu ne</persName></author><note source="#409">明嘉靖中刊本</note></msItem>         
+                  <title xml:lang="chi" source="#200">文章辨體 五十卷外集五卷</title><title source="#200|9">wen zhang bian ti</title><note source="#290">(明)吳訥編</note><author source="#300" key="person_2066"><persName xml:lang="chi">(明)吳訥</persName><persName type="9">wu ne</persName></author><note source="#409">明嘉靖中刊本</note></msItem>         
                </msContents>
                <physDesc>
                   

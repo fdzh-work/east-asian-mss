@@ -46,7 +46,7 @@
                <head>書名: 西國算法 / 美士人基順著<lb/>福州 : 美華書局, 1873<lb/>線裝1冊(1, 36頁) ; 20.2公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">西國算法</title><title source="#200|9">xi guo suan fa</title><note source="#290">美士人基順著</note><author source="#300" key="person_6864"><persName>Gibson, Otis</persName></author><editor source="#420" role="pbl"><persName>美華書局</persName><persName type="9" role="pbl">mei hua shu ju</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">西國算法</title><title source="#200|9">xi guo suan fa</title><note source="#290">美士人基順著</note><author source="#300" key="person_6864"><persName xml:lang="chi">Gibson, Otis</persName></author><editor source="#420" role="pbl"><persName>美華書局</persName><persName type="9" role="pbl">mei hua shu ju</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

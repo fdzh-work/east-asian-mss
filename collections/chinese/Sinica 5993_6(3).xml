@@ -51,10 +51,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">遺山樂府 三卷</title>
+                     <title xml:lang="chi" source="#200">遺山樂府 三卷</title>
                      <title source="#200|9">yi shan yue fu</title>
                      <note source="#290">(金)元好問撰</note>
-                     <author source="#300" key="person_6651"><persName>(金)元好問</persName><persName type="9">yuan hao
+                     <author source="#300" key="person_6651"><persName xml:lang="chi">(金)元好問</persName><persName type="9">yuan hao
                            wen</persName></author>
                      <note source="#600">景刊明弘治高麗晉州本</note>
                   </msItem>

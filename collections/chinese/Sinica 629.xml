@@ -46,7 +46,7 @@
                <head>書名: 伽藍記 五卷 / (後魏)楊衒之撰<lb/>清乾隆五十六年[1791]金谿王謨編刊《增訂漢魏叢書》本<lb/>線裝1冊 ; 27公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">伽藍記 五卷</title><title source="#200|9">qie lan ji</title><title type="variant" source="#230">洛陽伽藍記</title><title source="#230|9" type="variant">luo yang qie lan ji</title><note source="#290">(後魏)楊衒之撰</note><author source="#300"><persName>(後魏)楊衒之</persName><persName type="9">yang xuan zhi</persName></author><note source="#409">清乾隆五十六年[1791]金谿王謨編刊《增訂漢魏叢書》本</note><editor source="#446" role="pbl"><persName>增訂漢魏叢書</persName><persName type="9" role="pbl">zeng ding han wei cong shu</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">伽藍記 五卷</title><title source="#200|9">qie lan ji</title><title type="variant" source="#230">洛陽伽藍記</title><title source="#230|9" type="variant">luo yang qie lan ji</title><note source="#290">(後魏)楊衒之撰</note><author source="#300"><persName xml:lang="chi">(後魏)楊衒之</persName><persName type="9">yang xuan zhi</persName></author><note source="#409">清乾隆五十六年[1791]金谿王謨編刊《增訂漢魏叢書》本</note><editor source="#446" role="pbl"><persName>增訂漢魏叢書</persName><persName type="9" role="pbl">zeng ding han wei cong shu</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

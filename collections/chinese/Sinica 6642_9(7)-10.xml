@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">駢雅訓纂 七卷首一卷</title>
+                     <title xml:lang="chi" source="#200">駢雅訓纂 七卷首一卷</title>
                      <title source="#200|9">pian ya xun zuan</title>
                      <note source="#290">(清)魏茂林撰</note>
-                     <author source="#300" key="person_6325"><persName>(清)魏茂林</persName><persName type="9">wei mao
+                     <author source="#300" key="person_6325"><persName xml:lang="chi">(清)魏茂林</persName><persName type="9">wei mao
                            lin</persName></author>
                      <note source="#409">光緒十二年[1886]刊</note>
                   </msItem>

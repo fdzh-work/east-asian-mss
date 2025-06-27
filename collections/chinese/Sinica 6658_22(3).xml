@@ -49,12 +49,12 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">丁蕚亭治河要語 一卷</title>
+                     <title xml:lang="chi" source="#200">丁蕚亭治河要語 一卷</title>
                      <title source="#200|9">ding e ting zhi he yao yu</title>
                      <title type="variant" source="#230">治河要語</title>
                      <title source="#230|9" type="variant">zhi he yao yu</title>
                      <note source="#290">(清)丁蕚亭撰</note>
-                     <author source="#300" key="person_3267"><persName>(清)丁蕚亭</persName><persName type="9">ding e
+                     <author source="#300" key="person_3267"><persName xml:lang="chi">(清)丁蕚亭</persName><persName type="9">ding e
                            ting</persName></author>
                   </msItem>
                </msContents>

@@ -50,21 +50,21 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">石林燕語 十卷</title>
+                     <title xml:lang="chi" source="#200">石林燕語 十卷</title>
                      <title source="#200|9">shi lin yan yu</title>
                      <note source="#290">(宋)葉夢得撰</note>
                      <note source="#290">(宋)宇文紹奕考異</note>
-                     <author source="#300" key="person_1542"><persName>(宋)葉夢得</persName><persName type="9">ye meng
+                     <author source="#300" key="person_1542"><persName xml:lang="chi">(宋)葉夢得</persName><persName type="9">ye meng
                            de</persName></author>
-                     <author source="#300" key="person_1111"><persName>(宋)宇文紹奕</persName><persName type="9">yu wen
+                     <author source="#300" key="person_1111"><persName xml:lang="chi">(宋)宇文紹奕</persName><persName type="9">yu wen
                            shao yi</persName></author>
                      <note source="#600">光緒三十四年[1908]刊</note>
                   </msItem>
                   <msItem n="2">
-                     <title source="#201">石林燕語校 一卷</title>
+                     <title xml:lang="chi" source="#201">石林燕語校 一卷</title>
                      <title source="#201|9">shi lin yan yu jiao</title>
                      <note source="#291">(民國)葉德輝撰</note>
-                     <author source="#301" key="person_3174"><persName>(民國)葉德輝</persName><persName type="9">ye de
+                     <author source="#301" key="person_3174"><persName xml:lang="chi">(民國)葉德輝</persName><persName type="9">ye de
                            hui</persName></author>
                   </msItem>
                </msContents>

@@ -49,13 +49,13 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">明宮史 五卷</title>
+                     <title xml:lang="chi" source="#200">明宮史 五卷</title>
                      <title source="#200|9">ming gong shi</title>
                      <note source="#290">(明)劉若愚撰</note>
                      <note source="#290">(明)呂毖輯</note>
-                     <author source="#300" key="person_2039"><persName>(明)劉若愚</persName><persName type="9">liu ruo
+                     <author source="#300" key="person_2039"><persName xml:lang="chi">(明)劉若愚</persName><persName type="9">liu ruo
                            yu</persName></author>
-                     <author source="#300" key="person_2071"><persName>(明)呂毖</persName><persName type="9">lu
+                     <author source="#300" key="person_2071"><persName xml:lang="chi">(明)呂毖</persName><persName type="9">lu
                            bi</persName></author>
                   </msItem>
                </msContents>

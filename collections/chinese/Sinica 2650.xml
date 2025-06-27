@@ -49,7 +49,7 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">金剛藥師觀音等經</title>
+                     <title xml:lang="chi" source="#200">金剛藥師觀音等經</title>
                      <title source="#200|9">jin gang yao shi guan yin deng jing</title>
                      <note source="#290">(清)佚名編</note>
                      <note source="#409">清道光十六年[1836]刊本</note>
@@ -58,7 +58,7 @@
                         <title>金剛般若波羅蜜經 一卷</title>
                         <title source="9">jin gang ban ruo bo luo mi jing</title>
                         <note source="290">(姚秦釋)鳩摩羅什譯</note>
-                        <author key="person_925"><persName>(姚秦釋)鳩摩羅什</persName><persName type="9">jiu mo luo
+                        <author key="person_925"><persName xml:lang="chi">(姚秦釋)鳩摩羅什</persName><persName type="9">jiu mo luo
                               shi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140708/12:41:18|odh -->
@@ -70,7 +70,7 @@
                         <title type="variant">藥師經</title>
                         <title source="9" type="variant">yao shi jing</title>
                         <note source="290">(唐釋)玄奘奉詔譯</note>
-                        <author key="person_908"><persName>(唐釋)玄奘</persName><persName type="9">xuan
+                        <author key="person_908"><persName xml:lang="chi">(唐釋)玄奘</persName><persName type="9">xuan
                            zang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140708/12:42:31|odh -->
@@ -82,9 +82,9 @@
                            pin</title>
                         <note source="290">(姚秦釋)鳩摩羅什譯長行</note>
                         <note source="290">(隋釋)闍那崛多譯重頌</note>
-                        <author key="person_925"><persName>(姚秦釋)鳩摩羅什</persName><persName type="9">jiu mo luo
+                        <author key="person_925"><persName xml:lang="chi">(姚秦釋)鳩摩羅什</persName><persName type="9">jiu mo luo
                               shi</persName></author>
-                        <author key="person_6709"><persName>(隋釋)闍那崛多</persName><persName type="9">she na jue
+                        <author key="person_6709"><persName xml:lang="chi">(隋釋)闍那崛多</persName><persName type="9">she na jue
                               duo</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140708/12:48:58|odh -->

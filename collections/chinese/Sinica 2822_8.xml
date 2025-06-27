@@ -49,9 +49,9 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">經學卮言 六卷</title>
+                     <title xml:lang="chi" source="#200">經學卮言 六卷</title>
                      <title source="#200|9">jing xue zhi yan</title>
-                     <author source="#300" key="person_3814"><persName>(清)孔廣森</persName><persName type="9">kong guang
+                     <author source="#300" key="person_3814"><persName xml:lang="chi">(清)孔廣森</persName><persName type="9">kong guang
                            sen</persName></author>
                      <note source="#600">嘉慶癸酉[1813]孔昭虔刊</note>
                   </msItem>

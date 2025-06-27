@@ -46,7 +46,7 @@
                <head>書名: 初學粵音切要 = A Chinese phonetic vocabulary, containing all the most common characters, with their sounds in the Canton dialect<lb/>香港 : 英華書院, 乙卯年[1855]<lb/>線裝1冊([1]+31頁) ; 20.5公分<lb/>By J Chalmers<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">初學粵音切要 = A Chinese phonetic vocabulary, containing all the most common characters, with their sounds in the Canton dialect</title><title source="#200|9">chu xue yue yin qie yao</title><author source="#300" key="person_6804"><persName>Chalmers, John</persName></author><editor source="#420" role="pbl"><persName>英華書院</persName><persName type="9" role="pbl">ying hua shu yuan</persName></editor><note source="#600">By J Chalmers</note></msItem>         
+                  <title xml:lang="chi" source="#200">初學粵音切要 = A Chinese phonetic vocabulary, containing all the most common characters, with their sounds in the Canton dialect</title><title source="#200|9">chu xue yue yin qie yao</title><author source="#300" key="person_6804"><persName xml:lang="chi">Chalmers, John</persName></author><editor source="#420" role="pbl"><persName>英華書院</persName><persName type="9" role="pbl">ying hua shu yuan</persName></editor><note source="#600">By J Chalmers</note></msItem>         
                </msContents>
                <physDesc>
                   

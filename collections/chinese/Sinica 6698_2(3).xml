@@ -49,13 +49,13 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">淮南鴻烈閒詁 二卷</title>
+                     <title xml:lang="chi" source="#200">淮南鴻烈閒詁 二卷</title>
                      <title source="#200|9">huai nan hong lie xian gu</title>
                      <note source="#290">(漢)許慎記</note>
                      <note source="#290">(民國)葉德輝輯</note>
-                     <author source="#300" key="person_6594"><persName>(漢)許慎</persName><persName type="9">xu
+                     <author source="#300" key="person_6594"><persName xml:lang="chi">(漢)許慎</persName><persName type="9">xu
                            shen</persName></author>
-                     <author source="#300" key="person_3174"><persName>(民國)葉德輝</persName><persName type="9">ye de
+                     <author source="#300" key="person_3174"><persName xml:lang="chi">(民國)葉德輝</persName><persName type="9">ye de
                            hui</persName></author>
                      <note source="#600">光緒乙未[1895]刊</note>
                   </msItem>

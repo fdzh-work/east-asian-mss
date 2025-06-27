@@ -46,7 +46,7 @@
                <head>書名: 信德統論<lb/>福州 : 美華書局, 1872<lb/>線裝1冊(19頁) ; 20.1公分<lb/>許播美著<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">信德統論</title><title source="#200|9">xin de tong lun</title><author source="#300" key="person_7177"><persName>許播美</persName><persName type="9">xu bo mei</persName></author><editor source="#420" role="pbl"><persName>美華書局</persName><persName type="9" role="pbl">mei hua shu ju</persName></editor><note source="#600">許播美著</note></msItem>         
+                  <title xml:lang="chi" source="#200">信德統論</title><title source="#200|9">xin de tong lun</title><author source="#300" key="person_7177"><persName xml:lang="chi">許播美</persName><persName type="9">xu bo mei</persName></author><editor source="#420" role="pbl"><persName>美華書局</persName><persName type="9" role="pbl">mei hua shu ju</persName></editor><note source="#600">許播美著</note></msItem>         
                </msContents>
                <physDesc>
                   

@@ -50,13 +50,13 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">春秋左傳 三十卷</title>
+                     <title xml:lang="chi" source="#200">春秋左傳 三十卷</title>
                      <title source="#200|9">chun qiu zuo zhuan</title>
                      <note source="#290">(晉)杜預集解</note>
                      <note source="#290">(唐)陸德明音義</note>
-                     <author source="#300" key="person_2913"><persName>(晉)杜預</persName><persName type="9">du
+                     <author source="#300" key="person_2913"><persName xml:lang="chi">(晉)杜預</persName><persName type="9">du
                            yu</persName></author>
-                     <author source="#300" key="person_854"><persName>(唐)陸德明</persName><persName type="9">lu de
+                     <author source="#300" key="person_854"><persName xml:lang="chi">(唐)陸德明</persName><persName type="9">lu de
                            ming</persName></author>
                   </msItem>
                </msContents>

@@ -46,7 +46,7 @@
                <head>書名: 兄弟相愛<lb/>[Shanghai] : 中國聖教書會 = Chinese Religious Tract Society, [1883]<lb/>Single sheet ; 22.6 x 14.6公分<lb/>By Mrs Randolph<lb/>No.13, Brotherly love<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">兄弟相愛</title><title source="#200|9">xiong di xiang ai</title><title type="variant" source="#230">Brotherly love</title><author source="#300" key="person_7008"><persName>Randolph, mrs</persName></author><editor source="#420" role="pbl"><persName>中國聖教書會 = Chinese Religious Tract Society</persName><persName type="9" role="pbl">zhong guo sheng jiao shu hui</persName></editor><note source="#600">By Mrs Randolph</note><note source="#600">No.13, Brotherly love</note></msItem>         
+                  <title xml:lang="chi" source="#200">兄弟相愛</title><title source="#200|9">xiong di xiang ai</title><title type="variant" source="#230">Brotherly love</title><author source="#300" key="person_7008"><persName xml:lang="chi">Randolph, mrs</persName></author><editor source="#420" role="pbl"><persName>中國聖教書會 = Chinese Religious Tract Society</persName><persName type="9" role="pbl">zhong guo sheng jiao shu hui</persName></editor><note source="#600">By Mrs Randolph</note><note source="#600">No.13, Brotherly love</note></msItem>         
                </msContents>
                <physDesc>
                   

@@ -49,15 +49,15 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">道古堂外集</title>
+                     <title xml:lang="chi" source="#200">道古堂外集</title>
                      <title source="#200|9">dao gu tang wai ji</title>
                      <note source="#290">(清)杭世駿撰</note>
-                     <author source="#300" key="person_4574"><persName>(清)杭世駿</persName><persName type="9">hang shi
+                     <author source="#300" key="person_4574"><persName xml:lang="chi">(清)杭世駿</persName><persName type="9">hang shi
                            jun</persName></author>
                      <msItem n="01">
                         <title>禮經質疑 一卷</title>
                         <title source="9">li jing zhi yi</title>
-                        <author key="person_4574"><persName>(清)杭世駿</persName><persName type="9">hang shi
+                        <author key="person_4574"><persName xml:lang="chi">(清)杭世駿</persName><persName type="9">hang shi
                               jun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180927/00000038|odh -->
@@ -66,7 +66,7 @@
                      <msItem n="02">
                         <title>經史質疑 一卷</title>
                         <title source="9">jing shi zhi yi</title>
-                        <author key="person_4574"><persName>(清)杭世駿</persName><persName type="9">hang shi
+                        <author key="person_4574"><persName xml:lang="chi">(清)杭世駿</persName><persName type="9">hang shi
                               jun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180927/00000039|odh -->
@@ -75,7 +75,7 @@
                      <msItem n="03">
                         <title>石經考異 二卷</title>
                         <title source="9">shi jing kao yi</title>
-                        <author key="person_4574"><persName>(清)杭世駿</persName><persName type="9">hang shi
+                        <author key="person_4574"><persName xml:lang="chi">(清)杭世駿</persName><persName type="9">hang shi
                               jun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180927/00000040|odh -->
@@ -84,7 +84,7 @@
                      <msItem n="04">
                         <title>史記考證 七卷</title>
                         <title source="9">shi ji kao zheng</title>
-                        <author key="person_4574"><persName>(清)杭世駿</persName><persName type="9">hang shi
+                        <author key="person_4574"><persName xml:lang="chi">(清)杭世駿</persName><persName type="9">hang shi
                               jun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180927/00000041|odh -->
@@ -93,7 +93,7 @@
                      <msItem n="05">
                         <title>三國志補註 六卷</title>
                         <title source="9">san guo zhi bu zhu</title>
-                        <author key="person_4574"><persName>(清)杭世駿</persName><persName type="9">hang shi
+                        <author key="person_4574"><persName xml:lang="chi">(清)杭世駿</persName><persName type="9">hang shi
                               jun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180927/00000042|odh -->
@@ -102,7 +102,7 @@
                      <msItem n="06">
                         <title>晉書補傳贊 一卷</title>
                         <title source="9">jin shu bu zhuan zhi</title>
-                        <author key="person_4574"><persName>(清)杭世駿</persName><persName type="9">hang shi
+                        <author key="person_4574"><persName xml:lang="chi">(清)杭世駿</persName><persName type="9">hang shi
                               jun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180927/00000043|odh -->
@@ -111,7 +111,7 @@
                      <msItem n="07">
                         <title>諸史然疑 一卷</title>
                         <title source="9">zhu shi ran yi</title>
-                        <author key="person_4574"><persName>(清)杭世駿</persName><persName type="9">hang shi
+                        <author key="person_4574"><persName xml:lang="chi">(清)杭世駿</persName><persName type="9">hang shi
                               jun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180927/00000044|odh -->
@@ -120,7 +120,7 @@
                      <msItem n="08">
                         <title>續方言 一卷</title>
                         <title source="9">xu fang yan</title>
-                        <author key="person_4574"><persName>(清)杭世駿</persName><persName type="9">hang shi
+                        <author key="person_4574"><persName xml:lang="chi">(清)杭世駿</persName><persName type="9">hang shi
                               jun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180927/00000045|odh -->
@@ -129,7 +129,7 @@
                      <msItem n="09">
                         <title>榕城詩話 三卷</title>
                         <title source="9">rong cheng shi hua</title>
-                        <author key="person_4574"><persName>(清)杭世駿</persName><persName type="9">hang shi
+                        <author key="person_4574"><persName xml:lang="chi">(清)杭世駿</persName><persName type="9">hang shi
                               jun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180927/00000046|odh -->
@@ -138,7 +138,7 @@
                      <msItem n="10">
                         <title>漢書蒙拾 三卷</title>
                         <title source="9">han shu meng shi</title>
-                        <author key="person_4574"><persName>(清)杭世駿</persName><persName type="9">hang shi
+                        <author key="person_4574"><persName xml:lang="chi">(清)杭世駿</persName><persName type="9">hang shi
                               jun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180927/00000047|odh -->
@@ -147,7 +147,7 @@
                      <msItem n="11">
                         <title>後漢書蒙拾 二卷</title>
                         <title source="9">hou han shu meng shi</title>
-                        <author key="person_4574"><persName>(清)杭世駿</persName><persName type="9">hang shi
+                        <author key="person_4574"><persName xml:lang="chi">(清)杭世駿</persName><persName type="9">hang shi
                               jun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180927/00000048|odh -->
@@ -156,7 +156,7 @@
                      <msItem n="12">
                         <title>文選課虚 四卷</title>
                         <title source="9">wen xuan ke xu</title>
-                        <author key="person_4574"><persName>(清)杭世駿</persName><persName type="9">hang shi
+                        <author key="person_4574"><persName xml:lang="chi">(清)杭世駿</persName><persName type="9">hang shi
                               jun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180927/00000049|odh -->

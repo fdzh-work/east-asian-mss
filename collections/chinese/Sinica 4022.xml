@@ -46,7 +46,7 @@
                <head>書名: 兩漢刊誤補遺 十卷附錄一卷 / (宋)吳仁傑撰<lb/>清同治中真州張氏廣東刊《榕園叢書》乙集本<lb/>線裝2冊 ; 20公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">兩漢刊誤補遺 十卷附錄一卷</title><title source="#200|9">liang han kan wu bu yi</title><note source="#290">(宋)吳仁傑撰</note><author source="#300" key="person_1012"><persName>(宋)吳仁傑</persName><persName type="9">wu ren jie</persName></author><note source="#409">清同治中真州張氏廣東刊《榕園叢書》乙集本</note><editor source="#446" role="pbl"><persName>榕園叢書</persName><persName type="9" role="pbl">rong yuan cong shu</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">兩漢刊誤補遺 十卷附錄一卷</title><title source="#200|9">liang han kan wu bu yi</title><note source="#290">(宋)吳仁傑撰</note><author source="#300" key="person_1012"><persName xml:lang="chi">(宋)吳仁傑</persName><persName type="9">wu ren jie</persName></author><note source="#409">清同治中真州張氏廣東刊《榕園叢書》乙集本</note><editor source="#446" role="pbl"><persName>榕園叢書</persName><persName type="9" role="pbl">rong yuan cong shu</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

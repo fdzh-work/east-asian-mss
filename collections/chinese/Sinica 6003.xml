@@ -46,7 +46,7 @@
                <head>書名: 北京榮寶齋詩牋譜 二卷 / 榮寶齋編<lb/>1951年北京榮寶齋刊彩色套印三版本<lb/>線裝2冊 : 圖 ; 32公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">北京榮寶齋詩牋譜 二卷</title><title source="#200|9">bei jing rong bao zhai shi jian pu</title><note source="#290">榮寶齋編</note><author><persName>榮寶齋</persName><persName type="9">rong bao zhai</persName></author><note source="#409">1951年北京榮寶齋刊彩色套印三版本</note><editor source="#440" role="pbl"><persName>榮寶齋</persName><persName type="9" role="pbl">rong bao zhai</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">北京榮寶齋詩牋譜 二卷</title><title source="#200|9">bei jing rong bao zhai shi jian pu</title><note source="#290">榮寶齋編</note><author><persName xml:lang="chi">榮寶齋</persName><persName type="9">rong bao zhai</persName></author><note source="#409">1951年北京榮寶齋刊彩色套印三版本</note><editor source="#440" role="pbl"><persName>榮寶齋</persName><persName type="9" role="pbl">rong bao zhai</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

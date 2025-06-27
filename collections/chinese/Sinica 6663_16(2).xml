@@ -49,17 +49,17 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">蠕範 八卷</title>
+                     <title xml:lang="chi" source="#200">蠕範 八卷</title>
                      <title source="#200|9">ruan fan</title>
                      <note source="#290">(清)李元撰</note>
-                     <author source="#300" key="person_4452"><persName>(清)李元</persName><persName type="9">li
+                     <author source="#300" key="person_4452"><persName xml:lang="chi">(清)李元</persName><persName type="9">li
                            yuan</persName></author>
                   </msItem>
                   <msItem n="2">
-                     <title source="#201">蠕範劄記 八卷</title>
+                     <title xml:lang="chi" source="#201">蠕範劄記 八卷</title>
                      <title source="#201|9">ruan fan zha ji</title>
                      <note source="#291">(清)王家鳳撰</note>
-                     <author source="#301" key="person_5053"><persName>(清)王家鳳</persName><persName type="9">wang jia
+                     <author source="#301" key="person_5053"><persName xml:lang="chi">(清)王家鳳</persName><persName type="9">wang jia
                            feng</persName></author>
                   </msItem>
                </msContents>

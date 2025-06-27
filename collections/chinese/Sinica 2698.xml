@@ -49,17 +49,17 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">十三經讀本</title>
+                     <title xml:lang="chi" source="#200">十三經讀本</title>
                      <title source="#200|9">shi san jing du ben</title>
                      <note source="#290">(民國)唐文治編</note>
-                     <author source="#300" key="person_3086"><persName>(民國)唐文治</persName><persName type="9">tang wen
+                     <author source="#300" key="person_3086"><persName xml:lang="chi">(民國)唐文治</persName><persName type="9">tang wen
                            zhi</persName></author>
                      <note source="#409">民國甲子[1924]吳江施肇曾醒園刊本</note>
                      <msItem n="1">
                         <title>十三經提綱 十三卷</title>
                         <title source="9">shi san jing ti gang</title>
                         <note source="290">(民國)唐文治撰</note>
-                        <author key="person_3086"><persName>(民國)唐文治</persName><persName type="9">tang wen
+                        <author key="person_3086"><persName xml:lang="chi">(民國)唐文治</persName><persName type="9">tang wen
                               zhi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140910/10:57:42|odh -->
@@ -70,7 +70,7 @@
                         <title>周易讀本 四卷</title>
                         <title source="9">zhou yi du ben</title>
                         <note source="290">(宋)朱熹本義</note>
-                        <author key="person_1250"><persName>(宋)朱熹</persName><persName type="9">zhu
+                        <author key="person_1250"><persName xml:lang="chi">(宋)朱熹</persName><persName type="9">zhu
                            xi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140910/11:00:05|odh -->
@@ -78,7 +78,7 @@
                         <msItem n="1=附">
                            <title>周易故訓訂 一卷</title>
                            <title source="9">zhou yi gu xun ding</title>
-                           <author key="person_6353"><persName>(清)黃以周</persName><persName type="9">huang yi
+                           <author key="person_6353"><persName xml:lang="chi">(清)黃以周</persName><persName type="9">huang yi
                                  zhou</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20140910/11:01:19|odh -->
@@ -88,7 +88,7 @@
                         <msItem n="2=附">
                            <title>周易注疏賸本 一卷</title>
                            <title source="9">zhou yi zhu shu sheng ben</title>
-                           <author key="person_6353"><persName>(清)黃以周</persName><persName type="9">huang yi
+                           <author key="person_6353"><persName xml:lang="chi">(清)黃以周</persName><persName type="9">huang yi
                                  zhou</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20140910/11:02:29|odh -->
@@ -102,13 +102,13 @@
                            <note source="290">(漢)馬融, (漢)鄭玄注</note>
                            <note source="290">(宋)王應麟撰集</note>
                            <note source="290">(清)孫星衍補集</note>
-                           <author key="person_6621"><persName>(漢)馬融</persName><persName type="9">ma
+                           <author key="person_6621"><persName xml:lang="chi">(漢)馬融</persName><persName type="9">ma
                               rong</persName></author>
-                           <author key="person_6609"><persName>(漢)鄭玄</persName><persName type="9">zheng
+                           <author key="person_6609"><persName xml:lang="chi">(漢)鄭玄</persName><persName type="9">zheng
                                  xuan</persName></author>
-                           <author key="person_1423"><persName>(宋)王應麟</persName><persName type="9">wang ying
+                           <author key="person_1423"><persName xml:lang="chi">(宋)王應麟</persName><persName type="9">wang ying
                                  lin</persName></author>
-                           <author key="person_3855"><persName>(清)孫星衍</persName><persName type="9">sun xing
+                           <author key="person_3855"><persName xml:lang="chi">(清)孫星衍</persName><persName type="9">sun xing
                                  yan</persName></author>
                         </msItem>
                         <msItem n="2">
@@ -116,9 +116,9 @@
                            <title source="9">shang shu yi wen</title>
                            <note source="291">(清)江聲撰集</note>
                            <note source="291">(清)孫星衍補訂</note>
-                           <author key="person_4772"><persName>(清)江聲</persName><persName type="9">jiang
+                           <author key="person_4772"><persName xml:lang="chi">(清)江聲</persName><persName type="9">jiang
                                  sheng</persName></author>
-                           <author key="person_3855"><persName>(清)孫星衍</persName><persName type="9">sun xing
+                           <author key="person_3855"><persName xml:lang="chi">(清)孫星衍</persName><persName type="9">sun xing
                                  yan</persName></author>
                         </msItem>
                         <!--Unused allegro fields-->
@@ -127,7 +127,7 @@
                         <msItem n="1=附">
                            <title>尚書約注 四卷</title>
                            <title source="9">shang shu yue zhu</title>
-                           <author key="person_3285"><persName>(清)任啟運</persName><persName type="9">ren qi
+                           <author key="person_3285"><persName xml:lang="chi">(清)任啟運</persName><persName type="9">ren qi
                                  yun</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20140910/11:20:16|odh -->
@@ -137,7 +137,7 @@
                         <msItem n="2=附">
                            <title>洪範大義 三卷</title>
                            <title source="9">hong fan da yi</title>
-                           <author key="person_3086"><persName>(民國)唐文治</persName><persName type="9">tang wen
+                           <author key="person_3086"><persName xml:lang="chi">(民國)唐文治</persName><persName type="9">tang wen
                                  zhi</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20140910/11:21:56|odh -->
@@ -150,11 +150,11 @@
                         <note source="290">(漢)毛亨傳</note>
                         <note source="290">(漢)鄭玄箋</note>
                         <note source="290">(唐)陸德明音義</note>
-                        <author key="person_6557"><persName>(漢)毛亨</persName><persName type="9">mao
+                        <author key="person_6557"><persName xml:lang="chi">(漢)毛亨</persName><persName type="9">mao
                            heng</persName></author>
-                        <author key="person_6609"><persName>(漢)鄭玄</persName><persName type="9">zheng
+                        <author key="person_6609"><persName xml:lang="chi">(漢)鄭玄</persName><persName type="9">zheng
                            xuan</persName></author>
-                        <author key="person_854"><persName>(唐)陸德明</persName><persName type="9">lu de
+                        <author key="person_854"><persName xml:lang="chi">(唐)陸德明</persName><persName type="9">lu de
                            ming</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140910/11:25:01|odh -->
@@ -162,7 +162,7 @@
                         <msItem n="1=附">
                            <title>陳東塾先生讀詩日錄 一卷</title>
                            <title source="9">chen dong shu xiang sheng du shi ri lu</title>
-                           <author key="person_6075"><persName>(清)陳澧</persName><persName type="9">chen
+                           <author key="person_6075"><persName xml:lang="chi">(清)陳澧</persName><persName type="9">chen
                               li</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20140910/12:18:08|odh -->
@@ -174,9 +174,9 @@
                         <title source="9">zhou li du ben</title>
                         <note source="290">(漢)鄭玄注</note>
                         <note source="290">(唐)陸德明音義</note>
-                        <author key="person_6609"><persName>(漢)鄭玄</persName><persName type="9">zheng
+                        <author key="person_6609"><persName xml:lang="chi">(漢)鄭玄</persName><persName type="9">zheng
                            xuan</persName></author>
-                        <author key="person_854"><persName>(唐)陸德明</persName><persName type="9">lu de
+                        <author key="person_854"><persName xml:lang="chi">(唐)陸德明</persName><persName type="9">lu de
                            ming</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140910/12:22:27|odh -->
@@ -188,9 +188,9 @@
                            <title source="9">yi li du ben</title>
                            <note source="290">(漢)鄭玄注</note>
                            <note source="290">(清)張爾岐句讀</note>
-                           <author key="person_6609"><persName>(漢)鄭玄</persName><persName type="9">zheng
+                           <author key="person_6609"><persName xml:lang="chi">(漢)鄭玄</persName><persName type="9">zheng
                                  xuan</persName></author>
-                           <author key="person_4070"><persName>(清)張爾岐</persName><persName type="9">zhang er
+                           <author key="person_4070"><persName xml:lang="chi">(清)張爾岐</persName><persName type="9">zhang er
                                  qi</persName></author>
                         </msItem>
                         <msItem n="2">
@@ -199,7 +199,7 @@
                            <title>儀禮石本誤字 一卷</title>
                            <title type="9">yi li shi ben wu zi</title>
                            <note source="#291">(清)張爾岐撰</note>
-                           <author key="person_4070"><persName>(清)張爾岐</persName><persName type="9">zhang er
+                           <author key="person_4070"><persName xml:lang="chi">(清)張爾岐</persName><persName type="9">zhang er
                                  qi</persName></author>
                         </msItem>
                         <!--Unused allegro fields-->
@@ -211,7 +211,7 @@
                         <title>禮記讀本 二十卷</title>
                         <title source="9">li ji du ben</title>
                         <note source="290">(漢)鄭玄注</note>
-                        <author key="person_6609"><persName>(漢)鄭玄</persName><persName type="9">zheng
+                        <author key="person_6609"><persName xml:lang="chi">(漢)鄭玄</persName><persName type="9">zheng
                            xuan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140910/12:33:20|odh -->
@@ -219,7 +219,7 @@
                         <msItem n="1=附">
                            <title>撫本禮記鄭注考異 二卷</title>
                            <title source="9">fu ben li ji zheng zhu kao yi</title>
-                           <author key="person_4032"><persName>(清)張敦仁</persName><persName type="9">zhang dun
+                           <author key="person_4032"><persName xml:lang="chi">(清)張敦仁</persName><persName type="9">zhang dun
                                  ren</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20140910/12:34:44|odh -->
@@ -229,7 +229,7 @@
                         <msItem n="2=附">
                            <title>禮記經注校證 二卷</title>
                            <title source="9">li ji jing zhu jiao zheng</title>
-                           <author key="person_3158"><persName>(民國)王祖畬</persName><persName type="9">wang zu
+                           <author key="person_3158"><persName xml:lang="chi">(民國)王祖畬</persName><persName type="9">wang zu
                                  yu</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20140910/14:06:40|odh -->
@@ -239,7 +239,7 @@
                         <msItem n="3=附">
                            <title>大學 一卷</title>
                            <title source="9">da xue</title>
-                           <author key="person_1250"><persName>(宋)朱熹</persName><persName type="9">zhu
+                           <author key="person_1250"><persName xml:lang="chi">(宋)朱熹</persName><persName type="9">zhu
                               xi</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20140910/14:07:43|odh -->
@@ -249,7 +249,7 @@
                         <msItem n="4=附">
                            <title>中庸 一卷</title>
                            <title source="9">zhong yong</title>
-                           <author key="person_1250"><persName>(宋)朱熹</persName><persName type="9">zhu
+                           <author key="person_1250"><persName xml:lang="chi">(宋)朱熹</persName><persName type="9">zhu
                               xi</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20140910/14:08:22|odh -->
@@ -259,7 +259,7 @@
                         <msItem n="5=附">
                            <title>大學大義 一卷</title>
                            <title source="9">da xue da yi</title>
-                           <author key="person_3086"><persName>(民國)唐文治</persName><persName type="9">tang wen
+                           <author key="person_3086"><persName xml:lang="chi">(民國)唐文治</persName><persName type="9">tang wen
                                  zhi</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20140910/14:09:39|odh -->
@@ -269,7 +269,7 @@
                         <msItem n="6=附">
                            <title>中庸大義 一卷</title>
                            <title source="9">zhong yong</title>
-                           <author key="person_3086"><persName>(民國)唐文治</persName><persName type="9">tang wen
+                           <author key="person_3086"><persName xml:lang="chi">(民國)唐文治</persName><persName type="9">tang wen
                                  zhi</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20140910/14:10:07|odh -->
@@ -280,7 +280,7 @@
                         <title>春秋左傳讀本 三十卷</title>
                         <title source="9">chun qiu zuo zhuan du ben</title>
                         <note source="290">(清)英和等撰</note>
-                        <author key="person_5407"><persName>(清)英和</persName><persName type="9">ying
+                        <author key="person_5407"><persName xml:lang="chi">(清)英和</persName><persName type="9">ying
                            he</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140910/14:11:59|odh -->
@@ -291,9 +291,9 @@
                         <title source="9">chun qiu gong yang zhuan du ben</title>
                         <note source="290">(漢)何休解詁</note>
                         <note source="290">(唐)陸德明音義</note>
-                        <author key="person_6482"><persName>(漢)何休</persName><persName type="9">he
+                        <author key="person_6482"><persName xml:lang="chi">(漢)何休</persName><persName type="9">he
                            xiu</persName></author>
-                        <author key="person_854"><persName>(唐)陸德明</persName><persName type="9">lu de
+                        <author key="person_854"><persName xml:lang="chi">(唐)陸德明</persName><persName type="9">lu de
                            ming</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140910/14:13:52|odh -->
@@ -302,7 +302,7 @@
                            <title>重刊宋紹熙公羊傳注附音本校記 一卷</title>
                            <title source="9">chong kan song shao xi gong yang zhuan zhu fu yin ben
                               jiao ji</title>
-                           <author key="person_6319"><persName>(清)魏彥</persName><persName type="9">wei
+                           <author key="person_6319"><persName xml:lang="chi">(清)魏彥</persName><persName type="9">wei
                               yan</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20140910/14:17:34|odh -->
@@ -314,9 +314,9 @@
                         <title source="9">chun qiu gu liang zhuan du ben</title>
                         <note source="290">(晉)范甯集解</note>
                         <note source="290">(唐)陸德明音義</note>
-                        <author key="person_2954"><persName>(晉)范寧</persName><persName type="9">fan
+                        <author key="person_2954"><persName xml:lang="chi">(晉)范寧</persName><persName type="9">fan
                            ning</persName></author>
-                        <author key="person_854"><persName>(唐)陸德明</persName><persName type="9">lu de
+                        <author key="person_854"><persName xml:lang="chi">(唐)陸德明</persName><persName type="9">lu de
                            ming</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140910/14:24:34|odh -->
@@ -325,7 +325,7 @@
                            <title>余仁仲萬卷堂穀梁傳考異 一卷</title>
                            <title source="9">yu ren zhong wan juan tang gu liang zhuan kao
                               yi</title>
-                           <author key="person_4671"><persName>(清)楊守敬</persName><persName type="9">yang shou
+                           <author key="person_4671"><persName xml:lang="chi">(清)楊守敬</persName><persName type="9">yang shou
                                  jing</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20140910/14:27:44|odh -->
@@ -337,14 +337,14 @@
                            <title>論語讀本 十卷</title>
                            <title source="9">lun yu du ben</title>
                            <note source="290">(宋)朱熹集注</note>
-                           <author key="person_1250"><persName>(宋)朱熹</persName><persName type="9">zhu
+                           <author key="person_1250"><persName xml:lang="chi">(宋)朱熹</persName><persName type="9">zhu
                               xi</persName></author>
                         </msItem>
                         <msItem n="2">
                            <title>論語集注校語 一卷</title>
                            <title type="9">lun yu ji zhu jiao yu</title>
                            <note source="#291">(民國)王祖畬撰</note>
-                           <author key="person_3158"><persName>(民國)王祖畬</persName><persName type="9">wang zu
+                           <author key="person_3158"><persName xml:lang="chi">(民國)王祖畬</persName><persName type="9">wang zu
                                  yu</persName></author>
                         </msItem>
                         <!--Unused allegro fields-->
@@ -354,7 +354,7 @@
                         <msItem n="1">
                            <title>論語大義定本 二十卷</title>
                            <title source="9">lun yu da yi ding ben</title>
-                           <author key="person_3086"><persName>(民國)唐文治</persName><persName type="9">tang wen
+                           <author key="person_3086"><persName xml:lang="chi">(民國)唐文治</persName><persName type="9">tang wen
                                  zhi</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20140910/15:05:13|odh -->
@@ -364,7 +364,7 @@
                         <msItem n="1=附">
                            <title>論語大義定本 二十卷</title>
                            <title source="9">lun yu da yi ding ben</title>
-                           <author key="person_3086"><persName>(民國)唐文治</persName><persName type="9">tang wen
+                           <author key="person_3086"><persName xml:lang="chi">(民國)唐文治</persName><persName type="9">tang wen
                                  zhi</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20140910/15:05:24|odh -->
@@ -375,7 +375,7 @@
                         <title>孝經讀本 四卷</title>
                         <title source="9">xiao jing xiao jing du ben</title>
                         <note source="290">(明)黃道周撰</note>
-                        <author key="person_2827"><persName>(明)黃道周</persName><persName type="9">huang dao
+                        <author key="person_2827"><persName xml:lang="chi">(明)黃道周</persName><persName type="9">huang dao
                               zhou</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140910/15:06:48|odh -->
@@ -383,7 +383,7 @@
                         <msItem n="1=附">
                            <title>孝敬大義 一卷附錄一卷</title>
                            <title source="9">xiao jing da yi</title>
-                           <author key="person_3086"><persName>(民國)唐文治</persName><persName type="9">tang wen
+                           <author key="person_3086"><persName xml:lang="chi">(民國)唐文治</persName><persName type="9">tang wen
                                  zhi</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20140910/15:08:17|odh -->
@@ -396,11 +396,11 @@
                         <note source="290">(晉)郭璞注</note>
                         <note source="290">(宋)邢昺疏</note>
                         <note source="290">(唐)陸德明音義</note>
-                        <author key="person_2985"><persName>(晉)郭璞</persName><persName type="9">guo
+                        <author key="person_2985"><persName xml:lang="chi">(晉)郭璞</persName><persName type="9">guo
                            pu</persName></author>
-                        <author key="person_1681"><persName>(宋)邢昺</persName><persName type="9">xing
+                        <author key="person_1681"><persName xml:lang="chi">(宋)邢昺</persName><persName type="9">xing
                            bing</persName></author>
-                        <author key="person_854"><persName>(唐)陸德明</persName><persName type="9">lu de
+                        <author key="person_854"><persName xml:lang="chi">(唐)陸德明</persName><persName type="9">lu de
                            ming</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140910/15:10:33|odh -->
@@ -411,14 +411,14 @@
                            <title>孟子讀本 十四卷</title>
                            <title source="9">meng zi du ben</title>
                            <note source="290">(宋)朱熹集注</note>
-                           <author key="person_1250"><persName>(宋)朱熹</persName><persName type="9">zhu
+                           <author key="person_1250"><persName xml:lang="chi">(宋)朱熹</persName><persName type="9">zhu
                               xi</persName></author>
                         </msItem>
                         <msItem n="2">
                            <title>孟子集注校語 一卷</title>
                            <title type="9">meng zi ji zhu jiao yu</title>
                            <note source="#291">(民國)王祖畬撰</note>
-                           <author key="person_3158"><persName>(民國)王祖畬</persName><persName type="9">wang zu
+                           <author key="person_3158"><persName xml:lang="chi">(民國)王祖畬</persName><persName type="9">wang zu
                                  yu</persName></author>
                         </msItem>
                         <!--Unused allegro fields-->
@@ -427,7 +427,7 @@
                         <msItem n="1=附">
                            <title>讀孟隨筆 二卷</title>
                            <title source="9">du meng sui bi</title>
-                           <author key="person_3158"><persName>(民國)王祖畬</persName><persName type="9">wang zu
+                           <author key="person_3158"><persName xml:lang="chi">(民國)王祖畬</persName><persName type="9">wang zu
                                  yu</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20140910/15:14:32|odh -->
@@ -437,7 +437,7 @@
                         <msItem n="2=附">
                            <title>孟子大義 一卷</title>
                            <title source="9">meng zi da yi</title>
-                           <author key="person_3086"><persName>(民國)唐文治</persName><persName type="9">tang wen
+                           <author key="person_3086"><persName xml:lang="chi">(民國)唐文治</persName><persName type="9">tang wen
                                  zhi</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20140910/15:16:19|odh -->
@@ -449,7 +449,7 @@
                         <title>十三經讀本評點劄記 四十五卷</title>
                         <title source="9">shi san jing du ben ping dian zha ji</title>
                         <note source="290">(民國)唐文治輯</note>
-                        <author key="person_3086"><persName>(民國)唐文治</persName><persName type="9">tang wen
+                        <author key="person_3086"><persName xml:lang="chi">(民國)唐文治</persName><persName type="9">tang wen
                               zhi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140910/15:18:27|odh -->

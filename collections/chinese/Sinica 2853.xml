@@ -49,10 +49,10 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">敬躋堂經解</title>
+                     <title xml:lang="chi" source="#200">敬躋堂經解</title>
                      <title source="#200|9">jing ji tang jing jie</title>
                      <note source="#290">(清)徐璈編</note>
-                     <author source="#300" key="person_4218"><persName>(清)徐璈</persName><persName type="9">xu
+                     <author source="#300" key="person_4218"><persName xml:lang="chi">(清)徐璈</persName><persName type="9">xu
                            ao</persName></author>
                      <note source="#409">民國辛巳[1941]北京古學院刊1986年北京中國書店重印殘損版以油印配補</note>
                      <editor source="#440" role="pbl"><persName>北京古學院</persName><persName type="9" role="pbl">bei jing gu xue yuan</persName></editor>
@@ -61,7 +61,7 @@
                         <title>四書拾義 五卷</title>
                         <title source="9">si shu shi yi</title>
                         <note source="290">(清)胡紹勳撰</note>
-                        <author key="person_5385"><persName>(清)胡紹勳</persName><persName type="9">hu shao
+                        <author key="person_5385"><persName xml:lang="chi">(清)胡紹勳</persName><persName type="9">hu shao
                            xun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150107/13:38:45|odh -->
@@ -71,7 +71,7 @@
                         <title>儀禮古今文疏證 二卷</title>
                         <title source="9">yi li gu jin wen shu zheng</title>
                         <note source="290">(清)宋世犖撰</note>
-                        <author key="person_3886"><persName>(清)宋世犖</persName><persName type="9">song shi
+                        <author key="person_3886"><persName xml:lang="chi">(清)宋世犖</persName><persName type="9">song shi
                               luo</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150107/13:40:07|odh -->
@@ -81,7 +81,7 @@
                         <title>周禮故書疏證 六卷</title>
                         <title source="9">zhou li gu shu shu zheng</title>
                         <note source="290">(清)宋世犖撰</note>
-                        <author key="person_3886"><persName>(清)宋世犖</persName><persName type="9">song shi
+                        <author key="person_3886"><persName xml:lang="chi">(清)宋世犖</persName><persName type="9">song shi
                               luo</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150107/13:40:37|odh -->
@@ -91,7 +91,7 @@
                         <title>詩經廣詁 三十卷</title>
                         <title source="9">shi jing guang gu</title>
                         <note source="290">(清)徐璈撰</note>
-                        <author key="person_4218"><persName>(清)徐璈</persName><persName type="9">xu
+                        <author key="person_4218"><persName xml:lang="chi">(清)徐璈</persName><persName type="9">xu
                            ao</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150107/13:42:04|odh -->

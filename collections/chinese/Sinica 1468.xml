@@ -46,7 +46,7 @@
                <head>書名: 真理之教 / 孝纂<lb/>[Macao] : 澳門書院, 道光貳拾年[1840]<lb/>線裝1冊(9頁) : 地圖 ; 20.7公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">真理之教</title><title source="#200|9">zhen li zhi jiao</title><note source="#290">孝纂</note><author source="#300" key="person_7016"><persName>Roberts, Issachar Jacox</persName></author><editor source="#420" role="pbl"><persName>澳門書院</persName><persName type="9" role="pbl">ao men shu yuan</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">真理之教</title><title source="#200|9">zhen li zhi jiao</title><note source="#290">孝纂</note><author source="#300" key="person_7016"><persName xml:lang="chi">Roberts, Issachar Jacox</persName></author><editor source="#420" role="pbl"><persName>澳門書院</persName><persName type="9" role="pbl">ao men shu yuan</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

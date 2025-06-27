@@ -46,7 +46,7 @@
                <head>書名: 營兵信主 / 福音堂李修善依英文繹譯<lb/>漢鎮 : 聖教書局, 光緒十八年[1892]<lb/>毛裝1冊(6頁) : 圖 ; 19.6公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">營兵信主</title><title source="#200|9">ying bing xin zhu</title><note source="#290">福音堂李修善依英文繹譯</note><author source="#300" key="person_6889"><persName>Hill, David</persName></author><editor source="#420" role="pbl"><persName>聖教書局</persName><persName type="9" role="pbl">sheng jiao shu ju</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">營兵信主</title><title source="#200|9">ying bing xin zhu</title><note source="#290">福音堂李修善依英文繹譯</note><author source="#300" key="person_6889"><persName xml:lang="chi">Hill, David</persName></author><editor source="#420" role="pbl"><persName>聖教書局</persName><persName type="9" role="pbl">sheng jiao shu ju</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

@@ -50,16 +50,16 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">王隱晉書 一卷</title>
+                     <title xml:lang="chi" source="#200">王隱晉書 一卷</title>
                      <title source="#200|9">wang yin jin shu</title>
-                     <title source="#200">附 王隱晉書地道記 一卷</title>
+                     <title xml:lang="chi" source="#200">附 王隱晉書地道記 一卷</title>
                      <title source="#200|9">wang yin jin shu di dao ji</title>
                      <title type="variant" source="#230">晉書</title>
                      <title source="#230|9" type="variant">jin shu</title>
                      <title type="variant" source="#230">晉書地道記</title>
                      <title source="#230|9" type="variant">jin shu di dao ji</title>
                      <note source="#290">(晉)王隱撰</note>
-                     <author source="#300" key="person_2940"><persName>(晉)王隱</persName><persName type="9">wang
+                     <author source="#300" key="person_2940"><persName xml:lang="chi">(晉)王隱</persName><persName type="9">wang
                            yin</persName></author>
                   </msItem>
                </msContents>

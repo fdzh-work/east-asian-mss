@@ -46,7 +46,7 @@
                <head>書名: 一片冰心在玉壺<lb/>廣州 ; 香港 : 歐家全藥房 ; 香港 : 南歌出版社[印行], [1920或1930年代?]<lb/>平裝1冊(16頁) ; 19公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">一片冰心在玉壺</title><title source="#200|9">yi pian bing xin zai yu hu</title><editor source="#420" role="pbl"><persName>歐家全藥房</persName><persName type="9" role="pbl">ou jia quan yao fang</persName></editor><editor source="#421" role="pbl"><persName>南歌出版社</persName><persName type="9" role="pbl">nan ge chu ban she</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">一片冰心在玉壺</title><title source="#200|9">yi pian bing xin zai yu hu</title><editor source="#420" role="pbl"><persName>歐家全藥房</persName><persName type="9" role="pbl">ou jia quan yao fang</persName></editor><editor source="#421" role="pbl"><persName>南歌出版社</persName><persName type="9" role="pbl">nan ge chu ban she</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

@@ -49,19 +49,19 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">二程全書 五十一卷</title>
+                     <title xml:lang="chi" source="#200">二程全書 五十一卷</title>
                      <title source="#200|9">er cheng quan shu</title>
                      <note source="#290">(宋)程顥, (宋)程頤撰</note>
-                     <author source="#300" key="person_1492"><persName>(宋)程顥</persName><persName type="9">cheng
+                     <author source="#300" key="person_1492"><persName xml:lang="chi">(宋)程顥</persName><persName type="9">cheng
                            hao</persName></author>
-                     <author source="#300" key="person_1491"><persName>(宋)程頤</persName><persName type="9">cheng
+                     <author source="#300" key="person_1491"><persName xml:lang="chi">(宋)程頤</persName><persName type="9">cheng
                            yi</persName></author>
                      <note source="#409">清康熙二十五年[1686]程湛重刊本</note>
                      <msItem n="1">
                         <title>程氏遺書 二十五卷</title>
                         <title source="9">cheng shi yi shu</title>
                         <note source="290">(宋)朱熹編</note>
-                        <author key="person_1250"><persName>(宋)朱熹</persName><persName type="9">zhu
+                        <author key="person_1250"><persName xml:lang="chi">(宋)朱熹</persName><persName type="9">zhu
                            xi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150220/16:55:05|odh -->
@@ -71,7 +71,7 @@
                         <title>程氏外書 十二卷</title>
                         <title source="9">cheng shi wai shu</title>
                         <note source="290">(宋)朱熹編</note>
-                        <author key="person_1250"><persName>(宋)朱熹</persName><persName type="9">zhu
+                        <author key="person_1250"><persName xml:lang="chi">(宋)朱熹</persName><persName type="9">zhu
                            xi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150220/16:55:33|odh -->
@@ -81,7 +81,7 @@
                         <title>明道文集 四卷附錄一卷</title>
                         <title source="9">ming dao wen ji</title>
                         <note source="290">(宋)程顥撰</note>
-                        <author key="person_1492"><persName>(宋)程顥</persName><persName type="9">cheng
+                        <author key="person_1492"><persName xml:lang="chi">(宋)程顥</persName><persName type="9">cheng
                            hao</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150220/16:56:26|odh -->
@@ -91,7 +91,7 @@
                         <title>伊川文集 七卷附錄一卷續附錄一卷</title>
                         <title source="9">yi chuan wen ji</title>
                         <note source="290">(宋)程頤撰</note>
-                        <author key="person_1491"><persName>(宋)程頤</persName><persName type="9">cheng
+                        <author key="person_1491"><persName xml:lang="chi">(宋)程頤</persName><persName type="9">cheng
                            yi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20150220/16:57:43|odh -->

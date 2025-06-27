@@ -47,10 +47,10 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">子彙</title>
+                     <title xml:lang="chi" source="#200">子彙</title>
                      <title source="#200|9">zi hui</title>
                      <note source="#290">(明)周子義等輯</note>
-                     <author source="#300" key="person_2079"><persName>(明)周子義</persName><persName type="9">zhou zi
+                     <author source="#300" key="person_2079"><persName xml:lang="chi">(明)周子義</persName><persName type="9">zhou zi
                            yi</persName></author>
                      <note source="#409">民國二十六年[1937]上海商務印書館影印明萬曆中刊本</note>
                      <editor source="#440" role="pbl"><persName>商務印書館</persName><persName type="9" role="pbl">shang wu yin shu guan</persName></editor>

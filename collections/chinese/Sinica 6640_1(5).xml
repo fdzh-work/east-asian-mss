@@ -49,13 +49,13 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">元和郡縣圖志闕卷逸文 三卷</title>
+                     <title xml:lang="chi" source="#200">元和郡縣圖志闕卷逸文 三卷</title>
                      <title source="#200|9">yuan he jun xian tu zhi que juan yi wen</title>
                      <note source="#290">(唐)李吉甫撰</note>
                      <note source="#290">(清)繆荃孫輯</note>
-                     <author source="#300" key="person_669"><persName>(唐)李吉甫</persName><persName type="9">li ji
+                     <author source="#300" key="person_669"><persName xml:lang="chi">(唐)李吉甫</persName><persName type="9">li ji
                            fu</persName></author>
-                     <author source="#300" key="person_5321"><persName>(清)繆荃孫</persName><persName type="9">miao quan
+                     <author source="#300" key="person_5321"><persName xml:lang="chi">(清)繆荃孫</persName><persName type="9">miao quan
                            sun</persName></author>
                   </msItem>
                </msContents>

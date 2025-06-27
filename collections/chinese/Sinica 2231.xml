@@ -46,7 +46,7 @@
                <head>書名: 大倫圖說<lb/>[Hangchow] : 信一堂, 1879<lb/>線裝1冊(4, 2, 78頁) : 圖 ; 26.6公分<lb/>By A E Moule<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">大倫圖說</title><title source="#200|9">da lun tu shuo</title><author source="#300" key="person_6972"><persName>Moule, Arthur Evans</persName></author><editor source="#420" role="pbl"><persName>信一堂</persName><persName type="9" role="pbl">xin yi tang</persName></editor><note source="#600">By A E Moule</note></msItem>         
+                  <title xml:lang="chi" source="#200">大倫圖說</title><title source="#200|9">da lun tu shuo</title><author source="#300" key="person_6972"><persName xml:lang="chi">Moule, Arthur Evans</persName></author><editor source="#420" role="pbl"><persName>信一堂</persName><persName type="9" role="pbl">xin yi tang</persName></editor><note source="#600">By A E Moule</note></msItem>         
                </msContents>
                <physDesc>
                   

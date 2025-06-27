@@ -49,12 +49,12 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">青藤書屋文集 三十卷補遺一卷</title>
+                     <title xml:lang="chi" source="#200">青藤書屋文集 三十卷補遺一卷</title>
                      <title source="#200|9">qing teng shu wu wen ji</title>
                      <title type="variant" source="#230">徐文長文集</title>
                      <title source="#230|9" type="variant">xu wen chang wen ji</title>
                      <note source="#290">(明)徐渭撰</note>
-                     <author source="#300" key="person_2225"><persName>(明)徐渭</persName><persName type="9">xu
+                     <author source="#300" key="person_2225"><persName xml:lang="chi">(明)徐渭</persName><persName type="9">xu
                            wei</persName></author>
                      <note source="#600">一名《徐文長文集》</note>
                      <note source="#600">道光二十六年[1846]刊</note>

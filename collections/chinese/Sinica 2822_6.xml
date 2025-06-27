@@ -49,11 +49,11 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">詩聲類 十二卷</title>
+                     <title xml:lang="chi" source="#200">詩聲類 十二卷</title>
                      <title source="#200|9">shi sheng lei</title>
-                     <title source="#200">詩聲分例 一卷</title>
+                     <title xml:lang="chi" source="#200">詩聲分例 一卷</title>
                      <title source="#200|9">shi sheng fen li</title>
-                     <author source="#300" key="person_3814"><persName>(清)孔廣森</persName><persName type="9">kong guang
+                     <author source="#300" key="person_3814"><persName xml:lang="chi">(清)孔廣森</persName><persName type="9">kong guang
                            sen</persName></author>
                      <note source="#600">乾隆五十七年[1792]孔廣廉刊</note>
                   </msItem>

@@ -46,7 +46,7 @@
                <head>書名: 彙書詳註 三十六卷 / (明)王世貞撰 ; (明)鄒道元訂<lb/>明萬曆乙未[1595]序刊梅墅石渠閣修補本<lb/>線裝16冊 ; 26公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">彙書詳註 三十六卷</title><title source="#200|9">hui shu xiang zhu</title><note source="#290">(明)王世貞撰</note><note source="#290">(明)鄒道元訂</note><author source="#300" key="person_2412"><persName>(明)王世貞</persName><persName type="9">wang shi zhen</persName></author><author source="#300" key="person_2664"><persName>(明)鄒道元</persName><persName type="9">zou dao yuan</persName></author><note source="#409">明萬曆乙未[1595]序刊梅墅石渠閣修補本</note><editor source="#440" role="pbl"><persName>梅墅石渠閣</persName><persName type="9" role="pbl">mei shu shi qu ge</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">彙書詳註 三十六卷</title><title source="#200|9">hui shu xiang zhu</title><note source="#290">(明)王世貞撰</note><note source="#290">(明)鄒道元訂</note><author source="#300" key="person_2412"><persName xml:lang="chi">(明)王世貞</persName><persName type="9">wang shi zhen</persName></author><author source="#300" key="person_2664"><persName xml:lang="chi">(明)鄒道元</persName><persName type="9">zou dao yuan</persName></author><note source="#409">明萬曆乙未[1595]序刊梅墅石渠閣修補本</note><editor source="#440" role="pbl"><persName>梅墅石渠閣</persName><persName type="9" role="pbl">mei shu shi qu ge</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

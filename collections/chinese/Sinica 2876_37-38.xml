@@ -50,10 +50,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">黃帝素問宣明論方 十五卷</title>
+                     <title xml:lang="chi" source="#200">黃帝素問宣明論方 十五卷</title>
                      <title source="#200|9">huang di su wen xuan ming lun fang</title>
                      <note source="#290">(金)劉完素撰</note>
-                     <author source="#300" key="person_6652"><persName>(金)劉完素</persName><persName type="9">liu wan
+                     <author source="#300" key="person_6652"><persName xml:lang="chi">(金)劉完素</persName><persName type="9">liu wan
                            su</persName></author>
                   </msItem>
                </msContents>

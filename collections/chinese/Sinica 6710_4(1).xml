@@ -49,12 +49,12 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">陶菴集 二十二卷首一卷</title>
+                     <title xml:lang="chi" source="#200">陶菴集 二十二卷首一卷</title>
                      <title source="#200|9">tao an ji</title>
                      <title type="variant" source="#230">陶庵集</title>
                      <title source="#230|9" type="variant">tao an ji</title>
                      <note source="#290">(明)黃淳耀撰</note>
-                     <author source="#300" key="person_2818"><persName>(明)黃淳耀</persName><persName type="9">huang chun
+                     <author source="#300" key="person_2818"><persName xml:lang="chi">(明)黃淳耀</persName><persName type="9">huang chun
                            yao</persName></author>
                   </msItem>
                </msContents>

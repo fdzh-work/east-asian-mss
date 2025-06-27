@@ -46,7 +46,7 @@
                <head>書名: 渤海藏真帖 不分卷有缺 / (明)陳甫伸編<lb/>明崇祯中章鏞刊<lb/>折裝3冊 ; 32公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">渤海藏真帖 不分卷有缺</title><title source="#200|9">bo hai cang zhen tie</title><note source="#290">(明)陳甫伸編</note><author source="#300" key="person_2720"><persName>(明)陳甫伸</persName><persName type="9">chen fu shen</persName></author><note source="#409">明崇祯中章鏞刊</note></msItem>         
+                  <title xml:lang="chi" source="#200">渤海藏真帖 不分卷有缺</title><title source="#200|9">bo hai cang zhen tie</title><note source="#290">(明)陳甫伸編</note><author source="#300" key="person_2720"><persName xml:lang="chi">(明)陳甫伸</persName><persName type="9">chen fu shen</persName></author><note source="#409">明崇祯中章鏞刊</note></msItem>         
                </msContents>
                <physDesc>
                   

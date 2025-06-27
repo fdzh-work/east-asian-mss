@@ -46,7 +46,7 @@
                <head>書名: 天崇讀本百篇 五卷 / (清)吳懋政編<lb/>清乾隆丙午[1786]刊本振賢堂藏板<lb/>線裝2冊 ; 23公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">天崇讀本百篇 五卷</title><title source="#200|9">tian chong du ben bai pian</title><note source="#290">(清)吳懋政編</note><author source="#300" key="person_3575"><persName>(清)吳懋政</persName><persName type="9">wu mao zheng</persName></author><note source="#409">清乾隆丙午[1786]刊本振賢堂藏板</note><editor source="#440" role="pbl"><persName>振賢堂</persName><persName type="9" role="pbl">zhen xian tang</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">天崇讀本百篇 五卷</title><title source="#200|9">tian chong du ben bai pian</title><note source="#290">(清)吳懋政編</note><author source="#300" key="person_3575"><persName xml:lang="chi">(清)吳懋政</persName><persName type="9">wu mao zheng</persName></author><note source="#409">清乾隆丙午[1786]刊本振賢堂藏板</note><editor source="#440" role="pbl"><persName>振賢堂</persName><persName type="9" role="pbl">zhen xian tang</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

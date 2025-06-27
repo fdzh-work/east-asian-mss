@@ -49,13 +49,13 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">藐叟年譜 一卷續一卷</title>
+                     <title xml:lang="chi" source="#200">藐叟年譜 一卷續一卷</title>
                      <title source="#200|9">miao sou nian pu</title>
                      <note source="#290">(清)楊峴自撰</note>
                      <note source="#290">(清)劉繼增續撰</note>
-                     <author source="#300" key="person_4675"><persName>(清)楊峴</persName><persName type="9">yang
+                     <author source="#300" key="person_4675"><persName xml:lang="chi">(清)楊峴</persName><persName type="9">yang
                            xian</persName></author>
-                     <author source="#300" key="person_3467"><persName>(清)劉繼增</persName><persName type="9">liu ji
+                     <author source="#300" key="person_3467"><persName xml:lang="chi">(清)劉繼增</persName><persName type="9">liu ji
                            zeng</persName></author>
                      <note source="#600">民國二年[1913]刊</note>
                   </msItem>

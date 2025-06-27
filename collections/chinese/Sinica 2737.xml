@@ -46,7 +46,7 @@
                <head>書名: 太平廣記 五百卷目錄十卷 / (宋)李昉等奉敕撰<lb/>明嘉靖中長洲許自昌校刊本<lb/>線裝22冊 ; 27公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">太平廣記 五百卷目錄十卷</title><title source="#200|9">tai ping guang ji</title><note source="#290">(宋)李昉等奉敕撰</note><author source="#300" key="person_1279"><persName>(宋)李昉</persName><persName type="9">li fang</persName></author><note source="#409">明嘉靖中長洲許自昌校刊本</note></msItem>         
+                  <title xml:lang="chi" source="#200">太平廣記 五百卷目錄十卷</title><title source="#200|9">tai ping guang ji</title><note source="#290">(宋)李昉等奉敕撰</note><author source="#300" key="person_1279"><persName xml:lang="chi">(宋)李昉</persName><persName type="9">li fang</persName></author><note source="#409">明嘉靖中長洲許自昌校刊本</note></msItem>         
                </msContents>
                <physDesc>
                   

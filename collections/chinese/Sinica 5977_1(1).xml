@@ -49,14 +49,14 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">漢書匈奴傳地理攷證 二卷</title>
+                     <title xml:lang="chi" source="#200">漢書匈奴傳地理攷證 二卷</title>
                      <title source="#200|9">han shu xiong nu zhuan di li kao zheng</title>
-                     <title source="#200">漢書西南夷兩粵朝鮮傳地理攷證 一卷</title>
+                     <title xml:lang="chi" source="#200">漢書西南夷兩粵朝鮮傳地理攷證 一卷</title>
                      <title source="#200|9">han shu xi nan yi liang yue chao xian zhuan di li kao
                         zheng</title>
-                     <title source="#200">漢書西域傳地理攷證 一卷</title>
+                     <title xml:lang="chi" source="#200">漢書西域傳地理攷證 一卷</title>
                      <title source="#200|9">han shu xi yu zhuan di li kao zheng</title>
-                     <author source="#300" key="person_3071"><persName>(民國)丁謙</persName><persName type="9">ding
+                     <author source="#300" key="person_3071"><persName xml:lang="chi">(民國)丁謙</persName><persName type="9">ding
                            qian</persName></author>
                   </msItem>
                </msContents>

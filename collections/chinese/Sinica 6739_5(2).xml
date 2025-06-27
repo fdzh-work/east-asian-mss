@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">澠水燕談錄 十卷補遺一卷</title>
+                     <title xml:lang="chi" source="#200">澠水燕談錄 十卷補遺一卷</title>
                      <title source="#200|9">sheng shui yan tan lu</title>
                      <note source="#290">(宋)王闢之撰</note>
-                     <author source="#300" key="person_1458"><persName>(宋)王闢之</persName><persName type="9">wang pi
+                     <author source="#300" key="person_1458"><persName xml:lang="chi">(宋)王闢之</persName><persName type="9">wang pi
                            zhi</persName></author>
                      <note source="#600">民國九年[1920]初版</note>
                   </msItem>

@@ -48,10 +48,10 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">蘇米志林</title>
+                     <title xml:lang="chi" source="#200">蘇米志林</title>
                      <title source="#200|9">su mi zhi lin</title>
                      <note source="#290">(明)毛晉編</note>
-                     <author source="#300" key="person_2368"><persName>(明)毛晉</persName><persName type="9">mao
+                     <author source="#300" key="person_2368"><persName xml:lang="chi">(明)毛晉</persName><persName type="9">mao
                            jin</persName></author>
                      <note source="#409">明天啟五年[1625]海虞毛氏綠君亭刊本</note>
                      <editor source="#440" role="pbl"><persName>綠君亭</persName><persName type="9" role="pbl">lu jun ting</persName></editor>

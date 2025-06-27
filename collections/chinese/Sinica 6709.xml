@@ -48,10 +48,10 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">海昌叢刻</title>
+                     <title xml:lang="chi" source="#200">海昌叢刻</title>
                      <title source="#200|9">hai chang cong ke</title>
                      <note source="#290">(清)羊復禮輯</note>
-                     <author source="#300" key="person_5334"><persName>(清)羊復禮</persName><persName type="9">yang fu
+                     <author source="#300" key="person_5334"><persName xml:lang="chi">(清)羊復禮</persName><persName type="9">yang fu
                            li</persName></author>
                      <note source="#409">清光緒中海昌羊氏傳卷樓粵東刊本</note>
                      <msItem n="1">
@@ -60,7 +60,7 @@
                         <title>容菴存稿鈔 一卷</title>
                         <title source="9">rong an cun gao chao</title>
                         <note source="290">(明)許令瑜撰</note>
-                        <author key="person_2601"><persName>(明)許令瑜</persName><persName type="9">xu ling
+                        <author key="person_2601"><persName xml:lang="chi">(明)許令瑜</persName><persName type="9">xu ling
                            yu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180729/00000052|odh -->
@@ -73,7 +73,7 @@
                         <title>止谿詩集鈔 一卷</title>
                         <title source="9">zhi xi shi ji chao</title>
                         <note source="290">(清)朱嘉徵撰</note>
-                        <author key="person_4386"><persName>(清)朱嘉徵</persName><persName type="9">zhu jia
+                        <author key="person_4386"><persName xml:lang="chi">(清)朱嘉徵</persName><persName type="9">zhu jia
                               zheng</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180729/00000053|odh -->
@@ -87,7 +87,7 @@
                            <title>乾初先生遺詩鈔 一卷</title>
                            <title source="9">qian chu xian sheng yi shi chao</title>
                            <note source="290">(清)陳確撰</note>
-                           <author key="person_6092"><persName>(清)陳確</persName><persName type="9">chen
+                           <author key="person_6092"><persName xml:lang="chi">(清)陳確</persName><persName type="9">chen
                               que</persName></author>
                         </msItem>
                         <msItem n="2">
@@ -96,7 +96,7 @@
                            <title>補庵詩鈔 一卷</title>
                            <title type="9">bu an shi chao</title>
                            <note source="#291">(清)陳枚撰</note>
-                           <author key="person_6068"><persName>(清)陳枚</persName><persName type="9">chen
+                           <author key="person_6068"><persName xml:lang="chi">(清)陳枚</persName><persName type="9">chen
                               mei</persName></author>
                         </msItem>
                         <!--Unused allegro fields-->
@@ -110,7 +110,7 @@
                         <title>河莊詩鈔 一卷</title>
                         <title source="9">he zhuang shi chao</title>
                         <note source="290">(清)陳鱣撰</note>
-                        <author key="person_6125"><persName>(清)陳鱣</persName><persName type="9">chen
+                        <author key="person_6125"><persName xml:lang="chi">(清)陳鱣</persName><persName type="9">chen
                            zhan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180729/00000055|odh -->
@@ -121,7 +121,7 @@
                         <title>新坂土風 一卷</title>
                         <title source="9">xin po tu feng</title>
                         <note source="290">(清)陳鱣撰</note>
-                        <author key="person_6125"><persName>(清)陳鱣</persName><persName type="9">chen
+                        <author key="person_6125"><persName xml:lang="chi">(清)陳鱣</persName><persName type="9">chen
                            zhan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180729/00000056|odh -->

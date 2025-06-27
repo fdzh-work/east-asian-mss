@@ -46,7 +46,7 @@
                <head>書名: 焦氏易林注 十六卷 / (漢)焦延壽撰<lb/>民國庚辰[1940]蒲城仵道益刊本<lb/>線裝16冊 ; 26公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">焦氏易林注 十六卷</title><title source="#200|9">jiao shi yi lin zhu</title><note source="#290">(漢)焦延壽撰</note><author source="#300" key="person_6561"><persName>(漢)焦延壽</persName><persName type="9">jiao yan shou</persName></author><note source="#409">民國庚辰[1940]蒲城仵道益刊本</note></msItem>         
+                  <title xml:lang="chi" source="#200">焦氏易林注 十六卷</title><title source="#200|9">jiao shi yi lin zhu</title><note source="#290">(漢)焦延壽撰</note><author source="#300" key="person_6561"><persName xml:lang="chi">(漢)焦延壽</persName><persName type="9">jiao yan shou</persName></author><note source="#409">民國庚辰[1940]蒲城仵道益刊本</note></msItem>         
                </msContents>
                <physDesc>
                   

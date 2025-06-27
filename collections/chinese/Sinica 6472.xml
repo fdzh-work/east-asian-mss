@@ -47,16 +47,16 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="2">
-                     <author source="#301" key="person_6806"><persName>Chan Ue-Ting</persName></author>
+                     <author source="#301" key="person_6806"><persName xml:lang="chi">Chan Ue-Ting</persName></author>
                   </msItem>
                <msItem><editor source="#420" role="pbl"><persName>The China Baptist Publication
                            Society</persName></editor>
                   <msItem n="1">
-                     <title source="#200">真光月報 存壬寅正月(March 1902) = The true light
+                     <title xml:lang="chi" source="#200">真光月報 存壬寅正月(March 1902) = The true light
                         monthly</title>
                      <title source="#200|9">zhen guang yue bao bao</title>
                      <note source="#290">Rev. R.E. Chambers, Mr. Chan Ue-Ting, editors</note>
-                     <author source="#300" key="person_6805"><persName>Chambers, Robert E</persName></author>
+                     <author source="#300" key="person_6805"><persName xml:lang="chi">Chambers, Robert E</persName></author>
                      </msItem>
                   </msItem></msContents>
                <physDesc>

@@ -46,7 +46,7 @@
                <head>書名: 周禮注疏刪翼 三十卷 / (明)王志長撰<lb/>清秀水王氏芥子園重刊本<lb/>線裝10冊 ; 27公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">周禮注疏刪翼 三十卷</title><title source="#200|9">zhou li zhu shu shan yi</title><note source="#290">(明)王志長撰</note><author source="#300" key="person_2435"><persName>(明)王志長</persName><persName type="9">wang zhi chang</persName></author><note source="#409">清秀水王氏芥子園重刊本</note><editor source="#440" role="pbl"><persName>芥子園</persName><persName type="9" role="pbl">jie zi yuan</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">周禮注疏刪翼 三十卷</title><title source="#200|9">zhou li zhu shu shan yi</title><note source="#290">(明)王志長撰</note><author source="#300" key="person_2435"><persName xml:lang="chi">(明)王志長</persName><persName type="9">wang zhi chang</persName></author><note source="#409">清秀水王氏芥子園重刊本</note><editor source="#440" role="pbl"><persName>芥子園</persName><persName type="9" role="pbl">jie zi yuan</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

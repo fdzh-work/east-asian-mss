@@ -49,13 +49,13 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">漢官典職儀式選用 一卷</title>
+                     <title xml:lang="chi" source="#200">漢官典職儀式選用 一卷</title>
                      <title source="#200|9">han guan dian zhi yi shi xuan yong</title>
                      <note source="#290">(漢)蔡質撰</note>
                      <note source="#290">(清)孫星衍校集</note>
-                     <author source="#300" key="person_6587"><persName>(漢)蔡質</persName><persName type="9">cai
+                     <author source="#300" key="person_6587"><persName xml:lang="chi">(漢)蔡質</persName><persName type="9">cai
                            zhi</persName></author>
-                     <author source="#300" key="person_3855"><persName>(清)孫星衍</persName><persName type="9">sun xing
+                     <author source="#300" key="person_3855"><persName xml:lang="chi">(清)孫星衍</persName><persName type="9">sun xing
                            yan</persName></author>
                   </msItem>
                </msContents>

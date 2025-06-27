@@ -48,16 +48,16 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">八函</title>
+                     <title xml:lang="chi" source="#200">八函</title>
                      <title source="#200|9">ba han</title>
                      <note source="#290">(明)陳仁錫編</note>
-                     <author source="#300" key="person_2701"><persName>(明)陳仁錫</persName><persName type="9">chen ren
+                     <author source="#300" key="person_2701"><persName xml:lang="chi">(明)陳仁錫</persName><persName type="9">chen ren
                            xi</persName></author>
                      <note source="#409">明末長洲陳氏寫刊本</note>
                      <msItem n="1">
                         <title>史品赤函 四卷</title>
                         <title source="9">shi pin chi han</title>
-                        <author key="person_2701"><persName>(明)陳仁錫</persName><persName type="9">chen ren
+                        <author key="person_2701"><persName xml:lang="chi">(明)陳仁錫</persName><persName type="9">chen ren
                            xi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140708/13:52:05|odh -->
@@ -66,7 +66,7 @@
                      <msItem n="2">
                         <title>文品芾函 三卷</title>
                         <title source="9">wen pin fu han</title>
-                        <author key="person_2701"><persName>(明)陳仁錫</persName><persName type="9">chen ren
+                        <author key="person_2701"><persName xml:lang="chi">(明)陳仁錫</persName><persName type="9">chen ren
                            xi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140708/13:55:35|odh -->
@@ -76,7 +76,7 @@
                      <msItem n="3">
                         <title>子品金函 四卷</title>
                         <title source="9">wen pin fu han</title>
-                        <author key="person_2701"><persName>(明)陳仁錫</persName><persName type="9">chen ren
+                        <author key="person_2701"><persName xml:lang="chi">(明)陳仁錫</persName><persName type="9">chen ren
                            xi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140708/13:57:59|odh -->
@@ -85,7 +85,7 @@
                      <msItem n="4">
                         <title>詩品會函 四卷首一卷</title>
                         <title source="9">shi pin hui han</title>
-                        <author key="person_2701"><persName>(明)陳仁錫</persName><persName type="9">chen ren
+                        <author key="person_2701"><persName xml:lang="chi">(明)陳仁錫</persName><persName type="9">chen ren
                            xi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140708/13:58:55|odh -->
@@ -94,7 +94,7 @@
                      <msItem n="5">
                         <title>賦品舄函 二卷</title>
                         <title source="9">fu pin qiao han</title>
-                        <author key="person_2701"><persName>(明)陳仁錫</persName><persName type="9">chen ren
+                        <author key="person_2701"><persName xml:lang="chi">(明)陳仁錫</persName><persName type="9">chen ren
                            xi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140708/14:01:29|odh -->
@@ -104,7 +104,7 @@
                      <msItem n="6">
                         <title>書品同函 二卷</title>
                         <title source="9">shu pin tong han</title>
-                        <author key="person_2701"><persName>(明)陳仁錫</persName><persName type="9">chen ren
+                        <author key="person_2701"><persName xml:lang="chi">(明)陳仁錫</persName><persName type="9">chen ren
                            xi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140708/14:02:47|odh -->
@@ -113,7 +113,7 @@
                      <msItem n="7">
                         <title>啟品有函 二卷</title>
                         <title source="9">qi pin you han</title>
-                        <author key="person_2701"><persName>(明)陳仁錫</persName><persName type="9">chen ren
+                        <author key="person_2701"><persName xml:lang="chi">(明)陳仁錫</persName><persName type="9">chen ren
                            xi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140708/14:03:25|odh -->
@@ -122,7 +122,7 @@
                      <msItem n="8">
                         <title>逸品繹函 二卷</title>
                         <title source="9">yi pin yi han</title>
-                        <author key="person_2701"><persName>(明)陳仁錫</persName><persName type="9">chen ren
+                        <author key="person_2701"><persName xml:lang="chi">(明)陳仁錫</persName><persName type="9">chen ren
                            xi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140708/14:03:56|odh -->

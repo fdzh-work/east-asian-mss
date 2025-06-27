@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">四書箋義纂要 十二卷補遺一卷續遺一卷</title>
+                     <title xml:lang="chi" source="#200">四書箋義纂要 十二卷補遺一卷續遺一卷</title>
                      <title source="#200|9">si shu jian yi zuan yao</title>
                      <note source="#290">(宋)趙悳撰</note>
-                     <author source="#300" key="person_1656"><persName>(宋)趙悳</persName><persName type="9">zhao
+                     <author source="#300" key="person_1656"><persName xml:lang="chi">(宋)趙悳</persName><persName type="9">zhao
                            de</persName></author>
                      <msItem n="1">
                         <title>大學章句箋義 一卷或問箋義一卷註疏纂要一卷</title>

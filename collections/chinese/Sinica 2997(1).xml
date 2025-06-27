@@ -46,7 +46,7 @@
                <head>書名: 代數學 十三卷 / (英)棣麼甘撰 ; (英)偉烈亞力口譯 ; (清)李善蘭筆受<lb/>上海 : 墨海, 咸豐己未[1859]<lb/>線裝1冊 ; 22公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">代數學 十三卷</title><title source="#200|9">dai shu xue</title><note source="#290">(英)棣麼甘撰</note><note source="#290">(英)偉烈亞力口譯</note><note source="#290">(清)李善蘭筆受</note><author source="#300" key="person_6826"><persName>De Morgan, Augustus</persName></author><author source="#300" key="person_7092"><persName>Wylie, Alexander</persName></author><author source="#300" key="person_4470"><persName>(清)李善蘭</persName><persName type="9">li shan lan</persName></author><editor source="#420" role="pbl"><persName>墨海</persName><persName type="9" role="pbl">mo hai</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">代數學 十三卷</title><title source="#200|9">dai shu xue</title><note source="#290">(英)棣麼甘撰</note><note source="#290">(英)偉烈亞力口譯</note><note source="#290">(清)李善蘭筆受</note><author source="#300" key="person_6826"><persName xml:lang="chi">De Morgan, Augustus</persName></author><author source="#300" key="person_7092"><persName xml:lang="chi">Wylie, Alexander</persName></author><author source="#300" key="person_4470"><persName xml:lang="chi">(清)李善蘭</persName><persName type="9">li shan lan</persName></author><editor source="#420" role="pbl"><persName>墨海</persName><persName type="9" role="pbl">mo hai</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

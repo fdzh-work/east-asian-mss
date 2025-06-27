@@ -51,12 +51,12 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">此山先生詩集樂府 一卷</title>
+                     <title xml:lang="chi" source="#200">此山先生詩集樂府 一卷</title>
                      <title source="#200|9">ci shan xian sheng shi ji yue fu</title>
                      <title type="variant" source="#230">此山先生樂府</title>
                      <title source="#230|9" type="variant">ci shan xian sheng yue fu</title>
                      <note source="#290">(元)周權撰</note>
-                     <author source="#300" key="person_90"><persName>(元)周權</persName><persName type="9">zhou
+                     <author source="#300" key="person_90"><persName xml:lang="chi">(元)周權</persName><persName type="9">zhou
                            quan</persName></author>
                      <note source="#600">景刊元本</note>
                   </msItem>

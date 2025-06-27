@@ -46,8 +46,8 @@
                <head>書名: 小學正文 六卷 / (宋)朱熹撰<lb/>附 孝經正文 一卷<lb/>清乾隆甲午[1774]刊本荷經堂藏板<lb/>洋裝1冊(原線裝3冊) ; 23公分<lb/>封面題名《孝經小學正文》<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem><editor source="#440" role="pbl"><persName>荷經堂</persName><persName type="9" role="pbl">he jing tang</persName></editor><note source="#409">清乾隆甲午[1774]刊本荷經堂藏板</note><note source="#600">封面題名《孝經小學正文》</note><msItem n="1">
-                  <title source="#200">小學正文 六卷</title><title source="#200|9">xiao xue zheng wen</title><title type="variant" source="#230">孝經小學正文</title><title source="#230|9" type="variant">xiao jing xiao xue zheng wen</title><note source="#290">(宋)朱熹撰</note><author source="#300" key="person_1250"><persName>(宋)朱熹</persName><persName type="9">zhu xi</persName></author></msItem>         
-               <msItem n="2"><title source="#201">附 孝經正文 一卷</title><title source="#201|9">xiao jing zheng wen</title></msItem></msItem></msContents>
+                  <title xml:lang="chi" source="#200">小學正文 六卷</title><title source="#200|9">xiao xue zheng wen</title><title type="variant" source="#230">孝經小學正文</title><title source="#230|9" type="variant">xiao jing xiao xue zheng wen</title><note source="#290">(宋)朱熹撰</note><author source="#300" key="person_1250"><persName xml:lang="chi">(宋)朱熹</persName><persName type="9">zhu xi</persName></author></msItem>         
+               <msItem n="2"><title xml:lang="chi" source="#201">附 孝經正文 一卷</title><title source="#201|9">xiao jing zheng wen</title></msItem></msItem></msContents>
                <physDesc>
                   
                   <objectDesc>

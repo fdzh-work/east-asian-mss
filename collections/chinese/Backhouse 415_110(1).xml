@@ -49,13 +49,13 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">青烏先生葬經 一卷</title>
+                     <title xml:lang="chi" source="#200">青烏先生葬經 一卷</title>
                      <title source="#200|9">qing wu xian sheng zang jing</title>
                      <note source="#290">(漢)青烏子撰</note>
                      <note source="#290">(金)兀欽仄注</note>
-                     <author source="#300" key="person_6618"><persName>(漢)青烏子</persName><persName type="9">qing wu
+                     <author source="#300" key="person_6618"><persName xml:lang="chi">(漢)青烏子</persName><persName type="9">qing wu
                            zi</persName></author>
-                     <author source="#300" key="person_6650"><persName>(金)兀欽仄</persName><persName type="9">wu qin
+                     <author source="#300" key="person_6650"><persName xml:lang="chi">(金)兀欽仄</persName><persName type="9">wu qin
                            ze</persName></author>
                   </msItem>
                </msContents>

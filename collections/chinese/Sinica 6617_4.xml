@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">莊靖先生遺集 十卷</title>
+                     <title xml:lang="chi" source="#200">莊靖先生遺集 十卷</title>
                      <title source="#200|9">zhuang jing xian sheng yi ji</title>
                      <note source="#290">(金)李俊民撰</note>
-                     <author source="#300" key="person_6658"><persName>(金)李俊民</persName><persName type="9">li jun
+                     <author source="#300" key="person_6658"><persName xml:lang="chi">(金)李俊民</persName><persName type="9">li jun
                            min</persName></author>
                      <note source="#600">清光緒十六年[1890]開封刊</note>
                   </msItem>

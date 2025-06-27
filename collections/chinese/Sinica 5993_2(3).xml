@@ -51,12 +51,12 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">渭南文集詞 二卷</title>
+                     <title xml:lang="chi" source="#200">渭南文集詞 二卷</title>
                      <title source="#200|9">wei nan wen ji ci</title>
                      <title type="variant" source="#230">渭南詞</title>
                      <title source="#230|9" type="variant">wei nan ci</title>
                      <note source="#290">(宋)陸游撰</note>
-                     <author source="#300"><persName>(宋)陸游</persName><persName type="9">lu
+                     <author source="#300"><persName xml:lang="chi">(宋)陸游</persName><persName type="9">lu
                            you</persName></author>
                      <note source="#600">景刊宋本</note>
                   </msItem>

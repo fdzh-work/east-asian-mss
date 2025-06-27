@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">宋學士徐文惠公存稿 五卷附錄一卷</title>
+                     <title xml:lang="chi" source="#200">宋學士徐文惠公存稿 五卷附錄一卷</title>
                      <title source="#200|9">song xue shi xu wen hui gong cun gao</title>
                      <note source="#290">(宋)徐經孫撰</note>
-                     <author source="#300" key="person_1201"><persName>(宋)徐經孫</persName><persName type="9">xu jing
+                     <author source="#300" key="person_1201"><persName xml:lang="chi">(宋)徐經孫</persName><persName type="9">xu jing
                            sun</persName></author>
                      <note source="#600">民國甲寅[1914]刊</note>
                   </msItem>

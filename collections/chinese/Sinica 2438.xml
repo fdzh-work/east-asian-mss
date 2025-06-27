@@ -46,7 +46,7 @@
                <head>書名: 福音大旨 / 楊格非著<lb/>漢口 : 聖教書局, 1883<lb/>線裝1冊(10頁) ; 17.2公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">福音大旨</title><title source="#200|9">fu yin da zhi</title><note source="#290">楊格非著</note><author source="#300" key="person_6903"><persName>John, Griffith</persName></author><editor source="#420" role="pbl"><persName>聖教書局</persName><persName type="9" role="pbl">sheng jiao shu ju</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">福音大旨</title><title source="#200|9">fu yin da zhi</title><note source="#290">楊格非著</note><author source="#300" key="person_6903"><persName xml:lang="chi">John, Griffith</persName></author><editor source="#420" role="pbl"><persName>聖教書局</persName><persName type="9" role="pbl">sheng jiao shu ju</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

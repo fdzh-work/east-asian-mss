@@ -46,7 +46,7 @@
                <head>書名: 耶穌論<lb/>[Shanghai], [1874]<lb/>Single sheet ; 24 x 27公分<lb/>By J S McIlvaine<lb/>In Mandarin dialect<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">耶穌論</title><title source="#200|9">ye su lun</title><author source="#300" key="person_6961"><persName>McIlvaine, Jasper Scudder</persName></author><note source="#600">By J S McIlvaine</note><note source="#600">In Mandarin dialect</note></msItem>         
+                  <title xml:lang="chi" source="#200">耶穌論</title><title source="#200|9">ye su lun</title><author source="#300" key="person_6961"><persName xml:lang="chi">McIlvaine, Jasper Scudder</persName></author><note source="#600">By J S McIlvaine</note><note source="#600">In Mandarin dialect</note></msItem>         
                </msContents>
                <physDesc>
                   

@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">補三史藝文志 一卷</title>
+                     <title xml:lang="chi" source="#200">補三史藝文志 一卷</title>
                      <title source="#200|9">bu san shi yi wen zhi</title>
                      <note source="#290">(清)金門詔撰</note>
-                     <author source="#300" key="person_5901"><persName>(清)金門詔</persName><persName type="9">jin men
+                     <author source="#300" key="person_5901"><persName xml:lang="chi">(清)金門詔</persName><persName type="9">jin men
                            zhao</persName></author>
                      <note source="#600">光緒十七年[1891]刊</note>
                   </msItem>

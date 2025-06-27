@@ -49,9 +49,9 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">經義莛撞 四卷</title>
+                     <title xml:lang="chi" source="#200">經義莛撞 四卷</title>
                      <title source="#200|9">jing yi ting zhuang</title>
-                     <author source="#300" key="person_3122"><persName>(民國)易順鼎</persName><persName type="9">yi shun
+                     <author source="#300" key="person_3122"><persName xml:lang="chi">(民國)易順鼎</persName><persName type="9">yi shun
                            ding</persName></author>
                      <note source="#600">光緒甲申[1884]刊《寶瓠齋雜俎》之一</note>
                   </msItem>

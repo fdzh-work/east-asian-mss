@@ -50,10 +50,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">小兒斑疹備急方論 一卷</title>
+                     <title xml:lang="chi" source="#200">小兒斑疹備急方論 一卷</title>
                      <title source="#200|9">xiao er ban zhen bei ji fang lun</title>
                      <note source="#290">(宋)董汲撰</note>
-                     <author source="#300" key="person_1561"><persName>(宋)董汲</persName><persName type="9">dong
+                     <author source="#300" key="person_1561"><persName xml:lang="chi">(宋)董汲</persName><persName type="9">dong
                            ji111</persName></author>
                      <note source="#600">以上十二種光緒辛卯[1891]池陽周氏校刊原名《周澂之校刻醫學叢書》</note>
                   </msItem>

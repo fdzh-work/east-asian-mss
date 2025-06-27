@@ -46,8 +46,8 @@
                <head>書名: 論語義疏 十卷 / (魏)何晏集解 ; (梁)皇侃義疏<lb/>附 論語義疏校勘記 一卷首一卷 / (日)武內義雄撰<lb/>日本大正十二年[1924]大阪懷德堂記念會排印本<lb/>線裝6冊 ; 27公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem><editor source="#440" role="pbl"><persName>懷德堂記念會</persName></editor><note source="#409">日本大正十二年[1924]大阪懷德堂記念會排印本</note><msItem n="1">
-                  <title source="#200">論語義疏 十卷</title><title source="#200|9">lun yu yi shu</title><note source="#290">(魏)何晏集解</note><note source="#290">(梁)皇侃義疏</note><author source="#300" key="person_6712"><persName>(魏)何晏</persName><persName type="9">he yan</persName></author><author source="#300" key="person_3045"><persName>(梁)皇侃</persName><persName type="9">huang kan</persName></author></msItem>         
-               <msItem n="2"><title source="#201">附 論語義疏校勘記 一卷首一卷</title><title source="#201|9">lun yu yi shu jiao kan ji</title><note source="#291">(日)武內義雄撰</note><author source="#301" key="person_1940"><persName>(日)武內義雄</persName><persName type="9">takeuchi yoshio_j</persName></author></msItem></msItem></msContents>
+                  <title xml:lang="chi" source="#200">論語義疏 十卷</title><title source="#200|9">lun yu yi shu</title><note source="#290">(魏)何晏集解</note><note source="#290">(梁)皇侃義疏</note><author source="#300" key="person_6712"><persName xml:lang="chi">(魏)何晏</persName><persName type="9">he yan</persName></author><author source="#300" key="person_3045"><persName xml:lang="chi">(梁)皇侃</persName><persName type="9">huang kan</persName></author></msItem>         
+               <msItem n="2"><title xml:lang="chi" source="#201">附 論語義疏校勘記 一卷首一卷</title><title source="#201|9">lun yu yi shu jiao kan ji</title><note source="#291">(日)武內義雄撰</note><author source="#301" key="person_1940"><persName xml:lang="chi">(日)武內義雄</persName><persName type="9">takeuchi yoshio_j</persName></author></msItem></msItem></msContents>
                <physDesc>
                   
                   <objectDesc>

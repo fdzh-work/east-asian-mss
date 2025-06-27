@@ -49,16 +49,16 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">周澂之評注醫書</title>
+                     <title xml:lang="chi" source="#200">周澂之評注醫書</title>
                      <title source="#200|9">zhou cheng zhi ping zhu yi shu</title>
                      <note source="#290">(清)周學海評注</note>
-                     <author source="#300" key="person_3683"><persName>(清)周學海</persName><persName type="9">zhou xue
+                     <author source="#300" key="person_3683"><persName xml:lang="chi">(清)周學海</persName><persName type="9">zhou xue
                            hai</persName></author>
                      <msItem n="1">
                         <title>診家樞要 一卷</title>
                         <title source="9">zhen jia shu yao</title>
                         <note source="290">(元)滑壽撰</note>
-                        <author key="person_196"><persName>(元)滑壽</persName><persName type="9">hua
+                        <author key="person_196"><persName xml:lang="chi">(元)滑壽</persName><persName type="9">hua
                            shou</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20181013/00000081|odh -->
@@ -71,7 +71,7 @@
                         <title>藏府標本藥式 一卷</title>
                         <title source="9">zang fu biao ben yao shi</title>
                         <note source="290">(金)張元素撰</note>
-                        <author key="person_6654"><persName>(金)張元素</persName><persName type="9">zhang yuan
+                        <author key="person_6654"><persName xml:lang="chi">(金)張元素</persName><persName type="9">zhang yuan
                               su</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20181013/00000082|odh -->
@@ -82,9 +82,9 @@
                         <title source="9">jin gui gou xuan</title>
                         <note source="290">(元)朱震亨撰</note>
                         <note source="290">(明)戴元禮錄補</note>
-                        <author key="person_154"><persName>(元)朱震亨</persName><persName type="9">zhu zhen
+                        <author key="person_154"><persName xml:lang="chi">(元)朱震亨</persName><persName type="9">zhu zhen
                               heng</persName></author>
-                        <author key="person_2240"><persName>(明)戴元禮</persName><persName type="9">dai yuan
+                        <author key="person_2240"><persName xml:lang="chi">(明)戴元禮</persName><persName type="9">dai yuan
                            li</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20181013/00000083|odh -->
@@ -94,7 +94,7 @@
                         <title>三消論 一卷</title>
                         <title source="9">san xiao lun</title>
                         <note source="290">(金)劉完素撰</note>
-                        <author key="person_6652"><persName>(金)劉完素</persName><persName type="9">liu wan
+                        <author key="person_6652"><persName xml:lang="chi">(金)劉完素</persName><persName type="9">liu wan
                            su</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20181013/00000084|odh -->
@@ -104,7 +104,7 @@
                         <title>温熱論 一卷</title>
                         <title source="9">wen re lun</title>
                         <note source="290">(金)葉桂撰</note>
-                        <author key="person_6665"><persName>(金)葉桂</persName><persName type="9">ye
+                        <author key="person_6665"><persName xml:lang="chi">(金)葉桂</persName><persName type="9">ye
                            gui</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20181013/00000085|odh -->
@@ -114,7 +114,7 @@
                         <title>幼科要畧 二卷</title>
                         <title source="9">you ke yao lue</title>
                         <note source="290">(金)葉桂撰</note>
-                        <author key="person_6665"><persName>(金)葉桂</persName><persName type="9">ye
+                        <author key="person_6665"><persName xml:lang="chi">(金)葉桂</persName><persName type="9">ye
                            gui</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20181013/00000086|odh -->
@@ -125,9 +125,9 @@
                         <title source="9">ping dian ye an cun zhen lei bian</title>
                         <note source="290">(金)葉桂撰</note>
                         <note source="290">(元)孫萬青輯錄</note>
-                        <author key="person_6665"><persName>(金)葉桂</persName><persName type="9">ye
+                        <author key="person_6665"><persName xml:lang="chi">(金)葉桂</persName><persName type="9">ye
                            gui</persName></author>
-                        <author key="person_102"><persName>(元)孫萬青</persName><persName type="9">sun wan
+                        <author key="person_102"><persName xml:lang="chi">(元)孫萬青</persName><persName type="9">sun wan
                               qing</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20181013/00000087|odh -->
@@ -137,7 +137,7 @@
                         <title>評點馬氏醫案印機草 一卷</title>
                         <title source="9">ping dian ma shi yi an yin ji cao</title>
                         <note source="290">(清)馬元儀撰</note>
-                        <author key="person_6250"><persName>(清)馬元儀</persName><persName type="9">ma yuan
+                        <author key="person_6250"><persName xml:lang="chi">(清)馬元儀</persName><persName type="9">ma yuan
                            yi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20181013/00000088|odh -->

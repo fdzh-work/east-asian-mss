@@ -49,12 +49,12 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">湯若望新歴曉或 一卷</title>
+                     <title xml:lang="chi" source="#200">湯若望新歴曉或 一卷</title>
                      <title source="#200|9">tang ruo wang xin li xiao huo</title>
                      <title type="variant" source="#230">新曆曉或</title>
                      <title source="#230|9" type="variant">xin li xiao huo</title>
                      <note source="#290">(明西洋)湯若望撰</note>
-                     <author source="#300"><persName>Schall von Bell, Johann
+                     <author source="#300"><persName xml:lang="chi">Schall von Bell, Johann
                         Adam</persName></author>
                   </msItem>
                </msContents>

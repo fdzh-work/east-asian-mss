@@ -46,7 +46,7 @@
                <head>書名: 小問答 : 蘇州土白<lb/>上海 : 美華書館, 1875<lb/>線裝1冊(35頁) : 圖 ; 19.3公分<lb/>By A C Safford<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">小問答 : 蘇州土白</title><title source="#200|9">xiao wen da : su zhou tu bai</title><author source="#300" key="person_7021"><persName>Safford, Anna Cunningham</persName></author><editor source="#420" role="pbl"><persName>美華書館</persName><persName type="9" role="pbl">mei hua shu guan</persName></editor><note source="#600">By A C Safford</note></msItem>         
+                  <title xml:lang="chi" source="#200">小問答 : 蘇州土白</title><title source="#200|9">xiao wen da : su zhou tu bai</title><author source="#300" key="person_7021"><persName xml:lang="chi">Safford, Anna Cunningham</persName></author><editor source="#420" role="pbl"><persName>美華書館</persName><persName type="9" role="pbl">mei hua shu guan</persName></editor><note source="#600">By A C Safford</note></msItem>         
                </msContents>
                <physDesc>
                   

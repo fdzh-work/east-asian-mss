@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">陳忠肅公墓錄 一卷</title>
+                     <title xml:lang="chi" source="#200">陳忠肅公墓錄 一卷</title>
                      <title source="#200|9">chen zhong su gong mu lu</title>
                      <note source="#290">(清)孫峻撰</note>
-                     <author source="#300" key="person_3845"><persName>(清)孫峻</persName><persName type="9">sun
+                     <author source="#300" key="person_3845"><persName xml:lang="chi">(清)孫峻</persName><persName type="9">sun
                            jun</persName></author>
                      <note source="#600">光緒乙未[1895]刊</note>
                   </msItem>

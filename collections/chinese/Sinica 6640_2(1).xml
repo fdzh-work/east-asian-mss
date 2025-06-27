@@ -50,13 +50,13 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">三水小牘 二卷逸文一卷附錄一卷</title>
+                     <title xml:lang="chi" source="#200">三水小牘 二卷逸文一卷附錄一卷</title>
                      <title source="#200|9">san shui xiao du</title>
                      <note source="#290">(唐)皇甫枚撰</note>
                      <note source="#290">(清)繆荃孫校補</note>
-                     <author source="#300" key="person_767"><persName>(唐)皇甫枚</persName><persName type="9">huang fu
+                     <author source="#300" key="person_767"><persName xml:lang="chi">(唐)皇甫枚</persName><persName type="9">huang fu
                            mei</persName></author>
-                     <author source="#300" key="person_5321"><persName>(清)繆荃孫</persName><persName type="9">miao quan
+                     <author source="#300" key="person_5321"><persName xml:lang="chi">(清)繆荃孫</persName><persName type="9">miao quan
                            sun</persName></author>
                      <note source="#600">光緒十七年[1891]刊</note>
                   </msItem>

@@ -46,7 +46,7 @@
                <head>書名: 朱子家禮 八卷首一卷 / (宋)朱熹撰 ; (明)丘濬輯<lb/>清康熙辛巳[1701]刊本<lb/>線裝4冊 ; 27公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">朱子家禮 八卷首一卷</title><title source="#200|9">zhu zi jia li</title><note source="#290">(宋)朱熹撰</note><note source="#290">(明)丘濬輯</note><author source="#300" key="person_1250"><persName>(宋)朱熹</persName><persName type="9">zhu xi</persName></author><author source="#300" key="person_1988"><persName>(明)丘濬</persName><persName type="9">qiu jun</persName></author><note source="#409">清康熙辛巳[1701]刊本</note></msItem>         
+                  <title xml:lang="chi" source="#200">朱子家禮 八卷首一卷</title><title source="#200|9">zhu zi jia li</title><note source="#290">(宋)朱熹撰</note><note source="#290">(明)丘濬輯</note><author source="#300" key="person_1250"><persName xml:lang="chi">(宋)朱熹</persName><persName type="9">zhu xi</persName></author><author source="#300" key="person_1988"><persName xml:lang="chi">(明)丘濬</persName><persName type="9">qiu jun</persName></author><note source="#409">清康熙辛巳[1701]刊本</note></msItem>         
                </msContents>
                <physDesc>
                   

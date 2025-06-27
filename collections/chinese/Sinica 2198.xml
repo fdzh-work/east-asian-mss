@@ -49,12 +49,12 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">董方立算書</title>
+                     <title xml:lang="chi" source="#200">董方立算書</title>
                      <title source="#200|9">dong fang li suan shu</title>
                      <title type="variant" source="#230">算學</title>
                      <title source="#230|9" type="variant">suan xuex</title>
                      <note source="#290">(清)董祐誠撰</note>
-                     <author source="#300" key="person_5526"><persName>(清)董祐誠</persName><persName type="9">dong you
+                     <author source="#300" key="person_5526"><persName xml:lang="chi">(清)董祐誠</persName><persName type="9">dong you
                            cheng</persName></author>
                      <note source="#409">清光緒中上海江南製造局刊本</note>
                      <editor source="#440" role="pbl"><persName>江南製造局</persName><persName type="9" role="pbl">jiang nan zhi zao ju</persName></editor>
@@ -66,7 +66,7 @@
                         <title source="9">ge yuan lian bi li shu tu jie</title>
                         <title type="variant">董方立遺書</title>
                         <title source="9" type="variant">dong fang li yi shu</title>
-                        <author key="person_5526"><persName>(清)董祐誠</persName><persName type="9">dong you
+                        <author key="person_5526"><persName xml:lang="chi">(清)董祐誠</persName><persName type="9">dong you
                               cheng</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20031013/11:19:52|odh -->
@@ -81,7 +81,7 @@
                         <title source="9">tuo yuan qiu zhou shu</title>
                         <title type="variant">董方立遺書</title>
                         <title source="9" type="variant">dong fang li yi shu</title>
-                        <author key="person_5526"><persName>(清)董祐誠</persName><persName type="9">dong you
+                        <author key="person_5526"><persName xml:lang="chi">(清)董祐誠</persName><persName type="9">dong you
                               cheng</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20031013/11:30:27|odh -->
@@ -96,7 +96,7 @@
                         <title source="9">xie hu san bian qiu jiao bu shu</title>
                         <title type="variant">董方立遺書</title>
                         <title source="9" type="variant">dong fang li yi shu</title>
-                        <author key="person_5526"><persName>(清)董祐誠</persName><persName type="9">dong you
+                        <author key="person_5526"><persName xml:lang="chi">(清)董祐誠</persName><persName type="9">dong you
                               cheng</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20031013/11:33:53|odh -->
@@ -111,7 +111,7 @@
                         <title source="9">tui duo qiu ji shu</title>
                         <title type="variant">董方立遺書</title>
                         <title source="9" type="variant">dong fang li yi shu</title>
-                        <author key="person_5526"><persName>(清)董祐誠</persName><persName type="9">dong you
+                        <author key="person_5526"><persName xml:lang="chi">(清)董祐誠</persName><persName type="9">dong you
                               cheng</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20031013/11:36:01|odh -->
@@ -126,7 +126,7 @@
                         <title source="9">san tong shu yan bu</title>
                         <title type="variant">董方立遺書</title>
                         <title source="9" type="variant">dong fang li yi shu</title>
-                        <author key="person_5526"><persName>(清)董祐誠</persName><persName type="9">dong you
+                        <author key="person_5526"><persName xml:lang="chi">(清)董祐誠</persName><persName type="9">dong you
                               cheng</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20031013/11:37:06|odh -->

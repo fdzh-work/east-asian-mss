@@ -48,17 +48,17 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">周易全書</title>
+                     <title xml:lang="chi" source="#200">周易全書</title>
                      <title source="#200|9">zhou yi quan shu</title>
                      <note source="#290">(明)楊時喬撰</note>
-                     <author source="#300" key="person_2356"><persName>(明)楊時喬</persName><persName type="9">yang shi
+                     <author source="#300" key="person_2356"><persName xml:lang="chi">(明)楊時喬</persName><persName type="9">yang shi
                            qiao</persName></author>
                      <note source="#409">明萬曆中初刊本</note>
                      <note source="#600">書名據版心題</note>
                      <msItem n="1">
                         <title>周易古今全書論例 二卷</title>
                         <title source="9">zhou yi gu jin wen quan shu lun li</title>
-                        <author key="person_2356"><persName>(明)楊時喬</persName><persName type="9">yang shi
+                        <author key="person_2356"><persName xml:lang="chi">(明)楊時喬</persName><persName type="9">yang shi
                               qiao</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20130207/17:35:39|odh -->
@@ -67,7 +67,7 @@
                      <msItem n="2">
                         <title>周易全書古文 二卷</title>
                         <title source="9">zhou yi quan shu gu wen</title>
-                        <author key="person_2356"><persName>(明)楊時喬</persName><persName type="9">yang shi
+                        <author key="person_2356"><persName xml:lang="chi">(明)楊時喬</persName><persName type="9">yang shi
                               qiao</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20130207/17:36:11|odh -->
@@ -76,7 +76,7 @@
                      <msItem n="3">
                         <title>周易全書易學啟蒙 五卷</title>
                         <title source="9">zhou yi quan shu yi xue qi meng</title>
-                        <author key="person_2356"><persName>(明)楊時喬</persName><persName type="9">yang shi
+                        <author key="person_2356"><persName xml:lang="chi">(明)楊時喬</persName><persName type="9">yang shi
                               qiao</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20130207/17:38:10|odh -->

@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">歐餘山房文集 二卷</title>
+                     <title xml:lang="chi" source="#200">歐餘山房文集 二卷</title>
                      <title source="#200|9">ou yu shan fang wen ji</title>
                      <note source="#290">(清)丁桂撰</note>
-                     <author source="#300" key="person_3256"><persName>(清)丁桂</persName><persName type="9">ding
+                     <author source="#300" key="person_3256"><persName xml:lang="chi">(清)丁桂</persName><persName type="9">ding
                            gui</persName></author>
                      <note source="#600">民國十一年[1922]刊</note>
                   </msItem>

@@ -50,12 +50,12 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">檀道鸞續晉陽秋 一卷</title>
+                     <title xml:lang="chi" source="#200">檀道鸞續晉陽秋 一卷</title>
                      <title source="#200|9">tan dao luan xu jin yang qiu</title>
                      <title type="variant" source="#230">續晉陽秋</title>
                      <title source="#230|9" type="variant">xu jin yang qiu</title>
                      <note source="#290">(劉宋)檀道鸞撰</note>
-                     <author source="#300" key="person_367"><persName>(劉宋)檀道鸞</persName><persName type="9">tan dao
+                     <author source="#300" key="person_367"><persName xml:lang="chi">(劉宋)檀道鸞</persName><persName type="9">tan dao
                            luan</persName></author>
                   </msItem>
                </msContents>

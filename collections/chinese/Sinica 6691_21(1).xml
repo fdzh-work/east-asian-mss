@@ -49,14 +49,14 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">經書源流歌訣 一卷</title>
+                     <title xml:lang="chi" source="#200">經書源流歌訣 一卷</title>
                      <title source="#200|9">jing shu yuan liu ge jue</title>
-                     <title source="#200">三禮儀制歌訣 一卷</title>
+                     <title xml:lang="chi" source="#200">三禮儀制歌訣 一卷</title>
                      <title source="#200|9">san li yi zhi ge jue</title>
-                     <title source="#200">歷代姓系歌訣 一卷</title>
+                     <title xml:lang="chi" source="#200">歷代姓系歌訣 一卷</title>
                      <title source="#200|9">li dai xing xi ge jue</title>
                      <note source="#290">(清)李鍾倫撰</note>
-                     <author source="#300" key="person_4556"><persName>(清)李鍾倫</persName><persName type="9">li zhong
+                     <author source="#300" key="person_4556"><persName xml:lang="chi">(清)李鍾倫</persName><persName type="9">li zhong
                            lun</persName></author>
                   </msItem>
                </msContents>

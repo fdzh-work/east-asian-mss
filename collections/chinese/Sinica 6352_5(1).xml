@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">呂子校補獻疑 一卷</title>
+                     <title xml:lang="chi" source="#200">呂子校補獻疑 一卷</title>
                      <title source="#200|9">lu zi jiao bu xian yi</title>
                      <note source="#290">(清)蔡雲撰</note>
-                     <author source="#300"><persName>(清)蔡雲</persName><persName type="9">cao
+                     <author source="#300"><persName xml:lang="chi">(清)蔡雲</persName><persName type="9">cao
                            yun</persName></author>
                      <note source="#600">影印清道光七年(1827)刊《元和蔡氏所著書》本</note>
                   </msItem>

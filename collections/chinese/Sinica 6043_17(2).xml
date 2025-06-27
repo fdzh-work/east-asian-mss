@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">寶前兩溪志略 十二卷</title>
+                     <title xml:lang="chi" source="#200">寶前兩溪志略 十二卷</title>
                      <title source="#200|9">bao qian liang xi zhi lue</title>
                      <note source="#290">(清)吳玉樹撰</note>
-                     <author source="#300" key="person_3605"><persName>(清)吳玉樹</persName><persName type="9">wu yu
+                     <author source="#300" key="person_3605"><persName xml:lang="chi">(清)吳玉樹</persName><persName type="9">wu yu
                            shu</persName></author>
                      <note source="#600">民國十一年[1922]刊</note>
                   </msItem>

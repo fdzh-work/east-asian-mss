@@ -46,7 +46,7 @@
                <head>書名: 頌主聖詩 / 漢口福音公會共集<lb/>[漢口], 1890<lb/>線裝1冊(10頁) ; 13.7公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">頌主聖詩</title><title source="#200|9">song zhu sheng shi</title><note source="#290">漢口福音公會共集</note><author><persName>漢口福音公會</persName><persName type="9">han kou fu yin gong hui</persName></author></msItem>         
+                  <title xml:lang="chi" source="#200">頌主聖詩</title><title source="#200|9">song zhu sheng shi</title><note source="#290">漢口福音公會共集</note><author><persName xml:lang="chi">漢口福音公會</persName><persName type="9">han kou fu yin gong hui</persName></author></msItem>         
                </msContents>
                <physDesc>
                   

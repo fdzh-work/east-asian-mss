@@ -46,7 +46,7 @@
                <head>書名: 媽祖出世歌<lb/>新竹 : 竹林書局, 民國48年[1959]<lb/>平裝1冊(54頁) ; 18公分<lb/>書皮題名《媽祖傳新歌》<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">媽祖出世歌</title><title source="#200|9">ma zu chu shi ge</title><title type="variant" source="#230">媽祖傳新歌</title><title source="#230|9" type="variant">ma zu zhuan xin ge</title><editor source="#420" role="pbl"><persName>竹林書局</persName><persName type="9" role="pbl">zhu lin shu ju</persName></editor><note source="#600">書皮題名《媽祖傳新歌》</note></msItem>         
+                  <title xml:lang="chi" source="#200">媽祖出世歌</title><title source="#200|9">ma zu chu shi ge</title><title type="variant" source="#230">媽祖傳新歌</title><title source="#230|9" type="variant">ma zu zhuan xin ge</title><editor source="#420" role="pbl"><persName>竹林書局</persName><persName type="9" role="pbl">zhu lin shu ju</persName></editor><note source="#600">書皮題名《媽祖傳新歌》</note></msItem>         
                </msContents>
                <physDesc>
                   

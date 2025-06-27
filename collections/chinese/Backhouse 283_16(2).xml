@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">榕城詩話 三卷</title>
+                     <title xml:lang="chi" source="#200">榕城詩話 三卷</title>
                      <title source="#200|9">rong cheng shi hua</title>
                      <note source="#290">(清)杭世駿撰</note>
-                     <author source="#300" key="person_4574"><persName>(清)杭世駿</persName><persName type="9">hang shi
+                     <author source="#300" key="person_4574"><persName xml:lang="chi">(清)杭世駿</persName><persName type="9">hang shi
                            jun</persName></author>
                      <note source="#600">乾隆四十年[1775]刊</note>
                   </msItem>

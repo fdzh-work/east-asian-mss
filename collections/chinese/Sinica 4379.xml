@@ -46,8 +46,8 @@
                <head>書名: 十月花胎歌<lb/>暢大先痛後尾新歌<lb/>民國五十一年[1962]臺北排印再版本竹林書局發行<lb/>毛裝1冊 ; 16公分<lb/>封面題名《十月花胎暢先痛尾》<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem><editor source="#440" role="pbl"><persName>竹林書局</persName><persName type="9" role="pbl">zhu lin shu ju</persName></editor><note source="#409">民國五十一年[1962]臺北排印再版本竹林書局發行</note><note source="#600">封面題名《十月花胎暢先痛尾》</note><msItem n="1">
-                  <title source="#200">十月花胎歌</title><title source="#200|9">shi yue hua tai ge</title><title type="variant" source="#230">十月花胎暢先痛尾</title><title source="#230|9" type="variant">shi yue hua tai chang xian tong wei</title></msItem>         
-               <msItem n="2"><title source="#201">暢大先痛後尾新歌</title><title source="#201|9">chang da xian tong hou wei xin ge</title></msItem></msItem></msContents>
+                  <title xml:lang="chi" source="#200">十月花胎歌</title><title source="#200|9">shi yue hua tai ge</title><title type="variant" source="#230">十月花胎暢先痛尾</title><title source="#230|9" type="variant">shi yue hua tai chang xian tong wei</title></msItem>         
+               <msItem n="2"><title xml:lang="chi" source="#201">暢大先痛後尾新歌</title><title source="#201|9">chang da xian tong hou wei xin ge</title></msItem></msItem></msContents>
                <physDesc>
                   
                   <objectDesc>

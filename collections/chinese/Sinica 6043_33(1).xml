@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">南山堂自訂詩 十卷</title>
+                     <title xml:lang="chi" source="#200">南山堂自訂詩 十卷</title>
                      <title source="#200|9">nan shan tang zi ding shi</title>
                      <note source="#290">(清)吳景旭撰</note>
-                     <author source="#300" key="person_3587"><persName>(清)吳景旭</persName><persName type="9">wu jing
+                     <author source="#300" key="person_3587"><persName xml:lang="chi">(清)吳景旭</persName><persName type="9">wu jing
                            xu</persName></author>
                      <note source="#600">民國十二年[1923]刊</note>
                   </msItem>

@@ -46,8 +46,8 @@
                <head>書名: 三伯想思討藥方 上本、下本<lb/>三伯歸天歌<lb/>民國四十九年[1960]臺北排印再版本竹林書局發行<lb/>毛裝1冊 ; 16公分<lb/>封面題名《三伯想思續歸天》<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem><editor source="#440" role="pbl"><persName>竹林書局</persName><persName type="9" role="pbl">zhu lin shu ju</persName></editor><note source="#409">民國四十九年[1960]臺北排印再版本竹林書局發行</note><note source="#600">封面題名《三伯想思續歸天》</note><msItem n="1">
-                  <title source="#200">三伯想思討藥方 上本、下本</title><title source="#200|9">san bo xiang si tao yao fang</title><title type="variant" source="#230">三伯想思續歸天</title><title source="#230|9" type="variant">san bo xiang si xu gui tian</title></msItem>         
-               <msItem n="2"><title source="#201">三伯歸天歌</title><title source="#201|9">san bo gui tian ge</title></msItem></msItem></msContents>
+                  <title xml:lang="chi" source="#200">三伯想思討藥方 上本、下本</title><title source="#200|9">san bo xiang si tao yao fang</title><title type="variant" source="#230">三伯想思續歸天</title><title source="#230|9" type="variant">san bo xiang si xu gui tian</title></msItem>         
+               <msItem n="2"><title xml:lang="chi" source="#201">三伯歸天歌</title><title source="#201|9">san bo gui tian ge</title></msItem></msItem></msContents>
                <physDesc>
                   
                   <objectDesc>

@@ -50,23 +50,23 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">周髀算經 二卷</title>
+                     <title xml:lang="chi" source="#200">周髀算經 二卷</title>
                      <title source="#200|9">zhou bi suan jing</title>
                      <note source="#290">(漢)趙爽撰</note>
                      <note source="#290">(北周)甄鸞重述</note>
                      <note source="#290">(唐)李淳風等注釋</note>
-                     <author source="#300" key="person_6603"><persName>(漢)趙爽</persName><persName type="9">zhao
+                     <author source="#300" key="person_6603"><persName xml:lang="chi">(漢)趙爽</persName><persName type="9">zhao
                            shuang</persName></author>
-                     <author source="#300" key="person_401"><persName>(北周)甄鸞</persName><persName type="9">zhen
+                     <author source="#300" key="person_401"><persName xml:lang="chi">(北周)甄鸞</persName><persName type="9">zhen
                            luan</persName></author>
-                     <author source="#300" key="person_689"><persName>(唐)李淳風</persName><persName type="9">li chun
+                     <author source="#300" key="person_689"><persName xml:lang="chi">(唐)李淳風</persName><persName type="9">li chun
                            feng</persName></author>
                   </msItem>
                   <msItem n="2">
-                     <title source="#201">周髀音義 一卷</title>
+                     <title xml:lang="chi" source="#201">周髀音義 一卷</title>
                      <title source="#201|9">zhou bi yin yi</title>
                      <note source="#291">(宋)李籍撰</note>
-                     <author source="#301" key="person_1292"><persName>(宋)李籍</persName><persName type="9">li
+                     <author source="#301" key="person_1292"><persName xml:lang="chi">(宋)李籍</persName><persName type="9">li
                            ji</persName></author>
                   </msItem>
                </msContents>

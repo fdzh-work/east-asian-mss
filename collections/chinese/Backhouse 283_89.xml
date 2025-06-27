@@ -49,12 +49,12 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">昌武段氏詩義指南 一卷</title>
+                     <title xml:lang="chi" source="#200">昌武段氏詩義指南 一卷</title>
                      <title source="#200|9">chang wu duan shi shi yi zhi nan</title>
                      <title type="variant" source="#230">詩義指南</title>
                      <title source="#230|9" type="variant">shi yi zhi nan</title>
                      <note source="#290">(宋)段昌武撰</note>
-                     <author source="#300" key="person_1353"><persName>(宋)段昌武</persName><persName type="9">duan chang
+                     <author source="#300" key="person_1353"><persName xml:lang="chi">(宋)段昌武</persName><persName type="9">duan chang
                            wu</persName></author>
                   </msItem>
                </msContents>

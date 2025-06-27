@@ -46,7 +46,7 @@
                <head>書名: 增訂本草原始 十二卷 / (明)李中立纂輯 ; (明)周亮登校訂<lb/>明崇禎癸酉年[1633]刊本醉畊堂藏板<lb/>線裝6冊 : 圖 ; 24公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">增訂本草原始 十二卷</title><title source="#200|9">zeng ding ben cao yuan shi</title><note source="#290">(明)李中立纂輯</note><note source="#290">(明)周亮登校訂</note><author source="#300" key="person_2286"><persName>(明)李中立</persName><persName type="9">li zhong li</persName></author><author source="#300" key="person_2074"><persName>(明)周亮登</persName><persName type="9">zhou liang deng</persName></author><note source="#409">明崇禎癸酉年[1633]刊本醉畊堂藏板</note><editor source="#440" role="pbl"><persName>醉畊堂</persName><persName type="9" role="pbl">zui geng tang</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">增訂本草原始 十二卷</title><title source="#200|9">zeng ding ben cao yuan shi</title><note source="#290">(明)李中立纂輯</note><note source="#290">(明)周亮登校訂</note><author source="#300" key="person_2286"><persName xml:lang="chi">(明)李中立</persName><persName type="9">li zhong li</persName></author><author source="#300" key="person_2074"><persName xml:lang="chi">(明)周亮登</persName><persName type="9">zhou liang deng</persName></author><note source="#409">明崇禎癸酉年[1633]刊本醉畊堂藏板</note><editor source="#440" role="pbl"><persName>醉畊堂</persName><persName type="9" role="pbl">zui geng tang</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

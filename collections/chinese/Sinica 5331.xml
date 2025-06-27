@@ -46,7 +46,7 @@
                <head>書名: 玉樓春怨<lb/>廣州 : 五桂堂書局[總發行], [1920或1930年代?]<lb/>平裝1冊(58頁) ; 19公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">玉樓春怨</title><title source="#200|9">yu lou chun yuan</title><editor source="#420" role="pbl"><persName>五桂堂書局</persName><persName type="9" role="pbl">wu gui tang shu ju</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">玉樓春怨</title><title source="#200|9">yu lou chun yuan</title><editor source="#420" role="pbl"><persName>五桂堂書局</persName><persName type="9" role="pbl">wu gui tang shu ju</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

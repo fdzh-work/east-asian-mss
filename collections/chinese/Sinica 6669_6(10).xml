@@ -49,11 +49,11 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">廬餘集 一卷</title>
+                     <title xml:lang="chi" source="#200">廬餘集 一卷</title>
                      <title source="#200|9">lu yu ji</title>
                      <title type="variant" source="#230">魂粵集</title>
                      <title source="#230|9" type="variant">hun yue ji</title>
-                     <author source="#300" key="person_3122"><persName>(民國)易順鼎</persName><persName type="9">yi shun
+                     <author source="#300" key="person_3122"><persName xml:lang="chi">(民國)易順鼎</persName><persName type="9">yi shun
                            ding</persName></author>
                      <note source="#600">書皮題名《魂粵集》</note>
                      <note source="#600">光緒戊申[1908]廣州鉛印本</note>

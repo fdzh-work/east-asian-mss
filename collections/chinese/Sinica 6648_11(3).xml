@@ -49,20 +49,20 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">寒山詩集 一卷</title>
+                     <title xml:lang="chi" source="#200">寒山詩集 一卷</title>
                      <title source="#200|9">han shan shi ji</title>
                      <note source="#290">(唐釋)寒山撰</note>
-                     <author source="#300" key="person_896"><persName>(唐釋)寒山</persName><persName type="9">han
+                     <author source="#300" key="person_896"><persName xml:lang="chi">(唐釋)寒山</persName><persName type="9">han
                            shan</persName></author>
                      <note source="#600">影刊影鈔宋尹家本</note>
                   </msItem>
                   <msItem n="2">
-                     <title source="#201">附 豐干拾得詩 一卷</title>
+                     <title xml:lang="chi" source="#201">附 豐干拾得詩 一卷</title>
                      <title source="#201|9">feng gan shi de shi</title>
                      <note source="#291">(唐釋)豐干, (唐釋)拾得撰</note>
-                     <author source="#301" key="person_917"><persName>(唐釋)豐干</persName><persName type="9">feng
+                     <author source="#301" key="person_917"><persName xml:lang="chi">(唐釋)豐干</persName><persName type="9">feng
                            gan</persName></author>
-                     <author source="#301" key="person_902"><persName>(唐釋)拾得</persName><persName type="9">shi
+                     <author source="#301" key="person_902"><persName xml:lang="chi">(唐釋)拾得</persName><persName type="9">shi
                            de</persName></author>
                   </msItem>
                </msContents>

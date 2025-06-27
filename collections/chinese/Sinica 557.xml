@@ -46,7 +46,7 @@
                <head>書名: 楊椒山公家訓 一卷 / (明)楊繼盛撰<lb/>清同治癸酉[1873]上海文墨齋刊本<lb/>線裝1冊 ; 18公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">楊椒山公家訓 一卷</title><title source="#200|9">yang jiao shan gong jia xun</title><note source="#290">(明)楊繼盛撰</note><author source="#300" key="person_2360"><persName>(明)楊繼盛</persName><persName type="9">yang ji sheng</persName></author><note source="#409">清同治癸酉[1873]上海文墨齋刊本</note><editor source="#440" role="pbl"><persName>文墨齋</persName><persName type="9" role="pbl">wen mo zhai</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">楊椒山公家訓 一卷</title><title source="#200|9">yang jiao shan gong jia xun</title><note source="#290">(明)楊繼盛撰</note><author source="#300" key="person_2360"><persName xml:lang="chi">(明)楊繼盛</persName><persName type="9">yang ji sheng</persName></author><note source="#409">清同治癸酉[1873]上海文墨齋刊本</note><editor source="#440" role="pbl"><persName>文墨齋</persName><persName type="9" role="pbl">wen mo zhai</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

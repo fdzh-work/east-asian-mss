@@ -46,7 +46,7 @@
                <head>書名: 武昌紀事 一卷 / (清)陳徽言撰<lb/>民國甲寅年[1914]雲南圖書館刊本<lb/>洋裝(原線裝)1冊 ; 24公分<lb/>本書為《雲南叢書史部》之四<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">武昌紀事 一卷</title><title source="#200|9">wu chang ji shi</title><title type="variant" source="#230">雲南叢書史部</title><title source="#230|9" type="variant">yun nan cong shu shi bu</title><note source="#290">(清)陳徽言撰</note><author source="#300" key="person_6047"><persName>(清)陳徽言</persName><persName type="9">chen hui yan</persName></author><note source="#409">民國甲寅年[1914]雲南圖書館刊本</note><editor source="#440" role="pbl"><persName>雲南圖書館</persName></editor><editor source="#446" role="pbl"><persName>雲南叢書史部</persName><persName type="9" role="pbl">yun nan cong shu zhi bu</persName></editor><note source="#600">本書為《雲南叢書史部》之四</note></msItem>         
+                  <title xml:lang="chi" source="#200">武昌紀事 一卷</title><title source="#200|9">wu chang ji shi</title><title type="variant" source="#230">雲南叢書史部</title><title source="#230|9" type="variant">yun nan cong shu shi bu</title><note source="#290">(清)陳徽言撰</note><author source="#300" key="person_6047"><persName xml:lang="chi">(清)陳徽言</persName><persName type="9">chen hui yan</persName></author><note source="#409">民國甲寅年[1914]雲南圖書館刊本</note><editor source="#440" role="pbl"><persName>雲南圖書館</persName></editor><editor source="#446" role="pbl"><persName>雲南叢書史部</persName><persName type="9" role="pbl">yun nan cong shu zhi bu</persName></editor><note source="#600">本書為《雲南叢書史部》之四</note></msItem>         
                </msContents>
                <physDesc>
                   

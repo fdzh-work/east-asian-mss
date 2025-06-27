@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">兩漢解疑 二卷</title>
+                     <title xml:lang="chi" source="#200">兩漢解疑 二卷</title>
                      <title source="#200|9">liang han jie yi</title>
                      <note source="#290">(明)唐順之撰</note>
-                     <author source="#300" key="person_2105"><persName>(明)唐順之</persName><persName type="9">tang shun
+                     <author source="#300" key="person_2105"><persName xml:lang="chi">(明)唐順之</persName><persName type="9">tang shun
                            zhi</persName></author>
                      <note source="#600">光緒乙酉[1885]刊</note>
                   </msItem>

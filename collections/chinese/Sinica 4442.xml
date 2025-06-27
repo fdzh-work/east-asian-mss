@@ -46,8 +46,8 @@
                <head>書名: 孫悟空大鬧水宮 一集<lb/>孫悟空大鬧地府 二集<lb/>孫悟空大鬧天宮 三、四集<lb/>民國四十九年[1960]臺北排印再版本竹林書局發行<lb/>毛裝1冊 ; 16公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem><editor source="#440" role="pbl"><persName>竹林書局</persName><persName type="9" role="pbl">zhu lin shu ju</persName></editor><note source="#409">民國四十九年[1960]臺北排印再版本竹林書局發行</note><msItem n="1">
-                  <title source="#200">孫悟空大鬧水宮 一集</title><title source="#200|9">sun wu kong da nao shui gong</title></msItem>         
-               <msItem n="2"><title source="#201">孫悟空大鬧地府 二集</title><title source="#201|9">sun wu kong da nao di fu</title></msItem><msItem n="3"><title source="#202">孫悟空大鬧天宮 三、四集</title><title source="#202|9">sun wu kong da nao tian gong</title></msItem></msItem></msContents>
+                  <title xml:lang="chi" source="#200">孫悟空大鬧水宮 一集</title><title source="#200|9">sun wu kong da nao shui gong</title></msItem>         
+               <msItem n="2"><title xml:lang="chi" source="#201">孫悟空大鬧地府 二集</title><title source="#201|9">sun wu kong da nao di fu</title></msItem><msItem n="3"><title xml:lang="chi" source="#202">孫悟空大鬧天宮 三、四集</title><title source="#202|9">sun wu kong da nao tian gong</title></msItem></msItem></msContents>
                <physDesc>
                   
                   <objectDesc>

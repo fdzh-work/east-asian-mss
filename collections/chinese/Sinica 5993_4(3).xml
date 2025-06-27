@@ -51,15 +51,15 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">詳註周美成詞片玉集 十卷</title>
+                     <title xml:lang="chi" source="#200">詳註周美成詞片玉集 十卷</title>
                      <title source="#200|9">xiang zhu zhou mei cheng ci pian yu ji</title>
                      <title type="variant" source="#230">片玉集</title>
                      <title source="#230|9" type="variant">pian yu ji</title>
                      <note source="#290">(宋)周邦彥撰</note>
                      <note source="#290">(宋)陳元龍集註</note>
-                     <author source="#300" key="person_1073"><persName>(宋)周邦彥</persName><persName type="9">zhou bang
+                     <author source="#300" key="person_1073"><persName xml:lang="chi">(宋)周邦彥</persName><persName type="9">zhou bang
                            yan</persName></author>
-                     <author source="#300" key="person_1736"><persName>(宋)陳元龍</persName><persName type="9">chen yuan
+                     <author source="#300" key="person_1736"><persName xml:lang="chi">(宋)陳元龍</persName><persName type="9">chen yuan
                            long</persName></author>
                      <note source="#600">景刊宋本</note>
                   </msItem>

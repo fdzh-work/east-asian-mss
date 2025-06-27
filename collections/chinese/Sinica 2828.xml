@@ -48,7 +48,7 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">大學衍義大學衍義補合刻</title>
+                     <title xml:lang="chi" source="#200">大學衍義大學衍義補合刻</title>
                      <title source="#200|9">da xue yan yi da xue yan yi bu he ke</title>
                      <note source="#409">清同治十三年[1874]夔州府雲邑郭氏家塾刊本</note>
                      <msItem n="1">
@@ -56,9 +56,9 @@
                         <title source="9">da xue yan yi</title>
                         <note source="290">(宋)真德秀撰</note>
                         <note source="290">(明)陳仁錫評</note>
-                        <author key="person_1474"><persName>(宋)真德秀</persName><persName type="9">zhen de
+                        <author key="person_1474"><persName xml:lang="chi">(宋)真德秀</persName><persName type="9">zhen de
                            xiu</persName></author>
-                        <author key="person_2701"><persName>(明)陳仁錫</persName><persName type="9">chen ren
+                        <author key="person_2701"><persName xml:lang="chi">(明)陳仁錫</persName><persName type="9">chen ren
                            xi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20141212/15:04:17|odh -->
@@ -70,9 +70,9 @@
                         <title source="9">da xue yan yi bu</title>
                         <note source="290">(明)丘濬撰</note>
                         <note source="290">(明)陳仁錫評</note>
-                        <author key="person_1988"><persName>(明)丘濬</persName><persName type="9">qiu
+                        <author key="person_1988"><persName xml:lang="chi">(明)丘濬</persName><persName type="9">qiu
                            jun</persName></author>
-                        <author key="person_2701"><persName>(明)陳仁錫</persName><persName type="9">chen ren
+                        <author key="person_2701"><persName xml:lang="chi">(明)陳仁錫</persName><persName type="9">chen ren
                            xi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20141212/15:05:41|odh -->

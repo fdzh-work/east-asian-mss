@@ -46,7 +46,7 @@
                <head>書名: 戰國策詳註 三十三卷 / (民國)郭希汾輯註 ; (民國)王懋校訂<lb/>民國五年[1916]上海文明書局排印本<lb/>線裝6冊 ; 20公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">戰國策詳註 三十三卷</title><title source="#200|9">zhan guo ce xiang zhu</title><note source="#290">(民國)郭希汾輯註</note><note source="#290">(民國)王懋校訂</note><author source="#300" key="person_3196"><persName>(民國)郭希汾</persName><persName type="9">guo xi fen</persName></author><author source="#300" key="person_3155"><persName>(民國)王懋</persName><persName type="9">wang mao</persName></author><note source="#409">民國五年[1916]上海文明書局排印本</note><editor source="#440" role="pbl"><persName>文明書局</persName><persName type="9" role="pbl">wen ming shu ju</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">戰國策詳註 三十三卷</title><title source="#200|9">zhan guo ce xiang zhu</title><note source="#290">(民國)郭希汾輯註</note><note source="#290">(民國)王懋校訂</note><author source="#300" key="person_3196"><persName xml:lang="chi">(民國)郭希汾</persName><persName type="9">guo xi fen</persName></author><author source="#300" key="person_3155"><persName xml:lang="chi">(民國)王懋</persName><persName type="9">wang mao</persName></author><note source="#409">民國五年[1916]上海文明書局排印本</note><editor source="#440" role="pbl"><persName>文明書局</persName><persName type="9" role="pbl">wen ming shu ju</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

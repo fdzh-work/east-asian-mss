@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">貴池二妙集 四十七卷</title>
+                     <title xml:lang="chi" source="#200">貴池二妙集 四十七卷</title>
                      <title source="#200|9">gui chi er miao ji</title>
                      <note source="#290">(民國)劉世珩輯</note>
-                     <author source="#300" key="person_3073"><persName>(民國)劉世珩</persName><persName type="9">liu shi
+                     <author source="#300" key="person_3073"><persName xml:lang="chi">(民國)劉世珩</persName><persName type="9">liu shi
                            heng</persName></author>
                      <note source="#600">清光緒二十六年[1900]刊</note>
                   </msItem>
@@ -99,7 +99,7 @@
                         <title>樓山堂集 二十七卷首一卷</title>
                         <title source="9">lou shan tang ji</title>
                         <note source="290">(明)吳應箕撰</note>
-                        <author key="person_2059"><persName>(明)吳應箕</persName><persName type="9">wu ying
+                        <author key="person_2059"><persName xml:lang="chi">(明)吳應箕</persName><persName type="9">wu ying
                            ji</persName></author>
                      </msItem>
                   </msContents>
@@ -125,7 +125,7 @@
                         <title>嶧桐集 文十卷詩十卷</title>
                         <title source="9">yi tong ji</title>
                         <note source="290">(明)劉城撰</note>
-                        <author key="person_2025"><persName>(明)劉城</persName><persName type="9">liu
+                        <author key="person_2025"><persName xml:lang="chi">(明)劉城</persName><persName type="9">liu
                            cheng</persName></author>
                      </msItem>
                   </msContents>

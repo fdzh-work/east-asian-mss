@@ -46,8 +46,8 @@
                <head>書名: 李翰林集 三十卷 / (唐)李白撰<lb/>李集札記 一卷 / (清)劉世珩撰<lb/>清宣統元年[1909]貴池劉氏玉海堂景刊宋咸淳本1980年揚州江蘇廣陵古籍刻印社重印本<lb/>線裝10冊 ; 29公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem><editor source="#440" role="pbl"><persName>江蘇廣陵古籍刻印社</persName><persName type="9" role="pbl">jiang su guang ling gu ji ke yin she</persName></editor><note source="#409">清宣統元年[1909]貴池劉氏玉海堂景刊宋咸淳本1980年揚州江蘇廣陵古籍刻印社重印本</note><msItem n="1">
-                  <title source="#200">李翰林集 三十卷</title><title source="#200|9">li han lin ji</title><note source="#290">(唐)李白撰</note><author source="#300" key="person_693"><persName>(唐)李白</persName><persName type="9">li bai</persName></author></msItem>         
-               <msItem n="2"><title source="#201">李集札記 一卷</title><title source="#201|9">li ji zha ji</title><note source="#291">(清)劉世珩撰</note><author source="#301" key="person_3073"><persName>(民國)劉世珩</persName><persName type="9">liu shi heng</persName></author></msItem></msItem></msContents>
+                  <title xml:lang="chi" source="#200">李翰林集 三十卷</title><title source="#200|9">li han lin ji</title><note source="#290">(唐)李白撰</note><author source="#300" key="person_693"><persName xml:lang="chi">(唐)李白</persName><persName type="9">li bai</persName></author></msItem>         
+               <msItem n="2"><title xml:lang="chi" source="#201">李集札記 一卷</title><title source="#201|9">li ji zha ji</title><note source="#291">(清)劉世珩撰</note><author source="#301" key="person_3073"><persName xml:lang="chi">(民國)劉世珩</persName><persName type="9">liu shi heng</persName></author></msItem></msItem></msContents>
                <physDesc>
                   
                   <objectDesc>

@@ -46,7 +46,7 @@
                <head>書名: 古國鑑略, 官話 / 高第丕著<lb/>[Shanghai], 1873<lb/>線裝1冊([1], 81, 4頁) ; 24.2公分<lb/>In Mandarin dialect<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">古國鑑略, 官話</title><title source="#200|9">gu guo jian lue, guan hua</title><note source="#290">高第丕著</note><author source="#300" key="person_6819"><persName>Crawford, Tarleton Perry</persName></author><note source="#600">In Mandarin dialect</note></msItem>         
+                  <title xml:lang="chi" source="#200">古國鑑略, 官話</title><title source="#200|9">gu guo jian lue, guan hua</title><note source="#290">高第丕著</note><author source="#300" key="person_6819"><persName xml:lang="chi">Crawford, Tarleton Perry</persName></author><note source="#600">In Mandarin dialect</note></msItem>         
                </msContents>
                <physDesc>
                   

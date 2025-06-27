@@ -49,12 +49,12 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">王鳴盛尚書辨 二卷</title>
+                     <title xml:lang="chi" source="#200">王鳴盛尚書辨 二卷</title>
                      <title source="#200|9">wang ming sheng shang shu bian</title>
                      <title type="variant" source="#230">尚書辨</title>
                      <title source="#230|9" type="variant">shang shu bian</title>
                      <note source="#290">(清)王鳴盛撰</note>
-                     <author source="#300" key="person_5170"><persName>(清)王鳴盛</persName><persName type="9">wang ming
+                     <author source="#300" key="person_5170"><persName xml:lang="chi">(清)王鳴盛</persName><persName type="9">wang ming
                            sheng</persName></author>
                   </msItem>
                </msContents>

@@ -49,14 +49,14 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">顏氏家藏尺牘 四卷</title>
+                     <title xml:lang="chi" source="#200">顏氏家藏尺牘 四卷</title>
                      <title source="#200|9">yan shi jia cang chi du</title>
-                     <title source="#200">顏氏家藏尺牘姓氏考 一卷</title>
+                     <title xml:lang="chi" source="#200">顏氏家藏尺牘姓氏考 一卷</title>
                      <title source="#200|9">yan shi jia cang chi du xing shi kao</title>
                      <title type="variant" source="#230">尺牘姓氏考</title>
                      <title source="#230|9" type="variant">chi du xing shi kao</title>
                      <note source="#290">(清)顏光敏輯</note>
-                     <author source="#300" key="person_6204"><persName>(清)顏光敏</persName><persName type="9">yan guang
+                     <author source="#300" key="person_6204"><persName xml:lang="chi">(清)顏光敏</persName><persName type="9">yan guang
                            min</persName></author>
                      <note source="#600">道光二十七年[1847]刊</note>
                   </msItem>

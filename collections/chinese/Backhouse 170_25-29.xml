@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">宋大家蘇文定公文鈔 二十卷</title>
+                     <title xml:lang="chi" source="#200">宋大家蘇文定公文鈔 二十卷</title>
                      <title source="#200|9">song da jia su wen ding gong wen chao</title>
                      <note source="#290">(宋)蘇轍撰</note>
-                     <author source="#300"><persName>(宋)蘇轍</persName><persName type="9">su
+                     <author source="#300"><persName xml:lang="chi">(宋)蘇轍</persName><persName type="9">su
                            zhe</persName></author>
                   </msItem>
                </msContents>

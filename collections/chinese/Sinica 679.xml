@@ -46,7 +46,7 @@
                <head>書名: 世善堂藏書目錄 二卷 / (明)陳第撰<lb/>清乾隆中刊《知不足齋叢書》本<lb/>線裝2冊 ; 20公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">世善堂藏書目錄 二卷</title><title source="#200|9">shi shan tang cang shu mu lu</title><note source="#290">(明)陳第撰</note><author source="#300" key="person_2723"><persName>(明)陳第</persName><persName type="9">chen di</persName></author><note source="#409">清乾隆中刊《知不足齋叢書》本</note><editor source="#446" role="pbl"><persName>知不足齋叢書</persName><persName type="9" role="pbl">zhi bu zu zhai cong shu</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">世善堂藏書目錄 二卷</title><title source="#200|9">shi shan tang cang shu mu lu</title><note source="#290">(明)陳第撰</note><author source="#300" key="person_2723"><persName xml:lang="chi">(明)陳第</persName><persName type="9">chen di</persName></author><note source="#409">清乾隆中刊《知不足齋叢書》本</note><editor source="#446" role="pbl"><persName>知不足齋叢書</persName><persName type="9" role="pbl">zhi bu zu zhai cong shu</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

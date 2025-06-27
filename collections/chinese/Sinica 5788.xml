@@ -46,7 +46,7 @@
                <head>書名: 花之慘 : 白話小說 / 悼落紅生撰<lb/>廣州 ; 香港 : 歐家全藥房, [1920或1930年代?]<lb/>平裝1冊(44頁) ; 19公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">花之慘 : 白話小說</title><title source="#200|9">hua zhi can : bai hua xiao shuo</title><note source="#290">悼落紅生撰</note><author source="#300" key="person_7138"><persName>悼落紅生</persName><persName type="9">dao luo hong sheng</persName></author><editor source="#420" role="pbl"><persName>歐家全藥房</persName><persName type="9" role="pbl">ou jia quan yao fang</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">花之慘 : 白話小說</title><title source="#200|9">hua zhi can : bai hua xiao shuo</title><note source="#290">悼落紅生撰</note><author source="#300" key="person_7138"><persName xml:lang="chi">悼落紅生</persName><persName type="9">dao luo hong sheng</persName></author><editor source="#420" role="pbl"><persName>歐家全藥房</persName><persName type="9" role="pbl">ou jia quan yao fang</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

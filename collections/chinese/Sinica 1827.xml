@@ -46,7 +46,7 @@
                <head>書名: Sing-saen-yiae-ko<lb/>Nying-po [Ningpo] : 華花書房, 1858<lb/>線裝1冊(x, 72, 4頁) : 樂譜 ; 17.9 x 26.6公分<lb/>Chinese title: 聖山諧歌<lb/>By E B Inslee<lb/>In romanised Ningpo dialect<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">Sing-saen-yiae-ko</title><title type="variant" source="#230">聖山諧歌</title><title source="#230|9" type="variant">sheng shan xie ge</title><author source="#300" key="person_6901"><persName>Inslee, Elias B</persName></author><editor source="#420" role="pbl"><persName>華花書房</persName><persName type="9" role="pbl">hua hua shu fang</persName></editor><note source="#600">Chinese title: 聖山諧歌</note><note source="#600">By E B Inslee</note><note source="#600">In romanised Ningpo dialect</note></msItem>         
+                  <title xml:lang="chi" source="#200">Sing-saen-yiae-ko</title><title type="variant" source="#230">聖山諧歌</title><title source="#230|9" type="variant">sheng shan xie ge</title><author source="#300" key="person_6901"><persName xml:lang="chi">Inslee, Elias B</persName></author><editor source="#420" role="pbl"><persName>華花書房</persName><persName type="9" role="pbl">hua hua shu fang</persName></editor><note source="#600">Chinese title: 聖山諧歌</note><note source="#600">By E B Inslee</note><note source="#600">In romanised Ningpo dialect</note></msItem>         
                </msContents>
                <physDesc>
                   

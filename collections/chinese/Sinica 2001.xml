@@ -46,7 +46,7 @@
                <head>書名: 聖日禱文<lb/>香港 : 聖士提反堂, 1877<lb/>線裝1冊(96頁) ; 23.3公分<lb/>Tr. A B Hutchinson<lb/>In Canton dialect<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">聖日禱文</title><title source="#200|9">sheng ri dao wen</title><author source="#300" key="person_6897"><persName>Hutchinson, Arthur B</persName></author><editor source="#420" role="pbl"><persName>聖士提反堂</persName><persName type="9" role="pbl">sheng shi ti fan tang</persName></editor><note source="#600">Tr. A B Hutchinson</note><note source="#600">In Canton dialect</note></msItem>         
+                  <title xml:lang="chi" source="#200">聖日禱文</title><title source="#200|9">sheng ri dao wen</title><author source="#300" key="person_6897"><persName xml:lang="chi">Hutchinson, Arthur B</persName></author><editor source="#420" role="pbl"><persName>聖士提反堂</persName><persName type="9" role="pbl">sheng shi ti fan tang</persName></editor><note source="#600">Tr. A B Hutchinson</note><note source="#600">In Canton dialect</note></msItem>         
                </msContents>
                <physDesc>
                   

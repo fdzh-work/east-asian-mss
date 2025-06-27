@@ -46,7 +46,7 @@
                <head>書名: 安息日正論<lb/>上海 : 魚行橋東崇教堂, 1853<lb/>線裝1冊(23頁) ; 20.6公分<lb/>By S Carpenter<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">安息日正論</title><title source="#200|9">an xi ri zheng lun</title><author source="#300" key="person_6803"><persName>Carpenter, Solomon</persName></author><editor source="#420" role="pbl"><persName>魚行橋東崇教堂</persName><persName type="9" role="pbl">yu xing qiao dong chong jiao tang</persName></editor><note source="#600">By S Carpenter</note></msItem>         
+                  <title xml:lang="chi" source="#200">安息日正論</title><title source="#200|9">an xi ri zheng lun</title><author source="#300" key="person_6803"><persName xml:lang="chi">Carpenter, Solomon</persName></author><editor source="#420" role="pbl"><persName>魚行橋東崇教堂</persName><persName type="9" role="pbl">yu xing qiao dong chong jiao tang</persName></editor><note source="#600">By S Carpenter</note></msItem>         
                </msContents>
                <physDesc>
                   

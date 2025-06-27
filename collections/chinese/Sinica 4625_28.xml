@@ -46,7 +46,7 @@
                <head>書名: 漢郙閣頌<lb/>民國八年[1919]上海藝苑真賞社影印本<lb/>線裝1冊 ; 34公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">漢郙閣頌</title><title source="#200|9">han fu ge song</title><note source="#409">民國八年[1919]上海藝苑真賞社影印本</note><editor source="#440" role="pbl"><persName>藝苑真賞社</persName><persName type="9" role="pbl">yi yuan zhen shang she</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">漢郙閣頌</title><title source="#200|9">han fu ge song</title><note source="#409">民國八年[1919]上海藝苑真賞社影印本</note><editor source="#440" role="pbl"><persName>藝苑真賞社</persName><persName type="9" role="pbl">yi yuan zhen shang she</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

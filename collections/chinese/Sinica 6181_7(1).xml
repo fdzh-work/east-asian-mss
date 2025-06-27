@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">賭棋山莊集詞話 十二卷續編五卷</title>
+                     <title xml:lang="chi" source="#200">賭棋山莊集詞話 十二卷續編五卷</title>
                      <title source="#200|9">du qi shan zhuang ji ci hua</title>
                      <note source="#290">(清)謝章鋌撰</note>
-                     <author source="#300" key="person_5698"><persName>(清)謝章鋌</persName><persName type="9">xie zhang
+                     <author source="#300" key="person_5698"><persName xml:lang="chi">(清)謝章鋌</persName><persName type="9">xie zhang
                            ting</persName></author>
                   </msItem>
                </msContents>

@@ -46,7 +46,7 @@
                <head>書名: 馬可福音畧解<lb/>漢鎮 : 英漢書館[鉛板印], 1890<lb/>線裝1冊(1, 19頁) : 地圖 ; 20.0公分<lb/>Has 「新約聖書」 in the centre column and at the beginning of the text<lb/>Printed cover label has 「馬可福音畧解 : 文理」<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">馬可福音畧解</title><title source="#200|9">ma ke fu yin lue jie</title><title type="variant" source="#230">馬可福音畧解 : 文理</title><title source="#230|9" type="variant">ma ke fu yin lue jie : wen li</title><author source="#300" key="person_6903"><persName>John, Griffith</persName></author><editor source="#420" role="pbl"><persName>英漢書館</persName><persName type="9" role="pbl">ying han shu guan</persName></editor><note source="#600">Has 「新約聖書」 in the centre column and at the beginning of the text</note><note source="#600">Printed cover label has 「馬可福音畧解 : 文理」</note></msItem>         
+                  <title xml:lang="chi" source="#200">馬可福音畧解</title><title source="#200|9">ma ke fu yin lue jie</title><title type="variant" source="#230">馬可福音畧解 : 文理</title><title source="#230|9" type="variant">ma ke fu yin lue jie : wen li</title><author source="#300" key="person_6903"><persName xml:lang="chi">John, Griffith</persName></author><editor source="#420" role="pbl"><persName>英漢書館</persName><persName type="9" role="pbl">ying han shu guan</persName></editor><note source="#600">Has 「新約聖書」 in the centre column and at the beginning of the text</note><note source="#600">Printed cover label has 「馬可福音畧解 : 文理」</note></msItem>         
                </msContents>
                <physDesc>
                   

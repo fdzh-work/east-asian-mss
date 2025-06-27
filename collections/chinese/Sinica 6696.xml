@@ -48,16 +48,16 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">隨盦所箸書</title>
+                     <title xml:lang="chi" source="#200">隨盦所箸書</title>
                      <title source="#200|9">sui an suo zhu shu</title>
                      <note source="#290">(民國)徐乃昌編</note>
-                     <author source="#300"><persName>(民國)徐乃昌</persName><persName type="9">xu nai
+                     <author source="#300"><persName xml:lang="chi">(民國)徐乃昌</persName><persName type="9">xu nai
                            chang</persName></author>
                      <note source="#409">民國乙卯[1915]南陵徐氏積學齋彙印本</note>
                      <msItem n="1">
                         <title>續方言又補 二卷</title>
                         <title source="9">xu fang yan you bu</title>
-                        <author><persName>(民國)徐乃昌</persName><persName type="9">xu nai
+                        <author><persName xml:lang="chi">(民國)徐乃昌</persName><persName type="9">xu nai
                               chang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180709/00000102|odh -->
@@ -66,7 +66,7 @@
                      <msItem n="2">
                         <title>南陵縣建置沿革表 一卷</title>
                         <title source="9">nan ling xian jian zhi yan ge biao</title>
-                        <author><persName>(民國)徐乃昌</persName><persName type="9">xu nai
+                        <author><persName xml:lang="chi">(民國)徐乃昌</persName><persName type="9">xu nai
                               chang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180709/00000103|odh -->
@@ -76,7 +76,7 @@
                      <msItem n="3">
                         <title>續後漢儒林傳補逸 一卷</title>
                         <title source="9">xu hou han ru lin zhuan bu yi</title>
-                        <author><persName>(民國)徐乃昌</persName><persName type="9">xu nai
+                        <author><persName xml:lang="chi">(民國)徐乃昌</persName><persName type="9">xu nai
                               chang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180709/00000104|odh -->
@@ -87,7 +87,7 @@
                         <title>皖詞紀勝 一卷</title>
                         <title source="9">wan ci ji sheng</title>
                         <note source="290">(民國)徐乃昌輯</note>
-                        <author><persName>(民國)徐乃昌</persName><persName type="9">xu nai
+                        <author><persName xml:lang="chi">(民國)徐乃昌</persName><persName type="9">xu nai
                               chang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180709/00000105|odh -->

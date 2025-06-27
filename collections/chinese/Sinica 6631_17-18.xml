@@ -50,12 +50,12 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">唐濮王泰等括地志 一卷</title>
+                     <title xml:lang="chi" source="#200">唐濮王泰等括地志 一卷</title>
                      <title source="#200|9">tang pu wang tai deng kuo di zhi</title>
                      <title type="variant" source="#230">括地志</title>
                      <title source="#230|9" type="variant">kuo di zhi</title>
                      <note source="#290">(唐)李泰撰</note>
-                     <author source="#300" key="person_687"><persName>(唐)李泰</persName><persName type="9">li
+                     <author source="#300" key="person_687"><persName xml:lang="chi">(唐)李泰</persName><persName type="9">li
                            tai</persName></author>
                   </msItem>
                </msContents>

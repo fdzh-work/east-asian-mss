@@ -46,7 +46,7 @@
                <head>書名: 孫子兵法 一卷 / (周)孫武撰<lb/>壬午[2002]揚州廣陵書社木活字藍印本<lb/>線裝1冊 ; 33公分<lb/>ISBN 7-80643-907-2<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">孫子兵法 一卷</title><title source="#200|9">sun zi bing fa</title><note source="#290">(周)孫武撰</note><author source="#300" key="person_492"><persName>(周)孫武</persName><persName type="9">sun wu</persName></author><note source="#409">壬午[2002]揚州廣陵書社木活字藍印本</note><editor source="#440" role="pbl"><persName>廣陵書社</persName><persName type="9" role="pbl">guang ling shu she</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">孫子兵法 一卷</title><title source="#200|9">sun zi bing fa</title><note source="#290">(周)孫武撰</note><author source="#300" key="person_492"><persName xml:lang="chi">(周)孫武</persName><persName type="9">sun wu</persName></author><note source="#409">壬午[2002]揚州廣陵書社木活字藍印本</note><editor source="#440" role="pbl"><persName>廣陵書社</persName><persName type="9" role="pbl">guang ling shu she</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">舊五代史 一百五十卷附考證</title>
+                     <title xml:lang="chi" source="#200">舊五代史 一百五十卷附考證</title>
                      <title source="#200|9">jiu wu dai shi</title>
                      <note source="#290">(宋)薛居正等奉敕撰</note>
-                     <author source="#300" key="person_1586"><persName>(宋)薛居正</persName><persName type="9">xue ju
+                     <author source="#300" key="person_1586"><persName xml:lang="chi">(宋)薛居正</persName><persName type="9">xue ju
                            zheng</persName></author>
                      <note source="#600">同治十一年[1872]湖北崇文書局重刊殿本</note>
                   </msItem>

@@ -48,10 +48,10 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">范聲山雜箸</title>
+                     <title xml:lang="chi" source="#200">范聲山雜箸</title>
                      <title source="#200|9">fan sheng shan za zhu</title>
                      <note source="#290">(清)范鍇輯</note>
-                     <author source="#300" key="person_5424"><persName>(清)范鍇</persName><persName type="9">fan
+                     <author source="#300" key="person_5424"><persName xml:lang="chi">(清)范鍇</persName><persName type="9">fan
                            kai</persName></author>
                      <note source="#409">民國辛未[1931]北平富晉書社縮印清道光中烏程范氏刊本</note>
                      <editor source="#440" role="pbl"><persName>富晉書社</persName><persName type="9" role="pbl">fu jin shu she</persName></editor>
@@ -59,7 +59,7 @@
                         <title>吳興山墟名 一卷</title>
                         <title source="9">wu xing shan xu ming</title>
                         <note source="290">(劉宋)張玄之撰</note>
-                        <author key="person_362"><persName>(劉宋)張玄之</persName><persName type="9">zhang xuan
+                        <author key="person_362"><persName xml:lang="chi">(劉宋)張玄之</persName><persName type="9">zhang xuan
                               zhi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140915/13:20:22|odh -->
@@ -70,7 +70,7 @@
                         <title>吳興記 一卷</title>
                         <title source="9">wu xing ji</title>
                         <note source="290">(劉宋)山謙之撰</note>
-                        <author key="person_357"><persName>(劉宋)山謙之</persName><persName type="9">shan qian
+                        <author key="person_357"><persName xml:lang="chi">(劉宋)山謙之</persName><persName type="9">shan qian
                               zhi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140915/13:22:28|odh -->
@@ -80,7 +80,7 @@
                         <title>吳興入東記 一卷</title>
                         <title source="9">wu xing ru dong ji</title>
                         <note source="290">(梁)吳均撰</note>
-                        <author key="person_3029"><persName>(梁)吳均</persName><persName type="9">wu
+                        <author key="person_3029"><persName xml:lang="chi">(梁)吳均</persName><persName type="9">wu
                            jun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140915/13:23:40|odh -->
@@ -90,7 +90,7 @@
                         <title>吳興統記 一卷</title>
                         <title source="9">wu xing tong ji</title>
                         <note source="290">(宋)左文質撰</note>
-                        <author key="person_1135"><persName>(宋)左文質</persName><persName type="9">zuo wen
+                        <author key="person_1135"><persName xml:lang="chi">(宋)左文質</persName><persName type="9">zuo wen
                            zhi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140915/13:25:42|odh -->
@@ -100,7 +100,7 @@
                         <title>吳興志續編 一卷</title>
                         <title source="9">wu xing zhi xu bian</title>
                         <note source="290">(宋)周世南等撰</note>
-                        <author key="person_1058"><persName>(宋)周世南</persName><persName type="9">zhou shi
+                        <author key="person_1058"><persName xml:lang="chi">(宋)周世南</persName><persName type="9">zhou shi
                               nan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140915/13:26:55|odh -->
@@ -110,7 +110,7 @@
                         <title>吳興藏書錄 一卷</title>
                         <title source="9">wu xing cang shu lu</title>
                         <note source="290">(清)鄭元慶撰</note>
-                        <author key="person_5839"><persName>(清)鄭元慶</persName><persName type="9">zheng yuan
+                        <author key="person_5839"><persName xml:lang="chi">(清)鄭元慶</persName><persName type="9">zheng yuan
                               qing</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140915/13:28:20|odh -->
@@ -121,7 +121,7 @@
                         <title>樂府指迷 一卷附記一卷</title>
                         <title source="9">yue fu zhi mi</title>
                         <note source="290">(宋)張炎撰</note>
-                        <author key="person_1166"><persName>(宋)張炎</persName><persName type="9">zhang
+                        <author key="person_1166"><persName xml:lang="chi">(宋)張炎</persName><persName type="9">zhang
                            yan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140915/13:31:03|odh -->
@@ -131,7 +131,7 @@
                         <title>華笑廎雜筆 六卷</title>
                         <title source="9">hua xiao qing za bi</title>
                         <note source="290">(清)范鍇撰</note>
-                        <author key="person_5424"><persName>(清)范鍇</persName><persName type="9">fan
+                        <author key="person_5424"><persName xml:lang="chi">(清)范鍇</persName><persName type="9">fan
                            kai</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140915/13:33:02|odh -->

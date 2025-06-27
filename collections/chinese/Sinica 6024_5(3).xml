@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">玉茗堂還魂記 二卷圖一卷</title>
+                     <title xml:lang="chi" source="#200">玉茗堂還魂記 二卷圖一卷</title>
                      <title source="#200|9">yu ming tang huan hun ji</title>
                      <note source="#290">(明)湯顯祖撰</note>
-                     <author source="#300" key="person_2403"><persName>(明)湯顯祖</persName><persName type="9">tang xian
+                     <author source="#300" key="person_2403"><persName xml:lang="chi">(明)湯顯祖</persName><persName type="9">tang xian
                            zu</persName></author>
                   </msItem>
                </msContents>
@@ -98,7 +98,7 @@
                         <title>格正還魂記詞調 二卷</title>
                         <title source="9">ge zheng huan hun ji ci diao</title>
                         <note source="290">(清)鈕少雅撰</note>
-                        <author key="person_5904"><persName>(清)鈕少雅</persName><persName type="9">niu shao
+                        <author key="person_5904"><persName xml:lang="chi">(清)鈕少雅</persName><persName type="9">niu shao
                            ya</persName></author>
                      </msItem>
                   </msContents>

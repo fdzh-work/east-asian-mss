@@ -46,7 +46,7 @@
                <head>書名: 心算初學 / 美國哈邦氏編集 ; 蓬萊鄒立文筆述<lb/>[Shanghai] : 益智書會, 1881<lb/>線裝1冊(77頁) ; 18.7公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">心算初學</title><title source="#200|9">xin suan chu xue</title><note source="#290">美國哈邦氏編集</note><note source="#290">蓬萊鄒立文筆述</note><author source="#300" key="person_6802"><persName>Capp</persName></author><author source="#300" key="person_5823"><persName>(清)鄒立文</persName><persName type="9">zou li wen</persName></author><editor source="#420" role="pbl"><persName>益智書會</persName><persName type="9" role="pbl">yi zhi shu hui</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">心算初學</title><title source="#200|9">xin suan chu xue</title><note source="#290">美國哈邦氏編集</note><note source="#290">蓬萊鄒立文筆述</note><author source="#300" key="person_6802"><persName xml:lang="chi">Capp</persName></author><author source="#300" key="person_5823"><persName xml:lang="chi">(清)鄒立文</persName><persName type="9">zou li wen</persName></author><editor source="#420" role="pbl"><persName>益智書會</persName><persName type="9" role="pbl">yi zhi shu hui</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

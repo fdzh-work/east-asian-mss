@@ -46,7 +46,7 @@
                <head>書名: 舊約全書 ; 新約全書<lb/>香港 : 英華書院, 同治三年至五年[1864-1866]<lb/>線裝9冊 ; 29.2公分<lb/>Delegates' version<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">舊約全書</title><title source="#200|9">jiu yue quan shu</title><title source="#200">新約全書</title><title source="#200|9">xin yue quan shu</title><editor source="#420" role="pbl"><persName>英華書院</persName><persName type="9" role="pbl">ying hua shu yuan</persName></editor><note source="#600">Delegates' version</note></msItem>         
+                  <title xml:lang="chi" source="#200">舊約全書</title><title source="#200|9">jiu yue quan shu</title><title xml:lang="chi" source="#200">新約全書</title><title source="#200|9">xin yue quan shu</title><editor source="#420" role="pbl"><persName>英華書院</persName><persName type="9" role="pbl">ying hua shu yuan</persName></editor><note source="#600">Delegates' version</note></msItem>         
                </msContents>
                <physDesc>
                   

@@ -50,18 +50,18 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">毛詩正義 四十卷原缺卷一至七</title>
+                     <title xml:lang="chi" source="#200">毛詩正義 四十卷原缺卷一至七</title>
                      <title source="#200|9">mao shi zheng yi</title>
                      <note source="#290">(唐)孔穎達等奉敕撰</note>
-                     <author source="#300" key="person_605"><persName>(唐)孔穎達</persName><persName type="9">kong ying
+                     <author source="#300" key="person_605"><persName xml:lang="chi">(唐)孔穎達</persName><persName type="9">kong ying
                            da</persName></author>
                      <note source="#600">民國七年[1918]刊</note>
                   </msItem>
                   <msItem n="2">
-                     <title source="#201">附 毛詩單疏校勘記 三卷</title>
+                     <title xml:lang="chi" source="#201">附 毛詩單疏校勘記 三卷</title>
                      <title source="#201|9">mao shi dan shu jiao kan ji</title>
                      <note source="#291">劉承幹撰</note>
-                     <author source="#301" key="person_7100"><persName>劉承幹</persName><persName type="9">liu cheng
+                     <author source="#301" key="person_7100"><persName xml:lang="chi">劉承幹</persName><persName type="9">liu cheng
                            gan</persName></author>
                   </msItem>
                </msContents>

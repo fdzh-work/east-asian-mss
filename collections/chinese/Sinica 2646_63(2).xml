@@ -49,13 +49,13 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">楓窗小牘 二卷</title>
+                     <title xml:lang="chi" source="#200">楓窗小牘 二卷</title>
                      <title source="#200|9">feng chuang xiao du</title>
                      <note source="#290">(宋)袁褧撰</note>
                      <note source="#290">(宋)袁頤續</note>
-                     <author source="#300" key="person_1605"><persName>(宋)袁褧</persName><persName type="9">yuan
+                     <author source="#300" key="person_1605"><persName xml:lang="chi">(宋)袁褧</persName><persName type="9">yuan
                            jiong</persName></author>
-                     <author source="#300" key="person_1608"><persName>(宋)袁頤</persName><persName type="9">yuan
+                     <author source="#300" key="person_1608"><persName xml:lang="chi">(宋)袁頤</persName><persName type="9">yuan
                            yi</persName></author>
                   </msItem>
                </msContents>

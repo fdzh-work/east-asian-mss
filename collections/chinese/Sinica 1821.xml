@@ -46,7 +46,7 @@
                <head>書名: 博物通書 / 西醫士瑪高溫譯述<lb/>寧城[Ningpo] : 真神堂, 1851<lb/>線裝1冊(4, [1], 3, 24, 2, 7, 1頁) : 圖 ; 26.7公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">博物通書</title><title source="#200|9">bo wu tong shu</title><note source="#290">西醫士瑪高溫譯述</note><author source="#300" key="person_6939"><persName>Macgowan, Daniel Jerome</persName></author><editor source="#420" role="pbl"><persName>真神堂</persName><persName type="9" role="pbl">zhen shen tang</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">博物通書</title><title source="#200|9">bo wu tong shu</title><note source="#290">西醫士瑪高溫譯述</note><author source="#300" key="person_6939"><persName xml:lang="chi">Macgowan, Daniel Jerome</persName></author><editor source="#420" role="pbl"><persName>真神堂</persName><persName type="9" role="pbl">zhen shen tang</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">資治通鑑攷異 三十卷</title>
+                     <title xml:lang="chi" source="#200">資治通鑑攷異 三十卷</title>
                      <title source="#200|9">zi zhi tong jian kao yi</title>
                      <note source="#290">(宋)司馬光撰</note>
-                     <author source="#300"><persName>(宋)司馬光</persName><persName type="9">si ma
+                     <author source="#300"><persName xml:lang="chi">(宋)司馬光</persName><persName type="9">si ma
                            guang</persName></author>
                      <note source="#600">光緒十九年[1893]刊</note>
                   </msItem>

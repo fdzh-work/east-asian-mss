@@ -46,7 +46,7 @@
                <head>書名: 聖經擇要<lb/>[Hong Kong?], 同治八年[1869]<lb/>線裝1冊(4, 63頁) ; 22.0公分<lb/>By R Lechler<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">聖經擇要</title><title source="#200|9">sheng jing ze yao</title><author source="#300" key="person_6923"><persName>Lechler, Rudolph</persName></author><note source="#600">By R Lechler</note></msItem>         
+                  <title xml:lang="chi" source="#200">聖經擇要</title><title source="#200|9">sheng jing ze yao</title><author source="#300" key="person_6923"><persName xml:lang="chi">Lechler, Rudolph</persName></author><note source="#600">By R Lechler</note></msItem>         
                </msContents>
                <physDesc>
                   

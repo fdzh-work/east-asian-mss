@@ -46,7 +46,7 @@
                <head>書名: 內科闡微 / 美國嘉約翰口譯 ; 莆田林湘東筆述<lb/>羊城[Canton] : 博濟醫局, 同治十二年[1873]<lb/>線裝1冊(3, 4, 3, 29頁) ; 23.9公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">內科闡微</title><title source="#200|9">nei ke chan wei</title><note source="#290">美國嘉約翰口譯</note><note source="#290">莆田林湘東筆述</note><author source="#300" key="person_6911"><persName>Kerr, John Glasgow</persName></author><author source="#300" key="person_4591"><persName>(清)林湘東</persName><persName type="9">lin xiang dong</persName></author><editor source="#420" role="pbl"><persName>博濟醫局</persName><persName type="9" role="pbl">bo ji yi ju</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">內科闡微</title><title source="#200|9">nei ke chan wei</title><note source="#290">美國嘉約翰口譯</note><note source="#290">莆田林湘東筆述</note><author source="#300" key="person_6911"><persName xml:lang="chi">Kerr, John Glasgow</persName></author><author source="#300" key="person_4591"><persName xml:lang="chi">(清)林湘東</persName><persName type="9">lin xiang dong</persName></author><editor source="#420" role="pbl"><persName>博濟醫局</persName><persName type="9" role="pbl">bo ji yi ju</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

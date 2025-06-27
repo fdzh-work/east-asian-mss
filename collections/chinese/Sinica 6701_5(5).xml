@@ -49,12 +49,12 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">後甲集 二卷</title>
+                     <title xml:lang="chi" source="#200">後甲集 二卷</title>
                      <title source="#200|9">hou jia ji</title>
                      <title type="variant" source="#230">躍雷館日記</title>
                      <title source="#230|9" type="variant">yao lei guan ri ji</title>
                      <note source="#290">(清)章大來撰</note>
-                     <author source="#300" key="person_5281"><persName>(清)章大來</persName><persName type="9">zhang da
+                     <author source="#300" key="person_5281"><persName xml:lang="chi">(清)章大來</persName><persName type="9">zhang da
                            lai</persName></author>
                      <note source="#600">亦名《躍雷館日記》</note>
                   </msItem>

@@ -50,12 +50,12 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">董仲舒公羊治獄 一卷</title>
+                     <title xml:lang="chi" source="#200">董仲舒公羊治獄 一卷</title>
                      <title source="#200|9">dong zhong shu gong yang zhi yu</title>
                      <title type="variant" source="#230">公羊治獄</title>
                      <title source="#230|9" type="variant">gong yang zhi yu</title>
                      <note source="#290">(漢)董仲舒撰</note>
-                     <author source="#300" key="person_6583"><persName>(漢)董仲舒</persName><persName type="9">dong zhong
+                     <author source="#300" key="person_6583"><persName xml:lang="chi">(漢)董仲舒</persName><persName type="9">dong zhong
                            shu</persName></author>
                   </msItem>
                </msContents>

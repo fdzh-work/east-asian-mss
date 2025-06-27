@@ -49,16 +49,16 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">元經薛氏傳 十卷</title>
+                     <title xml:lang="chi" source="#200">元經薛氏傳 十卷</title>
                      <title source="#200|9">yuan jing xue shi zhuan</title>
                      <note source="#290">(隋)王通撰</note>
                      <note source="#290">(唐)薛收傳</note>
                      <note source="#290">(宋)阮逸註</note>
-                     <author source="#300" key="person_6700"><persName>(隋)王通</persName><persName type="9">wang
+                     <author source="#300" key="person_6700"><persName xml:lang="chi">(隋)王通</persName><persName type="9">wang
                            tong</persName></author>
-                     <author source="#300" key="person_797"><persName>(唐)薛收</persName><persName type="9">xue
+                     <author source="#300" key="person_797"><persName xml:lang="chi">(唐)薛收</persName><persName type="9">xue
                            shou</persName></author>
-                     <author source="#300" key="person_1727"><persName>(宋)阮逸</persName><persName type="9">ruan
+                     <author source="#300" key="person_1727"><persName xml:lang="chi">(宋)阮逸</persName><persName type="9">ruan
                            yi</persName></author>
                   </msItem>
                </msContents>

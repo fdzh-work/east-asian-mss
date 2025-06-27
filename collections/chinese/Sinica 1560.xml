@@ -46,7 +46,7 @@
                <head>書名: 路加福音<lb/>京都 [Peking] : 美華書院, 1873<lb/>線裝1冊(71頁) ; 20.3公分<lb/>In Mandarin dialect<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">路加福音</title><title source="#200|9">lu jia fu yin</title><editor source="#420" role="pbl"><persName>美華書院</persName><persName type="9" role="pbl">mei hua shu yuan</persName></editor><note source="#600">In Mandarin dialect</note></msItem>         
+                  <title xml:lang="chi" source="#200">路加福音</title><title source="#200|9">lu jia fu yin</title><editor source="#420" role="pbl"><persName>美華書院</persName><persName type="9" role="pbl">mei hua shu yuan</persName></editor><note source="#600">In Mandarin dialect</note></msItem>         
                </msContents>
                <physDesc>
                   

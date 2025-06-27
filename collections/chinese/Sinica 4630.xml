@@ -46,7 +46,7 @@
                <head>書名: 魏曹真碑<lb/>民國十三年[1924]上海藝苑真賞社影印本<lb/>線裝1冊 ; 34公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">魏曹真碑</title><title source="#200|9">wei cao zhen bei</title><note source="#409">民國十三年[1924]上海藝苑真賞社影印本</note><editor source="#440" role="pbl"><persName>藝苑真賞社</persName><persName type="9" role="pbl">yi yuan zhen shang she</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">魏曹真碑</title><title source="#200|9">wei cao zhen bei</title><note source="#409">民國十三年[1924]上海藝苑真賞社影印本</note><editor source="#440" role="pbl"><persName>藝苑真賞社</persName><persName type="9" role="pbl">yi yuan zhen shang she</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

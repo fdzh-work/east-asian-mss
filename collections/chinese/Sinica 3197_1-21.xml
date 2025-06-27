@@ -49,9 +49,9 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">歷代刑法考 七十八卷</title>
+                     <title xml:lang="chi" source="#200">歷代刑法考 七十八卷</title>
                      <title source="#200|9">li dai xing fa kao</title>
-                     <author source="#300" key="person_4852"><persName>(清)沈家本</persName><persName type="9">shen jia
+                     <author source="#300" key="person_4852"><persName xml:lang="chi">(清)沈家本</persName><persName type="9">shen jia
                            ben</persName></author>
                   </msItem>
                </msContents>
@@ -97,7 +97,7 @@
                      <msItem>
                         <title>刑制總考 四卷</title>
                         <title source="9">xing zhi zong kao</title>
-                        <author key="person_4852"><persName>(清)沈家本</persName><persName type="9">shen jia
+                        <author key="person_4852"><persName xml:lang="chi">(清)沈家本</persName><persName type="9">shen jia
                               ben</persName></author>
                      </msItem>
                   </msContents>
@@ -123,7 +123,7 @@
                      <msItem>
                         <title>刑制分考 十七卷</title>
                         <title source="9">xing zhi fen kao</title>
-                        <author key="person_4852"><persName>(清)沈家本</persName><persName type="9">shen jia
+                        <author key="person_4852"><persName xml:lang="chi">(清)沈家本</persName><persName type="9">shen jia
                               ben</persName></author>
                      </msItem>
                   </msContents>
@@ -149,7 +149,7 @@
                      <msItem>
                         <title>赦考 十二卷</title>
                         <title source="9">she kao</title>
-                        <author key="person_4852"><persName>(清)沈家本</persName><persName type="9">shen jia
+                        <author key="person_4852"><persName xml:lang="chi">(清)沈家本</persName><persName type="9">shen jia
                               ben</persName></author>
                      </msItem>
                   </msContents>
@@ -175,7 +175,7 @@
                      <msItem>
                         <title>律令 九卷</title>
                         <title source="9">lu ling</title>
-                        <author key="person_4852"><persName>(清)沈家本</persName><persName type="9">shen jia
+                        <author key="person_4852"><persName xml:lang="chi">(清)沈家本</persName><persName type="9">shen jia
                               ben</persName></author>
                      </msItem>
                   </msContents>
@@ -201,7 +201,7 @@
                      <msItem>
                         <title>獄考 一卷</title>
                         <title source="9">yu kao</title>
-                        <author key="person_4852"><persName>(清)沈家本</persName><persName type="9">shen jia
+                        <author key="person_4852"><persName xml:lang="chi">(清)沈家本</persName><persName type="9">shen jia
                               ben</persName></author>
                      </msItem>
                   </msContents>
@@ -227,7 +227,7 @@
                      <msItem>
                         <title>刑具考 一卷</title>
                         <title source="9">xing ju kao</title>
-                        <author key="person_4852"><persName>(清)沈家本</persName><persName type="9">shen jia
+                        <author key="person_4852"><persName xml:lang="chi">(清)沈家本</persName><persName type="9">shen jia
                               ben</persName></author>
                      </msItem>
                   </msContents>
@@ -253,7 +253,7 @@
                      <msItem>
                         <title>行刑之制考 一卷</title>
                         <title source="9">xing xing zhi zhi kao</title>
-                        <author key="person_4852"><persName>(清)沈家本</persName><persName type="9">shen jia
+                        <author key="person_4852"><persName xml:lang="chi">(清)沈家本</persName><persName type="9">shen jia
                               ben</persName></author>
                      </msItem>
                   </msContents>
@@ -279,7 +279,7 @@
                      <msItem>
                         <title>死刑之數 一卷</title>
                         <title source="9">si xing zhi shu</title>
-                        <author key="person_4852"><persName>(清)沈家本</persName><persName type="9">shen jia
+                        <author key="person_4852"><persName xml:lang="chi">(清)沈家本</persName><persName type="9">shen jia
                               ben</persName></author>
                      </msItem>
                   </msContents>
@@ -305,7 +305,7 @@
                      <msItem>
                         <title>唐死罪總類 一卷</title>
                         <title source="9">tang si zui zong lei</title>
-                        <author key="person_4852"><persName>(清)沈家本</persName><persName type="9">shen jia
+                        <author key="person_4852"><persName xml:lang="chi">(清)沈家本</persName><persName type="9">shen jia
                               ben</persName></author>
                      </msItem>
                   </msContents>
@@ -331,7 +331,7 @@
                      <msItem>
                         <title>充軍考 一卷</title>
                         <title source="9">chong jun kao</title>
-                        <author key="person_4852"><persName>(清)沈家本</persName><persName type="9">shen jia
+                        <author key="person_4852"><persName xml:lang="chi">(清)沈家本</persName><persName type="9">shen jia
                               ben</persName></author>
                      </msItem>
                   </msContents>
@@ -357,7 +357,7 @@
                      <msItem>
                         <title>鹽法私礬私茶同居酒禁丁年考 合一卷</title>
                         <title source="9">yan fa si fan si cha tong ju jiu jin ding nian kao</title>
-                        <author key="person_4852"><persName>(清)沈家本</persName><persName type="9">shen jia
+                        <author key="person_4852"><persName xml:lang="chi">(清)沈家本</persName><persName type="9">shen jia
                               ben</persName></author>
                      </msItem>
                   </msContents>
@@ -383,7 +383,7 @@
                      <msItem>
                         <title>律目考 一卷</title>
                         <title source="9">lu mu kao</title>
-                        <author key="person_4852"><persName>(清)沈家本</persName><persName type="9">shen jia
+                        <author key="person_4852"><persName xml:lang="chi">(清)沈家本</persName><persName type="9">shen jia
                               ben</persName></author>
                      </msItem>
                   </msContents>
@@ -409,7 +409,7 @@
                      <msItem>
                         <title>漢律摭遺 二十二卷</title>
                         <title source="9">han lu zhi yi</title>
-                        <author key="person_4852"><persName>(清)沈家本</persName><persName type="9">shen jia
+                        <author key="person_4852"><persName xml:lang="chi">(清)沈家本</persName><persName type="9">shen jia
                               ben</persName></author>
                      </msItem>
                   </msContents>
@@ -435,7 +435,7 @@
                      <msItem>
                         <title>明律目箋 三卷</title>
                         <title source="9">ming lu mu jian</title>
-                        <author key="person_4852"><persName>(清)沈家本</persName><persName type="9">shen jia
+                        <author key="person_4852"><persName xml:lang="chi">(清)沈家本</persName><persName type="9">shen jia
                               ben</persName></author>
                      </msItem>
                   </msContents>
@@ -461,7 +461,7 @@
                      <msItem>
                         <title>明大誥峻令考 一卷</title>
                         <title source="9">ming da gao jun ling kao</title>
-                        <author key="person_4852"><persName>(清)沈家本</persName><persName type="9">shen jia
+                        <author key="person_4852"><persName xml:lang="chi">(清)沈家本</persName><persName type="9">shen jia
                               ben</persName></author>
                      </msItem>
                   </msContents>
@@ -487,7 +487,7 @@
                      <msItem>
                         <title>歷代刑官考 二卷</title>
                         <title source="9">li dai xing guan kao</title>
-                        <author key="person_4852"><persName>(清)沈家本</persName><persName type="9">shen jia
+                        <author key="person_4852"><persName xml:lang="chi">(清)沈家本</persName><persName type="9">shen jia
                               ben</persName></author>
                      </msItem>
                   </msContents>

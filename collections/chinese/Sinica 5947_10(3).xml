@@ -50,13 +50,13 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">藝舟雙楫 六卷</title>
+                     <title xml:lang="chi" source="#200">藝舟雙楫 六卷</title>
                      <title source="#200|9">yi zhou shuang ji</title>
                      <note source="#290">(清)包世臣著</note>
                      <note source="#290">(清)吳璜編次</note>
-                     <author source="#300" key="person_3498"><persName>(清)包世臣</persName><persName type="9">bao shi
+                     <author source="#300" key="person_3498"><persName xml:lang="chi">(清)包世臣</persName><persName type="9">bao shi
                            chen</persName></author>
-                     <author source="#300" key="person_3606"><persName>(清)吳璜</persName><persName type="9">wu
+                     <author source="#300" key="person_3606"><persName xml:lang="chi">(清)吳璜</persName><persName type="9">wu
                            huang</persName></author>
                   </msItem>
                </msContents>

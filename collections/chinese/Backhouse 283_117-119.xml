@@ -49,13 +49,13 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">洞霄圖志 六卷</title>
+                     <title xml:lang="chi" source="#200">洞霄圖志 六卷</title>
                      <title source="#200|9">dong xiao tu zhi</title>
                      <note source="#290">(宋)鄧牧編</note>
                      <note source="#290">(宋)孟宗寶集</note>
-                     <author source="#300" key="person_1698"><persName>(宋)鄧牧</persName><persName type="9">deng
+                     <author source="#300" key="person_1698"><persName xml:lang="chi">(宋)鄧牧</persName><persName type="9">deng
                            mu</persName></author>
-                     <author source="#300" key="person_1097"><persName>(宋)孟宗寶</persName><persName type="9">meng zong
+                     <author source="#300" key="person_1097"><persName xml:lang="chi">(宋)孟宗寶</persName><persName type="9">meng zong
                            bao</persName></author>
                   </msItem>
                </msContents>

@@ -49,12 +49,12 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">武叔卿擧業巵言 二卷</title>
+                     <title xml:lang="chi" source="#200">武叔卿擧業巵言 二卷</title>
                      <title source="#200|9">wu shu qing ju ye zhi yan</title>
                      <title type="variant" source="#230">擧業巵言</title>
                      <title source="#230|9" type="variant">ju ye zhi yan</title>
                      <note source="#290">(明)武叔卿撰</note>
-                     <author source="#300" key="person_2367"><persName>(明)武之望</persName><persName type="9">wu zhi
+                     <author source="#300" key="person_2367"><persName xml:lang="chi">(明)武之望</persName><persName type="9">wu zhi
                            wang</persName></author>
                   </msItem>
                </msContents>

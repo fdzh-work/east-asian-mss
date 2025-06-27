@@ -49,24 +49,24 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">說文通訓定聲</title>
+                     <title xml:lang="chi" source="#200">說文通訓定聲</title>
                      <title source="#200|9">shuo wen tong xun ding sheng</title>
-                     <title source="#200">朱氏羣書</title>
+                     <title xml:lang="chi" source="#200">朱氏羣書</title>
                      <title source="#200|9">zhu shi qun shu</title>
                      <title type="variant" source="#230">朱氏群書</title>
                      <title source="#230|9" type="variant">zhu shi qun shu</title>
                      <note source="#290">(清)朱駿聲撰</note>
                      <note source="#290">(清)朱孔彰編</note>
-                     <author source="#300" key="person_4441"><persName>(清)朱駿聲</persName><persName type="9">zhu jun
+                     <author source="#300" key="person_4441"><persName xml:lang="chi">(清)朱駿聲</persName><persName type="9">zhu jun
                            sheng</persName></author>
-                     <author source="#300" key="person_4390"><persName>(清)朱孔彰</persName><persName type="9">zhu kong
+                     <author source="#300" key="person_4390"><persName xml:lang="chi">(清)朱孔彰</persName><persName type="9">zhu kong
                            zhang</persName></author>
                      <note source="#409">清光緒八年[1882]補刊合印本臨嘯閣藏板</note>
                      <editor source="#440" role="pbl"><persName>臨嘯閣</persName><persName type="9" role="pbl">lin xiao ge</persName></editor>
                      <msItem n="1">
                         <title>說文通訓定聲 十八卷分部檢韻一卷說雅十九篇古今韻準一卷</title>
                         <title source="9">shuo wen tong xun ding sheng</title>
-                        <author key="person_4441"><persName>(清)朱駿聲</persName><persName type="9">zhu jun
+                        <author key="person_4441"><persName xml:lang="chi">(清)朱駿聲</persName><persName type="9">zhu jun
                               sheng</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20130515/14:40:14|odh -->
@@ -78,7 +78,7 @@
                         <title source="9">zhu shi qun shu</title>
                         <title type="variant">朱氏群書</title>
                         <title source="9" type="variant">zhu shi qun shu</title>
-                        <author key="person_4441"><persName>(清)朱駿聲</persName><persName type="9">zhu jun
+                        <author key="person_4441"><persName xml:lang="chi">(清)朱駿聲</persName><persName type="9">zhu jun
                               sheng</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20130515/14:41:27|odh -->
@@ -87,7 +87,7 @@
                         <msItem n="1">
                            <title>說文通訓定聲補遺 十八卷</title>
                            <title source="9">shuo wen tong xun ding sheng bu yi</title>
-                           <author key="person_4441"><persName>(清)朱駿聲</persName><persName type="9">zhu jun
+                           <author key="person_4441"><persName xml:lang="chi">(清)朱駿聲</persName><persName type="9">zhu jun
                                  sheng</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20130515/14:44:04|odh -->
@@ -97,7 +97,7 @@
                         <msItem n="2">
                            <title>夏小正補傳 一卷</title>
                            <title source="9">xia xiao zheng bu zhuan</title>
-                           <author key="person_4441"><persName>(清)朱駿聲</persName><persName type="9">zhu jun
+                           <author key="person_4441"><persName xml:lang="chi">(清)朱駿聲</persName><persName type="9">zhu jun
                                  sheng</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20130515/14:56:20|odh -->
@@ -107,7 +107,7 @@
                         <msItem n="3">
                            <title>儀禮經注一隅 二卷</title>
                            <title source="9">yi li jing zhu yi yu</title>
-                           <author key="person_4441"><persName>(清)朱駿聲</persName><persName type="9">zhu jun
+                           <author key="person_4441"><persName xml:lang="chi">(清)朱駿聲</persName><persName type="9">zhu jun
                                  sheng</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20130515/14:57:03|odh -->
@@ -117,7 +117,7 @@
                         <msItem n="4">
                            <title>春秋左傳識小錄 二卷</title>
                            <title source="9">chun qiu zuo zhuan shi xiao lu</title>
-                           <author key="person_4441"><persName>(清)朱駿聲</persName><persName type="9">zhu jun
+                           <author key="person_4441"><persName xml:lang="chi">(清)朱駿聲</persName><persName type="9">zhu jun
                                  sheng</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20130515/14:57:39|odh -->
@@ -127,7 +127,7 @@
                         <msItem n="5">
                            <title>小爾雅約注 一卷</title>
                            <title source="9">xiao er ya yue zhu</title>
-                           <author key="person_4441"><persName>(清)朱駿聲</persName><persName type="9">zhu jun
+                           <author key="person_4441"><persName xml:lang="chi">(清)朱駿聲</persName><persName type="9">zhu jun
                                  sheng</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20130515/14:58:23|odh -->
@@ -137,7 +137,7 @@
                         <msItem n="6">
                            <title>離騷賦補注 一卷</title>
                            <title source="9">li sao fu bu zhu</title>
-                           <author key="person_4441"><persName>(清)朱駿聲</persName><persName type="9">zhu jun
+                           <author key="person_4441"><persName xml:lang="chi">(清)朱駿聲</persName><persName type="9">zhu jun
                                  sheng</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20130515/14:58:58|odh -->

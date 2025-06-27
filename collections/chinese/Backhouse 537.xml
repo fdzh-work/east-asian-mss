@@ -46,7 +46,7 @@
                <head>書名: 文獻通考 三百四十八卷 / (元)馬端臨撰<lb/>明嘉靖三年[1524]內府刊遞修鈔配本<lb/>線裝100冊 ; 33公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">文獻通考 三百四十八卷</title><title source="#200|9">wen xian tong kao</title><note source="#290">(元)馬端臨撰</note><author source="#300" key="person_323"><persName>(元)馬端臨</persName><persName type="9">ma duan lin</persName></author><note source="#409">明嘉靖三年[1524]內府刊遞修鈔配本</note><editor source="#440" role="pbl"><persName>(明)內府</persName><persName type="9" role="pbl">nei fu</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">文獻通考 三百四十八卷</title><title source="#200|9">wen xian tong kao</title><note source="#290">(元)馬端臨撰</note><author source="#300" key="person_323"><persName xml:lang="chi">(元)馬端臨</persName><persName type="9">ma duan lin</persName></author><note source="#409">明嘉靖三年[1524]內府刊遞修鈔配本</note><editor source="#440" role="pbl"><persName>(明)內府</persName><persName type="9" role="pbl">nei fu</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

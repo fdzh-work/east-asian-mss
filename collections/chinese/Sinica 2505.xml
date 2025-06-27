@@ -48,7 +48,7 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">文昌帝君寶善編</title>
+                     <title xml:lang="chi" source="#200">文昌帝君寶善編</title>
                      <title source="#200|9">wen chang di jun bao shan bian</title>
                      <note source="#409">清同治甲子[1864]重刊本板存京都晉文齋刻字鋪</note>
                      <editor source="#440" role="pbl"><persName>晉文齋</persName><persName type="9" role="pbl">jin wen zhai</persName></editor>

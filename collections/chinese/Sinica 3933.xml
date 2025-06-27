@@ -46,7 +46,7 @@
                <head>書名: 李鴻章 / 飲冰室主人著<lb/>清光緒二十七年[1901]序石印本<lb/>線裝1冊(46頁) : 圖 ; 20公分<lb/>一名《中國四十年來大事記》<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">李鴻章</title><title source="#200|9">li hong zhang</title><title type="variant" source="#230">中國四十年來大事記</title><title source="#230|9" type="variant">zhong guo si shi nian lai da shi ji</title><note source="#290">飲冰室主人著</note><author source="#300" key="person_3140"><persName>(民國)梁啟超</persName><persName type="9">liang qi chao</persName></author><note source="#409">清光緒二十七年[1901]序石印本</note><note source="#600">一名《中國四十年來大事記》</note></msItem>         
+                  <title xml:lang="chi" source="#200">李鴻章</title><title source="#200|9">li hong zhang</title><title type="variant" source="#230">中國四十年來大事記</title><title source="#230|9" type="variant">zhong guo si shi nian lai da shi ji</title><note source="#290">飲冰室主人著</note><author source="#300" key="person_3140"><persName xml:lang="chi">(民國)梁啟超</persName><persName type="9">liang qi chao</persName></author><note source="#409">清光緒二十七年[1901]序石印本</note><note source="#600">一名《中國四十年來大事記》</note></msItem>         
                </msContents>
                <physDesc>
                   

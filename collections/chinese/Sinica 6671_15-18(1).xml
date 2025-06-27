@@ -49,12 +49,12 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">歷代名臣傳 三十五卷</title>
+                     <title xml:lang="chi" source="#200">歷代名臣傳 三十五卷</title>
                      <title source="#200|9">li dai ming chen zhuan</title>
                      <note source="#290">(清)朱軾, (清)蔡世遠輯</note>
-                     <author source="#300" key="person_4432"><persName>(清)朱軾</persName><persName type="9">zhu
+                     <author source="#300" key="person_4432"><persName xml:lang="chi">(清)朱軾</persName><persName type="9">zhu
                            shi</persName></author>
-                     <author source="#300" key="person_5537"><persName>(清)蔡世遠</persName><persName type="9">cai shi
+                     <author source="#300" key="person_5537"><persName xml:lang="chi">(清)蔡世遠</persName><persName type="9">cai shi
                            yuan</persName></author>
                   </msItem>
                </msContents>

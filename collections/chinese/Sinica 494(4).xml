@@ -46,7 +46,7 @@
                <head>書名: 煙酒並戒<lb/>中國聖教書會 = Chinese Religious Tract Society, [1882]<lb/>Single sheet ; 23.8 x 14.8公分<lb/>By J Butler<lb/>No.11, Rum and opium<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">煙酒並戒</title><title source="#200|9">yan jiu bing jie</title><title type="variant" source="#230">Rum and opium</title><author source="#300" key="person_6797"><persName>Butler, John</persName></author><editor source="#420" role="pbl"><persName>中國聖教書會 = Chinese Religious Tract Society</persName><persName type="9" role="pbl">zhong guo sheng jiao shu hui</persName></editor><note source="#600">By J Butler</note><note source="#600">No.11, Rum and opium</note></msItem>         
+                  <title xml:lang="chi" source="#200">煙酒並戒</title><title source="#200|9">yan jiu bing jie</title><title type="variant" source="#230">Rum and opium</title><author source="#300" key="person_6797"><persName xml:lang="chi">Butler, John</persName></author><editor source="#420" role="pbl"><persName>中國聖教書會 = Chinese Religious Tract Society</persName><persName type="9" role="pbl">zhong guo sheng jiao shu hui</persName></editor><note source="#600">By J Butler</note><note source="#600">No.11, Rum and opium</note></msItem>         
                </msContents>
                <physDesc>
                   

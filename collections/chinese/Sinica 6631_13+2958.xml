@@ -50,18 +50,18 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">衛元嵩易元包 一卷</title>
+                     <title xml:lang="chi" source="#200">衛元嵩易元包 一卷</title>
                      <title source="#200|9">wei yuan song yi yuan bao</title>
                      <title type="variant" source="#230">易元包</title>
                      <title source="#230|9" type="variant">yi yuan bao</title>
                      <note source="#290">(北周)衛元嵩撰</note>
                      <note source="#290">(唐)蘇源明傳</note>
                      <note source="#290">(唐)李江注</note>
-                     <author source="#300" key="person_403"><persName>(北周)衛元嵩</persName><persName type="9">wei yuan
+                     <author source="#300" key="person_403"><persName xml:lang="chi">(北周)衛元嵩</persName><persName type="9">wei yuan
                            song</persName></author>
-                     <author source="#300" key="person_805"><persName>(唐)蘇源明</persName><persName type="9">su yuan
+                     <author source="#300" key="person_805"><persName xml:lang="chi">(唐)蘇源明</persName><persName type="9">su yuan
                            ming</persName></author>
-                     <author source="#300" key="person_684"><persName>(唐)李江</persName><persName type="9">li
+                     <author source="#300" key="person_684"><persName xml:lang="chi">(唐)李江</persName><persName type="9">li
                            jiang</persName></author>
                   </msItem>
                </msContents>

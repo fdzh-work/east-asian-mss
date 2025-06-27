@@ -46,7 +46,7 @@
                <head>書名: 新約聖書<lb/>[上海] : 聖書公會[印發], 1905<lb/>精裝1冊(710頁) ; 13公分<lb/>Delegates' version<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">新約聖書</title><title source="#200|9">xin yue sheng shu</title><editor source="#420" role="pbl"><persName>聖書公會</persName><persName type="9" role="pbl">sheng shu gong hui</persName></editor><note source="#600">Delegates' version</note></msItem>         
+                  <title xml:lang="chi" source="#200">新約聖書</title><title source="#200|9">xin yue sheng shu</title><editor source="#420" role="pbl"><persName>聖書公會</persName><persName type="9" role="pbl">sheng shu gong hui</persName></editor><note source="#600">Delegates' version</note></msItem>         
                </msContents>
                <physDesc>
                   

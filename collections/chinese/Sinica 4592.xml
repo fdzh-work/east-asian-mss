@@ -48,17 +48,17 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">曾思二子全書</title>
+                     <title xml:lang="chi" source="#200">曾思二子全書</title>
                      <title source="#200|9">zeng si er zi quan shu</title>
                      <note source="#290">(宋)汪晫編</note>
-                     <author source="#300" key="person_1368"><persName>(宋)汪晫</persName><persName type="9">wang
+                     <author source="#300" key="person_1368"><persName xml:lang="chi">(宋)汪晫</persName><persName type="9">wang
                            zhuo</persName></author>
                      <note source="#409">明隆慶四年[1570]汪文川刊本</note>
                      <msItem n="1">
                         <title>曾子全書 一卷</title>
                         <title source="9">zeng zi quan shu</title>
                         <note source="290">(周)曾參撰</note>
-                        <author key="person_506"><persName>(周)曾參</persName><persName type="9">zeng
+                        <author key="person_506"><persName xml:lang="chi">(周)曾參</persName><persName type="9">zeng
                            shen</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20050429/10:52:51|odh -->
@@ -68,7 +68,7 @@
                         <title>子思子全書 一卷</title>
                         <title source="9">zi si zi quan shu</title>
                         <note source="290">(周)孔伋撰</note>
-                        <author key="person_489"><persName>(周)孔伋</persName><persName type="9">kong
+                        <author key="person_489"><persName xml:lang="chi">(周)孔伋</persName><persName type="9">kong
                            ji</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20050429/10:53:36|odh -->

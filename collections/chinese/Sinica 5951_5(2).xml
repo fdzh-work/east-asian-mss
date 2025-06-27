@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">王荊國文公年譜 三卷後一卷遺事一卷</title>
+                     <title xml:lang="chi" source="#200">王荊國文公年譜 三卷後一卷遺事一卷</title>
                      <title source="#200|9">wang jing guo wen gong nian pu</title>
                      <note source="#290">(清)顧棟高輯</note>
-                     <author source="#300" key="person_6222"><persName>(清)顧棟高</persName><persName type="9">gu dong
+                     <author source="#300" key="person_6222"><persName xml:lang="chi">(清)顧棟高</persName><persName type="9">gu dong
                            gao</persName></author>
                      <note source="#600">民國丁巳[1917]刊</note>
                   </msItem>

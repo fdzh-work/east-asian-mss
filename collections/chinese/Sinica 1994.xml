@@ -46,7 +46,7 @@
                <head>書名: 新約全書<lb/>[Peking?], [1867]<lb/>線裝1冊(159頁) ; 24.2公分<lb/>Peking Committee version<lb/>Label has 「新約全書中卷」<lb/>Contains Romans - Philemon<lb/>In Mandarin colloquial<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">新約全書</title><title source="#200|9">xin yue quan shu</title><title type="variant" source="#230">新約全書中卷</title><title source="#230|9" type="variant">xin yue quan shu zhong juan</title><note source="#600">Peking Committee version</note><note source="#600">Label has 「新約全書中卷」</note><note source="#600">Contains Romans - Philemon</note><note source="#600">In Mandarin colloquial</note></msItem>         
+                  <title xml:lang="chi" source="#200">新約全書</title><title source="#200|9">xin yue quan shu</title><title type="variant" source="#230">新約全書中卷</title><title source="#230|9" type="variant">xin yue quan shu zhong juan</title><note source="#600">Peking Committee version</note><note source="#600">Label has 「新約全書中卷」</note><note source="#600">Contains Romans - Philemon</note><note source="#600">In Mandarin colloquial</note></msItem>         
                </msContents>
                <physDesc>
                   

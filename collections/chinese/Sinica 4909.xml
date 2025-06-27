@@ -47,10 +47,10 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">漢魏叢書</title>
+                     <title xml:lang="chi" source="#200">漢魏叢書</title>
                      <title source="#200|9">han wei cong shu</title>
                      <note source="#290">(明)程榮輯</note>
-                     <author source="#300" key="person_2503"><persName>(明)程榮</persName><persName type="9">cheng
+                     <author source="#300" key="person_2503"><persName xml:lang="chi">(明)程榮</persName><persName type="9">cheng
                            rong</persName></author>
                      <note source="#409">民國乙丑年[1925]上海涵芬樓影印明萬曆中新安程氏刊本</note>
                      <editor source="#440" role="pbl"><persName>涵芬樓</persName><persName type="9" role="pbl">han fen lou</persName></editor>

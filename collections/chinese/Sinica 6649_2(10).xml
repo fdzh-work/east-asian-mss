@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">金陵歷代建置表 一卷</title>
+                     <title xml:lang="chi" source="#200">金陵歷代建置表 一卷</title>
                      <title source="#200|9">jin ling li dai jian zhi biao</title>
                      <note source="#290">(清)傅春官編</note>
-                     <author source="#300" key="person_3377"><persName>(清)傅春官</persName><persName type="9">fu chun
+                     <author source="#300" key="person_3377"><persName xml:lang="chi">(清)傅春官</persName><persName type="9">fu chun
                            guan</persName></author>
                   </msItem>
                </msContents>

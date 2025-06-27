@@ -49,13 +49,13 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">勾股六術 一卷</title>
+                     <title xml:lang="chi" source="#200">勾股六術 一卷</title>
                      <title source="#200|9">gou gu liu shu</title>
                      <note source="#290">(清)項名達撰</note>
                      <note source="#290">(清)賈步緯注</note>
-                     <author source="#300" key="person_6199"><persName>(清)項名達</persName><persName type="9">xiang ming
+                     <author source="#300" key="person_6199"><persName xml:lang="chi">(清)項名達</persName><persName type="9">xiang ming
                            da</persName></author>
-                     <author source="#300" key="person_5715"><persName>(清)賈步緯</persName><persName type="9">jia bu
+                     <author source="#300" key="person_5715"><persName xml:lang="chi">(清)賈步緯</persName><persName type="9">jia bu
                            wei</persName></author>
                   </msItem>
                </msContents>

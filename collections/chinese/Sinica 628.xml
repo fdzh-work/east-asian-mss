@@ -46,7 +46,7 @@
                <head>書名: 海語 三卷 / (明)黃衷撰<lb/>清道光中吳蘭修編刊《嶺南叢書》本<lb/>線裝1冊 ; 27公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">海語 三卷</title><title source="#200|9">hai yu</title><note source="#290">(明)黃衷撰</note><author source="#300" key="person_2826"><persName>(明)黃衷</persName><persName type="9">huang zhong</persName></author><note source="#409">清道光中吳蘭修編刊《嶺南叢書》本</note><editor source="#446" role="pbl"><persName>嶺南叢書</persName><persName type="9" role="pbl">ling nan cong shu</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">海語 三卷</title><title source="#200|9">hai yu</title><note source="#290">(明)黃衷撰</note><author source="#300" key="person_2826"><persName xml:lang="chi">(明)黃衷</persName><persName type="9">huang zhong</persName></author><note source="#409">清道光中吳蘭修編刊《嶺南叢書》本</note><editor source="#446" role="pbl"><persName>嶺南叢書</persName><persName type="9" role="pbl">ling nan cong shu</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

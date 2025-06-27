@@ -49,10 +49,10 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">讀曲叢刊</title>
+                     <title xml:lang="chi" source="#200">讀曲叢刊</title>
                      <title source="#200|9">du qu cong kan</title>
                      <note source="#290">(民國)董康編</note>
-                     <author source="#300" key="person_3176"><persName>(民國)董康</persName><persName type="9">dong
+                     <author source="#300" key="person_3176"><persName xml:lang="chi">(民國)董康</persName><persName type="9">dong
                            kang</persName></author>
                      <note source="#409">民國丁巳[1917]武進董氏誦芬室刊本一九八三年北京中國書店重印本</note>
                      <editor source="#440" role="pbl"><persName>中國書店</persName><persName type="9" role="pbl">zhong guo shu dian</persName></editor>
@@ -60,7 +60,7 @@
                         <title>新編錄鬼簿 二卷</title>
                         <title source="9">xin bian lu gui bu</title>
                         <note source="290">(元)鍾嗣成撰</note>
-                        <author key="person_304"><persName>(元)鍾嗣成</persName><persName type="9">zhong si
+                        <author key="person_304"><persName xml:lang="chi">(元)鍾嗣成</persName><persName type="9">zhong si
                               cheng</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20130606/13:09:50|odh -->
@@ -70,7 +70,7 @@
                         <title>南詞敘錄 一卷</title>
                         <title source="9">nan ci xu lu</title>
                         <note source="290">(明)徐渭撰</note>
-                        <author key="person_2225"><persName>(明)徐渭</persName><persName type="9">xu
+                        <author key="person_2225"><persName xml:lang="chi">(明)徐渭</persName><persName type="9">xu
                            wei</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20130606/13:10:08|odh -->
@@ -80,7 +80,7 @@
                         <title>舊編南九宮目錄 一卷 </title>
                         <title source="9">jiu bian nan jiu gong mu lu</title>
                         <note source="290">(明)徐渭撰</note>
-                        <author key="person_2225"><persName>(明)徐渭</persName><persName type="9">xu
+                        <author key="person_2225"><persName xml:lang="chi">(明)徐渭</persName><persName type="9">xu
                            wei</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20130606/13:10:28|odh -->
@@ -90,7 +90,7 @@
                         <title>十三調南呂音節譜 一卷</title>
                         <title source="9">shi san diao nan lu yin jie pu</title>
                         <note source="290">(明)徐渭撰</note>
-                        <author key="person_2225"><persName>(明)徐渭</persName><persName type="9">xu
+                        <author key="person_2225"><persName xml:lang="chi">(明)徐渭</persName><persName type="9">xu
                            wei</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20130606/13:10:49|odh -->
@@ -100,7 +100,7 @@
                         <title>衡曲麈譚 一卷</title>
                         <title source="9">heng qu zhu tan</title>
                         <note source="290">(明)張琦撰</note>
-                        <author key="person_2195"><persName>(明)張琦</persName><persName type="9">zhang
+                        <author key="person_2195"><persName xml:lang="chi">(明)張琦</persName><persName type="9">zhang
                            qi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20130606/13:11:21|odh -->
@@ -110,7 +110,7 @@
                         <title>魏良輔曲律 一卷</title>
                         <title source="9">wei liang fu qu lu</title>
                         <note source="290">(明)魏良輔撰</note>
-                        <author key="person_2809"><persName>(明)魏良輔</persName><persName type="9">wei liang
+                        <author key="person_2809"><persName xml:lang="chi">(明)魏良輔</persName><persName type="9">wei liang
                               fu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20130606/13:11:35|odh -->
@@ -120,7 +120,7 @@
                         <title>劇說 六卷</title>
                         <title source="9">ju shuo</title>
                         <note source="290">(清)焦循撰</note>
-                        <author key="person_4986"><persName>(清)焦循</persName><persName type="9">jiao
+                        <author key="person_4986"><persName xml:lang="chi">(清)焦循</persName><persName type="9">jiao
                            xun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20130606/13:11:53|odh -->

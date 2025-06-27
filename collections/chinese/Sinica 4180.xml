@@ -46,7 +46,7 @@
                <head>書名: 黃鶴樓新歌上本 / (民國)林九編輯<lb/>日本昭和九年[1934]臺中瑞成書局排印本<lb/>毛裝1冊 ; 16公分<lb/>封面題名《三國志外黃鶴樓新歌上本》<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">黃鶴樓新歌上本</title><title source="#200|9">huang he lou xin ge shang ben</title><title type="variant" source="#230">三國志外黃鶴樓新歌上本</title><title source="#230|9" type="variant">san guo zhi wai huang he lou xin ge shang ben</title><note source="#290">(民國)林九編輯</note><author source="#300" key="person_3135"><persName>(民國)林九</persName><persName type="9">lin jiu</persName></author><note source="#409">日本昭和九年[1934]臺中瑞成書局排印本</note><editor source="#440" role="pbl"><persName>瑞成書局</persName><persName type="9" role="pbl">rui cheng shu ju</persName></editor><note source="#600">封面題名《三國志外黃鶴樓新歌上本》</note></msItem>         
+                  <title xml:lang="chi" source="#200">黃鶴樓新歌上本</title><title source="#200|9">huang he lou xin ge shang ben</title><title type="variant" source="#230">三國志外黃鶴樓新歌上本</title><title source="#230|9" type="variant">san guo zhi wai huang he lou xin ge shang ben</title><note source="#290">(民國)林九編輯</note><author source="#300" key="person_3135"><persName xml:lang="chi">(民國)林九</persName><persName type="9">lin jiu</persName></author><note source="#409">日本昭和九年[1934]臺中瑞成書局排印本</note><editor source="#440" role="pbl"><persName>瑞成書局</persName><persName type="9" role="pbl">rui cheng shu ju</persName></editor><note source="#600">封面題名《三國志外黃鶴樓新歌上本》</note></msItem>         
                </msContents>
                <physDesc>
                   

@@ -51,12 +51,12 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">後村居士集詩餘 二卷</title>
+                     <title xml:lang="chi" source="#200">後村居士集詩餘 二卷</title>
                      <title source="#200|9">hou cun ju shi ji shi yu</title>
                      <title type="variant" source="#230">後村居士詩餘</title>
                      <title source="#230|9" type="variant">hou cun ju shi shi yu</title>
                      <note source="#290">(宋)劉克莊撰</note>
-                     <author source="#300" key="person_965"><persName>(宋)劉克莊</persName><persName type="9">liu ke
+                     <author source="#300" key="person_965"><persName xml:lang="chi">(宋)劉克莊</persName><persName type="9">liu ke
                            zhuang</persName></author>
                      <note source="#600">景刊宋本</note>
                   </msItem>

@@ -46,7 +46,7 @@
                <head>書名: 資治通鑑綱目 五十九卷 / (宋)朱熹撰<lb/>明嘉靖十三年[1534]江西按察司刊本<lb/>線裝60冊 ; 30公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">資治通鑑綱目 五十九卷</title><title source="#200|9">zi zhi tong jian gang mu</title><note source="#290">(宋)朱熹撰</note><author source="#300" key="person_1250"><persName>(宋)朱熹</persName><persName type="9">zhu xi</persName></author><note source="#409">明嘉靖十三年[1534]江西按察司刊本</note><editor source="#440" role="pbl"><persName>江西按察司</persName><persName type="9" role="pbl">jiang xi an cha si</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">資治通鑑綱目 五十九卷</title><title source="#200|9">zi zhi tong jian gang mu</title><note source="#290">(宋)朱熹撰</note><author source="#300" key="person_1250"><persName xml:lang="chi">(宋)朱熹</persName><persName type="9">zhu xi</persName></author><note source="#409">明嘉靖十三年[1534]江西按察司刊本</note><editor source="#440" role="pbl"><persName>江西按察司</persName><persName type="9" role="pbl">jiang xi an cha si</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

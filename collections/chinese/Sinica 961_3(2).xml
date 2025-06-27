@@ -49,15 +49,15 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">牟子 一卷</title>
+                     <title xml:lang="chi" source="#200">牟子 一卷</title>
                      <title source="#200|9">mou zi</title>
                      <title type="variant" source="#230">理惑論</title>
                      <title source="#230|9" type="variant">li huo lun</title>
                      <note source="#290">(漢)牟融撰</note>
                      <note source="#290">(清)孫星衍校</note>
-                     <author source="#300" key="person_6563"><persName>(漢)牟融</persName><persName type="9">mou
+                     <author source="#300" key="person_6563"><persName xml:lang="chi">(漢)牟融</persName><persName type="9">mou
                            rong</persName></author>
-                     <author source="#300" key="person_3855"><persName>(清)孫星衍</persName><persName type="9">sun xing
+                     <author source="#300" key="person_3855"><persName xml:lang="chi">(清)孫星衍</persName><persName type="9">sun xing
                            yan</persName></author>
                      <note source="#600">一名《理惑論》</note>
                   </msItem>

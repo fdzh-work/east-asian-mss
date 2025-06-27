@@ -50,17 +50,17 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">讀史</title>
+                     <title xml:lang="chi" source="#200">讀史</title>
                      <title source="#200|9">du shi</title>
-                     <title source="#200">讀史記</title>
+                     <title xml:lang="chi" source="#200">讀史記</title>
                      <title source="#200|9">du shi ji</title>
-                     <title source="#200">讀諸文集偶記</title>
+                     <title xml:lang="chi" source="#200">讀諸文集偶記</title>
                      <title source="#200|9">du zhu wen ji ou ji</title>
-                     <title source="#200">讀許魯齋心法偶記</title>
+                     <title xml:lang="chi" source="#200">讀許魯齋心法偶記</title>
                      <title source="#200|9">du xu lu zhai xin fa ou ji</title>
-                     <title source="#200">讀厚語偶記</title>
+                     <title xml:lang="chi" source="#200">讀厚語偶記</title>
                      <title source="#200|9">du hou yu ou ji</title>
-                     <author source="#300" key="person_4008"><persName>(清)張履祥</persName><persName type="9">zhang lu
+                     <author source="#300" key="person_4008"><persName xml:lang="chi">(清)張履祥</persName><persName type="9">zhang lu
                            xiang</persName></author>
                      <note source="#600">以上合一卷, 爲全集卷三十</note>
                   </msItem>

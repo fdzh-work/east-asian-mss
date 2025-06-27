@@ -49,10 +49,10 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">文瀾閣四庫全書選粹</title>
+                     <title xml:lang="chi" source="#200">文瀾閣四庫全書選粹</title>
                      <title source="#200|9">wen lan ge si ku quan shu xuan cui</title>
                      <note source="#290">浙江圖書館編</note>
-                     <author><persName>浙江圖書館</persName><persName type="9">zhe jiang tu shu
+                     <author><persName xml:lang="chi">浙江圖書館</persName><persName type="9">zhe jiang tu shu
                            guan</persName></author>
                      <note source="#409">1996年北京中華全國圖書館文獻縮微複製中心影印文瀾閣鈔本</note>
                      <editor source="#440" role="pbl"><persName>中華全國圖書館文獻縮微複製中心</persName><persName type="9" role="pbl">zhong hua quan guo tu shu guan wen xian suo wei fu
@@ -61,7 +61,7 @@
                         <title>周易劄記 二卷</title>
                         <title source="9">zhou yi zha ji</title>
                         <note source="290">(清)楊名時撰</note>
-                        <author key="person_4665"><persName>(清)楊名時</persName><persName type="9">yang ming
+                        <author key="person_4665"><persName xml:lang="chi">(清)楊名時</persName><persName type="9">yang ming
                               shi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00004478|ons -->
@@ -71,7 +71,7 @@
                         <title>東家雜記 二卷</title>
                         <title source="9">dong jia za ji</title>
                         <note source="290">(宋)孔傳撰</note>
-                        <author key="person_1093"><persName>(宋)孔傳</persName><persName type="9">kong
+                        <author key="person_1093"><persName xml:lang="chi">(宋)孔傳</persName><persName type="9">kong
                            chuan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00004479|ons -->
@@ -81,7 +81,7 @@
                         <title>中西經星同異考 一卷</title>
                         <title source="9">zhong xi jing xing tong yi kao</title>
                         <note source="290">(清)梅文鼎撰</note>
-                        <author key="person_4650"><persName>(清)梅文鼎</persName><persName type="9">mei wen
+                        <author key="person_4650"><persName xml:lang="chi">(清)梅文鼎</persName><persName type="9">mei wen
                               ding</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00004480|ons -->
@@ -91,7 +91,7 @@
                         <title>雲峰集 十卷</title>
                         <title source="9">yun feng ji</title>
                         <note source="290">(元)胡炳文撰</note>
-                        <author key="person_244"><persName>(元)胡炳文</persName><persName type="9">hu bing
+                        <author key="person_244"><persName xml:lang="chi">(元)胡炳文</persName><persName type="9">hu bing
                            wen</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00004481|ons -->

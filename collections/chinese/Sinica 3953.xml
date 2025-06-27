@@ -52,7 +52,7 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">頌主詩集</title><title source="#200|9">song zhu shi ji</title><note source="#290">山東英浸禮會選輯</note><author><persName>山東英浸禮會</persName><persName type="9">shan dong ying jin li hui</persName></author><editor source="#420" role="pbl"><persName>商務印書館</persName><persName type="9" role="pbl">shang wu yin shu guan</persName></editor><note source="#600">Has English title-page ("A collection of hymns compiled by the English Baptist Mission, Shantung"), preface, and table of contents &amp;c</note></msItem>         
+                  <title xml:lang="chi" source="#200">頌主詩集</title><title source="#200|9">song zhu shi ji</title><note source="#290">山東英浸禮會選輯</note><author><persName xml:lang="chi">山東英浸禮會</persName><persName type="9">shan dong ying jin li hui</persName></author><editor source="#420" role="pbl"><persName>商務印書館</persName><persName type="9" role="pbl">shang wu yin shu guan</persName></editor><note source="#600">Has English title-page ("A collection of hymns compiled by the English Baptist Mission, Shantung"), preface, and table of contents &amp;c</note></msItem>         
                </msContents>
                <physDesc>
                   

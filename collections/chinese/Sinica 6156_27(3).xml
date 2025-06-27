@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">道德真經注疏 八卷</title>
+                     <title xml:lang="chi" source="#200">道德真經注疏 八卷</title>
                      <title source="#200|9">dao de zhen jing zhu shu</title>
                      <note source="#290">(南齊)顧歡述</note>
-                     <author source="#300" key="person_446"><persName>(南齊)顧歡</persName><persName type="9">gu
+                     <author source="#300" key="person_446"><persName xml:lang="chi">(南齊)顧歡</persName><persName type="9">gu
                            huan</persName></author>
                      <note source="#600">民國八年[1916]刊</note>
                   </msItem>

@@ -46,7 +46,7 @@
                <head>書名: 辯學遺牘 一卷 / (明西洋)利瑪竇撰<lb/>明末習是齋續梓本<lb/>線裝1冊 ; 24公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">辯學遺牘 一卷</title><title source="#200|9">bian xue yi du</title><note source="#290">(明西洋)利瑪竇撰</note><author source="#300" key="person_7013"><persName>Ricci, Matteo</persName></author><note source="#409">明末習是齋續梓本</note><editor source="#440" role="pbl"><persName>習是齋</persName><persName type="9" role="pbl">xi shi zhai</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">辯學遺牘 一卷</title><title source="#200|9">bian xue yi du</title><note source="#290">(明西洋)利瑪竇撰</note><author source="#300" key="person_7013"><persName xml:lang="chi">Ricci, Matteo</persName></author><note source="#409">明末習是齋續梓本</note><editor source="#440" role="pbl"><persName>習是齋</persName><persName type="9" role="pbl">xi shi zhai</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

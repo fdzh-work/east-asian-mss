@@ -46,7 +46,7 @@
                <head>書名: 舊約聖詩<lb/>京都[Peking] : 美國傳聖經會 : 美華書館[刷印], 1877<lb/>平裝1冊(155頁) ; 15.9公分<lb/>Tr. by S I J Schereschewsky<lb/>In Mandarin dialect<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">舊約聖詩</title><title source="#200|9">jiu yue sheng shi</title><author source="#300" key="person_7026"><persName>Schereschewsky, Samuel Isaac Joseph</persName></author><editor source="#420" role="pbl"><persName>美國傳聖經會</persName><persName type="9" role="pbl">mei guo chuan sheng jing hui</persName></editor><editor source="#420" role="pbl"><persName>美華書館</persName><persName type="9" role="pbl">mei hua shu guan</persName></editor><note source="#600">Tr. by S I J Schereschewsky</note><note source="#600">In Mandarin dialect</note></msItem>         
+                  <title xml:lang="chi" source="#200">舊約聖詩</title><title source="#200|9">jiu yue sheng shi</title><author source="#300" key="person_7026"><persName xml:lang="chi">Schereschewsky, Samuel Isaac Joseph</persName></author><editor source="#420" role="pbl"><persName>美國傳聖經會</persName><persName type="9" role="pbl">mei guo chuan sheng jing hui</persName></editor><editor source="#420" role="pbl"><persName>美華書館</persName><persName type="9" role="pbl">mei hua shu guan</persName></editor><note source="#600">Tr. by S I J Schereschewsky</note><note source="#600">In Mandarin dialect</note></msItem>         
                </msContents>
                <physDesc>
                   

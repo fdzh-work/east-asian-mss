@@ -49,9 +49,9 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">諸史瑣言 十六卷</title>
+                     <title xml:lang="chi" source="#200">諸史瑣言 十六卷</title>
                      <title source="#200|9">zhu shi suo yan</title>
-                     <author source="#300" key="person_4852"><persName>(清)沈家本</persName><persName type="9">shen jia
+                     <author source="#300" key="person_4852"><persName xml:lang="chi">(清)沈家本</persName><persName type="9">shen jia
                            ben</persName></author>
                   </msItem>
                </msContents>
@@ -97,7 +97,7 @@
                      <msItem>
                         <title>史記瑣言 三卷</title>
                         <title source="9">shi ji suo yan</title>
-                        <author key="person_4852"><persName>(清)沈家本</persName><persName type="9">shen jia
+                        <author key="person_4852"><persName xml:lang="chi">(清)沈家本</persName><persName type="9">shen jia
                               ben</persName></author>
                      </msItem>
                   </msContents>
@@ -123,7 +123,7 @@
                      <msItem>
                         <title>漢書瑣言 五卷</title>
                         <title source="9">han shu suo yan</title>
-                        <author key="person_4852"><persName>(清)沈家本</persName><persName type="9">shen jia
+                        <author key="person_4852"><persName xml:lang="chi">(清)沈家本</persName><persName type="9">shen jia
                               ben</persName></author>
                      </msItem>
                   </msContents>
@@ -149,7 +149,7 @@
                      <msItem>
                         <title>後漢書瑣言 三卷</title>
                         <title source="9">hou han shu suo yan</title>
-                        <author key="person_4852"><persName>(清)沈家本</persName><persName type="9">shen jia
+                        <author key="person_4852"><persName xml:lang="chi">(清)沈家本</persName><persName type="9">shen jia
                               ben</persName></author>
                      </msItem>
                   </msContents>
@@ -175,7 +175,7 @@
                      <msItem>
                         <title>續漢書志瑣言 一卷</title>
                         <title source="9">xu han shu zhi suo yan</title>
-                        <author key="person_4852"><persName>(清)沈家本</persName><persName type="9">shen jia
+                        <author key="person_4852"><persName xml:lang="chi">(清)沈家本</persName><persName type="9">shen jia
                               ben</persName></author>
                      </msItem>
                   </msContents>
@@ -201,7 +201,7 @@
                      <msItem>
                         <title>三國志瑣言 四卷</title>
                         <title source="9">san guo zhi suo yan</title>
-                        <author key="person_4852"><persName>(清)沈家本</persName><persName type="9">shen jia
+                        <author key="person_4852"><persName xml:lang="chi">(清)沈家本</persName><persName type="9">shen jia
                               ben</persName></author>
                      </msItem>
                   </msContents>

@@ -50,12 +50,12 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">雷次宗五經要義 一卷</title>
+                     <title xml:lang="chi" source="#200">雷次宗五經要義 一卷</title>
                      <title source="#200|9">lei ci zong wu jing yao yi</title>
                      <title type="variant" source="#230">五經要義</title>
                      <title source="#230|9" type="variant">wu jing yao yi</title>
                      <note source="#290">(劉宋)雷次宗撰</note>
-                     <author source="#300" key="person_386"><persName>(劉宋)雷次宗</persName><persName type="9">lei ci
+                     <author source="#300" key="person_386"><persName xml:lang="chi">(劉宋)雷次宗</persName><persName type="9">lei ci
                            zong</persName></author>
                   </msItem>
                </msContents>

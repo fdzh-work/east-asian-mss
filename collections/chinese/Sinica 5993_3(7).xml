@@ -51,12 +51,12 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">精選名儒草堂詩餘 三卷</title>
+                     <title xml:lang="chi" source="#200">精選名儒草堂詩餘 三卷</title>
                      <title source="#200|9">jing xuan ming ru cao tang shi yu</title>
                      <title type="variant" source="#230">鳳林書院草堂詩餘</title>
                      <title source="#230|9" type="variant">feng lin shu yuan cao tang shi yu</title>
                      <note source="#290">(元)鳳林書院輯</note>
-                     <author><persName>(元)鳳林書院</persName><persName type="9">feng lin shu
+                     <author><persName xml:lang="chi">(元)鳳林書院</persName><persName type="9">feng lin shu
                            yuan</persName></author>
                      <note source="#600">景刊元本</note>
                   </msItem>

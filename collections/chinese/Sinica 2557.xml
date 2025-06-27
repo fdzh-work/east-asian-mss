@@ -46,7 +46,7 @@
                <head>書名: 易經 十二卷首一卷末一卷 / (宋)朱熹本義 ; (宋)呂祖謙音訓<lb/>清光緒十九年[1893]江南書局重刊本<lb/>線裝2冊 ; 27公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">易經 十二卷首一卷末一卷</title><title source="#200|9">yi jing</title><note source="#290">(宋)朱熹本義</note><note source="#290">(宋)呂祖謙音訓</note><author source="#300" key="person_1250"><persName>(宋)朱熹</persName><persName type="9">zhu xi</persName></author><author source="#300" key="person_1055"><persName>(宋)呂祖謙</persName><persName type="9">lu zu qian</persName></author><note source="#409">清光緒十九年[1893]江南書局重刊本</note><editor source="#440" role="pbl"><persName>江南書局</persName><persName type="9" role="pbl">jiang nan shu ju</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">易經 十二卷首一卷末一卷</title><title source="#200|9">yi jing</title><note source="#290">(宋)朱熹本義</note><note source="#290">(宋)呂祖謙音訓</note><author source="#300" key="person_1250"><persName xml:lang="chi">(宋)朱熹</persName><persName type="9">zhu xi</persName></author><author source="#300" key="person_1055"><persName xml:lang="chi">(宋)呂祖謙</persName><persName type="9">lu zu qian</persName></author><note source="#409">清光緒十九年[1893]江南書局重刊本</note><editor source="#440" role="pbl"><persName>江南書局</persName><persName type="9" role="pbl">jiang nan shu ju</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

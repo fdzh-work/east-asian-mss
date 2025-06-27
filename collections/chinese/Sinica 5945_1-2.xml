@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">水心先生文集 二十九卷補遺一卷</title>
+                     <title xml:lang="chi" source="#200">水心先生文集 二十九卷補遺一卷</title>
                      <title source="#200|9">shui xin xian sheng wen ji</title>
                      <note source="#290">(宋)葉適撰</note>
-                     <author source="#300" key="person_1549"><persName>(宋)葉適</persName><persName type="9">ye
+                     <author source="#300" key="person_1549"><persName xml:lang="chi">(宋)葉適</persName><persName type="9">ye
                            shi</persName></author>
                      <note source="#600">光緒壬午[1882]刊</note>
                   </msItem>

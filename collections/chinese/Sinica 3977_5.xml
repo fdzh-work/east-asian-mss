@@ -50,21 +50,21 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">髹飾餘 二卷</title>
+                     <title xml:lang="chi" source="#200">髹飾餘 二卷</title>
                      <title source="#200|9">xiu shi yu</title>
                      <note source="#290">(明)黃成撰</note>
                      <note source="#290">(明)楊明注</note>
-                     <author source="#300" key="person_2814"><persName>(明)黃成</persName><persName type="9">huang
+                     <author source="#300" key="person_2814"><persName xml:lang="chi">(明)黃成</persName><persName type="9">huang
                            cheng</persName></author>
-                     <author source="#300" key="person_2355"><persName>(明)楊明</persName><persName type="9">yang
+                     <author source="#300" key="person_2355"><persName xml:lang="chi">(明)楊明</persName><persName type="9">yang
                            ming</persName></author>
                      <note source="#600">民國丁卯[1927]影刊舊鈔本</note>
                   </msItem>
                   <msItem n="2">
-                     <title source="#201">髹飾餘箋證 一卷</title>
+                     <title xml:lang="chi" source="#201">髹飾餘箋證 一卷</title>
                      <title source="#201|9">xiu shi yu jian zheng</title>
                      <note source="#291">(清)闞鐸撰</note>
-                     <author source="#301" key="person_5984"><persName>(清)闞鐸</persName><persName type="9">kan
+                     <author source="#301" key="person_5984"><persName xml:lang="chi">(清)闞鐸</persName><persName type="9">kan
                            duo</persName></author>
                   </msItem>
                </msContents>

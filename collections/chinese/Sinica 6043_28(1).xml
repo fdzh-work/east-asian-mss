@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">弁山小隱吟稿 二卷</title>
+                     <title xml:lang="chi" source="#200">弁山小隱吟稿 二卷</title>
                      <title source="#200|9">bian shan xiao yin yin gao</title>
                      <note source="#290">(元)黃玠撰</note>
-                     <author source="#300" key="person_332"><persName>(元)黃玠</persName><persName type="9">huang
+                     <author source="#300" key="person_332"><persName xml:lang="chi">(元)黃玠</persName><persName type="9">huang
                            jie</persName></author>
                      <note source="#600">民國十二年[1923]刊</note>
                   </msItem>

@@ -46,7 +46,7 @@
                <head>書名: 柳為荊愁<lb/>廣州 : 大新書局[發行], [1920或1930年代?]<lb/>平裝1冊(29頁) ; 19公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">柳為荊愁</title><title source="#200|9">liu wei jing chou</title><editor source="#420" role="pbl"><persName>大新書局</persName><persName type="9" role="pbl">da xin shu ju</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">柳為荊愁</title><title source="#200|9">liu wei jing chou</title><editor source="#420" role="pbl"><persName>大新書局</persName><persName type="9" role="pbl">da xin shu ju</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

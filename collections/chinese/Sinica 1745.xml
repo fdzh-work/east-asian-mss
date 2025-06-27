@@ -46,7 +46,7 @@
                <head>書名: 上帝辨證<lb/>[Canton] : 惠愛堂, 咸豐二年[1852]<lb/>線裝1冊(9頁) ; 24.1公分<lb/>By B Hobson<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">上帝辨證</title><title source="#200|9">shang di bian zheng</title><author source="#300" key="person_6891"><persName>Hobson, Benjamin</persName></author><editor source="#420" role="pbl"><persName>惠愛堂</persName><persName type="9" role="pbl">hui ai tang</persName></editor><note source="#600">By B Hobson</note></msItem>         
+                  <title xml:lang="chi" source="#200">上帝辨證</title><title source="#200|9">shang di bian zheng</title><author source="#300" key="person_6891"><persName xml:lang="chi">Hobson, Benjamin</persName></author><editor source="#420" role="pbl"><persName>惠愛堂</persName><persName type="9" role="pbl">hui ai tang</persName></editor><note source="#600">By B Hobson</note></msItem>         
                </msContents>
                <physDesc>
                   

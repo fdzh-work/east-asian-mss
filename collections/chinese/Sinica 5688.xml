@@ -46,7 +46,7 @@
                <head>書名: 賣花得美<lb/>廣州 : 以文堂書局[發行], [1920或1930年代?]<lb/>平裝1冊(31頁) ; 19公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">賣花得美</title><title source="#200|9">mai hua de mei</title><editor source="#420" role="pbl"><persName>以文堂書局</persName><persName type="9" role="pbl">yi wen tang shu ju</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">賣花得美</title><title source="#200|9">mai hua de mei</title><editor source="#420" role="pbl"><persName>以文堂書局</persName><persName type="9" role="pbl">yi wen tang shu ju</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

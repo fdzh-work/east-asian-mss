@@ -49,12 +49,12 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">葉氏菉竹堂碑目 六卷</title>
+                     <title xml:lang="chi" source="#200">葉氏菉竹堂碑目 六卷</title>
                      <title source="#200|9">ye shi lu zhu tang bei mu</title>
                      <title type="variant" source="#230">菉竹堂碑目</title>
                      <title source="#230|9" type="variant">lu zhu tang bei mu</title>
                      <note source="#290">(明)葉盛撰</note>
-                     <author source="#300" key="person_2548"><persName>(明)葉盛</persName><persName type="9">ye
+                     <author source="#300" key="person_2548"><persName xml:lang="chi">(明)葉盛</persName><persName type="9">ye
                            sheng</persName></author>
                   </msItem>
                </msContents>

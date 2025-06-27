@@ -49,15 +49,15 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">雜纂 三卷</title>
+                     <title xml:lang="chi" source="#200">雜纂 三卷</title>
                      <title source="#200|9">za zuan</title>
                      <note source="#290">(唐)李商隱撰</note>
                      <note source="#290">(宋)王君玉, (宋)蘇軾續</note>
-                     <author source="#300" key="person_672"><persName>(唐)李商隱</persName><persName type="9">li shang
+                     <author source="#300" key="person_672"><persName xml:lang="chi">(唐)李商隱</persName><persName type="9">li shang
                            yin</persName></author>
-                     <author source="#300" key="person_1415"><persName>(宋)王君玉</persName><persName type="9">wang jun
+                     <author source="#300" key="person_1415"><persName xml:lang="chi">(宋)王君玉</persName><persName type="9">wang jun
                            yu</persName></author>
-                     <author source="#300" key="person_1593"><persName>(宋)蘇軾</persName><persName type="9">su
+                     <author source="#300" key="person_1593"><persName xml:lang="chi">(宋)蘇軾</persName><persName type="9">su
                            shi</persName></author>
                   </msItem>
                </msContents>

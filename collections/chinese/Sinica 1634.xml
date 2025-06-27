@@ -46,7 +46,7 @@
                <head>書名: 醫館略述三書 / 大美國醫士柯為樑校訂<lb/>[Foochow], 同治十二年[1874]<lb/>線裝1冊(20頁) : 圖 ; 21.9公分<lb/>Only the label has 「三書」; the seal script title-page and banxin title have 「二書」<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">醫館略述三書</title><title source="#200|9">yi guan lue shu san shu</title><note source="#290">大美國醫士柯為樑校訂</note><author source="#300" key="person_6986"><persName>Osgood, Dauphin William</persName></author><note source="#600">Only the label has 「三書」; the seal script title-page and banxin title have 「二書」</note></msItem>         
+                  <title xml:lang="chi" source="#200">醫館略述三書</title><title source="#200|9">yi guan lue shu san shu</title><note source="#290">大美國醫士柯為樑校訂</note><author source="#300" key="person_6986"><persName xml:lang="chi">Osgood, Dauphin William</persName></author><note source="#600">Only the label has 「三書」; the seal script title-page and banxin title have 「二書」</note></msItem>         
                </msContents>
                <physDesc>
                   

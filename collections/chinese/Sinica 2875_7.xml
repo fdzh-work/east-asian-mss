@@ -49,15 +49,15 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">務民義齋算學</title>
+                     <title xml:lang="chi" source="#200">務民義齋算學</title>
                      <title source="#200|9">wu min yi zhai suan xue</title>
                      <note source="#290">(清)徐有壬學</note>
-                     <author source="#300" key="person_4199"><persName>(清)徐有壬</persName><persName type="9">xu you
+                     <author source="#300" key="person_4199"><persName xml:lang="chi">(清)徐有壬</persName><persName type="9">xu you
                            ren</persName></author>
                      <msItem n="1">
                         <title>測圜密率 三卷</title>
                         <title source="9">ce yuan mi lu</title>
-                        <author key="person_4199"><persName>(清)徐有壬</persName><persName type="9">xu you
+                        <author key="person_4199"><persName xml:lang="chi">(清)徐有壬</persName><persName type="9">xu you
                            ren</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20161225/00000091|odh -->
@@ -66,7 +66,7 @@
                      <msItem n="2">
                         <title>橢圜正術 一卷</title>
                         <title source="9">tuo yuan zheng shu</title>
-                        <author key="person_4199"><persName>(清)徐有壬</persName><persName type="9">xu you
+                        <author key="person_4199"><persName xml:lang="chi">(清)徐有壬</persName><persName type="9">xu you
                            ren</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20161225/00000092|odh -->
@@ -75,7 +75,7 @@
                      <msItem n="3">
                         <title>截球解義 一卷</title>
                         <title source="9">jie qiu jie yi</title>
-                        <author key="person_4199"><persName>(清)徐有壬</persName><persName type="9">xu you
+                        <author key="person_4199"><persName xml:lang="chi">(清)徐有壬</persName><persName type="9">xu you
                            ren</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20161225/00000093|odh -->
@@ -84,7 +84,7 @@
                      <msItem n="4">
                         <title>造各表簡法 一卷</title>
                         <title source="9">zao ge biao jian fa</title>
-                        <author key="person_4199"><persName>(清)徐有壬</persName><persName type="9">xu you
+                        <author key="person_4199"><persName xml:lang="chi">(清)徐有壬</persName><persName type="9">xu you
                            ren</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20161225/00000094|odh -->
@@ -93,7 +93,7 @@
                      <msItem n="5">
                         <title>弧三角拾遺 一卷</title>
                         <title source="9">hu san jiao shi yi</title>
-                        <author key="person_4199"><persName>(清)徐有壬</persName><persName type="9">xu you
+                        <author key="person_4199"><persName xml:lang="chi">(清)徐有壬</persName><persName type="9">xu you
                            ren</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20161225/00000095|odh -->
@@ -102,7 +102,7 @@
                      <msItem n="6">
                         <title>用表推日食三差 一卷</title>
                         <title source="9">yong biao tui ri shi san cha</title>
-                        <author key="person_4199"><persName>(清)徐有壬</persName><persName type="9">xu you
+                        <author key="person_4199"><persName xml:lang="chi">(清)徐有壬</persName><persName type="9">xu you
                            ren</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20161225/00000096|odh -->
@@ -111,7 +111,7 @@
                      <msItem n="7">
                         <title>朔食九服里差 三卷</title>
                         <title source="9">shuo shi jiu fu li cha</title>
-                        <author key="person_4199"><persName>(清)徐有壬</persName><persName type="9">xu you
+                        <author key="person_4199"><persName xml:lang="chi">(清)徐有壬</persName><persName type="9">xu you
                            ren</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20161225/00000097|odh -->

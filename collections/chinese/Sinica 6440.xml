@@ -46,7 +46,7 @@
                <head>書名: 新鐫幼學雜字 一卷<lb/>清季王同文刊本<lb/>線裝1冊 : 圖 ; 19公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">新鐫幼學雜字 一卷</title><title source="#200|9">xin juan you xue za zi</title><title type="variant" source="#230">幼學雜字</title><title source="#230|9" type="variant">you xue za zi</title><note source="#409">清季王同文刊本</note><editor source="#440" role="pbl"><persName>王同文</persName><persName type="9" role="pbl">wang tong wen</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">新鐫幼學雜字 一卷</title><title source="#200|9">xin juan you xue za zi</title><title type="variant" source="#230">幼學雜字</title><title source="#230|9" type="variant">you xue za zi</title><note source="#409">清季王同文刊本</note><editor source="#440" role="pbl"><persName>王同文</persName><persName type="9" role="pbl">wang tong wen</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

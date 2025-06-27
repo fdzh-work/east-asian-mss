@@ -46,7 +46,7 @@
                <head>書名: 牧童得福<lb/>京都[Peking] : 施醫院, 1874<lb/>線裝1冊(14頁) : 圖 ; 14.7公分<lb/>By J Gilmour<lb/>In Peking dialect<lb/>Frontispiece is a western engraving printed on a single leaf of western paper<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">牧童得福</title><title source="#200|9">mu tong de fu</title><author source="#300" key="person_6866"><persName>Gilmour, James</persName></author><editor source="#420" role="pbl"><persName>施醫院</persName><persName type="9" role="pbl">shi yi yuan</persName></editor><note source="#600">By J Gilmour</note><note source="#600">In Peking dialect</note><note source="#600">Frontispiece is a western engraving printed on a single leaf of western paper</note></msItem>         
+                  <title xml:lang="chi" source="#200">牧童得福</title><title source="#200|9">mu tong de fu</title><author source="#300" key="person_6866"><persName xml:lang="chi">Gilmour, James</persName></author><editor source="#420" role="pbl"><persName>施醫院</persName><persName type="9" role="pbl">shi yi yuan</persName></editor><note source="#600">By J Gilmour</note><note source="#600">In Peking dialect</note><note source="#600">Frontispiece is a western engraving printed on a single leaf of western paper</note></msItem>         
                </msContents>
                <physDesc>
                   

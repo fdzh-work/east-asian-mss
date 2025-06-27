@@ -46,7 +46,7 @@
                <head>書名: 信德之解<lb/>[Canton], [c.1855]<lb/>線裝1冊(4頁) ; 19.3公分<lb/>By B Hobson<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">信德之解</title><title source="#200|9">xin de zhi jie</title><author source="#300" key="person_6891"><persName>Hobson, Benjamin</persName></author><note source="#600">By B Hobson</note></msItem>         
+                  <title xml:lang="chi" source="#200">信德之解</title><title source="#200|9">xin de zhi jie</title><author source="#300" key="person_6891"><persName xml:lang="chi">Hobson, Benjamin</persName></author><note source="#600">By B Hobson</note></msItem>         
                </msContents>
                <physDesc>
                   

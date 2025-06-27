@@ -50,16 +50,16 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">春秋公羊傳注疏 二十八卷</title>
+                     <title xml:lang="chi" source="#200">春秋公羊傳注疏 二十八卷</title>
                      <title source="#200|9">chun qiu gong yang zhuan zhu shu</title>
                      <note source="#290">(漢)何休學</note>
                      <note source="#290">(唐)陸德明音義</note>
                      <note source="#290">(唐)徐彥疏</note>
-                     <author source="#300" key="person_6482"><persName>(漢)何休</persName><persName type="9">he
+                     <author source="#300" key="person_6482"><persName xml:lang="chi">(漢)何休</persName><persName type="9">he
                            xiu</persName></author>
-                     <author source="#300" key="person_854"><persName>(唐)陸德明</persName><persName type="9">lu de
+                     <author source="#300" key="person_854"><persName xml:lang="chi">(唐)陸德明</persName><persName type="9">lu de
                            ming</persName></author>
-                     <author source="#300" key="person_648"><persName>(唐)徐彥</persName><persName type="9">xu
+                     <author source="#300" key="person_648"><persName xml:lang="chi">(唐)徐彥</persName><persName type="9">xu
                            yan</persName></author>
                   </msItem>
                </msContents>

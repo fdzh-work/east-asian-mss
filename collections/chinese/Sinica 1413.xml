@@ -46,7 +46,7 @@
                <head>書名: 售書清單<lb/>[Foochow], 同治六年[1867]<lb/>線裝1冊(2頁) ; 19.9公分<lb/>Methodist Episcopal Church booklist<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">售書清單</title><title source="#200|9">shou shu qing dan</title><author><persName>Methodist Episcopal Church</persName></author><note source="#600">Methodist Episcopal Church booklist</note></msItem>         
+                  <title xml:lang="chi" source="#200">售書清單</title><title source="#200|9">shou shu qing dan</title><author><persName xml:lang="chi">Methodist Episcopal Church</persName></author><note source="#600">Methodist Episcopal Church booklist</note></msItem>         
                </msContents>
                <physDesc>
                   

@@ -46,7 +46,7 @@
                <head>書名: 創世歷代書 / 尚德者纂<lb/>[Batavia?], [c.1840]<lb/>線裝1冊(34頁) ; 23.1公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">創世歷代書</title><title source="#200|9">chuang shi li dai shu</title><note source="#290">尚德者纂</note><author source="#300" key="person_6963"><persName>Medhurst, Walter Henry</persName></author></msItem>         
+                  <title xml:lang="chi" source="#200">創世歷代書</title><title source="#200|9">chuang shi li dai shu</title><note source="#290">尚德者纂</note><author source="#300" key="person_6963"><persName xml:lang="chi">Medhurst, Walter Henry</persName></author></msItem>         
                </msContents>
                <physDesc>
                   

@@ -46,7 +46,7 @@
                <head>書名: 聖經圖記<lb/>[Ningpo], [1855]<lb/>線裝1冊([2], 38頁) : 圖 ; 24.1公分<lb/>By J W Quarterman<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">聖經圖記</title><title source="#200|9">sheng jing tu ji</title><author source="#300" key="person_7005"><persName>Quarterman, John Winn</persName></author><note source="#600">By J W Quarterman</note></msItem>         
+                  <title xml:lang="chi" source="#200">聖經圖記</title><title source="#200|9">sheng jing tu ji</title><author source="#300" key="person_7005"><persName xml:lang="chi">Quarterman, John Winn</persName></author><note source="#600">By J W Quarterman</note></msItem>         
                </msContents>
                <physDesc>
                   

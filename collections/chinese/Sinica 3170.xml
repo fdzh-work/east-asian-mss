@@ -47,12 +47,12 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">廣雅書局叢書</title>
+                     <title xml:lang="chi" source="#200">廣雅書局叢書</title>
                      <title source="#200|9">guang ya shu ju cong shu</title>
                      <title type="variant" source="#230">廣雅叢書</title>
                      <title source="#230|9" type="variant">guang ya cong shu</title>
                      <note source="#290">(清)廣雅書局編</note>
-                     <author><persName>(清)廣雅書局</persName><persName type="9">guang ya shu
+                     <author><persName xml:lang="chi">(清)廣雅書局</persName><persName type="9">guang ya shu
                            ju</persName></author>
                      <note source="#409">彙編重印清光緒中廣雅書局刊本</note>
                      <editor source="#440" role="pbl"><persName>廣雅書局</persName><persName type="9" role="pbl">guang ya shu ju</persName></editor>

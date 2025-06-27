@@ -50,19 +50,19 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">張丘建算經 三卷</title>
+                     <title xml:lang="chi" source="#200">張丘建算經 三卷</title>
                      <title source="#200|9">zhang qiu jian suan jing</title>
                      <note source="#290">(□)張丘建撰</note>
                      <note source="#290">(北周)甄鸞注</note>
                      <note source="#290">(唐)李淳風等奉敕注釋</note>
                      <note source="#290">(唐)劉孝孫細草</note>
-                     <author source="#300" key="person_16"><persName>(□)張丘建</persName><persName type="9">zhang qiu
+                     <author source="#300" key="person_16"><persName xml:lang="chi">(□)張丘建</persName><persName type="9">zhang qiu
                            jian</persName></author>
-                     <author source="#300" key="person_401"><persName>(北周)甄鸞</persName><persName type="9">zhen
+                     <author source="#300" key="person_401"><persName xml:lang="chi">(北周)甄鸞</persName><persName type="9">zhen
                            luan</persName></author>
-                     <author source="#300" key="person_689"><persName>(唐)李淳風</persName><persName type="9">li chun
+                     <author source="#300" key="person_689"><persName xml:lang="chi">(唐)李淳風</persName><persName type="9">li chun
                            feng</persName></author>
-                     <author source="#300" key="person_565"><persName>(唐)劉孝孫</persName><persName type="9">liu xiao
+                     <author source="#300" key="person_565"><persName xml:lang="chi">(唐)劉孝孫</persName><persName type="9">liu xiao
                            sun</persName></author>
                      <note source="#600">乾隆四十五年[1780]刊</note>
                   </msItem>

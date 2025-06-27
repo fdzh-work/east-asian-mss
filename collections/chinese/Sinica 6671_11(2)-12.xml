@@ -49,20 +49,20 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">張子全書 十五卷</title>
+                     <title xml:lang="chi" source="#200">張子全書 十五卷</title>
                      <title source="#200|9">zhang zi quan shu</title>
                      <note source="#290">(宋)張載撰</note>
                      <note source="#290">(清)朱軾, (清)段志熙校</note>
-                     <author source="#300" key="person_1182"><persName>(宋)張載</persName><persName type="9">zhang
+                     <author source="#300" key="person_1182"><persName xml:lang="chi">(宋)張載</persName><persName type="9">zhang
                            zai</persName></author>
-                     <author source="#300" key="person_4432"><persName>(清)朱軾</persName><persName type="9">zhu
+                     <author source="#300" key="person_4432"><persName xml:lang="chi">(清)朱軾</persName><persName type="9">zhu
                            shi</persName></author>
-                     <author source="#300" key="person_4731"><persName>(清)段志熙</persName><persName type="9">duan zhi
+                     <author source="#300" key="person_4731"><persName xml:lang="chi">(清)段志熙</persName><persName type="9">duan zhi
                            xi</persName></author>
                      <msItem n="1">
                         <title>西銘 一卷</title>
                         <title source="9">xi ming</title>
-                        <author key="person_1182"><persName>(宋)張載</persName><persName type="9">zhang
+                        <author key="person_1182"><persName xml:lang="chi">(宋)張載</persName><persName type="9">zhang
                            zai</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180618/00000015|odh -->
@@ -71,7 +71,7 @@
                      <msItem n="2">
                         <title>正蒙 二卷</title>
                         <title source="9">zheng meng</title>
-                        <author key="person_1182"><persName>(宋)張載</persName><persName type="9">zhang
+                        <author key="person_1182"><persName xml:lang="chi">(宋)張載</persName><persName type="9">zhang
                            zai</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180618/00000016|odh -->
@@ -80,7 +80,7 @@
                      <msItem n="3">
                         <title>經學理窟 五卷</title>
                         <title source="9">jing xue li ku</title>
-                        <author key="person_1182"><persName>(宋)張載</persName><persName type="9">zhang
+                        <author key="person_1182"><persName xml:lang="chi">(宋)張載</persName><persName type="9">zhang
                            zai</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180618/00000017|odh -->
@@ -89,7 +89,7 @@
                      <msItem n="4">
                         <title>易說 三卷</title>
                         <title source="9">yi shuo</title>
-                        <author key="person_1182"><persName>(宋)張載</persName><persName type="9">zhang
+                        <author key="person_1182"><persName xml:lang="chi">(宋)張載</persName><persName type="9">zhang
                            zai</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180618/00000018|odh -->
@@ -98,7 +98,7 @@
                      <msItem n="5">
                         <title>語錄抄 一卷</title>
                         <title source="9">yu lu chao</title>
-                        <author key="person_1182"><persName>(宋)張載</persName><persName type="9">zhang
+                        <author key="person_1182"><persName xml:lang="chi">(宋)張載</persName><persName type="9">zhang
                            zai</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180618/00000019|odh -->
@@ -107,7 +107,7 @@
                      <msItem n="6">
                         <title>文集抄 一卷</title>
                         <title source="9">wen ji chao</title>
-                        <author key="person_1182"><persName>(宋)張載</persName><persName type="9">zhang
+                        <author key="person_1182"><persName xml:lang="chi">(宋)張載</persName><persName type="9">zhang
                            zai</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180618/00000020|odh -->
@@ -116,7 +116,7 @@
                      <msItem n="7">
                         <title>拾遺 一卷</title>
                         <title source="9">shi yi</title>
-                        <author key="person_1182"><persName>(宋)張載</persName><persName type="9">zhang
+                        <author key="person_1182"><persName xml:lang="chi">(宋)張載</persName><persName type="9">zhang
                            zai</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180618/00000021|odh -->
@@ -125,7 +125,7 @@
                      <msItem n="8">
                         <title>附錄 一卷</title>
                         <title source="9">fu lu</title>
-                        <author key="person_1182"><persName>(宋)張載</persName><persName type="9">zhang
+                        <author key="person_1182"><persName xml:lang="chi">(宋)張載</persName><persName type="9">zhang
                            zai</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180618/00000022|odh -->

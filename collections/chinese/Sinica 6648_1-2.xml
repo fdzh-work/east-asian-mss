@@ -50,19 +50,19 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">尚書註疏 二十卷附校勘記一卷</title>
+                     <title xml:lang="chi" source="#200">尚書註疏 二十卷附校勘記一卷</title>
                      <title source="#200|9">shang shu zhu shu</title>
                      <note source="#290">(漢)孔安國傳</note>
                      <note source="#290">(唐)陸德明音義</note>
                      <note source="#290">(唐)孔穎達疏</note>
                      <note source="#290">校勘記(清)張鈞衡撰</note>
-                     <author source="#300" key="person_6513"><persName>(漢)孔安國</persName><persName type="9">kong an
+                     <author source="#300" key="person_6513"><persName xml:lang="chi">(漢)孔安國</persName><persName type="9">kong an
                            guo</persName></author>
-                     <author source="#300" key="person_854"><persName>(唐)陸德明</persName><persName type="9">lu de
+                     <author source="#300" key="person_854"><persName xml:lang="chi">(唐)陸德明</persName><persName type="9">lu de
                            ming</persName></author>
-                     <author source="#300" key="person_605"><persName>(唐)孔穎達</persName><persName type="9">kong ying
+                     <author source="#300" key="person_605"><persName xml:lang="chi">(唐)孔穎達</persName><persName type="9">kong ying
                            da</persName></author>
-                     <author source="#300" key="person_4118"><persName>(清)張鈞衡</persName><persName type="9">zhang jun
+                     <author source="#300" key="person_4118"><persName xml:lang="chi">(清)張鈞衡</persName><persName type="9">zhang jun
                            heng</persName></author>
                      <note source="#600">影刊宋八行本</note>
                   </msItem>

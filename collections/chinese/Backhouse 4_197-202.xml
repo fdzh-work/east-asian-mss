@@ -49,13 +49,13 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">國策地名考 二十卷首一卷</title>
+                     <title xml:lang="chi" source="#200">國策地名考 二十卷首一卷</title>
                      <title source="#200|9">guo ce di ming kao</title>
                      <note source="#290">(清)程恩澤纂</note>
                      <note source="#290">(清)狄子奇箋</note>
-                     <author source="#300" key="person_5259"><persName>(清)程恩澤</persName><persName type="9">cheng en
+                     <author source="#300" key="person_5259"><persName xml:lang="chi">(清)程恩澤</persName><persName type="9">cheng en
                            ze</persName></author>
-                     <author source="#300" key="person_4997"><persName>(清)狄子奇</persName><persName type="9">di zi
+                     <author source="#300" key="person_4997"><persName xml:lang="chi">(清)狄子奇</persName><persName type="9">di zi
                            qi</persName></author>
                   </msItem>
                </msContents>

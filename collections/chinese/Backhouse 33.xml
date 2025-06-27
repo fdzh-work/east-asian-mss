@@ -46,7 +46,7 @@
                <head>書名: 九成宮醴泉銘 / (唐)魏徵奉勅撰 ; (唐)歐陽詢奉勅書<lb/>清末上海點石齋第四次石印本<lb/>折裝1冊 ; 17公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">九成宮醴泉銘</title><title source="#200|9">jiu cheng gong li quan ming</title><note source="#290">(唐)魏徵奉勅撰</note><note source="#290">(唐)歐陽詢奉勅書</note><author source="#300" key="person_887"><persName>(唐)魏徵</persName><persName type="9">wei zheng</persName></author><author source="#300" key="person_736"><persName>(唐)歐陽詢</persName><persName type="9">ou yang xun</persName></author><note source="#409">清末上海點石齋第四次石印本</note><editor source="#440" role="pbl"><persName>點石齋</persName><persName type="9" role="pbl">dian shi zhai</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">九成宮醴泉銘</title><title source="#200|9">jiu cheng gong li quan ming</title><note source="#290">(唐)魏徵奉勅撰</note><note source="#290">(唐)歐陽詢奉勅書</note><author source="#300" key="person_887"><persName xml:lang="chi">(唐)魏徵</persName><persName type="9">wei zheng</persName></author><author source="#300" key="person_736"><persName xml:lang="chi">(唐)歐陽詢</persName><persName type="9">ou yang xun</persName></author><note source="#409">清末上海點石齋第四次石印本</note><editor source="#440" role="pbl"><persName>點石齋</persName><persName type="9" role="pbl">dian shi zhai</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

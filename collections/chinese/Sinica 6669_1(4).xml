@@ -49,9 +49,9 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">淮南許註鉤沈 一卷</title>
+                     <title xml:lang="chi" source="#200">淮南許註鉤沈 一卷</title>
                      <title source="#200|9">huai nan xu shu gou shen</title>
-                     <author source="#300" key="person_3122"><persName>(民國)易順鼎</persName><persName type="9">yi shun
+                     <author source="#300" key="person_3122"><persName xml:lang="chi">(民國)易順鼎</persName><persName type="9">yi shun
                            ding</persName></author>
                      <note source="#600">光緒庚寅[1890]刊《寶瓠齋雜俎》之五</note>
                   </msItem>

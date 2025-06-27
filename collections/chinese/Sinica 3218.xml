@@ -48,12 +48,12 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">鐵崖先生詩集</title>
+                     <title xml:lang="chi" source="#200">鐵崖先生詩集</title>
                      <title source="#200|9">tie ya xian sheng shi ji</title>
                      <note source="#290">中國書店輯</note>
-                     <author source="#300" key="person_180"><persName>(元)楊維楨</persName><persName type="9">yang wei
+                     <author source="#300" key="person_180"><persName xml:lang="chi">(元)楊維楨</persName><persName type="9">yang wei
                            zhen</persName></author>
-                     <author><persName>中國書店</persName><persName type="9">zhong guo shu
+                     <author><persName xml:lang="chi">中國書店</persName><persName type="9">zhong guo shu
                            dian</persName></author>
                      <note source="#409">一九八〇年代北京中國書店合輯重印民國刊版殘損版以影印配補</note>
                      <editor source="#440" role="pbl"><persName>中國書店</persName><persName type="9" role="pbl">zhong guo shu dian</persName></editor>
@@ -64,9 +64,9 @@
                         <title source="9">tie ya xian sheng fu gu shi ji</title>
                         <note source="290">(元)楊維楨撰</note>
                         <note source="290">(元)吳復編</note>
-                        <author key="person_180"><persName>(元)楊維楨</persName><persName type="9">yang wei
+                        <author key="person_180"><persName xml:lang="chi">(元)楊維楨</persName><persName type="9">yang wei
                               zhen</persName></author>
-                        <author key="person_81"><persName>(元)吳復</persName><persName type="9">wu
+                        <author key="person_81"><persName xml:lang="chi">(元)吳復</persName><persName type="9">wu
                            fu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20200123/14:54:37|odh -->
@@ -78,7 +78,7 @@
                         <title>鐵崖先生詩集 十卷</title>
                         <title source="9">tie ya xian sheng shi ji</title>
                         <note source="290">(元)楊維楨撰</note>
-                        <author key="person_180"><persName>(元)楊維楨</persName><persName type="9">yang wei
+                        <author key="person_180"><persName xml:lang="chi">(元)楊維楨</persName><persName type="9">yang wei
                               zhen</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20200123/14:54:40|odh -->

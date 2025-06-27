@@ -46,7 +46,7 @@
                <head>書名: 舊約詩篇<lb/>[Shanghai], [1882]<lb/>線裝1冊(108頁) ; 22.8公分<lb/>Tr. by W Muirhead<lb/>In Shanghai dialect<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">舊約詩篇</title><title source="#200|9">jiu yue shi pian</title><author source="#300" key="person_6976"><persName>Muirhead, William</persName></author><note source="#600">Tr. by W Muirhead</note><note source="#600">In Shanghai dialect</note></msItem>         
+                  <title xml:lang="chi" source="#200">舊約詩篇</title><title source="#200|9">jiu yue shi pian</title><author source="#300" key="person_6976"><persName xml:lang="chi">Muirhead, William</persName></author><note source="#600">Tr. by W Muirhead</note><note source="#600">In Shanghai dialect</note></msItem>         
                </msContents>
                <physDesc>
                   

@@ -49,12 +49,12 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">曹士冕法帖譜系 一卷</title>
+                     <title xml:lang="chi" source="#200">曹士冕法帖譜系 一卷</title>
                      <title source="#200|9">cao shi mian fa tie pu xi</title>
                      <title type="variant" source="#230">法帖譜系</title>
                      <title source="#230|9" type="variant">fa tie pu xi</title>
                      <note source="#290">(宋)曹士冕撰</note>
-                     <author source="#300" key="person_1232"><persName>(宋)曹士冕</persName><persName type="9">cao shi
+                     <author source="#300" key="person_1232"><persName xml:lang="chi">(宋)曹士冕</persName><persName type="9">cao shi
                            mian</persName></author>
                   </msItem>
                </msContents>

@@ -47,10 +47,10 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">蕙風叢書</title>
+                     <title xml:lang="chi" source="#200">蕙風叢書</title>
                      <title source="#200|9">hui feng cong shu</title>
                      <note source="#290">(民國)況周頤撰</note>
-                     <author source="#300" key="person_3151"><persName>(民國)況周頤</persName><persName type="9">kuang zhou
+                     <author source="#300" key="person_3151"><persName xml:lang="chi">(民國)況周頤</persName><persName type="9">kuang zhou
                            yi</persName></author>
                      <note source="#409">清光緒中刊民國丙寅[1926]上海中國書店印本</note>
                      <editor source="#440" role="pbl"><persName>中國書店</persName><persName type="9" role="pbl">zhong guo shu dian</persName></editor>

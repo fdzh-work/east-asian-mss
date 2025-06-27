@@ -48,10 +48,10 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">古微書</title>
+                     <title xml:lang="chi" source="#200">古微書</title>
                      <title source="#200|9">gu wei shu</title>
                      <note source="#290">(明)孫瑴編</note>
-                     <author source="#300" key="person_2139"><persName>(明)孫瑴</persName><persName type="9">sun
+                     <author source="#300" key="person_2139"><persName xml:lang="chi">(明)孫瑴</persName><persName type="9">sun
                            jue</persName></author>
                      <note source="#409">清嘉慶丙子[1816]禹航陳世望對山問月樓刊本</note>
                      <msItem n="1">

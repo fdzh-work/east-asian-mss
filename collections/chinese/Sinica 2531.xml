@@ -46,7 +46,7 @@
                <head>書名: 王文成公全書 三十八卷 / (明)王守仁撰<lb/>民國二年[1913]上海中華圖書館石印本<lb/>線裝12冊 ; 20公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">王文成公全書 三十八卷</title><title source="#200|9">wang wen cheng gong quan shu</title><note source="#290">(明)王守仁撰</note><author source="#300" key="person_2428"><persName>(明)王守仁</persName><persName type="9">wang shou ren</persName></author><note source="#409">民國二年[1913]上海中華圖書館石印本</note><editor source="#440" role="pbl"><persName>中華圖書館</persName><persName type="9" role="pbl">zhong hua tu shu guan</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">王文成公全書 三十八卷</title><title source="#200|9">wang wen cheng gong quan shu</title><note source="#290">(明)王守仁撰</note><author source="#300" key="person_2428"><persName xml:lang="chi">(明)王守仁</persName><persName type="9">wang shou ren</persName></author><note source="#409">民國二年[1913]上海中華圖書館石印本</note><editor source="#440" role="pbl"><persName>中華圖書館</persName><persName type="9" role="pbl">zhong hua tu shu guan</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

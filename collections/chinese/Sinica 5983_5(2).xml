@@ -49,18 +49,18 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">寧極齋稿 一卷</title>
+                     <title xml:lang="chi" source="#200">寧極齋稿 一卷</title>
                      <title source="#200|9">ning ji zhai gao</title>
                      <note source="#290">(宋)陳深撰</note>
-                     <author source="#300" key="person_1761"><persName>(宋)陳深</persName><persName type="9">chen
+                     <author source="#300" key="person_1761"><persName xml:lang="chi">(宋)陳深</persName><persName type="9">chen
                            shen</persName></author>
                      <note source="#600">民國乙卯[1915]刊</note>
                   </msItem>
                   <msItem n="2">
-                     <title source="#201">附</title>
+                     <title xml:lang="chi" source="#201">附</title>
                      <title source="#201|9">shen du sou yi gao</title>
                      <note source="#291">(宋)陳植撰</note>
-                     <author source="#301" key="person_1759"><persName>(宋)陳植</persName><persName type="9">chen
+                     <author source="#301" key="person_1759"><persName xml:lang="chi">(宋)陳植</persName><persName type="9">chen
                            zhi</persName></author>
                   </msItem>
                </msContents>

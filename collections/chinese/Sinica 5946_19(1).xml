@@ -49,12 +49,12 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">仁和縣志 十四卷</title>
+                     <title xml:lang="chi" source="#200">仁和縣志 十四卷</title>
                      <title source="#200|9">ren he xian zhi</title>
                      <title type="variant" source="#230">嘉靖仁和縣志</title>
                      <title source="#230|9" type="variant">jia jing ren he xian zhi</title>
                      <note source="#290">(明)沈朝宣撰</note>
-                     <author source="#300" key="person_2387"><persName>(明)沈朝宣</persName><persName type="9">shen chao
+                     <author source="#300" key="person_2387"><persName xml:lang="chi">(明)沈朝宣</persName><persName type="9">shen chao
                            xuan</persName></author>
                      <note source="#600">光緒癸巳[1893]刊</note>
                   </msItem>

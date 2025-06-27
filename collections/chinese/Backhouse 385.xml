@@ -48,7 +48,7 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">資治通鑑綱目全書</title>
+                     <title xml:lang="chi" source="#200">資治通鑑綱目全書</title>
                      <title source="#200|9">zi zhi tong jian gang mu quan shu</title>
                      <note source="#409">明萬曆二十八年[1600]蘇州知府朱燮元等刊本</note>
                      <editor source="#440" role="pbl"><persName>朱燮元</persName><persName type="9" role="pbl">zhu xie yuan</persName></editor>
@@ -63,21 +63,21 @@
                         <note source="290">(元)王幼學集覽</note>
                         <note source="290">(明)陳濟正誤</note>
                         <note source="290">(明)馮智舒質實</note>
-                        <author key="person_1250"><persName>(宋)朱熹</persName><persName type="9">zhu
+                        <author key="person_1250"><persName xml:lang="chi">(宋)朱熹</persName><persName type="9">zhu
                            xi</persName></author>
-                        <author key="person_1126"><persName>(宋)尹起莘</persName><persName type="9">yin qi
+                        <author key="person_1126"><persName xml:lang="chi">(宋)尹起莘</persName><persName type="9">yin qi
                            xin</persName></author>
-                        <author key="person_63"><persName>(元)劉友益</persName><persName type="9">liu you
+                        <author key="person_63"><persName xml:lang="chi">(元)劉友益</persName><persName type="9">liu you
                            yi</persName></author>
-                        <author key="person_187"><persName>(元)汪克寬</persName><persName type="9">wang ke
+                        <author key="person_187"><persName xml:lang="chi">(元)汪克寬</persName><persName type="9">wang ke
                               kuan</persName></author>
-                        <author key="person_125"><persName>(元)徐文昭</persName><persName type="9">xu wen
+                        <author key="person_125"><persName xml:lang="chi">(元)徐文昭</persName><persName type="9">xu wen
                            zhao</persName></author>
-                        <author key="person_212"><persName>(元)王幼學</persName><persName type="9">wang you
+                        <author key="person_212"><persName xml:lang="chi">(元)王幼學</persName><persName type="9">wang you
                               xue</persName></author>
-                        <author key="person_2719"><persName>(明)陳濟</persName><persName type="9">chen
+                        <author key="person_2719"><persName xml:lang="chi">(明)陳濟</persName><persName type="9">chen
                            ji</persName></author>
-                        <author key="person_2791"><persName>(明)馮智舒</persName><persName type="9">feng zhi
+                        <author key="person_2791"><persName xml:lang="chi">(明)馮智舒</persName><persName type="9">feng zhi
                               shu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20030114/13:42:37|odh -->
@@ -90,9 +90,9 @@
                         <title source="9">ding zheng tong jian gang mu qian bian</title>
                         <note source="290">(宋)金履祥撰</note>
                         <note source="290">(明)南軒訂正</note>
-                        <author key="person_1718"><persName>(宋)金履祥</persName><persName type="9">jin lu
+                        <author key="person_1718"><persName xml:lang="chi">(宋)金履祥</persName><persName type="9">jin lu
                               xiang</persName></author>
-                        <author key="person_2045"><persName>(明)南軒</persName><persName type="9">nan
+                        <author key="person_2045"><persName xml:lang="chi">(明)南軒</persName><persName type="9">nan
                            xuan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20030304/18:13:56|odh -->
@@ -105,11 +105,11 @@
                         <note source="290">(明)商輅等奉敕撰</note>
                         <note source="290">(明)周禮發明</note>
                         <note source="290">(明)張時泰廣義</note>
-                        <author key="person_2107"><persName>(明)商輅</persName><persName type="9">shang
+                        <author key="person_2107"><persName xml:lang="chi">(明)商輅</persName><persName type="9">shang
                            lu</persName></author>
-                        <author key="person_2096"><persName>(明)周禮</persName><persName type="9">zhou
+                        <author key="person_2096"><persName xml:lang="chi">(明)周禮</persName><persName type="9">zhou
                            li</persName></author>
-                        <author key="person_2184"><persName>(明)張時泰</persName><persName type="9">zhang shi
+                        <author key="person_2184"><persName xml:lang="chi">(明)張時泰</persName><persName type="9">zhang shi
                               tai</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20030114/13:44:25|odh -->
@@ -121,7 +121,7 @@
                         <title>資治通鑑綱目續編卷之末 一卷</title>
                         <title source="9">zi zhi tong jian gang mu xu bian juan zhi mo</title>
                         <note source="290">(明)陳桱撰</note>
-                        <author key="person_2713"><persName>(明)陳桱</persName><persName type="9">chen
+                        <author key="person_2713"><persName xml:lang="chi">(明)陳桱</persName><persName type="9">chen
                            jing</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20030114/14:20:44|odh -->

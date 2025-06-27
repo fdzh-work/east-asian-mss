@@ -48,10 +48,10 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">曆學會通 六種首二卷</title>
+                     <title xml:lang="chi" source="#200">曆學會通 六種首二卷</title>
                      <title source="#200|9">li xue hui tong</title>
                      <note source="#290">(清)薛鳳祚撰</note>
-                     <author source="#300" key="person_5598"><persName>(清)薛鳳祚</persName><persName type="9">xue feng
+                     <author source="#300" key="person_5598"><persName xml:lang="chi">(清)薛鳳祚</persName><persName type="9">xue feng
                            zuo</persName></author>
                      <note source="#409">清康熙壬寅[1662]序刊本</note>
                      <msItem n="1">
@@ -59,9 +59,9 @@
                         <title source="9">tian bu zhen yuan</title>
                         <note source="290">(西洋)穆尼閣撰</note>
                         <note source="290">(清)薛鳳祚增補</note>
-                        <author key="person_5598"><persName>(清)薛鳳祚</persName><persName type="9">xue feng
+                        <author key="person_5598"><persName xml:lang="chi">(清)薛鳳祚</persName><persName type="9">xue feng
                               zuo</persName></author>
-                        <author key="person_7039"><persName>Smogoleski, Jean Nicolas</persName></author>
+                        <author key="person_7039"><persName xml:lang="chi">Smogoleski, Jean Nicolas</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140106/12:56:35|odh -->
                         <!-- #0rx: dh498+1 -->
@@ -69,7 +69,7 @@
                      <msItem n="2">
                         <title>中法四線 一卷</title>
                         <title source="9">zhong fa si xian</title>
-                        <author key="person_5598"><persName>(清)薛鳳祚</persName><persName type="9">xue feng
+                        <author key="person_5598"><persName xml:lang="chi">(清)薛鳳祚</persName><persName type="9">xue feng
                               zuo</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140106/13:03:16|odh -->
@@ -78,7 +78,7 @@
                      <msItem n="3">
                         <title>中法選擇部 二卷</title>
                         <title source="9">zhong fa xuan ze bu</title>
-                        <author key="person_5598"><persName>(清)薛鳳祚</persName><persName type="9">xue feng
+                        <author key="person_5598"><persName xml:lang="chi">(清)薛鳳祚</persName><persName type="9">xue feng
                               zuo</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140106/13:07:52|odh -->
@@ -87,7 +87,7 @@
                      <msItem n="4">
                         <title>天文真原選擇部 一卷</title>
                         <title source="9">tian wen zhen h yuan xuan ze bu</title>
-                        <author key="person_5598"><persName>(清)薛鳳祚</persName><persName type="9">xue feng
+                        <author key="person_5598"><persName xml:lang="chi">(清)薛鳳祚</persName><persName type="9">xue feng
                               zuo</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140106/13:10:14|odh -->
@@ -96,7 +96,7 @@
                      <msItem n="5">
                         <title>日食諸法異同圖 一卷</title>
                         <title source="9">ri shi zhu fa yi tong tu</title>
-                        <author key="person_5598"><persName>(清)薛鳳祚</persName><persName type="9">xue feng
+                        <author key="person_5598"><persName xml:lang="chi">(清)薛鳳祚</persName><persName type="9">xue feng
                               zuo</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140106/13:12:45|odh -->
@@ -105,7 +105,7 @@
                      <msItem n="6">
                         <title>辨異同 一卷</title>
                         <title source="9">bian yi tong</title>
-                        <author key="person_5598"><persName>(清)薛鳳祚</persName><persName type="9">xue feng
+                        <author key="person_5598"><persName xml:lang="chi">(清)薛鳳祚</persName><persName type="9">xue feng
                               zuo</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140106/13:13:46|odh -->

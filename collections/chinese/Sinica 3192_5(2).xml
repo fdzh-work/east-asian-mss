@@ -50,10 +50,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">項羽都江都考 一卷</title>
+                     <title xml:lang="chi" source="#200">項羽都江都考 一卷</title>
                      <title source="#200|9">xiang yu du jiang du kao</title>
                      <note source="#290">(清)劉文淇撰</note>
-                     <author source="#300" key="person_3446"><persName>(清)劉文淇</persName><persName type="9">liu wen
+                     <author source="#300" key="person_3446"><persName xml:lang="chi">(清)劉文淇</persName><persName type="9">liu wen
                            qi</persName></author>
                      <note source="#600">民國二十一年[1932]刊</note>
                   </msItem>

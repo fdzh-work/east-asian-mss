@@ -50,11 +50,11 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">補農書 二卷</title>
+                     <title xml:lang="chi" source="#200">補農書 二卷</title>
                      <title source="#200|9">bu nong shu</title>
                      <note source="#290">(明)沈□撰</note>
                      <note source="#290">下卷(清)張履祥輯)</note>
-                     <author source="#300" key="person_4008"><persName>(清)張履祥</persName><persName type="9">zhang lu
+                     <author source="#300" key="person_4008"><persName xml:lang="chi">(清)張履祥</persName><persName type="9">zhang lu
                            xiang</persName></author>
                      <note source="#600">全集卷四十九～五十</note>
                   </msItem>

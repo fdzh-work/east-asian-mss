@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">閬風集 十二卷附錄一卷補遺一卷</title>
+                     <title xml:lang="chi" source="#200">閬風集 十二卷附錄一卷補遺一卷</title>
                      <title source="#200|9">lang feng ji</title>
                      <note source="#290">(宋)舒岳祥撰</note>
-                     <author source="#300" key="person_1527"><persName>(宋)舒岳祥</persName><persName type="9">shu yue
+                     <author source="#300" key="person_1527"><persName xml:lang="chi">(宋)舒岳祥</persName><persName type="9">shu yue
                            xiang</persName></author>
                      <note source="#600">民國四年[1915]刊</note>
                   </msItem>

@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">史記索隱 三十卷</title>
+                     <title xml:lang="chi" source="#200">史記索隱 三十卷</title>
                      <title source="#200|9">shi ji suo yin</title>
                      <note source="#290">(唐)司馬貞撰</note>
-                     <author source="#300" key="person_583"><persName>(唐)司馬貞</persName><persName type="9">si ma
+                     <author source="#300" key="person_583"><persName xml:lang="chi">(唐)司馬貞</persName><persName type="9">si ma
                            zhen</persName></author>
                      <note source="#600">光緒十九年[1893]刊</note>
                   </msItem>

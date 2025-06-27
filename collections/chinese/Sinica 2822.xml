@@ -48,16 +48,16 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">顨軒孔氏所著書</title>
+                     <title xml:lang="chi" source="#200">顨軒孔氏所著書</title>
                      <title source="#200|9">xun xuan kong shi suo zhu shu</title>
                      <note source="#290">(清)孔廣森撰</note>
-                     <author source="#300" key="person_3814"><persName>(清)孔廣森</persName><persName type="9">kong guang
+                     <author source="#300" key="person_3814"><persName xml:lang="chi">(清)孔廣森</persName><persName type="9">kong guang
                            sen</persName></author>
                      <note source="#409">清乾隆嘉慶間曲阜孔氏刊本</note>
                      <msItem n="7">
                         <title>駢儷文 三卷</title>
                         <title source="9">pian li wen</title>
-                        <author key="person_3814"><persName>(清)孔廣森</persName><persName type="9">kong guang
+                        <author key="person_3814"><persName xml:lang="chi">(清)孔廣森</persName><persName type="9">kong guang
                               sen</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20161228/00000007|odh -->
@@ -118,7 +118,7 @@
                         <title source="9">chun qiu gong yang jing zhuan tong yi</title>
                         <title type="variant">公羊通義</title>
                         <title source="9" type="variant">gong yang tong yi</title>
-                        <author key="person_3814"><persName>(清)孔廣森</persName><persName type="9">kong guang
+                        <author key="person_3814"><persName xml:lang="chi">(清)孔廣森</persName><persName type="9">kong guang
                               sen</persName></author>
                         <note source="600">嘉慶十七年[1812]孔廣廉刊</note>
                      </msItem>
@@ -144,7 +144,7 @@
                      <msItem>
                         <title>大戴禮記補注 十三卷序錄一卷</title>
                         <title source="9">da dai li ji bu zhu</title>
-                        <author key="person_3814"><persName>(清)孔廣森</persName><persName type="9">kong guang
+                        <author key="person_3814"><persName xml:lang="chi">(清)孔廣森</persName><persName type="9">kong guang
                               sen</persName></author>
                         <note source="600">乾隆五十九年[1794]孔廣廉刊</note>
                      </msItem>
@@ -172,7 +172,7 @@
                         <title source="9">shi sheng lei</title>
                         <title>詩聲分例 一卷</title>
                         <title source="9">shi sheng fen li</title>
-                        <author key="person_3814"><persName>(清)孔廣森</persName><persName type="9">kong guang
+                        <author key="person_3814"><persName xml:lang="chi">(清)孔廣森</persName><persName type="9">kong guang
                               sen</persName></author>
                         <note source="600">乾隆五十七年[1792]孔廣廉刊</note>
                      </msItem>
@@ -198,7 +198,7 @@
                      <msItem>
                         <title>禮學卮言 六卷</title>
                         <title source="9">li xue zhi yan</title>
-                        <author key="person_3814"><persName>(清)孔廣森</persName><persName type="9">kong guang
+                        <author key="person_3814"><persName xml:lang="chi">(清)孔廣森</persName><persName type="9">kong guang
                               sen</persName></author>
                         <note source="600">嘉慶十八年[1813]孔昭虔刊</note>
                      </msItem>
@@ -224,7 +224,7 @@
                      <msItem>
                         <title>經學卮言 六卷</title>
                         <title source="9">jing xue zhi yan</title>
-                        <author key="person_3814"><persName>(清)孔廣森</persName><persName type="9">kong guang
+                        <author key="person_3814"><persName xml:lang="chi">(清)孔廣森</persName><persName type="9">kong guang
                               sen</persName></author>
                         <note source="600">嘉慶癸酉[1813]孔昭虔刊</note>
                      </msItem>
@@ -250,7 +250,7 @@
                      <msItem>
                         <title>少廣正負術 內篇三卷外篇三卷</title>
                         <title source="9">shao guang zheng fu shu</title>
-                        <author key="person_3814"><persName>(清)孔廣森</persName><persName type="9">kong guang
+                        <author key="person_3814"><persName xml:lang="chi">(清)孔廣森</persName><persName type="9">kong guang
                               sen</persName></author>
                         <note source="600">嘉慶甲戌[1814]孔昭虔刊</note>
                      </msItem>

@@ -49,11 +49,11 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">唐賈耽記邊州入四夷道里考實 五卷</title>
+                     <title xml:lang="chi" source="#200">唐賈耽記邊州入四夷道里考實 五卷</title>
                      <title source="#200|9">tang jia dan ji bian zhou ru si yi dao li kao
                         shi</title>
                      <note source="#290">(清)吳承志輯</note>
-                     <author source="#300" key="person_3579"><persName>(清)吳承志</persName><persName type="9">wu cheng
+                     <author source="#300" key="person_3579"><persName xml:lang="chi">(清)吳承志</persName><persName type="9">wu cheng
                            zhi</persName></author>
                      <note source="#600">民國辛酉[1921]刊</note>
                   </msItem>

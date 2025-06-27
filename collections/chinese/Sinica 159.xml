@@ -46,7 +46,7 @@
                <head>書名: 孔子家語 四卷 / (魏)王肅注<lb/>清嘉慶丙寅[1806]刊本會文堂藏板<lb/>洋裝1冊(原線裝2冊) ; 18公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">孔子家語 四卷</title><title source="#200|9">kong zi jia yu</title><note source="#290">(魏)王肅注</note><author source="#300" key="person_6738"><persName>(魏)王肅</persName><persName type="9">wang su</persName></author><note source="#409">清嘉慶丙寅[1806]刊本會文堂藏板</note><editor source="#440" role="pbl"><persName>會文堂</persName><persName type="9" role="pbl">hui wen tang</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">孔子家語 四卷</title><title source="#200|9">kong zi jia yu</title><note source="#290">(魏)王肅注</note><author source="#300" key="person_6738"><persName xml:lang="chi">(魏)王肅</persName><persName type="9">wang su</persName></author><note source="#409">清嘉慶丙寅[1806]刊本會文堂藏板</note><editor source="#440" role="pbl"><persName>會文堂</persName><persName type="9" role="pbl">hui wen tang</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

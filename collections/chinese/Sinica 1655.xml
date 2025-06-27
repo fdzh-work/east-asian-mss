@@ -46,7 +46,7 @@
                <head>書名: 特選撮要<lb/>[Batavia], [1823-1826]<lb/>線裝1冊(various pagings) ; 20.7公分<lb/>Offprints from juan 1-4. Known in English as the "Monthly magazine"<lb/>By W H Medhurst<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">特選撮要</title><title source="#200|9">te xuan cuo yao</title><title type="variant" source="#230">Monthly magazine</title><author source="#300" key="person_6963"><persName>Medhurst, Walter Henry</persName></author><note source="#600">Offprints from juan 1-4. Known in English as the "Monthly magazine"</note><note source="#600">By W H Medhurst</note></msItem>         
+                  <title xml:lang="chi" source="#200">特選撮要</title><title source="#200|9">te xuan cuo yao</title><title type="variant" source="#230">Monthly magazine</title><author source="#300" key="person_6963"><persName xml:lang="chi">Medhurst, Walter Henry</persName></author><note source="#600">Offprints from juan 1-4. Known in English as the "Monthly magazine"</note><note source="#600">By W H Medhurst</note></msItem>         
                </msContents>
                <physDesc>
                   

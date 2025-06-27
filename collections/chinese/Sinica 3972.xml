@@ -46,7 +46,7 @@
                <head>書名: 希伯來書總論<lb/>戊子[1888]抄本<lb/>線裝1冊([6]頁) ; 28.7公分<lb/>By S A Hunter<lb/>Text written in black and red<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">希伯來書總論</title><title source="#200|9">xi bo lai shu zong lun</title><author source="#300" key="person_6896"><persName>Hunter, Stephen Alexander</persName></author><note source="#409">戊子[1888]抄本</note><note source="#600">By S A Hunter</note><note source="#600">Text written in black and red</note></msItem>         
+                  <title xml:lang="chi" source="#200">希伯來書總論</title><title source="#200|9">xi bo lai shu zong lun</title><author source="#300" key="person_6896"><persName xml:lang="chi">Hunter, Stephen Alexander</persName></author><note source="#409">戊子[1888]抄本</note><note source="#600">By S A Hunter</note><note source="#600">Text written in black and red</note></msItem>         
                </msContents>
                <physDesc>
                   

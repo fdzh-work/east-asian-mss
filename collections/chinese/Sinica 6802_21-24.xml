@@ -50,9 +50,9 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">沈刻元典章校補 札記六卷闕文三卷表格一卷</title>
+                     <title xml:lang="chi" source="#200">沈刻元典章校補 札記六卷闕文三卷表格一卷</title>
                      <title source="#200|9">shen ke yuan dian zhang jiao bu</title>
-                     <author source="#300" key="person_7192"><persName>陳垣</persName><persName type="9">chen
+                     <author source="#300" key="person_7192"><persName xml:lang="chi">陳垣</persName><persName type="9">chen
                            yuan</persName></author>
                      <note source="#409">民國二十年[1931]國立北京大學研究所刊</note>
                      <editor source="#440" role="pbl"><persName>國立北京大學研究所</persName><persName type="9" role="pbl">guo li bei jing da xue yan jiu

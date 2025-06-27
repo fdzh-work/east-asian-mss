@@ -46,8 +46,8 @@
                <head>書名: 過去臺灣歌<lb/>守己安份新歌<lb/>民國五十年[1961]臺北排印再版本竹林書局發行<lb/>毛裝1冊 ; 16公分<lb/>封面題名《過去臺灣守己安份》<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem><editor source="#440" role="pbl"><persName>竹林書局</persName><persName type="9" role="pbl">zhu lin shu ju</persName></editor><note source="#409">民國五十年[1961]臺北排印再版本竹林書局發行</note><note source="#600">封面題名《過去臺灣守己安份》</note><msItem n="1">
-                  <title source="#200">過去臺灣歌</title><title source="#200|9">guo qu tai wan ge</title><title type="variant" source="#230">過去臺灣守己安份</title><title source="#230|9" type="variant">guo qu tai wan shou ji an fen</title></msItem>         
-               <msItem n="2"><title source="#201">守己安份新歌</title><title source="#201|9">shou ji an fen xin ge</title></msItem></msItem></msContents>
+                  <title xml:lang="chi" source="#200">過去臺灣歌</title><title source="#200|9">guo qu tai wan ge</title><title type="variant" source="#230">過去臺灣守己安份</title><title source="#230|9" type="variant">guo qu tai wan shou ji an fen</title></msItem>         
+               <msItem n="2"><title xml:lang="chi" source="#201">守己安份新歌</title><title source="#201|9">shou ji an fen xin ge</title></msItem></msItem></msContents>
                <physDesc>
                   
                   <objectDesc>

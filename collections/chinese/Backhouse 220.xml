@@ -48,7 +48,7 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">馬佳氏詩存</title>
+                     <title xml:lang="chi" source="#200">馬佳氏詩存</title>
                      <title source="#200|9">ma jia shi shi cun</title>
                      <note source="#290">清佚名編</note>
                      <note source="#409">清光緒二十七年[1901]刊本</note>
@@ -56,7 +56,7 @@
                         <title>晉齋詩存 二卷</title>
                         <title source="9">jin zhai shi cun</title>
                         <note source="290">(清)昇寅撰</note>
-                        <author key="person_4334"><persName>(清)昇寅</persName><persName type="9">sheng
+                        <author key="person_4334"><persName xml:lang="chi">(清)昇寅</persName><persName type="9">sheng
                            yin</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20130809/15:39:41|odh -->
@@ -66,7 +66,7 @@
                         <title>味經書屋詩存 一卷</title>
                         <title source="9">wei jing shu wu shi cun</title>
                         <note source="290">(清)寶珣撰</note>
-                        <author key="person_3920"><persName>(清)寶珣</persName><persName type="9">bao
+                        <author key="person_3920"><persName xml:lang="chi">(清)寶珣</persName><persName type="9">bao
                            xun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20130809/15:41:48|odh -->
@@ -76,7 +76,7 @@
                         <title>知足知不足齋詩存 一卷</title>
                         <title source="9">zhi zu zhi bu zu zhai shi cun</title>
                         <note source="290">(清)寶琳撰</note>
-                        <author key="person_3921"><persName>(清)寶琳</persName><persName type="9">bao
+                        <author key="person_3921"><persName xml:lang="chi">(清)寶琳</persName><persName type="9">bao
                            lin</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20130809/15:43:58|odh -->

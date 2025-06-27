@@ -49,16 +49,16 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">漢官解詁 一卷</title>
+                     <title xml:lang="chi" source="#200">漢官解詁 一卷</title>
                      <title source="#200|9">han guan jie gu</title>
                      <note source="#290">(漢)王隆撰</note>
                      <note source="#290">(漢)胡廣注</note>
                      <note source="#290">(清)孫星衍校集</note>
-                     <author source="#300" key="person_6569"><persName>(漢)王隆</persName><persName type="9">wang
+                     <author source="#300" key="person_6569"><persName xml:lang="chi">(漢)王隆</persName><persName type="9">wang
                            long</persName></author>
-                     <author source="#300" key="person_6579"><persName>(漢)胡廣</persName><persName type="9">hu
+                     <author source="#300" key="person_6579"><persName xml:lang="chi">(漢)胡廣</persName><persName type="9">hu
                            guang</persName></author>
-                     <author source="#300" key="person_3855"><persName>(清)孫星衍</persName><persName type="9">sun xing
+                     <author source="#300" key="person_3855"><persName xml:lang="chi">(清)孫星衍</persName><persName type="9">sun xing
                            yan</persName></author>
                   </msItem>
                </msContents>

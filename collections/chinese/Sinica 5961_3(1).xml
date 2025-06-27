@@ -49,13 +49,13 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">月隱先生遺集 四卷外編二卷</title>
+                     <title xml:lang="chi" source="#200">月隱先生遺集 四卷外編二卷</title>
                      <title source="#200|9">yue yin xian sheng yi ji</title>
                      <note source="#290">(元)祝淵撰</note>
                      <note source="#290">(清)陳敬璋重校</note>
-                     <author source="#300" key="person_229"><persName>(元)祝淵</persName><persName type="9">zhu
+                     <author source="#300" key="person_229"><persName xml:lang="chi">(元)祝淵</persName><persName type="9">zhu
                            yuan</persName></author>
-                     <author source="#300" key="person_6055"><persName>(清)陳敬璋</persName><persName type="9">chen jing
+                     <author source="#300" key="person_6055"><persName xml:lang="chi">(清)陳敬璋</persName><persName type="9">chen jing
                            zhang</persName></author>
                      <note source="#600">民國甲寅[1914]刊</note>
                   </msItem>

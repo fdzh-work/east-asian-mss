@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">揭曼碩詩 三卷</title>
+                     <title xml:lang="chi" source="#200">揭曼碩詩 三卷</title>
                      <title source="#200|9">jie man shuo shi</title>
                      <note source="#290">(元)揭傒斯撰</note>
-                     <author source="#300" key="person_134"><persName>(元)揭傒斯</persName><persName type="9">jie xi
+                     <author source="#300" key="person_134"><persName xml:lang="chi">(元)揭傒斯</persName><persName type="9">jie xi
                            si</persName></author>
                      <note source="#600">道光二十七年[1847]刊</note>
                   </msItem>

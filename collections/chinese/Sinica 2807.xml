@@ -47,10 +47,10 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">屏廬叢刻</title>
+                     <title xml:lang="chi" source="#200">屏廬叢刻</title>
                      <title source="#200|9">ping lu cong ke</title>
                      <note source="#290">(民國)金鉞輯</note>
-                     <author source="#300" key="person_3202"><persName>(民國)金鉞</persName><persName type="9">jin
+                     <author source="#300" key="person_3202"><persName xml:lang="chi">(民國)金鉞</persName><persName type="9">jin
                            yue</persName></author>
                      <note source="#409">民國甲子[1924]天津金氏刊1986年北京中國書店重印本</note>
                      <editor source="#440" role="pbl"><persName>中國書店</persName><persName type="9" role="pbl">zhong guo shu dian</persName></editor>

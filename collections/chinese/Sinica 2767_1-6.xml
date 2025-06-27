@@ -49,9 +49,9 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">易一貫 六卷</title>
+                     <title xml:lang="chi" source="#200">易一貫 六卷</title>
                      <title source="#200|9">yi yi guan</title>
-                     <author source="#300" key="person_3664"><persName>(清)呂調陽</persName><persName type="9">lu tiao
+                     <author source="#300" key="person_3664"><persName xml:lang="chi">(清)呂調陽</persName><persName type="9">lu tiao
                            yang</persName></author>
                   </msItem>
                </msContents>

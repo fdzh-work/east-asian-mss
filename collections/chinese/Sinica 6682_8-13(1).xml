@@ -50,9 +50,9 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">柏堂集 前編十四卷次編十三卷續編二十二卷後編二十二卷餘編八卷補存三卷外編十二卷</title>
+                     <title xml:lang="chi" source="#200">柏堂集 前編十四卷次編十三卷續編二十二卷後編二十二卷餘編八卷補存三卷外編十二卷</title>
                      <title source="#200|9">bai tang ji</title>
-                     <author source="#300"><persName>(清)方宗誠</persName><persName type="9">fang zong
+                     <author source="#300"><persName xml:lang="chi">(清)方宗誠</persName><persName type="9">fang zong
                            cheng</persName></author>
                      <note source="#600">光緒六年[1880]續編﹑後編刊七年[1881]餘編﹑補存十二年[1886]外編十年[1884]刊</note>
                   </msItem>

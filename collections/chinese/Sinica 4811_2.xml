@@ -49,16 +49,16 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">校正古今人表 九卷</title>
+                     <title xml:lang="chi" source="#200">校正古今人表 九卷</title>
                      <title source="#200|9">jiao zheng gu jin ren biao</title>
                      <note source="#290">(漢)班固撰</note>
                      <note source="#290">(唐)顏師古注</note>
                      <note source="#290">(清)翟云升校</note>
-                     <author source="#300" key="person_6571"><persName>(漢)班固</persName><persName type="9">ban
+                     <author source="#300" key="person_6571"><persName xml:lang="chi">(漢)班固</persName><persName type="9">ban
                            gu</persName></author>
-                     <author source="#300" key="person_873"><persName>(唐)顏師古</persName><persName type="9">yan shi
+                     <author source="#300" key="person_873"><persName xml:lang="chi">(唐)顏師古</persName><persName type="9">yan shi
                            gu</persName></author>
-                     <author source="#300" key="person_5344"><persName>(清)翟云升</persName><persName type="9">zhai yun
+                     <author source="#300" key="person_5344"><persName xml:lang="chi">(清)翟云升</persName><persName type="9">zhai yun
                            sheng</persName></author>
                   </msItem>
                </msContents>

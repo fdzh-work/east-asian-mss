@@ -49,16 +49,16 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">瓶笙館修簫譜 四卷</title>
+                     <title xml:lang="chi" source="#200">瓶笙館修簫譜 四卷</title>
                      <title source="#200|9">ping sheng guan xiu xiao pu</title>
                      <note source="#290">(清)舒位撰</note>
-                     <author source="#300" key="person_5396"><persName>(清)舒位</persName><persName type="9">shu
+                     <author source="#300" key="person_5396"><persName xml:lang="chi">(清)舒位</persName><persName type="9">shu
                            wei</persName></author>
                      <note source="#600">影印清道光本</note>
                      <msItem n="1">
                         <title>卓女當盧 一卷</title>
                         <title source="9">zhuo nu dang lu</title>
-                        <author key="person_5396"><persName>(清)舒位</persName><persName type="9">shu
+                        <author key="person_5396"><persName xml:lang="chi">(清)舒位</persName><persName type="9">shu
                            wei</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180919/00000007|odh -->
@@ -67,7 +67,7 @@
                      <msItem n="2">
                         <title>樊姬擁髻 一卷</title>
                         <title source="9">fan ji yong ji</title>
-                        <author key="person_5396"><persName>(清)舒位</persName><persName type="9">shu
+                        <author key="person_5396"><persName xml:lang="chi">(清)舒位</persName><persName type="9">shu
                            wei</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180919/00000008|odh -->
@@ -76,7 +76,7 @@
                      <msItem n="3">
                         <title>酉陽修月 一卷</title>
                         <title source="9">xi yang xiu yue</title>
-                        <author key="person_5396"><persName>(清)舒位</persName><persName type="9">shu
+                        <author key="person_5396"><persName xml:lang="chi">(清)舒位</persName><persName type="9">shu
                            wei</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180919/00000009|odh -->
@@ -85,7 +85,7 @@
                      <msItem n="4">
                         <title>博望訪星 一卷</title>
                         <title source="9">bo wang fang xing</title>
-                        <author key="person_5396"><persName>(清)舒位</persName><persName type="9">shu
+                        <author key="person_5396"><persName xml:lang="chi">(清)舒位</persName><persName type="9">shu
                            wei</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180919/00000010|odh -->

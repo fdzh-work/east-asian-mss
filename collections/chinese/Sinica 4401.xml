@@ -46,8 +46,8 @@
                <head>書名: 鱸鰻男女相褒歌<lb/>社會改善歌<lb/>男女挽茶對答歌<lb/>民國四十九年[1960]臺北排印再版本竹林書局發行<lb/>毛裝1冊 ; 16公分<lb/>封面題名《鱸鰻男女挽茶相褒》<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem><editor source="#440" role="pbl"><persName>竹林書局</persName><persName type="9" role="pbl">zhu lin shu ju</persName></editor><note source="#409">民國四十九年[1960]臺北排印再版本竹林書局發行</note><note source="#600">封面題名《鱸鰻男女挽茶相褒》</note><msItem n="1">
-                  <title source="#200">鱸鰻男女相褒歌</title><title source="#200|9">lu man nan nu xiang bao ge</title><title type="variant" source="#230">鱸鰻男女挽茶相褒</title><title source="#230|9" type="variant">lu man nan nu wan cha xiang bao</title></msItem>         
-               <msItem n="2"><title source="#201">社會改善歌</title><title source="#201|9">she hui gai shan ge</title></msItem><msItem n="3"><title source="#202">男女挽茶對答歌</title><title source="#202|9">nan nu wan cha dui da ge</title></msItem></msItem></msContents>
+                  <title xml:lang="chi" source="#200">鱸鰻男女相褒歌</title><title source="#200|9">lu man nan nu xiang bao ge</title><title type="variant" source="#230">鱸鰻男女挽茶相褒</title><title source="#230|9" type="variant">lu man nan nu wan cha xiang bao</title></msItem>         
+               <msItem n="2"><title xml:lang="chi" source="#201">社會改善歌</title><title source="#201|9">she hui gai shan ge</title></msItem><msItem n="3"><title xml:lang="chi" source="#202">男女挽茶對答歌</title><title source="#202|9">nan nu wan cha dui da ge</title></msItem></msItem></msContents>
                <physDesc>
                   
                   <objectDesc>

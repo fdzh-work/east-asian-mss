@@ -46,7 +46,7 @@
                <head>書名: 慈溪黃氏日抄分類古今紀要 十九卷 / (宋)黃震撰<lb/>明刊十二行本<lb/>線裝6冊 ; 26公分<lb/>(清)榮祿手批<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">慈溪黃氏日抄分類古今紀要 十九卷</title><title source="#200|9">ci xi huang shi ri chao fen lei gu jin ji yao</title><title type="variant" source="#230">古今紀要</title><title source="#230|9" type="variant">gu jin ji yao</title><note source="#290">(宋)黃震撰</note><author source="#300" key="person_1841"><persName>(宋)黃震</persName><persName type="9">huang zhen</persName></author><author source="#300" key="person_4713"><persName>(清)榮祿</persName><persName type="9">rong lu</persName></author><note source="#409">明刊十二行本</note><note source="#600">(清)榮祿手批</note></msItem>         
+                  <title xml:lang="chi" source="#200">慈溪黃氏日抄分類古今紀要 十九卷</title><title source="#200|9">ci xi huang shi ri chao fen lei gu jin ji yao</title><title type="variant" source="#230">古今紀要</title><title source="#230|9" type="variant">gu jin ji yao</title><note source="#290">(宋)黃震撰</note><author source="#300" key="person_1841"><persName xml:lang="chi">(宋)黃震</persName><persName type="9">huang zhen</persName></author><author source="#300" key="person_4713"><persName xml:lang="chi">(清)榮祿</persName><persName type="9">rong lu</persName></author><note source="#409">明刊十二行本</note><note source="#600">(清)榮祿手批</note></msItem>         
                </msContents>
                <physDesc>
                   

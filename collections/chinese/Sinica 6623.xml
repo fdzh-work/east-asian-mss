@@ -47,10 +47,10 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">增訂漢魏叢書</title>
+                     <title xml:lang="chi" source="#200">增訂漢魏叢書</title>
                      <title source="#200|9">zeng ding han wei cong shu</title>
                      <note source="#290">(清)王謨輯</note>
-                     <author source="#300" key="person_5151"><persName>(清)王謨</persName><persName type="9">wang
+                     <author source="#300" key="person_5151"><persName xml:lang="chi">(清)王謨</persName><persName type="9">wang
                            mo</persName></author>
                      <note source="#409">清宣統三年[1911]上海大同書局石印本</note>
                      <editor source="#440" role="pbl"><persName>大同書局</persName><persName type="9" role="pbl">da tong shu ju</persName></editor>

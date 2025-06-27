@@ -46,7 +46,7 @@
                <head>書名: 閨範 四卷 / (明)呂坤撰<lb/>民國十六年[1927]影印明萬曆中刊本<lb/>線裝4冊 : 圖 ; 30公分<lb/>封面題名《影印明刻閨範》<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">閨範 四卷</title><title source="#200|9">gui fan</title><title type="variant" source="#230">影印明刻閨範</title><title source="#230|9" type="variant">ying yin ming ke gui fan</title><note source="#290">(明)呂坤撰</note><author source="#300" key="person_2069"><persName>(明)呂坤</persName><persName type="9">lu kun</persName></author><note source="#409">民國十六年[1927]影印明萬曆中刊本</note><note source="#600">封面題名《影印明刻閨範》</note></msItem>         
+                  <title xml:lang="chi" source="#200">閨範 四卷</title><title source="#200|9">gui fan</title><title type="variant" source="#230">影印明刻閨範</title><title source="#230|9" type="variant">ying yin ming ke gui fan</title><note source="#290">(明)呂坤撰</note><author source="#300" key="person_2069"><persName xml:lang="chi">(明)呂坤</persName><persName type="9">lu kun</persName></author><note source="#409">民國十六年[1927]影印明萬曆中刊本</note><note source="#600">封面題名《影印明刻閨範》</note></msItem>         
                </msContents>
                <physDesc>
                   

@@ -49,9 +49,9 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">羣經平議 三十五卷</title>
+                     <title xml:lang="chi" source="#200">羣經平議 三十五卷</title>
                      <title source="#200|9">qun jin ping yi</title>
-                     <author source="#300" key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
+                     <author source="#300" key="person_3353"><persName xml:lang="chi">(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                   </msItem>
                </msContents>
@@ -96,7 +96,7 @@
                      <msItem>
                         <title>周易平議 二卷</title>
                         <title source="9">zhou yi ping yi</title>
-                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName xml:lang="chi">(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                      </msItem>
                   </msContents>
@@ -121,7 +121,7 @@
                      <msItem>
                         <title>尚書平議 四卷</title>
                         <title source="9">shang shu ping yi</title>
-                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName xml:lang="chi">(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                      </msItem>
                   </msContents>
@@ -146,7 +146,7 @@
                      <msItem>
                         <title>周書平議 一卷</title>
                         <title source="9">zhou shu ping yi</title>
-                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName xml:lang="chi">(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                      </msItem>
                   </msContents>
@@ -171,7 +171,7 @@
                      <msItem>
                         <title>毛詩平議 四卷</title>
                         <title source="9">mao shi ping yi</title>
-                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName xml:lang="chi">(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                      </msItem>
                   </msContents>
@@ -196,7 +196,7 @@
                      <msItem>
                         <title>周禮平議 二卷</title>
                         <title source="9">zhou li ping yi</title>
-                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName xml:lang="chi">(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                      </msItem>
                   </msContents>
@@ -221,7 +221,7 @@
                      <msItem>
                         <title>考工記世室重屋明堂考 一卷</title>
                         <title source="9">kao gong ji shi shi zhong wu ming tang kao</title>
-                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName xml:lang="chi">(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                      </msItem>
                   </msContents>
@@ -246,7 +246,7 @@
                      <msItem>
                         <title>儀禮平議 二卷</title>
                         <title source="9">yi li ping yi</title>
-                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName xml:lang="chi">(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                      </msItem>
                   </msContents>
@@ -271,7 +271,7 @@
                      <msItem>
                         <title>大戴禮記平議 二卷</title>
                         <title source="9">da dai li ji ping yi</title>
-                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName xml:lang="chi">(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                      </msItem>
                   </msContents>
@@ -296,7 +296,7 @@
                      <msItem>
                         <title>小戴禮記平議 四卷</title>
                         <title source="9">xiao dai li ji ping yi</title>
-                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName xml:lang="chi">(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                      </msItem>
                   </msContents>
@@ -321,7 +321,7 @@
                      <msItem>
                         <title>春秋公羊傳平議 一卷</title>
                         <title source="9">chun qiu gong yang zhuan ping yi</title>
-                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName xml:lang="chi">(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                      </msItem>
                   </msContents>
@@ -346,7 +346,7 @@
                      <msItem>
                         <title>春秋穀梁傳平議 一卷</title>
                         <title source="9">chun qiu gu liang zhuan ping yi</title>
-                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName xml:lang="chi">(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                      </msItem>
                   </msContents>
@@ -371,7 +371,7 @@
                      <msItem>
                         <title>春秋左傳平議 三卷</title>
                         <title source="9">chun qiu zuo zhuan ping yi</title>
-                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName xml:lang="chi">(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                      </msItem>
                   </msContents>
@@ -396,7 +396,7 @@
                      <msItem>
                         <title>春秋外傳國語平議 二卷</title>
                         <title source="9">chun qiu wai zhuan guo yu ping yi</title>
-                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName xml:lang="chi">(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                      </msItem>
                   </msContents>
@@ -421,7 +421,7 @@
                      <msItem>
                         <title>論語平議 二卷</title>
                         <title source="9">lun yu ping yi</title>
-                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName xml:lang="chi">(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                      </msItem>
                   </msContents>
@@ -446,7 +446,7 @@
                      <msItem>
                         <title>孟子平議 二卷</title>
                         <title source="9">meng zi ping yi</title>
-                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName xml:lang="chi">(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                      </msItem>
                   </msContents>
@@ -471,7 +471,7 @@
                      <msItem>
                         <title>爾雅平議 一卷</title>
                         <title source="9">er ya ping yi</title>
-                        <author key="person_3353"><persName>(清)俞樾</persName><persName type="9">yu
+                        <author key="person_3353"><persName xml:lang="chi">(清)俞樾</persName><persName type="9">yu
                            yue</persName></author>
                      </msItem>
                   </msContents>

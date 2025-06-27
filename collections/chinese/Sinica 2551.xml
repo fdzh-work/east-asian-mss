@@ -46,7 +46,7 @@
                <head>書名: 搜神後記 十卷 / (晉)陶潛撰<lb/>清光緒元年[1875]湖北崇文書局刊子書百家本<lb/>線裝2冊 ; 27公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">搜神後記 十卷</title><title source="#200|9">sou shen hou ji</title><note source="#290">(晉)陶潛撰</note><author source="#300" key="person_2997"><persName>(晉)陶潛</persName><persName type="9">tao qian</persName></author><note source="#409">清光緒元年[1875]湖北崇文書局刊子書百家本</note><editor source="#440" role="pbl"><persName>崇文書局</persName><persName type="9" role="pbl">chong wen shu ju</persName></editor><editor source="#446" role="pbl"><persName>子書百家</persName><persName type="9" role="pbl">zi shu bai jia</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">搜神後記 十卷</title><title source="#200|9">sou shen hou ji</title><note source="#290">(晉)陶潛撰</note><author source="#300" key="person_2997"><persName xml:lang="chi">(晉)陶潛</persName><persName type="9">tao qian</persName></author><note source="#409">清光緒元年[1875]湖北崇文書局刊子書百家本</note><editor source="#440" role="pbl"><persName>崇文書局</persName><persName type="9" role="pbl">chong wen shu ju</persName></editor><editor source="#446" role="pbl"><persName>子書百家</persName><persName type="9" role="pbl">zi shu bai jia</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

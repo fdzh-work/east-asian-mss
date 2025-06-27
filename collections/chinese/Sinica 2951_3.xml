@@ -49,12 +49,12 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">三字經 一卷</title>
+                     <title xml:lang="chi" source="#200">三字經 一卷</title>
                      <title source="#200|9">san zi jing</title>
                      <title type="variant" source="#230">解元三字文</title>
                      <title source="#230|9" type="variant">jie yuan san zi jing</title>
                      <note source="#290">(宋)王應麟撰</note>
-                     <author source="#300" key="person_1423"><persName>(宋)王應麟</persName><persName type="9">wang ying
+                     <author source="#300" key="person_1423"><persName xml:lang="chi">(宋)王應麟</persName><persName type="9">wang ying
                            lin</persName></author>
                      <note source="#600">封面題名《解元三字經》</note>
                   </msItem>

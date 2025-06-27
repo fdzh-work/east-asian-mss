@@ -46,7 +46,7 @@
                <head>書名: 桑榆再生記<lb/>[Peking] : 福音堂, 同治乙丑[1865]<lb/>線裝1冊(8頁) ; 13.6公分<lb/>By J Edkins<lb/>In Peking dialect<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">桑榆再生記</title><title source="#200|9">sang yu zai sheng ji</title><author source="#300" key="person_6840"><persName>Edkins, Joseph</persName></author><editor source="#420" role="pbl"><persName>福音堂</persName><persName type="9" role="pbl">fu yin tang</persName></editor><note source="#600">By J Edkins</note><note source="#600">In Peking dialect</note></msItem>         
+                  <title xml:lang="chi" source="#200">桑榆再生記</title><title source="#200|9">sang yu zai sheng ji</title><author source="#300" key="person_6840"><persName xml:lang="chi">Edkins, Joseph</persName></author><editor source="#420" role="pbl"><persName>福音堂</persName><persName type="9" role="pbl">fu yin tang</persName></editor><note source="#600">By J Edkins</note><note source="#600">In Peking dialect</note></msItem>         
                </msContents>
                <physDesc>
                   

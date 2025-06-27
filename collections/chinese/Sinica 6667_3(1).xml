@@ -49,9 +49,9 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">石泉書屋館課詩 二卷</title>
+                     <title xml:lang="chi" source="#200">石泉書屋館課詩 二卷</title>
                      <title source="#200|9">shi quan shu wu guan ke shi</title>
-                     <author source="#300" key="person_4449"><persName>(清)李佐賢</persName><persName type="9">li zuo
+                     <author source="#300" key="person_4449"><persName xml:lang="chi">(清)李佐賢</persName><persName type="9">li zuo
                            xian</persName></author>
                      <note source="#600">咸豐戊午[1858]刊</note>
                   </msItem>

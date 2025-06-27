@@ -47,7 +47,7 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">御纂七經</title>
+                     <title xml:lang="chi" source="#200">御纂七經</title>
                      <title source="#200|9">yu zuan qi jing</title>
                      <note source="#409">清道光戊戌年[1838]重刊本</note>
                      <note><list type="contained_items"><head>Contains: </head><item><ref target="volume_6629">Backhouse 260a</ref><title>御纂周易折中 二十二卷首一卷</title> / <persName>(清)李光地</persName></item><item><ref target="volume_6630">Backhouse 260b</ref><title>御纂周易述義 十卷</title> / <persName>(清)傅恆</persName></item><item><ref target="volume_6631">Backhouse 260c</ref><title>欽定書經傳說彙纂 二十四卷首二卷書序一卷</title> / <persName>(清)王鴻緒</persName></item><item><ref target="volume_6632">Backhouse 260d</ref><title>欽定詩經傳說彙纂 二十一卷首二卷詩序二卷</title> / <persName>(清)王鴻緒</persName></item><item><ref target="volume_6633">Backhouse 260e-g</ref><title>欽定三禮義疏</title> / <persName>(清)鄂爾泰</persName></item><item><ref target="volume_6634">Backhouse 260h</ref><title>欽定春秋傳說彙纂 三十八卷首二卷</title> / <persName>(清)王掞</persName></item></list></note></msItem>

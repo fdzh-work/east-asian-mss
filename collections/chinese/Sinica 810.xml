@@ -49,17 +49,17 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">數學 八卷續一卷</title>
+                     <title xml:lang="chi" source="#200">數學 八卷續一卷</title>
                      <title source="#200|9">shu xue</title>
                      <note source="#290">(清)江永撰</note>
-                     <author source="#300" key="person_4766"><persName>(清)江永</persName><persName type="9">jiang
+                     <author source="#300" key="person_4766"><persName xml:lang="chi">(清)江永</persName><persName type="9">jiang
                            yong</persName></author>
                      <note source="#409">清道光二十四年[1844]金山錢熙祚編刊《守山閣叢書》本</note>
                      <editor source="#446" role="pbl"><persName>守山閣叢書</persName><persName type="9" role="pbl">shou shan ge cong shu</persName></editor>
                      <msItem n="1">
                         <title>數學補論 一卷</title>
                         <title source="9">shu xue bu lun</title>
-                        <author key="person_4766"><persName>(清)江永</persName><persName type="9">jiang
+                        <author key="person_4766"><persName xml:lang="chi">(清)江永</persName><persName type="9">jiang
                            yong</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140106/12:32:31|odh -->
@@ -68,7 +68,7 @@
                      <msItem n="2">
                         <title>歲實消長辯 一卷</title>
                         <title source="9">sui shi xiao zhang bian</title>
-                        <author key="person_4766"><persName>(清)江永</persName><persName type="9">jiang
+                        <author key="person_4766"><persName xml:lang="chi">(清)江永</persName><persName type="9">jiang
                            yong</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140106/12:33:27|odh -->
@@ -77,7 +77,7 @@
                      <msItem n="3">
                         <title>恆氣註歷辯 一卷</title>
                         <title source="9">heng qi zhu li bian</title>
-                        <author key="person_4766"><persName>(清)江永</persName><persName type="9">jiang
+                        <author key="person_4766"><persName xml:lang="chi">(清)江永</persName><persName type="9">jiang
                            yong</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140106/12:33:56|odh -->
@@ -86,7 +86,7 @@
                      <msItem n="4">
                         <title>冬至權度 一卷</title>
                         <title source="9">dong zhi quan du</title>
-                        <author key="person_4766"><persName>(清)江永</persName><persName type="9">jiang
+                        <author key="person_4766"><persName xml:lang="chi">(清)江永</persName><persName type="9">jiang
                            yong</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140106/12:34:25|odh -->
@@ -95,7 +95,7 @@
                      <msItem n="5">
                         <title>七政衍 一卷</title>
                         <title source="9">qi zheng yan</title>
-                        <author key="person_4766"><persName>(清)江永</persName><persName type="9">jiang
+                        <author key="person_4766"><persName xml:lang="chi">(清)江永</persName><persName type="9">jiang
                            yong</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140106/12:34:57|odh -->
@@ -104,7 +104,7 @@
                      <msItem n="6">
                         <title>金水發微 一卷</title>
                         <title source="9">jin shui fa wei</title>
-                        <author key="person_4766"><persName>(清)江永</persName><persName type="9">jiang
+                        <author key="person_4766"><persName xml:lang="chi">(清)江永</persName><persName type="9">jiang
                            yong</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140106/12:35:25|odh -->
@@ -113,7 +113,7 @@
                      <msItem n="7">
                         <title>中西合法擬草 一卷</title>
                         <title source="9">zhong xi he fa ni cao</title>
-                        <author key="person_4766"><persName>(清)江永</persName><persName type="9">jiang
+                        <author key="person_4766"><persName xml:lang="chi">(清)江永</persName><persName type="9">jiang
                            yong</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140106/12:35:52|odh -->
@@ -122,7 +122,7 @@
                      <msItem n="8">
                         <title>算賸 一卷</title>
                         <title source="9">suan sheng</title>
-                        <author key="person_4766"><persName>(清)江永</persName><persName type="9">jiang
+                        <author key="person_4766"><persName xml:lang="chi">(清)江永</persName><persName type="9">jiang
                            yong</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140106/12:36:17|odh -->
@@ -132,7 +132,7 @@
                      <msItem n="9">
                         <title>正疏三角疏義 一卷</title>
                         <title source="9">zheng shu san jiao shu yi</title>
-                        <author key="person_4766"><persName>(清)江永</persName><persName type="9">jiang
+                        <author key="person_4766"><persName xml:lang="chi">(清)江永</persName><persName type="9">jiang
                            yong</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140106/12:36:57|odh -->

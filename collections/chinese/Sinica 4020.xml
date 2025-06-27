@@ -54,8 +54,8 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem><note source="#600">Tr. by J Lassar &amp; J Marshman</note><msItem n="1">
-                  <title source="#200">此嘉語由於𠲚■所著</title><title source="#200|9">ci jia yu you yu ma tiao suo zhu</title><author source="#300" key="person_6919"><persName>Lassar, Joannes</persName></author><author source="#300" key="person_6948"><persName>Marshman, Joshua</persName></author></msItem>         
-               <msItem n="2"><title source="#201">此嘉音由𠲚嘞所著</title><title source="#201|9">ci jia yin you ma ke suo zhu</title></msItem></msItem></msContents>
+                  <title xml:lang="chi" source="#200">此嘉語由於𠲚■所著</title><title source="#200|9">ci jia yu you yu ma tiao suo zhu</title><author source="#300" key="person_6919"><persName xml:lang="chi">Lassar, Joannes</persName></author><author source="#300" key="person_6948"><persName xml:lang="chi">Marshman, Joshua</persName></author></msItem>         
+               <msItem n="2"><title xml:lang="chi" source="#201">此嘉音由𠲚嘞所著</title><title source="#201|9">ci jia yin you ma ke suo zhu</title></msItem></msItem></msContents>
                <physDesc>
                   
                   <objectDesc>

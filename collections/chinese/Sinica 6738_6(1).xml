@@ -49,13 +49,13 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">重修革象新書 五卷</title>
+                     <title xml:lang="chi" source="#200">重修革象新書 五卷</title>
                      <title source="#200|9">chong xiu ge xiang xin shu</title>
                      <note source="#290">(元)趙友欽撰</note>
                      <note source="#290">(明)王禕删訂</note>
-                     <author source="#300" key="person_278"><persName>(元)趙友欽</persName><persName type="9">zhao you
+                     <author source="#300" key="person_278"><persName xml:lang="chi">(元)趙友欽</persName><persName type="9">zhao you
                            qin</persName></author>
-                     <author source="#300" key="person_2447"><persName>(明)王禕</persName><persName type="9">wang
+                     <author source="#300" key="person_2447"><persName xml:lang="chi">(明)王禕</persName><persName type="9">wang
                            yi</persName></author>
                   </msItem>
                </msContents>

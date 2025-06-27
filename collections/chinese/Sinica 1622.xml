@@ -46,7 +46,7 @@
                <head>書名: 真神十條誡述註<lb/>寧波 : 耶穌福音殿, 1847<lb/>線裝1冊(4頁) ; 22.1公分<lb/>By T H Hudson<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">真神十條誡述註</title><title source="#200|9">zhen shen shi tiao jie shu zhu</title><author source="#300" key="person_6895"><persName>Hudson, Thomas Hall</persName></author><editor source="#420" role="pbl"><persName>耶穌福音殿</persName><persName type="9" role="pbl">ye su fu yin dian</persName></editor><note source="#600">By T H Hudson</note></msItem>         
+                  <title xml:lang="chi" source="#200">真神十條誡述註</title><title source="#200|9">zhen shen shi tiao jie shu zhu</title><author source="#300" key="person_6895"><persName xml:lang="chi">Hudson, Thomas Hall</persName></author><editor source="#420" role="pbl"><persName>耶穌福音殿</persName><persName type="9" role="pbl">ye su fu yin dian</persName></editor><note source="#600">By T H Hudson</note></msItem>         
                </msContents>
                <physDesc>
                   

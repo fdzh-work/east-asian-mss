@@ -49,15 +49,15 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">清白士集校補 四卷</title>
+                     <title xml:lang="chi" source="#200">清白士集校補 四卷</title>
                      <title source="#200|9">qing bai shi ji jiao bu</title>
                      <note source="#290">(清)蔡雲撰</note>
-                     <author source="#300"><persName>(清)蔡雲</persName><persName type="9">cai
+                     <author source="#300"><persName xml:lang="chi">(清)蔡雲</persName><persName type="9">cai
                            yun</persName></author>
                      <msItem n="1">
                         <title>漢書人表考校補 一卷</title>
                         <title source="9">han shu ren biao kao jiao bu</title>
-                        <author><persName>(清)蔡雲</persName><persName type="9">cai
+                        <author><persName xml:lang="chi">(清)蔡雲</persName><persName type="9">cai
                            yun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180726/00000009|odh -->
@@ -66,7 +66,7 @@
                      <msItem n="2">
                         <title>呂子校補獻疑 一卷</title>
                         <title source="9">lu zi jiao bu xian yi</title>
-                        <author><persName>(清)蔡雲</persName><persName type="9">cai
+                        <author><persName xml:lang="chi">(清)蔡雲</persName><persName type="9">cai
                            yun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180726/00000010|odh -->
@@ -75,7 +75,7 @@
                      <msItem n="3">
                         <title>元號略補遺 一卷</title>
                         <title source="9">yuan hao lue bu yi</title>
-                        <author><persName>(清)蔡雲</persName><persName type="9">cai
+                        <author><persName xml:lang="chi">(清)蔡雲</persName><persName type="9">cai
                            yun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180726/00000011|odh -->
@@ -84,7 +84,7 @@
                      <msItem n="4">
                         <title>續漢書人表考校補 一卷</title>
                         <title source="9">xu han shu ren biao kao jiao bu</title>
-                        <author><persName>(清)蔡雲</persName><persName type="9">cai
+                        <author><persName xml:lang="chi">(清)蔡雲</persName><persName type="9">cai
                            yun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180726/00000012|odh -->

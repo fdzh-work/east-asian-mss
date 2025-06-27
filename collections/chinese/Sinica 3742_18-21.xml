@@ -50,18 +50,18 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">虞氏逸象考正 一卷續纂一卷</title>
+                     <title xml:lang="chi" source="#200">虞氏逸象考正 一卷續纂一卷</title>
                      <title source="#200|9">yu shi yi xiang kao zheng</title>
-                     <title source="#200">九家易象辨證 一卷</title>
+                     <title xml:lang="chi" source="#200">九家易象辨證 一卷</title>
                      <title source="#200|9">jiu jia yi xiang bian zheng</title>
-                     <title source="#200">虞氏易義補注 一卷附錄一卷</title>
+                     <title xml:lang="chi" source="#200">虞氏易義補注 一卷附錄一卷</title>
                      <title source="#200|9">yu shi yi yi bu zhu</title>
-                     <title source="#200">周易本義辨證補訂 四卷</title>
+                     <title xml:lang="chi" source="#200">周易本義辨證補訂 四卷</title>
                      <title source="#200|9">zhou yi ben yi bian zheng bu ding</title>
-                     <title source="#200">漢儒傳易源流 一卷</title>
+                     <title xml:lang="chi" source="#200">漢儒傳易源流 一卷</title>
                      <title source="#200|9">han ru chuan yi yuan liu</title>
                      <note source="#290">(清)紀磊撰</note>
-                     <author source="#300" key="person_5310"><persName>(清)紀磊</persName><persName type="9">ji
+                     <author source="#300" key="person_5310"><persName xml:lang="chi">(清)紀磊</persName><persName type="9">ji
                            lei</persName></author>
                      <note source="#600">民國十二年[1923]刊</note>
                   </msItem>

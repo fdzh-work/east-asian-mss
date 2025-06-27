@@ -49,16 +49,16 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">性理</title>
+                     <title xml:lang="chi" source="#200">性理</title>
                      <title source="#200|9">xing li</title>
                      <note source="#290">(清)李光地輯</note>
-                     <author source="#300" key="person_4458"><persName>(清)李光地</persName><persName type="9">li guang
+                     <author source="#300" key="person_4458"><persName xml:lang="chi">(清)李光地</persName><persName type="9">li guang
                            di</persName></author>
                      <msItem n="1">
                         <title>論定性書 一卷</title>
                         <title source="9">lun ding xing shu</title>
                         <note source="290">(宋)程顥撰</note>
-                        <author key="person_1492"><persName>(宋)程顥</persName><persName type="9">cheng
+                        <author key="person_1492"><persName xml:lang="chi">(宋)程顥</persName><persName type="9">cheng
                            hao</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180629/00000046|odh -->
@@ -69,7 +69,7 @@
                         <title>太極圖解 一卷</title>
                         <title source="9">tai ji tu jie</title>
                         <note source="290">(宋)周敦頤撰</note>
-                        <author key="person_1064"><persName>(宋)周敦頤</persName><persName type="9">zhou dun
+                        <author key="person_1064"><persName xml:lang="chi">(宋)周敦頤</persName><persName type="9">zhou dun
                            yi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180629/00000047|odh -->
@@ -79,7 +79,7 @@
                         <title>顏子所好何學論 一卷</title>
                         <title source="9">yan zi suo hao he xue lun</title>
                         <note source="290">(宋)程顥撰</note>
-                        <author key="person_1492"><persName>(宋)程顥</persName><persName type="9">cheng
+                        <author key="person_1492"><persName xml:lang="chi">(宋)程顥</persName><persName type="9">cheng
                            hao</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180629/00000048|odh -->

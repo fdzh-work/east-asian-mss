@@ -46,7 +46,7 @@
                <head>書名: 上海市歷史文獻圖書館藏書目錄 五卷 / 上海市歷史文獻圖書館編<lb/>1956年上海市歷史文獻圖書館油印本<lb/>線裝2冊 ; 27公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">上海市歷史文獻圖書館藏書目錄 五卷</title><title source="#200|9">shang hai shi li shi wen xian tu shu guan cang shu mu lu</title><note source="#290">上海市歷史文獻圖書館編</note><author source="#300" key="person_7096"><persName>上海市歷史文獻圖書館</persName><persName type="9">shang hai shi li shi wen xian tu shu guan</persName></author><note source="#409">1956年上海市歷史文獻圖書館油印本</note><editor source="#440" role="pbl"><persName>上海市歷史文獻圖書館</persName><persName type="9" role="pbl">shang hai shi li shi wen xian tu shu guan</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">上海市歷史文獻圖書館藏書目錄 五卷</title><title source="#200|9">shang hai shi li shi wen xian tu shu guan cang shu mu lu</title><note source="#290">上海市歷史文獻圖書館編</note><author source="#300" key="person_7096"><persName xml:lang="chi">上海市歷史文獻圖書館</persName><persName type="9">shang hai shi li shi wen xian tu shu guan</persName></author><note source="#409">1956年上海市歷史文獻圖書館油印本</note><editor source="#440" role="pbl"><persName>上海市歷史文獻圖書館</persName><persName type="9" role="pbl">shang hai shi li shi wen xian tu shu guan</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

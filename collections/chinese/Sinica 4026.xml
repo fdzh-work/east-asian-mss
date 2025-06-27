@@ -46,7 +46,7 @@
                <head>書名: 國語補韋 四卷 / (清)黃模撰<lb/>民國二十四年[1935]古鑑齋刊朱印本<lb/>線裝1冊 ; 29公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">國語補韋 四卷</title><title source="#200|9">guo yu bu wei</title><note source="#290">(清)黃模撰</note><author source="#300" key="person_6396"><persName>(清)黃模</persName><persName type="9">huang mo</persName></author><note source="#409">民國二十四年[1935]古鑑齋刊朱印本</note><editor source="#440" role="pbl"><persName>古鑑齋</persName><persName type="9" role="pbl">gu jian zhai</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">國語補韋 四卷</title><title source="#200|9">guo yu bu wei</title><note source="#290">(清)黃模撰</note><author source="#300" key="person_6396"><persName xml:lang="chi">(清)黃模</persName><persName type="9">huang mo</persName></author><note source="#409">民國二十四年[1935]古鑑齋刊朱印本</note><editor source="#440" role="pbl"><persName>古鑑齋</persName><persName type="9" role="pbl">gu jian zhai</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

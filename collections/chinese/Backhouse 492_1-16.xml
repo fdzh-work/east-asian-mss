@@ -49,13 +49,13 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">史記 一百三十卷</title>
+                     <title xml:lang="chi" source="#200">史記 一百三十卷</title>
                      <title source="#200|9">shi ji</title>
                      <note source="#290">(漢)司馬遷撰</note>
                      <note source="#290">(劉宋)裴駰集解</note>
-                     <author source="#300" key="person_6502"><persName>(漢)司馬遷</persName><persName type="9">si ma
+                     <author source="#300" key="person_6502"><persName xml:lang="chi">(漢)司馬遷</persName><persName type="9">si ma
                            qian</persName></author>
-                     <author source="#300" key="person_380"><persName>(劉宋)裴駰</persName><persName type="9">pei
+                     <author source="#300" key="person_380"><persName xml:lang="chi">(劉宋)裴駰</persName><persName type="9">pei
                            yin</persName></author>
                      <note source="#600">光緒四年[1878]金陵書局重刊汲古閣本</note>
                   </msItem>

@@ -49,13 +49,13 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">增輯難經本義 二卷</title>
+                     <title xml:lang="chi" source="#200">增輯難經本義 二卷</title>
                      <title source="#200|9">zeng ji nan jing ben yi</title>
                      <note source="#290">(元)滑壽撰</note>
                      <note source="#290">(清)周學海增輯</note>
-                     <author source="#300" key="person_196"><persName>(元)滑壽</persName><persName type="9">hua
+                     <author source="#300" key="person_196"><persName xml:lang="chi">(元)滑壽</persName><persName type="9">hua
                            shou</persName></author>
-                     <author source="#300" key="person_3683"><persName>(清)周學海</persName><persName type="9">zhou xue
+                     <author source="#300" key="person_3683"><persName xml:lang="chi">(清)周學海</persName><persName type="9">zhou xue
                            hai</persName></author>
                   </msItem>
                </msContents>

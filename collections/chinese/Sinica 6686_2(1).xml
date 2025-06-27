@@ -50,17 +50,17 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">宋中興學士院題名 一卷</title>
+                     <title xml:lang="chi" source="#200">宋中興學士院題名 一卷</title>
                      <title source="#200|9">song zhong xing xue shi yuan ti ming</title>
-                     <title source="#200">中興東宮官僚題名 一卷</title>
+                     <title xml:lang="chi" source="#200">中興東宮官僚題名 一卷</title>
                      <title source="#200|9">zhong xing dong gong guan liao ti ming</title>
-                     <title source="#200">中興行在雜買務雜賣場提轄官題名 一卷</title>
+                     <title xml:lang="chi" source="#200">中興行在雜買務雜賣場提轄官題名 一卷</title>
                      <title source="#200|9">zhong xing xing zai za mai wu za mai chang ti xia guan
                         ti ming</title>
-                     <title source="#200">中興三公年表 一卷</title>
+                     <title xml:lang="chi" source="#200">中興三公年表 一卷</title>
                      <title source="#200|9">zhong xing san gong nian biao</title>
                      <note source="#290">(宋)何異撰</note>
-                     <author source="#300" key="person_939"><persName>(宋)何異</persName><persName type="9">he
+                     <author source="#300" key="person_939"><persName xml:lang="chi">(宋)何異</persName><persName type="9">he
                            yi</persName></author>
                      <note source="#600">光緒丙申[1896]刊</note>
                   </msItem>

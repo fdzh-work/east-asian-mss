@@ -50,13 +50,13 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">何承天纂要文徵遺 一卷</title>
+                     <title xml:lang="chi" source="#200">何承天纂要文徵遺 一卷</title>
                      <title source="#200|9">he cheng tian zuan yao wen zheng yi</title>
                      <note source="#290">(劉宋)何承天撰</note>
                      <note source="#290">(清)茆泮林輯</note>
-                     <author source="#300" key="person_350"><persName>(劉宋)何承天</persName><persName type="9">he cheng
+                     <author source="#300" key="person_350"><persName xml:lang="chi">(劉宋)何承天</persName><persName type="9">he cheng
                            tian</persName></author>
-                     <author source="#300" key="person_5426"><persName>(清)茆泮林</persName><persName type="9">mao pan
+                     <author source="#300" key="person_5426"><persName xml:lang="chi">(清)茆泮林</persName><persName type="9">mao pan
                            lin</persName></author>
                   </msItem>
                </msContents>

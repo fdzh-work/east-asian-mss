@@ -46,7 +46,7 @@
                <head>書名: Hangchow primer. Translation and notes<lb/>London : Society for Promoting Christian Knowledge, 1876<lb/>平裝1冊(34頁) : 21.4公分<lb/>By G E Moule<lb/>Accompanies Ang-tse t'u-wa (Sinica 2322)<lb/></head><msContents>
                   <textLang mainLang="eng">English</textLang>
                   <msItem n="1">
-                  <title source="#200">Hangchow primer. Translation and notes</title><author source="#300" key="person_6975"><persName>Moule, George Evans</persName></author><editor source="#420" role="pbl"><persName>Society for Promoting Christian Knowledge</persName></editor><note source="#600">By G E Moule</note><note source="#600">Accompanies Ang-tse t'u-wa (Sinica 2322)</note></msItem>         
+                  <title xml:lang="chi" source="#200">Hangchow primer. Translation and notes</title><author source="#300" key="person_6975"><persName xml:lang="chi">Moule, George Evans</persName></author><editor source="#420" role="pbl"><persName>Society for Promoting Christian Knowledge</persName></editor><note source="#600">By G E Moule</note><note source="#600">Accompanies Ang-tse t'u-wa (Sinica 2322)</note></msItem>         
                </msContents>
                <physDesc>
                   

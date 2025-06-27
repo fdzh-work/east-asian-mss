@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">三峯史論 一卷</title>
+                     <title xml:lang="chi" source="#200">三峯史論 一卷</title>
                      <title source="#200|9">san feng shi lun</title>
                      <note source="#290">(明)萬應隆撰</note>
-                     <author source="#300" key="person_2543"><persName>(明)萬應隆</persName><persName type="9">wan ying
+                     <author source="#300" key="person_2543"><persName xml:lang="chi">(明)萬應隆</persName><persName type="9">wan ying
                            lun</persName></author>
                   </msItem>
                </msContents>

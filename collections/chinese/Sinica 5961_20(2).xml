@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">滄浪嚴先生詩吟卷 三卷</title>
+                     <title xml:lang="chi" source="#200">滄浪嚴先生詩吟卷 三卷</title>
                      <title source="#200|9">cang lang yan xian sheng yin juan</title>
                      <note source="#290">(宋)嚴羽撰</note>
-                     <author source="#300" key="person_1083"><persName>(宋)嚴羽</persName><persName type="9">yan
+                     <author source="#300" key="person_1083"><persName xml:lang="chi">(宋)嚴羽</persName><persName type="9">yan
                            yu</persName></author>
                      <note source="#600">民國丙辰[1916]刊</note>
                   </msItem>

@@ -49,12 +49,12 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">論語筆解 二卷</title>
+                     <title xml:lang="chi" source="#200">論語筆解 二卷</title>
                      <title source="#200|9">lun yu bi jie</title>
                      <note source="#290">(唐)韓愈, (唐)李翱撰</note>
-                     <author source="#300" key="person_868"><persName>(唐)韓愈</persName><persName type="9">han
+                     <author source="#300" key="person_868"><persName xml:lang="chi">(唐)韓愈</persName><persName type="9">han
                            yu</persName></author>
-                     <author source="#300" key="person_701"><persName>(唐)李翱</persName><persName type="9">li
+                     <author source="#300" key="person_701"><persName xml:lang="chi">(唐)李翱</persName><persName type="9">li
                            ao</persName></author>
                   </msItem>
                </msContents>

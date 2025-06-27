@@ -50,10 +50,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">南洋各島國論 一卷</title>
+                     <title xml:lang="chi" source="#200">南洋各島國論 一卷</title>
                      <title source="#200|9">nan yang ge dao guo lun</title>
                      <note source="#290">(清)吳曾英撰</note>
-                     <author source="#300" key="person_3589"><persName>(清)吳曾英</persName><persName type="9">wu zeng
+                     <author source="#300" key="person_3589"><persName xml:lang="chi">(清)吳曾英</persName><persName type="9">wu zeng
                            ying</persName></author>
                   </msItem>
                </msContents>

@@ -46,7 +46,7 @@
                <head>書名: 欠債喻言<lb/>京都 [Peking] : 美華書院, 1876<lb/>平裝1冊(20頁) : 圖 ; 20.8公分<lb/>By M B North<lb/>In Mandarin dialect<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">欠債喻言</title><title source="#200|9">qian zhai yu yan</title><author source="#300" key="person_6982"><persName>North, Martha B</persName></author><editor source="#420" role="pbl"><persName>美華書院</persName><persName type="9" role="pbl">mei hua shu yuan</persName></editor><note source="#600">By M B North</note><note source="#600">In Mandarin dialect</note></msItem>         
+                  <title xml:lang="chi" source="#200">欠債喻言</title><title source="#200|9">qian zhai yu yan</title><author source="#300" key="person_6982"><persName xml:lang="chi">North, Martha B</persName></author><editor source="#420" role="pbl"><persName>美華書院</persName><persName type="9" role="pbl">mei hua shu yuan</persName></editor><note source="#600">By M B North</note><note source="#600">In Mandarin dialect</note></msItem>         
                </msContents>
                <physDesc>
                   

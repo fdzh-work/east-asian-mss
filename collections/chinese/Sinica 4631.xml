@@ -46,7 +46,7 @@
                <head>書名: 曹景完碑<lb/>民國九年[1920]上海商務印書館初版影印本<lb/>線裝1冊 ; 33公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">曹景完碑</title><title source="#200|9">cao jing wan bei</title><note source="#409">民國九年[1920]上海商務印書館初版影印本</note><editor source="#440" role="pbl"><persName>商務印書館</persName><persName type="9" role="pbl">shang wu yin shu guan</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">曹景完碑</title><title source="#200|9">cao jing wan bei</title><note source="#409">民國九年[1920]上海商務印書館初版影印本</note><editor source="#440" role="pbl"><persName>商務印書館</persName><persName type="9" role="pbl">shang wu yin shu guan</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

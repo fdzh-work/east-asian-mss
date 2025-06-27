@@ -49,11 +49,11 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">明周端孝先生血疏貼黃眞蹟 一卷附錄一卷</title>
+                     <title xml:lang="chi" source="#200">明周端孝先生血疏貼黃眞蹟 一卷附錄一卷</title>
                      <title source="#200|9">ming zhou duan xiao xian sheng xue shu tie huang zhen
                         ji</title>
                      <note source="#290">(明)周茂蘭撰</note>
-                     <author source="#300" key="person_2097"><persName>(明)周茂蘭</persName><persName type="9">zhou mao
+                     <author source="#300" key="person_2097"><persName xml:lang="chi">(明)周茂蘭</persName><persName type="9">zhou mao
                            lan</persName></author>
                      <note source="#600">影印手稿本</note>
                   </msItem>

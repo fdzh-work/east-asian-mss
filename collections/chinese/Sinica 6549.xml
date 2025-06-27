@@ -46,7 +46,7 @@
                <head>書名: 大道不限於中外 / 花之安著<lb/>[漢口?], [1880年代?]<lb/>Single sheet ; 31 x 45公分<lb/>Edition B<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">大道不限於中外</title><title source="#200|9">da dao bu xian yu zhong wai</title><note source="#290">花之安著</note><author source="#300" key="person_6843"><persName>Faber, Ernst</persName></author><note source="#600">Edition B</note></msItem>         
+                  <title xml:lang="chi" source="#200">大道不限於中外</title><title source="#200|9">da dao bu xian yu zhong wai</title><note source="#290">花之安著</note><author source="#300" key="person_6843"><persName xml:lang="chi">Faber, Ernst</persName></author><note source="#600">Edition B</note></msItem>         
                </msContents>
                <physDesc>
                   

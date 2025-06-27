@@ -46,7 +46,7 @@
                <head>書名: 火燒學院<lb/>香港 : 新生出版社, [出版年未詳]<lb/>平裝1冊([3], 18, 12, 7頁) ; 19公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">火燒學院</title><title source="#200|9">huo shao xue yuan</title><editor source="#420" role="pbl"><persName>新生出版社</persName><persName type="9" role="pbl">xin sheng chu ban she</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">火燒學院</title><title source="#200|9">huo shao xue yuan</title><editor source="#420" role="pbl"><persName>新生出版社</persName><persName type="9" role="pbl">xin sheng chu ban she</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

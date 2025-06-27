@@ -50,24 +50,24 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">列子 八卷</title>
+                     <title xml:lang="chi" source="#200">列子 八卷</title>
                      <title source="#200|9">lie zi</title>
                      <note source="#290">(周)列禦寇撰</note>
                      <note source="#290">(晉)張湛注</note>
-                     <author source="#300" key="person_480"><persName>(周)列禦寇</persName><persName type="9">lie yu
+                     <author source="#300" key="person_480"><persName xml:lang="chi">(周)列禦寇</persName><persName type="9">lie yu
                            kou</persName></author>
-                     <author source="#300" key="person_2891"><persName>(晉)張湛</persName><persName type="9">zhang
+                     <author source="#300" key="person_2891"><persName xml:lang="chi">(晉)張湛</persName><persName type="9">zhang
                            zhan</persName></author>
                      <note source="#600">嘉慶十八年[1813]刊</note>
                   </msItem>
                   <msItem n="2">
-                     <title source="#201">附 列子沖虛至德真經釋文 二卷</title>
+                     <title xml:lang="chi" source="#201">附 列子沖虛至德真經釋文 二卷</title>
                      <title source="#201|9">lie zi chong xu zhi de zhen jing shi wen</title>
                      <note source="#291">(唐)殷敬順撰</note>
                      <note source="#291">(宋)陳景元補遺</note>
-                     <author source="#301" key="person_742"><persName>(唐)殷敬順</persName><persName type="9">yin jing
+                     <author source="#301" key="person_742"><persName xml:lang="chi">(唐)殷敬順</persName><persName type="9">yin jing
                            shun</persName></author>
-                     <author source="#301" key="person_1756"><persName>(宋)陳景元</persName><persName type="9">chen jing
+                     <author source="#301" key="person_1756"><persName xml:lang="chi">(宋)陳景元</persName><persName type="9">chen jing
                            yuan</persName></author>
                   </msItem>
                </msContents>

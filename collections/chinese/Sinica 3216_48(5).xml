@@ -50,14 +50,14 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">李槩音譜 一卷</title>
+                     <title xml:lang="chi" source="#200">李槩音譜 一卷</title>
                      <title source="#200|9">li gai yin pu</title>
-                     <title source="#200">附 聲譜 一卷</title>
+                     <title xml:lang="chi" source="#200">附 聲譜 一卷</title>
                      <title source="#200|9">sheng pu</title>
                      <title type="variant" source="#230">音譜</title>
                      <title source="#230|9" type="variant">yin pu</title>
                      <note source="#290">(劉宋)李槩撰</note>
-                     <author source="#300" key="person_365"><persName>(劉宋)李槩</persName><persName type="9">li
+                     <author source="#300" key="person_365"><persName xml:lang="chi">(劉宋)李槩</persName><persName type="9">li
                            gai</persName></author>
                   </msItem>
                </msContents>

@@ -49,12 +49,12 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">稼書先生年譜 一卷</title>
+                     <title xml:lang="chi" source="#200">稼書先生年譜 一卷</title>
                      <title source="#200|9">jia shu xian sheng nian pu</title>
                      <note source="#290">(清)陸宸微, (清)李鉉輯</note>
-                     <author source="#300" key="person_6147"><persName>(清)陸宸微</persName><persName type="9">lu chen
+                     <author source="#300" key="person_6147"><persName xml:lang="chi">(清)陸宸微</persName><persName type="9">lu chen
                            wei</persName></author>
-                     <author source="#300" key="person_4553"><persName>(清)李鉉</persName><persName type="9">li
+                     <author source="#300" key="person_4553"><persName xml:lang="chi">(清)李鉉</persName><persName type="9">li
                            xuan</persName></author>
                   </msItem>
                </msContents>

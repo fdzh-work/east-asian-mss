@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">紫巖于先生詩選 三卷</title>
+                     <title xml:lang="chi" source="#200">紫巖于先生詩選 三卷</title>
                      <title source="#200|9">zi yan yu xian sheng zhi xuan</title>
                      <note source="#290">(宋)于石撰</note>
-                     <author source="#300" key="person_930"><persName>(宋)于石</persName><persName type="9">yu
+                     <author source="#300" key="person_930"><persName xml:lang="chi">(宋)于石</persName><persName type="9">yu
                            shi</persName></author>
                   </msItem>
                </msContents>

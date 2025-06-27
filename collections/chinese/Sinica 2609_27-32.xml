@@ -49,16 +49,16 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">管子 二十四卷</title>
+                     <title xml:lang="chi" source="#200">管子 二十四卷</title>
                      <title source="#200|9">guan zi</title>
                      <note source="#290">(周)管仲撰</note>
                      <note source="#290">(唐)房玄齡注</note>
                      <note source="#290">(明)劉績增注</note>
-                     <author source="#300" key="person_520"><persName>(周)管仲</persName><persName type="9">guan
+                     <author source="#300" key="person_520"><persName xml:lang="chi">(周)管仲</persName><persName type="9">guan
                            zhong</persName></author>
-                     <author source="#300" key="person_658"><persName>(唐)房玄齡</persName><persName type="9">fang xuan
+                     <author source="#300" key="person_658"><persName xml:lang="chi">(唐)房玄齡</persName><persName type="9">fang xuan
                            ling</persName></author>
-                     <author source="#300" key="person_2038"><persName>(明)劉績</persName><persName type="9">liu
+                     <author source="#300" key="person_2038"><persName xml:lang="chi">(明)劉績</persName><persName type="9">liu
                            ji</persName></author>
                      <note source="#600">光緒二年[1876]刊</note>
                   </msItem>

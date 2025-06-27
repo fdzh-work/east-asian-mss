@@ -48,17 +48,17 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">閱微草堂筆記五種</title>
+                     <title xml:lang="chi" source="#200">閱微草堂筆記五種</title>
                      <title source="#200|9">yue wei cao tang bi ji wu zhong</title>
                      <note source="#290">(清)紀昀撰</note>
-                     <author source="#300" key="person_5309"><persName>(清)紀昀</persName><persName type="9">ji
+                     <author source="#300" key="person_5309"><persName xml:lang="chi">(清)紀昀</persName><persName type="9">ji
                            yun</persName></author>
                      <note source="#409">清道光二十七年[1847]小蓬萊山館刊本</note>
                      <editor source="#440" role="pbl"><persName>小蓬萊山館</persName><persName type="9" role="pbl">xiao peng lai shan guan</persName></editor>
                      <msItem n="1">
                         <title>灤陽消夏錄 六卷</title>
                         <title source="9">luan yang xiao xia lu</title>
-                        <author key="person_5309"><persName>(清)紀昀</persName><persName type="9">ji
+                        <author key="person_5309"><persName xml:lang="chi">(清)紀昀</persName><persName type="9">ji
                            yun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20120529/14:32:32|odh -->
@@ -68,7 +68,7 @@
                      <msItem n="2">
                         <title>如是我聞 四卷</title>
                         <title source="9">ru shi wo wen</title>
-                        <author key="person_5309"><persName>(清)紀昀</persName><persName type="9">ji
+                        <author key="person_5309"><persName xml:lang="chi">(清)紀昀</persName><persName type="9">ji
                            yun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20120529/14:34:22|odh -->
@@ -78,7 +78,7 @@
                      <msItem n="3">
                         <title>槐西雜志 四卷</title>
                         <title source="9">huai xi za zhi</title>
-                        <author key="person_5309"><persName>(清)紀昀</persName><persName type="9">ji
+                        <author key="person_5309"><persName xml:lang="chi">(清)紀昀</persName><persName type="9">ji
                            yun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20120529/14:36:20|odh -->
@@ -88,7 +88,7 @@
                      <msItem n="4">
                         <title>姑妄聽之 四卷(缺卷一﹑二)</title>
                         <title source="9">gu wang ting zhi</title>
-                        <author key="person_5309"><persName>(清)紀昀</persName><persName type="9">ji
+                        <author key="person_5309"><persName xml:lang="chi">(清)紀昀</persName><persName type="9">ji
                            yun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20120529/14:39:42|odh -->
@@ -98,7 +98,7 @@
                      <msItem n="5">
                         <title>灤陽續錄 六卷</title>
                         <title source="9">luan yang xu lu</title>
-                        <author key="person_5309"><persName>(清)紀昀</persName><persName type="9">ji
+                        <author key="person_5309"><persName xml:lang="chi">(清)紀昀</persName><persName type="9">ji
                            yun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20120529/14:40:54|odh -->

@@ -46,7 +46,7 @@
                <head>書名: 漢書評林 一百卷 / (明)凌稚隆編 ; (日釋)玄朴點<lb/>日本明曆三年[1657]林和泉掾時元松栢堂刊本<lb/>線裝50冊 ; 27公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">漢書評林 一百卷</title><title source="#200|9">han shu ping lin</title><note source="#290">(明)凌稚隆編</note><note source="#290">(日釋)玄朴點</note><author source="#300" key="person_2016"><persName>(明)凌稚隆</persName><persName type="9">ling zhi long</persName></author><author source="#300" key="person_1983"><persName>(日釋)玄朴</persName><persName type="9">gembokuj</persName></author><note source="#409">日本明曆三年[1657]林和泉掾時元松栢堂刊本</note></msItem>         
+                  <title xml:lang="chi" source="#200">漢書評林 一百卷</title><title source="#200|9">han shu ping lin</title><note source="#290">(明)凌稚隆編</note><note source="#290">(日釋)玄朴點</note><author source="#300" key="person_2016"><persName xml:lang="chi">(明)凌稚隆</persName><persName type="9">ling zhi long</persName></author><author source="#300" key="person_1983"><persName xml:lang="chi">(日釋)玄朴</persName><persName type="9">gembokuj</persName></author><note source="#409">日本明曆三年[1657]林和泉掾時元松栢堂刊本</note></msItem>         
                </msContents>
                <physDesc>
                   

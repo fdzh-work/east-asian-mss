@@ -46,7 +46,7 @@
                <head>書名: 增訂寰宇貞石圖 四卷 / (日)藤原楚水編纂<lb/>日本昭和十四至十五年[1939-1940]東京興文社影印本<lb/>線裝4冊 ; 53公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">增訂寰宇貞石圖 四卷</title><title source="#200|9">zeng ding huan yu zhen shi tu</title><note source="#290">(日)藤原楚水編纂</note><author source="#300" key="person_1953"><persName>(日)藤原楚水</persName><persName type="9">fujiwara sasui_j</persName></author><note source="#409">日本昭和十四至十五年[1939-1940]東京興文社影印本</note><editor source="#440" role="pbl"><persName>興文社</persName><persName type="9" role="pbl">koubunsha_j</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">增訂寰宇貞石圖 四卷</title><title source="#200|9">zeng ding huan yu zhen shi tu</title><note source="#290">(日)藤原楚水編纂</note><author source="#300" key="person_1953"><persName xml:lang="chi">(日)藤原楚水</persName><persName type="9">fujiwara sasui_j</persName></author><note source="#409">日本昭和十四至十五年[1939-1940]東京興文社影印本</note><editor source="#440" role="pbl"><persName>興文社</persName><persName type="9" role="pbl">koubunsha_j</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

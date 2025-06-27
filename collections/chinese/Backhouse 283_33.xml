@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">清虛雜著 三卷補闕一卷</title>
+                     <title xml:lang="chi" source="#200">清虛雜著 三卷補闕一卷</title>
                      <title source="#200|9">qing xu za zhu</title>
                      <note source="#290">(宋)王鞏撰</note>
-                     <author source="#300" key="person_1460"><persName>(宋)王鞏</persName><persName type="9">wang
+                     <author source="#300" key="person_1460"><persName xml:lang="chi">(宋)王鞏</persName><persName type="9">wang
                            gong</persName></author>
                      <note source="#600">乾隆四十四年[1779]刊</note>
                   </msItem>
@@ -100,7 +100,7 @@
                      <msItem>
                         <title>聞見近錄 一卷</title>
                         <title source="9">wen jian jin lu</title>
-                        <author key="person_1460"><persName>(宋)王鞏</persName><persName type="9">wang
+                        <author key="person_1460"><persName xml:lang="chi">(宋)王鞏</persName><persName type="9">wang
                            gong</persName></author>
                      </msItem>
                   </msContents>
@@ -126,7 +126,7 @@
                      <msItem>
                         <title>甲申雜記 一卷</title>
                         <title source="9">jia shen za ji</title>
-                        <author key="person_1460"><persName>(宋)王鞏</persName><persName type="9">wang
+                        <author key="person_1460"><persName xml:lang="chi">(宋)王鞏</persName><persName type="9">wang
                            gong</persName></author>
                      </msItem>
                   </msContents>
@@ -152,7 +152,7 @@
                      <msItem>
                         <title>隨手雜錄 一卷</title>
                         <title source="9">sui shou za lu</title>
-                        <author key="person_1460"><persName>(宋)王鞏</persName><persName type="9">wang
+                        <author key="person_1460"><persName xml:lang="chi">(宋)王鞏</persName><persName type="9">wang
                            gong</persName></author>
                      </msItem>
                   </msContents>

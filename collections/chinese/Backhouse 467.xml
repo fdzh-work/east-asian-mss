@@ -46,7 +46,7 @@
                <head>書名: 南村輟耕錄 三十卷 / (元)陶宗儀撰<lb/>明萬曆中玉蘭草堂刊本<lb/>線裝16冊 ; 26公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">南村輟耕錄 三十卷</title><title source="#200|9">nan cun chuo geng lu</title><title type="variant" source="#230">輟耕錄</title><title source="#230|9" type="variant">chuo geng lu</title><note source="#290">(元)陶宗儀撰</note><author source="#300" key="person_314"><persName>(元)陶宗儀</persName><persName type="9">tao zong yi</persName></author><note source="#409">明萬曆中玉蘭草堂刊本</note><editor source="#440" role="pbl"><persName>玉蘭草堂</persName><persName type="9" role="pbl">yu lan cao tang</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">南村輟耕錄 三十卷</title><title source="#200|9">nan cun chuo geng lu</title><title type="variant" source="#230">輟耕錄</title><title source="#230|9" type="variant">chuo geng lu</title><note source="#290">(元)陶宗儀撰</note><author source="#300" key="person_314"><persName xml:lang="chi">(元)陶宗儀</persName><persName type="9">tao zong yi</persName></author><note source="#409">明萬曆中玉蘭草堂刊本</note><editor source="#440" role="pbl"><persName>玉蘭草堂</persName><persName type="9" role="pbl">yu lan cao tang</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

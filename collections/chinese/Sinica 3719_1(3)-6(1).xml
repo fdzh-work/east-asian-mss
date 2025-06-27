@@ -50,10 +50,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">春星草堂集</title>
+                     <title xml:lang="chi" source="#200">春星草堂集</title>
                      <title source="#200|9">chun xing cao tang ji</title>
                      <note source="#290">(清)沈炳瑩撰</note>
-                     <author source="#300" key="person_4879"><persName>(清)沈炳瑩</persName><persName type="9">shen bing
+                     <author source="#300" key="person_4879"><persName xml:lang="chi">(清)沈炳瑩</persName><persName type="9">shen bing
                            ying</persName></author>
                   </msItem>
                </msContents>
@@ -100,7 +100,7 @@
                         <title>春星草堂集 文二卷詩五卷</title>
                         <title source="9">chun xing cao tang ji</title>
                         <note source="290">(清)沈炳瑩撰</note>
-                        <author key="person_4879"><persName>(清)沈炳瑩</persName><persName type="9">shen bing
+                        <author key="person_4879"><persName xml:lang="chi">(清)沈炳瑩</persName><persName type="9">shen bing
                               ying</persName></author>
                      </msItem>
                   </msContents>
@@ -127,7 +127,7 @@
                         <title>讀吳詩隨筆 二卷</title>
                         <title source="9">du wu shi sui bi</title>
                         <note source="290">(清)沈炳瑩撰</note>
-                        <author key="person_4879"><persName>(清)沈炳瑩</persName><persName type="9">shen bing
+                        <author key="person_4879"><persName xml:lang="chi">(清)沈炳瑩</persName><persName type="9">shen bing
                               ying</persName></author>
                      </msItem>
                   </msContents>
@@ -153,7 +153,7 @@
                         <title>星匏館隨筆 十二卷</title>
                         <title source="9">xing pao g guan sui bi</title>
                         <note source="290">(清)沈炳瑩撰</note>
-                        <author key="person_4879"><persName>(清)沈炳瑩</persName><persName type="9">shen bing
+                        <author key="person_4879"><persName xml:lang="chi">(清)沈炳瑩</persName><persName type="9">shen bing
                               ying</persName></author>
                         <note source="600">光緒三十四年[1908]刊</note>
                      </msItem>
@@ -180,7 +180,7 @@
                         <title>貴陽官文書偶存 一卷</title>
                         <title source="9">gui yang guan wen shu ou cun</title>
                         <note source="290">(清)沈炳瑩撰</note>
-                        <author key="person_4879"><persName>(清)沈炳瑩</persName><persName type="9">shen bing
+                        <author key="person_4879"><persName xml:lang="chi">(清)沈炳瑩</persName><persName type="9">shen bing
                               ying</persName></author>
                      </msItem>
                   </msContents>

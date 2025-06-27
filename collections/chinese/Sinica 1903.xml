@@ -46,7 +46,7 @@
                <head>書名: 救溺水法 / 羊城博濟醫局嘉氏譯<lb/>[Canton] : [博濟醫局], [1873]<lb/>Single sheet ; 30 x 29公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">救溺水法</title><title source="#200|9">jiu ni shui fa</title><note source="#290">羊城博濟醫局嘉氏譯</note><author source="#300" key="person_6911"><persName>Kerr, John Glasgow</persName></author><editor source="#420" role="pbl"><persName>[博濟醫局]</persName><persName type="9" role="pbl">bo ji yi ju</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">救溺水法</title><title source="#200|9">jiu ni shui fa</title><note source="#290">羊城博濟醫局嘉氏譯</note><author source="#300" key="person_6911"><persName xml:lang="chi">Kerr, John Glasgow</persName></author><editor source="#420" role="pbl"><persName>[博濟醫局]</persName><persName type="9" role="pbl">bo ji yi ju</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

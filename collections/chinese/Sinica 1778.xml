@@ -46,7 +46,7 @@
                <head>書名: 聖書論略 / 教士葉韙良著<lb/>京都[Peking] : 美華書館, 1870<lb/>線裝1冊(2, 18頁) ; 24.9公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">聖書論略</title><title source="#200|9">sheng shu lun lue</title><note source="#290">教士葉韙良著</note><author source="#300" key="person_6757"><persName>Aitchison, William</persName></author><editor source="#420" role="pbl"><persName>美華書館</persName><persName type="9" role="pbl">mei hua shu guan</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">聖書論略</title><title source="#200|9">sheng shu lun lue</title><note source="#290">教士葉韙良著</note><author source="#300" key="person_6757"><persName xml:lang="chi">Aitchison, William</persName></author><editor source="#420" role="pbl"><persName>美華書館</persName><persName type="9" role="pbl">mei hua shu guan</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

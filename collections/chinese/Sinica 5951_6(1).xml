@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">金稷山段氏二妙年譜 二卷</title>
+                     <title xml:lang="chi" source="#200">金稷山段氏二妙年譜 二卷</title>
                      <title source="#200|9">jin ji shan duan shi er miao nian pu</title>
                      <note source="#290">孫德謙撰</note>
-                     <author source="#300" key="person_7118"><persName>孫德謙</persName><persName type="9">sun de
+                     <author source="#300" key="person_7118"><persName xml:lang="chi">孫德謙</persName><persName type="9">sun de
                            qian</persName></author>
                      <note source="#600">民國乙卯[1915]刊</note>
                   </msItem>

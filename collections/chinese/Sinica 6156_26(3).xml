@@ -50,18 +50,18 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">雲溪友議 三卷</title>
+                     <title xml:lang="chi" source="#200">雲溪友議 三卷</title>
                      <title source="#200|9">yun xi you yi</title>
                      <note source="#290">(唐)范攄著</note>
-                     <author source="#300" key="person_793"><persName>(唐)范攄</persName><persName type="9">fan
+                     <author source="#300" key="person_793"><persName xml:lang="chi">(唐)范攄</persName><persName type="9">fan
                            shu</persName></author>
                      <note source="#600">民國十九年[1930]刊</note>
                   </msItem>
                   <msItem n="2">
-                     <title source="#201">雲溪友議校勘記 三卷</title>
+                     <title xml:lang="chi" source="#201">雲溪友議校勘記 三卷</title>
                      <title source="#201|9">yun xi you yi jiao kan ji</title>
                      <note source="#291">劉承幹著</note>
-                     <author source="#301" key="person_7100"><persName>劉承幹</persName><persName type="9">liu cheng
+                     <author source="#301" key="person_7100"><persName xml:lang="chi">劉承幹</persName><persName type="9">liu cheng
                            gan</persName></author>
                   </msItem>
                </msContents>

@@ -49,12 +49,12 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">褚堂閭史考證 一卷附錄一卷校勘記一卷</title>
+                     <title xml:lang="chi" source="#200">褚堂閭史考證 一卷附錄一卷校勘記一卷</title>
                      <title source="#200|9">chu tang lu shi kaozheng</title>
                      <note source="#290">(清)趙一清撰</note>
-                     <author source="#300" key="person_5717"><persName>(清)趙一清</persName><persName type="9">zhao yi
+                     <author source="#300" key="person_5717"><persName xml:lang="chi">(清)趙一清</persName><persName type="9">zhao yi
                            qing</persName></author>
-                     <author source="#300" key="person_3879"><persName>(清)孫鏘</persName><persName type="9">sun
+                     <author source="#300" key="person_3879"><persName xml:lang="chi">(清)孫鏘</persName><persName type="9">sun
                            qiang</persName></author>
                      <note source="#600">光緒乙未[1895]刊</note>
                   </msItem>

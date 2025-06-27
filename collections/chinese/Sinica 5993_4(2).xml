@@ -51,10 +51,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">山谷琴趣外篇 三卷</title>
+                     <title xml:lang="chi" source="#200">山谷琴趣外篇 三卷</title>
                      <title source="#200|9">shan gu qin qu wai pian</title>
                      <note source="#290">(宋)黃庭堅撰</note>
-                     <author source="#300"><persName>(宋)黃庭堅</persName><persName type="9">huang ting
+                     <author source="#300"><persName xml:lang="chi">(宋)黃庭堅</persName><persName type="9">huang ting
                            jian</persName></author>
                      <note source="#600">景刊宋本</note>
                   </msItem>

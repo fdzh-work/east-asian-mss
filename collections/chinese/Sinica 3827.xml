@@ -49,17 +49,17 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">顧氏金石輿地叢書第一集</title>
+                     <title xml:lang="chi" source="#200">顧氏金石輿地叢書第一集</title>
                      <title source="#200|9">gu shi jin shi yu di cong shu di yi ji</title>
                      <note source="#290">(民國)顧燮光輯</note>
-                     <author source="#300" key="person_3222"><persName>(民國)顧燮光</persName><persName type="9">gu xie
+                     <author source="#300" key="person_3222"><persName xml:lang="chi">(民國)顧燮光</persName><persName type="9">gu xie
                            guang</persName></author>
                      <note source="#409">民國十八年[1929]序會稽顧氏金佳石好樓排印石印本</note>
                      <msItem n="1">
                         <title>天下金石志 十六卷</title>
                         <title source="9">tian xia jin shi zhi</title>
                         <note source="290">(明)于奕正撰</note>
-                        <author key="person_1989"><persName>(明)于奕正</persName><persName type="9">yu yi
+                        <author key="person_1989"><persName xml:lang="chi">(明)于奕正</persName><persName type="9">yu yi
                            zheng</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00002285|ons -->
@@ -70,7 +70,7 @@
                         <title>中州金石攷 八卷</title>
                         <title source="9">zhong zhou jin shi kao</title>
                         <note source="290">(清)黃叔璥撰</note>
-                        <author key="person_6363"><persName>(清)黃叔璥</persName><persName type="9">huang shu
+                        <author key="person_6363"><persName xml:lang="chi">(清)黃叔璥</persName><persName type="9">huang shu
                               jing</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00002286|ons -->
@@ -81,7 +81,7 @@
                         <title>山右金石錄 一卷</title>
                         <title source="9">shan you jin shi lu</title>
                         <note source="290">(清)夏寶晉撰</note>
-                        <author key="person_3769"><persName>(清)夏寶晉</persName><persName type="9">xia bao
+                        <author key="person_3769"><persName xml:lang="chi">(清)夏寶晉</persName><persName type="9">xia bao
                            jin</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00002287|ons -->
@@ -92,7 +92,7 @@
                         <title>山右訪碑記 一卷</title>
                         <title source="9">shan you fang bei ji</title>
                         <note source="290">(清)魯燮光撰</note>
-                        <author key="person_6335"><persName>(清)魯燮光</persName><persName type="9">lu xie
+                        <author key="person_6335"><persName xml:lang="chi">(清)魯燮光</persName><persName type="9">lu xie
                               guang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00002288|ons -->
@@ -103,7 +103,7 @@
                         <title>山左訪碑錄 十三卷</title>
                         <title source="9">shan zuo fang bei lu</title>
                         <note source="290">(清)法偉堂撰</note>
-                        <author key="person_4912"><persName>(清)法偉堂</persName><persName type="9">fa wei
+                        <author key="person_4912"><persName xml:lang="chi">(清)法偉堂</persName><persName type="9">fa wei
                            tang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00002289|ons -->
@@ -114,7 +114,7 @@
                         <title>湘城訪古錄 一卷</title>
                         <title source="9">xiang cheng fang gu lu</title>
                         <note source="290">(清)陳運溶撰</note>
-                        <author key="person_6111"><persName>(清)陳運溶</persName><persName type="9">chen yun
+                        <author key="person_6111"><persName xml:lang="chi">(清)陳運溶</persName><persName type="9">chen yun
                               rong</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00002290|ons -->
@@ -125,7 +125,7 @@
                         <title>江西金石目 一卷</title>
                         <title source="9">jiang xi jin shi mu</title>
                         <note source="290">(清)繆荃孫撰</note>
-                        <author key="person_5321"><persName>(清)繆荃孫</persName><persName type="9">miao quan
+                        <author key="person_5321"><persName xml:lang="chi">(清)繆荃孫</persName><persName type="9">miao quan
                               sun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00002291|ons -->
@@ -136,7 +136,7 @@
                         <title>汧陽述古編金石篇 一卷</title>
                         <title source="9">qian yang shu gu bian jin shi pian</title>
                         <note source="290">(清)李嘉績撰</note>
-                        <author key="person_4471"><persName>(清)李嘉績</persName><persName type="9">li jia
+                        <author key="person_4471"><persName xml:lang="chi">(清)李嘉績</persName><persName type="9">li jia
                            ji</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00002292|ons -->

@@ -50,17 +50,17 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">景汲古閣鈔宋金詞七種</title>
+                     <title xml:lang="chi" source="#200">景汲古閣鈔宋金詞七種</title>
                      <title source="#200|9">ying ji gu ge chao song jin ci qi zhong</title>
                      <note source="#290">(民國)陶湘輯</note>
-                     <author source="#300" key="person_3216"><persName>(民國)陶湘</persName><persName type="9">tao
+                     <author source="#300" key="person_3216"><persName xml:lang="chi">(民國)陶湘</persName><persName type="9">tao
                            xiang</persName></author>
                      <note source="#409">民國陽湖陶氏影刊明毛氏鈔本</note>
                      <msItem n="2">
                         <title>菊軒樂府 一卷</title>
                         <title source="9">ju xuan yue fu</title>
                         <note source="290">(金)段成己撰</note>
-                        <author key="person_6661"><persName>(金)段成己</persName><persName type="9">duan cheng
+                        <author key="person_6661"><persName xml:lang="chi">(金)段成己</persName><persName type="9">duan cheng
                               ji</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20200121/00000050|odh -->
@@ -110,9 +110,9 @@
                         <title>和石湖詞 一卷</title>
                         <title source="9">he shi hu ci</title>
                         <note source="290">(宋)范成大, (宋)陳三聘撰</note>
-                        <author key="person_1532"><persName>(宋)范成大</persName><persName type="9">fan cheng
+                        <author key="person_1532"><persName xml:lang="chi">(宋)范成大</persName><persName type="9">fan cheng
                               da</persName></author>
-                        <author key="person_1729"><persName>(宋)陳三聘</persName><persName type="9">chen san
+                        <author key="person_1729"><persName xml:lang="chi">(宋)陳三聘</persName><persName type="9">chen san
                               pin</persName></author>
                      </msItem>
                   </msContents>
@@ -138,7 +138,7 @@
                         <title>東浦詞 一卷</title>
                         <title source="9">dong pu ci</title>
                         <note source="290">(宋)韓玉撰</note>
-                        <author key="person_1793"><persName>(宋)韓玉</persName><persName type="9">han
+                        <author key="person_1793"><persName xml:lang="chi">(宋)韓玉</persName><persName type="9">han
                            yu</persName></author>
                      </msItem>
                   </msContents>
@@ -164,7 +164,7 @@
                         <title>渭川居士詞 一卷</title>
                         <title source="9">wei chuan ju shi ci</title>
                         <note source="290">(宋)呂勝己撰</note>
-                        <author key="person_1041"><persName>(宋)呂勝己</persName><persName type="9">lu sheng
+                        <author key="person_1041"><persName xml:lang="chi">(宋)呂勝己</persName><persName type="9">lu sheng
                            ji</persName></author>
                      </msItem>
                   </msContents>
@@ -190,7 +190,7 @@
                         <title>初寮詞 一卷</title>
                         <title source="9">chu liao ci</title>
                         <note source="290">(宋)王安中撰</note>
-                        <author key="person_1417"><persName>(宋)王安中</persName><persName type="9">wang an
+                        <author key="person_1417"><persName xml:lang="chi">(宋)王安中</persName><persName type="9">wang an
                               zhong</persName></author>
                      </msItem>
                   </msContents>
@@ -216,7 +216,7 @@
                         <title>空同詞 一卷</title>
                         <title source="9">kong tong ci</title>
                         <note source="290">(宋)洪瑹撰</note>
-                        <author key="person_1383"><persName>(宋)洪瑹</persName><persName type="9">hong
+                        <author key="person_1383"><persName xml:lang="chi">(宋)洪瑹</persName><persName type="9">hong
                            tu</persName></author>
                      </msItem>
                   </msContents>
@@ -242,7 +242,7 @@
                         <title>知稼翁詞 一卷</title>
                         <title source="9">zhi jia weng ci</title>
                         <note source="290">(宋)黃公度撰</note>
-                        <author key="person_1823"><persName>(宋)黃公度</persName><persName type="9">huang gong
+                        <author key="person_1823"><persName xml:lang="chi">(宋)黃公度</persName><persName type="9">huang gong
                               du</persName></author>
                      </msItem>
                   </msContents>

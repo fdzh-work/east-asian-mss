@@ -46,8 +46,8 @@
                <head>書名: 舊約全書, 官話<lb/>新約全書, 官話<lb/>[London] : 聖書公會[印發], 1901<lb/>精裝1冊(2, 1226, 2, 408頁) : 地圖 ; 22.0公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem><editor source="#420" role="pbl"><persName>聖書公會</persName><persName type="9" role="pbl">sheng shu gong hui</persName></editor><msItem n="1">
-                  <title source="#200">舊約全書, 官話</title><title source="#200|9">jiu yue quan shu, guan hua</title></msItem>         
-               <msItem n="2"><title source="#201">新約全書, 官話</title><title source="#201|9">xin yue quan shu, guan hua</title></msItem></msItem></msContents>
+                  <title xml:lang="chi" source="#200">舊約全書, 官話</title><title source="#200|9">jiu yue quan shu, guan hua</title></msItem>         
+               <msItem n="2"><title xml:lang="chi" source="#201">新約全書, 官話</title><title source="#201|9">xin yue quan shu, guan hua</title></msItem></msItem></msContents>
                <physDesc>
                   
                   <p>Inscribed "Saml. B. Drake, 1904"</p><objectDesc>

@@ -46,7 +46,7 @@
                <head>書名: 書 六卷 / (宋)蔡沈集傳<lb/>清嘉慶戊寅年[1818]金陵芥子園刊本<lb/>線裝4冊 ; 27公分<lb/>牌子題「浙江李氏訂本金陵芥子園梓」<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">書 六卷</title><title source="#200|9">shu</title><note source="#290">(宋)蔡沈集傳</note><author source="#300" key="person_1572"><persName>(宋)蔡沈</persName><persName type="9">cai shen</persName></author><note source="#409">清嘉慶戊寅年[1818]金陵芥子園刊本</note><editor source="#440" role="pbl"><persName>芥子園</persName><persName type="9" role="pbl">jie zi yuan</persName></editor><note source="#600">牌子題「浙江李氏訂本金陵芥子園梓」</note></msItem>         
+                  <title xml:lang="chi" source="#200">書 六卷</title><title source="#200|9">shu</title><note source="#290">(宋)蔡沈集傳</note><author source="#300" key="person_1572"><persName xml:lang="chi">(宋)蔡沈</persName><persName type="9">cai shen</persName></author><note source="#409">清嘉慶戊寅年[1818]金陵芥子園刊本</note><editor source="#440" role="pbl"><persName>芥子園</persName><persName type="9" role="pbl">jie zi yuan</persName></editor><note source="#600">牌子題「浙江李氏訂本金陵芥子園梓」</note></msItem>         
                </msContents>
                <physDesc>
                   

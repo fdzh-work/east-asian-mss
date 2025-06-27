@@ -49,15 +49,15 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">春秋傳駮 一卷</title>
+                     <title xml:lang="chi" source="#200">春秋傳駮 一卷</title>
                      <title source="#200|9">chun qiu zhuan bo</title>
                      <note source="#290">(後魏)賈思同撰</note>
                      <note source="#290">(後魏)姚文安, (後魏)秦道靜述</note>
-                     <author source="#300" key="person_1901"><persName>(後魏)賈思同</persName><persName type="9">jia si
+                     <author source="#300" key="person_1901"><persName xml:lang="chi">(後魏)賈思同</persName><persName type="9">jia si
                            tong</persName></author>
-                     <author source="#300" key="person_1887"><persName>(後魏)姚文安</persName><persName type="9">yao wen
+                     <author source="#300" key="person_1887"><persName xml:lang="chi">(後魏)姚文安</persName><persName type="9">yao wen
                            an</persName></author>
-                     <author source="#300" key="person_1899"><persName>(後魏)秦道靜</persName><persName type="9">qin dao
+                     <author source="#300" key="person_1899"><persName xml:lang="chi">(後魏)秦道靜</persName><persName type="9">qin dao
                            jing</persName></author>
                   </msItem>
                </msContents>

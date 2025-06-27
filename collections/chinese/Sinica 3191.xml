@@ -47,10 +47,10 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">十五家年譜叢書</title>
+                     <title xml:lang="chi" source="#200">十五家年譜叢書</title>
                      <title source="#200|9">shi wu jia nian pu cong shu</title>
                      <note source="#290">(清)楊希閔編</note>
-                     <author source="#300" key="person_4676"><persName>(清)楊希閔</persName><persName type="9">yang xi
+                     <author source="#300" key="person_4676"><persName xml:lang="chi">(清)楊希閔</persName><persName type="9">yang xi
                            min</persName></author>
                      <note source="#409">清光緒中刊1962年揚州廣陵古籍刻印社重印本揚州市古舊書店藏板</note>
                      <editor source="#440" role="pbl"><persName>廣陵古籍刻印社</persName><persName type="9" role="pbl">guang ling gu ji ke yin she</persName></editor>

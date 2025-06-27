@@ -49,11 +49,11 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">萬邑西南山石刻記 二卷</title>
+                     <title xml:lang="chi" source="#200">萬邑西南山石刻記 二卷</title>
                      <title source="#200|9">wan yi xi nan shan shi ke ji</title>
-                     <title source="#200">坿 南浦郡報善寺兩唐碑釋文 一卷</title>
+                     <title xml:lang="chi" source="#200">坿 南浦郡報善寺兩唐碑釋文 一卷</title>
                      <title source="#200|9">nan pu jun bao shan si liang tang bei shi wen</title>
-                     <author source="#300" key="person_3151"><persName>(民國)況周頤</persName><persName type="9">kuang zhou
+                     <author source="#300" key="person_3151"><persName xml:lang="chi">(民國)況周頤</persName><persName type="9">kuang zhou
                            yi</persName></author>
                      <note source="#600">光緒癸卯[1903]西嚴講院刊</note>
                   </msItem>

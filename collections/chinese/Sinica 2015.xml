@@ -46,7 +46,7 @@
                <head>書名: 潮音神詩<lb/>香港 : 中華印務總局, 1873<lb/>線裝1冊(39頁) ; 20.0公分<lb/>By W C Burns<lb/>In Chaochow dialect<lb/>First edn<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">潮音神詩</title><title source="#200|9">chao yin shen shi</title><author source="#300" key="person_6796"><persName>Burns, William Chalmers</persName></author><editor source="#420" role="pbl"><persName>中華印務總局</persName><persName type="9" role="pbl">zhong hua yin wu zong ju</persName></editor><note source="#600">By W C Burns</note><note source="#600">In Chaochow dialect</note><note source="#600">First edn</note></msItem>         
+                  <title xml:lang="chi" source="#200">潮音神詩</title><title source="#200|9">chao yin shen shi</title><author source="#300" key="person_6796"><persName xml:lang="chi">Burns, William Chalmers</persName></author><editor source="#420" role="pbl"><persName>中華印務總局</persName><persName type="9" role="pbl">zhong hua yin wu zong ju</persName></editor><note source="#600">By W C Burns</note><note source="#600">In Chaochow dialect</note><note source="#600">First edn</note></msItem>         
                </msContents>
                <physDesc>
                   

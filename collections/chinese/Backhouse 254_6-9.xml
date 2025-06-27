@@ -49,20 +49,20 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">春秋繁露 十七卷</title>
+                     <title xml:lang="chi" source="#200">春秋繁露 十七卷</title>
                      <title source="#200|9">chun qiu fan lu</title>
                      <note source="#290">(漢)董仲舒撰</note>
                      <note source="#290">(清)淩曙注</note>
-                     <author source="#300" key="person_6583"><persName>(漢)董仲舒</persName><persName type="9">dong zhong
+                     <author source="#300" key="person_6583"><persName xml:lang="chi">(漢)董仲舒</persName><persName type="9">dong zhong
                            shu</persName></author>
-                     <author source="#300" key="person_4936"><persName>(清)淩曙</persName><persName type="9">ling
+                     <author source="#300" key="person_4936"><persName xml:lang="chi">(清)淩曙</persName><persName type="9">ling
                            shu</persName></author>
                   </msItem>
                   <msItem n="2">
-                     <title source="#201">春秋繁露陵注校正 十七卷</title>
+                     <title xml:lang="chi" source="#201">春秋繁露陵注校正 十七卷</title>
                      <title source="#201|9">chun qiu fan lu ling zhu jiao zheng</title>
                      <note source="#291">(清)張駒賢撰</note>
-                     <author source="#301" key="person_4125"><persName>(清)張駒賢</persName><persName type="9">zhang ju
+                     <author source="#301" key="person_4125"><persName xml:lang="chi">(清)張駒賢</persName><persName type="9">zhang ju
                            xian</persName></author>
                   </msItem>
                </msContents>

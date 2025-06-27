@@ -49,9 +49,9 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">左海經辨 二卷</title>
+                     <title xml:lang="chi" source="#200">左海經辨 二卷</title>
                      <title source="#200|9">zuo hai jing bian</title>
-                     <author source="#300" key="person_6023"><persName>(清)陳壽祺</persName><persName type="9">chen shou
+                     <author source="#300" key="person_6023"><persName xml:lang="chi">(清)陳壽祺</persName><persName type="9">chen shou
                            qi</persName></author>
                      <note source="#600">道光癸未[1823]刊</note>
                   </msItem>

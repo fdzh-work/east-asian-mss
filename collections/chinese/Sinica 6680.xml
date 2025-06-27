@@ -47,10 +47,10 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">石林遺書</title>
+                     <title xml:lang="chi" source="#200">石林遺書</title>
                      <title source="#200|9">shi lin yi shu</title>
                      <note source="#290">(宋)葉夢得撰</note>
-                     <author source="#300" key="person_1542"><persName>(宋)葉夢得</persName><persName type="9">ye meng
+                     <author source="#300" key="person_1542"><persName xml:lang="chi">(宋)葉夢得</persName><persName type="9">ye meng
                            de</persName></author>
                      <note source="#409">清光緒宣統間長沙葉德輝觀古堂刊本</note>
                      <note><list type="contained_items"><head>Contains: </head><item><ref target="volume_15344">Sinica 6680/1(1)</ref><title>避暑錄話 二卷</title> / <persName>(宋)葉夢得</persName></item><item><ref target="volume_15345">Sinica 6680/1(2)</ref><title>老子解 二卷</title> / <persName>(宋)葉夢得</persName></item><item><ref target="volume_15346">Sinica 6680/1(3)</ref><title>石林居士建康集 八卷</title> / <persName>(宋)葉夢得</persName></item><item><ref target="volume_15347">Sinica 6680/1(4)</ref><title>石林詩話 三卷拾遺一卷拾遺補一卷附錄一卷附錄補遺一卷</title> / <persName>(宋)葉夢得</persName></item><item><ref target="volume_15348">Sinica 6680/1(5)</ref><title>石林詞 一卷</title> / <persName>(宋)葉夢得</persName></item><item><ref target="volume_15349">Sinica 6680/2(1)</ref><title>玉澗襍書 一卷</title> / <persName>(宋)葉夢得</persName></item><item><ref target="volume_15350">Sinica 6680/2(2)</ref><title>巖下放言 三卷</title> / <persName>(宋)葉夢得</persName></item><item><ref target="volume_15351">Sinica 6680/2(3)</ref><title>石林家訓 一卷</title> / <persName>(宋)葉夢得</persName></item><item><ref target="volume_15352">Sinica 6680/2(4)</ref><title>石林治生家訓要略 一卷</title> / <persName>(宋)葉夢得</persName></item><item><ref target="volume_15353">Sinica 6680/2(5)</ref><title>禮記解 四卷</title> / <persName>(宋)葉夢得</persName></item><item><ref target="volume_15354">Sinica 6680/2(6)</ref></item><item><ref target="volume_15355">Sinica 6680/2(7)</ref><title>石林燕語辨 十卷</title> / <persName>(宋)葉夢得</persName></item></list></note></msItem>

@@ -49,15 +49,15 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">華氏中藏經 三卷</title>
+                     <title xml:lang="chi" source="#200">華氏中藏經 三卷</title>
                      <title source="#200|9">hua shi zhong zang jing</title>
                      <title type="variant" source="#230">中藏經</title>
                      <title source="#230|9" type="variant">zhong zang jing</title>
                      <note source="#290">(漢)華佗撰</note>
                      <note source="#290">(清)孫星衍校</note>
-                     <author source="#300" key="person_6582"><persName>(漢)華佗</persName><persName type="9">hua
+                     <author source="#300" key="person_6582"><persName xml:lang="chi">(漢)華佗</persName><persName type="9">hua
                            tuo</persName></author>
-                     <author source="#300" key="person_3855"><persName>(清)孫星衍</persName><persName type="9">sun xing
+                     <author source="#300" key="person_3855"><persName xml:lang="chi">(清)孫星衍</persName><persName type="9">sun xing
                            yan</persName></author>
                   </msItem>
                </msContents>

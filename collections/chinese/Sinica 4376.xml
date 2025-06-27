@@ -46,8 +46,8 @@
                <head>書名: 孔子小兒答歌<lb/>少年世間開化歌<lb/>民國四十九年[1960]臺北排印再版本竹林書局發行<lb/>毛裝1冊 ; 16公分<lb/>封面題名《孔子小兒答世間開化》<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem><editor source="#440" role="pbl"><persName>竹林書局</persName><persName type="9" role="pbl">zhu lin shu ju</persName></editor><note source="#409">民國四十九年[1960]臺北排印再版本竹林書局發行</note><note source="#600">封面題名《孔子小兒答世間開化》</note><msItem n="1">
-                  <title source="#200">孔子小兒答歌</title><title source="#200|9">kong zi xiao er da ge</title><title type="variant" source="#230">孔子小兒答世間開化</title><title source="#230|9" type="variant">kong zi xiao er da shi jian kai hua</title></msItem>         
-               <msItem n="2"><title source="#201">少年世間開化歌</title><title source="#201|9">shao nian shi jian kai hua ge</title></msItem></msItem></msContents>
+                  <title xml:lang="chi" source="#200">孔子小兒答歌</title><title source="#200|9">kong zi xiao er da ge</title><title type="variant" source="#230">孔子小兒答世間開化</title><title source="#230|9" type="variant">kong zi xiao er da shi jian kai hua</title></msItem>         
+               <msItem n="2"><title xml:lang="chi" source="#201">少年世間開化歌</title><title source="#201|9">shao nian shi jian kai hua ge</title></msItem></msItem></msContents>
                <physDesc>
                   
                   <objectDesc>

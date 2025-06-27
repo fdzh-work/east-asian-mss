@@ -46,7 +46,7 @@
                <head>書名: 以來者言行紀略 / 為仁女士纂<lb/>重鐫<lb/>新嘉坡 : 堅夏書院, 道光二十一年[1841]<lb/>線裝1冊(1, 12頁) ; 18.4公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">以來者言行紀略</title><title source="#200|9">yi lai zhe yan xing ji lue</title><note source="#290">為仁女士纂</note><author source="#300" key="person_6827"><persName>Dean, mrs</persName></author><editor source="#420" role="pbl"><persName>堅夏書院</persName><persName type="9" role="pbl">jian xia shu yuan</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">以來者言行紀略</title><title source="#200|9">yi lai zhe yan xing ji lue</title><note source="#290">為仁女士纂</note><author source="#300" key="person_6827"><persName xml:lang="chi">Dean, mrs</persName></author><editor source="#420" role="pbl"><persName>堅夏書院</persName><persName type="9" role="pbl">jian xia shu yuan</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

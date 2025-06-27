@@ -46,7 +46,7 @@
                <head>書名: 新山伯訪友 一卷<lb/>廣州廣文堂刊本<lb/>毛裝1冊 : 圖 ; 20公分<lb/>封面題名《山伯訪友》<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">新山伯訪友 一卷</title><title source="#200|9">xin shan bo fang you</title><title type="variant" source="#230">山伯訪友</title><title source="#230|9" type="variant">shan bo fang you</title><note source="#409">廣州廣文堂刊本</note><editor source="#440" role="pbl"><persName>廣文堂</persName><persName type="9" role="pbl">guang wen tang</persName></editor><note source="#600">封面題名《山伯訪友》</note></msItem>         
+                  <title xml:lang="chi" source="#200">新山伯訪友 一卷</title><title source="#200|9">xin shan bo fang you</title><title type="variant" source="#230">山伯訪友</title><title source="#230|9" type="variant">shan bo fang you</title><note source="#409">廣州廣文堂刊本</note><editor source="#440" role="pbl"><persName>廣文堂</persName><persName type="9" role="pbl">guang wen tang</persName></editor><note source="#600">封面題名《山伯訪友》</note></msItem>         
                </msContents>
                <physDesc>
                   

@@ -49,9 +49,9 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">古文尚書冤詞 八卷</title>
+                     <title xml:lang="chi" source="#200">古文尚書冤詞 八卷</title>
                      <title source="#200|9">gu wen shang shu yuan ci</title>
-                     <author source="#300" key="person_4742"><persName>(清)毛奇齡</persName><persName type="9">mao qi
+                     <author source="#300" key="person_4742"><persName xml:lang="chi">(清)毛奇齡</persName><persName type="9">mao qi
                            ling</persName></author>
                   </msItem>
                </msContents>

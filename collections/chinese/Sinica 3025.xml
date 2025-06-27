@@ -46,7 +46,7 @@
                <head>書名: 春秋穀梁傳 二十卷 / (晉)范甯集解 ; (唐)陸德明音義<lb/>清光緒十一年[1895]金陵書局重刊本<lb/>線裝2冊 ; 27公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">春秋穀梁傳 二十卷</title><title source="#200|9">chun qiu gu liang zhuan</title><note source="#290">(晉)范甯集解</note><note source="#290">(唐)陸德明音義</note><author source="#300" key="person_2954"><persName>(晉)范寧</persName><persName type="9">fan ning</persName></author><author source="#300" key="person_854"><persName>(唐)陸德明</persName><persName type="9">lu de ming</persName></author><note source="#409">清光緒十一年[1895]金陵書局重刊本</note><editor source="#440" role="pbl"><persName>金陵書局</persName><persName type="9" role="pbl">jin ling shu ju</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">春秋穀梁傳 二十卷</title><title source="#200|9">chun qiu gu liang zhuan</title><note source="#290">(晉)范甯集解</note><note source="#290">(唐)陸德明音義</note><author source="#300" key="person_2954"><persName xml:lang="chi">(晉)范寧</persName><persName type="9">fan ning</persName></author><author source="#300" key="person_854"><persName xml:lang="chi">(唐)陸德明</persName><persName type="9">lu de ming</persName></author><note source="#409">清光緒十一年[1895]金陵書局重刊本</note><editor source="#440" role="pbl"><persName>金陵書局</persName><persName type="9" role="pbl">jin ling shu ju</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

@@ -46,7 +46,7 @@
                <head>書名: 石渠餘紀 六卷 / (清)王慶雲撰<lb/>民國(?)刊本1980年代北京市中國書店重印本<lb/>線裝6冊 ; 29公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">石渠餘紀 六卷</title><title source="#200|9">shi qu yu ji</title><note source="#290">(清)王慶雲撰</note><author source="#300" key="person_5079"><persName>(清)王慶雲</persName><persName type="9">wang qing yun</persName></author><note source="#409">民國(?)刊本1980年代北京市中國書店重印本</note><editor source="#440" role="pbl"><persName>中國書店</persName><persName type="9" role="pbl">zhong guo shu dian</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">石渠餘紀 六卷</title><title source="#200|9">shi qu yu ji</title><note source="#290">(清)王慶雲撰</note><author source="#300" key="person_5079"><persName xml:lang="chi">(清)王慶雲</persName><persName type="9">wang qing yun</persName></author><note source="#409">民國(?)刊本1980年代北京市中國書店重印本</note><editor source="#440" role="pbl"><persName>中國書店</persName><persName type="9" role="pbl">zhong guo shu dian</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

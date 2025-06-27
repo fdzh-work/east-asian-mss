@@ -49,9 +49,9 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">元典章校補釋例 六卷</title>
+                     <title xml:lang="chi" source="#200">元典章校補釋例 六卷</title>
                      <title source="#200|9">yuan dian zhang jiao bu shi li</title>
-                     <author source="#300" key="person_7192"><persName>陳垣</persName><persName type="9">chen
+                     <author source="#300" key="person_7192"><persName xml:lang="chi">陳垣</persName><persName type="9">chen
                            yuan</persName></author>
                      <note source="#600">民國廿三年[1934]北平國立中央研究院歷史語言研究所刊</note>
                   </msItem>

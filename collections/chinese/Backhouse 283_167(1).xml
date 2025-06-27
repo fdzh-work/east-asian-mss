@@ -49,15 +49,15 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">三山鄭菊山先生清雋集 一卷</title>
+                     <title xml:lang="chi" source="#200">三山鄭菊山先生清雋集 一卷</title>
                      <title source="#200|9">san shan zheng ju shan xian sheng qing juan ji</title>
                      <title type="variant" source="#230">清雋集</title>
                      <title source="#230|9" type="variant">qing juan ji</title>
                      <note source="#290">(宋)鄭起撰</note>
                      <note source="#290">(元)仇遠選</note>
-                     <author source="#300" key="person_1716"><persName>(宋)鄭起</persName><persName type="9">zheng
+                     <author source="#300" key="person_1716"><persName xml:lang="chi">(宋)鄭起</persName><persName type="9">zheng
                            qi</persName></author>
-                     <author source="#300" key="person_52"><persName>(元)仇遠</persName><persName type="9">qiu
+                     <author source="#300" key="person_52"><persName xml:lang="chi">(元)仇遠</persName><persName type="9">qiu
                            yuan</persName></author>
                   </msItem>
                </msContents>

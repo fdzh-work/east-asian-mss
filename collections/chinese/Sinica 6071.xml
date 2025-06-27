@@ -46,7 +46,7 @@
                <head>書名: 新約全書 / 湛約翰, 韶瑪亭共譯<lb/>香港 : 文裕堂, 1897<lb/>洋裝(原線裝1冊(176頁) ; 20.5公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">新約全書</title><title source="#200|9">xin yue quan shu</title><note source="#290">湛約翰, 韶瑪亭共譯</note><author source="#300" key="person_6804"><persName>Chalmers, John</persName></author><author source="#300" key="person_7024"><persName>Schaub, Martin</persName></author><editor source="#420" role="pbl"><persName>文裕堂</persName><persName type="9" role="pbl">wen yu tang</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">新約全書</title><title source="#200|9">xin yue quan shu</title><note source="#290">湛約翰, 韶瑪亭共譯</note><author source="#300" key="person_6804"><persName xml:lang="chi">Chalmers, John</persName></author><author source="#300" key="person_7024"><persName xml:lang="chi">Schaub, Martin</persName></author><editor source="#420" role="pbl"><persName>文裕堂</persName><persName type="9" role="pbl">wen yu tang</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

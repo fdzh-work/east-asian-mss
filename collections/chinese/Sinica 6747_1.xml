@@ -49,13 +49,13 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">老子道德經 二卷</title>
+                     <title xml:lang="chi" source="#200">老子道德經 二卷</title>
                      <title source="#200|9">lao zi dao de jing</title>
                      <note source="#290">(周)李耳撰</note>
                      <note source="#290">(漢)河上公章句</note>
-                     <author source="#300" key="person_509"><persName>(周)李耳</persName><persName type="9">li
+                     <author source="#300" key="person_509"><persName xml:lang="chi">(周)李耳</persName><persName type="9">li
                            er</persName></author>
-                     <author source="#300" key="person_6559"><persName>(漢)河上公</persName><persName type="9">he shang
+                     <author source="#300" key="person_6559"><persName xml:lang="chi">(漢)河上公</persName><persName type="9">he shang
                            gong</persName></author>
                   </msItem>
                </msContents>

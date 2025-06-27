@@ -51,25 +51,25 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">弁山小隱吟稿 二卷</title>
+                     <title xml:lang="chi" source="#200">弁山小隱吟稿 二卷</title>
                      <title source="#200|9">bian shan xiao yin yin gao</title>
                      <note source="#290">(元)黃玠撰</note>
-                     <author source="#300" key="person_332"><persName>(元)黃玠</persName><persName type="9">huang
+                     <author source="#300" key="person_332"><persName xml:lang="chi">(元)黃玠</persName><persName type="9">huang
                            jie</persName></author>
                      <note source="#600">民國十二年[1923]﹑十七年[1928]﹑十三年[1924]刊</note>
                   </msItem>
                   <msItem n="2">
-                     <title source="#201">董禮部集 六卷尺牘二卷</title>
+                     <title xml:lang="chi" source="#201">董禮部集 六卷尺牘二卷</title>
                      <title source="#201|9">dong li bu ji</title>
                      <note source="#291">(明)董嗣成撰</note>
-                     <author source="#301" key="person_2556"><persName>(明)董嗣成</persName><persName type="9">dong si
+                     <author source="#301" key="person_2556"><persName xml:lang="chi">(明)董嗣成</persName><persName type="9">dong si
                            cheng</persName></author>
                   </msItem>
                   <msItem n="3">
-                     <title source="#202">靜嘯齋遺文 四卷</title>
+                     <title xml:lang="chi" source="#202">靜嘯齋遺文 四卷</title>
                      <title source="#202|9">jing xiao zhai yi wen</title>
                      <note source="#292">(明)董斯張撰</note>
-                     <author source="#302" key="person_2558"><persName>(明)董斯張</persName><persName type="9">dong si
+                     <author source="#302" key="person_2558"><persName xml:lang="chi">(明)董斯張</persName><persName type="9">dong si
                            zhang</persName></author>
                   </msItem>
                </msContents>

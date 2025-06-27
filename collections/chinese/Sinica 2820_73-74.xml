@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">程氏家塾讀書分年日程 三卷綱領一卷</title>
+                     <title xml:lang="chi" source="#200">程氏家塾讀書分年日程 三卷綱領一卷</title>
                      <title source="#200|9">cheng shi jia shu du shu fen nian ri cheng</title>
                      <note source="#290">(元)程端禮撰</note>
-                     <author source="#300" key="person_233"><persName>(元)程端禮</persName><persName type="9">cheng duan
+                     <author source="#300" key="person_233"><persName xml:lang="chi">(元)程端禮</persName><persName type="9">cheng duan
                            li</persName></author>
                   </msItem>
                </msContents>

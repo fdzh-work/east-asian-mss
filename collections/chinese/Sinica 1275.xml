@@ -46,7 +46,7 @@
                <head>書名: 真道問答 / 高德著<lb/>[Ningpo] : 寧波真神堂, 1854<lb/>線裝1冊(19頁) ; 17.9公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">真道問答</title><title source="#200|9">zhen dao wen da</title><note source="#290">高德著</note><author source="#300" key="person_6867"><persName>Goddard, Josiah</persName></author><editor source="#420" role="pbl"><persName>寧波真神堂</persName><persName type="9" role="pbl">ning bo zhen shen tang</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">真道問答</title><title source="#200|9">zhen dao wen da</title><note source="#290">高德著</note><author source="#300" key="person_6867"><persName xml:lang="chi">Goddard, Josiah</persName></author><editor source="#420" role="pbl"><persName>寧波真神堂</persName><persName type="9" role="pbl">ning bo zhen shen tang</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

@@ -49,14 +49,14 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">孝獻莊和至德宣仁温惠端敬皇后行狀 一卷附傳一卷</title>
+                     <title xml:lang="chi" source="#200">孝獻莊和至德宣仁温惠端敬皇后行狀 一卷附傳一卷</title>
                      <title source="#200|9">xiao xian zhuang he zhi de xuan ren wen hui duan jing
                         huang hou xing zhuang</title>
                      <note source="#290">(清)世祖撰</note>
                      <note source="#290">傳(清)金之俊撰</note>
-                     <author source="#300" key="person_3274"><persName>(清)世祖</persName><persName type="9">shi
+                     <author source="#300" key="person_3274"><persName xml:lang="chi">(清)世祖</persName><persName type="9">shi
                            zu</persName></author>
-                     <author source="#300" key="person_5877"><persName>(清)金之俊</persName><persName type="9">jin zhi
+                     <author source="#300" key="person_5877"><persName xml:lang="chi">(清)金之俊</persName><persName type="9">jin zhi
                            jun</persName></author>
                   </msItem>
                </msContents>

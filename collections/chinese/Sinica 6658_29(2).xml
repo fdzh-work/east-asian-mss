@@ -49,14 +49,14 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">御覽西方要紀 一卷</title>
+                     <title xml:lang="chi" source="#200">御覽西方要紀 一卷</title>
                      <title source="#200|9">yu lan xi fang yao ji</title>
                      <title type="variant" source="#230">西方要紀</title>
                      <title source="#230|9" type="variant">xi fang yao ji</title>
                      <note source="#290">(清西洋)利類思, (清西洋)安文思, (清西洋)南懷仁撰</note>
-                     <author source="#300" key="person_6791"><persName>Buglio, Luigi</persName></author>
-                     <author source="#300" key="person_6943"><persName>Magalhaens, Gabriel de</persName></author>
-                     <author source="#300" key="person_7066"><persName>Verbiest, Ferdinand</persName></author>
+                     <author source="#300" key="person_6791"><persName xml:lang="chi">Buglio, Luigi</persName></author>
+                     <author source="#300" key="person_6943"><persName xml:lang="chi">Magalhaens, Gabriel de</persName></author>
+                     <author source="#300" key="person_7066"><persName xml:lang="chi">Verbiest, Ferdinand</persName></author>
                   </msItem>
                </msContents>
                <physDesc>

@@ -49,12 +49,12 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">盧士元鉤喙錄 八卷</title>
+                     <title xml:lang="chi" source="#200">盧士元鉤喙錄 八卷</title>
                      <title source="#200|9">lu shi yuan kou hui lu</title>
                      <title type="variant" source="#230">鉤喙錄</title>
                      <title source="#230|9" type="variant">kou hui lu</title>
                      <note source="#290">(清)盧士元撰</note>
-                     <author source="#300" key="person_5208"><persName>(清)盧士元</persName><persName type="9">lu shi
+                     <author source="#300" key="person_5208"><persName xml:lang="chi">(清)盧士元</persName><persName type="9">lu shi
                            yuan</persName></author>
                   </msItem>
                </msContents>

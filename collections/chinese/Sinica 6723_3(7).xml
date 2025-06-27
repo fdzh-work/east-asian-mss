@@ -49,12 +49,12 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">元祐黨籍碑考 一卷</title>
+                     <title xml:lang="chi" source="#200">元祐黨籍碑考 一卷</title>
                      <title source="#200|9">yuan you dang ji bei kao</title>
-                     <title source="#200">慶元偽學逆黨籍 一卷</title>
+                     <title xml:lang="chi" source="#200">慶元偽學逆黨籍 一卷</title>
                      <title source="#200|9">qing yuan wei xue ni dang ji</title>
                      <note source="#290">(明)海瑞撰</note>
-                     <author source="#300" key="person_2399"><persName>(明)海瑞</persName><persName type="9">hai
+                     <author source="#300" key="person_2399"><persName xml:lang="chi">(明)海瑞</persName><persName type="9">hai
                            rui</persName></author>
                      <note source="#600">光緒丙戌[1886]刊</note>
                   </msItem>

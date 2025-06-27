@@ -48,17 +48,17 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">麗廔叢書</title>
+                     <title xml:lang="chi" source="#200">麗廔叢書</title>
                      <title source="#200|9">li lou cong shu</title>
                      <note source="#290">(民國)葉德輝輯</note>
-                     <author source="#300" key="person_3174"><persName>(民國)葉德輝</persName><persName type="9">ye de
+                     <author source="#300" key="person_3174"><persName xml:lang="chi">(民國)葉德輝</persName><persName type="9">ye de
                            hui</persName></author>
                      <note source="#409">清光緒中長沙葉氏刊本</note>
                      <msItem n="1">
                         <title>南嶽總勝集 三卷</title>
                         <title source="9">nan yue zong sheng ji</title>
                         <note source="290">(宋)陳田夫撰</note>
-                        <author key="person_1762"><persName>(宋)陳田夫</persName><persName type="9">chen tian
+                        <author key="person_1762"><persName xml:lang="chi">(宋)陳田夫</persName><persName type="9">chen tian
                               fu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180726/00000065|odh -->
@@ -69,7 +69,7 @@
                         <title>古今書刻 二卷</title>
                         <title source="9">gu jin shu ke</title>
                         <note source="290">(明)周弘祖撰</note>
-                        <author key="person_2086"><persName>(明)周弘祖</persName><persName type="9">zhou hong
+                        <author key="person_2086"><persName xml:lang="chi">(明)周弘祖</persName><persName type="9">zhou hong
                               zu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180726/00000066|odh -->
@@ -80,7 +80,7 @@
                         <title>古局象棊圖 一卷</title>
                         <title source="9">gu ju xiang qi tu</title>
                         <note source="290">(宋)司馬光撰</note>
-                        <author><persName>(宋)司馬光</persName><persName type="9">si ma
+                        <author><persName xml:lang="chi">(宋)司馬光</persName><persName type="9">si ma
                            guang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180726/00000067|odh -->
@@ -91,7 +91,7 @@
                         <title>投壼新格 一卷</title>
                         <title source="9">tao hu xin ge</title>
                         <note source="290">(宋)司馬光撰</note>
-                        <author><persName>(宋)司馬光</persName><persName type="9">si ma
+                        <author><persName xml:lang="chi">(宋)司馬光</persName><persName type="9">si ma
                            guang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180726/00000068|odh -->
@@ -102,7 +102,7 @@
                         <title>譜雙 五卷附錄一卷</title>
                         <title source="9">pu shuang</title>
                         <note source="290">(宋)洪遵撰</note>
-                        <author><persName>(宋)洪遵</persName><persName type="9">hong
+                        <author><persName xml:lang="chi">(宋)洪遵</persName><persName type="9">hong
                            zun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180726/00000069|odh -->
@@ -113,7 +113,7 @@
                         <title>打馬圖 一卷</title>
                         <title source="9">da ma tu</title>
                         <note source="290">(宋)李清照撰</note>
-                        <author key="person_1287"><persName>(宋)李清照</persName><persName type="9">li qing
+                        <author key="person_1287"><persName xml:lang="chi">(宋)李清照</persName><persName type="9">li qing
                               zhao</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180726/00000070|odh -->
@@ -124,7 +124,7 @@
                         <title>除紅譜 一卷</title>
                         <title source="9">chu hong pu</title>
                         <note source="290">題(宋)朱河撰</note>
-                        <author key="person_1248"><persName>(宋)朱河</persName><persName type="9">zhu
+                        <author key="person_1248"><persName xml:lang="chi">(宋)朱河</persName><persName type="9">zhu
                            he</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180726/00000071|odh -->
@@ -137,7 +137,7 @@
                         <title type="variant">魚玄機詩</title>
                         <title source="9" type="variant">yu xuan ji shi</title>
                         <note source="290">(唐)魚玄機撰</note>
-                        <author key="person_888"><persName>(唐)魚玄機</persName><persName type="9">yu xuan
+                        <author key="person_888"><persName xml:lang="chi">(唐)魚玄機</persName><persName type="9">yu xuan
                            ji</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20180726/00000072|odh -->

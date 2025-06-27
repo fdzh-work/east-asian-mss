@@ -50,26 +50,26 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">鬻子 一卷</title>
+                     <title xml:lang="chi" source="#200">鬻子 一卷</title>
                      <title source="#200|9">yu zi</title>
                      <note source="#290">(周)鬻熊撰</note>
                      <note source="#290">(唐)逢行珪注</note>
-                     <author source="#300" key="person_541"><persName>(周)鬻熊</persName><persName type="9">yu
+                     <author source="#300" key="person_541"><persName xml:lang="chi">(周)鬻熊</persName><persName type="9">yu
                            xiong</persName></author>
-                     <author source="#300" key="person_832"><persName>(唐)逢行珪</persName><persName type="9">feng xing
+                     <author source="#300" key="person_832"><persName xml:lang="chi">(唐)逢行珪</persName><persName type="9">feng xing
                            gui</persName></author>
                   </msItem>
                   <msItem n="2">
-                     <title source="#201">附 鬻子校勘記 一卷</title>
+                     <title xml:lang="chi" source="#201">附 鬻子校勘記 一卷</title>
                      <title source="#201|9">yu zi jiao kan ji</title>
                      <note source="#291">(清)錢熙祚撰</note>
-                     <author source="#301" key="person_5944"><persName>(清)錢熙祚</persName><persName type="9">qian xi
+                     <author source="#301" key="person_5944"><persName xml:lang="chi">(清)錢熙祚</persName><persName type="9">qian xi
                            zuo</persName></author>
                   </msItem>
                   <msItem n="3">
-                     <title source="#202">鬻子逸文 一卷</title>
+                     <title xml:lang="chi" source="#202">鬻子逸文 一卷</title>
                      <title source="#202|9">yu zi yi wen</title>
-                     <author source="#302" key="person_5944"><persName>(清)錢熙祚</persName><persName type="9">qian xi
+                     <author source="#302" key="person_5944"><persName xml:lang="chi">(清)錢熙祚</persName><persName type="9">qian xi
                            zuo</persName></author>
                   </msItem>
                </msContents>

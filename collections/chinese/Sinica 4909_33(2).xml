@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">通占大象曆星經 二卷</title>
+                     <title xml:lang="chi" source="#200">通占大象曆星經 二卷</title>
                      <title source="#200|9">tong zhan da xiang li xing jing</title>
                      <note source="#290">(漢)石申撰</note>
-                     <author source="#300" key="person_6576"><persName>(漢)石申</persName><persName type="9">shi
+                     <author source="#300" key="person_6576"><persName xml:lang="chi">(漢)石申</persName><persName type="9">shi
                            shen</persName></author>
                   </msItem>
                </msContents>

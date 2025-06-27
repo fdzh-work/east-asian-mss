@@ -49,11 +49,11 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">雲謠集雜曲子 一卷附校記一卷</title>
+                     <title xml:lang="chi" source="#200">雲謠集雜曲子 一卷附校記一卷</title>
                      <title source="#200|9">yun yao ji za qu zi</title>
                      <note source="#290">(唐)佚名撰</note>
                      <note source="#290">(民國)朱祖謀校</note>
-                     <author source="#300" key="person_3126"><persName>(民國)朱祖謀</persName><persName type="9">zhu zu
+                     <author source="#300" key="person_3126"><persName xml:lang="chi">(民國)朱祖謀</persName><persName type="9">zhu zu
                            mou</persName></author>
                   </msItem>
                </msContents>

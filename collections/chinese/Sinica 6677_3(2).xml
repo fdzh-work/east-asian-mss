@@ -49,16 +49,16 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">古禾雜識 四卷</title>
+                     <title xml:lang="chi" source="#200">古禾雜識 四卷</title>
                      <title source="#200|9">gu he za shi</title>
                      <note source="#290">(清)項映薇撰</note>
                      <note source="#290">(清)王壽補</note>
                      <note source="#290">(清)吳受福續補</note>
-                     <author source="#300" key="person_6201"><persName>(清)項映薇</persName><persName type="9">xiang ying
+                     <author source="#300" key="person_6201"><persName xml:lang="chi">(清)項映薇</persName><persName type="9">xiang ying
                            wei</persName></author>
-                     <author source="#300" key="person_5034"><persName>(清)王壽</persName><persName type="9">wang
+                     <author source="#300" key="person_5034"><persName xml:lang="chi">(清)王壽</persName><persName type="9">wang
                            shou</persName></author>
-                     <author source="#300" key="person_3543"><persName>(清)吳受福</persName><persName type="9">wu shou
+                     <author source="#300" key="person_3543"><persName xml:lang="chi">(清)吳受福</persName><persName type="9">wu shou
                            fu</persName></author>
                   </msItem>
                </msContents>

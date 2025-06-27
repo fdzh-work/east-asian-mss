@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">先聖生卒年月日考 二卷</title>
+                     <title xml:lang="chi" source="#200">先聖生卒年月日考 二卷</title>
                      <title source="#200|9">sheng xian sheng zu nian yue ri kao</title>
                      <note source="#290">(清)孔廣牧撰</note>
-                     <author source="#300" key="person_3815"><persName>(清)孔廣牧</persName><persName type="9">kong guang
+                     <author source="#300" key="person_3815"><persName xml:lang="chi">(清)孔廣牧</persName><persName type="9">kong guang
                            mu</persName></author>
                   </msItem>
                </msContents>

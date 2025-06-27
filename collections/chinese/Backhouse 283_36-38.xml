@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">歸潛志 十四卷附錄一卷</title>
+                     <title xml:lang="chi" source="#200">歸潛志 十四卷附錄一卷</title>
                      <title source="#200|9">gui qian zhi</title>
                      <note source="#290">(金)劉祁撰</note>
-                     <author source="#300" key="person_6653"><persName>(金)劉祁</persName><persName type="9">liu
+                     <author source="#300" key="person_6653"><persName xml:lang="chi">(金)劉祁</persName><persName type="9">liu
                            qi</persName></author>
                      <note source="#600">乾隆四十四年[1779]刊</note>
                   </msItem>

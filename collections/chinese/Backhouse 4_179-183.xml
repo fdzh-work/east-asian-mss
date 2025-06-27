@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">周官新義 十六卷附二卷</title>
+                     <title xml:lang="chi" source="#200">周官新義 十六卷附二卷</title>
                      <title source="#200|9">zhou guan xin yi</title>
                      <note source="#290">(宋)王安石撰</note>
-                     <author source="#300" key="person_1418"><persName>(宋)王安石</persName><persName type="9">wang an
+                     <author source="#300" key="person_1418"><persName xml:lang="chi">(宋)王安石</persName><persName type="9">wang an
                            shi</persName></author>
                   </msItem>
                </msContents>

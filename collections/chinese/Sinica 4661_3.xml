@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">黃帝五書</title>
+                     <title xml:lang="chi" source="#200">黃帝五書</title>
                      <title source="#200|9">huang di wu shu</title>
                      <note source="#290">(清)孫星衍校</note>
-                     <author source="#300" key="person_3855"><persName>(清)孫星衍</persName><persName type="9">sun xing
+                     <author source="#300" key="person_3855"><persName xml:lang="chi">(清)孫星衍</persName><persName type="9">sun xing
                            yan</persName></author>
                   </msItem>
                </msContents>
@@ -175,7 +175,7 @@
                         <title>廣黃帝本行記 一卷</title>
                         <title source="9">guang huang di ben xing ji</title>
                         <note source="290">(唐)王瓘撰</note>
-                        <author key="person_762"><persName>(唐)王瓘</persName><persName type="9">wang
+                        <author key="person_762"><persName xml:lang="chi">(唐)王瓘</persName><persName type="9">wang
                            guan</persName></author>
                      </msItem>
                   </msContents>

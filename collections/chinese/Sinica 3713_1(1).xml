@@ -50,10 +50,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">先天集 十卷附錄二卷補遺一卷</title>
+                     <title xml:lang="chi" source="#200">先天集 十卷附錄二卷補遺一卷</title>
                      <title source="#200|9">xian tian ji</title>
                      <note source="#290">(宋)許月卿撰</note>
-                     <author source="#300" key="person_1614"><persName>(宋)許月卿</persName><persName type="9">xu yue
+                     <author source="#300" key="person_1614"><persName xml:lang="chi">(宋)許月卿</persName><persName type="9">xu yue
                            qing</persName></author>
                      <note source="#600">民國十二年[1923]刊</note>
                   </msItem>

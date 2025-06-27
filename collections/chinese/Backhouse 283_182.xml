@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">庶齋老學叢談 三卷</title>
+                     <title xml:lang="chi" source="#200">庶齋老學叢談 三卷</title>
                      <title source="#200|9">shu zhai lao xue cong tan</title>
                      <note source="#290">(元)盛如梓撰</note>
-                     <author source="#300" key="person_225"><persName>(元)盛如梓</persName><persName type="9">sheng ru
+                     <author source="#300" key="person_225"><persName xml:lang="chi">(元)盛如梓</persName><persName type="9">sheng ru
                            zi</persName></author>
                      <note source="#600">嘉慶十年[1805]刊</note>
                   </msItem>

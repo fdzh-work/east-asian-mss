@@ -47,10 +47,10 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">惜抱軒全集</title>
+                     <title xml:lang="chi" source="#200">惜抱軒全集</title>
                      <title source="#200|9">xi bao xuan quan ji</title>
                      <note source="#290">(清)姚鼐撰</note>
-                     <author source="#300" key="person_3805"><persName>(清)姚鼐</persName><persName type="9">yao
+                     <author source="#300" key="person_3805"><persName xml:lang="chi">(清)姚鼐</persName><persName type="9">yao
                            nai</persName></author>
                      <note source="#409">清同治丙寅[1866]省心閣刊本</note>
                      <editor source="#440" role="pbl"><persName>省心閣</persName><persName type="9" role="pbl">xing xin ge</persName></editor>

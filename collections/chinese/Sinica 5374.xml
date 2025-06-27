@@ -46,7 +46,7 @@
                <head>書名: 走南陽<lb/>廣州 : 七株榕榮記工場[發行], [1920或1930年代?]<lb/>平裝1冊(24頁) ; 19公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">走南陽</title><title source="#200|9">zou nan yang</title><editor source="#420" role="pbl"><persName>七株榕榮記工場</persName><persName type="9" role="pbl">qi zhu rong rong ji gong chang</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">走南陽</title><title source="#200|9">zou nan yang</title><editor source="#420" role="pbl"><persName>七株榕榮記工場</persName><persName type="9" role="pbl">qi zhu rong rong ji gong chang</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

@@ -50,13 +50,13 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">壽親養老新書 四卷</title>
+                     <title xml:lang="chi" source="#200">壽親養老新書 四卷</title>
                      <title source="#200|9">shou qin yang lao xin shu</title>
                      <note source="#290">(宋)陳直撰</note>
                      <note source="#290">(元)鄒鉉續編</note>
-                     <author source="#300" key="person_1763"><persName>(宋)陳直</persName><persName type="9">chen
+                     <author source="#300" key="person_1763"><persName xml:lang="chi">(宋)陳直</persName><persName type="9">chen
                            zhi</persName></author>
-                     <author source="#300" key="person_290"><persName>(元)鄒鉉</persName><persName type="9">zou
+                     <author source="#300" key="person_290"><persName xml:lang="chi">(元)鄒鉉</persName><persName type="9">zou
                            xuan</persName></author>
                   </msItem>
                </msContents>

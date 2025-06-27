@@ -46,7 +46,7 @@
                <head>書名: 警世論<lb/>[1873]<lb/>Single sheet ; 23.9 x 24.0公分<lb/>By A Williamson<lb/>In Mandarin dialect<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">警世論</title><title source="#200|9">jing shi lun</title><author source="#300" key="person_7083"><persName>Williamson, Alexander</persName></author><note source="#600">By A Williamson</note><note source="#600">In Mandarin dialect</note></msItem>         
+                  <title xml:lang="chi" source="#200">警世論</title><title source="#200|9">jing shi lun</title><author source="#300" key="person_7083"><persName xml:lang="chi">Williamson, Alexander</persName></author><note source="#600">By A Williamson</note><note source="#600">In Mandarin dialect</note></msItem>         
                </msContents>
                <physDesc>
                   

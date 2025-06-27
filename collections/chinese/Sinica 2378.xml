@@ -46,7 +46,7 @@
                <head>書名: 天路指明 / 楊格非著<lb/>漢鎮 [Hankow], 1884<lb/>線裝1冊(2, 31頁) ; 20.1公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">天路指明</title><title source="#200|9">tian lu zhi ming</title><note source="#290">楊格非著</note><author source="#300" key="person_6903"><persName>John, Griffith</persName></author></msItem>         
+                  <title xml:lang="chi" source="#200">天路指明</title><title source="#200|9">tian lu zhi ming</title><note source="#290">楊格非著</note><author source="#300" key="person_6903"><persName xml:lang="chi">John, Griffith</persName></author></msItem>         
                </msContents>
                <physDesc>
                   

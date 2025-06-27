@@ -49,9 +49,9 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">易說 二卷</title>
+                     <title xml:lang="chi" source="#200">易說 二卷</title>
                      <title source="#200|9">yi shuo</title>
-                     <author source="#300" key="person_3598"><persName>(清)吳汝綸</persName><persName type="9">wu ru
+                     <author source="#300" key="person_3598"><persName xml:lang="chi">(清)吳汝綸</persName><persName type="9">wu ru
                            lun</persName></author>
                   </msItem>
                </msContents>

@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">喪服鄭氏學 十六卷</title>
+                     <title xml:lang="chi" source="#200">喪服鄭氏學 十六卷</title>
                      <title source="#200|9">sang fu zheng shi xue</title>
                      <note source="#290">(民國)張錫恭撰</note>
-                     <author source="#300" key="person_3111"><persName>(民國)張錫恭</persName><persName type="9">zhang xi
+                     <author source="#300" key="person_3111"><persName xml:lang="chi">(民國)張錫恭</persName><persName type="9">zhang xi
                            gong</persName></author>
                      <note source="#600">民國戊午[1918]刊</note>
                   </msItem>

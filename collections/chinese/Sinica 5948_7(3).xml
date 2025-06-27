@@ -49,13 +49,13 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">述書賦 二卷</title>
+                     <title xml:lang="chi" source="#200">述書賦 二卷</title>
                      <title source="#200|9">shu shu fu</title>
                      <note source="#290">(唐)竇臮撰</note>
                      <note source="#290">(唐)竇蒙註</note>
-                     <author source="#300" key="person_781"><persName>(唐)竇臮</persName><persName type="9">dou
+                     <author source="#300" key="person_781"><persName xml:lang="chi">(唐)竇臮</persName><persName type="9">dou
                            ji</persName></author>
-                     <author source="#300" key="person_782"><persName>(唐)竇蒙</persName><persName type="9">dou
+                     <author source="#300" key="person_782"><persName xml:lang="chi">(唐)竇蒙</persName><persName type="9">dou
                            meng</persName></author>
                   </msItem>
                </msContents>

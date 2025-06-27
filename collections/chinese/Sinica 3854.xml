@@ -50,10 +50,10 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">暖紅室彙刻臨川四夢</title>
+                     <title xml:lang="chi" source="#200">暖紅室彙刻臨川四夢</title>
                      <title source="#200|9">nuan hong shi hui ke lin chuan si meng</title>
                      <note source="#290">(民國)劉世珩輯</note>
-                     <author source="#300" key="person_3073"><persName>(民國)劉世珩</persName><persName type="9">liu shi
+                     <author source="#300" key="person_3073"><persName xml:lang="chi">(民國)劉世珩</persName><persName type="9">liu shi
                            heng</persName></author>
                      <note source="#409">民國八年[1919]貴池劉氏暖紅室刊1981年揚州江蘇廣陵古籍刻印社重印《彙刻傳劇》本</note>
                      <editor source="#440" role="pbl"><persName>暖紅室</persName><persName type="9" role="pbl">nuan hong shi</persName></editor>
@@ -67,14 +67,14 @@
                            <title type="variant">還魂記</title>
                            <title source="9" type="variant">huan hun ji</title>
                            <note source="290">(明)湯顯祖撰</note>
-                           <author key="person_2403"><persName>(明)湯顯祖</persName><persName type="9">tang xian
+                           <author key="person_2403"><persName xml:lang="chi">(明)湯顯祖</persName><persName type="9">tang xian
                                  zu</persName></author>
                         </msItem>
                         <msItem n="2">
                            <title>附 格正還魂記詞調 二卷</title>
                            <title type="9">ge zheng huan hun ji ci diao</title>
                            <note source="#291">(清)鈕少雅撰</note>
-                           <author key="person_5904"><persName>(清)鈕少雅</persName><persName type="9">niu shao
+                           <author key="person_5904"><persName xml:lang="chi">(清)鈕少雅</persName><persName type="9">niu shao
                                  ya</persName></author>
                         </msItem>
                         <!--Unused allegro fields-->
@@ -87,7 +87,7 @@
                         <title type="variant">南柯記</title>
                         <title source="9" type="variant">nan ke ji</title>
                         <note source="290">(明)湯顯祖撰</note>
-                        <author key="person_2403"><persName>(明)湯顯祖</persName><persName type="9">tang xian
+                        <author key="person_2403"><persName xml:lang="chi">(明)湯顯祖</persName><persName type="9">tang xian
                               zu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00002724|ons -->
@@ -99,7 +99,7 @@
                         <title type="variant">紫釵記</title>
                         <title source="9" type="variant">zi chai ji</title>
                         <note source="290">(明)湯顯祖撰</note>
-                        <author key="person_2403"><persName>(明)湯顯祖</persName><persName type="9">tang xian
+                        <author key="person_2403"><persName xml:lang="chi">(明)湯顯祖</persName><persName type="9">tang xian
                               zu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00002725|ons -->
@@ -111,7 +111,7 @@
                         <title type="variant">邯鄲記</title>
                         <title source="9" type="variant">han dan ji</title>
                         <note source="290">(明)湯顯祖撰</note>
-                        <author key="person_2403"><persName>(明)湯顯祖</persName><persName type="9">tang xian
+                        <author key="person_2403"><persName xml:lang="chi">(明)湯顯祖</persName><persName type="9">tang xian
                               zu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20000101/00002726|ons -->

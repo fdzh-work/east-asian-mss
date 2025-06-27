@@ -47,10 +47,10 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">連筠簃叢書</title>
+                     <title xml:lang="chi" source="#200">連筠簃叢書</title>
                      <title source="#200|9">lian yun yi cong shu</title>
                      <note source="#290">(清)楊尚文編</note>
-                     <author source="#300"><persName>(清)楊尚文</persName><persName type="9">yang shan
+                     <author source="#300"><persName xml:lang="chi">(清)楊尚文</persName><persName type="9">yang shan
                            wen</persName></author>
                      <note source="#409">清道光二十七至二十九年[1847-1849]靈石楊氏刊本</note>
                      <note source="#600">缺《說文解字義證》﹑《永樂大典目錄》兩種</note>

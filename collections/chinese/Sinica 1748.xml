@@ -46,7 +46,7 @@
                <head>書名: 三字經新增註解<lb/>寧波, 1846<lb/>線裝1冊(43頁) ; 23.8公分<lb/>Title at beginning of text「三字經註解」<lb/>By W H Medhurst, with commentary by D B McCartee<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">三字經新增註解</title><title source="#200|9">san zi jing xin zeng zhu jie</title><title type="variant" source="#230">三字經註解</title><title source="#230|9" type="variant">san zi jing zhu jie</title><author source="#300" key="person_6963"><persName>Medhurst, Walter Henry</persName></author><author source="#300" key="person_6958"><persName>McCartee, Divie Bethune</persName></author><note source="#600">Title at beginning of text「三字經註解」</note><note source="#600">By W H Medhurst, with commentary by D B McCartee</note></msItem>         
+                  <title xml:lang="chi" source="#200">三字經新增註解</title><title source="#200|9">san zi jing xin zeng zhu jie</title><title type="variant" source="#230">三字經註解</title><title source="#230|9" type="variant">san zi jing zhu jie</title><author source="#300" key="person_6963"><persName xml:lang="chi">Medhurst, Walter Henry</persName></author><author source="#300" key="person_6958"><persName xml:lang="chi">McCartee, Divie Bethune</persName></author><note source="#600">Title at beginning of text「三字經註解」</note><note source="#600">By W H Medhurst, with commentary by D B McCartee</note></msItem>         
                </msContents>
                <physDesc>
                   

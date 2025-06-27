@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">楚漢諸侯疆域志 三卷</title>
+                     <title xml:lang="chi" source="#200">楚漢諸侯疆域志 三卷</title>
                      <title source="#200|9">chu han zhu hou jiang yu zhi</title>
                      <note source="#290">(清)劉文淇撰</note>
-                     <author source="#300" key="person_3446"><persName>(清)劉文淇</persName><persName type="9">liu wen
+                     <author source="#300" key="person_3446"><persName xml:lang="chi">(清)劉文淇</persName><persName type="9">liu wen
                            qi</persName></author>
                      <note source="#600">光緒丁亥[1887]刊</note>
                   </msItem>

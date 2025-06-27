@@ -49,12 +49,12 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">亦致堂重修考古圖 十卷</title>
+                     <title xml:lang="chi" source="#200">亦致堂重修考古圖 十卷</title>
                      <title source="#200|9">yi zhi tang chong xiu kao gu tu</title>
                      <title type="variant" source="#230">考古圖</title>
                      <title source="#230|9" type="variant">kao gu tu</title>
                      <note source="#290">(宋)呂大臨撰</note>
-                     <author source="#300" key="person_1047"><persName>(宋)呂大臨</persName><persName type="9">lu da
+                     <author source="#300" key="person_1047"><persName xml:lang="chi">(宋)呂大臨</persName><persName type="9">lu da
                            lin</persName></author>
                   </msItem>
                </msContents>

@@ -46,7 +46,7 @@
                <head>書名: Kong tao so : I'ang-tse t'u-wa fan-yih<lb/>London : Society for Promoting Christian Knowledge, 1876<lb/>精裝1冊(vii, 99頁) ; 21.5公分<lb/>Tr. by G E Moule<lb/>In romanised Hangchow dialect<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">Kong tao so : I'ang-tse t'u-wa fan-yih</title><author source="#300" key="person_6975"><persName>Moule, George Evans</persName></author><editor source="#420" role="pbl"><persName>Society for Promoting Christian Knowledge</persName></editor><note source="#600">Tr. by G E Moule</note><note source="#600">In romanised Hangchow dialect</note></msItem>         
+                  <title xml:lang="chi" source="#200">Kong tao so : I'ang-tse t'u-wa fan-yih</title><author source="#300" key="person_6975"><persName xml:lang="chi">Moule, George Evans</persName></author><editor source="#420" role="pbl"><persName>Society for Promoting Christian Knowledge</persName></editor><note source="#600">Tr. by G E Moule</note><note source="#600">In romanised Hangchow dialect</note></msItem>         
                </msContents>
                <physDesc>
                   

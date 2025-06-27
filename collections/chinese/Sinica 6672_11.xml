@@ -49,13 +49,13 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">淮南鴻烈解 二十一卷</title>
+                     <title xml:lang="chi" source="#200">淮南鴻烈解 二十一卷</title>
                      <title source="#200|9">huai nan hong lie jie</title>
                      <note source="#290">(漢)劉安撰</note>
                      <note source="#290">(漢)高誘注</note>
-                     <author source="#300" key="person_6489"><persName>(漢)劉安</persName><persName type="9">liu
+                     <author source="#300" key="person_6489"><persName xml:lang="chi">(漢)劉安</persName><persName type="9">liu
                            an</persName></author>
-                     <author source="#300" key="person_6623"><persName>(漢)高誘</persName><persName type="9">gao
+                     <author source="#300" key="person_6623"><persName xml:lang="chi">(漢)高誘</persName><persName type="9">gao
                            you</persName></author>
                   </msItem>
                </msContents>

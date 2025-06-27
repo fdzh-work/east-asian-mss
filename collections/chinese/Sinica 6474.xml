@@ -46,7 +46,7 @@
                <head>書名: 真理課選 / 沙惟廉, 貝多馬仝校定<lb/>漢口 : 聖教書局, 1889<lb/>線裝1冊(various pagings) ; 19.7公分<lb/>Contains 初課～十課, first published separately<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">真理課選</title><title source="#200|9">zhen li ke xuan</title><note source="#290">沙惟廉, 貝多馬仝校定</note><author source="#300" key="person_7151"><persName>沙惟廉</persName><persName type="9">sha wei lian</persName></author><author source="#300" key="person_7180"><persName>貝多馬</persName><persName type="9">bei duo ma</persName></author><editor source="#420" role="pbl"><persName>聖教書局</persName><persName type="9" role="pbl">sheng jiao shu ju</persName></editor><note source="#600">Contains 初課～十課, first published separately</note></msItem>         
+                  <title xml:lang="chi" source="#200">真理課選</title><title source="#200|9">zhen li ke xuan</title><note source="#290">沙惟廉, 貝多馬仝校定</note><author source="#300" key="person_7151"><persName xml:lang="chi">沙惟廉</persName><persName type="9">sha wei lian</persName></author><author source="#300" key="person_7180"><persName xml:lang="chi">貝多馬</persName><persName type="9">bei duo ma</persName></author><editor source="#420" role="pbl"><persName>聖教書局</persName><persName type="9" role="pbl">sheng jiao shu ju</persName></editor><note source="#600">Contains 初課～十課, first published separately</note></msItem>         
                </msContents>
                <physDesc>
                   

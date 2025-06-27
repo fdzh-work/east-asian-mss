@@ -50,12 +50,12 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">顏真卿韻海鏡源 一卷</title>
+                     <title xml:lang="chi" source="#200">顏真卿韻海鏡源 一卷</title>
                      <title source="#200|9">yan zhen qing yun hai jing yuan</title>
                      <title type="variant" source="#230">韻海鏡源</title>
                      <title source="#230|9" type="variant">yun hai jing yuan</title>
                      <note source="#290">(唐)顏真卿撰</note>
-                     <author source="#300" key="person_874"><persName>(唐)顏真卿</persName><persName type="9">yan zhen
+                     <author source="#300" key="person_874"><persName xml:lang="chi">(唐)顏真卿</persName><persName type="9">yan zhen
                            qing</persName></author>
                   </msItem>
                </msContents>

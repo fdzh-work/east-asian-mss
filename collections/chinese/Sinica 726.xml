@@ -46,7 +46,7 @@
                <head>書名: 隋書 八十五卷 / (唐)魏徵, (唐)長孫無忌等奉敕撰<lb/>明崇禎八年[1635]毛氏汲古閣刊鈔補本<lb/>線裝20冊 ; 26公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">隋書 八十五卷</title><title source="#200|9">sui shu</title><note source="#290">(唐)魏徵, (唐)長孫無忌等奉敕撰</note><author source="#300" key="person_887"><persName>(唐)魏徵</persName><persName type="9">wei zheng</persName></author><author source="#300" key="person_845"><persName>(唐)長孫無忌</persName><persName type="9">zhang sun wu ji</persName></author><note source="#409">明崇禎八年[1635]毛氏汲古閣刊鈔補本</note><editor source="#440" role="pbl"><persName>汲古閣</persName><persName type="9" role="pbl">ji gu ge</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">隋書 八十五卷</title><title source="#200|9">sui shu</title><note source="#290">(唐)魏徵, (唐)長孫無忌等奉敕撰</note><author source="#300" key="person_887"><persName xml:lang="chi">(唐)魏徵</persName><persName type="9">wei zheng</persName></author><author source="#300" key="person_845"><persName xml:lang="chi">(唐)長孫無忌</persName><persName type="9">zhang sun wu ji</persName></author><note source="#409">明崇禎八年[1635]毛氏汲古閣刊鈔補本</note><editor source="#440" role="pbl"><persName>汲古閣</persName><persName type="9" role="pbl">ji gu ge</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

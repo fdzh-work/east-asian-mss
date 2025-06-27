@@ -46,7 +46,7 @@
                <head>書名: 曲律 四卷 / (明)王驥德撰<lb/>民國六年[1917]武進董氏誦芬室刊一九八六年[?]北京市中國書店重印本殘損版以影印配補<lb/>線裝2冊 ; 28公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">曲律 四卷</title><title source="#200|9">qu lu</title><note source="#290">(明)王驥德撰</note><author source="#300" key="person_2467"><persName>(明)王驥德</persName><persName type="9">wang ji de</persName></author><note source="#409">民國六年[1917]武進董氏誦芬室刊一九八六年[?]北京市中國書店重印本殘損版以影印配補</note><editor source="#440" role="pbl"><persName>董康</persName><persName type="9" role="pbl">dong kang</persName></editor><editor source="#440" role="pbl"><persName>中國書店</persName><persName type="9" role="pbl">zhong guo shu dian</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">曲律 四卷</title><title source="#200|9">qu lu</title><note source="#290">(明)王驥德撰</note><author source="#300" key="person_2467"><persName xml:lang="chi">(明)王驥德</persName><persName type="9">wang ji de</persName></author><note source="#409">民國六年[1917]武進董氏誦芬室刊一九八六年[?]北京市中國書店重印本殘損版以影印配補</note><editor source="#440" role="pbl"><persName>董康</persName><persName type="9" role="pbl">dong kang</persName></editor><editor source="#440" role="pbl"><persName>中國書店</persName><persName type="9" role="pbl">zhong guo shu dian</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

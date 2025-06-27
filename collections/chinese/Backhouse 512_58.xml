@@ -49,7 +49,7 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">袁家三妹合稿</title>
+                     <title xml:lang="chi" source="#200">袁家三妹合稿</title>
                      <title source="#200|9">yuan jia san mei he gao</title>
                   </msItem>
                </msContents>
@@ -96,7 +96,7 @@
                         <title>樓居小草 一卷</title>
                         <title source="9">lou ju xiao cao</title>
                         <note source="290">(清)袁杼撰</note>
-                        <author key="person_5624"><persName>(清)袁杼</persName><persName type="9">yuan
+                        <author key="person_5624"><persName xml:lang="chi">(清)袁杼</persName><persName type="9">yuan
                            zhu</persName></author>
                      </msItem>
                   </msContents>
@@ -123,7 +123,7 @@
                         <title>繡餘吟稿 一卷</title>
                         <title source="9">xiu yu yin gao</title>
                         <note source="290">(清)袁棠撰</note>
-                        <author key="person_5627"><persName>(清)袁棠</persName><persName type="9">yuan
+                        <author key="person_5627"><persName xml:lang="chi">(清)袁棠</persName><persName type="9">yuan
                            tang</persName></author>
                      </msItem>
                   </msContents>
@@ -149,7 +149,7 @@
                         <title>盈書閣遺稿 一卷</title>
                         <title source="9">ying shu ge yi gao</title>
                         <note source="290">(清)袁棠撰</note>
-                        <author key="person_5627"><persName>(清)袁棠</persName><persName type="9">yuan
+                        <author key="person_5627"><persName xml:lang="chi">(清)袁棠</persName><persName type="9">yuan
                            tang</persName></author>
                      </msItem>
                   </msContents>
@@ -175,7 +175,7 @@
                         <title>素文女子遺稿 一卷</title>
                         <title source="9">su wen nu zi yi gao</title>
                         <note source="290">(清)袁機撰</note>
-                        <author key="person_5629"><persName>(清)袁機</persName><persName type="9">yuan
+                        <author key="person_5629"><persName xml:lang="chi">(清)袁機</persName><persName type="9">yuan
                            ji</persName></author>
                      </msItem>
                   </msContents>

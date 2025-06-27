@@ -46,7 +46,7 @@
                <head>書名: 蕩子歸家<lb/>[Shanghai] : 中國聖教書會 = Chinese Religious Tract Society, [1883]<lb/>Single sheet ; 22.7 x 14.7公分<lb/>By A E Moule?<lb/>No.12, The prodigal son<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">蕩子歸家</title><title source="#200|9">dang zi gui jia</title><title type="variant" source="#230">The prodigal son</title><author source="#300" key="person_6972"><persName>Moule, Arthur Evans</persName></author><editor source="#420" role="pbl"><persName>中國聖教書會 = Chinese Religious Tract Society</persName><persName type="9" role="pbl">zhong guo sheng jiao shu hui</persName></editor><note source="#600">By A E Moule?</note><note source="#600">No.12, The prodigal son</note></msItem>         
+                  <title xml:lang="chi" source="#200">蕩子歸家</title><title source="#200|9">dang zi gui jia</title><title type="variant" source="#230">The prodigal son</title><author source="#300" key="person_6972"><persName xml:lang="chi">Moule, Arthur Evans</persName></author><editor source="#420" role="pbl"><persName>中國聖教書會 = Chinese Religious Tract Society</persName><persName type="9" role="pbl">zhong guo sheng jiao shu hui</persName></editor><note source="#600">By A E Moule?</note><note source="#600">No.12, The prodigal son</note></msItem>         
                </msContents>
                <physDesc>
                   

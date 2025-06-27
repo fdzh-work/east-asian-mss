@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">後村詩話 前集二卷後集二卷續集四卷新集六卷</title>
+                     <title xml:lang="chi" source="#200">後村詩話 前集二卷後集二卷續集四卷新集六卷</title>
                      <title source="#200|9">hou cun shi hua</title>
                      <note source="#290">(宋)劉克莊撰</note>
-                     <author source="#300" key="person_965"><persName>(宋)劉克莊</persName><persName type="9">liu ke
+                     <author source="#300" key="person_965"><persName xml:lang="chi">(宋)劉克莊</persName><persName type="9">liu ke
                            zhuang</persName></author>
                      <note source="#600">民國癸丑[1913]刊</note>
                   </msItem>

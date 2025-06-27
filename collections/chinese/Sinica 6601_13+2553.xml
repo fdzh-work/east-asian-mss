@@ -50,10 +50,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">地球推方圖說 一卷</title>
+                     <title xml:lang="chi" source="#200">地球推方圖說 一卷</title>
                      <title source="#200|9">di qiu tui fang tu shuo</title>
                      <note source="#290">(美國)培端撰</note>
-                     <author source="#300" key="person_6958"><persName>McCartee, Divie Bethune</persName></author>
+                     <author source="#300" key="person_6958"><persName xml:lang="chi">McCartee, Divie Bethune</persName></author>
                   </msItem>
                </msContents>
                <physDesc>

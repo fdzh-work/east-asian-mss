@@ -49,12 +49,12 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">楊鐵崖史義拾遺 一卷</title>
+                     <title xml:lang="chi" source="#200">楊鐵崖史義拾遺 一卷</title>
                      <title source="#200|9">yang tie ya shi yi shi yi</title>
                      <title type="variant" source="#230">史義拾遺</title>
                      <title source="#230|9" type="variant">shi yi shi yi</title>
                      <note source="#290">(元)楊維禎撰</note>
-                     <author source="#300" key="person_180"><persName>(元)楊維楨</persName><persName type="9">yang wei
+                     <author source="#300" key="person_180"><persName xml:lang="chi">(元)楊維楨</persName><persName type="9">yang wei
                            zhen</persName></author>
                   </msItem>
                </msContents>

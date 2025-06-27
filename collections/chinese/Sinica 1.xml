@@ -46,7 +46,7 @@
                <head>書名: 大學 一卷 ; 中庸 一卷 ; 論語 存卷一至五有缺 / (宋)朱熹章句集注<lb/>明萬曆中鰲峯堂刊本<lb/>線裝2冊 ; 26公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">大學 一卷</title><title source="#200|9">da xue</title><title source="#200">中庸 一卷</title><title source="#200|9">zhong yong</title><title source="#200">論語 存卷一至五有缺</title><title source="#200|9">lun yu</title><note source="#290">(宋)朱熹章句集注</note><author source="#300" key="person_1250"><persName>(宋)朱熹</persName><persName type="9">zhu xi</persName></author><note source="#409">明萬曆中鰲峯堂刊本</note><editor source="#440" role="pbl"><persName>鰲峯堂</persName><persName type="9" role="pbl">ao feng tang</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">大學 一卷</title><title source="#200|9">da xue</title><title xml:lang="chi" source="#200">中庸 一卷</title><title source="#200|9">zhong yong</title><title xml:lang="chi" source="#200">論語 存卷一至五有缺</title><title source="#200|9">lun yu</title><note source="#290">(宋)朱熹章句集注</note><author source="#300" key="person_1250"><persName xml:lang="chi">(宋)朱熹</persName><persName type="9">zhu xi</persName></author><note source="#409">明萬曆中鰲峯堂刊本</note><editor source="#440" role="pbl"><persName>鰲峯堂</persName><persName type="9" role="pbl">ao feng tang</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">南史 八十卷</title>
+                     <title xml:lang="chi" source="#200">南史 八十卷</title>
                      <title source="#200|9">nan shi</title>
                      <note source="#290">(唐)李延壽撰</note>
-                     <author source="#300" key="person_677"><persName>(唐)李延壽</persName><persName type="9">li yan
+                     <author source="#300" key="person_677"><persName xml:lang="chi">(唐)李延壽</persName><persName type="9">li yan
                            shou</persName></author>
                      <note source="#600">同治十一年[1872]金陵書局重刊汲古閣本</note>
                   </msItem>

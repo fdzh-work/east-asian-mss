@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">南齊書 五十九卷</title>
+                     <title xml:lang="chi" source="#200">南齊書 五十九卷</title>
                      <title source="#200|9">nan qi shu</title>
                      <note source="#290">(梁)蕭子顯撰</note>
-                     <author source="#300"><persName>(梁)蕭子顯</persName><persName type="9">xiao zi
+                     <author source="#300"><persName xml:lang="chi">(梁)蕭子顯</persName><persName type="9">xiao zi
                            xian</persName></author>
                      <note source="#600">同治十一年[1872]金陵書局重刊汲古閣本</note>
                   </msItem>

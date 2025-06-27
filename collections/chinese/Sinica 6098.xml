@@ -48,10 +48,10 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">石經彙函</title>
+                     <title xml:lang="chi" source="#200">石經彙函</title>
                      <title source="#200|9">shi jing hui han</title>
                      <note source="#290">(清)王秉恩編</note>
-                     <author source="#300" key="person_5126"><persName>(清)王秉恩</persName><persName type="9">wang bing
+                     <author source="#300" key="person_5126"><persName xml:lang="chi">(清)王秉恩</persName><persName type="9">wang bing
                            en</persName></author>
                      <note source="#409">清光緒庚寅[1890]四川尊經書局刊本</note>
                      <editor source="#440" role="pbl"><persName>尊經書局</persName><persName type="9" role="pbl">zun jing shu ju</persName></editor>
@@ -59,7 +59,7 @@
                         <title>石經考 一卷</title>
                         <title source="9">shi jing kao</title>
                         <note source="290">(清)顧炎武撰</note>
-                        <author key="person_6227"><persName>(清)顧炎武</persName><persName type="9">gu yan
+                        <author key="person_6227"><persName xml:lang="chi">(清)顧炎武</persName><persName type="9">gu yan
                            wu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140129/14:48:43|odh -->
@@ -69,7 +69,7 @@
                         <title>石經考異 二卷</title>
                         <title source="9">shi jing kao yi</title>
                         <note source="290">(清)杭世駿撰</note>
-                        <author key="person_4574"><persName>(清)杭世駿</persName><persName type="9">hang shi
+                        <author key="person_4574"><persName xml:lang="chi">(清)杭世駿</persName><persName type="9">hang shi
                               jun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140129/14:49:20|odh -->
@@ -79,7 +79,7 @@
                         <title>漢石經殘字考 一卷</title>
                         <title source="9">han shi jing can zi kao</title>
                         <note source="290">(清)翁方綱撰</note>
-                        <author key="person_5340"><persName>(清)翁方綱</persName><persName type="9">weng fang
+                        <author key="person_5340"><persName xml:lang="chi">(清)翁方綱</persName><persName type="9">weng fang
                               gang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140129/14:50:26|odh -->
@@ -89,7 +89,7 @@
                         <title>魏三體石經遺字考 一卷</title>
                         <title source="9">wei san ti shi jing yi zi kao</title>
                         <note source="290">(清)孫星衍撰</note>
-                        <author key="person_3855"><persName>(清)孫星衍</persName><persName type="9">sun xing
+                        <author key="person_3855"><persName xml:lang="chi">(清)孫星衍</persName><persName type="9">sun xing
                               yan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140129/14:51:25|odh -->
@@ -99,7 +99,7 @@
                         <title>唐石經校文 十卷</title>
                         <title source="9">tang shi jing jiao wen</title>
                         <note source="290">(清)嚴可均纂</note>
-                        <author key="person_3751"><persName>(清)嚴可均</persName><persName type="9">yan ke
+                        <author key="person_3751"><persName xml:lang="chi">(清)嚴可均</persName><persName type="9">yan ke
                            jun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140129/14:52:38|odh -->
@@ -109,7 +109,7 @@
                         <title>後蜀毛詩石經殘本 一卷</title>
                         <title source="9">hou shu mao shi shi jing can ben</title>
                         <note source="290">(清)王昶撰</note>
-                        <author key="person_5096"><persName>(清)王昶</persName><persName type="9">wang
+                        <author key="person_5096"><persName xml:lang="chi">(清)王昶</persName><persName type="9">wang
                            chang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140129/14:53:47|odh -->
@@ -119,7 +119,7 @@
                         <title>北宋汴學二體石經記 一卷</title>
                         <title source="9">bei song bian xue er ti shi jing ji</title>
                         <note source="290">(清)丁晏撰</note>
-                        <author key="person_3254"><persName>(清)丁晏</persName><persName type="9">ding
+                        <author key="person_3254"><persName xml:lang="chi">(清)丁晏</persName><persName type="9">ding
                            yan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140129/14:55:02|odh -->
@@ -129,7 +129,7 @@
                         <title>石經考文提要 十三卷</title>
                         <title source="9">shi jing kao wen ti yao</title>
                         <note source="290">(清)彭元瑞撰</note>
-                        <author key="person_4139"><persName>(清)彭元瑞</persName><persName type="9">peng yuan
+                        <author key="person_4139"><persName xml:lang="chi">(清)彭元瑞</persName><persName type="9">peng yuan
                               rui</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140129/14:56:46|odh -->
@@ -139,7 +139,7 @@
                         <title>石經補攷 十一卷</title>
                         <title source="9">shi jing bu kao</title>
                         <note source="290">(清)馮登府纂</note>
-                        <author key="person_6284"><persName>(清)馮登府</persName><persName type="9">feng deng
+                        <author key="person_6284"><persName xml:lang="chi">(清)馮登府</persName><persName type="9">feng deng
                               fu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140129/14:58:03|odh -->
@@ -149,7 +149,7 @@
                         <title>儀禮石經校勘記 四卷</title>
                         <title source="9">yi li shi jing jiao kan ji</title>
                         <note source="290">(清)阮元撰</note>
-                        <author key="person_5987"><persName>(清)阮元</persName><persName type="9">ruan
+                        <author key="person_5987"><persName xml:lang="chi">(清)阮元</persName><persName type="9">ruan
                            yuan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140129/14:59:07|odh -->

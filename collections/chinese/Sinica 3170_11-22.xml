@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">毛詩傳箋通釋 三十二卷</title>
+                     <title xml:lang="chi" source="#200">毛詩傳箋通釋 三十二卷</title>
                      <title source="#200|9">mao shi zhuan jian tong shi</title>
                      <note source="#290">(清)馬瑞辰撰</note>
-                     <author source="#300" key="person_6266"><persName>(清)馬瑞辰</persName><persName type="9">ma rui
+                     <author source="#300" key="person_6266"><persName xml:lang="chi">(清)馬瑞辰</persName><persName type="9">ma rui
                            chen</persName></author>
                      <note source="#600">光緒十四年[1888]刊</note>
                   </msItem>

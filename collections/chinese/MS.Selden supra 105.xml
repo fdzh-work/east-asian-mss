@@ -46,7 +46,7 @@
                <head>書名: 東西洋航海圖<lb/>明末寫本<lb/>1張 ; 154 x 96公分<lb/>英文題名《The Selden Map of China》<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">東西洋航海圖</title><title source="#200|9">dong xi yang hang hai tu</title><title type="variant" source="#230">Selden Map of China</title><note source="#409">明末寫本</note><note source="#600">英文題名《The Selden Map of China》</note></msItem>         
+                  <title xml:lang="chi" source="#200">東西洋航海圖</title><title source="#200|9">dong xi yang hang hai tu</title><title type="variant" source="#230">Selden Map of China</title><note source="#409">明末寫本</note><note source="#600">英文題名《The Selden Map of China》</note></msItem>         
                </msContents>
                <physDesc>
                   

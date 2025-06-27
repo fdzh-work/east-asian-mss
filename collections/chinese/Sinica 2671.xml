@@ -48,10 +48,10 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">貨園叢書 殘五種</title>
+                     <title xml:lang="chi" source="#200">貨園叢書 殘五種</title>
                      <title source="#200|9">huo yuan cong shu</title>
                      <note source="#290">(清)周永年編</note>
-                     <author source="#300" key="person_3700"><persName>(清)周永年</persName><persName type="9">zhou yong
+                     <author source="#300" key="person_3700"><persName xml:lang="chi">(清)周永年</persName><persName type="9">zhou yong
                            nian</persName></author>
                      <note source="#409">清乾隆中李文藻潮陽刊本</note>
                      <msItem n="1">
@@ -61,9 +61,9 @@
                         <title source="9">shi yun ju li</title>
                         <note source="290">(清)江永編</note>
                         <note source="290">(清)戴震參定</note>
-                        <author key="person_4766"><persName>(清)江永</persName><persName type="9">jiang
+                        <author key="person_4766"><persName xml:lang="chi">(清)江永</persName><persName type="9">jiang
                            yong</persName></author>
-                        <author key="person_4277"><persName>(清)戴震</persName><persName type="9">dai
+                        <author key="person_4277"><persName xml:lang="chi">(清)戴震</persName><persName type="9">dai
                            zhen</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140814/16:07:13|odh -->
@@ -74,7 +74,7 @@
                         <title>四聲切韻表 一卷</title>
                         <title source="9">si sheng qie yun biao</title>
                         <note source="290">(清)江永編</note>
-                        <author key="person_4766"><persName>(清)江永</persName><persName type="9">jiang
+                        <author key="person_4766"><persName xml:lang="chi">(清)江永</persName><persName type="9">jiang
                            yong</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140814/16:08:57|odh -->
@@ -85,7 +85,7 @@
                         <title>聲韻考 四卷</title>
                         <title source="9">sheng yun kao</title>
                         <note source="290">(清)戴震撰</note>
-                        <author key="person_4277"><persName>(清)戴震</persName><persName type="9">dai
+                        <author key="person_4277"><persName xml:lang="chi">(清)戴震</persName><persName type="9">dai
                            zhen</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140814/16:10:55|odh -->
@@ -97,7 +97,7 @@
                         <title>石刻鋪敘 二卷</title>
                         <title source="9">shi ke pu xu</title>
                         <note source="290">(宋)曾宏父撰</note>
-                        <author key="person_1235"><persName>(宋)曾宏父</persName><persName type="9">zeng hong
+                        <author key="person_1235"><persName xml:lang="chi">(宋)曾宏父</persName><persName type="9">zeng hong
                               fu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140814/16:18:20|odh -->
@@ -108,7 +108,7 @@
                         <title>三事忠告 四卷</title>
                         <title source="9">san shi zhong gao</title>
                         <note source="290">(元)張養浩撰</note>
-                        <author key="person_123"><persName>(元)張養浩</persName><persName type="9">zhang yang
+                        <author key="person_123"><persName xml:lang="chi">(元)張養浩</persName><persName type="9">zhang yang
                               hao</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20140814/16:19:29|odh -->
@@ -118,7 +118,7 @@
                         <msItem n="1">
                            <title>牧民忠告 二卷</title>
                            <title source="9">mu min zhong gao</title>
-                           <author key="person_123"><persName>(元)張養浩</persName><persName type="9">zhang yang
+                           <author key="person_123"><persName xml:lang="chi">(元)張養浩</persName><persName type="9">zhang yang
                                  hao</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20140814/16:20:50|odh -->
@@ -128,7 +128,7 @@
                         <msItem n="2">
                            <title>風憲忠告 一卷</title>
                            <title source="9">feng xian zhong gao</title>
-                           <author key="person_123"><persName>(元)張養浩</persName><persName type="9">zhang yang
+                           <author key="person_123"><persName xml:lang="chi">(元)張養浩</persName><persName type="9">zhang yang
                                  hao</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20140814/16:21:47|odh -->
@@ -138,7 +138,7 @@
                         <msItem n="3">
                            <title>廟堂忠告 一卷</title>
                            <title source="9">miao tang zhong gao</title>
-                           <author key="person_123"><persName>(元)張養浩</persName><persName type="9">zhang yang
+                           <author key="person_123"><persName xml:lang="chi">(元)張養浩</persName><persName type="9">zhang yang
                                  hao</persName></author>
                            <!--Unused allegro fields-->
                            <!-- #000: 20140814/16:22:20|odh -->

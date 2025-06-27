@@ -49,7 +49,7 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">抱朴子附篇</title>
+                     <title xml:lang="chi" source="#200">抱朴子附篇</title>
                      <title source="#200|9">bao pu zi fu pian</title>
                      <note source="#600">光緒十五年[1889]朱氏行素堂校刊</note>
                   </msItem>
@@ -100,7 +100,7 @@
                         <title>抱朴子外篇校勘記 一卷</title>
                         <title source="9">bao pu zi wai pian jiao kan ji</title>
                         <note source="290">(清)繼昌撰</note>
-                        <author key="person_5322"><persName>(清)繼昌</persName><persName type="9">ji
+                        <author key="person_5322"><persName xml:lang="chi">(清)繼昌</persName><persName type="9">ji
                            chang</persName></author>
                      </msItem>
                   </msContents>
@@ -130,7 +130,7 @@
                         <title source="9">bao pu zi wai pian yi wen</title>
                         <note source="290">(晉)葛洪撰</note>
                         <note source="290">(清)佚名輯</note>
-                        <author key="person_2960"><persName>(晉)葛洪</persName><persName type="9">ge
+                        <author key="person_2960"><persName xml:lang="chi">(晉)葛洪</persName><persName type="9">ge
                            hong</persName></author>
                      </msItem>
                   </msContents>
@@ -158,7 +158,7 @@
                         <title source="9">bao pu zi shen xian jin zhuo jing</title>
                         <note source="290">(晉)葛洪撰</note>
                         <note source="290">(清)佚名輯</note>
-                        <author key="person_2960"><persName>(晉)葛洪</persName><persName type="9">ge
+                        <author key="person_2960"><persName xml:lang="chi">(晉)葛洪</persName><persName type="9">ge
                            hong</persName></author>
                      </msItem>
                   </msContents>
@@ -187,7 +187,7 @@
                         <title source="9">bao pu zi yang sheng lun</title>
                         <note source="290">(晉)葛洪撰</note>
                         <note source="290">(清)佚名輯</note>
-                        <author key="person_2960"><persName>(晉)葛洪</persName><persName type="9">ge
+                        <author key="person_2960"><persName xml:lang="chi">(晉)葛洪</persName><persName type="9">ge
                            hong</persName></author>
                      </msItem>
                   </msContents>
@@ -215,7 +215,7 @@
                         <title source="9">da dan wen da</title>
                         <note source="290">(晉)葛洪撰</note>
                         <note source="290">(清)佚名輯</note>
-                        <author key="person_2960"><persName>(晉)葛洪</persName><persName type="9">ge
+                        <author key="person_2960"><persName xml:lang="chi">(晉)葛洪</persName><persName type="9">ge
                            hong</persName></author>
                      </msItem>
                   </msContents>
@@ -244,7 +244,7 @@
                         <title source="9">bao pu zi bie zhi</title>
                         <note source="290">(晉)葛洪撰</note>
                         <note source="290">(清)佚名輯</note>
-                        <author key="person_2960"><persName>(晉)葛洪</persName><persName type="9">ge
+                        <author key="person_2960"><persName xml:lang="chi">(晉)葛洪</persName><persName type="9">ge
                            hong</persName></author>
                      </msItem>
                   </msContents>

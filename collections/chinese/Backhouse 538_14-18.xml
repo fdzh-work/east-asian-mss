@@ -49,13 +49,13 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">南華真經注疏 十卷</title>
+                     <title xml:lang="chi" source="#200">南華真經注疏 十卷</title>
                      <title source="#200|9">nan hua zhen jing zhu shu</title>
                      <note source="#290">(晉)郭象注</note>
                      <note source="#290">(唐)成玄英疏</note>
-                     <author source="#300" key="person_2987"><persName>(晉)郭象</persName><persName type="9">guo
+                     <author source="#300" key="person_2987"><persName xml:lang="chi">(晉)郭象</persName><persName type="9">guo
                            xiang</persName></author>
-                     <author source="#300" key="person_654"><persName>(唐)成玄英</persName><persName type="9">cheng xuan
+                     <author source="#300" key="person_654"><persName xml:lang="chi">(唐)成玄英</persName><persName type="9">cheng xuan
                            ying</persName></author>
                      <note source="#600">景刊宋本</note>
                   </msItem>

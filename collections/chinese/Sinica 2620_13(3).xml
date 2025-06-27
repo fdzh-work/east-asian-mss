@@ -50,20 +50,20 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">徵刻唐宋祕本書目 一卷</title>
+                     <title xml:lang="chi" source="#200">徵刻唐宋祕本書目 一卷</title>
                      <title source="#200|9">zheng ke tang song mi ben shu mu</title>
                      <note source="#290">(清)黃虞稷, 周在淩同撰</note>
-                     <author source="#300" key="person_6410"><persName>(清)黃虞稷</persName><persName type="9">huang yu
+                     <author source="#300" key="person_6410"><persName xml:lang="chi">(清)黃虞稷</persName><persName type="9">huang yu
                            ji</persName></author>
-                     <author source="#300" key="person_7111"><persName>周在淩</persName><persName type="9">zhou zai
+                     <author source="#300" key="person_7111"><persName xml:lang="chi">周在淩</persName><persName type="9">zhou zai
                            ling</persName></author>
                      <note source="#600">光緒三十四年[1908]刊</note>
                   </msItem>
                   <msItem n="2">
-                     <title source="#201">徵刻唐宋祕本書目考證 一卷</title>
+                     <title xml:lang="chi" source="#201">徵刻唐宋祕本書目考證 一卷</title>
                      <title source="#201|9">zheng ke tang song mi ben shu mu kao zheng</title>
                      <note source="#291">(民國)葉德輝撰</note>
-                     <author source="#301" key="person_3174"><persName>(民國)葉德輝</persName><persName type="9">ye de
+                     <author source="#301" key="person_3174"><persName xml:lang="chi">(民國)葉德輝</persName><persName type="9">ye de
                            hui</persName></author>
                   </msItem>
                </msContents>

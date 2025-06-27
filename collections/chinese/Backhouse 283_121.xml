@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">皇宋書錄 三卷</title>
+                     <title xml:lang="chi" source="#200">皇宋書錄 三卷</title>
                      <title source="#200|9">huang song shu lu</title>
                      <note source="#290">(宋)董史撰</note>
-                     <author source="#300" key="person_1558"><persName>(宋)董史</persName><persName type="9">dong
+                     <author source="#300" key="person_1558"><persName xml:lang="chi">(宋)董史</persName><persName type="9">dong
                            shi</persName></author>
                      <note source="#600">乾隆五十九年[1794]刊</note>
                   </msItem>

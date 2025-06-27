@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">尚書誼略 二十八卷敘錄一卷</title>
+                     <title xml:lang="chi" source="#200">尚書誼略 二十八卷敘錄一卷</title>
                      <title source="#200|9">shang shu yi lue</title>
                      <note source="#290">(民國)姚永樸撰</note>
-                     <author source="#300" key="person_3089"><persName>(民國)姚永樸</persName><persName type="9">yao yong
+                     <author source="#300" key="person_3089"><persName xml:lang="chi">(民國)姚永樸</persName><persName type="9">yao yong
                            pu</persName></author>
                      <note source="#600">光緒乙巳[1905]刊</note>
                   </msItem>

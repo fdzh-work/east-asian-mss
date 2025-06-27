@@ -49,10 +49,10 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">當歸草堂醫學叢書初編</title>
+                     <title xml:lang="chi" source="#200">當歸草堂醫學叢書初編</title>
                      <title source="#200|9">dang gui cao tang yi xue cong shu chu bian</title>
                      <note source="#290">(清)丁丙輯</note>
-                     <author source="#300" key="person_3242"><persName>(清)丁丙</persName><persName type="9">ding
+                     <author source="#300" key="person_3242"><persName xml:lang="chi">(清)丁丙</persName><persName type="9">ding
                            bing</persName></author>
                      <note source="#409">清光緒戊寅[1878]錢塘丁氏當歸草堂刊1982年江蘇廣陵古籍刻印社重印本</note>
                      <editor source="#440" role="pbl"><persName>江蘇廣陵古籍刻印社</persName><persName type="9" role="pbl">jiang su guang ling gu ji ke yin
@@ -69,7 +69,7 @@
                         <title>傳信適用方 四卷</title>
                         <title source="9">chuan xin shi yong fang</title>
                         <note source="290">(宋)吳彥夔撰</note>
-                        <author key="person_1019"><persName>(宋)吳彥夔</persName><persName type="9">wu yan
+                        <author key="person_1019"><persName xml:lang="chi">(宋)吳彥夔</persName><persName type="9">wu yan
                            kui</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20200117/13:05:16|odh -->
@@ -104,7 +104,7 @@
                         <title>濟生方 八卷</title>
                         <title source="9">ji sheng fang</title>
                         <note source="290">(宋)嚴用和撰</note>
-                        <author key="person_1081"><persName>(宋)嚴用和</persName><persName type="9">yan yong
+                        <author key="person_1081"><persName xml:lang="chi">(宋)嚴用和</persName><persName type="9">yan yong
                            he</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20200117/13:13:10|odh -->
@@ -130,7 +130,7 @@
                         <title>瑞竹堂經驗方 五卷補遺一卷</title>
                         <title source="9">rui zhu tang jing yan fang</title>
                         <note source="290">(元)沙圖穆蘇撰</note>
-                        <author key="person_193"><persName>(元)沙圖穆蘇</persName><persName type="9">sha tu mu
+                        <author key="person_193"><persName xml:lang="chi">(元)沙圖穆蘇</persName><persName type="9">sha tu mu
                               su</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20200117/13:17:49|odh -->
@@ -140,7 +140,7 @@
                         <title>痎瘧論疏 一卷</title>
                         <title source="9">jie nue lun shu</title>
                         <note source="290">(明)盧之頤撰</note>
-                        <author key="person_2478"><persName>(明)盧之頤</persName><persName type="9">lu zhi
+                        <author key="person_2478"><persName xml:lang="chi">(明)盧之頤</persName><persName type="9">lu zhi
                            yi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20200117/13:19:15|odh -->

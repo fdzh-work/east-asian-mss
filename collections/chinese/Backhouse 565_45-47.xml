@@ -49,13 +49,13 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">李長吉歌詩 四卷外一卷</title>
+                     <title xml:lang="chi" source="#200">李長吉歌詩 四卷外一卷</title>
                      <title source="#200|9">li chang ji ge shi</title>
                      <note source="#290">(唐)李賀撰</note>
                      <note source="#290">(宋)吳正子箋註</note>
-                     <author source="#300" key="person_707"><persName>(唐)李賀</persName><persName type="9">li
+                     <author source="#300" key="person_707"><persName xml:lang="chi">(唐)李賀</persName><persName type="9">li
                            he</persName></author>
-                     <author source="#300" key="person_1025"><persName>(宋)吳正子</persName><persName type="9">wu zheng
+                     <author source="#300" key="person_1025"><persName xml:lang="chi">(宋)吳正子</persName><persName type="9">wu zheng
                            zi</persName></author>
                   </msItem>
                </msContents>

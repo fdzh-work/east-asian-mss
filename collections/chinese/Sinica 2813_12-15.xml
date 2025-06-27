@@ -49,13 +49,13 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">潛夫論 十卷</title>
+                     <title xml:lang="chi" source="#200">潛夫論 十卷</title>
                      <title source="#200|9">qian fu lun</title>
                      <note source="#290">(漢)王符撰</note>
                      <note source="#290">(清)汪繼培箋</note>
-                     <author source="#300" key="person_6565"><persName>(漢)王符</persName><persName type="9">wang
+                     <author source="#300" key="person_6565"><persName xml:lang="chi">(漢)王符</persName><persName type="9">wang
                            fu</persName></author>
-                     <author source="#300" key="person_4820"><persName>(清)汪繼培</persName><persName type="9">wang ji
+                     <author source="#300" key="person_4820"><persName xml:lang="chi">(清)汪繼培</persName><persName type="9">wang ji
                            pei</persName></author>
                      <note source="#600">嘉慶二十二年[1817]刊</note>
                   </msItem>

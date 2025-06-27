@@ -46,8 +46,8 @@
                <head>書名: 唐書 二百二十五卷 / (宋)歐陽修, (宋)宋祁奉敕撰<lb/>唐書釋音 二十五卷 / (宋)董衝撰<lb/>元大德中刊明清遞修本<lb/>線裝96冊 ; 29公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem><note source="#409">元大德中刊明清遞修本</note><msItem n="1">
-                  <title source="#200">唐書 二百二十五卷</title><title source="#200|9">tang shu</title><note source="#290">(宋)歐陽修, (宋)宋祁奉敕撰</note><author source="#300" key="person_1349"><persName>(宋)歐陽修</persName><persName type="9">ou yang xiu</persName></author><author source="#300" key="person_1118"><persName>(宋)宋祁</persName><persName type="9">song qi</persName></author></msItem>         
-               <msItem n="2"><title source="#201">唐書釋音 二十五卷</title><title source="#201|9">tang shu shi yin</title><note source="#291">(宋)董衝撰</note><author source="#301" key="person_1563"><persName>(宋)董衝</persName><persName type="9">dong chong</persName></author></msItem></msItem></msContents>
+                  <title xml:lang="chi" source="#200">唐書 二百二十五卷</title><title source="#200|9">tang shu</title><note source="#290">(宋)歐陽修, (宋)宋祁奉敕撰</note><author source="#300" key="person_1349"><persName xml:lang="chi">(宋)歐陽修</persName><persName type="9">ou yang xiu</persName></author><author source="#300" key="person_1118"><persName xml:lang="chi">(宋)宋祁</persName><persName type="9">song qi</persName></author></msItem>         
+               <msItem n="2"><title xml:lang="chi" source="#201">唐書釋音 二十五卷</title><title source="#201|9">tang shu shi yin</title><note source="#291">(宋)董衝撰</note><author source="#301" key="person_1563"><persName xml:lang="chi">(宋)董衝</persName><persName type="9">dong chong</persName></author></msItem></msItem></msContents>
                <physDesc>
                   
                   <objectDesc>

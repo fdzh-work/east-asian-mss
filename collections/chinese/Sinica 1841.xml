@@ -46,7 +46,7 @@
                <head>書名: 聖經提綱 / 巴色傳道會駱潤滋譯<lb/>香港 : 中華印務總局, 1873<lb/>線裝1冊(46, 24頁) ; 26.1公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">聖經提綱</title><title source="#200|9">sheng jing ti gang</title><note source="#290">巴色傳道會駱潤滋譯</note><author source="#300"><persName>Lörcher, Jakob Gottlieb</persName></author><editor source="#420" role="pbl"><persName>中華印務總局</persName><persName type="9" role="pbl">zhong hua yin wu zong ju</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">聖經提綱</title><title source="#200|9">sheng jing ti gang</title><note source="#290">巴色傳道會駱潤滋譯</note><author source="#300"><persName xml:lang="chi">Lörcher, Jakob Gottlieb</persName></author><editor source="#420" role="pbl"><persName>中華印務總局</persName><persName type="9" role="pbl">zhong hua yin wu zong ju</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

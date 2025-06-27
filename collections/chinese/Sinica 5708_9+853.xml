@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">論語孔氏訓解 十一卷</title>
+                     <title xml:lang="chi" source="#200">論語孔氏訓解 十一卷</title>
                      <title source="#200|9">lun yu kong shi xun jie</title>
                      <note source="#290">(漢)孔安國撰</note>
-                     <author source="#300" key="person_6513"><persName>(漢)孔安國</persName><persName type="9">kong an
+                     <author source="#300" key="person_6513"><persName xml:lang="chi">(漢)孔安國</persName><persName type="9">kong an
                            guo</persName></author>
                      <note source="#600">缺卷一～九</note>
                   </msItem>

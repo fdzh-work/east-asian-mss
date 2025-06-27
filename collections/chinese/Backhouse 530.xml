@@ -48,7 +48,7 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">國語國策</title>
+                     <title xml:lang="chi" source="#200">國語國策</title>
                      <title source="#200|9">guo yu guo ce</title>
                      <note source="#409">清光緒二十八年[1902]新化三味書室刊本</note>
                      <editor source="#440" role="pbl"><persName>三味書室</persName><persName type="9" role="pbl">san wei shu shi</persName></editor>
@@ -57,21 +57,21 @@
                            <title>國語 二十一卷</title>
                            <title source="9">guo yu</title>
                            <note source="290">(吳)韋昭解</note>
-                           <author key="person_473"><persName>(吳)韋昭</persName><persName type="9">wei
+                           <author key="person_473"><persName xml:lang="chi">(吳)韋昭</persName><persName type="9">wei
                               zhao</persName></author>
                         </msItem>
                         <msItem n="2">
                            <title>附 校刊明道本韋氏解國語札記 一卷</title>
                            <title type="9">jiao kan ming dao ben wei shi jie guo yu zha ji</title>
                            <note source="#291">(清)黃丕烈撰</note>
-                           <author key="person_6348"><persName>(清)黃丕烈</persName><persName type="9">huang pi
+                           <author key="person_6348"><persName xml:lang="chi">(清)黃丕烈</persName><persName type="9">huang pi
                                  lie</persName></author>
                         </msItem>
                         <msItem n="3">
                            <title>國語明道本攷異 四卷</title>
                            <title type="9">guo yu ming dao ben kao yi</title>
                            <note source="#292">(清)汪遠孫撰</note>
-                           <author key="person_4824"><persName>(清)汪遠孫</persName><persName type="9">wang yuan
+                           <author key="person_4824"><persName xml:lang="chi">(清)汪遠孫</persName><persName type="9">wang yuan
                                  sun</persName></author>
                         </msItem>
                         <!--Unused allegro fields-->
@@ -85,7 +85,7 @@
                            <title>戰國策 三十三卷</title>
                            <title source="9">zhan guo ce</title>
                            <note source="290">(漢)高誘注</note>
-                           <author key="person_6623"><persName>(漢)高誘</persName><persName type="9">gao
+                           <author key="person_6623"><persName xml:lang="chi">(漢)高誘</persName><persName type="9">gao
                               you</persName></author>
                         </msItem>
                         <msItem n="2">
@@ -93,7 +93,7 @@
                            <title type="9">chong ke shan chuan yao shi ben zhan guo ce zha
                               ji</title>
                            <note source="#291">(清)黃丕烈撰</note>
-                           <author key="person_6348"><persName>(清)黃丕烈</persName><persName type="9">huang pi
+                           <author key="person_6348"><persName xml:lang="chi">(清)黃丕烈</persName><persName type="9">huang pi
                                  lie</persName></author>
                         </msItem>
                         <!--Unused allegro fields-->

@@ -46,7 +46,7 @@
                <head>書名: 翻譯名義集 二十卷 / (宋釋)法雲撰<lb/>清光緒四年[1878]金陵刻經處刊本<lb/>線裝1冊 ; 25公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">翻譯名義集 二十卷</title><title source="#200|9">fan yi ming yi ji</title><note source="#290">(宋釋)法雲撰</note><author source="#300" key="person_1866"><persName>(宋釋)法雲</persName><persName type="9">fa yun</persName></author><note source="#409">清光緒四年[1878]金陵刻經處刊本</note><editor source="#440" role="pbl"><persName>金陵刻經處</persName><persName type="9" role="pbl">jin ling ke jing chu</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">翻譯名義集 二十卷</title><title source="#200|9">fan yi ming yi ji</title><note source="#290">(宋釋)法雲撰</note><author source="#300" key="person_1866"><persName xml:lang="chi">(宋釋)法雲</persName><persName type="9">fa yun</persName></author><note source="#409">清光緒四年[1878]金陵刻經處刊本</note><editor source="#440" role="pbl"><persName>金陵刻經處</persName><persName type="9" role="pbl">jin ling ke jing chu</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

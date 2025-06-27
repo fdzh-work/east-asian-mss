@@ -46,7 +46,7 @@
                <head>書名: 救世當然之理 / 李提摩太譯<lb/>京都 [Peking] : 美華書院, 1876<lb/>平裝1冊(114頁) ; 21.4公分<lb/>In Mandarin dialect<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">救世當然之理</title><title source="#200|9">jiu shi dang ran zhi li</title><note source="#290">李提摩太譯</note><author source="#300" key="person_7014"><persName>Richard, Timothy</persName></author><editor source="#420" role="pbl"><persName>美華書院</persName><persName type="9" role="pbl">mei hua shu yuan</persName></editor><note source="#600">In Mandarin dialect</note></msItem>         
+                  <title xml:lang="chi" source="#200">救世當然之理</title><title source="#200|9">jiu shi dang ran zhi li</title><note source="#290">李提摩太譯</note><author source="#300" key="person_7014"><persName xml:lang="chi">Richard, Timothy</persName></author><editor source="#420" role="pbl"><persName>美華書院</persName><persName type="9" role="pbl">mei hua shu yuan</persName></editor><note source="#600">In Mandarin dialect</note></msItem>         
                </msContents>
                <physDesc>
                   

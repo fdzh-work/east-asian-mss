@@ -50,15 +50,15 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">河南程氏遺書 二十八卷附錄一卷</title>
+                     <title xml:lang="chi" source="#200">河南程氏遺書 二十八卷附錄一卷</title>
                      <title source="#200|9">he nan cheng shi yi shu</title>
                      <note source="#290">(宋)程顥, (宋)程頤撰</note>
                      <note source="#290">(宋)朱熹輯</note>
-                     <author source="#300" key="person_1492"><persName>(宋)程顥</persName><persName type="9">cheng
+                     <author source="#300" key="person_1492"><persName xml:lang="chi">(宋)程顥</persName><persName type="9">cheng
                            hao</persName></author>
-                     <author source="#300" key="person_1491"><persName>(宋)程頤</persName><persName type="9">cheng
+                     <author source="#300" key="person_1491"><persName xml:lang="chi">(宋)程頤</persName><persName type="9">cheng
                            yi</persName></author>
-                     <author source="#300" key="person_1250"><persName>(宋)朱熹</persName><persName type="9">zhu
+                     <author source="#300" key="person_1250"><persName xml:lang="chi">(宋)朱熹</persName><persName type="9">zhu
                            xi</persName></author>
                   </msItem>
                </msContents>

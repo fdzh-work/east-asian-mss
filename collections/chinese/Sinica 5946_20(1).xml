@@ -49,12 +49,12 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">西湖遊詠 一卷</title>
+                     <title xml:lang="chi" source="#200">西湖遊詠 一卷</title>
                      <title source="#200|9">xi hu yong you</title>
                      <note source="#290">(明)田汝成, (明)黃省曾撰</note>
-                     <author source="#300" key="person_2472"><persName>(明)田汝成</persName><persName type="9">tian ru
+                     <author source="#300" key="person_2472"><persName xml:lang="chi">(明)田汝成</persName><persName type="9">tian ru
                            cheng</persName></author>
-                     <author source="#300"><persName>(明)黃省曾</persName><persName type="9">huang sheng
+                     <author source="#300"><persName xml:lang="chi">(明)黃省曾</persName><persName type="9">huang sheng
                            ceng</persName></author>
                      <note source="#600">光緒甲午[1894]刊</note>
                   </msItem>

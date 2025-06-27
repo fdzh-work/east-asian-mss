@@ -50,12 +50,12 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">唐明皇月令注解 一卷</title>
+                     <title xml:lang="chi" source="#200">唐明皇月令注解 一卷</title>
                      <title source="#200|9">tang ming huang yue ling zhu jie</title>
                      <title type="variant" source="#230">月令注解</title>
                      <title source="#230|9" type="variant">yue ling zhu jie</title>
                      <note source="#290">(唐)李林甫等撰</note>
-                     <author source="#300" key="person_683"><persName>(唐)李林甫</persName><persName type="9">li lin
+                     <author source="#300" key="person_683"><persName xml:lang="chi">(唐)李林甫</persName><persName type="9">li lin
                            fu</persName></author>
                   </msItem>
                </msContents>

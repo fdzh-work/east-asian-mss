@@ -49,11 +49,11 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">玉澗襍書 一卷</title>
+                     <title xml:lang="chi" source="#200">玉澗襍書 一卷</title>
                      <title source="#200|9">yu jian za shu</title>
                      <title type="variant" source="#230">玉澗雜書</title>
                      <title source="#230|9" type="variant">yu jian za shu</title>
-                     <author source="#300" key="person_1542"><persName>(宋)葉夢得</persName><persName type="9">ye meng
+                     <author source="#300" key="person_1542"><persName xml:lang="chi">(宋)葉夢得</persName><persName type="9">ye meng
                            de</persName></author>
                      <note source="#600">宣統己酉[1909]刊</note>
                   </msItem>

@@ -51,13 +51,13 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">楚國文憲公雪樓程先生文集樂府 一卷</title>
+                     <title xml:lang="chi" source="#200">楚國文憲公雪樓程先生文集樂府 一卷</title>
                      <title source="#200|9">chu guo wen xian gong xue lou cheng xian sheng wen ji
                         yue fu</title>
                      <title type="variant" source="#230">雪樓先生樂府</title>
                      <title source="#230|9" type="variant">xue lou xian sheng yue fu</title>
                      <note source="#290">(元)程鉅夫撰</note>
-                     <author source="#300" key="person_234"><persName>(元)程鉅夫</persName><persName type="9">cheng ju
+                     <author source="#300" key="person_234"><persName xml:lang="chi">(元)程鉅夫</persName><persName type="9">cheng ju
                            fu</persName></author>
                      <note source="#600">景刊元本</note>
                   </msItem>

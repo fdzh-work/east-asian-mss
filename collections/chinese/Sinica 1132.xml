@@ -46,7 +46,7 @@
                <head>書名: 伶俐小孩<lb/>[Peking] : 京都福音堂, 1866<lb/>線裝1冊(11頁) ; 13.5公分<lb/>By J Lees<lb/>In Peking dialect<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">伶俐小孩</title><title source="#200|9">ling li xiao hai</title><author source="#300" key="person_6924"><persName>Lees, Jonathan</persName></author><editor source="#420" role="pbl"><persName>京都福音堂</persName><persName type="9" role="pbl">jing du fu yin tang</persName></editor><note source="#600">By J Lees</note><note source="#600">In Peking dialect</note></msItem>         
+                  <title xml:lang="chi" source="#200">伶俐小孩</title><title source="#200|9">ling li xiao hai</title><author source="#300" key="person_6924"><persName xml:lang="chi">Lees, Jonathan</persName></author><editor source="#420" role="pbl"><persName>京都福音堂</persName><persName type="9" role="pbl">jing du fu yin tang</persName></editor><note source="#600">By J Lees</note><note source="#600">In Peking dialect</note></msItem>         
                </msContents>
                <physDesc>
                   

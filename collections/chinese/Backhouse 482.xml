@@ -48,10 +48,10 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">顧氏四十家小說</title>
+                     <title xml:lang="chi" source="#200">顧氏四十家小說</title>
                      <title source="#200|9">gu shi si shi jia xiao shuo</title>
                      <note source="#290">(明)顧元慶編</note>
-                     <author source="#300" key="person_2765"><persName>(明)顧元慶</persName><persName type="9">gu yuan
+                     <author source="#300" key="person_2765"><persName xml:lang="chi">(明)顧元慶</persName><persName type="9">gu yuan
                            qing</persName></author>
                      <note source="#409">清宣統三年[1911]上海國學扶輪社排印本</note>
                      <editor source="#440" role="pbl"><persName>國學扶輪社</persName><persName type="9" role="pbl">guo xue fu lun she</persName></editor>
@@ -59,7 +59,7 @@
                         <title>稗史集傳 一卷</title>
                         <title source="9">bai shi ji zhuan</title>
                         <note source="290">(元)徐顯撰</note>
-                        <author key="person_127"><persName>(元)徐顯</persName><persName type="9">xu
+                        <author key="person_127"><persName xml:lang="chi">(元)徐顯</persName><persName type="9">xu
                            xian</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20161230/00000001|odh -->
@@ -69,7 +69,7 @@
                         <title>西征記 一卷</title>
                         <title source="9">xi zheng ji</title>
                         <note source="290">(宋)盧襄撰</note>
-                        <author key="person_1473"><persName>(宋)盧襄</persName><persName type="9">lu
+                        <author key="person_1473"><persName xml:lang="chi">(宋)盧襄</persName><persName type="9">lu
                            xiang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20161230/00000002|odh -->
@@ -79,7 +79,7 @@
                         <title>避戎夜話 二卷</title>
                         <title source="9">bi rong ye hua</title>
                         <note source="290">(宋)石茂良撰</note>
-                        <author key="person_1477"><persName>(宋)石茂良</persName><persName type="9">shi mao
+                        <author key="person_1477"><persName xml:lang="chi">(宋)石茂良</persName><persName type="9">shi mao
                               liang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20161230/00000003|odh -->
@@ -89,7 +89,7 @@
                         <title>雲林遺事 一卷</title>
                         <title source="9">yun lin yi shi</title>
                         <note source="290">(明)顧元慶編</note>
-                        <author key="person_2765"><persName>(明)顧元慶</persName><persName type="9">gu yuan
+                        <author key="person_2765"><persName xml:lang="chi">(明)顧元慶</persName><persName type="9">gu yuan
                               qing</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20161230/00000004|odh -->
@@ -99,7 +99,7 @@
                         <title>翦勝野聞 一卷</title>
                         <title source="9">jian sheng ye wen</title>
                         <note source="290">(明)徐禎卿撰</note>
-                        <author key="person_2228"><persName>(明)徐禎卿</persName><persName type="9">xu zhen
+                        <author key="person_2228"><persName xml:lang="chi">(明)徐禎卿</persName><persName type="9">xu zhen
                               qing</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20161230/00000005|odh -->
@@ -109,7 +109,7 @@
                         <title>近言 一卷</title>
                         <title source="9">jin yan</title>
                         <note source="290">(明)顧璘撰</note>
-                        <author key="person_2771"><persName>(明)顧璘</persName><persName type="9">gu
+                        <author key="person_2771"><persName xml:lang="chi">(明)顧璘</persName><persName type="9">gu
                            lin</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20161230/00000006|odh -->
@@ -119,7 +119,7 @@
                         <title>茶譜 一卷</title>
                         <title source="9">cha pu</title>
                         <note source="290">(明)顧元慶撰</note>
-                        <author key="person_2765"><persName>(明)顧元慶</persName><persName type="9">gu yuan
+                        <author key="person_2765"><persName xml:lang="chi">(明)顧元慶</persName><persName type="9">gu yuan
                               qing</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20161230/00000007|odh -->
@@ -129,7 +129,7 @@
                         <title>續編宋史辨 一卷</title>
                         <title source="9">xin bian song shi bian</title>
                         <note source="290">(明)高昌古撰</note>
-                        <author key="person_2802"><persName>(明)高昌古</persName><persName type="9">gao chang
+                        <author key="person_2802"><persName xml:lang="chi">(明)高昌古</persName><persName type="9">gao chang
                               gu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20161230/00000008|odh -->
@@ -139,7 +139,7 @@
                         <title>病逸漫記 一卷</title>
                         <title source="9">bing yi man ji</title>
                         <note source="290">(明)陸釴撰</note>
-                        <author key="person_2749"><persName>(明)陸釴</persName><persName type="9">lu
+                        <author key="person_2749"><persName xml:lang="chi">(明)陸釴</persName><persName type="9">lu
                            yi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20161230/00000009|odh -->
@@ -149,7 +149,7 @@
                         <title>夷白齋詩話 一卷</title>
                         <title source="9">yi bai zhai shi hua</title>
                         <note source="290">(明)顧元慶撰</note>
-                        <author key="person_2765"><persName>(明)顧元慶</persName><persName type="9">gu yuan
+                        <author key="person_2765"><persName xml:lang="chi">(明)顧元慶</persName><persName type="9">gu yuan
                               qing</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20161230/00000010|odh -->
@@ -159,7 +159,7 @@
                         <title>讀書筆記 一卷</title>
                         <title source="9">du shu bi ji</title>
                         <note source="290">(明)祝允明撰</note>
-                        <author key="person_2490"><persName>(明)祝允明</persName><persName type="9">zhu yun
+                        <author key="person_2490"><persName xml:lang="chi">(明)祝允明</persName><persName type="9">zhu yun
                               ming</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20161230/00000011|odh -->
@@ -169,7 +169,7 @@
                         <title>存餘堂詩話 一卷</title>
                         <title source="9">cun yu tang shi hua</title>
                         <note source="290">(明)朱承爵撰</note>
-                        <author key="person_2269"><persName>(明)朱承爵</persName><persName type="9">zhu cheng
+                        <author key="person_2269"><persName xml:lang="chi">(明)朱承爵</persName><persName type="9">zhu cheng
                               jue</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20161230/00000012|odh -->
@@ -179,7 +179,7 @@
                         <title>皇明天全先生遺事 一卷</title>
                         <title source="9">huang ming tian quan xian sheng yi shi</title>
                         <note source="290">(明)徐子陽撰</note>
-                        <author key="person_2215"><persName>(明)徐子陽</persName><persName type="9">xu zi
+                        <author key="person_2215"><persName xml:lang="chi">(明)徐子陽</persName><persName type="9">xu zi
                            yang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20161230/00000013|odh -->
@@ -189,7 +189,7 @@
                         <title>清夜錄 一卷</title>
                         <title source="9">qing ye lu</title>
                         <note source="290">(宋)俞文豹撰</note>
-                        <author key="person_946"><persName>(宋)俞文豹</persName><persName type="9">yu wen
+                        <author key="person_946"><persName xml:lang="chi">(宋)俞文豹</persName><persName type="9">yu wen
                            bao</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20161230/00000014|odh -->
@@ -199,7 +199,7 @@
                         <title>聽雨紀談 一卷</title>
                         <title source="9">ting yu ji tan</title>
                         <note source="290">(明)都穆撰</note>
-                        <author key="person_2661"><persName>(明)都穆</persName><persName type="9">du
+                        <author key="person_2661"><persName xml:lang="chi">(明)都穆</persName><persName type="9">du
                            mu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20161230/00000015|odh -->
@@ -209,7 +209,7 @@
                         <title>談藝錄 一卷</title>
                         <title source="9">tan yi lu</title>
                         <note source="290">(明)徐禎卿撰</note>
-                        <author key="person_2228"><persName>(明)徐禎卿</persName><persName type="9">xu zhen
+                        <author key="person_2228"><persName xml:lang="chi">(明)徐禎卿</persName><persName type="9">xu zhen
                               qing</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20161230/00000016|odh -->
@@ -219,7 +219,7 @@
                         <title>君子堂日詢手鏡 一卷</title>
                         <title source="9">jun zi tang ri xun shou jing</title>
                         <note source="290">(明)王濟撰</note>
-                        <author key="person_2444"><persName>(明)王濟</persName><persName type="9">wang
+                        <author key="person_2444"><persName xml:lang="chi">(明)王濟</persName><persName type="9">wang
                            ji</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20161230/00000017|odh -->
@@ -229,7 +229,7 @@
                         <title>海槎餘錄 一卷</title>
                         <title source="9">hai cha yu lu</title>
                         <note source="290">(明)顧𡵚撰</note>
-                        <author key="person_2767"><persName>(明)顧岕</persName><persName type="9">gu
+                        <author key="person_2767"><persName xml:lang="chi">(明)顧岕</persName><persName type="9">gu
                            jie</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20161230/00000019|odh -->
@@ -239,8 +239,8 @@
                         <title>陽山新錄 一卷</title>
                         <title source="9">yang shan xin lu</title>
                         <note source="290">(明)顧元慶, (明)岳岱撰</note>
-                        <author key="person_2765"><persName>(明)顧元慶</persName><persName type="9">gu yuan qing</persName></author>
-                        <author key="person_2154"><persName>(明)岳岱</persName><persName type="9">yue dai</persName></author>
+                        <author key="person_2765"><persName xml:lang="chi">(明)顧元慶</persName><persName type="9">gu yuan qing</persName></author>
+                        <author key="person_2154"><persName xml:lang="chi">(明)岳岱</persName><persName type="9">yue dai</persName></author>
                      <!--Unused allegro fields-->
                      <!-- #000: 20161230/00000018|odh -->
                      <!-- #0rx: dh624+18 -->
@@ -249,7 +249,7 @@
                         <title>新倩籍 一卷</title>
                         <title source="9">xin qian ji</title>
                         <note source="290">(明)徐禎卿撰</note>
-                        <author key="person_2228"><persName>(明)徐禎卿</persName><persName type="9">xu zhen
+                        <author key="person_2228"><persName xml:lang="chi">(明)徐禎卿</persName><persName type="9">xu zhen
                               qing</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20161230/00000020|odh -->
@@ -259,7 +259,7 @@
                         <title>今雨瑤華</title>
                         <title source="9">jin yu yao hua</title>
                         <note source="290">(明)岳岱撰</note>
-                        <author key="person_2154"><persName>(明)岳岱</persName><persName type="9">yue
+                        <author key="person_2154"><persName xml:lang="chi">(明)岳岱</persName><persName type="9">yue
                            dai</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20161230/00000021|odh -->
@@ -270,7 +270,7 @@
                         <title>簷曝偶談 一卷</title>
                         <title source="9">yan pu ou tan</title>
                         <note source="290">(明)顧元慶撰</note>
-                        <author key="person_2765"><persName>(明)顧元慶</persName><persName type="9">gu yuan
+                        <author key="person_2765"><persName xml:lang="chi">(明)顧元慶</persName><persName type="9">gu yuan
                               qing</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20161230/00000022|odh -->
@@ -280,7 +280,7 @@
                         <title>金石契 一卷</title>
                         <title source="9">jin shi qi</title>
                         <note source="290">(明)祝肇撰</note>
-                        <author key="person_2493"><persName>(明)祝肇</persName><persName type="9">zhu
+                        <author key="person_2493"><persName xml:lang="chi">(明)祝肇</persName><persName type="9">zhu
                            zhao</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20161230/00000023|odh -->
@@ -290,7 +290,7 @@
                         <title>大石山房十友譜 一卷</title>
                         <title source="9">da shi shan fang shi you pu</title>
                         <note source="290">(明)顧元慶撰</note>
-                        <author key="person_2765"><persName>(明)顧元慶</persName><persName type="9">gu yuan
+                        <author key="person_2765"><persName xml:lang="chi">(明)顧元慶</persName><persName type="9">gu yuan
                               qing</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20161230/00000024|odh -->
@@ -300,7 +300,7 @@
                         <title>琅琊漫抄 一卷</title>
                         <title source="9">lang ya man chao</title>
                         <note source="290">(明)文林撰</note>
-                        <author key="person_2246"><persName>(明)文林</persName><persName type="9">wen
+                        <author key="person_2246"><persName xml:lang="chi">(明)文林</persName><persName type="9">wen
                            lin</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20161230/00000025|odh -->
@@ -311,7 +311,7 @@
                         <title>國寶新編 一卷</title>
                         <title source="9">guo bao xin bian</title>
                         <note source="290">(明)顧璘撰</note>
-                        <author key="person_2771"><persName>(明)顧璘</persName><persName type="9">gu
+                        <author key="person_2771"><persName xml:lang="chi">(明)顧璘</persName><persName type="9">gu
                            lin</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20161230/00000026|odh -->
@@ -321,7 +321,7 @@
                         <title>七人聯句詩記 一卷</title>
                         <title source="9">qi ren lian ju shi ji</title>
                         <note source="290">(明)楊循吉撰</note>
-                        <author key="person_2348"><persName>(明)楊循吉</persName><persName type="9">yang xun
+                        <author key="person_2348"><persName xml:lang="chi">(明)楊循吉</persName><persName type="9">yang xun
                            ji</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20161230/00000027|odh -->
@@ -331,7 +331,7 @@
                         <title>寓意編 一卷</title>
                         <title source="9">yu yi bian</title>
                         <note source="290">(明)都穆撰</note>
-                        <author key="person_2661"><persName>(明)都穆</persName><persName type="9">du
+                        <author key="person_2661"><persName xml:lang="chi">(明)都穆</persName><persName type="9">du
                            mu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20161230/00000028|odh -->
@@ -341,7 +341,7 @@
                         <title>懸笥瑣探 一卷</title>
                         <title source="9">xuan si suo tan</title>
                         <note source="290">(明)劉昌撰</note>
-                        <author key="person_2032"><persName>(明)劉昌</persName><persName type="9">liu
+                        <author key="person_2032"><persName xml:lang="chi">(明)劉昌</persName><persName type="9">liu
                            chang</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20161230/00000029|odh -->
@@ -351,7 +351,7 @@
                         <title>吳郡二科志 一卷</title>
                         <title source="9">wu jun er ke zhi</title>
                         <note source="290">(明)閻秀卿撰</note>
-                        <author key="person_2699"><persName>(明)閻秀卿</persName><persName type="9">yan xiu
+                        <author key="person_2699"><persName xml:lang="chi">(明)閻秀卿</persName><persName type="9">yan xiu
                               qing</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20161230/00000030|odh -->
@@ -361,7 +361,7 @@
                         <title>瘞鶴銘考 一卷</title>
                         <title source="9">yi he ming kao</title>
                         <note source="290">(明)顧元慶撰</note>
-                        <author key="person_2765"><persName>(明)顧元慶</persName><persName type="9">gu yuan
+                        <author key="person_2765"><persName xml:lang="chi">(明)顧元慶</persName><persName type="9">gu yuan
                               qing</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20161230/00000031|odh -->
@@ -371,7 +371,7 @@
                         <title>青溪暇筆 一卷</title>
                         <title source="9">qing xi xia bi</title>
                         <note source="290">(明)姚福撰</note>
-                        <author key="person_2122"><persName>(明)姚福</persName><persName type="9">yao
+                        <author key="person_2122"><persName xml:lang="chi">(明)姚福</persName><persName type="9">yao
                            fu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20161230/00000032|odh -->
@@ -381,7 +381,7 @@
                         <title>景仰撮書 一卷</title>
                         <title source="9">jing yang cuo shu</title>
                         <note source="290">(明)王達撰</note>
-                        <author key="person_2465"><persName>(明)王達</persName><persName type="9">wang
+                        <author key="person_2465"><persName xml:lang="chi">(明)王達</persName><persName type="9">wang
                            da</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20161230/00000033|odh -->
@@ -391,7 +391,7 @@
                         <title>蠶衣 一卷</title>
                         <title source="9">can yi</title>
                         <note source="290">(明)祝允明撰</note>
-                        <author key="person_2490"><persName>(明)祝允明</persName><persName type="9">zhu yun
+                        <author key="person_2490"><persName xml:lang="chi">(明)祝允明</persName><persName type="9">zhu yun
                               ming</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20161230/00000034|odh -->
@@ -409,7 +409,7 @@
                         <title>彭文憲公筆記 二卷</title>
                         <title source="9">peng wen xian gong bi ji</title>
                         <note source="290">(明)彭時撰</note>
-                        <author key="person_2210"><persName>(明)彭時</persName><persName type="9">peng
+                        <author key="person_2210"><persName xml:lang="chi">(明)彭時</persName><persName type="9">peng
                            shi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20161230/00000036|odh -->
@@ -419,7 +419,7 @@
                         <title>否泰錄 一卷</title>
                         <title source="9">pi tai lu</title>
                         <note source="290">(明)劉定之撰</note>
-                        <author key="person_2029"><persName>(明)劉定之</persName><persName type="9">liu ding
+                        <author key="person_2029"><persName xml:lang="chi">(明)劉定之</persName><persName type="9">liu ding
                               zhi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20161230/00000037|odh -->
@@ -429,7 +429,7 @@
                         <title>蘇談 一卷</title>
                         <title source="9">su tan</title>
                         <note source="290">(明)楊循吉撰</note>
-                        <author key="person_2348"><persName>(明)楊循吉</persName><persName type="9">yang xun
+                        <author key="person_2348"><persName xml:lang="chi">(明)楊循吉</persName><persName type="9">yang xun
                            ji</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20161230/00000038|odh -->
@@ -439,7 +439,7 @@
                         <title>吳中往哲記 一卷</title>
                         <title source="9">wu zhong wang zhe ji</title>
                         <note source="290">(明)楊循吉撰</note>
-                        <author key="person_2348"><persName>(明)楊循吉</persName><persName type="9">yang xun
+                        <author key="person_2348"><persName xml:lang="chi">(明)楊循吉</persName><persName type="9">yang xun
                            ji</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20161230/00000039|odh -->
@@ -449,9 +449,9 @@
                         <title>太湖新錄 一卷</title>
                         <title source="9">tai hu xin lu</title>
                         <note source="290">(明)徐禎卿, (明)文徵明撰</note>
-                        <author key="person_2228"><persName>(明)徐禎卿</persName><persName type="9">xu zhen
+                        <author key="person_2228"><persName xml:lang="chi">(明)徐禎卿</persName><persName type="9">xu zhen
                               qing</persName></author>
-                        <author key="person_2245"><persName>(明)文徵明</persName><persName type="9">wen zheng
+                        <author key="person_2245"><persName xml:lang="chi">(明)文徵明</persName><persName type="9">wen zheng
                               ming</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20161230/00000040|odh -->

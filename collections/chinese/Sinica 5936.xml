@@ -46,7 +46,7 @@
                <head>書名: 四部叢刊 / 張元濟等編<lb/>民國八年[1919]上海商務印書館初次影印本<lb/>240函(2100冊) ; 20公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">四部叢刊</title><title source="#200|9">si bu cong kan</title><note source="#290">張元濟等編</note><author source="#300" key="person_7128"><persName>張元濟</persName><persName type="9">zhang yuan ji</persName></author><note source="#409">民國八年[1919]上海商務印書館初次影印本</note><editor source="#440" role="pbl"><persName>商務印書館</persName><persName type="9" role="pbl">shang wu yin shu guan</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">四部叢刊</title><title source="#200|9">si bu cong kan</title><note source="#290">張元濟等編</note><author source="#300" key="person_7128"><persName xml:lang="chi">張元濟</persName><persName type="9">zhang yuan ji</persName></author><note source="#409">民國八年[1919]上海商務印書館初次影印本</note><editor source="#440" role="pbl"><persName>商務印書館</persName><persName type="9" role="pbl">shang wu yin shu guan</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

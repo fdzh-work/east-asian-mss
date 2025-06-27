@@ -46,7 +46,7 @@
                <head>書名: 地理志略<lb/>京都 [Peking] : 美華書院[印刷], 1882<lb/>平裝1冊(68頁) : 圖, 地圖 ; 31.7公分<lb/>By L D Chapin<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">地理志略</title><title source="#200|9">di li zhi lue</title><author source="#300" key="person_6807"><persName>Chapin, Lyman Dwight</persName></author><editor source="#420" role="pbl"><persName>美華書院</persName><persName type="9" role="pbl">mei hua shu yuan</persName></editor><note source="#600">By L D Chapin</note></msItem>         
+                  <title xml:lang="chi" source="#200">地理志略</title><title source="#200|9">di li zhi lue</title><author source="#300" key="person_6807"><persName xml:lang="chi">Chapin, Lyman Dwight</persName></author><editor source="#420" role="pbl"><persName>美華書院</persName><persName type="9" role="pbl">mei hua shu yuan</persName></editor><note source="#600">By L D Chapin</note></msItem>         
                </msContents>
                <physDesc>
                   

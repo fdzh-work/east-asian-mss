@@ -46,7 +46,7 @@
                <head>書名: 燈塔<lb/>[Shanghai] : 中國聖教書會 = Chinese Religious Tract Society, [1883]<lb/>Single sheet ; 22.8 x 14.4公分<lb/>By H A Randle<lb/>No.8, The lighthouse<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">燈塔</title><title source="#200|9">deng ta</title><title type="variant" source="#230">The lighthouse</title><author source="#300" key="person_7007"><persName>Randle, Horace Andrews</persName></author><editor source="#420" role="pbl"><persName>中國聖教書會 = Chinese Religious Tract Society</persName><persName type="9" role="pbl">zhong guo sheng jiao shu hui</persName></editor><note source="#600">By H A Randle</note><note source="#600">No.8, The lighthouse</note></msItem>         
+                  <title xml:lang="chi" source="#200">燈塔</title><title source="#200|9">deng ta</title><title type="variant" source="#230">The lighthouse</title><author source="#300" key="person_7007"><persName xml:lang="chi">Randle, Horace Andrews</persName></author><editor source="#420" role="pbl"><persName>中國聖教書會 = Chinese Religious Tract Society</persName><persName type="9" role="pbl">zhong guo sheng jiao shu hui</persName></editor><note source="#600">By H A Randle</note><note source="#600">No.8, The lighthouse</note></msItem>         
                </msContents>
                <physDesc>
                   

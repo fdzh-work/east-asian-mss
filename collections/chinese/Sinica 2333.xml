@@ -46,7 +46,7 @@
                <head>書名: 羅馬書註解<lb/>上海 : 墨海書館, 1857<lb/>線裝1冊(58頁) ; 20.7公分<lb/>Running title 「新約全書註解」<lb/>By W H Medhurst<lb/>The complete work was never published<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">羅馬書註解</title><title source="#200|9">luo ma shu zhu jie</title><title type="variant" source="#230">新約全書註解</title><title source="#230|9" type="variant">xin yue quan shu zhu jie</title><author source="#300" key="person_6963"><persName>Medhurst, Walter Henry</persName></author><editor source="#420" role="pbl"><persName>墨海書館</persName><persName type="9" role="pbl">mo hai shu guan</persName></editor><note source="#600">Running title 「新約全書註解」</note><note source="#600">By W H Medhurst</note><note source="#600">The complete work was never published</note></msItem>         
+                  <title xml:lang="chi" source="#200">羅馬書註解</title><title source="#200|9">luo ma shu zhu jie</title><title type="variant" source="#230">新約全書註解</title><title source="#230|9" type="variant">xin yue quan shu zhu jie</title><author source="#300" key="person_6963"><persName xml:lang="chi">Medhurst, Walter Henry</persName></author><editor source="#420" role="pbl"><persName>墨海書館</persName><persName type="9" role="pbl">mo hai shu guan</persName></editor><note source="#600">Running title 「新約全書註解」</note><note source="#600">By W H Medhurst</note><note source="#600">The complete work was never published</note></msItem>         
                </msContents>
                <physDesc>
                   

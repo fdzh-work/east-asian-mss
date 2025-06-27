@@ -50,12 +50,12 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">隋書 八十五卷</title>
+                     <title xml:lang="chi" source="#200">隋書 八十五卷</title>
                      <title source="#200|9">sui shu</title>
                      <note source="#290">(唐)魏徵, (唐)長孫無忌等奉敕撰</note>
-                     <author source="#300" key="person_887"><persName>(唐)魏徵</persName><persName type="9">wei
+                     <author source="#300" key="person_887"><persName xml:lang="chi">(唐)魏徵</persName><persName type="9">wei
                            zheng</persName></author>
-                     <author source="#300" key="person_845"><persName>(唐)長孫無忌</persName><persName type="9">zhang sun
+                     <author source="#300" key="person_845"><persName xml:lang="chi">(唐)長孫無忌</persName><persName type="9">zhang sun
                            wu ji</persName></author>
                   </msItem>
                </msContents>

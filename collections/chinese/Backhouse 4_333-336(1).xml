@@ -49,12 +49,12 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">益齋亂藁 十卷拾遺一卷附集誌一卷</title>
+                     <title xml:lang="chi" source="#200">益齋亂藁 十卷拾遺一卷附集誌一卷</title>
                      <title source="#200|9">yi zhai luan gao</title>
                      <title type="variant" source="#230">益齋集</title>
                      <title source="#230|9" type="variant">yi zhai ji</title>
                      <note source="#290">(高麗)李齊賢撰</note>
-                     <author source="#300" key="person_6710"><persName>(高麗)李齊賢</persName><persName type="9">yi
+                     <author source="#300" key="person_6710"><persName xml:lang="chi">(高麗)李齊賢</persName><persName type="9">yi
                            chehyon_k</persName></author>
                   </msItem>
                </msContents>

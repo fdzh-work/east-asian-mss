@@ -46,7 +46,7 @@
                <head>書名: 天文淺說 = Astronomy / Nathan Sites<lb/>福州 : 美華書局, 同治十三年[1874]<lb/>線裝1冊([1], 4, 101頁) : 圖 ; 21.2公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">天文淺說 = Astronomy</title><title source="#200|9">tian wen qian shuo</title><note source="#290">Nathan Sites</note><author source="#300" key="person_7034"><persName>Sites, Nathan</persName></author><editor source="#420" role="pbl"><persName>美華書局</persName><persName type="9" role="pbl">mei hua shu ju</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">天文淺說 = Astronomy</title><title source="#200|9">tian wen qian shuo</title><note source="#290">Nathan Sites</note><author source="#300" key="person_7034"><persName xml:lang="chi">Sites, Nathan</persName></author><editor source="#420" role="pbl"><persName>美華書局</persName><persName type="9" role="pbl">mei hua shu ju</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

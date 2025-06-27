@@ -49,9 +49,9 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">唐寫本說文解字木部箋異 一卷</title>
+                     <title xml:lang="chi" source="#200">唐寫本說文解字木部箋異 一卷</title>
                      <title source="#200|9">tang xie ben shuo wen jie zi mu bu jian yi</title>
-                     <author source="#300" key="person_5440"><persName>(清)莫友芝</persName><persName type="9">mo you
+                     <author source="#300" key="person_5440"><persName xml:lang="chi">(清)莫友芝</persName><persName type="9">mo you
                            zhi</persName></author>
                      <note source="#600">同治二年[1863]刊</note>
                   </msItem>

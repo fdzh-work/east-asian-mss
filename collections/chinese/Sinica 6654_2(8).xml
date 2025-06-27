@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">香山九老會詩 一卷</title>
+                     <title xml:lang="chi" source="#200">香山九老會詩 一卷</title>
                      <title source="#200|9">xiang shan jiu lao hui shi</title>
                      <note source="#290">(唐)白居易編</note>
-                     <author source="#300" key="person_764"><persName>(唐)白居易</persName><persName type="9">bai ju
+                     <author source="#300" key="person_764"><persName xml:lang="chi">(唐)白居易</persName><persName type="9">bai ju
                            yi</persName></author>
                   </msItem>
                </msContents>

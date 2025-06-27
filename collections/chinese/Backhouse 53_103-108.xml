@@ -49,9 +49,9 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">曾文正公批牘 六卷</title>
+                     <title xml:lang="chi" source="#200">曾文正公批牘 六卷</title>
                      <title source="#200|9">zeng wen zheng gong pi du</title>
-                     <author source="#300" key="person_4369"><persName>(清)曾國藩</persName><persName type="9">zeng guo
+                     <author source="#300" key="person_4369"><persName xml:lang="chi">(清)曾國藩</persName><persName type="9">zeng guo
                            fan</persName></author>
                      <note source="#600">光緒二年[1876]刊</note>
                   </msItem>

@@ -49,13 +49,13 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">中州樂府音韻類編 一卷校記一卷</title>
+                     <title xml:lang="chi" source="#200">中州樂府音韻類編 一卷校記一卷</title>
                      <title source="#200|9">zhong zhou yue fu yin yun lei bian</title>
                      <note source="#290">(元)卓從之撰</note>
                      <note source="#290">校記(民國)盧前撰</note>
-                     <author source="#300" key="person_75"><persName>(元)卓從之</persName><persName type="9">zhuo cong
+                     <author source="#300" key="person_75"><persName xml:lang="chi">(元)卓從之</persName><persName type="9">zhuo cong
                            zhi</persName></author>
-                     <author source="#300" key="person_3161"><persName>(民國)盧前</persName><persName type="9">lu
+                     <author source="#300" key="person_3161"><persName xml:lang="chi">(民國)盧前</persName><persName type="9">lu
                            qian</persName></author>
                   </msItem>
                </msContents>

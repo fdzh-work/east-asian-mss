@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">侯官郭氏家集彙刊</title>
+                     <title xml:lang="chi" source="#200">侯官郭氏家集彙刊</title>
                      <title source="#200|9">hou guan guo shi jia ji hui kan</title>
                      <note source="#290">(清)郭則澐輯</note>
-                     <author source="#300" key="person_5791"><persName>(清)郭則澐</persName><persName type="9">guo ze
+                     <author source="#300" key="person_5791"><persName xml:lang="chi">(清)郭則澐</persName><persName type="9">guo ze
                            yun</persName></author>
                      <note source="#600">民國甲戌[1934]刊</note>
                   </msItem>
@@ -99,7 +99,7 @@
                         <title>石泉集 四卷</title>
                         <title source="9">shi quan ji</title>
                         <note source="290">(清)郭柏蔭撰</note>
-                        <author key="person_5800"><persName>(清)郭柏蔭</persName><persName type="9">guo bai
+                        <author key="person_5800"><persName xml:lang="chi">(清)郭柏蔭</persName><persName type="9">guo bai
                            yin</persName></author>
                      </msItem>
                   </msContents>
@@ -125,7 +125,7 @@
                         <title>天開圖書樓文稿 四卷</title>
                         <title source="9">tian kai tu shu lou wen gao</title>
                         <note source="290">(清)郭柏蔭撰</note>
-                        <author key="person_5800"><persName>(清)郭柏蔭</persName><persName type="9">guo bai
+                        <author key="person_5800"><persName xml:lang="chi">(清)郭柏蔭</persName><persName type="9">guo bai
                            yin</persName></author>
                      </msItem>
                   </msContents>
@@ -151,7 +151,7 @@
                         <title>變雅斷章衍議 一卷</title>
                         <title source="9">bian ya duan zhang yan yi</title>
                         <note source="290">(清)郭柏蔭撰</note>
-                        <author key="person_5800"><persName>(清)郭柏蔭</persName><persName type="9">guo bai
+                        <author key="person_5800"><persName xml:lang="chi">(清)郭柏蔭</persName><persName type="9">guo bai
                            yin</persName></author>
                      </msItem>
                   </msContents>
@@ -179,7 +179,7 @@
                         <title>續嘐嘐言 四卷</title>
                         <title source="9">xu xiao xiao yan</title>
                         <note source="290">(清)郭柏蔭撰</note>
-                        <author key="person_5800"><persName>(清)郭柏蔭</persName><persName type="9">guo bai
+                        <author key="person_5800"><persName xml:lang="chi">(清)郭柏蔭</persName><persName type="9">guo bai
                            yin</persName></author>
                      </msItem>
                   </msContents>
@@ -205,7 +205,7 @@
                         <title>說雲樓詩草 二卷</title>
                         <title source="9">shuo yun lou shi cao</title>
                         <note source="290">(清)郭式昌撰</note>
-                        <author key="person_5797"><persName>(清)郭式昌</persName><persName type="9">guo shi
+                        <author key="person_5797"><persName xml:lang="chi">(清)郭式昌</persName><persName type="9">guo shi
                               chang</persName></author>
                      </msItem>
                   </msContents>
@@ -235,7 +235,7 @@
                         <title>惜齋吟草別存 一卷</title>
                         <title source="9">xi zhai yin cao bie cun</title>
                         <note source="290">(清)郭傅昌撰</note>
-                        <author key="person_5789"><persName>(清)郭傅昌</persName><persName type="9">guo fu
+                        <author key="person_5789"><persName xml:lang="chi">(清)郭傅昌</persName><persName type="9">guo fu
                               chang</persName></author>
                      </msItem>
                   </msContents>
@@ -263,7 +263,7 @@
                         <title>匏廬賸草 一卷</title>
                         <title source="9">pao lu sheng cao</title>
                         <note source="290">(清)郭曾炘撰</note>
-                        <author key="person_5799"><persName>(清)郭曾炘</persName><persName type="9">guo zeng
+                        <author key="person_5799"><persName xml:lang="chi">(清)郭曾炘</persName><persName type="9">guo zeng
                               xin</persName></author>
                      </msItem>
                   </msContents>
@@ -289,7 +289,7 @@
                         <title>再愧軒詩草 一卷</title>
                         <title source="9">zai kui xuan shi cao</title>
                         <note source="290">(清)郭曾炘撰</note>
-                        <author key="person_5799"><persName>(清)郭曾炘</persName><persName type="9">guo zeng
+                        <author key="person_5799"><persName xml:lang="chi">(清)郭曾炘</persName><persName type="9">guo zeng
                               xin</persName></author>
                      </msItem>
                   </msContents>
@@ -315,7 +315,7 @@
                         <title>郭文安公奏疏 一卷</title>
                         <title source="9">guo wen an gong zou shu</title>
                         <note source="290">(清)郭曾炘撰</note>
-                        <author key="person_5799"><persName>(清)郭曾炘</persName><persName type="9">guo zeng
+                        <author key="person_5799"><persName xml:lang="chi">(清)郭曾炘</persName><persName type="9">guo zeng
                               xin</persName></author>
                      </msItem>
                   </msContents>
@@ -341,7 +341,7 @@
                         <title>樓居偶錄 一卷</title>
                         <title source="9">lou ju ou lu</title>
                         <note source="290">(清)郭曾炘撰</note>
-                        <author key="person_5799"><persName>(清)郭曾炘</persName><persName type="9">guo zeng
+                        <author key="person_5799"><persName xml:lang="chi">(清)郭曾炘</persName><persName type="9">guo zeng
                               xin</persName></author>
                      </msItem>
                   </msContents>
@@ -367,7 +367,7 @@
                         <title>邴廬日記 二卷</title>
                         <title source="9">bing lu ri ji</title>
                         <note source="290">(清)郭曾炘撰</note>
-                        <author key="person_5799"><persName>(清)郭曾炘</persName><persName type="9">guo zeng
+                        <author key="person_5799"><persName xml:lang="chi">(清)郭曾炘</persName><persName type="9">guo zeng
                               xin</persName></author>
                      </msItem>
                   </msContents>

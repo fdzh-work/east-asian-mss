@@ -46,7 +46,7 @@
                <head>書名: 解深密經 五卷 / (唐釋)玄奘譯<lb/>清同治十年[1871]金陵刻經處刊本<lb/>線裝1冊 ; 24公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">解深密經 五卷</title><title source="#200|9">jie shen mi jing</title><note source="#290">(唐釋)玄奘譯</note><author source="#300" key="person_908"><persName>(唐釋)玄奘</persName><persName type="9">xuan zang</persName></author><note source="#409">清同治十年[1871]金陵刻經處刊本</note><editor source="#440" role="pbl"><persName>金陵刻經處</persName><persName type="9" role="pbl">jin ling ke jing chu</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">解深密經 五卷</title><title source="#200|9">jie shen mi jing</title><note source="#290">(唐釋)玄奘譯</note><author source="#300" key="person_908"><persName xml:lang="chi">(唐釋)玄奘</persName><persName type="9">xuan zang</persName></author><note source="#409">清同治十年[1871]金陵刻經處刊本</note><editor source="#440" role="pbl"><persName>金陵刻經處</persName><persName type="9" role="pbl">jin ling ke jing chu</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

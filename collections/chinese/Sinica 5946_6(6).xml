@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">鳳皇山聖果寺志 一卷</title>
+                     <title xml:lang="chi" source="#200">鳳皇山聖果寺志 一卷</title>
                      <title source="#200|9">feng huang shan shen guo shi zhi</title>
                      <note source="#290">(清釋)超乾撰</note>
-                     <author source="#300" key="person_6470"><persName>(清釋)超乾</persName><persName type="9">chao
+                     <author source="#300" key="person_6470"><persName xml:lang="chi">(清釋)超乾</persName><persName type="9">chao
                            qian</persName></author>
                      <note source="#600">光緒辛巳[1881]刊</note>
                   </msItem>

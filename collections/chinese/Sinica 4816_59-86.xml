@@ -50,19 +50,19 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">後漢書 一百二十卷</title>
+                     <title xml:lang="chi" source="#200">後漢書 一百二十卷</title>
                      <title source="#200|9">hou han shu</title>
                      <note source="#290">(劉宋)范曄撰</note>
                      <note source="#290">(唐)李賢注</note>
                      <note source="#290">(晉)司馬彪撰志</note>
                      <note source="#290">(梁)劉昭注志</note>
-                     <author source="#300" key="person_373"><persName>(劉宋)范曄</persName><persName type="9">fan
+                     <author source="#300" key="person_373"><persName xml:lang="chi">(劉宋)范曄</persName><persName type="9">fan
                            ye</persName></author>
-                     <author source="#300" key="person_708"><persName>(唐)李賢</persName><persName type="9">li
+                     <author source="#300" key="person_708"><persName xml:lang="chi">(唐)李賢</persName><persName type="9">li
                            xian</persName></author>
-                     <author source="#300" key="person_2864"><persName>(晉)司馬彪</persName><persName type="9">si ma
+                     <author source="#300" key="person_2864"><persName xml:lang="chi">(晉)司馬彪</persName><persName type="9">si ma
                            biao</persName></author>
-                     <author source="#300" key="person_3026"><persName>(梁)劉昭</persName><persName type="9">liu
+                     <author source="#300" key="person_3026"><persName xml:lang="chi">(梁)劉昭</persName><persName type="9">liu
                            zhao</persName></author>
                   </msItem>
                </msContents>

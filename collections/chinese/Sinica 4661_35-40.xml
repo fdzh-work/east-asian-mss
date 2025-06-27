@@ -49,12 +49,12 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">抱朴子內篇 二十卷</title>
+                     <title xml:lang="chi" source="#200">抱朴子內篇 二十卷</title>
                      <title source="#200|9">bao pu zi nei pian</title>
-                     <title source="#200">抱朴子外篇 五十卷</title>
+                     <title xml:lang="chi" source="#200">抱朴子外篇 五十卷</title>
                      <title source="#200|9">bao pu zi wai pian</title>
                      <note source="#290">(晉)葛洪撰</note>
-                     <author source="#300" key="person_2960"><persName>(晉)葛洪</persName><persName type="9">ge
+                     <author source="#300" key="person_2960"><persName xml:lang="chi">(晉)葛洪</persName><persName type="9">ge
                            hong</persName></author>
                   </msItem>
                </msContents>

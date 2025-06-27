@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">周易參同契通真義 三卷</title>
+                     <title xml:lang="chi" source="#200">周易參同契通真義 三卷</title>
                      <title source="#200|9">zhou yi can tong qi tong zhen yi</title>
                      <note source="#290">(後蜀)彭曉撰</note>
-                     <author source="#300" key="person_1879"><persName>(後蜀)彭曉</persName><persName type="9">peng
+                     <author source="#300" key="person_1879"><persName xml:lang="chi">(後蜀)彭曉</persName><persName type="9">peng
                            xiao</persName></author>
                   </msItem>
                </msContents>

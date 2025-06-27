@@ -49,9 +49,9 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">柏堂讀書筆記</title>
+                     <title xml:lang="chi" source="#200">柏堂讀書筆記</title>
                      <title source="#200|9">bai tang du shu bi ji</title>
-                     <author source="#300"><persName>(清)方宗誠</persName><persName type="9">fang zong
+                     <author source="#300"><persName xml:lang="chi">(清)方宗誠</persName><persName type="9">fang zong
                            che</persName></author>
                   </msItem>
                </msContents>
@@ -96,7 +96,7 @@
                      <msItem>
                         <title>論文章本原 三卷</title>
                         <title source="9">lun wen zhang ben yuan</title>
-                        <author><persName>(清)方宗誠</persName><persName type="9">fang zong
+                        <author><persName xml:lang="chi">(清)方宗誠</persName><persName type="9">fang zong
                               che</persName></author>
                         <note source="600">光緒四年[1878]刊</note>
                      </msItem>
@@ -122,7 +122,7 @@
                      <msItem>
                         <title>讀文雜記 一卷</title>
                         <title source="9">du wen za ji</title>
-                        <author><persName>(清)方宗誠</persName><persName type="9">fang zong
+                        <author><persName xml:lang="chi">(清)方宗誠</persName><persName type="9">fang zong
                               che</persName></author>
                         <note source="600">光緒四年[1878]刊</note>
                      </msItem>
@@ -148,7 +148,7 @@
                      <msItem>
                         <title>陶詩眞詮 一卷</title>
                         <title source="9">tao shi zhen quan</title>
-                        <author><persName>(清)方宗誠</persName><persName type="9">fang zong
+                        <author><persName xml:lang="chi">(清)方宗誠</persName><persName type="9">fang zong
                               che</persName></author>
                         <note source="600">光緒八年[1882]刊</note>
                      </msItem>
@@ -174,7 +174,7 @@
                      <msItem>
                         <title>說詩章義 三卷</title>
                         <title source="9">shuo shi zhang yi</title>
-                        <author><persName>(清)方宗誠</persName><persName type="9">fang zong
+                        <author><persName xml:lang="chi">(清)方宗誠</persName><persName type="9">fang zong
                               che</persName></author>
                         <note source="600">光緒八年[1882]刊</note>
                      </msItem>
@@ -200,7 +200,7 @@
                      <msItem>
                         <title>讀宋鑑論 三卷</title>
                         <title source="9">du song jian lun</title>
-                        <author><persName>(清)方宗誠</persName><persName type="9">fang zong
+                        <author><persName xml:lang="chi">(清)方宗誠</persName><persName type="9">fang zong
                               cheng</persName></author>
                         <note source="600">光緒三年[1877]刊</note>
                      </msItem>
@@ -226,7 +226,7 @@
                      <msItem>
                         <title>讀史雜記 一卷</title>
                         <title source="9">du shi za ji</title>
-                        <author><persName>(清)方宗誠</persName><persName type="9">fang zong
+                        <author><persName xml:lang="chi">(清)方宗誠</persName><persName type="9">fang zong
                               che</persName></author>
                         <note source="600">光緒四年[1878]刊</note>
                      </msItem>
@@ -252,7 +252,7 @@
                      <msItem>
                         <title>讀諸子諸儒書雜記 一卷</title>
                         <title source="9">du zhu zi zhu ru shu za ji</title>
-                        <author><persName>(清)方宗誠</persName><persName type="9">fang zong
+                        <author><persName xml:lang="chi">(清)方宗誠</persName><persName type="9">fang zong
                               che</persName></author>
                         <note source="600">光緒四年[1878]刊</note>
                      </msItem>

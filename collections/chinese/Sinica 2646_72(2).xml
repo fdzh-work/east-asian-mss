@@ -49,13 +49,13 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">孫公談圃 三卷</title>
+                     <title xml:lang="chi" source="#200">孫公談圃 三卷</title>
                      <title source="#200|9">sun gong tan pu</title>
                      <note source="#290">(宋)孫升述</note>
                      <note source="#290">(宋)劉廷世錄</note>
-                     <author source="#300" key="person_1102"><persName>(宋)孫升</persName><persName type="9">sun
+                     <author source="#300" key="person_1102"><persName xml:lang="chi">(宋)孫升</persName><persName type="9">sun
                            sheng</persName></author>
-                     <author source="#300" key="person_973"><persName>(宋)劉廷世</persName><persName type="9">liu ting
+                     <author source="#300" key="person_973"><persName xml:lang="chi">(宋)劉廷世</persName><persName type="9">liu ting
                            shi</persName></author>
                   </msItem>
                </msContents>

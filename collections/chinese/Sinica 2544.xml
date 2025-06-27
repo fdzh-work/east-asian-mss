@@ -46,7 +46,7 @@
                <head>書名: 八宗綱要 二卷 / (日本釋)凝然撰 ; (清釋)淨賢校<lb/>清宣統三年[1911]揚州藏經院刊本<lb/>線裝1冊 ; 25公分<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">八宗綱要 二卷</title><title source="#200|9">ba zong gang yao</title><note source="#290">(日本釋)凝然撰</note><note source="#290">(清釋)淨賢校</note><author source="#300" key="person_1973"><persName>(日本釋)凝然</persName><persName type="9">gyounen_j</persName></author><author source="#300" key="person_6463"><persName>(清釋)淨賢</persName><persName type="9">jing xian</persName></author><note source="#409">清宣統三年[1911]揚州藏經院刊本</note><editor source="#440" role="pbl"><persName>揚州藏經院</persName><persName type="9" role="pbl">yang zhou cang jing yuan</persName></editor></msItem>         
+                  <title xml:lang="chi" source="#200">八宗綱要 二卷</title><title source="#200|9">ba zong gang yao</title><note source="#290">(日本釋)凝然撰</note><note source="#290">(清釋)淨賢校</note><author source="#300" key="person_1973"><persName xml:lang="chi">(日本釋)凝然</persName><persName type="9">gyounen_j</persName></author><author source="#300" key="person_6463"><persName xml:lang="chi">(清釋)淨賢</persName><persName type="9">jing xian</persName></author><note source="#409">清宣統三年[1911]揚州藏經院刊本</note><editor source="#440" role="pbl"><persName>揚州藏經院</persName><persName type="9" role="pbl">yang zhou cang jing yuan</persName></editor></msItem>         
                </msContents>
                <physDesc>
                   

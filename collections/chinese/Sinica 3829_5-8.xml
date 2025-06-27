@@ -49,10 +49,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">金石三例續編</title>
+                     <title xml:lang="chi" source="#200">金石三例續編</title>
                      <title source="#200|9">jin shi san li xu bian</title>
                      <note source="#290">(清)朱記榮輯</note>
-                     <author source="#300" key="person_4430"><persName>(清)朱記榮</persName><persName type="9">zhu ji
+                     <author source="#300" key="person_4430"><persName xml:lang="chi">(清)朱記榮</persName><persName type="9">zhu ji
                            rong</persName></author>
                      <note source="#600">光緒十一年[1885]彙印</note>
                   </msItem>
@@ -99,7 +99,7 @@
                         <title>誌銘廣例 二卷</title>
                         <title source="9">zhi ming guang li</title>
                         <note source="290">(清)梁玉繩撰</note>
-                        <author key="person_4639"><persName>(清)梁玉繩</persName><persName type="9">liang yu
+                        <author key="person_4639"><persName xml:lang="chi">(清)梁玉繩</persName><persName type="9">liang yu
                               sheng</persName></author>
                         <note source="600">光緒三一年[1877]行素草堂刊</note>
                      </msItem>
@@ -126,7 +126,7 @@
                         <title>金石例補 二卷</title>
                         <title source="9">jin shi li bu</title>
                         <note source="290">(清)郭麐撰</note>
-                        <author key="person_5805"><persName>(清)郭麐</persName><persName type="9">guo
+                        <author key="person_5805"><persName xml:lang="chi">(清)郭麐</persName><persName type="9">guo
                            lin</persName></author>
                         <note source="600">光緒三年[1877]行素草堂刊</note>
                      </msItem>
@@ -154,7 +154,7 @@
                         <title>漢石例 六卷</title>
                         <title source="9">han shi li</title>
                         <note source="290">(清)劉寶楠撰</note>
-                        <author key="person_3433"><persName>(清)劉寶楠</persName><persName type="9">liu bao
+                        <author key="person_3433"><persName xml:lang="chi">(清)劉寶楠</persName><persName type="9">liu bao
                            nan</persName></author>
                         <note source="600">四明蔣瑞堂刊</note>
                      </msItem>

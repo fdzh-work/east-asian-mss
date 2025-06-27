@@ -49,23 +49,23 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">纂要 一卷</title>
+                     <title xml:lang="chi" source="#200">纂要 一卷</title>
                      <title source="#200|9">zuan yao</title>
                      <note source="#290">(梁)元帝撰</note>
                      <note source="#290">(民國)曹元忠輯</note>
-                     <author source="#300" key="person_3021"><persName>(梁)元帝</persName><persName type="9">yuan
+                     <author source="#300" key="person_3021"><persName xml:lang="chi">(梁)元帝</persName><persName type="9">yuan
                            di</persName></author>
-                     <author source="#300" key="person_3123"><persName>(民國)曹元忠</persName><persName type="9">cao yuan
+                     <author source="#300" key="person_3123"><persName xml:lang="chi">(民國)曹元忠</persName><persName type="9">cao yuan
                            zhong</persName></author>
                   </msItem>
                   <msItem n="2">
-                     <title source="#201">附 纂要解 一卷</title>
+                     <title xml:lang="chi" source="#201">附 纂要解 一卷</title>
                      <title source="#201|9">zuan yao jie</title>
                      <note source="#291">(劉宋)顏延之撰</note>
                      <note source="#291">(民國)曹元忠輯</note>
-                     <author source="#301" key="person_387"><persName>(劉宋)顏延之</persName><persName type="9">yan yan
+                     <author source="#301" key="person_387"><persName xml:lang="chi">(劉宋)顏延之</persName><persName type="9">yan yan
                            zhi</persName></author>
-                     <author source="#301" key="person_3123"><persName>(民國)曹元忠</persName><persName type="9">cao yuan
+                     <author source="#301" key="person_3123"><persName xml:lang="chi">(民國)曹元忠</persName><persName type="9">cao yuan
                            zhong</persName></author>
                   </msItem>
                </msContents>

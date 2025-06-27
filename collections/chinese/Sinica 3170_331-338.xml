@@ -49,17 +49,17 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">太常因革禮 一百卷(原缺卷五十一至六十七)</title>
+                     <title xml:lang="chi" source="#200">太常因革禮 一百卷(原缺卷五十一至六十七)</title>
                      <title source="#200|9">tai chang yin ge li</title>
                      <note source="#290">(宋)歐陽修等撰</note>
-                     <author source="#300" key="person_1349"><persName>(宋)歐陽修</persName><persName type="9">ou yang
+                     <author source="#300" key="person_1349"><persName xml:lang="chi">(宋)歐陽修</persName><persName type="9">ou yang
                            xiu</persName></author>
                   </msItem>
                   <msItem n="2">
-                     <title source="#201">附 太常因革禮校識 二卷</title>
+                     <title xml:lang="chi" source="#201">附 太常因革禮校識 二卷</title>
                      <title source="#201|9">tai chang yin ge li jiao shi</title>
                      <note source="#291">(清)廖廷相撰</note>
-                     <author source="#301" key="person_3969"><persName>(清)廖廷相</persName><persName type="9">liao ting
+                     <author source="#301" key="person_3969"><persName xml:lang="chi">(清)廖廷相</persName><persName type="9">liao ting
                            xiang</persName></author>
                   </msItem>
                </msContents>

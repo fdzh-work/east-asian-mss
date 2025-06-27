@@ -46,7 +46,7 @@
                <head>書名: 孔子家語 十卷 / (魏)王肅注<lb/>明嘉靖甲寅[1554]吳郡黃周賢刊鈔補本<lb/>線裝6冊 ; 22公分<lb/>朱筆評點<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">孔子家語 十卷</title><title source="#200|9">kong zi jia yu</title><note source="#290">(魏)王肅注</note><author source="#300" key="person_6738"><persName>(魏)王肅</persName><persName type="9">wang su</persName></author><note source="#409">明嘉靖甲寅[1554]吳郡黃周賢刊鈔補本</note><note source="#600">朱筆評點</note></msItem>         
+                  <title xml:lang="chi" source="#200">孔子家語 十卷</title><title source="#200|9">kong zi jia yu</title><note source="#290">(魏)王肅注</note><author source="#300" key="person_6738"><persName xml:lang="chi">(魏)王肅</persName><persName type="9">wang su</persName></author><note source="#409">明嘉靖甲寅[1554]吳郡黃周賢刊鈔補本</note><note source="#600">朱筆評點</note></msItem>         
                </msContents>
                <physDesc>
                   

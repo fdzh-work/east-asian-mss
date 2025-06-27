@@ -46,7 +46,7 @@
                <head>書名: 清文典要 四卷 / (清)秋芳堂主人撰<lb/>清光緒四年[1878]刊滿漢合璧本文淵堂藏板<lb/>線裝4冊 ; 21公分<lb/>墨筆批校<lb/></head><msContents>
                   <textLang mainLang="mnc" otherLangs="chi">Manchu, Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">清文典要 四卷</title><title source="#200|9">qing wen dian yao</title><note source="#290">(清)秋芳堂主人撰</note><author source="#300" key="person_5236"><persName>(清)秋芳堂主人</persName><persName type="9">qiu fang tang zhu ren</persName></author><note source="#409">清光緒四年[1878]刊滿漢合璧本文淵堂藏板</note><editor source="#440" role="pbl"><persName>文淵堂</persName><persName type="9" role="pbl">wen yuan tang</persName></editor><note source="#600">墨筆批校</note></msItem>         
+                  <title xml:lang="chi" source="#200">清文典要 四卷</title><title source="#200|9">qing wen dian yao</title><note source="#290">(清)秋芳堂主人撰</note><author source="#300" key="person_5236"><persName xml:lang="chi">(清)秋芳堂主人</persName><persName type="9">qiu fang tang zhu ren</persName></author><note source="#409">清光緒四年[1878]刊滿漢合璧本文淵堂藏板</note><editor source="#440" role="pbl"><persName>文淵堂</persName><persName type="9" role="pbl">wen yuan tang</persName></editor><note source="#600">墨筆批校</note></msItem>         
                </msContents>
                <physDesc>
                   

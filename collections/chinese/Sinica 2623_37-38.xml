@@ -49,13 +49,13 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">大唐西域記 十二卷</title>
+                     <title xml:lang="chi" source="#200">大唐西域記 十二卷</title>
                      <title source="#200|9">da tang xi yu ji</title>
                      <note source="#290">(唐釋)玄奘譯</note>
                      <note source="#290">(唐釋)辯機撰</note>
-                     <author source="#300" key="person_908"><persName>(唐釋)玄奘</persName><persName type="9">xuan
+                     <author source="#300" key="person_908"><persName xml:lang="chi">(唐釋)玄奘</persName><persName type="9">xuan
                            zang</persName></author>
-                     <author source="#300" key="person_920"><persName>(唐釋)辯機</persName><persName type="9">bian
+                     <author source="#300" key="person_920"><persName xml:lang="chi">(唐釋)辯機</persName><persName type="9">bian
                            ji</persName></author>
                   </msItem>
                </msContents>

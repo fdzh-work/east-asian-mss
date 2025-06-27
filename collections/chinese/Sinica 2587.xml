@@ -46,7 +46,7 @@
                <head>書名: 三合便覽 不分卷 / (清)敬齋編 ; (清)富俊補<lb/>清乾隆庚子[1792]刊滿蒙漢三合本<lb/>線裝12冊 ; 27公分<lb/></head><msContents>
                   <textLang mainLang="mnc" otherLangs="mon chi">Manchu, Mongolian, Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">三合便覽 不分卷</title><title source="#200|9">san he bian lan</title><note source="#290">(清)敬齋編</note><note source="#290">(清)富俊補</note><author source="#300" key="person_4286"><persName>(清)敬齋</persName><persName type="9">jing zhai</persName></author><author source="#300" key="person_3918"><persName>(清)富俊</persName><persName type="9">fu jun</persName></author><note source="#409">清乾隆庚子[1792]刊滿蒙漢三合本</note></msItem>         
+                  <title xml:lang="chi" source="#200">三合便覽 不分卷</title><title source="#200|9">san he bian lan</title><note source="#290">(清)敬齋編</note><note source="#290">(清)富俊補</note><author source="#300" key="person_4286"><persName xml:lang="chi">(清)敬齋</persName><persName type="9">jing zhai</persName></author><author source="#300" key="person_3918"><persName xml:lang="chi">(清)富俊</persName><persName type="9">fu jun</persName></author><note source="#409">清乾隆庚子[1792]刊滿蒙漢三合本</note></msItem>         
                </msContents>
                <physDesc>
                   

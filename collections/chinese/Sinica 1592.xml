@@ -46,7 +46,7 @@
                <head>書名: 醫院錄要 / 吳威凜校訂<lb/>[Hong Kong], 1874<lb/>線裝1冊(11頁) ; 20.9公分<lb/>Report of the missionary hospital at Swatow<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                  <title source="#200">醫院錄要</title><title source="#200|9">yi yuan lu yao</title><note source="#290">吳威凜校訂</note><author source="#300" key="person_6859"><persName>Gauld, William</persName></author><note source="#600">Report of the missionary hospital at Swatow</note></msItem>         
+                  <title xml:lang="chi" source="#200">醫院錄要</title><title source="#200|9">yi yuan lu yao</title><note source="#290">吳威凜校訂</note><author source="#300" key="person_6859"><persName xml:lang="chi">Gauld, William</persName></author><note source="#600">Report of the missionary hospital at Swatow</note></msItem>         
                </msContents>
                <physDesc>
                   

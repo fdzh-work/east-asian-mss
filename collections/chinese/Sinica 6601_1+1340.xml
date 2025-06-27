@@ -50,10 +50,10 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">地理淺說 一卷</title>
+                     <title xml:lang="chi" source="#200">地理淺說 一卷</title>
                      <title source="#200|9">di li qian shuo</title>
                      <note source="#290">(美國)林樂知撰</note>
-                     <author source="#300" key="person_6759"><persName>Allen, Young John</persName></author>
+                     <author source="#300" key="person_6759"><persName xml:lang="chi">Allen, Young John</persName></author>
                   </msItem>
                </msContents>
                <physDesc>

@@ -49,13 +49,13 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">西湖百詠 二卷</title>
+                     <title xml:lang="chi" source="#200">西湖百詠 二卷</title>
                      <title source="#200|9">xi hu bai yong</title>
                      <note source="#290">(宋)董嗣杲撰</note>
                      <note source="#290">(明)陳贄和</note>
-                     <author source="#300" key="person_1559"><persName>(宋)董嗣杲</persName><persName type="9">dong si
+                     <author source="#300" key="person_1559"><persName xml:lang="chi">(宋)董嗣杲</persName><persName type="9">dong si
                            hao</persName></author>
-                     <author source="#300" key="person_2730"><persName>(明)陳贄</persName><persName type="9">chen
+                     <author source="#300" key="person_2730"><persName xml:lang="chi">(明)陳贄</persName><persName type="9">chen
                            zhi</persName></author>
                      <note source="#600">光緒七年[1881]刊</note>
                   </msItem>

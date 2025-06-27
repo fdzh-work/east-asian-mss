@@ -46,8 +46,8 @@
                <head>書名: 孔明獻空城計歌 上、中、下本<lb/>三國相褒歌 上、下本<lb/>民國四十九年[1960]臺北排印再版本竹林書局發行<lb/>毛裝1冊 ; 16公分<lb/>封面題名《孔明獻空城三國誌演義歌》<lb/></head><msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem><editor source="#440" role="pbl"><persName>竹林書局</persName><persName type="9" role="pbl">zhu lin shu ju</persName></editor><note source="#409">民國四十九年[1960]臺北排印再版本竹林書局發行</note><note source="#600">封面題名《孔明獻空城三國誌演義歌》</note><msItem n="1">
-                  <title source="#200">孔明獻空城計歌 上、中、下本</title><title source="#200|9">kong ming xian kong cheng ji ge</title><title type="variant" source="#230">孔明獻空城三國誌演義歌</title><title source="#230|9" type="variant">kong ming xian kong cheng san guo zhi yan yi ge</title></msItem>         
-               <msItem n="2"><title source="#201">三國相褒歌 上、下本</title><title source="#201|9">san guo xiang bao ge</title></msItem></msItem></msContents>
+                  <title xml:lang="chi" source="#200">孔明獻空城計歌 上、中、下本</title><title source="#200|9">kong ming xian kong cheng ji ge</title><title type="variant" source="#230">孔明獻空城三國誌演義歌</title><title source="#230|9" type="variant">kong ming xian kong cheng san guo zhi yan yi ge</title></msItem>         
+               <msItem n="2"><title xml:lang="chi" source="#201">三國相褒歌 上、下本</title><title source="#201|9">san guo xiang bao ge</title></msItem></msItem></msContents>
                <physDesc>
                   
                   <objectDesc>

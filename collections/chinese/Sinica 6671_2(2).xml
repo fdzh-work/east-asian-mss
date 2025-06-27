@@ -49,20 +49,20 @@
                <msContents>
                   <textLang/>
                   <msItem n="1">
-                     <title source="#200">孝經 一卷</title>
+                     <title xml:lang="chi" source="#200">孝經 一卷</title>
                      <title source="#200|9">xiao jing</title>
                      <note source="#290">(清)朱軾按</note>
                      <note source="#290">(元)吳澄校定</note>
-                     <author source="#300" key="person_84"><persName>(元)吳澄</persName><persName type="9">wu
+                     <author source="#300" key="person_84"><persName xml:lang="chi">(元)吳澄</persName><persName type="9">wu
                            cheng</persName></author>
-                     <author source="#300" key="person_4432"><persName>(清)朱軾</persName><persName type="9">zhu
+                     <author source="#300" key="person_4432"><persName xml:lang="chi">(清)朱軾</persName><persName type="9">zhu
                            shi</persName></author>
                   </msItem>
                   <msItem n="2">
-                     <title source="#201">附 孝經三本管窺 一卷</title>
+                     <title xml:lang="chi" source="#201">附 孝經三本管窺 一卷</title>
                      <title source="#201|9">xiao jing san ben guan kui</title>
                      <note source="#291">(清)吳隆元學</note>
-                     <author source="#301" key="person_3642"><persName>(清)吳隆元</persName><persName type="9">wu long
+                     <author source="#301" key="person_3642"><persName xml:lang="chi">(清)吳隆元</persName><persName type="9">wu long
                            yuan</persName></author>
                   </msItem>
                </msContents>

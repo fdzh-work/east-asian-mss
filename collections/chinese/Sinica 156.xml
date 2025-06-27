@@ -48,10 +48,10 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">國朝詠物詩鈔</title>
+                     <title xml:lang="chi" source="#200">國朝詠物詩鈔</title>
                      <title source="#200|9">guo chao yong wu shi chao</title>
                      <note source="#290">(清)水燿編</note>
-                     <author source="#300" key="person_4753"><persName>(清)水燿</persName><persName type="9">shui
+                     <author source="#300" key="person_4753"><persName xml:lang="chi">(清)水燿</persName><persName type="9">shui
                            yao</persName></author>
                      <note source="#409">清道光四年[1824]刊本越城敬藝堂藏板</note>
                      <editor source="#440" role="pbl"><persName>敬藝堂</persName><persName type="9" role="pbl">jing yi tang</persName></editor>
@@ -59,7 +59,7 @@
                         <title>梅村詠物詩鈔 二卷</title>
                         <title source="9">mei cun yong wu shi chao</title>
                         <note source="290">(清)吳偉業撰</note>
-                        <author key="person_3532"><persName>(清)吳偉業</persName><persName type="9">wu wei
+                        <author key="person_3532"><persName xml:lang="chi">(清)吳偉業</persName><persName type="9">wu wei
                            ye</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20070108/17:43:43|odh -->
@@ -70,7 +70,7 @@
                         <title>隨園詠物詩鈔 二卷</title>
                         <title source="9">sui yuan yong wu shi chao</title>
                         <note source="290">(清)袁枚撰</note>
-                        <author><persName>(清)袁枚</persName><persName type="9">yuan
+                        <author><persName xml:lang="chi">(清)袁枚</persName><persName type="9">yuan
                            mei</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20070108/17:46:36|odh -->
@@ -80,7 +80,7 @@
                         <title>甌北詠物詩鈔 二卷</title>
                         <title source="9">ou bei yong wu shi chao</title>
                         <note source="290">(清)趙翼撰</note>
-                        <author key="person_5747"><persName>(清)趙翼</persName><persName type="9">zhao
+                        <author key="person_5747"><persName xml:lang="chi">(清)趙翼</persName><persName type="9">zhao
                            yi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20070108/17:47:56|odh -->
@@ -90,7 +90,7 @@
                         <title>鼓人詠物詩鈔 二卷</title>
                         <title source="9">gu ren yong wu shi chao</title>
                         <note source="290">(清)吳錫麒撰</note>
-                        <author key="person_3634"><persName>(清)吳錫麒</persName><persName type="9">wu xi
+                        <author key="person_3634"><persName xml:lang="chi">(清)吳錫麒</persName><persName type="9">wu xi
                            qi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20070108/17:49:18|odh -->

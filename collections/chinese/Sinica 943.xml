@@ -48,10 +48,10 @@
                <msContents>
                   <textLang mainLang="chi">Chinese</textLang>
                   <msItem n="1">
-                     <title source="#200">北徼彙編</title>
+                     <title xml:lang="chi" source="#200">北徼彙編</title>
                      <title source="#200|9">bei jiao hui bian</title>
                      <note source="#290">(清)何秋濤編</note>
-                     <author source="#300" key="person_3323"><persName>(清)何秋濤</persName><persName type="9">he qiu
+                     <author source="#300" key="person_3323"><persName xml:lang="chi">(清)何秋濤</persName><persName type="9">he qiu
                            tao</persName></author>
                      <note source="#409">清同治四年[1865]京都龍威閣刊本</note>
                      <editor source="#440" role="pbl"><persName>龍威閣</persName><persName type="9" role="pbl">long wei ge</persName></editor>
@@ -67,7 +67,7 @@
                         <title>與俄羅斯國定界之碑</title>
                         <title source="9">yu e luo si guo ding jie zhi bei</title>
                         <note source="290">(清)徐元文撰</note>
-                        <author key="person_4158"><persName>(清)徐元文</persName><persName type="9">xu yuan
+                        <author key="person_4158"><persName xml:lang="chi">(清)徐元文</persName><persName type="9">xu yuan
                            wen</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20131210/13:17:17|odh -->
@@ -77,7 +77,7 @@
                         <title>鄂羅斯傳</title>
                         <title source="9">e luo si zhuan</title>
                         <note source="290">(清)七十一撰</note>
-                        <author key="person_3270"><persName>(清)七十一</persName><persName type="9">qi shi
+                        <author key="person_3270"><persName xml:lang="chi">(清)七十一</persName><persName type="9">qi shi
                            yi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20131210/13:19:30|odh -->
@@ -87,7 +87,7 @@
                         <title>簷曝雜記</title>
                         <title source="9">yan pu za ji</title>
                         <note source="290">(清)趙翼撰</note>
-                        <author key="person_5747"><persName>(清)趙翼</persName><persName type="9">zhao
+                        <author key="person_5747"><persName xml:lang="chi">(清)趙翼</persName><persName type="9">zhao
                            yi</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20131210/13:20:13|odh -->
@@ -97,7 +97,7 @@
                         <title>綏服紀略</title>
                         <title source="9">sui fu ji lue</title>
                         <note source="290">(清)松筠撰</note>
-                        <author key="person_4579"><persName>(清)松筠</persName><persName type="9">song
+                        <author key="person_4579"><persName xml:lang="chi">(清)松筠</persName><persName type="9">song
                            yun</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20131210/13:21:48|odh -->
@@ -107,7 +107,7 @@
                         <title>俄羅斯佐領考</title>
                         <title source="9">e luo si zuo ling kao</title>
                         <note source="290">(清)俞正燮撰</note>
-                        <author key="person_3354"><persName>(清)俞正燮</persName><persName type="9">yu zheng
+                        <author key="person_3354"><persName xml:lang="chi">(清)俞正燮</persName><persName type="9">yu zheng
                               xie</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20131210/13:23:57|odh -->
@@ -118,7 +118,7 @@
                         <title>俄羅斯事輯</title>
                         <title source="9">e luo si shi ji</title>
                         <note source="290">(清)俞正燮撰</note>
-                        <author key="person_3354"><persName>(清)俞正燮</persName><persName type="9">yu zheng
+                        <author key="person_3354"><persName xml:lang="chi">(清)俞正燮</persName><persName type="9">yu zheng
                               xie</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20131210/13:26:22|odh -->
@@ -128,7 +128,7 @@
                         <title>俄羅斯長編稿跋</title>
                         <title source="9">e luo si chang bian gao ba</title>
                         <note source="290">(清)俞正燮撰</note>
-                        <author key="person_3354"><persName>(清)俞正燮</persName><persName type="9">yu zheng
+                        <author key="person_3354"><persName xml:lang="chi">(清)俞正燮</persName><persName type="9">yu zheng
                               xie</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20131210/13:27:43|odh -->
@@ -138,7 +138,7 @@
                         <title>俄羅斯事補輯</title>
                         <title source="9">e luo si shi bu ji</title>
                         <note source="290">(清)張穆撰</note>
-                        <author key="person_4085"><persName>(清)張穆</persName><persName type="9">zhang
+                        <author key="person_4085"><persName xml:lang="chi">(清)張穆</persName><persName type="9">zhang
                            mu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20131210/13:28:58|odh -->
@@ -148,7 +148,7 @@
                         <title>㐆齋籤記</title>
                         <title source="9">yi zhai qian ji</title>
                         <note source="290">(清)張穆撰</note>
-                        <author key="person_4085"><persName>(清)張穆</persName><persName type="9">zhang
+                        <author key="person_4085"><persName xml:lang="chi">(清)張穆</persName><persName type="9">zhang
                            mu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20131210/13:31:35|odh -->
@@ -159,7 +159,7 @@
                         <title>俄羅斯國總記</title>
                         <title source="9">e luo si guo zong ji</title>
                         <note source="290">(清)林則徐撰</note>
-                        <author key="person_4584"><persName>(清)林則徐</persName><persName type="9">lin ze
+                        <author key="person_4584"><persName xml:lang="chi">(清)林則徐</persName><persName type="9">lin ze
                            xu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20131210/13:37:36|odh -->
@@ -169,7 +169,7 @@
                         <title>康熙乾隆俄羅斯盟聘記</title>
                         <title source="9">kang xi qian liong e luo si meng pin ji</title>
                         <note source="290">(清)魏源撰</note>
-                        <author key="person_6321"><persName>(清)魏源</persName><persName type="9">wei
+                        <author key="person_6321"><persName xml:lang="chi">(清)魏源</persName><persName type="9">wei
                            yuan</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20131210/13:41:29|odh -->
@@ -179,7 +179,7 @@
                         <title>俄羅斯方域 </title>
                         <title source="9">e luo si fang yu</title>
                         <note source="290">(清)姚瑩撰</note>
-                        <author key="person_3797"><persName>(清)姚瑩</persName><persName type="9">yao
+                        <author key="person_3797"><persName xml:lang="chi">(清)姚瑩</persName><persName type="9">yao
                            ying</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20131210/13:42:41|odh -->
@@ -189,7 +189,7 @@
                         <title>記英俄二夷搆兵</title>
                         <title source="9">ji ying e er yi gou bing</title>
                         <note source="290">(清)姚瑩撰</note>
-                        <author key="person_3797"><persName>(清)姚瑩</persName><persName type="9">yao
+                        <author key="person_3797"><persName xml:lang="chi">(清)姚瑩</persName><persName type="9">yao
                            ying</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20131210/13:43:58|odh -->
@@ -199,7 +199,7 @@
                         <title>俄羅斯國志略</title>
                         <title source="9">e luo si guo zhi lue</title>
                         <note source="290">(清)徐繼畬撰</note>
-                        <author key="person_4224"><persName>(清)徐繼畬</persName><persName type="9">xu ji
+                        <author key="person_4224"><persName xml:lang="chi">(清)徐繼畬</persName><persName type="9">xu ji
                            yu</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20131210/13:47:06|odh -->
@@ -209,7 +209,7 @@
                         <title>奉使俄羅斯行程錄</title>
                         <title source="9">feng shi e luo si xing cheng lu</title>
                         <note source="290">(清)張鵬翮撰</note>
-                        <author key="person_4131"><persName>(清)張鵬翮</persName><persName type="9">zhang peng
+                        <author key="person_4131"><persName xml:lang="chi">(清)張鵬翮</persName><persName type="9">zhang peng
                               he</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20131210/13:48:37|odh -->
@@ -219,7 +219,7 @@
                         <title>職方外紀</title>
                         <title source="9">zhi fang wai ji</title>
                         <note source="290">(明西洋)艾儒略撰</note>
-                        <author key="person_6758"><persName>Aleni, Giulio</persName></author>
+                        <author key="person_6758"><persName xml:lang="chi">Aleni, Giulio</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20131210/13:50:37|odh -->
                         <!-- #0rx: dh489+17 -->
@@ -228,7 +228,7 @@
                         <title>俄羅斯進呈書籍記附目錄</title>
                         <title source="9">e luo si jin cheng shu ji ji fu mu lu</title>
                         <note source="290">(清)何秋濤撰</note>
-                        <author key="person_3323"><persName>(清)何秋濤</persName><persName type="9">he qiu
+                        <author key="person_3323"><persName xml:lang="chi">(清)何秋濤</persName><persName type="9">he qiu
                            tao</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20131210/13:57:20|odh -->
@@ -238,7 +238,7 @@
                         <title>異域錄 二卷</title>
                         <title source="9">yi yu lu</title>
                         <note source="290">(清)圖理琛撰</note>
-                        <author key="person_3762"><persName>(清)圖理琛</persName><persName type="9">tu li
+                        <author key="person_3762"><persName xml:lang="chi">(清)圖理琛</persName><persName type="9">tu li
                            chen</persName></author>
                         <!--Unused allegro fields-->
                         <!-- #000: 20131210/13:59:17|odh -->
