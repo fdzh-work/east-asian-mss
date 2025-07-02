@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17295</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,9 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 4663/2(1)</idno>
                </msIdentifier>
-               <head>書名: 荊湘地記二十九種 / (清)陳運溶輯<lb/>光緒己亥[1899]刊<lb/>收於: 麓山精舍叢書 存第一集 /
-                  (清)陳運溶輯<lb/>清光緒中湘西陳氏刊本<lb/>線裝3冊 ; 25公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17295">Sinica 4663</ref><lb/>書名: 荊湘地記二十九種 / (清)陳運溶輯</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">荊湘地記二十九種</title>

@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17473</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,9 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 6686/4(3)</idno>
                </msIdentifier>
-               <head>書名: 曾公遺錄 殘三卷(卷七～九) / (宋)曾布撰<lb/>宣統庚戌[1910]刊<lb/>收於: 藕香零拾 /
-                  (清)繆荃孫輯<lb/>清光緒宣統間刊本<lb/>洋裝5冊(原線裝32冊) ; 26公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17473">Sinica 6686</ref><lb/>書名: 曾公遺錄 殘三卷(卷七～九) / (宋)曾布撰</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">曾公遺錄 殘三卷(卷七～九)</title>

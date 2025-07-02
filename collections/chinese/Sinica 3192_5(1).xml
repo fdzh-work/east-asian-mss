@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17231</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,10 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 3192/5(1)</idno>
                </msIdentifier>
-               <head>書名: 揚州鼓吹詞序 一卷 / (清)吳綺撰<lb/>民國二十一年[1932]刊<lb/>收於: 揚州叢刻 /
-                  (民國)陳恆和編<lb/>民國十九年[1930]至二十三年[1934]間揚州陳氏福州刊1980年江蘇廣陵古籍刻印社重印本<lb/>線裝16冊 ;
-                  27公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17231">Sinica 3192</ref><lb/>書名: 揚州鼓吹詞序 一卷 / (清)吳綺撰</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">揚州鼓吹詞序 一卷</title>

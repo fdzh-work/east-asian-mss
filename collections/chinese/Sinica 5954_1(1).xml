@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17336</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,9 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 5954/1(1)</idno>
                </msIdentifier>
-               <head>書名: 雲謠集雜曲子 一卷附校記一卷 / (唐)佚名撰 ; (民國)朱祖謀校<lb/>收於: 彊邨遺書 /
-                  (民國)朱祖謀撰<lb/>民國壬申[1932]序刊本<lb/>洋裝2冊(原線裝12冊) ; 24公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17336">Sinica 5954</ref><lb/>書名: 雲謠集雜曲子 一卷附校記一卷 / (唐)佚名撰; (民國)朱祖謀校</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">雲謠集雜曲子 一卷附校記一卷</title>

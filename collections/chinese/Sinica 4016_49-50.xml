@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17277</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,9 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 4016/49-50</idno>
                </msIdentifier>
-               <head>書名: 調燮類編 四卷<lb/>道光二十七年[1847]刊<lb/>收於: 海山仙館叢書 /
-                  (清)潘仕成編<lb/>清道光咸豐間番禺潘氏刊光緒中補刊本<lb/>線裝128冊 ; 20公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17277">Sinica 4016</ref><lb/>書名: 調燮類編 四卷</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">調燮類編 四卷</title>

@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17526</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,9 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 6749/21(8)</idno>
                </msIdentifier>
-               <head>書名: 禹貢圖 一卷 / (清)陳澧撰<lb/>收於: 皇清經解續編 / (清)王先謙輯<lb/>清光緒己丑[1889]上海蜚英館石印本<lb/>線裝32冊 ;
-                  20公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17526">Sinica 6749</ref><lb/>書名: 禹貢圖 一卷 / (清)陳澧撰</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">禹貢圖 一卷</title>

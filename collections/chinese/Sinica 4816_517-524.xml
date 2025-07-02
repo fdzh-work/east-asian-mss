@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17315</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,10 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 4816/517-524</idno>
                </msIdentifier>
-               <head>書名: 遼史 一百十六卷 /
-                  (元)脫脫等奉敕撰<lb/>8冊<lb/>收於: 二十四史<lb/>清光緒十年[1884]上海同文書局縮印乾隆四年[1739]內府刊本<lb/>線裝711冊 ;
-                  20公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17315">Sinica 4816</ref><lb/>書名: 遼史 一百十六卷 / (元)脫脫等奉敕撰</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">遼史 一百十六卷</title>

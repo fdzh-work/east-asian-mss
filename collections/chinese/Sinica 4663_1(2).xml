@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17295</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,9 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 4663/1(2)</idno>
                </msIdentifier>
-               <head>書名: 晉紀 一卷 / (晉)鄧粲撰 ; (清)陳運溶集證<lb/>光緒庚子[1900]刊<lb/>收於: 麓山精舍叢書 存第一集 /
-                  (清)陳運溶輯<lb/>清光緒中湘西陳氏刊本<lb/>線裝3冊 ; 25公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17295">Sinica 4663</ref><lb/>書名: 晉紀 一卷 / (晉)鄧粲撰; (清)陳運溶集證</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">晉紀 一卷</title>

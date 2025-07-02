@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17450</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,9 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 6659/1</idno>
                </msIdentifier>
-               <head>書名: 讀書雜識 十二卷 / (清)勞格撰<lb/>光緒戊寅[1878]刊本<lb/>收於: 月河精舍叢鈔 /
-                  (清)丁寶書輯<lb/>清光緒六年(1880)苕溪丁氏刊本<lb/>洋裝4冊(原線裝20冊) ; 25公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17450">Sinica 6659</ref><lb/>書名: 讀書雜識 十二卷 / (清)勞格撰</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">讀書雜識 十二卷</title>

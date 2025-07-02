@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17276</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,9 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 3977/6(2)</idno>
                </msIdentifier>
-               <head>書名: 春卿遺稿 一卷續編一卷 / (宋)蔣堂撰<lb/>民國戊辰[1928]影刊舊鈔本<lb/>收於: 託跋廛叢刻 /
-                  (民國)陶湘輯<lb/>民國武進陶氏涉園刊1990年代北京市中國書店印本<lb/>線裝8冊 ; 32公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17276">Sinica 3977</ref><lb/>書名: 春卿遺稿 一卷續編一卷 / (宋)蔣堂撰</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">春卿遺稿 一卷續編一卷</title>

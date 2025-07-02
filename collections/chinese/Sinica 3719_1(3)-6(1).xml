@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17253</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,10 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 3719/1(3)-6(1)</idno>
                </msIdentifier>
-               <head>書名: 春星草堂集 / (清)沈炳瑩撰<lb/>收於: 吳興長穚沈氏家集 /
-                  (清)沈家本編<lb/>清光緒中吳興沈氏刊1990年北京中國書店重印本殘損版以影印配補<lb/>線裝6冊 ; 29公分<lb/>ISBN
-                  7-80568-247-X<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17253">Sinica 3719</ref><lb/>書名: 春星草堂集 / (清)沈炳瑩撰</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">春星草堂集</title>

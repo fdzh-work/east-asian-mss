@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17476</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,9 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 6688/13-16</idno>
                </msIdentifier>
-               <head>書名: 今文尚書經說攷 三十二卷首一卷敘錄一卷 / (清)陳喬樅撰<lb/>收於: 左海續集 /
-                  (清)陳壽祺撰<lb/>清道光同治間刊本<lb/>洋裝12冊(原線裝48冊) ; 26公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17476">Sinica 6688_7-18</ref><lb/>書名: 今文尚書經說攷 三十二卷首一卷敘錄一卷 / (清)陳喬樅撰</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">今文尚書經說攷 三十二卷首一卷敘錄一卷</title>

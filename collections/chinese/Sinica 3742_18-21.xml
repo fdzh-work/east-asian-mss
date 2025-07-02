@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17257</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,10 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 3742/18-21</idno>
                </msIdentifier>
-               <head>書名: 虞氏逸象考正 一卷續纂一卷 ; 九家易象辨證 一卷 ; 虞氏易義補注 一卷附錄一卷 ; 周易本義辨證補訂 四卷 ; 漢儒傳易源流 一卷 /
-                  (清)紀磊撰<lb/>1函4冊<lb/>民國十二年[1923]刊<lb/>ISBN 7-5010-0466-8<lb/>收於: 吳興叢書 /
-                  劉承幹編<lb/>民國吳興劉氏嘉業堂刊1992年北京文物出版社重印本殘損版以影印配補浙江圖書館藏版<lb/>線裝222冊 ; 29公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17257">Sinica 3742</ref><lb/>書名: 虞氏逸象考正 一卷續纂一卷 / (清)紀磊撰</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">虞氏逸象考正 一卷續纂一卷</title>

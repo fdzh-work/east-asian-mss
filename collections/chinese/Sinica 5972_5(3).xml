@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17344</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,9 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 5972/5(3)</idno>
                </msIdentifier>
-               <head>書名: 長春競辰樂府 一卷 / (明)朱讓栩撰<lb/>收於: 飲虹簃所刻曲 /
-                  (民國)盧前輯<lb/>民國丙子[1936]金陵盧氏刊本<lb/>洋裝5冊(原線裝32冊) ; 22公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17344">Sinica 5972</ref><lb/>書名: 長春競辰樂府 一卷 / (明)朱讓栩撰</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">長春競辰樂府 一卷</title>

@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17125</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,9 +44,7 @@
                   <collection>Backhouse</collection>
                   <idno type="shelfmark">Backhouse 565/4-10</idno>
                </msIdentifier>
-               <head>書名: 莊子南華真經 三卷 / (周)莊周撰<lb/>收於: 劉須谿評點九種書 / (宋)劉辰翁評點 ; (明)楊讖西編<lb/>附 劉須谿先生記鈔 八卷 /
-                  (宋)劉辰翁撰<lb/>明天啟三年[1623]武林楊氏刊本<lb/>線裝64冊 ; 26公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17125">Backhouse 565</ref><lb/>書名: 莊子南華真經 三卷 / (周)莊周撰</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">莊子南華真經 三卷</title>

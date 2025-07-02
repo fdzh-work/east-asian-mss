@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17249</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,10 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 3708/8-15</idno>
                </msIdentifier>
-               <head>書名: 春秋諸家解 十二卷總論一卷 / (清)王士撰<lb/>清同治十一年[1872]深澤王氏刊<lb/>收於: 毛氏春秋三種 /
-                  (清)毛士撰<lb/>清同治光緒間刊1991年北京中國書店重印本殘損版以影印配補<lb/>線裝23冊 ; 29公分<lb/>ISBN
-                  7-80568-338-7<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17249">Sinica 3708</ref><lb/>書名: 春秋諸家解 十二卷總論一卷 / (清)王士撰</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">春秋諸家解 十二卷總論一卷</title>

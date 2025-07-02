@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17407</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,9 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 6571/50-52</idno>
                </msIdentifier>
-               <head>書名: 山谷先生年譜 三十卷 / (宋)黃㽦編<lb/>民國三年[1914]刊<lb/>收於: 適園叢書 殘二十一種 /
-                  (清)張鈞衡輯<lb/>民國烏程張氏刊1992年北京文物出版社重印殘損版以影印配補浙江圖書館藏版<lb/>線裝69冊 ; 29公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17407">Sinica 6571</ref><lb/>書名: 山谷先生年譜 三十卷 / (宋)黃㽦編</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">山谷先生年譜 三十卷</title>

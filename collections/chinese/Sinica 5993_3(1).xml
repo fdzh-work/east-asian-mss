@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17349</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,11 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 5993/3(1)</idno>
                </msIdentifier>
-               <head>書名: 石屏長短句 一卷 / (宋)戴復古撰<lb/>景刊宋本<lb/>收於: 下列叢書仁和吳氏雙照樓景栞宋元本詞:<lb/>景刊宋金元明本詞四十種 /
-                  (民國)吳昌綬輯 ;
-                  (民國)陶湘續輯<lb/>清宣統三年[1911]至民國六年[1917]仁和吳氏雙照樓刊民國六年[1917]至十二年[1923]武進陶氏涉園續刊與《景汲古閣鈔宋金詞七種》合印本<lb/>洋裝7冊(原線裝32冊)
-                  ; 33公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17349">Sinica 5993_1-7a</ref><lb/>書名: 石屏長短句 一卷 / (宋)戴復古撰</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">石屏長短句 一卷</title>

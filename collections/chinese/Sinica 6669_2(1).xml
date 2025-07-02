@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17458</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,9 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 6669/2(1)</idno>
                </msIdentifier>
-               <head>書名: 楚頌亭詞第四集 一卷<lb/>光緒甲申[1884]刊《寶瓠齋雜俎》之六<lb/>收於: 易順鼎著書 四十一種 /
-                  (民國)易順鼎撰<lb/>集成清光緒民國間刊本船印本<lb/>洋裝6冊(原線裝24冊) ; 25公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17458">Sinica 6669</ref><lb/>書名: 楚頌亭詞第四集 一卷</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">楚頌亭詞第四集 一卷</title>

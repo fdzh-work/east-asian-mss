@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17189</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,9 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 2781/10</idno>
                </msIdentifier>
-               <head>書名: 說文解字繫傳 四十卷附錄一卷 / (南唐)徐鍇撰<lb/>收於: 下列叢書第十集《說文繫傳》:<lb/>龍威祕書 /
-                  (清)馬俊良編<lb/>清世德堂重刊本<lb/>10函(線裝80冊) ; 18公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17189">Sinica 2781</ref><lb/>書名: 說文解字繫傳 四十卷附錄一卷 / (南唐)徐鍇撰</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">說文解字繫傳 四十卷附錄一卷</title>

@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17262</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,9 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 3826/14-17</idno>
                </msIdentifier>
-               <head>書名: 金薤琳瑯 二十卷 / (明)都穆撰<lb/>金薤琳瑯補遺 一卷 / (清)宋振譽輯<lb/>光緒八年[1882]刊<lb/>收於: 學古齋金石叢書 /
-                  (清)葛元煦編<lb/>清光緒中崇川葛氏學古齋刊本<lb/>洋裝4冊(原線裝23冊) ; 20公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17262">Sinica 3826</ref><lb/>書名: 金薤琳瑯 二十卷 / (明)都穆撰<lb/>金薤琳瑯補遺 一卷 / (清)宋振譽輯</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">金薤琳瑯 二十卷</title>

@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17161</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,9 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 2620/20(2)</idno>
                </msIdentifier>
-               <head>書名: 求古居宋本書 一卷 / (清)黃丕烈撰<lb/>求古居宋本書考證 一卷 / (民國)雷愷撰<lb/>民國七年[1918]刊<lb/>收於: 觀古堂書目叢刻
-                  / (民國)葉德輝編<lb/>清光緒二十一年[1895]至民國十年[1921]湘潭葉氏刊本<lb/>線裝20冊 ; 27公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17161">Sinica 2620</ref><lb/>書名: 求古居宋本書 一卷 / (清)黃丕烈撰<lb/>求古居宋本書考證 一卷 / (民國)雷愷撰</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">求古居宋本書 一卷</title>

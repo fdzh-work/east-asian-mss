@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17089</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,9 +44,7 @@
                   <collection>Backhouse</collection>
                   <idno type="shelfmark">Backhouse 264/76-80</idno>
                </msIdentifier>
-               <head>書名: 刪定管子 一卷 / (周)管仲撰 ; (清)方苞刪定<lb/>刪定荀子 一卷 / (周)荀況撰 ; (清)方苞刪定<lb/>收於: 抗希堂十六種 /
-                  (清)方苞撰<lb/>清康熙乾隆間桐城方氏抗希堂刊本<lb/>線裝100冊 : 26公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17089">Backhouse 264</ref><lb/>書名: 刪定管子 一卷 / (周)管仲撰; (清)方苞刪定<lb/>刪定荀子 一卷 / (周)荀況撰; (清)方苞刪定</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">刪定管子 一卷</title>

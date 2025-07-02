@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17261</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,9 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 3822/1(4)</idno>
                </msIdentifier>
-               <head>書名: 金翠寒衣記 一卷 / (明)葉憲祖撰<lb/>收於: 元明雜劇 /
-                  (明)佚名輯<lb/>民國十八年[1929]南京國學圖書館據明本影印<lb/>洋裝1冊(原線裝6冊) ; 21公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17261">Sinica 3822</ref><lb/>書名: 金翠寒衣記 一卷 / (明)葉憲祖撰</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">金翠寒衣記 一卷</title>

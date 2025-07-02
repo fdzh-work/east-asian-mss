@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17455</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,9 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 6664/1(3)</idno>
                </msIdentifier>
-               <head>書名: 儀禮古今文異同 五卷 / (清)徐養原撰<lb/>收於: 湖州叢書 / (清)陸心源輯<lb/>清光緒中湖城義塾刊本<lb/>洋裝4冊(原線裝16冊) ;
-                  25公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17455">Sinica 6664</ref><lb/>書名: 儀禮古今文異同 五卷 / (清)徐養原撰</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">儀禮古今文異同 五卷</title>

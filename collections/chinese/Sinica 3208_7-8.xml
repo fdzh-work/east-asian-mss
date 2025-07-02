@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17234</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,9 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 3208/7-8</idno>
                </msIdentifier>
-               <head>書名: 漢武梁祠堂石刻畫像攷 六卷附圖一卷 / (清)瞿中溶撰<lb/>民國丙寅[1926]刊<lb/>收於: 嘉業堂金石叢書 /
-                  劉承幹輯<lb/>民國吳興劉氏刊一九八二年北京文物出版社重印本<lb/>線裝22冊 ; 29公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17234">Sinica 3208</ref><lb/>書名: 漢武梁祠堂石刻畫像攷 六卷附圖一卷 / (清)瞿中溶撰</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">漢武梁祠堂石刻畫像攷 六卷附圖一卷</title>

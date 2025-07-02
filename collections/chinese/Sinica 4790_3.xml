@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17309</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,9 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 4790/3</idno>
                </msIdentifier>
-               <head>書名: 賈子新書 二卷 / (漢)賈誼撰<lb/>收於: 子彙 /
-                  (明)周子義等輯<lb/>民國二十六年[1937]上海商務印書館影印明萬曆中刊本<lb/>線裝12冊 ; 27公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17309">Sinica 4790</ref><lb/>書名: 賈子新書 二卷 / (漢)賈誼撰</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">賈子新書 二卷</title>

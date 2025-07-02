@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17312</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,9 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 4808/10(1)</idno>
                </msIdentifier>
-               <head>書名: 鄭志 八卷 / (魏)鄭小同編<lb/>收於: 鄭氏佚書 / (漢)鄭玄撰 ;
-                  (清)袁鈞輯<lb/>清光緒戊子[1888]浙江書局刊本<lb/>線裝10冊 ; 24公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17312">Sinica 4808</ref><lb/>書名: 鄭志 八卷 / (魏)鄭小同編</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">鄭志 八卷</title>

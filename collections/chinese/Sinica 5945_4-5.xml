@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17328</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,9 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 5945/4-5</idno>
                </msIdentifier>
-               <head>書名: 止齋先生文集 五十二卷附錄一卷 / (宋)陳傅良撰<lb/>收於: 永嘉叢書 /
-                  (清)孫衣言輯<lb/>清咸豐光緒間瑞安孫氏詒善祠塾刊本<lb/>洋裝16冊(原線裝70冊) ; 25公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17328">Sinica 5945</ref><lb/>書名: 止齋先生文集 五十二卷附錄一卷 / (宋)陳傅良撰</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">止齋先生文集 五十二卷附錄一卷</title>

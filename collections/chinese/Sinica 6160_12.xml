@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17380</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,10 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 6160/12</idno>
                </msIdentifier>
-               <head>書名: 晏子春秋 七卷 / (周)晏嬰撰 ; (清)孫星衍校<lb/>晏子春秋音義 二卷 / (清)孫星衍撰<lb/>晏子春秋校勘 二卷 /
-                  (清)黃以周撰<lb/>光緒元年[1875]刊<lb/>收於: 二十二子 / (清)浙江書局編<lb/>清光緒中浙江書局彙刻本<lb/>洋裝16冊(原線裝83冊) ;
-                  25公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17380">Sinica 6160</ref><lb/>書名: 晏子春秋 七卷 / (周)晏嬰撰; (清)孫星衍校<lb/>晏子春秋音義 二卷 / (清)孫星衍撰<lb/>晏子春秋校勘 二卷 / (清)黃以周撰</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">晏子春秋 七卷</title>

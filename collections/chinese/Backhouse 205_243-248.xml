@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17083</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,10 +44,7 @@
                   <collection>Backhouse</collection>
                   <idno type="shelfmark">Backhouse 205/243-248</idno>
                </msIdentifier>
-               <head>書名: 五代史 七十四卷 / (宋)歐陽修撰 ;
-                  (宋)徐無黨注<lb/>收於: 二十四史<lb/>清光緒三十四年[1908]上海集成圖書公司排印內府本<lb/>線裝400冊 ;
-                  20公分<lb/>元史以上皆附考證<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17083">Backhouse 205</ref><lb/>書名: 五代史 七十四卷 / (宋)歐陽修撰; (宋)徐無黨注</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">五代史 七十四卷</title>

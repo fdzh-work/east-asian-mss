@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17477</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,9 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 6689/1(2)</idno>
                </msIdentifier>
-               <head>書名: 寒碧孤吟 一卷 / (清)冒襄撰<lb/>收於: 如皋冒氏叢書 / (清)冒廣生輯<lb/>清光緒民國間如皋冒氏刊本<lb/>洋裝5冊(原線裝20冊) ;
-                  26公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17477">Sinica 6689</ref><lb/>書名: 寒碧孤吟 一卷 / (清)冒襄撰</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">寒碧孤吟 一卷</title>

@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17196</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,9 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 2821/38-39(1)</idno>
                </msIdentifier>
-               <head>書名: 北湖小志 六卷<lb/>收於: 焦氏遺書 / (清)焦循撰<lb/>清光緒丙子[1876]衡陽魏綸先補刊本<lb/>線裝40冊 ;
-                  28公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17196">Sinica 2821</ref><lb/>書名: 北湖小志 六卷</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">北湖小志 六卷</title>

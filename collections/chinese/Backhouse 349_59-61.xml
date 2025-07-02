@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17101</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,10 +44,7 @@
                   <collection>Backhouse</collection>
                   <idno type="shelfmark">Backhouse 349/59-61</idno>
                </msIdentifier>
-               <head>書名: 詳解九章算法 一卷纂類一卷 / (宋)楊輝撰<lb/>詳解九章算法札記 一卷 /
-                  (清)宋景昌撰<lb/>道光壬寅[1842]刊<lb/>收於: 宜稼堂叢書 / (清)郁松年編<lb/>清道光中上海郁氏刊本<lb/>線裝96冊 ;
-                  24公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17101">Backhouse 349</ref><lb/>書名: 詳解九章算法 一卷纂類一卷 / (宋)楊輝撰<lb/>詳解九章算法札記 一卷 / (清)宋景昌撰</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">詳解九章算法 一卷纂類一卷</title>

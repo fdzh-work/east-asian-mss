@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17491</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,9 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 6706/3(2)</idno>
                </msIdentifier>
-               <head>書名: 合肥三家詩錄 二卷 / (清)徐子苓, (清)戴家麟, (清)王尚辰撰 ; (清)譚獻選<lb/>光緒丙戌[1886]刊<lb/>收於: 半厂叢書初編 /
-                  (清)譚獻輯<lb/>清光緒中仁和譚氏刊本<lb/>洋裝3冊(原線裝20冊) ; 27公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17491">Sinica 6706</ref><lb/>書名: 合肥三家詩錄 二卷 / (清)徐子苓, (清)戴家麟, (清)王尚辰撰; (清)譚獻選</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">合肥三家詩錄 二卷</title>

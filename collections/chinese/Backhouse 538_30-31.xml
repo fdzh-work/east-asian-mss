@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17124</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,11 +44,8 @@
                   <collection>Backhouse</collection>
                   <idno type="shelfmark">Backhouse 538/30-31</idno>
                </msIdentifier>
-               <head>書名: 文館詞林
-                  殘十四卷(卷一百五十六至一百五十八﹑卷三百四十七﹑卷四百五十二﹑卷四百五十三﹑卷四百五十七﹑卷四百五十九﹑卷六百六十五至六百六十七﹑卷六百七十﹑卷六百九十一﹑卷六百九十九)
-                  / (唐)許敬宗等奉敕輯<lb/>光緒十年[1884]景刊日本舊鈔卷子本<lb/>收於: 古逸叢書 /
-                  (清)黎庶昌編<lb/>清光緒中遵義黎氏日本東京使署刊本<lb/>線裝49冊 ; 30公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17124">Backhouse 538</ref><lb/>書名: 文館詞林
+                        殘十四卷(卷一百五十六至一百五十八﹑卷三百四十七﹑卷四百五十二﹑卷四百五十三﹑卷四百五十七﹑卷四百五十九﹑卷六百六十五至六百六十七﹑卷六百七十﹑卷六百九十一﹑卷六百九十九) / (唐)許敬宗等奉敕輯</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">文館詞林

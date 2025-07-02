@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17314</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,8 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 4812/2(1)</idno>
                </msIdentifier>
-               <head>書名: 清代殿板書始末記 一卷<lb/>收於: 武進陶氏書目叢刊 / (民國)陶湘輯<lb/>民國排印本<lb/>線裝3冊 ; 21公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17314">Sinica 4812</ref><lb/>書名: 清代殿板書始末記 一卷</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">清代殿板書始末記 一卷</title>

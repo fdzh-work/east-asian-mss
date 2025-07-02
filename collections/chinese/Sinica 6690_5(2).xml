@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17478</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,10 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 6690/5(2)</idno>
                </msIdentifier>
-               <head>書名: 顧端文公年譜 二卷譜前一卷譜後一卷 / (清)顧與沐記略 ; (清)顧樞初編 ; (清)顧貞觀訂補 ; (清)鍾英,
-                  (清)鍾瑄等錄<lb/>收於: 顧端文公遺書 / (明)顧憲成撰<lb/>清光緒丁丑[1877]涇里宗祠刊本<lb/>洋裝5冊(原線裝18冊) : 像 ;
-                  25公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17478">Sinica 6690</ref><lb/>書名: 顧端文公年譜 二卷譜前一卷譜後一卷 / (清)顧與沐記略; (清)顧樞初編; (清)顧貞觀訂補; (清)鍾英, (清)鍾瑄等錄</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">顧端文公年譜 二卷譜前一卷譜後一卷</title>

@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17248</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,9 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 3706/2</idno>
                </msIdentifier>
-               <head>書名: 紹熙州縣釋奠儀圖 一卷 / (宋)朱熹撰<lb/>收於: 影印四庫全書四種 /
-                  中央圖書館籌備處選<lb/>民國二十四年[1935]上海商務印書館影印文淵閣鈔本<lb/>包背裝6冊 ; 32公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17248">Sinica 3706</ref><lb/>書名: 紹熙州縣釋奠儀圖 一卷 / (宋)朱熹撰</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">紹熙州縣釋奠儀圖 一卷</title>

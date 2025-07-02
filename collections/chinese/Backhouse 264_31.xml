@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17089</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,9 +44,7 @@
                   <collection>Backhouse</collection>
                   <idno type="shelfmark">Backhouse 264/31</idno>
                </msIdentifier>
-               <head>書名: 周官辨 一卷<lb/>收於: 抗希堂十六種 / (清)方苞撰<lb/>清康熙乾隆間桐城方氏抗希堂刊本<lb/>線裝100冊 :
-                  26公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17089">Backhouse 264</ref><lb/>書名: 周官辨 一卷</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">周官辨 一卷</title>

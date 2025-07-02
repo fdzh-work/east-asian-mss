@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_6429</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,10 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 6745/3(2)</idno>
                </msIdentifier>
-               <head>書名: 尚書大傳 三卷 / (漢)伏勝撰 ; (漢)鄭玄注 ; (清)陳壽祺輯校<lb/>附 尚書大傳序錄 一卷 ; 尚書大傳辨譌 一卷 /
-                  (清)陳壽祺撰<lb/>收於: 古經解彙函 ; 附 小學彙函 ; 續附十種 / (清)鍾謙鈞等輯<lb/>清光緒戊子[1888]上海蜚英館石印本<lb/>線裝20冊
-                  ; 20公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_6429">Sinica 6745</ref><lb/>書名: 尚書大傳 三卷 / (漢)伏勝撰; (漢)鄭玄注; (清)陳壽祺輯校<lb/>附 尚書大傳序錄 一卷 / (清)陳壽祺撰</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">尚書大傳 三卷</title>

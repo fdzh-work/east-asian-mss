@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17460</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,9 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 6671/13(1)</idno>
                </msIdentifier>
-               <head>書名: 顏氏家訓 二卷 / (北齊)顏之推撰 ; (清)朱軾評點<lb/>收於: 朱文端公藏書 /
-                  (清)朱軾撰<lb/>清光緒二十三年[1897]朱衡等重刊本<lb/>洋裝19冊(原線裝80冊) ; 25公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17460">Sinica 6671</ref><lb/>書名: 顏氏家訓 二卷 / (北齊)顏之推撰; (清)朱軾評點</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">顏氏家訓 二卷</title>

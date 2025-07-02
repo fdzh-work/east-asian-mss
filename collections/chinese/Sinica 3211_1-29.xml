@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17236</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,11 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 3211/1-29</idno>
                </msIdentifier>
-               <head>書名: 景刊宋金元明本詞四十種 / (民國)吳昌綬輯 ;
-                  (民國)陶湘續輯<lb/>清宣統三年[1911]至民國六年[1917]仁和吳氏雙照樓刊民國六年[1917]至十二年[1923]武進陶氏涉園續刊<lb/>收於: 景刊宋金元明本詞五十種
-                  / 中國書店輯<lb/>一九八一年北京中國書店合輯修補重印民國刊板<lb/>線裝32冊 ;
-                  29公分<lb/>本書爲中國書店彙印民國吳昌綬、陶湘輯《景刊宋金元明本詞四十種》、《景刊宋金元明本詞補編三種》、《景汲古閣鈔宋金詞七種》<lb/>有朱印封面及序、總目共五葉<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17236">Sinica 3211</ref><lb/>書名: 景刊宋金元明本詞四十種 / (民國)吳昌綬輯; (民國)陶湘續輯</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">景刊宋金元明本詞四十種</title>

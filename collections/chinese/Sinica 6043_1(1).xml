@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17360</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,9 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 6043/1(1)</idno>
                </msIdentifier>
-               <head>書名: 易小傳 六卷繫辭補注一卷 / (宋)沈該撰<lb/>民國十一年[1922]刊<lb/>收於: 吳興叢書 /
-                  劉承幹編<lb/>民國吳興劉氏嘉業堂刊本<lb/>洋裝45冊(原線裝222冊) ; 27公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17360">Sinica 6043</ref><lb/>書名: 易小傳 六卷繫辭補注一卷 / (宋)沈該撰</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">易小傳 六卷繫辭補注一卷</title>

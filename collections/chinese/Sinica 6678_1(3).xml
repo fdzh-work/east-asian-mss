@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17465</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,9 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 6678/1(3)</idno>
                </msIdentifier>
-               <head>書名: 蓮坡詩話 三卷 / (清)查爲仁撰<lb/>收於: 屏廬叢刻 /
-                  (民國)金鉞輯<lb/>民國甲子[1924]天津金氏刊本<lb/>洋裝2冊(原線裝12冊) ; 26公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17465">Sinica 6678</ref><lb/>書名: 蓮坡詩話 三卷 / (清)查爲仁撰</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">蓮坡詩話 三卷</title>

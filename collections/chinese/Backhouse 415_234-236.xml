@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17109</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,10 +44,7 @@
                   <collection>Backhouse</collection>
                   <idno type="shelfmark">Backhouse 415/234-236</idno>
                </msIdentifier>
-               <head>書名: 古文參同契集解 卷上三卷 ; 古文參同契箋註集解 卷下三卷 ; 古文參同契三相類集解 卷末二卷 /
-                  (明)蔣一彪撰<lb/>收於: 下列叢書第二十集:<lb/>學津討原 / (清)張海鵬編<lb/>清嘉慶十年[1805]虞山張氏曠照閣刊本<lb/>線裝238冊 ;
-                  28公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17109">Backhouse 415</ref><lb/>書名: 古文參同契集解 卷上三卷 / (明)蔣一彪撰</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">古文參同契集解 卷上三卷</title>

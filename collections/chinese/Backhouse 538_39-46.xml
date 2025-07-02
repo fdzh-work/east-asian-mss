@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17124</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,11 +44,7 @@
                   <collection>Backhouse</collection>
                   <idno type="shelfmark">Backhouse 538/39-46</idno>
                </msIdentifier>
-               <head>書名: 杜工部草堂詩箋 四十卷 / (唐)杜甫撰 ; (宋)魯訔編次 ; (宋)蔡夢弼會箋<lb/>杜工部草堂詩話 二卷 / (唐)杜甫撰 ;
-                  (宋)蔡夢弼集錄<lb/>杜工部草堂詩年譜 二卷 / (宋)趙子櫟, (宋)魯訔撰<lb/>黃氏集千家註杜工部詩史補遺 十卷 / (宋)黃鶴集註 ;
-                  (宋)蔡夢弼校正<lb/>集註草堂杜工部詩外集 一卷 / (宋)蔡夢弼會箋<lb/>景刊宋麻沙本補遺景刊高麗繙刊本<lb/>收於: 古逸叢書 /
-                  (清)黎庶昌編<lb/>清光緒中遵義黎氏日本東京使署刊本<lb/>線裝49冊 ; 30公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17124">Backhouse 538</ref><lb/>書名: 杜工部草堂詩箋 四十卷 / (唐)杜甫撰; (宋)魯訔編次; (宋)蔡夢弼會箋<lb/>杜工部草堂詩話 二卷 / (唐)杜甫撰; (宋)蔡夢弼集錄<lb/>杜工部草堂詩年譜 二卷 / (宋)趙子櫟, (宋)魯訔撰<lb/>黃氏集千家註杜工部詩史補遺 十卷 / (宋)黃鶴集註; (宋)蔡夢弼校正<lb/>集註草堂杜工部詩外集 一卷 / (宋)蔡夢弼會箋</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">杜工部草堂詩箋 四十卷</title>

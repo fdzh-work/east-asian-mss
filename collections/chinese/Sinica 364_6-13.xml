@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17247</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,10 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 364/6-13</idno>
                </msIdentifier>
-               <head>書名: 尚書注疏 十九卷 / (漢)孔安國傳 ; (唐)陸德明音義 ;
-                  (唐)孔穎達疏<lb/>收於: 十三經注疏<lb/>清同治十年[1871]廣東書局重刊殿本<lb/>線裝120冊 ;
-                  29公分<lb/>各卷附考證<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17247">Sinica 364</ref><lb/>書名: 尚書注疏 十九卷 / (漢)孔安國傳; (唐)陸德明音義; (唐)孔穎達疏</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">尚書注疏 十九卷</title>

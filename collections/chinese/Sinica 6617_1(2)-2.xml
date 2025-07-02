@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17420</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,10 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 6617/1(2)-2</idno>
                </msIdentifier>
-               <head>書名: 閑閑老人滏水文集 二十卷附錄一卷 / (金)趙秉文撰<lb/>附 滏水集校札記 二卷 /
-                  (清)吳重熹撰<lb/>清光緒二十九年[1903]湖北刊<lb/>收於: 石蓮盦彙刻九金人集 /
-                  (清)吳重熹輯<lb/>清光緒中海豐吳氏刊本<lb/>洋裝7冊(原線裝28冊) ; 27公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17420">Sinica 6617</ref><lb/>書名: 閑閑老人滏水文集 二十卷附錄一卷 / (金)趙秉文撰<lb/>附 滏水集校札記 二卷 / (清)吳重熹撰</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">閑閑老人滏水文集 二十卷附錄一卷</title>

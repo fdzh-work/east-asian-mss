@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17193</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,9 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 2813/21-25</idno>
                </msIdentifier>
-               <head>書名: 卮林 十卷補遺一卷 / (明)周嬰撰<lb/>嘉慶二十年[1815]刊<lb/>收於: 湖海樓叢書 /
-                  (清)陳春編<lb/>清嘉慶中蕭山陳氏刊本<lb/>線裝32冊 ; 24公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17193">Sinica 2813</ref><lb/>書名: 卮林 十卷補遺一卷 / (明)周嬰撰</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">卮林 十卷補遺一卷</title>

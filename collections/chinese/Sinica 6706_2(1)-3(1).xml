@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17491</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,10 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 6706/2(1)-3(1)</idno>
                </msIdentifier>
-               <head>書名: 復堂類集 文四卷詩十一卷詞三卷日記八卷 /
-                  (清)譚獻撰<lb/>光緒乙酉[1885]年詩同治乙丑[1865]日記光緒丁亥[1887]刊<lb/>收於: 半厂叢書初編 /
-                  (清)譚獻輯<lb/>清光緒中仁和譚氏刊本<lb/>洋裝3冊(原線裝20冊) ; 27公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17491">Sinica 6706</ref><lb/>書名: 復堂類集 文四卷詩十一卷詞三卷日記八卷 / (清)譚獻撰</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">復堂類集 文四卷詩十一卷詞三卷日記八卷</title>

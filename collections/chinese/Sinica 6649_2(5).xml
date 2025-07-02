@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17442</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,9 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 6649/2(5)</idno>
                </msIdentifier>
-               <head>書名: 王制井田算法解 一卷 / (清)談泰撰<lb/>收於: 國朝金陵叢書 /
-                  (清)傅春官輯<lb/>清光緒辛丑[1901]江寧傅氏晦齋刊本<lb/>洋裝2冊(原線裝8冊) ; 25公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17442">Sinica 6649</ref><lb/>書名: 王制井田算法解 一卷 / (清)談泰撰</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">王制井田算法解 一卷</title>

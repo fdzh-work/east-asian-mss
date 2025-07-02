@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17439</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,10 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 6645/4(2)</idno>
                </msIdentifier>
-               <head>書名: 竇氏聯珠集 一卷 / (唐)竇常, (唐)竇牟, (唐)竇群, (唐)竇庠, (唐)竇鞏撰 ;
-                  (唐)褚藏言輯<lb/>民國甲子[1924]影刊宋本<lb/>收於: 密韻樓影宋本七種 /
-                  (民國)蔣汝藻輯<lb/>民國烏程將氏樂地盦刊藍印本<lb/>洋裝4冊(原線裝20冊) ; 30公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17439">Sinica 6645</ref><lb/>書名: 竇氏聯珠集 一卷 / (唐)竇常, (唐)竇牟, (唐)竇群, (唐)竇庠, (唐)竇鞏撰; (唐)褚藏言輯</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">竇氏聯珠集 一卷</title>

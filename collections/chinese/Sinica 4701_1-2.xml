@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17302</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,9 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 4701/1-2</idno>
                </msIdentifier>
-               <head>書名: 蕘圃藏書題識續錄 四卷 / (清)黃丕烈撰<lb/>附 蕘圃雜著 一卷<lb/>癸酉[1933]刊<lb/>收於: 黃顧遺書 /
-                  (民國)王大隆編<lb/>民國秀水王氏學禮齋刊本<lb/>線裝6冊 ; 29公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17302">Sinica 4701</ref><lb/>書名: 蕘圃藏書題識續錄 四卷 / (清)黃丕烈撰<lb/>附 蕘圃雜著 一卷</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">蕘圃藏書題識續錄 四卷</title>

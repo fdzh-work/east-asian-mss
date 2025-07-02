@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17093</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,9 +44,7 @@
                   <collection>Backhouse</collection>
                   <idno type="shelfmark">Backhouse 295/119-124</idno>
                </msIdentifier>
-               <head>書名: 四書考異 三十六卷 / (清)翟灝撰<lb/>收於: 皇清經解 /
-                  (清)阮元輯<lb/>清道光九年[1829]廣東學海堂刊咸豐十年[1860]修補本<lb/>線裝364冊 ; 25公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17093">Backhouse 295</ref><lb/>書名: 四書考異 三十六卷 / (清)翟灝撰</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">四書考異 三十六卷</title>

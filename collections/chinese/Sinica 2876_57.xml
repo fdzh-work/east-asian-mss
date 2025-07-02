@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17210</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,10 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 2876/57</idno>
                </msIdentifier>
-               <head>書名: 此事難知集 二卷 / (元)王好古撰<lb/>收於: 醫統正脈全書 /
-                  (明)王肯堂編<lb/>清末江陰朱文震校刊民國癸亥[1923]北平中醫學社修補1986年北京中國書店重印殘損版以油印配補<lb/>線裝80冊 ;
-                  29公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17210">Sinica 2876</ref><lb/>書名: 此事難知集 二卷 / (元)王好古撰</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">此事難知集 二卷</title>

@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17307</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,9 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 4780/20-23</idno>
                </msIdentifier>
-               <head>書名: 韓非子 二十卷 / (周)韓非撰 ; (□)佚名注<lb/>收於: 十子全書 /
-                  (清)王子興編<lb/>清嘉慶甲子[1804]姑蘇王氏聚文堂刊本<lb/>線裝32冊 ; 29公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17307">Sinica 4780</ref><lb/>書名: 韓非子 二十卷 / (周)韓非撰; (□)佚名注</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">韓非子 二十卷</title>

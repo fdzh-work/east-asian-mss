@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17468</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,9 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 6681/2(4)</idno>
                </msIdentifier>
-               <head>書名: 瞥記 七卷 / (清)梁玉繩撰<lb/>收於: 食舊堂叢書 / (清)汪大鈞輯<lb/>民國乙丑[1925]錢唐汪氏刊本<lb/>洋裝5冊(原線裝24冊)
-                  ; 26公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17468">Sinica 6681</ref><lb/>書名: 瞥記 七卷 / (清)梁玉繩撰</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">瞥記 七卷</title>

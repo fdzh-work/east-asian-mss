@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17323</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,9 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 5708/14</idno>
                </msIdentifier>
-               <head>書名: 劉敬書 一卷 / (漢)劉敬撰<lb/>收於: 玉函山房輯佚書 / (清)馬國翰輯<lb/>清光緒甲申[1884]楚南湘遠堂刊本<lb/>線裝120冊 ;
-                  20公分<lb/>缺第50、51册<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17323">Sinica 5708</ref><lb/>書名: 劉敬書 一卷 / (漢)劉敬撰</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">劉敬書 一卷</title>

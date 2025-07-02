@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17103</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,9 +44,7 @@
                   <collection>Backhouse</collection>
                   <idno type="shelfmark">Backhouse 384/16(2)</idno>
                </msIdentifier>
-               <head>書名: 玄真子 一卷 / (唐)張志和撰<lb/>收於: 二十家子書 / (明)謝汝韶編<lb/>明萬曆陸年[1578]吉藩崇德書院刊本<lb/>線裝16冊 ;
-                  31公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17103">Backhouse 384</ref><lb/>書名: 玄真子 一卷 / (唐)張志和撰</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">玄真子 一卷</title>

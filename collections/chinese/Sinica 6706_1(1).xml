@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17491</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,9 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 6706/1(1)</idno>
                </msIdentifier>
-               <head>書名: 詩本誼 一卷 / (清)龔橙撰<lb/>光緒己丑[1889]年刊<lb/>收於: 半厂叢書初編 /
-                  (清)譚獻輯<lb/>清光緒中仁和譚氏刊本<lb/>洋裝3冊(原線裝20冊) ; 27公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17491">Sinica 6706</ref><lb/>書名: 詩本誼 一卷 / (清)龔橙撰</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">詩本誼 一卷</title>

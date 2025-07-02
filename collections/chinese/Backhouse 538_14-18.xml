@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17124</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,9 +44,7 @@
                   <collection>Backhouse</collection>
                   <idno type="shelfmark">Backhouse 538/14-18</idno>
                </msIdentifier>
-               <head>書名: 南華真經注疏 十卷 / (晉)郭象注 ; (唐)成玄英疏<lb/>景刊宋本<lb/>收於: 古逸叢書 /
-                  (清)黎庶昌編<lb/>清光緒中遵義黎氏日本東京使署刊本<lb/>線裝49冊 ; 30公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17124">Backhouse 538</ref><lb/>書名: 南華真經注疏 十卷 / (晉)郭象注; (唐)成玄英疏</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">南華真經注疏 十卷</title>

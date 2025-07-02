@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17453</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,10 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 6662/3(7)</idno>
                </msIdentifier>
-               <head>書名: 月道疏 一卷附月行九道圖並解一卷<lb/>收於: 桴亭先生遺書 / (清)陸世儀撰 ;
-                  (清)唐受祺編<lb/>清光緒己亥[1899]太倉唐氏京師刊本<lb/>洋裝3冊(原線裝20冊) ;
-                  25公分<lb/>封面提名《陸桴亭先生遺書》<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17453">Sinica 6662</ref><lb/>書名: 月道疏 一卷附月行九道圖並解一卷</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">月道疏 一卷附月行九道圖並解一卷</title>

@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17413</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,9 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 6592/1</idno>
                </msIdentifier>
-               <head>書名: 東坡樂府 二卷 / (宋)蘇軾撰<lb/>收於: 四印齋所刻詞 /
-                  (清)王鵬運輯<lb/>清光緒戊子[1888]臨桂王氏家塾刻本<lb/>洋裝4冊(原線裝17冊) ; 25公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17413">Sinica 6592</ref><lb/>書名: 東坡樂府 二卷 / (宋)蘇軾撰</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">東坡樂府 二卷</title>

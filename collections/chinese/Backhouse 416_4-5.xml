@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17110</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,10 +44,7 @@
                   <collection>Backhouse</collection>
                   <idno type="shelfmark">Backhouse 416/4-5</idno>
                </msIdentifier>
-               <head>書名: 唐兩京城坊攷 五卷 / (清)徐松撰 ; (清)張穆校補<lb/>道光二十八年[1848]刊<lb/>收於: 連筠簃叢書 /
-                  (清)楊尚文編<lb/>清道光二十七至二十九年[1847-1849]靈石楊氏刊本<lb/>線裝36冊 ;
-                  27公分<lb/>缺《說文解字義證》﹑《永樂大典目錄》兩種<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17110">Backhouse 416</ref><lb/>書名: 唐兩京城坊攷 五卷 / (清)徐松撰; (清)張穆校補</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">唐兩京城坊攷 五卷</title>

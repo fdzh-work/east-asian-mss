@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17114</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,9 +44,7 @@
                   <collection>Backhouse</collection>
                   <idno type="shelfmark">Backhouse 453/7-24</idno>
                </msIdentifier>
-               <head>書名: 亦政堂重修宣和博古圖 三十卷 / (宋)王黼撰<lb/>卷一題名《東書堂重修宣和博古圖》<lb/>收於: 三古圖 /
-                  (清)黃晟編<lb/>清乾隆十七年[1752]天都黃氏亦致堂刊後印本<lb/>線裝24冊 : 圖 ; 29公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17114">Backhouse 453</ref><lb/>書名: 亦政堂重修宣和博古圖 三十卷 / (宋)王黼撰</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">亦政堂重修宣和博古圖 三十卷</title>

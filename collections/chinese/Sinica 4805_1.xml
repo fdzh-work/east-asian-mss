@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17310</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,9 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 4805/1</idno>
                </msIdentifier>
-               <head>書名: 惠氏讀說文記 十五卷 / (清)惠棟撰<lb/>壬子[1852]刊<lb/>收於: 小學類編 /
-                  (清)李祖望編<lb/>清咸豐中江都李氏半畝園刊光緒中彙印本<lb/>線裝8冊 ; 24公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17310">Sinica 4805</ref><lb/>書名: 惠氏讀說文記 十五卷 / (清)惠棟撰</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">惠氏讀說文記 十五卷</title>

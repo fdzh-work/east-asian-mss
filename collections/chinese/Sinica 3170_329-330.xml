@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17228</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,10 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 3170/329-330</idno>
                </msIdentifier>
-               <head>書名: 十六國春秋纂錄校本 十卷 / (北魏)崔鴻撰 ; (清)湯球輯<lb/>附 十六國春秋纂錄校本校勘記 一卷 /
-                  (清)吳翊寅撰<lb/>光緒二十年[1894]刊<lb/>收於: 廣雅書局叢書 / (清)廣雅書局編<lb/>彙編重印清光緒中廣雅書局刊本<lb/>線裝388冊 ;
-                  29公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17228">Sinica 3170</ref><lb/>書名: 十六國春秋纂錄校本 十卷 / (北魏)崔鴻撰; (清)湯球輯<lb/>附 十六國春秋纂錄校本校勘記 一卷 / (清)吳翊寅撰</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">十六國春秋纂錄校本 十卷</title>

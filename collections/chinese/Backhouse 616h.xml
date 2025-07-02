@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17132</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,9 +44,7 @@
                   <collection>Backhouse</collection>
                   <idno type="shelfmark">Backhouse 616h</idno>
                </msIdentifier>
-               <head>書名: 欽定續文獻通考 二百五十卷 / (清)乾隆十二年[1747]敕撰<lb/>124冊<lb/>光緒十三年[1887]刊<lb/>收於: 九通 /
-                  (清)佚名編<lb/>清光緒八年[1882]至二十二年[1896]浙江書局刊本<lb/>線裝1012冊 ; 29公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17132">Backhouse 616</ref><lb/>書名: 欽定續文獻通考 二百五十卷 / (清)乾隆十二年[1747]敕撰</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">欽定續文獻通考 二百五十卷</title>

@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17467</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,10 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 6680/1(4)</idno>
                </msIdentifier>
-               <head>書名: 石林詩話 三卷拾遺一卷拾遺補一卷附錄一卷附錄補遺一卷 / 拾遺﹑附錄(清)葉廷琯輯 ;
-                  拾遺補﹑附錄補遺(民國)葉德輝輯<lb/>光緒戊申年[1908]刊<lb/>收於: 石林遺書 /
-                  (宋)葉夢得撰<lb/>清光緒宣統間長沙葉德輝觀古堂刊本<lb/>洋裝2冊(原線裝14冊) ; 26公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17467">Sinica 6680</ref><lb/>書名: 石林詩話 三卷拾遺一卷拾遺補一卷附錄一卷附錄補遺一卷 / 拾遺﹑附錄(清)葉廷琯輯; 拾遺補﹑附錄補遺(民國)葉德輝輯</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">石林詩話 三卷拾遺一卷拾遺補一卷附錄一卷附錄補遺一卷</title>

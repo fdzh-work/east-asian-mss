@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17095</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,10 +44,7 @@
                   <collection>Backhouse</collection>
                   <idno type="shelfmark">Backhouse 315/721-744</idno>
                </msIdentifier>
-               <head>書名: 遼史 一百十五卷 / (元)脫脫等奉敕撰<lb/>附 欽定遼史語解 十卷 /
-                  (清)乾隆三十六年[1771]敕撰<lb/>收於: 二十四史<lb/>清同治八年[1869]嶺南陳焯之葄古堂重刊內府本<lb/>線裝960冊 ;
-                  29公分<lb/>元史以上皆附考證<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17095">Backhouse 315</ref><lb/>書名: 遼史 一百十五卷 / (元)脫脫等奉敕撰<lb/>附 欽定遼史語解 十卷 / (清)乾隆三十六年[1771]敕撰</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">遼史 一百十五卷</title>

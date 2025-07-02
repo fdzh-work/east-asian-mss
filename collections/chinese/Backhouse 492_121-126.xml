@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17118</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,9 +44,7 @@
                   <collection>Backhouse</collection>
                   <idno type="shelfmark">Backhouse 492/121-126</idno>
                </msIdentifier>
-               <head>書名: 隋書 殘五十四卷附考異 / (唐)魏徵, (唐)長孫無忌等奉敕撰<lb/>全書八十五卷,
-                  殘卷三十二至八十五<lb/>同治十年[1871]淮南書局重刊汲古閣本<lb/>收於: 二十四史<lb/>清同治光緒間五省官書局刊本<lb/>線裝477冊<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17118">Backhouse 492</ref><lb/>書名: 隋書 殘五十四卷附考異 / (唐)魏徵, (唐)長孫無忌等奉敕撰</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">隋書 殘五十四卷附考異</title>

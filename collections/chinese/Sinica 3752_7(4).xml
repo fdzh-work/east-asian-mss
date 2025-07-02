@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17258</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,10 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 3752/7(4)</idno>
                </msIdentifier>
-               <head>書名: 焚餘草 一卷 / (民國)張伯楨撰<lb/>收於: 滄海叢書 /
-                  (民國)張伯楨編<lb/>民國二十一至二十三年[1932-1934]東莞張氏刊1993年北京中國書店重印本殘損版以影印配補<lb/>線裝14冊 ;
-                  25公分<lb/>ISBN 7-80568-623-8<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17258">Sinica 3752</ref><lb/>書名: 焚餘草 一卷 / (民國)張伯楨撰</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">焚餘草 一卷</title>

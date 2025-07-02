@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17424</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,10 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 6624/8(5)</idno>
                </msIdentifier>
-               <head>書名: 五經算術 二卷 / (北周)甄鸞撰 ; (唐)李淳風等奉敕注釋<lb/>附 五經算術考證 一卷 /
-                  (清)戴震撰<lb/>藝林山房刊<lb/>收於: 益雅堂叢書 / (清)佚名輯<lb/>清光緒癸未[1883]文選樓刊本<lb/>洋裝8冊(原線裝32冊) ;
-                  19公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17424">Sinica 6624</ref><lb/>書名: 五經算術 二卷 / (北周)甄鸞撰; (唐)李淳風等奉敕注釋<lb/>附 五經算術考證 一卷 / (清)戴震撰</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">五經算術 二卷</title>

@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17400</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,9 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 6352/4</idno>
                </msIdentifier>
-               <head>書名: 墨子刊誤 二卷 / (清)蘇時學撰<lb/>影印清刊本<lb/>收於: 周秦諸子校注十種 殘七種 /
-                  陳乃乾輯<lb/>民國中國學會影印本<lb/>洋裝(原線裝)5冊 ; 21公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17400">Sinica 6352</ref><lb/>書名: 墨子刊誤 二卷 / (清)蘇時學撰</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">墨子刊誤 二卷</title>

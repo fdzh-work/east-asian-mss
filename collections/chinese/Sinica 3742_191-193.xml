@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17257</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,10 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 3742/191-193</idno>
                </msIdentifier>
-               <head>書名: 蛻石文鈔 一卷 / (清)蔡壽臧撰<lb/>天隱堂文錄 二卷 / (清)淩霞撰<lb/>玉鑑堂詩集 六卷 / (清)汪曰楨撰<lb/>葭洲書屋遺稿 一卷
-                  / (清)劉安瀾撰<lb/>1函3冊<lb/>民國十二年[1923]﹑十年[1921]刊<lb/>ISBN 7-5010-0496-X<lb/>收於: 吳興叢書 /
-                  劉承幹編<lb/>民國吳興劉氏嘉業堂刊1992年北京文物出版社重印本殘損版以影印配補浙江圖書館藏版<lb/>線裝222冊 ; 29公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17257">Sinica 3742</ref><lb/>書名: 蛻石文鈔 一卷 / (清)蔡壽臧撰<lb/>天隱堂文錄 二卷 / (清)淩霞撰<lb/>玉鑑堂詩集 六卷 / (清)汪曰楨撰<lb/>葭洲書屋遺稿 一卷 / (清)劉安瀾撰</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">蛻石文鈔 一卷</title>

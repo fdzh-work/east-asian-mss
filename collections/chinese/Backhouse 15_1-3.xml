@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_vol">volume_17077</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,9 +44,7 @@
                   <collection>Backhouse</collection>
                   <idno type="shelfmark">Backhouse 15/1-3</idno>
                </msIdentifier>
-               <head>書名: 春秋左氏傳補注 十二卷 / (清)沈欽韓撰<lb/>收於: 功順堂叢書 / (清)潘祖蔭編<lb/>清光緒中吳縣潘氏刊本<lb/>線裝24冊 ;
-                  26公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17077">Backhouse 15</ref><lb/>書名: 春秋左氏傳補注 十二卷 / (清)沈欽韓撰</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">春秋左氏傳補注 十二卷</title>

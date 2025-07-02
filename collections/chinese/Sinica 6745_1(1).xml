@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_6429</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,10 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 6745/1(1)</idno>
                </msIdentifier>
-               <head>書名: 鄭氏周易注 三卷 / (漢)鄭玄撰 ; (宋)王應麟撰集 ; (清)惠棟增補 ; (清)孫堂重校<lb/>鄭氏周易注補遺一卷 /
-                  (清)孫堂撰<lb/>收於: 古經解彙函 ; 附 小學彙函 ; 續附十種 / (清)鍾謙鈞等輯<lb/>清光緒戊子[1888]上海蜚英館石印本<lb/>線裝20冊 ;
-                  20公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_6429">Sinica 6745</ref><lb/>書名: 鄭氏周易注 三卷 / (漢)鄭玄撰; (宋)王應麟撰集; (清)惠棟增補; (清)孫堂重校<lb/>鄭氏周易注補遺一卷 / (清)孫堂撰</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">鄭氏周易注 三卷</title>

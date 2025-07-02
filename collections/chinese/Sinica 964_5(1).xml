@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17564</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,9 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 964/5(1)</idno>
                </msIdentifier>
-               <head>書名: 封長白山記 一卷 / (清)方象瑛撰<lb/>收於: 下列叢書前集:<lb/>說鈴 /
-                  (清)吳震方編<lb/>清康熙四十四年[1705]序刊本<lb/>線裝19冊 ; 25公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17564">Sinica 964</ref><lb/>書名: 封長白山記 一卷 / (清)方象瑛撰</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">封長白山記 一卷</title>

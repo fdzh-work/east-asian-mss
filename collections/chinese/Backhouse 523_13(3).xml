@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17121</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,9 +44,7 @@
                   <collection>Backhouse</collection>
                   <idno type="shelfmark">Backhouse 523/13(3)</idno>
                </msIdentifier>
-               <head>書名: 南涼疆域圖<lb/>宣統三年[1911]鄂城刊<lb/>收於: 歷代輿地圖 /
-                  (清)楊守敬撰<lb/>清光緒宣統間宜都楊氏刊朱墨套印本<lb/>線裝34冊 ; 30公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17121">Backhouse 523</ref><lb/>書名: 南涼疆域圖</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">南涼疆域圖</title>

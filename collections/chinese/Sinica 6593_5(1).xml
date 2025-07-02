@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17414</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,10 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 6593/5(1)</idno>
                </msIdentifier>
-               <head>書名: 伊川經說 八卷 / (宋)程頤撰<lb/>收於: 河南二程全書 / (宋)程顥,
-                  (宋)程頤撰<lb/>清同治五年[1866]跋嵩縣二十八代裔程德尊﹑程德寶重刊本河南嵩邑兩程故里影堂藏板<lb/>洋裝5冊(原線裝20冊) : 像 ;
-                  22公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17414">Sinica 6593</ref><lb/>書名: 伊川經說 八卷 / (宋)程頤撰</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">伊川經說 八卷</title>

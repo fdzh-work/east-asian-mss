@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17517</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,9 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 6737/7(2)-8(1)</idno>
                </msIdentifier>
-               <head>書名: 洞靈續志 八卷<lb/>民國甲戌[1934]蟄園刊<lb/>收於: 侯官郭氏全集 /
-                  (清)郭則澐撰<lb/>民國侯官郭氏刊本<lb/>洋裝12冊(原線裝61冊) ; 29公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17517">Sinica 6737</ref><lb/>書名: 洞靈續志 八卷</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">洞靈續志 八卷</title>

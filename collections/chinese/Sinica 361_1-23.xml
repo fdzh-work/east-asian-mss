@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17246</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,9 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 361/1-23</idno>
                </msIdentifier>
-               <head>書名: 御製曆象考成 上編十六卷下編十卷表十六卷後編十卷<lb/>收於: 御製律曆淵源 三種 /
-                  (清)雍正二年[1724]允祿等奉敕撰<lb/>清刊本<lb/>線裝55冊 : 圖 ; 28公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17246">Sinica 361</ref><lb/>書名: 御製曆象考成 上編十六卷下編十卷表十六卷後編十卷</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">御製曆象考成 上編十六卷下編十卷表十六卷後編十卷</title>

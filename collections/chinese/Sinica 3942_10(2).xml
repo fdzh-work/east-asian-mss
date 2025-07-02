@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17273</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,9 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 3942/10(2)</idno>
                </msIdentifier>
-               <head>書名: 念宛齋詞鈔 一卷 / (清)左輔撰<lb/>宣統元年[1909]刊<lb/>收於: 懷豳雜俎叢書 /
-                  (民國)徐乃昌編<lb/>清光緒宣統間南陵徐氏刊後印本<lb/>線裝10冊 ; 22公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17273">Sinica 3942</ref><lb/>書名: 念宛齋詞鈔 一卷 / (清)左輔撰</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">念宛齋詞鈔 一卷</title>

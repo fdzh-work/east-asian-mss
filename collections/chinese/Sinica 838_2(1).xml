@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17544</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,9 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 838/2(1)</idno>
                </msIdentifier>
-               <head>書名: 方程 一卷<lb/>收於: 算學初集十七種 / (清)吳嘉善,
-                  (清)丁取忠同述<lb/>清同治元年[1862]附錄二年[1863]白芙堂活字印本<lb/>線裝3冊 ; 26公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17544">Sinica 838</ref><lb/>書名: 方程 一卷</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">方程 一卷</title>

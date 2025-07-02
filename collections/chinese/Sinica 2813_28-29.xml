@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17193</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,9 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 2813/28-29</idno>
                </msIdentifier>
-               <head>書名: 龍筋鳳髓判 四卷 / (唐)張鷟撰 ; (明)劉允鵬注 ; (清)陳春補正<lb/>嘉慶十六年[1811]刊<lb/>收於: 湖海樓叢書 /
-                  (清)陳春編<lb/>清嘉慶中蕭山陳氏刊本<lb/>線裝32冊 ; 24公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17193">Sinica 2813</ref><lb/>書名: 龍筋鳳髓判 四卷 / (唐)張鷟撰; (明)劉允鵬注; (清)陳春補正</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">龍筋鳳髓判 四卷</title>

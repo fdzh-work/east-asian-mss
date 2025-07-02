@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17416</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,10 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 6601/9</idno>
                </msIdentifier>
-               <head>書名: 台灣紀略 一卷 / (清)林謙光撰<lb/>收於: 下列叢書第九帙:<lb/>小方壺齋輿地叢鈔 十二帙補編十二帙再補編十二帙 /
-                  (清)王錫祺輯<lb/>清光緒十七年[1891]補編二十年[1894]再補編二十三年[1897]上海著易堂排印本<lb/>洋裝15冊(原線裝84冊) ;
-                  20公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17416">Sinica 6601</ref><lb/>書名: 台灣紀略 一卷 / (清)林謙光撰</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">台灣紀略 一卷</title>

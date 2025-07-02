@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17357</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,9 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 6033/4(2), 5(2), 6(2)</idno>
                </msIdentifier>
-               <head>書名: 殷虛古器物圖錄 一卷附說一卷 / (清)羅振玉撰<lb/>收於: 藝術叢編 存第一至六期 /
-                  (民國)姬佛陀輯<lb/>民國五年[1916]上海倉聖明智大學鉛印石印本<lb/>線裝6冊 ; 34公分<lb/>一名《廣倉學宭叢書》<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17357">Sinica 6033</ref><lb/>書名: 殷虛古器物圖錄 一卷附說一卷 / (清)羅振玉撰</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">殷虛古器物圖錄 一卷附說一卷</title>

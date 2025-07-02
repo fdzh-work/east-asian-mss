@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17505</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,9 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 6723/11(3)</idno>
                </msIdentifier>
-               <head>書名: 西涯樂府 二卷 / (明)李東陽撰<lb/>光緒乙酉[1885]刊<lb/>收於: 懺花盦叢書 /
-                  (清)宋澤元輯<lb/>清光緒中山陰宋氏刊丁亥[1887]彙印本<lb/>洋裝13冊(原線裝60冊) ; 27公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17505">Sinica 6723</ref><lb/>書名: 西涯樂府 二卷 / (明)李東陽撰</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">西涯樂府 二卷</title>

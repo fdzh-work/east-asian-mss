@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17250</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,10 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 3709/8(1)</idno>
                </msIdentifier>
-               <head>書名: 課花盦詞 一卷 / (民國)董康撰<lb/>收於: 廣川詞錄 /
-                  (民國)董康編<lb/>民國二十九年[1940]武進董氏刊1991年北京中國書店重印本殘損版以影印配補<lb/>線裝8冊 ; 28公分<lb/>ISBN
-                  7-80568-376-X<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17250">Sinica 3709</ref><lb/>書名: 課花盦詞 一卷 / (民國)董康撰</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">課花盦詞 一卷</title>

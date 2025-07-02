@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17451</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,9 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 6660/3(3)</idno>
                </msIdentifier>
-               <head>書名: 七言今體詩鈔 九卷 / (清)姚鼐輯<lb/>收於: 惜抱軒全集 /
-                  (清)姚鼐撰<lb/>清同治丙寅[1866]省心閣刊本<lb/>洋裝3冊(原線裝16冊) ; 25公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17451">Sinica 6660</ref><lb/>書名: 七言今體詩鈔 九卷 / (清)姚鼐輯</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">七言今體詩鈔 九卷</title>

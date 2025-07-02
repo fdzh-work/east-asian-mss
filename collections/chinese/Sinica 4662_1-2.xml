@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17294</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,9 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 4662/1-2</idno>
                </msIdentifier>
-               <head>書名: 爾雅稗疏 四卷 / (清)繆楷撰<lb/>收於: 南菁札記 / (清)溥良編<lb/>清光緒甲午[1894]江陰使署刊本<lb/>線裝6冊 ;
-                  25公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17294">Sinica 4662</ref><lb/>書名: 爾雅稗疏 四卷 / (清)繆楷撰</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">爾雅稗疏 四卷</title>

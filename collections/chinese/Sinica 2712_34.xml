@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17178</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,9 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 2712/34</idno>
                </msIdentifier>
-               <head>書名: 漢書地理志水道圖說補正 二卷 / (清)吳承志撰<lb/>民國辛酉[1921]刊<lb/>收於: 下列叢書史部:<lb/>求恕齋叢書 /
-                  劉承幹編<lb/>民國吳興劉氏刊1984年北京文物出版社重印本<lb/>線裝145冊 ; 25公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17178">Sinica 2712</ref><lb/>書名: 漢書地理志水道圖說補正 二卷 / (清)吳承志撰</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">漢書地理志水道圖說補正 二卷</title>

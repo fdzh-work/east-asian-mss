@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17503</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,10 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 6721/15-18</idno>
                </msIdentifier>
-               <head>書名: 二如亭群芳譜 三十卷首一卷 / (明)王象晉撰 ; (明)毛鳳苞等校<lb/>含元部天譜三卷﹑嵗譜四卷; 亨部榖譜一卷﹑蔬譜二卷﹑果譜四卷;
-                  利部茶譜一卷﹑竹譜一卷﹑桑麻葛譜一卷﹑棉譜一卷﹑藥譜三卷﹑木譜二卷; 貞部花譜四卷﹑卉譜二卷﹑鶴魚譜一卷<lb/>明末刊<lb/>收於: 漁洋三十六種全集 /
-                  (清)王士禛撰<lb/>清康熙中刊本<lb/>洋裝18冊(原線裝86冊) ; 27公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17503">Sinica 6721</ref><lb/>書名: 二如亭群芳譜 三十卷首一卷 / (明)王象晉撰; (明)毛鳳苞等校</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">二如亭群芳譜 三十卷首一卷</title>

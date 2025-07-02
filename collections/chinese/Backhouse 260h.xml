@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17088</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,10 +44,7 @@
                   <collection>Backhouse</collection>
                   <idno type="shelfmark">Backhouse 260h</idno>
                </msIdentifier>
-               <head>書名: 欽定春秋傳說彙纂 三十八卷首二卷 /
-                  (清)康熙六十年[1721]王掞等奉敕撰<lb/>22冊<lb/>收於: 御纂七經<lb/>清道光戊戌年[1838]重刊本<lb/>線裝179冊 ;
-                  28公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17088">Backhouse 260</ref><lb/>書名: 欽定春秋傳說彙纂 三十八卷首二卷 / (清)康熙六十年[1721]王掞等奉敕撰</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">欽定春秋傳說彙纂 三十八卷首二卷</title>

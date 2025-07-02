@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17475</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,9 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 6688/3(2)</idno>
                </msIdentifier>
-               <head>書名: 左海文集乙編駢體文 二卷<lb/>收於: 左海全集 / (清)陳壽祺撰<lb/>清嘉慶道光間刊陳紹墉補刊本<lb/>洋裝6冊(原線裝32冊) ;
-                  26公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17475">Sinica 6688_1-6</ref><lb/>書名: 左海文集乙編駢體文 二卷</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">左海文集乙編駢體文 二卷</title>

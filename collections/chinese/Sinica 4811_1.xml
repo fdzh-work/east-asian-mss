@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17313</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,9 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 4811/1</idno>
                </msIdentifier>
-               <head>書名: 覆校穆天子傳 六卷補遺一卷 / (晉)郭璞注 ; (清)翟云升校<lb/>收於: 五經歲遍齋校書三種 /
-                  (清)翟云升編<lb/>清道光中東萊翟氏刊本<lb/>線裝10冊 ; 23公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17313">Sinica 4811</ref><lb/>書名: 覆校穆天子傳 六卷補遺一卷 / (晉)郭璞注; (清)翟云升校</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">覆校穆天子傳 六卷補遺一卷</title>

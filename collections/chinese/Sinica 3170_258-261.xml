@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17228</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,9 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 3170/258-261</idno>
                </msIdentifier>
-               <head>書名: 諸史考異 十八卷 ; 附 讀書叢錄 七卷 / (清)洪頤煊撰<lb/>光緒十五年[1899]刊<lb/>收於: 廣雅書局叢書 /
-                  (清)廣雅書局編<lb/>彙編重印清光緒中廣雅書局刊本<lb/>線裝388冊 ; 29公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17228">Sinica 3170</ref><lb/>書名: 諸史考異 十八卷 / (清)洪頤煊撰</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">諸史考異 十八卷</title>

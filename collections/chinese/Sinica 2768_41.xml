@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17187</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,9 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 2768/41</idno>
                </msIdentifier>
-               <head>書名: 古韻譜 二卷 / (清)王念孫撰<lb/>民國二十二年[1933]刊<lb/>收於: 音韻學叢書初編 /
-                  嚴式誨編<lb/>民國十二年至二十五年[1922-1936]渭南嚴氏成都刊本<lb/>線裝56冊 ; 28公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17187">Sinica 2768</ref><lb/>書名: 古韻譜 二卷 / (清)王念孫撰</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">古韻譜 二卷</title>

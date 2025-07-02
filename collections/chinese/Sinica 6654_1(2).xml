@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17446</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,9 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 6654/1(2)</idno>
                </msIdentifier>
-               <head>書名: 王懷祖先生說文解字校勘記殘藁 一卷 / (清)王念孫撰 ; (清)桂馥編<lb/>收於: 晨風閣叢書 /
-                  (清)沈宗畸編<lb/>清宣統元年[1909]番禺沈氏刊本<lb/>洋裝2冊(原線裝16冊) ; 23公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17446">Sinica 6654</ref><lb/>書名: 王懷祖先生說文解字校勘記殘藁 一卷 / (清)王念孫撰; (清)桂馥編</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">王懷祖先生說文解字校勘記殘藁 一卷</title>

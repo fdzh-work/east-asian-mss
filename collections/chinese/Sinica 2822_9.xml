@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_6294</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,9 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 2822/9</idno>
                </msIdentifier>
-               <head>書名: 少廣正負術 內篇三卷外篇三卷<lb/>嘉慶甲戌[1814]孔昭虔刊<lb/>收於: 顨軒孔氏所著書 /
-                  (清)孔廣森撰<lb/>清乾隆嘉慶間曲阜孔氏刊本<lb/>線裝10冊 ; 27公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_6294">Sinica 2822</ref><lb/>書名: 少廣正負術 內篇三卷外篇三卷</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">少廣正負術 內篇三卷外篇三卷</title>

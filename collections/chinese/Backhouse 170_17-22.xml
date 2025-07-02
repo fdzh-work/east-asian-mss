@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17081</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,9 +44,7 @@
                   <collection>Backhouse</collection>
                   <idno type="shelfmark">Backhouse 170/17-22</idno>
                </msIdentifier>
-               <head>書名: 宋大家蘇文忠公文鈔 二十八卷 / (宋)蘇軾撰<lb/>收於: 唐宋八大家文鈔 / (明)茅坤編暨評<lb/>清康熙中雲林大盛堂刊本<lb/>線裝40冊
-                  ; 26公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17081">Backhouse 170</ref><lb/>書名: 宋大家蘇文忠公文鈔 二十八卷 / (宋)蘇軾撰</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">宋大家蘇文忠公文鈔 二十八卷</title>

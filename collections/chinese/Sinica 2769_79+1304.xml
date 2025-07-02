@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17188</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,9 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 2769/79</idno>
                </msIdentifier>
-               <head>書名: 郷黨正義 一卷 / (清)金鶚撰<lb/>收於: 皇清經解續編 / (清)王先謙輯<lb/>清光緒十四年[1888]南菁書院刊本<lb/>線裝545冊 ;
-                  24公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17188">Sinica 2769</ref><lb/>書名: 郷黨正義 一卷 / (清)金鶚撰</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">郷黨正義 一卷</title>

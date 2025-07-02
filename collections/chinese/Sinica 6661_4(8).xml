@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17452</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,9 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 6661/4(8)</idno>
                </msIdentifier>
-               <head>書名: 詩牌譜 一卷 / (明)王良樞撰<lb/>光緒戊子[1888]刊<lb/>收於: 下列叢書別集:<lb/>觀自得齋叢書 /
-                  (清)徐士愷輯<lb/>清光緒中石埭徐氏刊本<lb/>洋裝4冊(原線裝24冊) ; 25公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17452">Sinica 6661</ref><lb/>書名: 詩牌譜 一卷 / (明)王良樞撰</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">詩牌譜 一卷</title>

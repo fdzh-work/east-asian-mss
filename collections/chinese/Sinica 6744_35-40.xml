@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17522</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,10 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 6744/35-40</idno>
                </msIdentifier>
-               <head>書名: 荀子 二十卷 / (周)荀況撰 ; (唐)楊倞注 ; (清)盧文弨, (清)謝墉校<lb/>荀子校勘補遺 一卷 /
-                  (清)謝墉撰<lb/>收於: 抱經堂叢書 / (清)盧文弨輯<lb/>民國十二年[1923]北京直隸書局影印盧氏刊本<lb/>線裝100冊 ;
-                  20公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17522">Sinica 6744</ref><lb/>書名: 荀子 二十卷 / (周)荀況撰; (唐)楊倞注; (清)盧文弨, (清)謝墉校<lb/>荀子校勘補遺 一卷 / (清)謝墉撰</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">荀子 二十卷</title>

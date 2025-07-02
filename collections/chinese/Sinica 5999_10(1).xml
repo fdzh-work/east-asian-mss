@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17352</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,10 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 5999/10(1)</idno>
                </msIdentifier>
-               <head>書名: 古石抱守錄 一卷 / (民國)姬佛陀輯<lb/>收於: 藝術叢編 /
-                  (民國)姬佛陀輯<lb/>民國五年至九年[1916-1920]上海倉聖明智大學鉛印石印本<lb/>洋裝12冊(線裝23冊) ;
-                  34公分<lb/>一名《廣倉學宭叢書》<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17352">Sinica 5999</ref><lb/>書名: 古石抱守錄 一卷 / (民國)姬佛陀輯</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">古石抱守錄 一卷</title>

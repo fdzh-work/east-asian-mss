@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17199</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,10 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 2839/12-30</idno>
                </msIdentifier>
-               <head>書名: 欽定三禮義疏 /
-                  (清)乾隆十三年[1748]鄂爾泰等奉敕撰<lb/>收於: 御纂七經<lb/>清同治六年至九年[1867-1870]浙江書局刊本<lb/>洋裝30冊(原線裝120冊)
-                  ; 26公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17199">Sinica 2839</ref><lb/>書名: 欽定三禮義疏 / (清)乾隆十三年[1748]鄂爾泰等奉敕撰</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">欽定三禮義疏</title>

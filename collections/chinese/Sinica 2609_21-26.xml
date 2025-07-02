@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17158</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,10 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 2609/21-26</idno>
                </msIdentifier>
-               <head>書名: 孫子十家註 十三卷 / (周)孫武撰 ; (宋)吉天保輯 ; (清)孫星衍, (清)吳人驥校<lb/>孫子敘錄 一卷 /
-                  (清)畢以珣撰<lb/>孫子十家註遺說 一卷 / (宋)鄭友賢撰<lb/>光緒三年[1877]刊<lb/>收於: 二十二子 殘十八種 /
-                  (清)浙江書局編<lb/>清光緒中浙江書局刊本<lb/>線裝69冊 ; 24公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17158">Sinica 2609</ref><lb/>書名: 孫子十家註 十三卷 / (周)孫武撰; (宋)吉天保輯; (清)孫星衍, (清)吳人驥校<lb/>孫子敘錄 一卷 / (清)畢以珣撰<lb/>孫子十家註遺說 一卷 / (宋)鄭友賢撰</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">孫子十家註 十三卷</title>

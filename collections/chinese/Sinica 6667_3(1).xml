@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17457</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,9 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 6667/3(1)</idno>
                </msIdentifier>
-               <head>書名: 石泉書屋館課詩 二卷<lb/>咸豐戊午[1858]刊<lb/>收於: 石泉書屋全集 /
-                  (清)李佐賢撰<lb/>清咸豐光緒間利津李氏刊本<lb/>洋裝12冊(原線裝52冊) ; 25公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17457">Sinica 6667</ref><lb/>書名: 石泉書屋館課詩 二卷</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">石泉書屋館課詩 二卷</title>

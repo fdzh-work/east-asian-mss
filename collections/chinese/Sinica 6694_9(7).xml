@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17481</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,9 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 6694/9(7)</idno>
                </msIdentifier>
-               <head>書名: 三輔舊事 一卷 / 佚名撰 ; (清)張澍輯<lb/>收於: 下列叢書史部:<lb/>龍谿精舍叢書 /
-                  (民國)鄭國勳輯<lb/>民國六年[1917]序潮陽鄭氏刊本<lb/>洋裝20冊(原線裝117冊) ; 26公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17481">Sinica 6694</ref><lb/>書名: 三輔舊事 一卷 / 佚名撰; (清)張澍輯</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">三輔舊事 一卷</title>

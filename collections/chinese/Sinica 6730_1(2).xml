@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17511</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,9 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 6730/1(2)</idno>
                </msIdentifier>
-               <head>書名: 姑蘇名賢小記 二卷 / (明)文震孟撰<lb/>光緒八年[1882]刊<lb/>收於: 心矩齋叢書 /
-                  (清)蔣鳳藻輯<lb/>清光緒中長洲蔣氏刊本<lb/>洋裝3冊(原線裝24冊) ; 28公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17511">Sinica 6730</ref><lb/>書名: 姑蘇名賢小記 二卷 / (明)文震孟撰</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">姑蘇名賢小記 二卷</title>

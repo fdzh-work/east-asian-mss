@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17311</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,9 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 4806/5(5)-6</idno>
                </msIdentifier>
-               <head>書名: 風俗通姓氏篇 二卷 / (漢)應劭纂 ; (清)張澍補注<lb/>收於: 二酉堂叢書 /
-                  (清)張澍輯<lb/>清道光元年[1821]武威張氏二酉堂刊本<lb/>線裝10冊 ; 24公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17311">Sinica 4806</ref><lb/>書名: 風俗通姓氏篇 二卷 / (漢)應劭纂; (清)張澍補注</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">風俗通姓氏篇 二卷</title>

@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17525</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,9 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 6748/2(2)</idno>
                </msIdentifier>
-               <head>書名: 學春秋隨筆 十卷 / (清)萬斯大撰<lb/>收於: 皇清經解 / (清)阮元輯<lb/>清光緒辛卯[1891]上海鴻寶齋石印本<lb/>線裝24冊 ;
-                  20公分<lb/>後附《正訛記》一卷<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17525">Sinica 6748</ref><lb/>書名: 學春秋隨筆 十卷 / (清)萬斯大撰</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">學春秋隨筆 十卷</title>

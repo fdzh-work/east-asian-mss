@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17400</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,9 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 6352/1(2)</idno>
                </msIdentifier>
-               <head>書名: 荀子補注 一卷 / (清)劉台拱撰<lb/>影印清嘉慶十一年[1806]刊《劉端臨先生遺書》本<lb/>收於: 周秦諸子校注十種 殘七種 /
-                  陳乃乾輯<lb/>民國中國學會影印本<lb/>洋裝(原線裝)5冊 ; 21公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17400">Sinica 6352</ref><lb/>書名: 荀子補注 一卷 / (清)劉台拱撰</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">荀子補注 一卷</title>

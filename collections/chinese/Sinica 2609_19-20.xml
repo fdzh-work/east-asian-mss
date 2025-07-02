@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17158</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,9 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 2609/19-20</idno>
                </msIdentifier>
-               <head>書名: 文中子中說 十卷 / (隋)王通撰 ; (宋)阮逸注<lb/>光緒二年[1876]刊<lb/>收於: 二十二子 殘十八種 /
-                  (清)浙江書局編<lb/>清光緒中浙江書局刊本<lb/>線裝69冊 ; 24公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17158">Sinica 2609</ref><lb/>書名: 文中子中說 十卷 / (隋)王通撰; (宋)阮逸注</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">文中子中說 十卷</title>

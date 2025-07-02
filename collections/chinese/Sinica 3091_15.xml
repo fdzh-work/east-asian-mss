@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17221</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,9 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 3091/15</idno>
                </msIdentifier>
-               <head>書名: 洺水詞 一卷 / (宋)程珌撰<lb/>收於: 宋名家詞 / (明)毛晉輯<lb/>清光緒戊子[1888]錢塘汪氏據毛氏汲古閣本重校刊<lb/>線裝20冊
-                  ; 26公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17221">Sinica 3091</ref><lb/>書名: 洺水詞 一卷 / (宋)程珌撰</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">洺水詞 一卷</title>

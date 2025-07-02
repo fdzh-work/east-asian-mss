@@ -32,7 +32,7 @@
             </pubPlace>
             <idno/>
             <idno type="msID"/>
-         </publicationStmt>
+         <idno type="parent_Vol">volume_17272</idno></publicationStmt>
          <sourceDesc>
             <msDesc xml:lang="en">
                <msIdentifier>
@@ -44,9 +44,7 @@
                   <collection>Sinica</collection>
                   <idno type="shelfmark">Sinica 3941/1-3</idno>
                </msIdentifier>
-               <head>書名: 左傳紀事本末 五十三卷 / (清)高士奇撰<lb/>收於: 歷朝紀事本末七種 / (清)陳如升,
-                  (清)朱記榮輯<lb/>清光緒戊子[1888]上海書業公所排印本<lb/>線裝48冊 ; 20公分<lb/></head>
-               <msContents>
+               <head>收於: <ref target="volume_17272">Sinica 3941</ref><lb/>書名: 左傳紀事本末 五十三卷 / (清)高士奇撰</head><msContents>
                   <textLang/>
                   <msItem n="1">
                      <title xml:lang="chi" source="#200">左傳紀事本末 五十三卷</title>
