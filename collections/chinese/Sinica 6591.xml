@@ -62,7 +62,7 @@
 
                      <supportDesc>
                         <support/>
-                        <extent><measure type="volume" n="3">3冊</measure><!--洋裝3冊(原線裝10冊) ; 26公分--><dimensions unit="cm"><height>26</height></dimensions></extent>
+                        <extent><measure type="volume" n="3">3冊</measure>(原線裝10冊)<!--洋裝3冊(原線裝10冊) ; 26公分--><dimensions unit="cm"><height>26</height></dimensions></extent>
                      </supportDesc>
 
                   </objectDesc>
@@ -117,7 +117,7 @@
          <textClass>
             <keywords scheme="#siku">
                <list>
-                  <item><term key="subject_759" source="759.88">759.88</term></item>
+                  <!--<item><term key="subject_759" source="759.88">759.88</term></item>-->
                </list>
             </keywords>
             <keywords scheme="#bodleian_chinese_thesaurus">
