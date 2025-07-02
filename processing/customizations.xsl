@@ -205,8 +205,30 @@
             </span>
         </div></xsl:template>
     
-    <xsl:template match="item|head/ref[@target]">
-        <!-- This matches item or head/refs which are used to link collections with individual items, or individual items with their parents, and makes them hyperlinks -->
+    <xsl:template match="item/ref[@target]">
+        <!-- This matches item/refs which are used to link collections with individual items, and makes them hyperlinks -->
+        <span>
+            <xsl:attribute name="class">
+                <xsl:value-of select="string-join((name(), @role), ' ')"/>
+            </xsl:attribute>
+            <xsl:choose>
+                <xsl:when test="@target and not(@target='')">
+                    <a>
+                        <xsl:attribute name="href">
+                            <xsl:value-of select="$website-url"/>
+                            <xsl:text>/catalog/</xsl:text>
+                            <xsl:value-of select="@target"/>
+                        </xsl:attribute>
+                        <xsl:apply-templates/>
+                    </a>
+                </xsl:when>
+                <xsl:otherwise>
+                    <xsl:apply-templates/>
+                </xsl:otherwise>
+            </xsl:choose>
+        </span></xsl:template>
+    <xsl:template match="msDesc/head/ref[@target]">
+        <!-- This matches head/refs which are used to link individual items with their parents, and makes them hyperlinks -->
         <span>
             <xsl:attribute name="class">
                 <xsl:value-of select="string-join((name(), @role), ' ')"/>
