@@ -78,6 +78,6 @@ else
         ./generate-solr-document.sh "objects.xquery" "objects_index.xml" object $SERVER "$1"
         ./generate-solr-document.sh "works.xquery" "works_index.xml" work $SERVER "$1"
         ./generate-solr-document.sh "persons.xquery" "persons_index.xml" person $SERVER "$1"
-        ./generate-solr-document.sh "subjects.xquery" "places_index.xml" subject $SERVER "$1"
+        ./generate-solr-document.sh "subjects.xquery" "subjects_index.xml" subject $SERVER "$1"
     fi
 fi
