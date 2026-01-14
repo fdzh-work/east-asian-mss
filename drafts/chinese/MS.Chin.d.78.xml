@@ -52,82 +52,8 @@
                         <summary>Miscellaneous documents concerning Arthur Bonsey</summary>
                         <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
                         
-                        <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
-                            <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
-                            <locus><!-- insert --></locus>
-                            <title key="" type="desc">leaf Ms.Chin.d.78/1</title>
-                            <rubric>舊遺詔聖書新遺詔聖書</rubric>
-                            <rubric>日月星辰真解福音大旨</rubric>
-                            <rubric>耶穌洗罪天主實義三字天書</rubric>
-                            
-                            <title key="" type="desc">leaf Ms.Chin.d.78/2</title>
-                            <rubric>舊遺詔聖書新遺詔聖書</rubric>
-                            <rubric>日月星辰真解福音大旨</rubric>
-                            <rubric>耶穌洗罪天主實義三字天書</rubric>
-                            
-                            <title key="" type="desc">leaf Ms.Chin.d.78/3</title>
-                            <title>江夏縣正宗楊示</title>
-                            <incipit>天主一教，不願從者，散步匿帖。</incipit>
-                            <explicit>免啓競爭，誥誡諄諄，查拿究懲。</explicit>
-                            
-                            <title key="" type="desc">leaf Ms.Chin.d.78/4</title>
-                            <title>異聞錄書說</title>
-                            <author>written down with pencil by <persName>John Griffith</persName></author>
-                            <incipit>福州畫錦坊脚下有擺來攤者，有一天雷殛死。雷神示一行字“米中用水康中用木查”，翌日有一蜘蛛墜下字中。</incipit>
-                            
-                            <title key="" type="desc">two leaves with shelfmark Ms.Chin.d.78/5.</title>
-                            <author>魏德盛</author>
-                            <incipit>字奉：牧師潘老夫子道几敬啓，無別，但因本月初九日夜被匪從堂後左尖壁拖洞入室，竊去典錢五十串零九百文，以及衣物首飾等件。
-                              </incipit>
-                            <explicit>耗是幸餘言未贅恭候道安顧。三乙永生上帝興牧師同在，諸位牧師金安。并請不一</explicit>
-                            <colophon>教末<persName>魏德盛</persName>字稟</colophon>
-                            
-                            <title key="" type="desc">leaf Ms.Chin.d.78/6</title>
-                            <title>計開分書傳道開會立堂路程賬單</title>
-                            <author>彭蘭生<lb/>譚斈善</author>
-                            <incipit>中十月初二日上船順風長行連日夜赶岳州府分書錢三百廿文。</incipit>
-                            <explicit>上呈楊老牧師、潘老牧師二位仁愛大人台前察奪為感，到日開呈。</explicit>
-                            
-                            <title key="" type="desc">order confirmation of a shop named Hualou yuji with shelfmark Ms.Chin.d.78/7</title>
-                            <author>花樓裕記</author>
-                            <rubric>目下一言為定，早晚時價不同。</rubric>
-                           <explicit>潘先生收清</explicit>
-                            <colophon>辛卯九月卅日，花樓裕記單</colophon>
-                            
-                            <title key="" type="desc">A list recording purchased objects with shelfmark Ms.Chin.d.78/8</title>
-                            <author>茂興隆</author>
-                            <incipit>正月八号油布壹張計紋五錢正</incipit>
-                            <explicit>共合計工料紋九拾五両七錢九分</explicit>
-                            <colophon><persName>潘牧師</persName>台照</colophon>
-                            <colophon>丁酉九月六号</colophon>
-                            <colophon>茂興隆書柬單</colophon>
-                            
-                            <title key="" type="desc">A list recording purchased objects with shelfmark Ms.Chin.d.78/9</title>
-                            <rubric>一千八百九十七年 尊帳</rubric>
-                            <incipit>元月八号油布一張，紋五錢正</incipit>
-                            <explicit>搃共合紋六十両零一錢弐分。單后未登</explicit>
-                            <colophon><persName>潘牧師</persName>台照</colophon>
-                            <colophon>英七月二十号</colophon>
-                            <colophon>茂興隆書柬單</colophon>
-                            
-                            <title key="" type="desc">A list recording purchased objects with shelfmark Ms.Chin.d.78/10</title>
-                            <title>計開</title>
-                            <incipit>新做樓房壹間，俱用英國尺記算。</incipit>
-                            <explicit>共記工料銀肆仟玖伯五拾両</explicit>
-                            <colophon>高潘二位老牧師先生台照</colophon>
-                            <colophon>三月廿五牯嶺廣昌隆抄</colophon>
-                            <colophon>做兩便鏨光石墻另加銀弍佰弍拾両</colophon>  
-                            
-                            <title key="" type="desc">A list recording purchased objects with shelfmark Ms.Chin.d.78/11</title>
-                            <title>計開</title>
-                            <incipit>新做樓房壹間，用英國尺記算。</incipit>
-                            <explicit>共記工料紋壹仟玖伯五拾両</explicit>
-                            <colophon>高潘二位老牧師先生照</colophon>
-                            <colophon>三月廿五牯嶺廣昌隆抄</colophon>
-                            <colophon>做兩便鏨光石墻另加銀壹佰両</colophon>   
-                            
-                            
-                        </msItem>
+                       
+                       
                         <!-- insert further msItem elements as appropriate -->
                     </msContents>
                     <physDesc>
@@ -224,6 +150,83 @@
                         </listBibl>
                     </additional>
                     
+                    
+                   
+                        <msPart><msIdentifier><altIdentifier><idno>Ms.Chin.d.78/1</idno></altIdentifier></msIdentifier><msContents><msItem>
+                        <rubric>舊遺詔聖書新遺詔聖書</rubric>
+                        <rubric>日月星辰真解福音大旨</rubric>
+                        <rubric>耶穌洗罪天主實義三字天書</rubric></msItem></msContents></msPart>
+                        
+                        <msPart><msIdentifier><altIdentifier><idno>Ms.Chin.d.78/2</idno></altIdentifier></msIdentifier><msContents><msItem>
+                        <rubric>舊遺詔聖書新遺詔聖書</rubric>
+                        <rubric>日月星辰真解福音大旨</rubric>
+                            <rubric>耶穌洗罪天主實義三字天書</rubric></msItem></msContents></msPart>
+                        
+                        <msPart><msIdentifier><altIdentifier><idno>Ms.Chin.d.78/3</idno></altIdentifier></msIdentifier><msContents><msItem>
+                        <title>江夏縣正宗楊示</title>
+                        <incipit>天主一教，不願從者，散步匿帖。</incipit>
+                            <explicit>免啓競爭，誥誡諄諄，查拿究懲。</explicit></msItem></msContents></msPart>
+                        
+                        <msPart><msIdentifier><altIdentifier><idno>Ms.Chin.d.78/4</idno></altIdentifier></msIdentifier><msContents><msItem>
+                        <title>異聞錄書說</title>
+                        <author>written down with pencil by <persName>John Griffith</persName></author>
+                            <incipit>福州畫錦坊脚下有擺來攤者，有一天雷殛死。雷神示一行字“米中用水康中用木查”，翌日有一蜘蛛墜下字中。</incipit></msItem></msContents></msPart>
+                        
+                        <msPart><msIdentifier><altIdentifier><idno>Ms.Chin.d.78/5.</idno></altIdentifier></msIdentifier><msContents><msItem>
+                        <author>魏德盛</author>
+                        <incipit>字奉：牧師潘老夫子道几敬啓，無別，但因本月初九日夜被匪從堂後左尖壁拖洞入室，竊去典錢五十串零九百文，以及衣物首飾等件。
+                        </incipit>
+                        <explicit>耗是幸餘言未贅恭候道安顧。三乙永生上帝興牧師同在，諸位牧師金安。并請不一</explicit>
+                            <colophon>教末<persName>魏德盛</persName>字稟</colophon></msItem></msContents></msPart>
+                        
+                        <msPart><msIdentifier><altIdentifier><idno>leaf Ms.Chin.d.78/6</idno></altIdentifier></msIdentifier><msContents><msItem>
+                        <title>計開分書傳道開會立堂路程賬單</title>
+                        <author>彭蘭生<lb/>譚斈善</author>
+                        <incipit>中十月初二日上船順風長行連日夜赶岳州府分書錢三百廿文。</incipit>
+                            <explicit>上呈楊老牧師、潘老牧師二位仁愛大人台前察奪為感，到日開呈。</explicit></msItem></msContents></msPart>
+                        
+                        <msPart><msIdentifier><altIdentifier><idno> Ms.Chin.d.78/7</idno></altIdentifier></msIdentifier><msContents><msItem>
+                            <title type="desc">order confirmation of a shop named Hualou yuji</title>
+                            <author>花樓裕記</author>
+                        <rubric>目下一言為定，早晚時價不同。</rubric>
+                        <explicit>潘先生收清</explicit>
+                            <colophon>辛卯九月卅日，花樓裕記單</colophon></msItem></msContents></msPart>
+                        
+                        <msPart><msIdentifier><altIdentifier><idno>Ms.Chin.d.78/8</idno></altIdentifier></msIdentifier><msContents><msItem>
+                            <title type="desc">A list recording purchased objects</title>
+                            <author>茂興隆</author>
+                        <incipit>正月八号油布壹張計紋五錢正</incipit>
+                        <explicit>共合計工料紋九拾五両七錢九分</explicit>
+                        <colophon><persName>潘牧師</persName>台照</colophon>
+                        <colophon>丁酉九月六号</colophon>
+                            <colophon>茂興隆書柬單</colophon></msItem></msContents></msPart>
+                        
+                        <msPart><msIdentifier><altIdentifier><idno>Ms.Chin.d.78/9</idno></altIdentifier></msIdentifier><msContents><msItem>
+                            <title type="desc">A list recording purchased objects</title><rubric>一千八百九十七年 尊帳</rubric>
+                        <incipit>元月八号油布一張，紋五錢正</incipit>
+                        <explicit>搃共合紋六十両零一錢弐分。單后未登</explicit>
+                        <colophon><persName>潘牧師</persName>台照</colophon>
+                        <colophon>英七月二十号</colophon>
+                            <colophon>茂興隆書柬單</colophon></msItem></msContents></msPart>
+                        
+                        <msPart><msIdentifier><altIdentifier><idno>Ms.Chin.d.78/10</idno></altIdentifier></msIdentifier><msContents><msItem>
+                            <title type="desc">A list recording purchased objects</title>
+                            <title>計開</title>
+                        <incipit>新做樓房壹間，俱用英國尺記算。</incipit>
+                        <explicit>共記工料銀肆仟玖伯五拾両</explicit>
+                        <colophon>高潘二位老牧師先生台照</colophon>
+                        <colophon>三月廿五牯嶺廣昌隆抄</colophon>
+                            <colophon>做兩便鏨光石墻另加銀弍佰弍拾両</colophon>  </msItem></msContents></msPart>
+                        
+                        <msPart><msIdentifier><altIdentifier><idno>Ms.Chin.d.78/11</idno></altIdentifier></msIdentifier><msContents><msItem>
+                            <title type="desc">A list recording purchased objects</title>
+                            <title>計開</title>
+                        <incipit>新做樓房壹間，用英國尺記算。</incipit>
+                        <explicit>共記工料紋壹仟玖伯五拾両</explicit>
+                        <colophon>高潘二位老牧師先生照</colophon>
+                        <colophon>三月廿五牯嶺廣昌隆抄</colophon>
+                            <colophon>做兩便鏨光石墻另加銀壹佰両</colophon>   </msItem></msContents></msPart>
+                        
                     
                 </msDesc>
             </sourceDesc>

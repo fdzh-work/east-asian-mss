@@ -57,13 +57,13 @@
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            <title key="" type="desc">Sinica 3243</title>
+                            <title type="desc">Sinica 3243</title>
                             
                             
-                            <incipit>到氣望氣出存解移不得番速变速■告奉太上老君急令敕<locus type="page"> p.1</locus></incipit>
+                            <incipit><locus type="page">p.1: </locus>到氣望氣出存解移不得番速变速■告奉太上老君急令敕</incipit>
                             
                             
-                            <explicit type="desc">道家符籙圖示<locus type="page"> p.42</locus></explicit>
+                            <msItem> <locus type="page">p.42: </locus> <title type="desc">道家符籙圖示</title></msItem>
                             
                         </msItem>
                         <!-- insert further msItem elements as appropriate -->

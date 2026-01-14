@@ -65,10 +65,10 @@
                             <author key="Chinese">Nicolas Trigault</author>
                             <note><persName>姚老楞佐</persName>抄寫。'老楞佐' is the Chinese rendition of 'Lorenzo'. 
                                   This book is hand written by Lorenzo Yao.</note>
-                            <incipit><locus> f.1 </locus>況義 一書西方金尼閣口授 南國張賡筆傳</incipit>
-                            <explicit><locus>f．20 </locus>上邑姚老楞佐秋</explicit>
-                            <incipit><locus> f.21 </locus>耶穌教經書目錄</incipit>
-                            <explicit><locus>f．35 </locus>上邑姚老楞佐秋</explicit>
+                            <msItem><incipit><locus>f.1: </locus>況義 一書西方金尼閣口授 南國張賡筆傳</incipit>
+                            <explicit><locus>f．20: </locus>上邑姚老楞佐秋</explicit></msItem>
+                            <msItem><incipit><locus>f.21: </locus>耶穌教經書目錄</incipit>
+                            <explicit><locus>f．35: </locus>上邑姚老楞佐秋</explicit></msItem>
                             <filiation>手抄本，中外孤本。handwritten copy, only surviving copy of its kind.</filiation>  
                         </msItem>
                         <!-- insert further msItem elements as appropriate --> 

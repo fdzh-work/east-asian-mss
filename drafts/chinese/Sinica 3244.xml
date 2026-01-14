@@ -57,32 +57,34 @@
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            <title key="" type="desc">Sinica 3244</title>
+                            <title type="desc">Sinica 3244</title>
                             
                             
                             <incipit>敕發雷声發鼓，如今声壹声敕答朝天兵入魂速鬼魂遠行凖吾奉太上老君令敕<locus type="page"> p.1</locus></incipit>
-                            <rubric>咄：謹请東方天门<locus type="page"> p.1</locus></rubric>
-                            <rubric>咄：謹请東方五雷来<locus type="page"> pp.2-3</locus></rubric>
-                            <rubric>咄：謹请東方大吉利<locus type="page"> pp.2-3</locus></rubric>
-                            <rubric>咄：謹请東方天门<locus type="page"> pp.6-7</locus></rubric>
-                            <rubric>咄：壹变脚底為鉄版<locus type="page"> pp.8-9</locus></rubric>
-                            <rubric>咄：藏身法用<locus type="page"> pp.10-11</locus></rubric>
-                            <rubric>咄：变身梯柱用<locus type="page"> pp.12-13</locus></rubric>
-                            <rubric>咄：剉刀口法用<locus type="page"> pp.12-13</locus></rubric>
-                            <rubric>咄：藏变梯用<locus type="page"> pp.14-15</locus></rubric>
-                            <rubric>咄：又变刀口用<locus type="page"> pp.16-17</locus></rubric>
-                            <rubric>咄：又变身上刀山法用<locus type="page"> pp.18-19</locus></rubric>
-                            <rubric>咄：变犁頭火磗用<locus type="page"> pp.20-21</locus></rubric>
-                            <rubric>師：師变二分速变速化吾奉太上老君急急如敕令<locus type="page"> pp.20-21</locus></rubric>
-                            <rubric>咄：含犁頭法用<locus type="page"> pp.28-29</locus></rubric>
-                            <rubric>咄：变角用<locus type="page"> pp.34-35</locus></rubric>
-                            <rubric>咄：又大变法<locus type="page"> pp.38-39</locus></rubric>
+                            <msItem><locus type="folio"> p.1</locus><title type="desc">咄：謹请東方天门</title></msItem>
+                            <msItem><locus type="folio"> pp.2-3</locus><title type="desc">咄：謹请東方五雷来</title></msItem>
+                            <msItem><locus type="folio"> pp.2-3</locus><title type="desc">咄：謹请東方大吉利</title></msItem>
+                            <msItem><locus type="folio"> pp.6-7</locus><title type="desc">咄：謹请東方天门</title></msItem>
+                            <msItem><locus type="folio"> pp.8-9</locus><title type="desc">咄：壹变脚底為鉄版</title></msItem>
+                            <msItem><locus type="folio"> pp.10-11</locus><title type="desc">咄：藏身法用</title></msItem>
+                            <msItem><locus type="folio"> pp.12-13</locus><title type="desc">咄：变身梯柱用</title></msItem>
+                            <msItem><locus type="folio"> pp.12-13</locus><title type="desc">咄：剉刀口法用</title></msItem>
+                            <msItem><locus type="folio"> pp.14-15</locus><title type="desc">咄：藏变梯用</title></msItem>
+                            <msItem><locus type="folio"> pp.16-17</locus><title type="desc">咄：又变刀口用</title></msItem>
+                            <msItem><locus type="folio"> pp.18-19</locus><title type="desc">咄：又变身上刀山法用</title></msItem>
+                            <msItem><locus type="folio"> pp.20-21</locus><title type="desc">咄：变犁頭火磗用</title></msItem>
+                            <msItem><locus type="folio"> pp.20-21</locus><title type="desc">師：師变二分速变速化吾奉太上老君急急如敕令</title></msItem>
+                            <msItem><locus type="folio"> pp.28-29</locus><title type="desc">咄：含犁頭法用</title></msItem>
+                            <msItem><locus type="folio"> pp.34-35</locus><title type="desc">咄：变角用</title></msItem>
+                            <msItem><locus type="folio"> pp.38-39</locus><title type="desc">咄：又大变法</title></msItem>
                             
                     
                             
                             
                             
-                            <explicit type="desc">道家符籙圖示，有磨損痕跡<locus type="page"> p.42</locus></explicit>
+                           <msItem>
+                               <locus type="page"> p.42</locus>
+                               <title type="desc">道家符籙圖示，有磨損痕跡</title></msItem>
                             
                         </msItem>
                         <!-- insert further msItem elements as appropriate -->

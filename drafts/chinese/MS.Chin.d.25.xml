@@ -62,10 +62,10 @@
                             <title type="desc" xml:lang="en">On management of the breath</title> 
                             <title>調氣煉外丹圖說</title>
                                 <author key="Chinese">unknown</author>
-                            <incipit><locus>fol.2</locus>第一套第一式</incipit>
-                            <incipit><locus>fol.6</locus>第二套</incipit>
-                            <incipit><locus>fol.8</locus>第三套</incipit>
-                            <incipit><locus>fol.11</locus>閉目冥心坐握固靜思神扣齒三十六兩手抱昆侖</incipit>
+                            <msItem><locus>fol.2</locus><incipit>第一套第一式</incipit></msItem>
+                            <msItem><locus>fol.6</locus><incipit>第二套</incipit></msItem>
+                            <msItem><locus>fol.8</locus><incipit>第三套</incipit></msItem>
+                            <msItem><locus>fol.11</locus><incipit>閉目冥心坐握固靜思神扣齒三十六兩手抱昆侖</incipit></msItem>
                                 <filiation>手抄本，中外孤本。handwritten copy, only surviving copy of its kind.</filiation>  
                         </msItem>
                         <!-- insert further msItem elements as appropriate --> 

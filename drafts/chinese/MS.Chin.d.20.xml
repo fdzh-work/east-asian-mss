@@ -63,8 +63,8 @@
                             <title>苗疆圖説 (二卷)</title>
                             <author key="Chinese">unknown</author>
                             <note><persName>籜石老人</persName>舊藏本<persName>王鈞</persName>編輯<placeName>南武</placeName><persName>王翰</persName>手錄</note>
-                            <incipit><locus>fol.1</locus>苗疆圖説 卷上 籜石老人藏本 王鈞編輯</incipit>
-                            <incipit><locus>fol.10</locus>苗疆圖説 卷下 籜石老人藏本 王鈞編輯</incipit>
+                            <msItem><locus>fol.1</locus><incipit>苗疆圖説 卷上 籜石老人藏本 王鈞編輯</incipit></msItem>
+                            <msItem><locus>fol.10</locus><incipit>苗疆圖説 卷下 籜石老人藏本 王鈞編輯</incipit></msItem>
                             <filiation>手抄本，中外孤本。handwritten copy, only surviving copy of its kind.</filiation>  
                         </msItem>
                         <!-- insert further msItem elements as appropriate --> 

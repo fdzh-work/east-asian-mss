@@ -59,16 +59,17 @@
                             <locus><!-- insert --></locus>
                             <title key="" type="desc">Sinica 3245</title>
                             
-                            <rubric>又到造船歌用<locus type="page">Inside upper cover</locus></rubric>
-                            <incipit>唱歌便唱歌有意齊齊唱曲到西天<locus type="page">Inside upper cover</locus></incipit>
-                            <rubric>又到到開光了<locus type="page"> pp.8-9</locus></rubric>
-                            <rubric>又論子丑十二時日用<locus type="page"> pp.10-11</locus></rubric>
-                            <rubric>又看忌日用<locus type="page"> pp.16-17</locus></rubric>
-                            <rubric>男人上位星辰<locus type="page"> pp.18-19</locus></rubric>
-                            <rubric>奏星用<locus type="page"> pp.22-23</locus></rubric>
-                            <rubric>竹山山世<locus type="page"> pp.28-29</locus></rubric>
-                            <rubric>千禾萬貫得相連同<locus type="page"> pp.30-31</locus></rubric>
-                            <rubric>退涼法用<locus type="page"> pp.32-33</locus></rubric>
+                            <rubric><locus type="page">Inside upper cover: </locus>又到造船歌用</rubric>
+                            <incipit><locus type="page">Inside upper cover: </locus>唱歌便唱歌有意齊齊唱曲到西天</incipit>
+                                
+                            <msItem><locus type="folio"> pp.8-9</locus><title type="desc">又到到開光了</title></msItem>
+                            <msItem><locus type="folio"> pp.10-11</locus><title type="desc">又論子丑十二時日用</title></msItem>
+                            <msItem><locus type="folio"> pp.16-17</locus><title type="desc">又看忌日用</title></msItem>
+                            <msItem><locus type="folio"> pp.18-19</locus><title type="desc">男人上位星辰</title></msItem>
+                            <msItem><locus type="folio"> pp.22-23</locus><title type="desc">奏星用</title></msItem>
+                            <msItem><locus type="folio"> pp.28-29</locus><title type="desc">竹山山世</title></msItem>
+                            <msItem><locus type="folio"> pp.30-31</locus><title type="desc">千禾萬貫得相連同</title></msItem>
+                            <msItem><locus type="page"> pp.32-33</locus><title>退涼法用</title></msItem>
               
                             
                         </msItem>
