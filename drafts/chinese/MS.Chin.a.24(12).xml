@@ -49,7 +49,7 @@
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary> 《護照》 1887, 1889, 1897</summary>
+                        <summary xml:lang="zh"> 《護照》 1887, 1889, 1897</summary>
                         <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
                         
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->

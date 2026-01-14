@@ -50,7 +50,7 @@
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>幾何原本（手抄本,抄寫人:沈拱瑛，字誠夫。） 
+                        <summary><foreign xml:lang="zh">幾何原本（手抄本,抄寫人:沈拱瑛，字誠夫。） </foreign>
                             This is a handwritten version of Euclid's 'Principles of Geometry'， encompassing volumes 1 to 4, 
                             translated into Chinese by Xu Guang Qi and Matteo Ricci， handwritten by Shen Gong Ying.</summary>
                         <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->

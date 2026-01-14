@@ -50,7 +50,7 @@
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>古今法書苑（手抄本） 
+                        <summary><foreign xml:lang="zh">古今法書苑（手抄本） </foreign>
                                 A Compilation of Chinese Calligraphy Critique Throughout History （Handwritten）</summary>
                         <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
                         

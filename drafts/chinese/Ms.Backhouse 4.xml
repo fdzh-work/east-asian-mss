@@ -50,8 +50,8 @@
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>四字雑成（漢語滿語對照手抄本） 
-                            a compilation of idioms in both Chinese and Manchu Languages   
+                        <summary><foreign xml:lang="zh">>四字雑成（漢語滿語對照手抄本）</foreign> 
+                            A compilation of idioms in both Chinese and Manchu Languages   
                         </summary>
                         <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
                         

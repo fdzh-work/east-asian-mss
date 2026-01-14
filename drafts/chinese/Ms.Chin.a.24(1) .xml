@@ -49,7 +49,7 @@
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>《滅鬼歌》，反傳教傳手稿。</summary>
+                        <summary xml:lang="zh">>《滅鬼歌》，反傳教傳手稿。</summary>
                         <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
                         
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->

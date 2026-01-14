@@ -51,7 +51,7 @@
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>《君臣圖繪》四冊</summary>
+                        <summary xml:lang="zh">《君臣圖繪》四冊</summary>
                         <textLang mainLang="ko">Hangul</textLang><!-- change text and attribute if necessary -->
                         
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
@@ -152,7 +152,7 @@
                                 <country>Korea</country>,
                                 
                             </origPlace>
-                            <origDate notAfter="1900" notBefore="1800" calendar="Gregorian">19th century</origDate>
+                            <origDate notAfter="1900" notBefore="1800" calendar="Gregorian">1847 and later</origDate>
                             <!-- use additional origPlace and origDate elements if necessary -->
                         </origin>
                         <provenance></provenance>

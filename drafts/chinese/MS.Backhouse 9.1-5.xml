@@ -50,7 +50,7 @@
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>中西事務紀要（手抄本） 
+                        <summary><foreign xml:lang="zh">>中西事務紀要（手抄本） </foreign>
                             Chronicles of Sino-Western Affairs (handwritten)</summary>
                         <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
                         

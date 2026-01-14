@@ -51,7 +51,7 @@
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>填然鼓之 : 不分卷 ; 智譬則巧也 : 不分卷有缺 </summary>
+                        <summary xml:lang="zh">填然鼓之 : 不分卷 ; 智譬則巧也 : 不分卷有缺 </summary>
                         <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
                         
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->

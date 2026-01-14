@@ -51,7 +51,7 @@
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>標題不明，該手抄本内容為民俗内容，主要風俗和民歌，并由部分内容可能與道家相關。</summary>
+                        <summary xml:lang="zh">標題不明，該手抄本内容為民俗内容，主要風俗和民歌，并由部分内容可能與道家相關。</summary>
                         <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
                         
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
