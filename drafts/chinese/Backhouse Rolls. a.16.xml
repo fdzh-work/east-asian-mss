@@ -45,8 +45,6 @@
                         <settlement><!-- insert --></settlement>
                         <repository>Bodleian Library</repository><!-- change if necessary -->
                         <idno type="shelfmark">Backhouse Rolls.a.16</idno>
-                        
-                        
                     </msIdentifier>
                     
                     <msContents>
@@ -57,8 +55,8 @@
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            <title key="supplied title">清惲壽平畫牡丹圖 軸</title>
-                            <title key="supplie title" xml:lang="en">A painting featuring tree peony flowers attributed to Yun Shou Ping</title>
+                            <title>清惲壽平畫牡丹圖 軸</title>
+                            <title xml:lang="en">A painting featuring tree peony flowers attributed to Yun Shou Ping</title>
                             <author key="Q1329823">   
                                 <persName>惲壽平</persName>
                                 <persName type="曾用名">格</persName>

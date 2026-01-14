@@ -58,8 +58,8 @@
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            <title key="supplied title">清佚名繪十殿閻王圖 軸</title>
-                            <title key="supplied title" xml:lang="en">Two hanging scrolls featuring depictions of the underworld in traditional Chinese mythology</title>
+                            <title type="desc">清佚名繪十殿閻王圖 軸</title>
+                            <title type="desc" xml:lang="en">Two hanging scrolls featuring depictions of the underworld in traditional Chinese mythology</title>
                             <author key="_unknown">unknown</author>
                             <msItem>
                                 <title key="subtitle">五殿閻羅王</title>

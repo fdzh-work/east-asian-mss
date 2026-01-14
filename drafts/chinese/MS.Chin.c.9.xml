@@ -57,7 +57,7 @@
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
 
-                            <title key="desc">【清代外銷畫人物十幅 冊】</title>
+                            <title type="desc">【清代外銷畫人物十幅 冊】</title>
                             <author key="_yungqua">        
                                 <persName>YUNGQUA, Dealers in Pictures charts and c</persName>
                             </author>

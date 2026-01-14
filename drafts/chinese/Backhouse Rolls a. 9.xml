@@ -58,7 +58,7 @@
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
                             <title type="desc">清嘉慶帝行書福字 軸</title>
-                            <title key="supplie title" xml:lang="en">A scroll of calligraphy attributed to Emperor Jia Qing</title>
+                            <title type="desc" xml:lang="en">A scroll of calligraphy attributed to Emperor Jia Qing</title>
                             <author key="Q333178">        
                                 <persName>愛新覺羅顒琰</persName>
                                 <persName type="曾用名">永琰</persName>

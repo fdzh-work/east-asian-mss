@@ -57,7 +57,7 @@
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            <title key="supplied title">填然鼓之 : 不分卷 ; 智譬則巧也 : 不分卷有缺 </title>
+                            <title type="desc">填然鼓之 : 不分卷 ; 智譬則巧也 : 不分卷有缺 </title>
                             
                             <author key="_unknown">unknown</author>
                            

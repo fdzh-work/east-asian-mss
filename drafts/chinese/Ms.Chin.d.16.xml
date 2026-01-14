@@ -56,7 +56,7 @@
                         
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
-                            <title key="supplied title">砝碼</title>
+                            <title type="desc">砝碼</title>
                             <author>unknown</author>
                             <note><locus>upper cover: </locus><q>Regulations for the conveyance of copper from Yünnan to the capital, with itinerary from Hangchow to Yünnan.</q></note>
                             <msItem><locus>p.i</locus><title type="sub">砝碼</title><note><q>S.C.30869n</q></note></msItem>

@@ -59,8 +59,8 @@
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            <title key="supplied title" xml:lang="en">Water-colour of the Battle of the Gods</title>
-                            <title  key="supplied title">八仙過海圖 卷</title>
+                            <title type="desc" xml:lang="en">Water-colour of the Battle of the Gods</title>
+                            <title type="desc">八仙過海圖 卷</title>
                             <author key="_unknown">unknown</author>
                             
                             <note type="注">The "Eight Immortals Crossing the Sea" is a popular theme in Chinese art and literature, depicting a legendary group of eight immortals from Taoist mythology who are said to have crossed the sea together on various magical and whimsical means. </note>

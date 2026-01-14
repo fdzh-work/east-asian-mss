@@ -57,9 +57,9 @@
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            <title key="supplied title" xml:lang="en">Cheng Hsiao-HSÜ:[Four scrolls]
+                            <title type="desc" xml:lang="en">Cheng Hsiao-HSÜ:[Four scrolls]
                                                                       Zheng Xiao Xu: Four scrolls</title>
-                            <title key="supplied title">清鄭孝胥書法對聯兩對 軸</title>
+                            <title type="desc">清鄭孝胥書法對聯兩對 軸</title>
                             <author key="Q230200">   
                                 <persName>鄭孝胥</persName>
                                 <persName type="字">太夷</persName>

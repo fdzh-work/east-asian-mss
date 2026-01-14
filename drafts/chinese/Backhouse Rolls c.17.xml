@@ -58,7 +58,7 @@
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
                             <title>明唐寅畫茅屋蒲團圖 卷</title>
-                            <title key="supplie title" xml:lang="en">An ink painting featuring landscape and figures attributed to Tang Yin</title>
+                            <title type="desc" xml:lang="en">An ink painting featuring landscape and figures attributed to Tang Yin</title>
                             <author key="Q2248916">        
                                 <persName >唐寅</persName>
                                 <persName type="字">伯虎</persName>

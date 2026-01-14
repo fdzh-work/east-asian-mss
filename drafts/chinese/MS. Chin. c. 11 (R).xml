@@ -59,8 +59,8 @@
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            <title key="supplied title" xml:lang="en">Water-colour of a Chinese marriage procession</title>
-                            <title key="supplied title">清佚名繪送親圖 卷</title>
+                            <title type="desc" xml:lang="en">Water-colour of a Chinese marriage procession</title>
+                            <title type="desc">清佚名繪送親圖 卷</title>
                             <author key="_unknown">unknown</author>
                         <filiation>手繪卷軸，中外孤本。</filiation>
                             

@@ -113,8 +113,8 @@
                         
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
-                            <title type="sub">Album：MS.Chin.c.1</title>
-                            <title key="desc" xml:lang="zh">清代佚名人物畫冊: MS.Chin.c.1</title>
+                            <title type="desc">Album</title>
+                            <title type="desc" xml:lang="zh">清代佚名人物畫冊</title>
                             <author key="_unknown">unknown</author>
                             <note><locus>Inside upper cover: </locus><q>S.C.29615f</q></note>
                             <note><locus>Inside lower cover: </locus><q>Julia Lowther from Marcus R N.</q></note>
@@ -157,8 +157,8 @@
                             <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
                             <!-- change text and attribute if necessary -->
                             <msItem>
-                                <title type="sub">Album：MS.Chin.c.2</title>
-                                <title key="desc" xml:lang="zh">清代佚名人物畫冊: MS.Chin.c.2</title>
+                                <title type="desc">Album</title>
+                                <title type="desc" xml:lang="zh">清代佚名人物畫冊</title>
                                     <note><locus>Inside upper cover: </locus><q>S.C.29615g</q></note>
                                     <note><locus>Inside upper cover: </locus><q>Bought in March 1885 for 50F from Tross of Paris 
                                         (436 in his cat. no.III for 1885; said to Date "over 1750 succession")</q></note>

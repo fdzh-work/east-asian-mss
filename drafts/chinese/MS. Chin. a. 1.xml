@@ -58,8 +58,8 @@
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            <title key="supplied title">清佚名繪咸豐皇帝持弓坐像圖 軸</title>
-                            <title key="supplied title" xml:lang="en">A hanging scroll featuring portrait of Xianfeng Emperor</title>
+                            <title type="desc">清佚名繪咸豐皇帝持弓坐像圖 軸</title>
+                            <title type="desc" xml:lang="en">A hanging scroll featuring portrait of Xianfeng Emperor</title>
                             <author key="Chinese">unknown</author>
                             <incipit type="釋文">弓矢承家法，勤脩考訓遺。黃考《習射詩》有“家法勤脩志莫移”之句。和平百體順，審固一心知，時習所無逸，成圖念在兹，文皇喻國政，端本契思深。</incipit>
                             <incipit type="款識">咸豐癸丑嘉平下澣御題</incipit>

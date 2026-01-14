@@ -58,7 +58,7 @@
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <title>Twelve paintings of figures by a Cantonese</title>
-                            <title key="desc">An album of twelve Chinese export paintings of figures in costumes.
+                            <title type="desc">An album of twelve Chinese export paintings of figures in costumes.
                                               清代外銷畫人物朝服十二幅 冊</title>
                             <author key="_chowkwa">        
                                 <persName>Chowkwa, Painter and Copier of Charts</persName>

@@ -59,8 +59,8 @@
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
                             
-                            <title key="supplie title">清劉墉行書八言聯 轴</title>
-                            <title key="supplie title" xml:lang="en">A pair of calligraphy scrolls attributed to Liu Yong</title>
+                            <title type="desc">清劉墉行書八言聯 轴</title>
+                            <title type="desc" xml:lang="en">A pair of calligraphy scrolls attributed to Liu Yong</title>
                             <author key="Q6653873">   
                             <persName>劉墉</persName>
                             <persName type="字">崇如</persName>

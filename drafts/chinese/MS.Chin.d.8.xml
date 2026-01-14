@@ -56,7 +56,7 @@
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <title>清人菩提葉佛教聖者圖二十二幅 冊</title>
-                            <title key="supplied title">Twenty-two drawings of Buddhist saints on leaves of sacred fig</title>
+                            <title type="desc">Twenty-two drawings of Buddhist saints on leaves of sacred fig</title>
                             <author key="Chinese">佚名</author>
                             <note><list><head>Contains the following: </head><item><locus>p.1: </locus>觀音大士法號圓通,發十二大願誓宏淵。幽冥普渡救盡衆生，必爲赤子功德無量。</item>
                            

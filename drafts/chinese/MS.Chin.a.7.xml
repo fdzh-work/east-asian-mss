@@ -51,13 +51,13 @@
                     
                     <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary xml:lang="zh">>至聖遺像碑拓片 軸</summary>
+                        <summary xml:lang="zh">至聖遺像碑拓片 軸</summary>
                         <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
                         
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            <title key="supplied title">【至聖遺像碑拓片 軸】</title>
+                            <title type="desc">【至聖遺像碑拓片 軸】</title>
                             <author key="_unknown">unknown</author>
                             
                             

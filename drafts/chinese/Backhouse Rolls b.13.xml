@@ -60,7 +60,7 @@
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
                             <title>清慈禧太后行書七言聯 轴</title>
-                            <title key="supplie title" xml:lang="en">A pair of calligraphy scrolls attributed to Empress Dowager Cixi</title>
+                            <title type="desc" xml:lang="en">A pair of calligraphy scrolls attributed to Empress Dowager Cixi</title>
                             <author key="Q47842">   
                                 <persName>慈禧太后</persName>
                                     <date notAfter="2000" notBefore="1800" calendar="Gregorian">1835-1908</date>

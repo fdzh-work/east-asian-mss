@@ -56,7 +56,7 @@
                         
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
-                            <title key="supplied title">Chinese vocabulary with illustrations</title>
+                            <title type="desc">Chinese vocabulary with illustrations</title>
                             <author key="_unknown">unknown</author>
                             <note><locus>fol. ii recto</locus><q>For this very curious and valuable Chinese vocabulary I am indebted to my worthy friend Mr.W. Alexander who brought it from China. E.D.</q> </note>
                            

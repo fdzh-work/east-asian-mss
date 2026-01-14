@@ -57,8 +57,8 @@
                         <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
-                            <title key="supplie title">澳門葡人發給貨船執照</title>
-                            <title key="supplie title" xml:lang="en">A trade permit endowed to overseas merchants by Purtuguese officials based in Macao</title>
+                            <title type="desc">澳門葡人發給貨船執照</title>
+                            <title type="desc" xml:lang="en">A trade permit endowed to overseas merchants by Purtuguese officials based in Macao</title>
                             <author key="_unknown">unknown</author>
                          
                             <incipit type="釋文">把水招笨稚孫 為柔遠惠商事據佛郎哪称來本處經紀隨稟 國王命下許准哈板往來仍命工築屋居住 本職為【？】欽依欽遵外合行給票付 哈嗶嘽收執為照須至票者</incipit>

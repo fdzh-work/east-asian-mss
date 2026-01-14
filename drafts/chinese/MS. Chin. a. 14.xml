@@ -59,7 +59,7 @@
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                             <locus><!-- insert --></locus>
                             <title type="desc">清肅親王行書大唐三藏聖教序 軸</title>
-                            <title key="supplie title" xml:lang="en">A scroll of calligraphy attributed to Shan Qi</title>
+                            <title type="desc" xml:lang="en">A scroll of calligraphy attributed to Shan Qi</title>
                             <author>   
                                 <persName key="Q10923473">愛新覺羅善耆</persName>
                                 <persName type="字">艾堂</persName>
