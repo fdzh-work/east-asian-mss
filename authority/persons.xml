@@ -20373,7 +20373,16 @@
                 </person>
                 <person xml:id="person_5089">
                     <persName type="display">(清)王文治</persName>
-                    <persName type="variant">wang wen zhi</persName>
+                    <persName type="variawnt">wang wen zhi</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://www.wikidata.org/wiki/Q52154240">
+                                    <title>Wikidata</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
                 </person>
                 <person xml:id="person_5090">
                     <persName type="display">(清)王文治</persName>
@@ -28503,6 +28512,19 @@
                 <person xml:id="person_7206">
                     <persName type="display">龍沐勛</persName>
                     <persName type="variant">long mu xun</persName>
+                </person>
+                <person xml:id="person_7207">
+                    <persName type="display">惲壽平</persName>
+                    <persName type="variant">yun shou ping</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://www.wikidata.org/wiki/Q1329823">
+                                    <title>Wikidata</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
                 </person>
             </listPerson>
         </body>
