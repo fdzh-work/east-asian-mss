@@ -10238,6 +10238,15 @@
                 <person xml:id="person_2555">
                     <persName type="display">(明)董其昌</persName>
                     <persName type="variant">dong qi chang</persName>
+                        <note type="links">
+                            <list type="links">
+                                <item>
+                                    <ref target="https://www.wikidata.org/wiki/Q537211">
+                                        <title>Wikidata</title>
+                                    </ref>
+                                </item>
+                            </list>
+                        </note>
                 </person>
                 <person xml:id="person_2556">
                     <persName type="display">(明)董嗣成</persName>
@@ -16278,6 +16287,15 @@
                 <person xml:id="person_4065">
                     <persName type="display">(清)張照</persName>
                     <persName type="variant">zhang zhao</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://www.wikidata.org/wiki/Q8070430">
+                                    <title>Wikidata</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
                 </person>
                 <person xml:id="person_4066">
                     <persName type="display">(清)張熷</persName>

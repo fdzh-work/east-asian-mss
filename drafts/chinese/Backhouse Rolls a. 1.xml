@@ -60,7 +60,7 @@
                             <title key="supplied title">明董其昌書杜甫承聞河北諸節度使入朝歡喜口號絕句十二首之一 軸</title>
                             <title key="supplie title" xml:lang="en">A scroll of calligraphy attributed to Dong Qi Chang</title>
 
-                            <author  key="Q537211">   
+                            <author  key="person_2555">   
                                 <persName>董其昌</persName>
                                 <persName type="字">玄宰</persName>
                                 <persName type="號"> 思白</persName>
@@ -68,15 +68,13 @@
                                 <persName type="號"> 香光居士</persName>
                                 <date notAfter="1700" notBefore="1500" calendar="Gregorian">1555-1636</date>
                             </author>
-                            <incipit type="釋文">東逾遼水北滹沱，星象風雲喜共和。紫氣關臨天地闊，黃金臺貯俊賢多。</incipit>
-                            <incipit type="seal">董其昌印</incipit>
-                            <incipit type="seal">宗伯之章</incipit>
-                            <incipit type="seal">玄賞齋</incipit>
-                            <explicit type="題簽">董其昌</explicit>
-                            <explicit type="題簽">Autography of Tung Chi’chang a.d. 1570. The senior scholar and painter. This scroll retail by Chinese at ￡150.
+                            <note type="釋文">東逾遼水北滹沱，星象風雲喜共和。紫氣關臨天地闊，黃金臺貯俊賢多。</note>
+                            <note type="印章">宗伯之章</note>
+                            <note type="印章">玄賞齋</note>
+                            <note type="題簽">董其昌</note>
+                            <note type="題簽">Autography of Tung Chi’chang a.d. 1570. The senior scholar and painter. This scroll retail by Chinese at ￡150.
                                 Purchased from Prince Kung’s collection. 
-                            </explicit>
-                            <filiation>書法卷軸，中外孤本。</filiation>  
+                            </note>
                         </msItem>
                         <!-- insert further msItem elements as appropriate --> 
                         

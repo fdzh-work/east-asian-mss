@@ -59,7 +59,7 @@
                             <locus><!-- insert --></locus>
                             <title key="supplied title">清張照書七言絕句詩 軸</title>
                             <title key="supplie title" xml:lang="en">A scroll of calligraphy attributed to Zhang Zhao</title>
-                            <author key="Q8070430">   
+                            <author key="person_4065">   
                                 <persName>張照</persName>
                                 <persName type="曾用名">默</persName>
                                 <persName type="字">得天</persName>
@@ -67,12 +67,11 @@
                                 <persName type="號">天瓶居士</persName>
                                 <date notAfter="1800" notBefore="1600" calendar="Gregorian">1691-1745</date>
                             </author> 
-                            <incipit type="釋文">洞庭湖裏君山巔，笑籋游人履屐穿。欲見神僊無問處，秦松五樹碧參天。</incipit>
-                            <incipit type="款識">張照</incipit>
-                            <incipit type="seal">張照</incipit>
-                            <incipit type="seal">【？】【？】</incipit>
-                            <explicit type="題簽">autograph of Chang Chao，grand secretary of scholar in chanlung's reign，for：1750. a very valuable scroll.</explicit>
-                            <filiation>書法卷軸，中外孤本。</filiation>  
+                            <note type="釋文">洞庭湖裏君山巔，笑籋游人履屐穿。欲見神僊無問處，秦松五樹碧參天。</note>
+                            <note type="款識">張照</note>
+                            <note type="印章">張照</note>
+                            <note type="印章">【？】【？】</note>
+                            <note type="題簽">autograph of Chang Chao，grand secretary of scholar in chanlung's reign，for：1750. a very valuable scroll.</note>
                         </msItem>
                         <!-- insert further msItem elements as appropriate --> 
                         
