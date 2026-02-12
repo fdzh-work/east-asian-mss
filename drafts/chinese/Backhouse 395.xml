@@ -1,239 +1,246 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-
 <!-- use this template in cases where the manuscript is NOT composed of multiple codicological units. To avoid errors in the display of the record, be sure to delete elements that are not used. -->
-
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-    xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="manuscript_00000"><!-- insert the correct xmlid in the form manuscript_12345 -->
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Backhouse 395</title>
-                
-                <respStmt>
-                    <resp>Cataloguer</resp>
-                    <persName>Boya Zhang</persName>
-                </respStmt>
-                
-            </titleStmt>
-            <editionStmt>
-                <edition>TEI P5</edition>
-                <funder>HD Chung Fund</funder>
-            </editionStmt>
-            <publicationStmt>
-                <publisher>Special Collections, Bodleian Libraries</publisher>
-                <address>
-                    <orgName type="department">Special Collections</orgName>
-                    <orgName type="unit">Bodleian Libraries</orgName>
-                    <orgName type="institution">University of Oxford</orgName>
-                    <street>Weston Library, Broad Street</street>
-                    <settlement>Oxford</settlement>
-                    <postCode>OX1 3BG</postCode>
-                    <country>United Kingdom</country>
-                </address>
-                <distributor>
-                    <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
-                </distributor>
-                <idno type="msID"><!-- insert normalized form of shelfmark --></idno>
-                <idno type="collection"><!-- insert normalized form of collection --></idno>
-                <idno type="catalogue"><!-- insert catalogue ID --></idno>
-            </publicationStmt>
-            <sourceDesc>
-                <msDesc xml:lang="en"><!-- optionally provide xmlid should as a normalized form of the shelfmark, e.g. Merton_College_MS_10 -->
-                    <msIdentifier>
-                        <settlement><!-- insert --></settlement>
-                        <repository>Bodleian Library</repository><!-- change if necessary -->
-                        <idno type="shelfmark">Backhouse 395</idno>
-                        
-                    </msIdentifier>
-                    
-                    <msContents>
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xml:id="manuscript_00000"><!-- insert the correct xmlid in the form manuscript_12345 -->
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Backhouse 395</title>
+            <respStmt>
+               <resp>Cataloguer</resp>
+               <persName instant="false" full="yes">Boya Zhang</persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>TEI P5</edition>
+            <funder>HD Chung Fund</funder>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Special Collections, Bodleian Libraries</publisher>
+            <address>
+               <orgName type="department" instant="false" full="yes">Special Collections</orgName>
+               <orgName type="unit" instant="false" full="yes">Bodleian Libraries</orgName>
+               <orgName type="institution" instant="false" full="yes">University of Oxford</orgName>
+               <street>Weston Library, Broad Street</street>
+               <settlement>Oxford</settlement>
+               <postCode>OX1 3BG</postCode>
+               <country>United Kingdom</country>
+            </address>
+            <distributor>
+               <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+            </distributor>
+            <idno type="msID"><!-- insert normalized form of shelfmark --></idno>
+            <idno type="collection"><!-- insert normalized form of collection --></idno>
+            <idno type="catalogue"><!-- insert catalogue ID --></idno>
+         </publicationStmt>
+         <sourceDesc default="false">
+            <msDesc xml:lang="en" status="draft"><!-- optionally provide xmlid should as a normalized form of the shelfmark, e.g. Merton_College_MS_10 -->
+               <msIdentifier>
+                  <settlement><!-- insert --></settlement>
+                  <repository>Bodleian Library</repository>
+                  <!-- change if necessary -->
+                  <idno type="shelfmark">Backhouse 395</idno>
+               </msIdentifier>
+               <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>古今法書苑（手抄本） 
+                  <summary>古今法書苑（手抄本） 
                                 A Compilation of Chinese Calligraphy Critique Throughout History （Handwritten）</summary>
-                        <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
-                        
-                        <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
+                  <textLang mainLang="zh">Chinese</textLang>
+                  <!-- change text and attribute if necessary -->
+                  <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
-                            <title>古今法書苑</title>
-                            <title xml:lang="en">Gu jin fa shu yuan 
+                     <title>古今法書苑</title>
+                     <title xml:lang="en">Gu jin fa shu yuan 
                                                A Compilation of Chinese Calligraphy Critique Throughout History</title>
-                            <editor><placeName>吳郡</placeName><persName>王世貞</persName><persName type="字">元美</persName>甫編
-                                    <placeName>雲間</placeName><persName>王乾昌</persName><persName type="字">伯元</persName>甫校 </editor>
-                       <msItem>
-                            <title key="分卷"><locus>vol.1：卷一</locus>古今法書苑 共六 壹貳叄</title>
-                           <note type="content">卷之一、卷之二、卷之三收錄於本冊。</note>
-                            <title type="preface"><locus>fol.1a</locus>古今法書苑小引</title>
-                            <incipit>夫書法之源流自庖犧氏，觀天地人物，始作易，以垂象鳥。</incipit>
-                            <explicit><locus>fol.2a</locus>弇州山人<persName>王世貞</persName>負題 
-                                                           雲間後學<persName>陸萬里</persName>書</explicit>
-                            <title type="preface"><locus>fol.3a</locus>古今法書苑初序</title>
-                            <incipit>義畫八方，人文所繇萠。</incipit>
-                            <explicit><locus>fol.4a</locus>弇州山人<persName>王世貞</persName>撰 
-                                      <locus>fol.4b</locus>華庭後學<persName>孫孟芳</persName>書</explicit>
-                            <title type="preface"><locus>fol.5a</locus>刻古今法書苑序</title>
-                            <incipit>琅琊司寇公，纂述之富，甲於熈代。</incipit>
-                            <explicit><locus>fol.6a</locus>東海<persName>王乾昌</persName>題</explicit>
-                            <title type="目錄"><locus>fol.7a</locus>古今法書苑目錄</title>
-                            <note type="印章">王戴榮</note>
-                        </msItem>      
-                         
-                        <msItem>
-                            <title key="分卷"><locus>vol.2：卷二</locus>古今法書苑 共六 ？（字跡缺損）</title>
-                            <note type="content">卷之四、卷之五、卷之六、卷之七、卷之八、卷之九收錄於本冊。</note>  
-                        </msItem>  
-                       
-                            <msItem>    
-                            <title key="分卷"><locus>vol.3：卷三</locus>古今法書苑 共六 ？（字跡缺損）</title>
-                                <note type="content">卷之十、卷之十一、卷之十二、卷之十三、卷之十四、卷之十五收錄於本冊。</note> 
-                        </msItem>    
-                        
-                        <msItem>   
-                            <title key="分卷"><locus>vol.4：卷四</locus>古今法書苑 共六 ？（字跡缺損）</title>
-                            <note type="content">卷之十六、卷之十七、卷之十八、卷之十九、卷之二十收錄於本冊。</note> 
-                        </msItem> 
-                            
-                        <msItem>   
-                            <title key="分卷"><locus>vol.5：卷五</locus>古今法書苑 共六 ？（字跡缺損）</title>
-                            <note type="content">卷之二十一、卷之二十二、卷之二十三、卷之二十四、卷之二十五、卷之二十六、卷之二十七、
-                                  卷之二十八、卷之二十九、卷之三十、卷之三十一、卷之三十二、卷之三十三收錄於本冊。</note> 
-                        </msItem> 
-                        
-                        <msItem>
-                            <title key="分卷"><locus>vol.6：卷六</locus>古今法書苑 共六 ？（字跡缺損）</title>
-                            <note type="content">卷之三十四、卷之三十五、卷之三十六、卷之三十七、卷之三十八、卷之三十九、卷之四十、
+                     <editor>
+                        <placeName instant="false" full="yes">吳郡</placeName>
+                        <persName instant="false" full="yes">王世貞</persName>
+                        <persName type="字" instant="false" full="yes">元美</persName>甫編
+                                    <placeName instant="false" full="yes">雲間</placeName>
+                        <persName instant="false" full="yes">王乾昌</persName>
+                        <persName type="字" instant="false" full="yes">伯元</persName>甫校 </editor>
+                     <msItem>
+                        <title key="分卷">
+                           <locus>vol.1：卷一</locus>古今法書苑 共六 壹貳叄</title>
+                        <note type="content" anchored="true">卷之一、卷之二、卷之三收錄於本冊。</note>
+                        <title type="preface">
+                           <locus>fol.1a</locus>古今法書苑小引</title>
+                        <note anchored="true">夫書法之源流自庖犧氏，觀天地人物，始作易，以垂象鳥。</note>
+                        <note anchored="true">
+                           <locus>fol.2a</locus>弇州山人<persName instant="false" full="yes">王世貞</persName>負題 
+                                                           雲間後學<persName instant="false" full="yes">陸萬里</persName>書</note>
+                        <title type="preface">
+                           <locus>fol.3a</locus>古今法書苑初序</title>
+                        <note anchored="true">義畫八方，人文所繇萠。</note>
+                        <note anchored="true">
+                           <locus>fol.4a</locus>弇州山人<persName instant="false" full="yes">王世貞</persName>撰 
+                                      <locus>fol.4b</locus>華庭後學<persName instant="false" full="yes">孫孟芳</persName>書</note>
+                        <title type="preface">
+                           <locus>fol.5a</locus>刻古今法書苑序</title>
+                        <note anchored="true">琅琊司寇公，纂述之富，甲於熈代。</note>
+                        <note anchored="true">
+                           <locus>fol.6a</locus>東海<persName instant="false" full="yes">王乾昌</persName>題</note>
+                        <title type="目錄">
+                           <locus>fol.7a</locus>古今法書苑目錄</title>
+                        <note type="印章" anchored="true">王戴榮</note>
+                     </msItem>
+                     <msItem>
+                        <title key="分卷">
+                           <locus>vol.2：卷二</locus>古今法書苑 共六 ？（字跡缺損）</title>
+                        <note type="content" anchored="true">卷之四、卷之五、卷之六、卷之七、卷之八、卷之九收錄於本冊。</note>
+                     </msItem>
+                     <msItem>
+                        <title key="分卷">
+                           <locus>vol.3：卷三</locus>古今法書苑 共六 ？（字跡缺損）</title>
+                        <note type="content" anchored="true">卷之十、卷之十一、卷之十二、卷之十三、卷之十四、卷之十五收錄於本冊。</note>
+                     </msItem>
+                     <msItem>
+                        <title key="分卷">
+                           <locus>vol.4：卷四</locus>古今法書苑 共六 ？（字跡缺損）</title>
+                        <note type="content" anchored="true">卷之十六、卷之十七、卷之十八、卷之十九、卷之二十收錄於本冊。</note>
+                     </msItem>
+                     <msItem>
+                        <title key="分卷">
+                           <locus>vol.5：卷五</locus>古今法書苑 共六 ？（字跡缺損）</title>
+                        <note type="content" anchored="true">卷之二十一、卷之二十二、卷之二十三、卷之二十四、卷之二十五、卷之二十六、卷之二十七、
+                                  卷之二十八、卷之二十九、卷之三十、卷之三十一、卷之三十二、卷之三十三收錄於本冊。</note>
+                     </msItem>
+                     <msItem>
+                        <title key="分卷">
+                           <locus>vol.6：卷六</locus>古今法書苑 共六 ？（字跡缺損）</title>
+                        <note type="content" anchored="true">卷之三十四、卷之三十五、卷之三十六、卷之三十七、卷之三十八、卷之三十九、卷之四十、
                                   卷之四十一、卷之四十二、卷之四十三、卷之四十四收錄於本冊。</note>
-                        </msItem>
-                            
-                        </msItem>
-                        <!-- insert further msItem elements as appropriate -->
-                    </msContents>
-                    <physDesc>
-                        
-                        <objectDesc form="包背裝"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
-                            <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                                <support>mulberry and bamboo mixed paper</support>
-                                <extent>六冊 six books
+                     </msItem>
+                  </msItem>
+                  <!-- insert further msItem elements as appropriate -->
+               </msContents>
+               <physDesc>
+                  <objectDesc form="包背裝"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
+                     <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
+                        <support>mulberry and bamboo mixed paper</support>
+                        <extent>六冊 six books
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
                         https://git.io/msdescdoc#leafDimensions
-                        -->                           <height>29.6</height>
-                                        <width>20.4</width>
-                                    </dimensions>
-                                    <!-- use additional dimensions elements if necessary -->
-                                </extent>
-                                
-                                <condition>第一冊封面有摺痕和褪色；第二冊至第六冊封面的卷碼都已缺損，第二冊表面有墨跡水印，第五冊封面紙張缺損較大。</condition>
-                            </supportDesc>
-                            <layoutDesc>
-                                <layout>内頁無邊框，半頁十行，正文墨色書寫，句讀為紅色點和圈。標題和正文均為小字，單行抄寫，每行二十字。
+                        -->
+                              <height>29.6</height>
+                              <width>20.4</width>
+                           </dimensions>
+                           <!-- use additional dimensions elements if necessary -->
+                        </extent>
+                        <condition>第一冊封面有摺痕和褪色；第二冊至第六冊封面的卷碼都已缺損，第二冊表面有墨跡水印，第五冊封面紙張缺損較大。</condition>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>内頁無邊框，半頁十行，正文墨色書寫，句讀為紅色點和圈。標題和正文均為小字，單行抄寫，每行二十字。
                                         正文大小分作兩種，正文以大字，注則以小字。
                                         部分頁面上部有曾經收藏者的閲讀筆記，字跡為楷書，朱紅色。</layout>
-                                <!-- use additional layout elements if necessary 
+                        <!-- use additional layout elements if necessary 
                         https://git.io/msdescdoc#layoutdesc-->
-                            </layoutDesc>
-                        </objectDesc>
-                        
-                        <handDesc><!-- use the @hands attribute to record the number of scribes -->
-                            <handNote>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc><!-- use the @hands attribute to record the number of scribes -->
+                     <handNote>
                                 Text written in 楷體 (kai shu, regular) calligraphic style</handNote>
-                            <!-- use additional handNote elements if necessary 
+                     <!-- use additional handNote elements if necessary 
                      https://git.io/msdescdoc#handdesc
                      -->
-                        </handDesc>
-                        <musicNotation>
-                            <p><!-- insert if relevant, otherwise delete --></p>
-                            <!-- use additional p elements if necessary 
+                  </handDesc>
+                  <musicNotation>
+                     <p part="N"><!-- insert if relevant, otherwise delete --></p>
+                     <!-- use additional p elements if necessary 
                      https://git.io/msdescdoc#musicnotation
                      -->
-                        </musicNotation>
-                        <decoDesc>
-                            <decoNote>
+                  </musicNotation>
+                  <decoDesc>
+                     <decoNote>
                                 The book cover is made of traditional Chinese blue paper featuring a textured cloud pattern.</decoNote>
-                            <!-- use additional decoNote elements if necessary 
+                     <!-- use additional decoNote elements if necessary 
                      https://git.io/msdescdoc#decodesc
                      -->
-                        </decoDesc>
-
-                        <bindingDesc>
-                            <binding when="1500"><!-- use dating attributes to record the date -->
-                                <p>Thread-binding books with paperback cover, in a case with Chinese style blue fabric cover.</p>
-                                <decoNote><!-- insert relevant information, otherwise delete --></decoNote>
-                            </binding>
-                        </bindingDesc>
-                        <accMat>
+                  </decoDesc>
+                  <bindingDesc>
+                     <binding when="1500"><!-- use dating attributes to record the date -->
+                        <p part="N">Thread-binding books with paperback cover, in a case with Chinese style blue fabric cover.</p>
+                        <decoNote><!-- insert relevant information, otherwise delete --></decoNote>
+                     </binding>
+                  </bindingDesc>
+                  <accMat>
                             <!-- insert if relevant, otherwise delete 
                      https://git.io/msdescdoc#accMat          
                      -->
                         </accMat>
-                    </physDesc>
-                    <history>
+               </physDesc>
+               <history>
                         <!-- see https://git.io/msdescdoc#history -->
-                        <origin>
+                  <origin instant="false">
                             <!-- see https://git.io/msdescdoc#origin -->
-                            <origPlace>
-                                <country>China</country>,
+                     <origPlace instant="false">
+                        <country>China</country>,
                                 <region><!-- insert --></region>,
                                 <settlement><!-- insert --></settlement>,
-                                <orgName><!-- insert --></orgName>
-                            </origPlace>
-                            <origDate notAfter="1600" notBefore="1500" calendar="Gregorian">明隆慶至萬曆十八年之間 （1537-1590）</origDate>
-                            <!-- use additional origPlace and origDate elements if necessary -->
-                        </origin>
-                        <provenance>
+                                <orgName instant="false" full="yes"><!-- insert --></orgName>
+                     </origPlace>
+                     <origDate notAfter="1600"
+                               notBefore="1500"
+                               calendar="Gregorian"
+                               instant="false">明隆慶至萬曆十八年之間 （1537-1590）</origDate>
+                     <!-- use additional origPlace and origDate elements if necessary -->
+                  </origin>
+                  <provenance>
                             Donated by Sir Edmund Trelawny Backhouse, 2nd Baronet (20 October 1873 – 8 January 1944). 
                         </provenance>
-                        <!-- use additional provenance elements if necessary -->
-                        <acquisition>
+                  <!-- use additional provenance elements if necessary -->
+                  <acquisition>
                             <!-- insert -->
                             <!-- use dating attributes where possible -->
                         </acquisition>
-                    </history>
-                    <additional>
-                        <adminInfo>
-                            <recordHist>
-                                <source>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
                                     <!-- insert prose here; see https://git.io/msdescdoc#recordHist -->
-                                    <bibl><!-- insert if necesary, otherwise delete --></bibl>
-                                    <!-- links to digitized catalogues may also be provide here, e.g.: -->
-                                    <!--<listBibl>
+                           <bibl default="false" status="draft"><!-- insert if necesary, otherwise delete --></bibl>
+                           <!-- links to digitized catalogues may also be provide here, e.g.: -->
+                           <!--<listBibl>
                               <bibl type="SC" facs="aas0046.gif">Summary Catalogue, Vol. 3, p.  31</bibl>
                            </listBibl>-->
-                                </source>
-                            </recordHist>
-                        </adminInfo>
-                        <surrogates>
-                            <bibl type="digital-facsimile" subtype="full">
-                                <ref target="https://digital.bodleian.ox.ac.uk/objects/b72324b1-aab8-4b32-8ede-a20febde7802/">
-                                    <title>Digital Bodleian</title></ref> <note>(full digital facsimile)</note>
-                            </bibl>
-                        </surrogates>
-                        <listBibl>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+                  <surrogates>
+                     <bibl type="digital-facsimile"
+                           subtype="full"
+                           default="false"
+                           status="draft">
+                        <ref target="https://digital.bodleian.ox.ac.uk/objects/b72324b1-aab8-4b32-8ede-a20febde7802/">
+                           <title>Digital Bodleian</title>
+                        </ref>
+                        <note anchored="true">(full digital facsimile)</note>
+                     </bibl>
+                  </surrogates>
+                  <listBibl default="false">
                             <!-- a number of listBibl elements can be nested inside an outer listBibl if required -->
-                            <head><!-- use to provide a heading if required, otherwise delete --></head>
-                            <bibl><!-- insert bibliography, links to online resource, etc., otherwise delete--></bibl>
-                            
-                        </listBibl>
-                    </additional>
-                    
-                    
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <revisionDesc>
-            <change>
+                     <head><!-- use to provide a heading if required, otherwise delete --></head>
+                     <bibl default="false" status="draft"><!-- insert bibliography, links to online resource, etc., otherwise delete--></bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change status="draft">
                 <!-- insert relevant text, e.g. 'First online publication' -->
                 <!-- provide the date of the change using the @when attribute -->
             </change>
-        </revisionDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <p><!--Body paragraph provided for validation and future transcription--></p>
-        </body>
-    </text>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p part="N"><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
 </TEI>
-
-
-

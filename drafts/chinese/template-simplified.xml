@@ -1,20 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-
 <!-- use this template in cases where the manuscript is NOT composed of multiple codicological units. To avoid errors in the display of the record, be sure to delete elements that are not used. -->
-
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="manuscript_00001"><!-- insert the correct xmlid in the form manuscript_12345 -->
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xml:id="manuscript_00001"><!-- insert the correct xmlid in the form manuscript_12345 -->
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>MS.Chin.a.17</title>
-            
             <respStmt>
                <resp>Cataloguer</resp>
-               <persName>Mamtimyn Sunuodula</persName>
+               <persName instant="false" full="yes">Mamtimyn Sunuodula</persName>
             </respStmt>
-            
          </titleStmt>
          <editionStmt>
             <edition>TEI P5</edition>
@@ -23,9 +21,9 @@
          <publicationStmt>
             <publisher>Special Collections, Bodleian Libraries</publisher>
             <address>
-               <orgName type="department">Special Collections</orgName>
-               <orgName type="unit">Bodleian Libraries</orgName>
-               <orgName type="institution">University of Oxford</orgName>
+               <orgName type="department" instant="false" full="yes">Special Collections</orgName>
+               <orgName type="unit" instant="false" full="yes">Bodleian Libraries</orgName>
+               <orgName type="institution" instant="false" full="yes">University of Oxford</orgName>
                <street>Weston Library, Broad Street</street>
                <settlement>Oxford</settlement>
                <postCode>OX1 3BG</postCode>
@@ -38,23 +36,22 @@
             <idno type="collection"><!-- insert normalized form of collection --></idno>
             <idno type="catalogue"><!-- insert catalogue ID --></idno>
          </publicationStmt>
-         <sourceDesc>
-            <msDesc xml:lang="en"><!-- optionally provide xmlid should as a normalized form of the shelfmark, e.g. Merton_College_MS_10 -->
+         <sourceDesc default="false">
+            <msDesc xml:lang="en" status="draft"><!-- optionally provide xmlid should as a normalized form of the shelfmark, e.g. Merton_College_MS_10 -->
                <msIdentifier>
                   <settlement><!-- insert --></settlement>
-                  <repository>Bodleian Library</repository><!-- change if necessary -->
+                  <repository>Bodleian Library</repository>
+                  <!-- change if necessary -->
                   <idno type="shelfmark">MS.Chin.a.17</idno>
                   <altIdentifier type="former">
                      <idno>Arch.O.a.6/1</idno>
                   </altIdentifier>
-                  
                </msIdentifier>
-               
                <msContents>
                   <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
                   <summary><!--  --></summary>
-                  <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
-                  
+                  <textLang mainLang="zh">Chinese</textLang>
+                  <!-- change text and attribute if necessary -->
                   <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                      <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
                      <locus><!-- insert --></locus>
@@ -63,20 +60,21 @@
                      <editor>解縉</editor>
                      <rubric>永樂大典</rubric>
                      <rubric>詩：詩話四十九</rubric>
-                     
-                     <colophon>重錄總校官侍郎臣<persName>高拱</persName><lb/>學士臣<persName>瞿景淳</persName></colophon>
-                     
-                     <colophon>分校官檢討臣<persName>吳可行</persName></colophon>
-                     <colophon>書寫儒士臣<persName>章玄</persName></colophon>
-                     <colophon>圈點監生臣<persName>尹之先</persName><lb/>臣<persName>李湄</persName></colophon>
+                     <colophon>重錄總校官侍郎臣<persName instant="false" full="yes">高拱</persName>
+                        <lb/>學士臣<persName instant="false" full="yes">瞿景淳</persName>
+                     </colophon>
+                     <colophon>分校官檢討臣<persName instant="false" full="yes">吳可行</persName>
+                     </colophon>
+                     <colophon>書寫儒士臣<persName instant="false" full="yes">章玄</persName>
+                     </colophon>
+                     <colophon>圈點監生臣<persName instant="false" full="yes">尹之先</persName>
+                        <lb/>臣<persName instant="false" full="yes">李湄</persName>
+                     </colophon>
                      <filiation>中外孤本 only surviving copy</filiation>
-                     
-                     
                   </msItem>
                   <!-- insert further msItem elements as appropriate -->
                </msContents>
                <physDesc>
-                  
                   <objectDesc form="包背裝"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
                      <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
                         <support>mulbery and bamboo mix paper</support>
@@ -84,12 +82,12 @@
                         <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
                         https://git.io/msdescdoc#leafDimensions
-                        -->                           <height>50</height>
-                           <width>30</width>
-                        </dimensions>
+                        -->
+                              <height>50</height>
+                              <width>30</width>
+                           </dimensions>
                            <!-- use additional dimensions elements if necessary -->
                         </extent>
-                        
                         <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
                      </supportDesc>
                      <layoutDesc>
@@ -98,7 +96,6 @@
                         https://git.io/msdescdoc#layoutdesc-->
                      </layoutDesc>
                   </objectDesc>
-                  
                   <handDesc><!-- use the @hands attribute to record the number of scribes -->
                      <handNote>
                         <!-- use the script attribute to record type of script -->
@@ -108,7 +105,7 @@
                      -->
                   </handDesc>
                   <musicNotation>
-                     <p><!-- insert if relevant, otherwise delete --></p>
+                     <p part="N"><!-- insert if relevant, otherwise delete --></p>
                      <!-- use additional p elements if necessary 
                      https://git.io/msdescdoc#musicnotation
                      -->
@@ -122,13 +119,13 @@
                      -->
                   </decoDesc>
                   <additions>
-                     <p><!-- insert if relevant, otherwise delete 
+                     <p part="N"><!-- insert if relevant, otherwise delete 
                      https://git.io/msdescdoc#additions
                      --></p>
                   </additions>
                   <bindingDesc>
                      <binding><!-- use dating attributes to record the date -->
-                        <p> <!-- insert relevant information, otherwise delete
+                        <p part="N"> <!-- insert relevant information, otherwise delete
                         https://git.io/msdescdoc#bindingdesc
                         --></p>
                         <decoNote><!-- insert relevant information, otherwise delete --></decoNote>
@@ -142,15 +139,15 @@
                </physDesc>
                <history>
                   <!-- see https://git.io/msdescdoc#history -->
-                  <origin>
+                  <origin instant="false">
                      <!-- see https://git.io/msdescdoc#origin -->
-                     <origPlace>
+                     <origPlace instant="false">
                         <country><!-- insert --></country>,
                         <region><!-- insert --></region>,
                         <settlement><!-- insert --></settlement>,
-                        <orgName><!-- insert --></orgName>
+                        <orgName instant="false" full="yes"><!-- insert --></orgName>
                      </origPlace>
-                     <origDate notAfter="" notBefore="" calendar="Gregorian"><!-- insert and add attribute value --></origDate>
+                     <origDate notAfter="" notBefore="" calendar="Gregorian" instant="false"><!-- insert and add attribute value --></origDate>
                      <!-- use additional origPlace and origDate elements if necessary -->
                   </origin>
                   <provenance>
@@ -168,7 +165,7 @@
                      <recordHist>
                         <source>
                            <!-- insert prose here; see https://git.io/msdescdoc#recordHist -->
-                           <bibl><!-- insert if necesary, otherwise delete --></bibl>
+                           <bibl default="false" status="draft"><!-- insert if necesary, otherwise delete --></bibl>
                            <!-- links to digitized catalogues may also be provide here, e.g.: -->
                            <!--<listBibl>
                               <bibl type="SC" facs="aas0046.gif">Summary Catalogue, Vol. 3, p.  31</bibl>
@@ -176,20 +173,17 @@
                         </source>
                      </recordHist>
                   </adminInfo>
-                  <listBibl>
+                  <listBibl default="false">
                      <!-- a number of listBibl elements can be nested inside an outer listBibl if required -->
                      <head><!-- use to provide a heading if required, otherwise delete --></head>
-                     <bibl><!-- insert bibliography, links to online resource, etc., otherwise delete--></bibl>
-                     
+                     <bibl default="false" status="draft"><!-- insert bibliography, links to online resource, etc., otherwise delete--></bibl>
                   </listBibl>
                </additional>
-              
-       
             </msDesc>
          </sourceDesc>
       </fileDesc>
-      <revisionDesc>
-         <change>
+      <revisionDesc status="draft">
+         <change status="draft">
             <!-- insert relevant text, e.g. 'First online publication' -->
             <!-- provide the date of the change using the @when attribute -->
          </change>
@@ -197,7 +191,7 @@
    </teiHeader>
    <text>
       <body>
-         <p><!--Body paragraph provided for validation and future transcription--></p>
+         <p part="N"><!--Body paragraph provided for validation and future transcription--></p>
       </body>
    </text>
 </TEI>

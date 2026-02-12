@@ -54,7 +54,7 @@
                      <locus><!-- insert --></locus>
                      <title key="supplied title">清高其佩餘樂圖 軸</title>
                      <title key="supplie title" xml:lang="en">A scroll of painting attributed to Gao Qi Pei</title>
-                     <author key="Q698454">
+                     <author key="person_7208">
                         <persName instant="false" full="yes">高其佩</persName>
                         <persName type="字" instant="false" full="yes">韋之</persName>
                         <persName type="號" instant="false" full="yes">且園</persName>
@@ -64,12 +64,12 @@
                               calendar="Gregorian"
                               instant="false">1660-1734</date>
                      </author>
-                     <note type="款識">餘樂圖 戊子花朝前一日　鐵嶺高其佩指頭生活</note>
-                     <note type="seal">高其佩</note>
-                     <note type="seal">指頭畫</note>
-                     <note type="題簽">高其佩 山水</note>
-                     <note type="背面">F.2</note>
-                     <note type="背面">M. 358</note>
+                     <note type="款識" anchored="true">餘樂圖 戊子花朝前一日　鐵嶺高其佩指頭生活</note>
+                     <note type="印章" anchored="true">高其佩</note>
+                     <note type="印章" anchored="true">指頭畫</note>
+                     <note type="題簽" anchored="true">高其佩 山水</note>
+                     <note type="背面" anchored="true">F.2</note>
+                     <note type="背面" anchored="true">M. 358</note>
                   </msItem>
                   <!-- insert further msItem elements as appropriate -->
                </msContents>

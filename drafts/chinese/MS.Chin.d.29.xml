@@ -1,139 +1,131 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-
 <!-- use this template in cases where the manuscript is NOT composed of multiple codicological units. To avoid errors in the display of the record, be sure to delete elements that are not used. -->
-
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-    xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="manuscript_00000"><!-- insert the correct xmlid in the form manuscript_12345 -->
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>MS.Chin.d.29</title>
-                
-                <respStmt>
-                    <resp>Cataloguer</resp>
-                    <persName>Boya Zhang</persName>
-                </respStmt>
-                
-            </titleStmt>
-            <editionStmt>
-                <edition>TEI P5</edition>
-                <funder>HD Chung Fund</funder>
-            </editionStmt>
-            <publicationStmt>
-                <publisher>Special Collections, Bodleian Libraries</publisher>
-                <address>
-                    <orgName type="department">Special Collections</orgName>
-                    <orgName type="unit">Bodleian Libraries</orgName>
-                    <orgName type="institution">University of Oxford</orgName>
-                    <street>Weston Library, Broad Street</street>
-                    <settlement>Oxford</settlement>
-                    <postCode>OX1 3BG</postCode>
-                    <country>United Kingdom</country>
-                </address>
-                <distributor>
-                    <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
-                </distributor>
-                <idno type="msID"><!-- insert normalized form of shelfmark --></idno>
-                <idno type="collection"><!-- insert normalized form of collection --></idno>
-                <idno type="catalogue"><!-- insert catalogue ID --></idno>
-            </publicationStmt>
-            <sourceDesc>
-                <msDesc xml:lang="en"><!-- optionally provide xmlid should as a normalized form of the shelfmark, e.g. Merton_College_MS_10 -->
-                    <msIdentifier>
-                        <settlement><!-- insert --></settlement>
-                        <repository>Bodleian Library</repository><!-- change if necessary -->
-                        <idno type="shelfmark">MS.Chin.d.29</idno>
-                        <altIdentifier type="former">
-                            <idno>Chin.521j</idno>
-                        </altIdentifier>
-                        
-                    </msIdentifier>
-                    
-                    <msContents>
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xml:id="manuscript_00000"><!-- insert the correct xmlid in the form manuscript_12345 -->
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>MS.Chin.d.29</title>
+            <respStmt>
+               <resp>Cataloguer</resp>
+               <persName instant="false" full="yes">Boya Zhang</persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>TEI P5</edition>
+            <funder>HD Chung Fund</funder>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Special Collections, Bodleian Libraries</publisher>
+            <address>
+               <orgName type="department" instant="false" full="yes">Special Collections</orgName>
+               <orgName type="unit" instant="false" full="yes">Bodleian Libraries</orgName>
+               <orgName type="institution" instant="false" full="yes">University of Oxford</orgName>
+               <street>Weston Library, Broad Street</street>
+               <settlement>Oxford</settlement>
+               <postCode>OX1 3BG</postCode>
+               <country>United Kingdom</country>
+            </address>
+            <distributor>
+               <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+            </distributor>
+            <idno type="msID"><!-- insert normalized form of shelfmark --></idno>
+            <idno type="collection"><!-- insert normalized form of collection --></idno>
+            <idno type="catalogue"><!-- insert catalogue ID --></idno>
+         </publicationStmt>
+         <sourceDesc default="false">
+            <msDesc xml:lang="en" status="draft"><!-- optionally provide xmlid should as a normalized form of the shelfmark, e.g. Merton_College_MS_10 -->
+               <msIdentifier>
+                  <settlement><!-- insert --></settlement>
+                  <repository>Bodleian Library</repository>
+                  <!-- change if necessary -->
+                  <idno type="shelfmark">MS.Chin.d.29</idno>
+                  <altIdentifier type="former">
+                     <idno>Chin.521j</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>Proclamations connected with the Taiping rebellion.</summary>
-                        <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
-                        
-                        <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
+                  <summary>Proclamations connected with the Taiping rebellion.</summary>
+                  <textLang mainLang="zh">Chinese</textLang>
+                  <!-- change text and attribute if necessary -->
+                  <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
-                            <locus><!-- insert --></locus>
-                            <title type="desc" xml:lang="en">Proclamations connected with the Taiping rebellion.</title> 
-                            <title>檄文雜錄</title>
-                            <author key="Chinese">unknown</author>
-                            <incipit><locus>fol.1</locus>湖廣道監察御史臣<persName>馮贊勲</persName>跪道光二十一年
-                                                         奏為匪徒結會拜盟滋蔓各省顯有圖跡據寔具奏仰祈</incipit>
-
-                            <filiation>手抄本，中外孤本。handwritten copy, only surviving copy of its kind.</filiation>  
-                        </msItem>
-                        <!-- insert further msItem elements as appropriate --> 
-                        
-                    </msContents>
-                    <physDesc>
-                        
-                        <objectDesc form="卷"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
-                            <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                                <support>mulberry and bamboo mixed paper</support>
-                                <extent>1 volume 一卷
+                     <locus><!-- insert --></locus>
+                     <title type="desc" xml:lang="en">Proclamations connected with the Taiping rebellion.</title>
+                     <title>檄文雜錄</title>
+                     <author key="Chinese">unknown</author>
+                     <note anchored="true">
+                        <locus>fol.1</locus>湖廣道監察御史臣<persName instant="false" full="yes">馮贊勲</persName>跪道光二十一年
+                                                         奏為匪徒結會拜盟滋蔓各省顯有圖跡據寔具奏仰祈</note>
+                     <filiation>手抄本，中外孤本。handwritten copy, only surviving copy of its kind.</filiation>
+                  </msItem>
+                  <!-- insert further msItem elements as appropriate -->
+               </msContents>
+               <physDesc>
+                  <objectDesc form="卷"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
+                     <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
+                        <support>mulberry and bamboo mixed paper</support>
+                        <extent>1 volume 一卷
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
                         https://git.io/msdescdoc#leafDimensions
-                        -->                           <height>23.6 cm</height>
-                                        <width>12.9 cm</width>
-                                    </dimensions>
-                                    <!-- use additional dimensions elements if necessary -->
-                                </extent>
-                                
-                                <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
-                            </supportDesc>
-                            <layoutDesc>
-                                <layout>内頁朱絲欄，紅色小方格内字跡以墨色抄寫。每頁分九列，每列約二十五字。</layout>
-                                
-                            </layoutDesc>
-                            
-                        </objectDesc>
-                        
-                        <handDesc><!-- use the @hands attribute to record the number of scribes -->
-                            <handNote>
+                        -->
+                              <height>23.6 cm</height>
+                              <width>12.9 cm</width>
+                           </dimensions>
+                           <!-- use additional dimensions elements if necessary -->
+                        </extent>
+                        <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>内頁朱絲欄，紅色小方格内字跡以墨色抄寫。每頁分九列，每列約二十五字。</layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc><!-- use the @hands attribute to record the number of scribes -->
+                     <handNote>
                                 Text written in 楷體 (kai shu, regular) calligraphic style</handNote>
-                            <!-- use additional handNote elements if necessary 
+                     <!-- use additional handNote elements if necessary 
                      https://git.io/msdescdoc#handdesc
                      -->
-                        </handDesc>
-                        
-                        <decoDesc>
-                            <decoNote>
+                  </handDesc>
+                  <decoDesc>
+                     <decoNote>
                             </decoNote>
-                            <!-- use additional decoNote elements if necessary 
+                     <!-- use additional decoNote elements if necessary 
                      https://git.io/msdescdoc#decodesc
                      -->
-                        </decoDesc>
-                        
-                        <bindingDesc>
-                            <binding when="1800"><!-- use dating attributes to record the date -->
-                                <p>卷</p>
-                                <decoNote> The book cover is made of traditional Chinese paper with the sign of yellowing.</decoNote>
-                            </binding>
-                        </bindingDesc>
-                        <accMat>
+                  </decoDesc>
+                  <bindingDesc>
+                     <binding when="1800"><!-- use dating attributes to record the date -->
+                        <p part="N">卷</p>
+                        <decoNote> The book cover is made of traditional Chinese paper with the sign of yellowing.</decoNote>
+                     </binding>
+                  </bindingDesc>
+                  <accMat>
                             <!-- insert if relevant, otherwise delete 
                      https://git.io/msdescdoc#accMat          
                      -->
                         </accMat>
-                    </physDesc>
-                    <history>
+               </physDesc>
+               <history>
                         <!-- see https://git.io/msdescdoc#history -->
-                        <origin>
+                  <origin instant="false">
                             <!-- see https://git.io/msdescdoc#origin -->
-                            <origPlace>
-                                <country>China</country>,
+                     <origPlace instant="false">
+                        <country>China</country>,
                                 
                             </origPlace>
-                            <origDate notAfter="1900" notBefore="1800" calendar="Gregorian">清代</origDate>
-                            <!-- use additional origPlace and origDate elements if necessary -->
-                        </origin>
-                        <provenance>record in previous catalogue
+                     <origDate notAfter="1900"
+                               notBefore="1800"
+                               calendar="Gregorian"
+                               instant="false">清代</origDate>
+                     <!-- use additional origPlace and origDate elements if necessary -->
+                  </origin>
+                  <provenance>record in previous catalogue
                             language:	Chinese
                             shelfmark:	MS.Chin.d.29
                             content:	Proclamations connected with the Taiping rebellion.
@@ -141,54 +133,54 @@
                             acquired:	1882.
                             Past shelfmarks:	Chin.521j
                             List number:	S.C.29245a</provenance>
-                        
-                        
-                        <!-- use additional provenance elements if necessary -->
-                        <acquisition>
+                  <!-- use additional provenance elements if necessary -->
+                  <acquisition>
                             acquired in 1882
                         </acquisition>
-                    </history>
-                    <additional>
-                        <adminInfo>
-                            <recordHist>
-                                <source>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
                                     <!-- insert prose here; see https://git.io/msdescdoc#recordHist -->
-                                    <bibl><!-- insert if necesary, otherwise delete --></bibl>
-                                    <!-- links to digitized catalogues may also be provide here, e.g.: -->
-                                    <!--<listBibl>
+                           <bibl default="false" status="draft"><!-- insert if necesary, otherwise delete --></bibl>
+                           <!-- links to digitized catalogues may also be provide here, e.g.: -->
+                           <!--<listBibl>
                               <bibl type="SC" facs="aas0046.gif">Summary Catalogue, Vol. 3, p.  31</bibl>
                            </listBibl>-->
-                                </source>
-                            </recordHist>
-                        </adminInfo>
-                        <surrogates>
-                            <bibl type="digital-facsimile" subtype="full">
-                                <ref target="https://digital.bodleian.ox.ac.uk/objects/7dbf4b97-81e7-49d3-8589-fb8404efdb12/">
-                                    <title>Digital Bodleian</title></ref> <note>(full digital facsimile)</note>
-                            </bibl>
-                        </surrogates>
-                        <listBibl>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+                  <surrogates>
+                     <bibl type="digital-facsimile"
+                           subtype="full"
+                           default="false"
+                           status="draft">
+                        <ref target="https://digital.bodleian.ox.ac.uk/objects/7dbf4b97-81e7-49d3-8589-fb8404efdb12/">
+                           <title>Digital Bodleian</title>
+                        </ref>
+                        <note anchored="true">(full digital facsimile)</note>
+                     </bibl>
+                  </surrogates>
+                  <listBibl default="false">
                             <!-- a number of listBibl elements can be nested inside an outer listBibl if required -->
-                            <head><!-- use to provide a heading if required, otherwise delete --></head>
-                            <bibl><!-- insert bibliography, links to online resource, etc., otherwise delete--></bibl>
-                            
-                        </listBibl>
-                    </additional>
-                    
-                    
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <revisionDesc>
-            <change>
+                     <head><!-- use to provide a heading if required, otherwise delete --></head>
+                     <bibl default="false" status="draft"><!-- insert bibliography, links to online resource, etc., otherwise delete--></bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change status="draft">
                 <!-- insert relevant text, e.g. 'First online publication' -->
                 <!-- provide the date of the change using the @when attribute -->
             </change>
-        </revisionDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <p><!--Body paragraph provided for validation and future transcription--></p>
-        </body>
-    </text>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p part="N"><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
 </TEI>

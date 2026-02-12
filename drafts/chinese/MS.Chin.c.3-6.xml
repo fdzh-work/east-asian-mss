@@ -1,263 +1,267 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-
 <!-- use this template in cases where the manuscript is NOT composed of multiple codicological units. To avoid errors in the display of the record, be sure to delete elements that are not used. -->
-
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-    xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="manuscript_00000"><!-- insert the correct xmlid in the form manuscript_12345 -->
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>MS.Chin.c.3-6</title>
-                
-                <respStmt>
-                    <resp>Cataloguer</resp>
-                    <persName>Boya Zhang</persName>
-                </respStmt>
-                
-            </titleStmt>
-            <editionStmt>
-                <edition>TEI P5</edition>
-                <funder>HD Chung Fund</funder>
-            </editionStmt>
-            <publicationStmt>
-                <publisher>Special Collections, Bodleian Libraries</publisher>
-                <address>
-                    <orgName type="department">Special Collections</orgName>
-                    <orgName type="unit">Bodleian Libraries</orgName>
-                    <orgName type="institution">University of Oxford</orgName>
-                    <street>Weston Library, Broad Street</street>
-                    <settlement>Oxford</settlement>
-                    <postCode>OX1 3BG</postCode>
-                    <country>United Kingdom</country>
-                </address>
-                <distributor>
-                    <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
-                </distributor>
-                <idno type="msID"><!-- insert normalized form of shelfmark --></idno>
-                <idno type="collection"><!-- insert normalized form of collection --></idno>
-                <idno type="catalogue"><!-- insert catalogue ID --></idno>
-            </publicationStmt>
-            <sourceDesc>
-                <msDesc xml:lang="en"><!-- optionally provide xmlid should as a normalized form of the shelfmark, e.g. Merton_College_MS_10 -->
-                    <msIdentifier>
-                        <settlement><!-- insert --></settlement>
-                        <repository>Bodleian Library</repository><!-- change if necessary -->
-                        <idno type="shelfmark">MS.Chin.c.3-6</idno>
-             </msIdentifier>
-                    
-                    <msContents>
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xml:id="manuscript_00000"><!-- insert the correct xmlid in the form manuscript_12345 -->
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>MS.Chin.c.3-6</title>
+            <respStmt>
+               <resp>Cataloguer</resp>
+               <persName instant="false" full="yes">Boya Zhang</persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>TEI P5</edition>
+            <funder>HD Chung Fund</funder>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Special Collections, Bodleian Libraries</publisher>
+            <address>
+               <orgName type="department" instant="false" full="yes">Special Collections</orgName>
+               <orgName type="unit" instant="false" full="yes">Bodleian Libraries</orgName>
+               <orgName type="institution" instant="false" full="yes">University of Oxford</orgName>
+               <street>Weston Library, Broad Street</street>
+               <settlement>Oxford</settlement>
+               <postCode>OX1 3BG</postCode>
+               <country>United Kingdom</country>
+            </address>
+            <distributor>
+               <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+            </distributor>
+            <idno type="msID"><!-- insert normalized form of shelfmark --></idno>
+            <idno type="collection"><!-- insert normalized form of collection --></idno>
+            <idno type="catalogue"><!-- insert catalogue ID --></idno>
+         </publicationStmt>
+         <sourceDesc default="false">
+            <msDesc xml:lang="en" status="draft"><!-- optionally provide xmlid should as a normalized form of the shelfmark, e.g. Merton_College_MS_10 -->
+               <msIdentifier>
+                  <settlement><!-- insert --></settlement>
+                  <repository>Bodleian Library</repository>
+                  <!-- change if necessary -->
+                  <idno type="shelfmark">MS.Chin.c.3-6</idno>
+               </msIdentifier>
+               <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>A set of four albums of Chinese export paintings, with each album consisting of 
+                  <summary>A set of four albums of Chinese export paintings, with each album consisting of 
                                  twelve gouache colour paintings. The themes of paintings encompass figures in 
                                  Manchu costumes, insects, plants, birds and fish. </summary>
-                        <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
-                        
-                        <msItem n="1"><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
+                  <textLang mainLang="zh">Chinese</textLang>
+                  <!-- change text and attribute if necessary -->
+                  <msItem n="1"><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
-                            <title>An album of Chinese export paintings</title>
-                            <title type="shelfmark">MS.Chin.c.3</title>
-                            <author key="Chinese">Chong Woo</author>
-                            <incipit><locus>Inside upper cover</locus>Bought by the Bodleian with 3 similar vols. for £3.10 from U Maggs’s catalogue - 16 apr. 1885 </incipit>
-                            <incipit><locus>Inside upper cover</locus>s.c.29615 h</incipit>
-                            <incipit><locus>Inside upper cover</locus>MS.Chin.c.3</incipit>
-                            <incipit type="seal"><locus>fol. 1a</locus>ChongWoo Silk ? Ivory etc.Lacquered Ware Queens Road HongKong </incipit>
-                            <incipit type="theme">Figures in costumes</incipit>
-                            <incipit type="theme">Birds</incipit>
-                            <incipit type="theme">Plants</incipit>
-                            <incipit type="theme">Fish</incipit>
-                            <filiation>Chinese export paintings are usually produced in large quantity,
+                     <title>An album of Chinese export paintings</title>
+                     <title type="shelfmark">MS.Chin.c.3</title>
+                     <author key="Chinese">Chong Woo</author>
+                     <note anchored="true">
+                        <locus>Inside upper cover</locus>Bought by the Bodleian with 3 similar vols. for £3.10 from U Maggs’s catalogue - 16 apr. 1885 </note>
+                     <note anchored="true">
+                        <locus>Inside upper cover</locus>s.c.29615 h</note>
+                     <note anchored="true">
+                        <locus>Inside upper cover</locus>MS.Chin.c.3</note>
+                     <note type="印章" anchored="true">
+                        <locus>fol. 1a</locus>ChongWoo Silk ? Ivory etc.Lacquered Ware Queens Road HongKong </note>
+                     <note type="theme" anchored="true">Figures in costumes</note>
+                     <note type="theme" anchored="true">Birds</note>
+                     <note type="theme" anchored="true">Plants</note>
+                     <note type="theme" anchored="true">Fish</note>
+                     <filiation>Chinese export paintings are usually produced in large quantity,
                                 therefore, there may be other existing copies.
-                                外銷畫，多為批量生產，可能多有存世。</filiation>  
-                        </msItem>
-                        <!-- insert further msItem elements as appropriate --> 
-                        
-                        <msItem n="2"><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
+                                外銷畫，多為批量生產，可能多有存世。</filiation>
+                  </msItem>
+                  <!-- insert further msItem elements as appropriate -->
+                  <msItem n="2"><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
-                            <title>An album of Chinese export paintings</title>
-                            <title type="shelfmark">MS.Chin.c.4</title>
-                            <author key="Chinese">Chong Woo</author>
-                            <incipit><locus>Inside upper cover</locus>Bought by the Bodleian with 3 similar vols. for £3.10 from U Maggs’s catalogue - 16 apr. 1885 </incipit>
-                            <incipit><locus>Inside upper cover</locus>s.c.29615 i</incipit>
-                            <incipit><locus>Inside upper cover</locus>MS.Chin.c.4</incipit>
-                            <incipit type="theme">Figures in costumes</incipit>
-                            <filiation>Chinese export paintings are usually produced in large quantity,
+                     <title>An album of Chinese export paintings</title>
+                     <title type="shelfmark">MS.Chin.c.4</title>
+                     <author key="Chinese">Chong Woo</author>
+                     <note anchored="true">
+                        <locus>Inside upper cover</locus>Bought by the Bodleian with 3 similar vols. for £3.10 from U Maggs’s catalogue - 16 apr. 1885 </note>
+                     <note anchored="true">
+                        <locus>Inside upper cover</locus>s.c.29615 i</note>
+                     <note anchored="true">
+                        <locus>Inside upper cover</locus>MS.Chin.c.4</note>
+                     <note type="theme" anchored="true">Figures in costumes</note>
+                     <filiation>Chinese export paintings are usually produced in large quantity,
                                 therefore, there may be other existing copies.
-                                外銷畫，多為批量生產，可能多有存世。</filiation>  
-                        </msItem>
-                        <!-- insert further msItem elements as appropriate --> 
-                        
-                        <msItem n="3"><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
+                                外銷畫，多為批量生產，可能多有存世。</filiation>
+                  </msItem>
+                  <!-- insert further msItem elements as appropriate -->
+                  <msItem n="3"><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
-                            <title>An album of Chinese export paintings</title>
-                            <title type="shelfmark">MS.Chin.c.5</title>
-                            <author key="Chinese">Chong Woo</author>
-                            <incipit><locus>Inside upper cover</locus>Bought by the Bodleian with 3 similar vols. for £3.10 from U Maggs’s catalogue - 16 apr. 1885 </incipit>
-                            <incipit><locus>Inside upper cover</locus>s.c.29615 j</incipit>
-                            <incipit><locus>Inside upper cover</locus>MS.Chin.c.5</incipit>
-                            <incipit type="theme">Figures in costumes</incipit>
-                            <filiation>Chinese export paintings are usually produced in large quantity,
+                     <title>An album of Chinese export paintings</title>
+                     <title type="shelfmark">MS.Chin.c.5</title>
+                     <author key="Chinese">Chong Woo</author>
+                     <note anchored="true">
+                        <locus>Inside upper cover</locus>Bought by the Bodleian with 3 similar vols. for £3.10 from U Maggs’s catalogue - 16 apr. 1885 </note>
+                     <note anchored="true">
+                        <locus>Inside upper cover</locus>s.c.29615 j</note>
+                     <note anchored="true">
+                        <locus>Inside upper cover</locus>MS.Chin.c.5</note>
+                     <note type="theme" anchored="true">Figures in costumes</note>
+                     <filiation>Chinese export paintings are usually produced in large quantity,
                                 therefore, there may be other existing copies.
-                                外銷畫，多為批量生產，可能多有存世。</filiation>  
-                            
-                            <msItem n="4"><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
+                                外銷畫，多為批量生產，可能多有存世。</filiation>
+                     <msItem n="4"><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                                 <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
-                                <title>An album of Chinese export paintings</title>
-                                <title type="shelfmark">MS.Chin.c.6</title>
-                                <author key="Chinese">Chong Woo</author>
-                                <incipit><locus>Inside upper cover</locus>Bought by the Bodleian with 3 similar vols. for £3.10 from U Maggs’s catalogue - 16 apr. 1885 </incipit>
-                                <incipit><locus>Inside upper cover</locus>s.c.29615 k</incipit>
-                                <incipit><locus>Inside upper cover</locus>MS.Chin.c.6</incipit>
-                                <incipit type="theme">Birds</incipit>
-                                <filiation>Chinese export paintings are usually produced in large quantity,
+                        <title>An album of Chinese export paintings</title>
+                        <title type="shelfmark">MS.Chin.c.6</title>
+                        <author key="Chinese">Chong Woo</author>
+                        <note anchored="true">
+                           <locus>Inside upper cover</locus>Bought by the Bodleian with 3 similar vols. for £3.10 from U Maggs’s catalogue - 16 apr. 1885 </note>
+                        <note anchored="true">
+                           <locus>Inside upper cover</locus>s.c.29615 k</note>
+                        <note anchored="true">
+                           <locus>Inside upper cover</locus>MS.Chin.c.6</note>
+                        <note type="theme" anchored="true">Birds</note>
+                        <filiation>Chinese export paintings are usually produced in large quantity,
                                     therefore, there may be other existing copies.
-                                    外銷畫，多為批量生產，可能多有存世。</filiation> </msItem>
-                        </msItem> </msContents>
-                    
-                    <physDesc> 
-                       
-                      <objectDesc form="冊"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
-                            <supportDesc material="通草紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                                <support>pith paper</support>
-                                <extent>Four albums, each comprising fourteen folios. Each album contains twelve paintings and two flyleaves. 
+                                    外銷畫，多為批量生產，可能多有存世。</filiation>
+                     </msItem>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="冊"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
+                     <supportDesc material="通草紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
+                        <support>pith paper</support>
+                        <extent>Four albums, each comprising fourteen folios. Each album contains twelve paintings and two flyleaves. 
                                        All four albums are stored in a wooden box adorned with yellow textile, measuring 27.3cm in width,
                                        38.3cm in length, and 7cm in height.
                                     每冊均爲十四頁，包含十二幅。畫冊放置於木盒内,木盒表面糊有一層黃色有花紋織物,尺寸爲長27.3cm,寬38.3cm,高7cm。
                                     <locus>MS.Chin.c.3</locus>
-                                    <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  https://git.io/msdescdoc#leafDimensions -->
-                                    <height>37</height>
-                                    <width>26</width>
-                                    </dimensions>
-                                    
-                                    <locus>MS.Chin.c.4</locus>
-                                    <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  https://git.io/msdescdoc#leafDimensions -->
-                                        <height>37</height>
-                                        <width>26</width>
-                                    </dimensions>
-                                    
-                                    <locus>MS.Chin.c.5</locus>
-                                    <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  https://git.io/msdescdoc#leafDimensions -->
-                                        <height>30.3</height>
-                                        <width>22.2</width>
-                                    </dimensions>
-                                    
-                                    <locus>MS.Chin.c.6</locus>
-                                    <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  https://git.io/msdescdoc#leafDimensions -->
-                                        <height>30.1</height>
-                                        <width>21</width>
-                                    </dimensions>
-                                    <!-- use additional dimensions elements if necessary -->
-                                </extent>
-                       
-                                
-                                <condition><p>Ms. Chin.c.3:
+                           <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  https://git.io/msdescdoc#leafDimensions -->
+                              <height>37</height>
+                              <width>26</width>
+                           </dimensions>
+                           <locus>MS.Chin.c.4</locus>
+                           <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  https://git.io/msdescdoc#leafDimensions -->
+                              <height>37</height>
+                              <width>26</width>
+                           </dimensions>
+                           <locus>MS.Chin.c.5</locus>
+                           <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  https://git.io/msdescdoc#leafDimensions -->
+                              <height>30.3</height>
+                              <width>22.2</width>
+                           </dimensions>
+                           <locus>MS.Chin.c.6</locus>
+                           <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  https://git.io/msdescdoc#leafDimensions -->
+                              <height>30.1</height>
+                              <width>21</width>
+                           </dimensions>
+                           <!-- use additional dimensions elements if necessary -->
+                        </extent>
+                        <condition>
+                           <p part="N">Ms. Chin.c.3:
                                     The spine shows signs of damage.
                                     The silk textile on the lower cover has partially detached.
                                     A few paintings exhibit slight damage.</p>
-                                    
-                                    <p>The cover textile shows minor signs of damage.
+                           <p part="N">The cover textile shows minor signs of damage.
                                         The red textile used for framing the painting to the paper has a few areas where it has come loose.</p>
-                                    <p>Ms. Chin.c.5:
+                           <p part="N">Ms. Chin.c.5:
                                         The spine displays signs of damage.
                                         A few paintings exhibit slight signs of damage.</p>
-                                    <p>Ms. Chin.c.6:
-                                        The cover exhibits signs of bending, with slight staining.</p><!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
-                            </supportDesc>
-                            <layoutDesc>
-                                <layout>Chinese export painting in gouache colour.</layout>
-                                
-                            </layoutDesc>
-                            
-                        </objectDesc>
-                        
-                   <handDesc><handNote>
-                         </handNote><!--use the @hands attribute to record the number of scribes -->
-                            <!-- <handNote> </handNote> --> 
-                            <!-- use additional handNote elements if necessary 
+                           <p part="N">Ms. Chin.c.6:
+                                        The cover exhibits signs of bending, with slight staining.</p>
+                           <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition -->
+                        </condition>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>Chinese export painting in gouache colour.</layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote>
+                         </handNote>
+                     <!--use the @hands attribute to record the number of scribes -->
+                     <!-- <handNote> </handNote> -->
+                     <!-- use additional handNote elements if necessary 
                      https://git.io/msdescdoc#handdesc
                      -->
-                        </handDesc>
-                        
-                        <decoDesc>
-                            <decoNote>
+                  </handDesc>
+                  <decoDesc>
+                     <decoNote>
                             </decoNote>
-                            <!-- use additional decoNote elements if necessary 
+                     <!-- use additional decoNote elements if necessary 
                      https://git.io/msdescdoc#decodesc
                      -->
-                        </decoDesc>
-                        
-                        <bindingDesc>
-                            <binding when="1800"><!-- use dating attributes to record the date -->
-                                <decoNote>一套四冊，封面和封底由玫瑰紅色帶花紋的絲織物裝裱。</decoNote>
-                            </binding>
-                        </bindingDesc>
-                        <accMat>
+                  </decoDesc>
+                  <bindingDesc>
+                     <binding when="1800"><!-- use dating attributes to record the date -->
+                        <decoNote>一套四冊，封面和封底由玫瑰紅色帶花紋的絲織物裝裱。</decoNote>
+                     </binding>
+                  </bindingDesc>
+                  <accMat>
                             <!-- insert if relevant, otherwise delete 
                      https://git.io/msdescdoc#accMat          
                      -->
                         </accMat>
-                    </physDesc>
-                    <history>
+               </physDesc>
+               <history>
                         <!-- see https://git.io/msdescdoc#history -->
-                        <origin>
+                  <origin instant="false">
                             <!-- see https://git.io/msdescdoc#origin -->
-                            <origPlace>
-                                <country>China</country>,
+                     <origPlace instant="false">
+                        <country>China</country>,
                                 <region>Canton</region>,
                                 <settlement><!-- insert --></settlement>,
-                                <orgName><!-- insert --></orgName>
-                            </origPlace>
-                            <origDate notAfter="1900" notBefore="1700" calendar="Gregorian">清代</origDate>
-                            <!-- use additional origPlace and origDate elements if necessary -->
-                        </origin>
-                        <provenance>U Maggs</provenance>
-                        
-                        
-                        <!-- use additional provenance elements if necessary -->
-                        <acquisition>Acquired in 1885.</acquisition>
-                    </history>
-                    <additional>
-                        <adminInfo>
-                            <recordHist>
-                                <source>
+                                <orgName instant="false" full="yes"><!-- insert --></orgName>
+                     </origPlace>
+                     <origDate notAfter="1900"
+                               notBefore="1700"
+                               calendar="Gregorian"
+                               instant="false">清代</origDate>
+                     <!-- use additional origPlace and origDate elements if necessary -->
+                  </origin>
+                  <provenance>U Maggs</provenance>
+                  <!-- use additional provenance elements if necessary -->
+                  <acquisition>Acquired in 1885.</acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
                                     <!-- insert prose here; see https://git.io/msdescdoc#recordHist -->
-                                    <bibl><!-- insert if necesary, otherwise delete --></bibl>
-                                    <!-- links to digitized catalogues may also be provide here, e.g.: -->
-                                    <!--<listBibl>
+                           <bibl default="false" status="draft"><!-- insert if necesary, otherwise delete --></bibl>
+                           <!-- links to digitized catalogues may also be provide here, e.g.: -->
+                           <!--<listBibl>
                               <bibl type="SC" facs="aas0046.gif">Summary Catalogue, Vol. 3, p.  31</bibl>
                            </listBibl>-->
-                                </source>
-                            </recordHist>
-                        </adminInfo>
-                        <surrogates>
-                            <bibl type="digital-facsimile" subtype="full">
-                                <ref target="https://digital.bodleian.ox.ac.uk/objects/95d9ff0f-9bcc-4d80-b260-4699609aa63d/">
-                                    <title>Digital Bodleian</title></ref> <note>(full digital facsimile)</note>
-                            </bibl>
-                        </surrogates>
-                        <listBibl>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+                  <surrogates>
+                     <bibl type="digital-facsimile"
+                           subtype="full"
+                           default="false"
+                           status="draft">
+                        <ref target="https://digital.bodleian.ox.ac.uk/objects/95d9ff0f-9bcc-4d80-b260-4699609aa63d/">
+                           <title>Digital Bodleian</title>
+                        </ref>
+                        <note anchored="true">(full digital facsimile)</note>
+                     </bibl>
+                  </surrogates>
+                  <listBibl default="false">
                             <!-- a number of listBibl elements can be nested inside an outer listBibl if required -->
-                            <head><!-- use to provide a heading if required, otherwise delete --></head>
-                            <bibl><!-- insert bibliography, links to online resource, etc., otherwise delete--></bibl>
-                            
-                        </listBibl>
-                    </additional>
-                    
-                    
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <revisionDesc>
-            <change>
+                     <head><!-- use to provide a heading if required, otherwise delete --></head>
+                     <bibl default="false" status="draft"><!-- insert bibliography, links to online resource, etc., otherwise delete--></bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change status="draft">
                 <!-- insert relevant text, e.g. 'First online publication' -->
                 <!-- provide the date of the change using the @when attribute -->
             </change>
-        </revisionDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <p><!--Body paragraph provided for validation and future transcription--></p>
-        </body>
-    </text>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p part="N"><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
 </TEI>

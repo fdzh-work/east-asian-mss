@@ -1,213 +1,241 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-
 <!-- use this template in cases where the manuscript is NOT composed of multiple codicological units. To avoid errors in the display of the record, be sure to delete elements that are not used. -->
-
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-    xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="manuscript_00000"><!-- insert the correct xmlid in the form manuscript_12345 -->
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>MS.Chin.c.1,2</title>
-                
-                <respStmt>
-                    <resp>Cataloguer</resp>
-                    <persName>Boya Zhang</persName>
-                </respStmt>
-                
-            </titleStmt>
-            <editionStmt>
-                <edition>TEI P5</edition>
-                <funder>HD Chung Fund</funder>
-            </editionStmt>
-            <publicationStmt>
-                <publisher>Special Collections, Bodleian Libraries</publisher>
-                <address>
-                    <orgName type="department">Special Collections</orgName>
-                    <orgName type="unit">Bodleian Libraries</orgName>
-                    <orgName type="institution">University of Oxford</orgName>
-                    <street>Weston Library, Broad Street</street>
-                    <settlement>Oxford</settlement>
-                    <postCode>OX1 3BG</postCode>
-                    <country>United Kingdom</country>
-                </address>
-                <distributor>
-                    <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
-                </distributor>
-                <idno type="msID"><!-- insert normalized form of shelfmark --></idno>
-                <idno type="collection"><!-- insert normalized form of collection --></idno>
-                <idno type="catalogue"><!-- insert catalogue ID --></idno>
-            </publicationStmt>
-            <sourceDesc>
-                <msDesc xml:lang="en"><!-- optionally provide xmlid should as a normalized form of the shelfmark, e.g. Merton_College_MS_10 -->
-                    <msIdentifier>
-                        <settlement><!-- insert --></settlement>
-                        <repository>Bodleian Library</repository><!-- change if necessary -->
-                        <idno type="shelfmark">MS.Chin.c.1,2</idno>
-                        
-                        
-                    </msIdentifier>
-                    <msContents>
-                        <summary>Two albums showcasing painted pictures depicting daily life scenes</summary>
-                        <msItem>
-                            <filiation xml:lang="zh">中國畫冊，中外孤本</filiation>
-                            <textLang mainLang="zh">Chinese</textLang>
-                        </msItem>
-                    </msContents>
-                    <history>
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xml:id="manuscript_00000"><!-- insert the correct xmlid in the form manuscript_12345 -->
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>MS.Chin.c.1,2</title>
+            <respStmt>
+               <resp>Cataloguer</resp>
+               <persName instant="false" full="yes">Boya Zhang</persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>TEI P5</edition>
+            <funder>HD Chung Fund</funder>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Special Collections, Bodleian Libraries</publisher>
+            <address>
+               <orgName type="department" instant="false" full="yes">Special Collections</orgName>
+               <orgName type="unit" instant="false" full="yes">Bodleian Libraries</orgName>
+               <orgName type="institution" instant="false" full="yes">University of Oxford</orgName>
+               <street>Weston Library, Broad Street</street>
+               <settlement>Oxford</settlement>
+               <postCode>OX1 3BG</postCode>
+               <country>United Kingdom</country>
+            </address>
+            <distributor>
+               <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+            </distributor>
+            <idno type="msID"><!-- insert normalized form of shelfmark --></idno>
+            <idno type="collection"><!-- insert normalized form of collection --></idno>
+            <idno type="catalogue"><!-- insert catalogue ID --></idno>
+         </publicationStmt>
+         <sourceDesc default="false">
+            <msDesc xml:lang="en" status="draft"><!-- optionally provide xmlid should as a normalized form of the shelfmark, e.g. Merton_College_MS_10 -->
+               <msIdentifier>
+                  <settlement><!-- insert --></settlement>
+                  <repository>Bodleian Library</repository>
+                  <!-- change if necessary -->
+                  <idno type="shelfmark">MS.Chin.c.1,2</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Two albums showcasing painted pictures depicting daily life scenes</summary>
+                  <msItem>
+                     <filiation xml:lang="zh">中國畫冊，中外孤本</filiation>
+                     <textLang mainLang="zh">Chinese</textLang>
+                  </msItem>
+               </msContents>
+               <history>
                         <!-- see https://git.io/msdescdoc#history -->
-                        <origin>
+                  <origin instant="false">
                             <!-- see https://git.io/msdescdoc#origin -->
-                            <origPlace>
-                                <country>China</country>
-                            </origPlace>
-                            <origDate notAfter="1847" notBefore="1750" calendar="Gregorian">1750 and later</origDate>
-                            <!-- use additional origPlace and origDate elements if necessary -->
-                        </origin>
-                        <provenance>On the inside of the upper cover of both volumes, it is indicated that this album was purchased from Tross of Paris in March 1885 for 50 francs by Marcus Lowther and later given to Julia Lowther. <note><persName key="Q100376063">Marcus Lowther</persName>(1820-1908), a British Royal Navy officer, amateur artist and Fellow of the Royal Geographical Society.</note></provenance>
-                        <acquisition>Records show that the two albums reached the Bodleian Libraries in 1885.
+                     <origPlace instant="false">
+                        <country>China</country>
+                     </origPlace>
+                     <origDate notAfter="1847"
+                               notBefore="1750"
+                               calendar="Gregorian"
+                               instant="false">1750 and later</origDate>
+                     <!-- use additional origPlace and origDate elements if necessary -->
+                  </origin>
+                  <provenance>On the inside of the upper cover of both volumes, it is indicated that this album was purchased from Tross of Paris in March 1885 for 50 francs by Marcus Lowther and later given to Julia Lowther. <note anchored="true">
+                        <persName key="Q100376063" instant="false" full="yes">Marcus Lowther</persName>(1820-1908), a British Royal Navy officer, amateur artist and Fellow of the Royal Geographical Society.</note>
+                  </provenance>
+                  <acquisition>Records show that the two albums reached the Bodleian Libraries in 1885.
                            </acquisition>
-                       
-                        
-                        <!-- use additional provenance elements if necessary -->
-                        <!-- <acquisition> </acquisition> -->
-                    </history>
-                    <additional>
-                        <adminInfo>
-                            <recordHist>
-                                <source>
+                  <!-- use additional provenance elements if necessary -->
+                  <!-- <acquisition> </acquisition> -->
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
                                     <!-- insert prose here; see https://git.io/msdescdoc#recordHist -->
-                                    <bibl><!-- insert if necesary, otherwise delete --></bibl>
-                                    <!-- links to digitized catalogues may also be provide here, e.g.: -->
-                                    <!--<listBibl>
+                           <bibl default="false" status="draft"><!-- insert if necesary, otherwise delete --></bibl>
+                           <!-- links to digitized catalogues may also be provide here, e.g.: -->
+                           <!--<listBibl>
                               <bibl type="SC" facs="aas0046.gif">Summary Catalogue, Vol. 3, p.  31</bibl>
                            </listBibl>-->
-                                </source>
-                            </recordHist>
-                        </adminInfo>
-                        <surrogates>
-                            <bibl type="digital-facsimile" subtype="full">
-                                <ref target="https://digital.bodleian.ox.ac.uk/objects/d46acb5c-ff60-4aea-be9d-b571bcd92bef/">
-                                    <title>Digital Bodleian</title></ref> <note>(full digital facsimile)</note>
-                            </bibl>
-                        </surrogates>
-                        <listBibl>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+                  <surrogates>
+                     <bibl type="digital-facsimile"
+                           subtype="full"
+                           default="false"
+                           status="draft">
+                        <ref target="https://digital.bodleian.ox.ac.uk/objects/d46acb5c-ff60-4aea-be9d-b571bcd92bef/">
+                           <title>Digital Bodleian</title>
+                        </ref>
+                        <note anchored="true">(full digital facsimile)</note>
+                     </bibl>
+                  </surrogates>
+                  <listBibl default="false">
                             <!-- a number of listBibl elements can be nested inside an outer listBibl if required -->
-                            <head><!-- use to provide a heading if required, otherwise delete --></head>
-                            <bibl><!-- insert bibliography, links to online resource, etc., otherwise delete--></bibl>
-                            
-                        </listBibl>
-                    </additional>
-                    
-                    <msPart>
-                        <msIdentifier>
-                            <altIdentifier>
-                                <idno type="part">MS.Chin.c.1</idno>
-                            </altIdentifier>
-                        </msIdentifier>
-                    <msContents>
+                     <head><!-- use to provide a heading if required, otherwise delete --></head>
+                     <bibl default="false" status="draft"><!-- insert bibliography, links to online resource, etc., otherwise delete--></bibl>
+                  </listBibl>
+               </additional>
+               <msPart>
+                  <msIdentifier>
+                     <altIdentifier>
+                        <idno type="part">MS.Chin.c.1</idno>
+                     </altIdentifier>
+                  </msIdentifier>
+                  <msContents>
                         
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
                        <!-- change text and attribute if necessary -->
-                        
-                        <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
+                     <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
-                            <title type="sub">Album：MS.Chin.c.1</title>
-                            <title key="desc" xml:lang="zh">清代佚名人物畫冊: MS.Chin.c.1</title>
-                            <author key="_unknown">unknown</author>
-                            <note><locus>Inside upper cover: </locus><q>S.C.29615f</q></note>
-                            <note><locus>Inside lower cover: </locus><q>Julia Lowther from Marcus R N.</q></note>
-                            <note><locus>Inside lower cover: </locus><q><date>10th Sep. 1847</date></q></note>
-                            <filiation xml:lang="zh">中國畫冊，中外孤本</filiation>  
-                        </msItem>
-                    </msContents>
-                        <physDesc>
-                            <objectDesc form="冊">
-                            <supportDesc material="桑紙">
-                                <support>mulberry and bamboo paper <foreign xml:lang="zh">紙本</foreign>
-                                </support>
-                                <extent>Fifteen folios, including twelve paintings. <foreign xml:lang="zh">一冊共十五開，本幅十二開，前副頁二開，后副頁一開。</foreign>
-                                    <dimensions unit="cm" type="冊">                          
-                                        <height>32.3</height>
-                                        <width>29.3</width>
-                                    </dimensions>
-                                </extent>
-                                <condition>The paper used for decoration on the cover is damaged. The paper glued to the front cover fell off halfway.</condition>
-                            </supportDesc>
-                            </objectDesc>
-                            <bindingDesc>
-                                <binding when="1800">
-                                    <p xml:lang="zh">冊</p>
-                                    <decoNote>Concertina binding. The front cover and back cover are bound with blue silk fabric featuring dark blue and red patterns. The main painting surface is made of off-white silk while the accompanying composition on the left-hand page is light blue with gold specks. The title label is made of white silk, showing signs of damage and stains.
+                        <title type="sub">Album：MS.Chin.c.1</title>
+                        <title key="desc" xml:lang="zh">清代佚名人物畫冊: MS.Chin.c.1</title>
+                        <author key="_unknown">unknown</author>
+                        <note anchored="true">
+                           <locus>Inside upper cover: </locus>
+                           <q>S.C.29615f</q>
+                        </note>
+                        <note anchored="true">
+                           <locus>Inside lower cover: </locus>
+                           <q>Julia Lowther from Marcus R N.</q>
+                        </note>
+                        <note anchored="true">
+                           <locus>Inside lower cover: </locus>
+                           <q>
+                              <date instant="false">10th Sep. 1847</date>
+                           </q>
+                        </note>
+                        <filiation xml:lang="zh">中國畫冊，中外孤本</filiation>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc form="冊">
+                        <supportDesc material="桑紙">
+                           <support>mulberry and bamboo paper <foreign xml:lang="zh">紙本</foreign>
+                           </support>
+                           <extent>Fifteen folios, including twelve paintings. <foreign xml:lang="zh">一冊共十五開，本幅十二開，前副頁二開，后副頁一開。</foreign>
+                              <dimensions unit="cm" type="冊">
+                                 <height>32.3</height>
+                                 <width>29.3</width>
+                              </dimensions>
+                           </extent>
+                           <condition>The paper used for decoration on the cover is damaged. The paper glued to the front cover fell off halfway.</condition>
+                        </supportDesc>
+                     </objectDesc>
+                     <bindingDesc>
+                        <binding when="1800">
+                           <p xml:lang="zh" part="N">冊</p>
+                           <decoNote>Concertina binding. The front cover and back cover are bound with blue silk fabric featuring dark blue and red patterns. The main painting surface is made of off-white silk while the accompanying composition on the left-hand page is light blue with gold specks. The title label is made of white silk, showing signs of damage and stains.
                                         <foreign xml:lang="zh">畫冊，經摺裝，内含十二幅畫。封面和封底由藍色底帶深藍色和紅色銅錢花紋的絲織物裝裱，本幅畫心為米白色絹本，對幅為畫心淺藍色灑金紙本。題簽為白色絹本，有破損和污跡。</foreign>
-                                    </decoNote>
-                                </binding>
-                            </bindingDesc>
-                        </physDesc>
-                    </msPart>
-                    
-                    <msPart>
-                        <msIdentifier>
-                            <altIdentifier>
-                                <idno type="part">MS.Chin.c.2</idno>
-                            </altIdentifier>
-                        </msIdentifier>
-                        <msContents>
+                           </decoNote>
+                        </binding>
+                     </bindingDesc>
+                  </physDesc>
+               </msPart>
+               <msPart>
+                  <msIdentifier>
+                     <altIdentifier>
+                        <idno type="part">MS.Chin.c.2</idno>
+                     </altIdentifier>
+                  </msIdentifier>
+                  <msContents>
                             <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
                             <!-- change text and attribute if necessary -->
-                            <msItem>
-                                <title type="sub">Album：MS.Chin.c.2</title>
-                                <title key="desc" xml:lang="zh">清代佚名人物畫冊: MS.Chin.c.2</title>
-                                    <note><locus>Inside upper cover: </locus><q>S.C.29615g</q></note>
-                                    <note><locus>Inside upper cover: </locus><q>Bought in March 1885 for 50F from Tross of Paris 
-                                        (436 in his cat. no.III for 1885; said to Date "over 1750 succession")</q></note>
-                                    <note><locus>Inside lower cover: </locus><q>Julia Lowther from Marcus</q></note>
-                                    <note><locus>Inside lower cover: </locus><q><date>Sep 10th 1847</date></q></note>
-                                    <note><locus>on the back of Inside lower cover: </locus><q>Original Chinese Drawings
+                     <msItem>
+                        <title type="sub">Album：MS.Chin.c.2</title>
+                        <title key="desc" xml:lang="zh">清代佚名人物畫冊: MS.Chin.c.2</title>
+                        <note anchored="true">
+                           <locus>Inside upper cover: </locus>
+                           <q>S.C.29615g</q>
+                        </note>
+                        <note anchored="true">
+                           <locus>Inside upper cover: </locus>
+                           <q>Bought in March 1885 for 50F from Tross of Paris 
+                                        (436 in his cat. no.III for 1885; said to Date "over 1750 succession")</q>
+                        </note>
+                        <note anchored="true">
+                           <locus>Inside lower cover: </locus>
+                           <q>Julia Lowther from Marcus</q>
+                        </note>
+                        <note anchored="true">
+                           <locus>Inside lower cover: </locus>
+                           <q>
+                              <date instant="false">Sep 10th 1847</date>
+                           </q>
+                        </note>
+                        <note anchored="true">
+                           <locus>on the back of Inside lower cover: </locus>
+                           <q>Original Chinese Drawings
                                         Purchased to Julia Lowther by Marcus Lowther, M.N.
-                                        Sepr 10th 1847</q></note>
-                                <filiation xml:lang="zh">中國畫冊，中外孤本</filiation>  
-                            </msItem>
-                        </msContents>
-                        <physDesc>
-                            <objectDesc form="冊">
-                                <supportDesc material="桑紙">
-                                    <support>Silk <foreign xml:lang="zh">絹本。</foreign>
-                                    </support>
-                                    <extent>Fifteen folios, including twelve paintings. <foreign xml:lang="zh">一冊共十五開，本幅十二開，前副頁二開，后副頁一開。</foreign>
-                                        <dimensions unit="cm" type="冊">                          
-                                            <height>34.6</height>
-                                            <width>23.7</width>
-                                        </dimensions>
-                                    </extent>
-                                    <condition>The paper used for decoration on the cover is damaged. The paper glued to the front cover fell off halfway.</condition>
-                                </supportDesc>
-                            </objectDesc>
-                            <bindingDesc>
-                                <binding when="1800">
-                                    <p xml:lang="zh">冊</p>
-                                    <decoNote>Concertina binding. The front cover and back cover are bound with paper featuring blue and red coin patterns on a white background. The main painting on the right-hand page is made of white paper, while the accompanying composition on the left-hand page is made of brown paper. The title label is made of yellow paper with gold specks, showing signs of fading and stains.
+                                        Sepr 10th 1847</q>
+                        </note>
+                        <filiation xml:lang="zh">中國畫冊，中外孤本</filiation>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc form="冊">
+                        <supportDesc material="桑紙">
+                           <support>Silk <foreign xml:lang="zh">絹本。</foreign>
+                           </support>
+                           <extent>Fifteen folios, including twelve paintings. <foreign xml:lang="zh">一冊共十五開，本幅十二開，前副頁二開，后副頁一開。</foreign>
+                              <dimensions unit="cm" type="冊">
+                                 <height>34.6</height>
+                                 <width>23.7</width>
+                              </dimensions>
+                           </extent>
+                           <condition>The paper used for decoration on the cover is damaged. The paper glued to the front cover fell off halfway.</condition>
+                        </supportDesc>
+                     </objectDesc>
+                     <bindingDesc>
+                        <binding when="1800">
+                           <p xml:lang="zh" part="N">冊</p>
+                           <decoNote>Concertina binding. The front cover and back cover are bound with paper featuring blue and red coin patterns on a white background. The main painting on the right-hand page is made of white paper, while the accompanying composition on the left-hand page is made of brown paper. The title label is made of yellow paper with gold specks, showing signs of fading and stains.
                                         <foreign xml:lang="zh">畫冊，經摺裝，内含十二幅畫。封面和封底由白色底帶藍色紅色銅錢花紋的紙本裝裱。本幅畫心為白色紙本，對幅為畫心棕色紙本。題簽為黃色灑金紙本，有褪色和污跡。
                                         </foreign>
-                                    </decoNote>
-                                </binding>
-                            </bindingDesc>
-                        </physDesc>
-                    </msPart>
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <revisionDesc>
-            <change>
+                           </decoNote>
+                        </binding>
+                     </bindingDesc>
+                  </physDesc>
+               </msPart>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change status="draft">
                 <!-- insert relevant text, e.g. 'First online publication' -->
                 <!-- provide the date of the change using the @when attribute -->
             </change>
-        </revisionDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <p><!--Body paragraph provided for validation and future transcription--></p>
-        </body>
-    </text>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p part="N"><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
 </TEI>

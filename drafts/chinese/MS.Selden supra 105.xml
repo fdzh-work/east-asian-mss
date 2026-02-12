@@ -1,139 +1,131 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-
 <!-- use this template in cases where the manuscript is NOT composed of multiple codicological units. To avoid errors in the display of the record, be sure to delete elements that are not used. -->
-
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-    xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="manuscript_00000"><!-- insert the correct xmlid in the form manuscript_12345 -->
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>MS.Selden supra 105</title>
-                
-                <respStmt>
-                    <resp>Cataloguer</resp>
-                    <persName>Boya Zhang</persName>
-                </respStmt>
-                
-            </titleStmt>
-            <editionStmt>
-                <edition>TEI P5</edition>
-                <funder>HD Chung Fund</funder>
-            </editionStmt>
-            <publicationStmt>
-                <publisher>Special Collections, Bodleian Libraries</publisher>
-                <address>
-                    <orgName type="department">Special Collections</orgName>
-                    <orgName type="unit">Bodleian Libraries</orgName>
-                    <orgName type="institution">University of Oxford</orgName>
-                    <street>Weston Library, Broad Street</street>
-                    <settlement>Oxford</settlement>
-                    <postCode>OX1 3BG</postCode>
-                    <country>United Kingdom</country>
-                </address>
-                <distributor>
-                    <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
-                </distributor>
-                <idno type="msID"><!-- insert normalized form of shelfmark --></idno>
-                <idno type="collection"><!-- insert normalized form of collection --></idno>
-                <idno type="catalogue"><!-- insert catalogue ID --></idno>
-            </publicationStmt>
-            <sourceDesc>
-                <msDesc xml:lang="en"><!-- optionally provide xmlid should as a normalized form of the shelfmark, e.g. Merton_College_MS_10 -->
-                    <msIdentifier>
-                        <settlement><!-- insert --></settlement>
-                        <repository>Bodleian Library</repository><!-- change if necessary -->
-                        <idno type="shelfmark">MS.Selden supra 105</idno>
-                    
-                        
-                    </msIdentifier>
-                    
-                    <msContents>
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xml:id="manuscript_00000"><!-- insert the correct xmlid in the form manuscript_12345 -->
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>MS.Selden supra 105</title>
+            <respStmt>
+               <resp>Cataloguer</resp>
+               <persName instant="false" full="yes">Boya Zhang</persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>TEI P5</edition>
+            <funder>HD Chung Fund</funder>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Special Collections, Bodleian Libraries</publisher>
+            <address>
+               <orgName type="department" instant="false" full="yes">Special Collections</orgName>
+               <orgName type="unit" instant="false" full="yes">Bodleian Libraries</orgName>
+               <orgName type="institution" instant="false" full="yes">University of Oxford</orgName>
+               <street>Weston Library, Broad Street</street>
+               <settlement>Oxford</settlement>
+               <postCode>OX1 3BG</postCode>
+               <country>United Kingdom</country>
+            </address>
+            <distributor>
+               <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+            </distributor>
+            <idno type="msID"><!-- insert normalized form of shelfmark --></idno>
+            <idno type="collection"><!-- insert normalized form of collection --></idno>
+            <idno type="catalogue"><!-- insert catalogue ID --></idno>
+         </publicationStmt>
+         <sourceDesc default="false">
+            <msDesc xml:lang="en" status="draft"><!-- optionally provide xmlid should as a normalized form of the shelfmark, e.g. Merton_College_MS_10 -->
+               <msIdentifier>
+                  <settlement><!-- insert --></settlement>
+                  <repository>Bodleian Library</repository>
+                  <!-- change if necessary -->
+                  <idno type="shelfmark">MS.Selden supra 105</idno>
+               </msIdentifier>
+               <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary><!--  --></summary>
-                        <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
-                        
-                        <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
+                  <summary><!--  --></summary>
+                  <textLang mainLang="zh">Chinese</textLang>
+                  <!-- change text and attribute if necessary -->
+                  <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
-                            <locus><!-- insert --></locus>
-                            <title key="">東西洋航海圖</title>
-                            <title>The Selden Map of China</title>
-                            
-                            <filiation>中外孤本 only surviving copy</filiation>
-                            
-                        </msItem>
-                        <!-- insert further msItem elements as appropriate -->
-                    </msContents>
-                    <physDesc>
-                        
-                        <objectDesc form="包背裝"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
-                            <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                                <support>mulberry and bamboo mixed paper</support>
-                                <extent>1 leaf
+                     <locus><!-- insert --></locus>
+                     <title key="">東西洋航海圖</title>
+                     <title>The Selden Map of China</title>
+                     <filiation>中外孤本 only surviving copy</filiation>
+                  </msItem>
+                  <!-- insert further msItem elements as appropriate -->
+               </msContents>
+               <physDesc>
+                  <objectDesc form="包背裝"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
+                     <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
+                        <support>mulberry and bamboo mixed paper</support>
+                        <extent>1 leaf
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
                         https://git.io/msdescdoc#leafDimensions
-                        -->                           <height>100</height>
-                                        <width>160</width>
-                                    </dimensions>
-                                    <!-- use additional dimensions elements if necessary -->
-                                </extent>
-                                
-                                <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
-                            </supportDesc>
-                            <layoutDesc>
-                                <layout>全彩手繪，純手工繪製，以楷書標注105個地名，地理範圍涵蓋當今日本、朝鮮半島、東南亞及部分印度。中國大陸未置於地圖中央，而是左上角，這一點是與一般中國古地圖的最明顯區別，由此推斷可能為馬尼拉的海外華商製造。</layout>
-                                <!-- use additional layout elements if necessary 
+                        -->
+                              <height>100</height>
+                              <width>160</width>
+                           </dimensions>
+                           <!-- use additional dimensions elements if necessary -->
+                        </extent>
+                        <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>全彩手繪，純手工繪製，以楷書標注105個地名，地理範圍涵蓋當今日本、朝鮮半島、東南亞及部分印度。中國大陸未置於地圖中央，而是左上角，這一點是與一般中國古地圖的最明顯區別，由此推斷可能為馬尼拉的海外華商製造。</layout>
+                        <!-- use additional layout elements if necessary 
                         https://git.io/msdescdoc#layoutdesc-->
-                            </layoutDesc>
-                        </objectDesc>
-                        
-                        <handDesc><!-- use the @hands attribute to record the number of scribes -->
-                            <handNote>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc><!-- use the @hands attribute to record the number of scribes -->
+                     <handNote>
                                 Text written in 楷體 (kai shu, regular) calligraphic style</handNote>
-                            <!-- use additional handNote elements if necessary 
+                     <!-- use additional handNote elements if necessary 
                      https://git.io/msdescdoc#handdesc
                      -->
-                        </handDesc>
-                       
-                        <decoDesc>
-                            <decoNote>
+                  </handDesc>
+                  <decoDesc>
+                     <decoNote>
                                painted with watercolours and ink on Chinese paper.</decoNote>
-                            <!-- use additional decoNote elements if necessary 
+                     <!-- use additional decoNote elements if necessary 
                      https://git.io/msdescdoc#decodesc
                      -->
-                        </decoDesc>
-                        
-                        <additions>
-                            <p>  Has traces of a Siku quanshu form. As shown in the Yuan Tongli's list, Zhang Chenshi's list and reproduction in the 1960/84 Zhonghua Shuju reprint.</p>
-                        </additions>
-                        <bindingDesc>
-                            <binding when="1500"><!-- use dating attributes to record the date -->
-                                <p>單頁</p>
-                                <decoNote><!-- insert relevant information, otherwise delete --></decoNote>
-                            </binding>
-                        </bindingDesc>
-                        <accMat>
+                  </decoDesc>
+                  <additions>
+                     <p part="N">  Has traces of a Siku quanshu form. As shown in the Yuan Tongli's list, Zhang Chenshi's list and reproduction in the 1960/84 Zhonghua Shuju reprint.</p>
+                  </additions>
+                  <bindingDesc>
+                     <binding when="1500"><!-- use dating attributes to record the date -->
+                        <p part="N">單頁</p>
+                        <decoNote><!-- insert relevant information, otherwise delete --></decoNote>
+                     </binding>
+                  </bindingDesc>
+                  <accMat>
                             <!-- insert if relevant, otherwise delete 
                      https://git.io/msdescdoc#accMat          
                      -->
                         </accMat>
-                    </physDesc>
-                    <history>
+               </physDesc>
+               <history>
                         <!-- see https://git.io/msdescdoc#history -->
-                        <origin>
+                  <origin instant="false">
                             <!-- see https://git.io/msdescdoc#origin -->
-                            <origPlace>
-                                <country>China</country>,
+                     <origPlace instant="false">
+                        <country>China</country>,
                                 <region><!-- insert --></region>,
                                 <settlement><!-- insert --></settlement>,
-                                <orgName><!-- insert --></orgName>
-                            </origPlace>
-                            <origDate notAfter="1700" notBefore="1600" calendar="Gregorian">天啓元年-崇禎三年之間[1620-1629]</origDate>
-                            <!-- use additional origPlace and origDate elements if necessary -->
-                        </origin>
-                        <provenance>
+                                <orgName instant="false" full="yes"><!-- insert --></orgName>
+                     </origPlace>
+                     <origDate notAfter="1700"
+                               notBefore="1600"
+                               calendar="Gregorian"
+                               instant="false">天啓元年-崇禎三年之間[1620-1629]</origDate>
+                     <!-- use additional origPlace and origDate elements if necessary -->
+                  </origin>
+                  <provenance>
                             The Selden Map of China, painted with watercolours and ink on Chinese paper, 
                             is a unique example of Chinese merchant cartography depicting a network of 
                             shipping routes starting from the port of Quanzhou, Fujian province, and reaching
@@ -145,49 +137,45 @@
                             a Jesuit convert visiting from Nanking, who had been invited to assist cataloguing 
                             the library’s Chinese books.
                         </provenance>
-                        <!-- use additional provenance elements if necessary -->
-                        <acquisition>
+                  <!-- use additional provenance elements if necessary -->
+                  <acquisition>
                             The map is mentioned in the 1653 will of John Selden and became part of Bodleian's collection in 1659.
-                            <date>1659</date><!-- use dating attributes where possible -->
-                        </acquisition>
-                    </history>
-                    <additional>
-                        <adminInfo>
-                            <recordHist>
-                                <source>
+                            <date instant="false">1659</date>
+                     <!-- use dating attributes where possible -->
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
                                     <!-- insert prose here; see https://git.io/msdescdoc#recordHist -->
-                                    <bibl><!-- insert if necesary, otherwise delete --></bibl>
-                                    <!-- links to digitized catalogues may also be provide here, e.g.: -->
-                                    <!--<listBibl>
+                           <bibl default="false" status="draft"><!-- insert if necesary, otherwise delete --></bibl>
+                           <!-- links to digitized catalogues may also be provide here, e.g.: -->
+                           <!--<listBibl>
                               <bibl type="SC" facs="aas0046.gif">Summary Catalogue, Vol. 3, p.  31</bibl>
                            </listBibl>-->
-                                </source>
-                            </recordHist>
-                        </adminInfo>
-                        <listBibl>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+                  <listBibl default="false">
                             <!-- a number of listBibl elements can be nested inside an outer listBibl if required -->
-                            <head><!-- use to provide a heading if required, otherwise delete --></head>
-                            <bibl><!-- insert bibliography, links to online resource, etc., otherwise delete--></bibl>
-                            
-                        </listBibl>
-                    </additional>
-                    
-                    
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <revisionDesc>
-            <change>
+                     <head><!-- use to provide a heading if required, otherwise delete --></head>
+                     <bibl default="false" status="draft"><!-- insert bibliography, links to online resource, etc., otherwise delete--></bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change status="draft">
                 <!-- insert relevant text, e.g. 'First online publication' -->
                 <!-- provide the date of the change using the @when attribute -->
             </change>
-        </revisionDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <p><!--Body paragraph provided for validation and future transcription--></p>
-        </body>
-    </text>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p part="N"><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
 </TEI>
-
-

@@ -1,86 +1,84 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-
 <!-- use this template in cases where the manuscript is NOT composed of multiple codicological units. To avoid errors in the display of the record, be sure to delete elements that are not used. -->
-
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-    xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="manuscript_00000"><!-- insert the correct xmlid in the form manuscript_12345 -->
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>MS.Chin.c.17</title>
-                
-                <respStmt>
-                    <resp>Cataloguer</resp>
-                    <persName>Boya Zhang</persName>
-                </respStmt>
-                
-            </titleStmt>
-            <editionStmt>
-                <edition>TEI P5</edition>
-                <funder>HD Chung Fund</funder>
-            </editionStmt>
-            <publicationStmt>
-                <publisher>Special Collections, Bodleian Libraries</publisher>
-                <address>
-                    <orgName type="department">Special Collections</orgName>
-                    <orgName type="unit">Bodleian Libraries</orgName>
-                    <orgName type="institution">University of Oxford</orgName>
-                    <street>Weston Library, Broad Street</street>
-                    <settlement>Oxford</settlement>
-                    <postCode>OX1 3BG</postCode>
-                    <country>United Kingdom</country>
-                </address>
-                <distributor>
-                    <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
-                </distributor>
-                <idno type="msID"><!-- insert normalized form of shelfmark --></idno>
-                <idno type="collection"><!-- insert normalized form of collection --></idno>
-                <idno type="catalogue"><!-- insert catalogue ID --></idno>
-            </publicationStmt>
-            <sourceDesc>
-                <msDesc xml:lang="en"><!-- optionally provide xmlid should as a normalized form of the shelfmark, e.g. Merton_College_MS_10 -->
-                    <msIdentifier>
-                        <settlement><!-- insert --></settlement>
-                        <repository>Bodleian Library</repository><!-- change if necessary -->
-                        <idno type="shelfmark">MS.Chin.c.17</idno>
-                        
-                        
-                    </msIdentifier>
-                    
-                    <msContents>
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xml:id="manuscript_00000"><!-- insert the correct xmlid in the form manuscript_12345 -->
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>MS.Chin.c.17</title>
+            <respStmt>
+               <resp>Cataloguer</resp>
+               <persName instant="false" full="yes">Boya Zhang</persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>TEI P5</edition>
+            <funder>HD Chung Fund</funder>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Special Collections, Bodleian Libraries</publisher>
+            <address>
+               <orgName type="department" instant="false" full="yes">Special Collections</orgName>
+               <orgName type="unit" instant="false" full="yes">Bodleian Libraries</orgName>
+               <orgName type="institution" instant="false" full="yes">University of Oxford</orgName>
+               <street>Weston Library, Broad Street</street>
+               <settlement>Oxford</settlement>
+               <postCode>OX1 3BG</postCode>
+               <country>United Kingdom</country>
+            </address>
+            <distributor>
+               <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+            </distributor>
+            <idno type="msID"><!-- insert normalized form of shelfmark --></idno>
+            <idno type="collection"><!-- insert normalized form of collection --></idno>
+            <idno type="catalogue"><!-- insert catalogue ID --></idno>
+         </publicationStmt>
+         <sourceDesc default="false">
+            <msDesc xml:lang="en" status="draft"><!-- optionally provide xmlid should as a normalized form of the shelfmark, e.g. Merton_College_MS_10 -->
+               <msIdentifier>
+                  <settlement><!-- insert --></settlement>
+                  <repository>Bodleian Library</repository>
+                  <!-- change if necessary -->
+                  <idno type="shelfmark">MS.Chin.c.17</idno>
+               </msIdentifier>
+               <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>An album comprises 12 Chinese export paintings of people dressing in Manchu costume.
-                            The paintings were created by <persName>Chowkwa, Painter and Copier of Charts</persName> in Canton during the Qing dynasty.</summary>
-                        <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
-                        
-                        <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
+                  <summary>An album comprises 12 Chinese export paintings of people dressing in Manchu costume.
+                            The paintings were created by <persName instant="false" full="yes">Chowkwa, Painter and Copier of Charts</persName> in Canton during the Qing dynasty.</summary>
+                  <textLang mainLang="zh">Chinese</textLang>
+                  <!-- change text and attribute if necessary -->
+                  <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
-                            <title>Twelve paintings of figures by a Cantonese</title>
-                            <title key="desc">An album of twelve Chinese export paintings of figures in costumes.
+                     <title>Twelve paintings of figures by a Cantonese</title>
+                     <title key="desc">An album of twelve Chinese export paintings of figures in costumes.
                                               清代外銷畫人物朝服十二幅 冊</title>
-                            <author key="_chowkwa">        
-                                <persName>Chowkwa, Painter and Copier of Charts</persName>
-                            </author>
-                            <note><locus>Inside of Upper Board</locus><q>Chowkwa, Painter and Copier of Charts</q></note>
-                            <note><locus>Inside of Upper Board</locus><q>S.C.33022</q></note>
-                            <note><locus>Inside of Upper Board</locus>Unrecognized scripts could be Bengali.</note>
-                           
-
-                            <filiation>Chinese export paintings are usually produced in large quantity,
+                     <author key="_chowkwa">
+                        <persName instant="false" full="yes">Chowkwa, Painter and Copier of Charts</persName>
+                     </author>
+                     <note anchored="true">
+                        <locus>Inside of Upper Board</locus>
+                        <q>Chowkwa, Painter and Copier of Charts</q>
+                     </note>
+                     <note anchored="true">
+                        <locus>Inside of Upper Board</locus>
+                        <q>S.C.33022</q>
+                     </note>
+                     <note anchored="true">
+                        <locus>Inside of Upper Board</locus>Unrecognized scripts could be Bengali.</note>
+                     <filiation>Chinese export paintings are usually produced in large quantity,
                                        therefore, there may be other existing copies.
-                                       外銷畫，多為批量生產，可能多有存世。</filiation>  
-                        </msItem>
-                        <!-- insert further msItem elements as appropriate --> 
-                        
-                    </msContents>
-                    <physDesc>
-                        
-                        <objectDesc form="冊"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
-                            <supportDesc material="通草紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                                <support>pith paper</support>
-                                <extent>Fourteen folios, including twelve paintings. 
+                                       外銷畫，多為批量生產，可能多有存世。</filiation>
+                  </msItem>
+                  <!-- insert further msItem elements as appropriate -->
+               </msContents>
+               <physDesc>
+                  <objectDesc form="冊"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
+                     <supportDesc material="通草紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
+                        <support>pith paper</support>
+                        <extent>Fourteen folios, including twelve paintings. 
                                         一冊共十四頁，包含十二幅畫。
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
@@ -88,111 +86,110 @@
                         -->                           <!-- <height></height> -->
                                         <!-- <width></width> -->
                                     </dimensions>
-                                    <!-- use additional dimensions elements if necessary -->
-                                </extent>
-                                
-                                <condition>The paper attached to the inside upper cover shows signs of tearing. 
+                           <!-- use additional dimensions elements if necessary -->
+                        </extent>
+                        <condition>The paper attached to the inside upper cover shows signs of tearing. 
                                            Several pages of supporting paper exhibit stains and watermarks. 
                                            Some paintings also display signs of damage.<!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
-                            </supportDesc>
-                            <layoutDesc>
-                                <layout></layout>
-                                
-                            </layoutDesc>
-                            
-                        </objectDesc>
-                        
-                        <handDesc><handNote>
-                            Watercolour 水彩畫</handNote><!-- use the @hands attribute to record the number of scribes -->
-                            <!-- <handNote> </handNote> --> 
-                            <!-- use additional handNote elements if necessary 
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout/>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote>
+                            Watercolour 水彩畫</handNote>
+                     <!-- use the @hands attribute to record the number of scribes -->
+                     <!-- <handNote> </handNote> -->
+                     <!-- use additional handNote elements if necessary 
                      https://git.io/msdescdoc#handdesc
                      -->
-                        </handDesc>
-                        
-                        <decoDesc>
-                            <decoNote>
+                  </handDesc>
+                  <decoDesc>
+                     <decoNote>
                             </decoNote>
-                            <!-- use additional decoNote elements if necessary 
+                     <!-- use additional decoNote elements if necessary 
                      https://git.io/msdescdoc#decodesc
                      -->
-                        </decoDesc>
-                        
-                        <bindingDesc>
-                            <binding when="1800"><!-- use dating attributes to record the date -->
-                                <p>冊</p>
-                                <decoNote>This album contains twelve paintings. The cover and back cover are mounted with yellow silk fabric featuring red, pink, blue, and green patterns. The painting core is framed with green striped silk fabric on white paper. The cover and back cover are encased in a book cover made of black waterproof fabric.
+                  </decoDesc>
+                  <bindingDesc>
+                     <binding when="1800"><!-- use dating attributes to record the date -->
+                        <p part="N">冊</p>
+                        <decoNote>This album contains twelve paintings. The cover and back cover are mounted with yellow silk fabric featuring red, pink, blue, and green patterns. The painting core is framed with green striped silk fabric on white paper. The cover and back cover are encased in a book cover made of black waterproof fabric.
                                     畫冊，内含十二幅畫。封面和封底由黃色帶有紅、粉、藍、綠四色花紋的絲織物裝裱，
                                           畫心由綠色條狀絲織物為框裝裱在白色紙本上。封面和封底上包有用黑色防水織物製作的書皮。</decoNote>
-                            </binding>
-                        </bindingDesc>
-                        <accMat>
+                     </binding>
+                  </bindingDesc>
+                  <accMat>
                             <!-- insert if relevant, otherwise delete 
                      https://git.io/msdescdoc#accMat          
                      -->
                         </accMat>
-                    </physDesc>
-                    <history>
+               </physDesc>
+               <history>
                         <!-- see https://git.io/msdescdoc#history -->
-                        <origin>
+                  <origin instant="false">
                             <!-- see https://git.io/msdescdoc#origin -->
-                            <origPlace>
-                                <country>China</country>,
+                     <origPlace instant="false">
+                        <country>China</country>,
                                 <region>Canton</region>,
                                 <settlement><!-- insert --></settlement>,
-                                <orgName><!-- insert --></orgName>
-                            </origPlace>
-                            <origDate notAfter="1900" notBefore="1700" calendar="Gregorian">清代</origDate>
-                            <!-- use additional origPlace and origDate elements if necessary -->
-                        </origin>
-                        <provenance>On the inside of upper cover, a seal in red colour is found, showing Chowkwa Painter and Copier of Charts, indicating the painter.
+                                <orgName instant="false" full="yes"><!-- insert --></orgName>
+                     </origPlace>
+                     <origDate notAfter="1900"
+                               notBefore="1700"
+                               calendar="Gregorian"
+                               instant="false">清代</origDate>
+                     <!-- use additional origPlace and origDate elements if necessary -->
+                  </origin>
+                  <provenance>On the inside of upper cover, a seal in red colour is found, showing Chowkwa Painter and Copier of Charts, indicating the painter.
                             Previous shelfmark: S.C.33022 (as indicated on the inside upper cover)</provenance>
-                        
-                        
-                        <!-- use additional provenance elements if necessary -->
-                        <acquisition>Acquired in 1901 </acquisition>
-                    </history>
-                    <additional>
-                        <adminInfo>
-                            <recordHist>
-                                <source>
+                  <!-- use additional provenance elements if necessary -->
+                  <acquisition>Acquired in 1901 </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
                                     <!-- insert prose here; see https://git.io/msdescdoc#recordHist -->
-                                    <bibl><!-- insert if necesary, otherwise delete --></bibl>
-                                    <!-- links to digitized catalogues may also be provide here, e.g.: -->
-                                    <!--<listBibl>
+                           <bibl default="false" status="draft"><!-- insert if necesary, otherwise delete --></bibl>
+                           <!-- links to digitized catalogues may also be provide here, e.g.: -->
+                           <!--<listBibl>
                               <bibl type="SC" facs="aas0046.gif">Summary Catalogue, Vol. 3, p.  31</bibl>
                            </listBibl>-->
-                                </source>
-                            </recordHist>
-                        </adminInfo>
-                        <surrogates>
-                            <bibl type="digital-facsimile" subtype="full">
-                                <ref target="https://digital.bodleian.ox.ac.uk/objects/6cd2b865-0f9a-4e0e-832b-e4e53d05399a/">
-                                    <title>Digital Bodleian</title></ref> <note>(full digital facsimile)</note>
-                            </bibl>
-                        </surrogates>
-                        <listBibl>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+                  <surrogates>
+                     <bibl type="digital-facsimile"
+                           subtype="full"
+                           default="false"
+                           status="draft">
+                        <ref target="https://digital.bodleian.ox.ac.uk/objects/6cd2b865-0f9a-4e0e-832b-e4e53d05399a/">
+                           <title>Digital Bodleian</title>
+                        </ref>
+                        <note anchored="true">(full digital facsimile)</note>
+                     </bibl>
+                  </surrogates>
+                  <listBibl default="false">
                             <!-- a number of listBibl elements can be nested inside an outer listBibl if required -->
-                            <head><!-- use to provide a heading if required, otherwise delete --></head>
-                            <bibl><!-- insert bibliography, links to online resource, etc., otherwise delete--></bibl>
-                            
-                        </listBibl>
-                    </additional>
-                    
-                    
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <revisionDesc>
-            <change>
+                     <head><!-- use to provide a heading if required, otherwise delete --></head>
+                     <bibl default="false" status="draft"><!-- insert bibliography, links to online resource, etc., otherwise delete--></bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change status="draft">
                 <!-- insert relevant text, e.g. 'First online publication' -->
                 <!-- provide the date of the change using the @when attribute -->
             </change>
-        </revisionDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <p><!--Body paragraph provided for validation and future transcription--></p>
-        </body>
-    </text>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p part="N"><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
 </TEI>

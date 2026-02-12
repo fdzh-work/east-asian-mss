@@ -1,139 +1,194 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-
 <!-- use this template in cases where the manuscript is NOT composed of multiple codicological units. To avoid errors in the display of the record, be sure to delete elements that are not used. -->
-
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-    xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="manuscript_00000"><!-- insert the correct xmlid in the form manuscript_12345 -->
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>MS.Chin.d.8</title>
-                
-                <respStmt>
-                    <resp>Cataloguer</resp>
-                    <persName>Boya Zhang</persName>
-                </respStmt>
-                
-            </titleStmt>
-            <editionStmt>
-                <edition>TEI P5</edition>
-                <funder>HD Chung Fund</funder>
-            </editionStmt>
-            <publicationStmt>
-                <publisher>Special Collections, Bodleian Libraries</publisher>
-                <address>
-                    <orgName type="department">Special Collections</orgName>
-                    <orgName type="unit">Bodleian Libraries</orgName>
-                    <orgName type="institution">University of Oxford</orgName>
-                    <street>Weston Library, Broad Street</street>
-                    <settlement>Oxford</settlement>
-                    <postCode>OX1 3BG</postCode>
-                    <country>United Kingdom</country>
-                </address>
-                <distributor>
-                    <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
-                </distributor>
-                <idno type="msID"><!-- insert normalized form of shelfmark --></idno>
-                <idno type="collection"><!-- insert normalized form of collection --></idno>
-                <idno type="catalogue"><!-- insert catalogue ID --></idno>
-            </publicationStmt>
-            <sourceDesc>
-                <msDesc xml:lang="en"><!-- optionally provide xmlid should as a normalized form of the shelfmark, e.g. Merton_College_MS_10 -->
-                    <msIdentifier>
-                        <settlement><!-- insert --></settlement>
-                        <repository>Bodleian Library</repository><!-- change if necessary -->
-                        <idno type="shelfmark">MS.Chin.d.8</idno>                       
-                        
-                    </msIdentifier>
-                    
-                    <msContents>
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xml:id="manuscript_00000"><!-- insert the correct xmlid in the form manuscript_12345 -->
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>MS.Chin.d.8</title>
+            <respStmt>
+               <resp>Cataloguer</resp>
+               <persName instant="false" full="yes">Boya Zhang</persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>TEI P5</edition>
+            <funder>HD Chung Fund</funder>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Special Collections, Bodleian Libraries</publisher>
+            <address>
+               <orgName type="department" instant="false" full="yes">Special Collections</orgName>
+               <orgName type="unit" instant="false" full="yes">Bodleian Libraries</orgName>
+               <orgName type="institution" instant="false" full="yes">University of Oxford</orgName>
+               <street>Weston Library, Broad Street</street>
+               <settlement>Oxford</settlement>
+               <postCode>OX1 3BG</postCode>
+               <country>United Kingdom</country>
+            </address>
+            <distributor>
+               <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+            </distributor>
+            <idno type="msID"><!-- insert normalized form of shelfmark --></idno>
+            <idno type="collection"><!-- insert normalized form of collection --></idno>
+            <idno type="catalogue"><!-- insert catalogue ID --></idno>
+         </publicationStmt>
+         <sourceDesc default="false">
+            <msDesc xml:lang="en" status="draft"><!-- optionally provide xmlid should as a normalized form of the shelfmark, e.g. Merton_College_MS_10 -->
+               <msIdentifier>
+                  <settlement><!-- insert --></settlement>
+                  <repository>Bodleian Library</repository>
+                  <!-- change if necessary -->
+                  <idno type="shelfmark">MS.Chin.d.8</idno>
+               </msIdentifier>
+               <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        
-                        <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
-                        
-                        <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
+                  <textLang mainLang="zh">Chinese</textLang>
+                  <!-- change text and attribute if necessary -->
+                  <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
-                            <title>清人菩提葉佛教聖者圖二十二幅 冊</title>
-                            <title key="supplied title">Twenty-two drawings of Buddhist saints on leaves of sacred fig</title>
-                            <author key="Chinese">佚名</author>
-                            <note><locus>p.1</locus><q>觀音大士法號圓通,發十二大願誓宏淵。幽冥普渡救盡衆生，必爲赤子功德無量。</q></note>
-                           
-                            <note><locus>p.2</locus><q>韋陀天將菩薩化身 ，護佛法誓閎深寳杆。鎮魔金甲常披千功，德難論杆禱別群心。</q></note>
-                            <note><locus>p.3</locus><q>園笠息肩函蓋戈切，放下布袋使等自在。有相無相流水行啻，痌瘝在抱人我同群。</q></note>
-                            <note><locus>p.4</locus><q>菴羅樹下袒背行板，不倩展爪痌瘝自知。猴姓霛明戲托展跪，相視而笑有鼓無類。</q></note>
-                            <note><locus>p.5</locus><q>園鉢在地叺餌引雀，佛無機心欣有所托。天定云遠與物使爭，不貪為寳為飛宴冥。</q></note>
-                            <note><locus>p.6</locus><q>罕堵尺【】熙焚鬼首，三千大子納物已久。或問佛法彈指即【】，不聞心【叡】聞獅不吼。</q></note>
-                            <note><locus>p.7</locus><q>三脫水田衣著明光,鑑聃耳澤鼻古猊異。鄒厚旋威霛不可測，思俊猊神獸如大玄。</q></note>
-                            <note><locus>p.8</locus><q>皎若龝月藹如春云，昊壽聖相修然逸群。寬衣坐裳指上添籌，觸處的機不需百拜。</q></note>
-                            <note><locus>p.9 </locus><q>裏經東去雙履西來，心慈貌狠智網恢恢。詞發【崐】風生廣禪【】，自在遨游非朊非傳。</q></note>
-                            <note><locus>p.10 </locus><q>[]毛拂【】兩手握空，人有道心物【】佛性。水流后響風過萼香，是一是弍物我相【】。</q></note>
-                            <note><locus>p.11</locus><q>【昊】菩薩心現鬼王面，飛鐃游戲直破雲【煙】。到處行脚天半山顛，萼開有色水流【】【聲】。</q></note>
-                            <note><locus>p.12 </locus><q>無始【】來空空色相，【】杖逰行飛扇上方。祗陀為龕須彌【】友。性壽無量萬【仞】不朽。</q></note>
-                            <note><locus>p.13 </locus><q>心不是心佛不是佛，坦【懷】相示即心即佛。【】【】河裡稻在田頭，拜佛莫去騎牛覓牛。</q></note>
-                            <note><locus>P.14 </locus><q>袒【】危【坐】百納補衣，【納】紉密綴道心惟徹，笑指童蒙引缐【有】【路】，昊正法眼】針【剋】度。</q></note>
-                            <note><locus>p.15 </locus><q>束經不觀持珠不念，【】拂搔背情怡神殮。聽衆牖閉屬坎不【】，需音遠布吾【】知之。</q></note>
-                            <note><locus>p.16</locus><q>項挂大珠手持長拂，欲求真詮話他穿握。仕途手中佛在【佇】處，一【落】語空滿天萼絮。</q></note>
-                            <note><locus>P.17</locus><q>跣坐蒲團手執靈芝，現清净【】吐廣長舌。明月滿天松影在【】，放大光明三十弍義。</q></note>
-                            <note><locus>p.18</locus><q>飛鈸於空行無【】碍，離而合之游戲三昧。智者神通無可不【】，萬慮具息何事干我。</q></note>
-                            <note><locus>P.19 </locus><q>振錫參禪明珠在手，欲制毒龍雷鳴電走。維龍念珠心為珠餌，蝘蜒視之直【】兒戲。</q></note>
-                            <note><locus>p.20</locus><q>軒者瞠目威振伏【】，猛【】濟慈揮臂疾呼，是菩薩心昊英雄膽，外道邪魔凜不敢犯。</q></note>
-                            <note><locus>p.21</locus><q>[]白之性孝友之仁，紀行本來藍生有芬，克岐【】北綏御有勛，利器不觀【】不出淵。</q></note>
-                            <note><locus>p.22</locus><q>大道【橆】名【】德不德，立功潛運機深莫測。鑿井而飲【耕】田而食，靡謝天功安知齊力。</q></note>
-                            <filiation>An album of Chinese paintings, only surviving copy.
-                                中國畫畫冊，中外孤本</filiation>  
-                        </msItem>
-                        <!-- insert further msItem elements as appropriate --> 
-                        
-                    </msContents>
-                    <physDesc>
-                        
-                        <objectDesc form="冊"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
-                            <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                                <support>mulberry and bamboo mixed paper</support>
-                                <extent>twenty two folios, including twenty two paintings. 
+                     <title>清人菩提葉佛教聖者圖二十二幅 冊</title>
+                     <title key="supplied title">Twenty-two drawings of Buddhist saints on leaves of sacred fig</title>
+                     <author key="Chinese">佚名</author>
+                     <note anchored="true">
+                        <locus>p.1</locus>
+                        <q>觀音大士法號圓通,發十二大願誓宏淵。幽冥普渡救盡衆生，必爲赤子功德無量。</q>
+                     </note>
+                     <note anchored="true">
+                        <locus>p.2</locus>
+                        <q>韋陀天將菩薩化身 ，護佛法誓閎深寳杆。鎮魔金甲常披千功，德難論杆禱別群心。</q>
+                     </note>
+                     <note anchored="true">
+                        <locus>p.3</locus>
+                        <q>園笠息肩函蓋戈切，放下布袋使等自在。有相無相流水行啻，痌瘝在抱人我同群。</q>
+                     </note>
+                     <note anchored="true">
+                        <locus>p.4</locus>
+                        <q>菴羅樹下袒背行板，不倩展爪痌瘝自知。猴姓霛明戲托展跪，相視而笑有鼓無類。</q>
+                     </note>
+                     <note anchored="true">
+                        <locus>p.5</locus>
+                        <q>園鉢在地叺餌引雀，佛無機心欣有所托。天定云遠與物使爭，不貪為寳為飛宴冥。</q>
+                     </note>
+                     <note anchored="true">
+                        <locus>p.6</locus>
+                        <q>罕堵尺【】熙焚鬼首，三千大子納物已久。或問佛法彈指即【】，不聞心【叡】聞獅不吼。</q>
+                     </note>
+                     <note anchored="true">
+                        <locus>p.7</locus>
+                        <q>三脫水田衣著明光,鑑聃耳澤鼻古猊異。鄒厚旋威霛不可測，思俊猊神獸如大玄。</q>
+                     </note>
+                     <note anchored="true">
+                        <locus>p.8</locus>
+                        <q>皎若龝月藹如春云，昊壽聖相修然逸群。寬衣坐裳指上添籌，觸處的機不需百拜。</q>
+                     </note>
+                     <note anchored="true">
+                        <locus>p.9 </locus>
+                        <q>裏經東去雙履西來，心慈貌狠智網恢恢。詞發【崐】風生廣禪【】，自在遨游非朊非傳。</q>
+                     </note>
+                     <note anchored="true">
+                        <locus>p.10 </locus>
+                        <q>[]毛拂【】兩手握空，人有道心物【】佛性。水流后響風過萼香，是一是弍物我相【】。</q>
+                     </note>
+                     <note anchored="true">
+                        <locus>p.11</locus>
+                        <q>【昊】菩薩心現鬼王面，飛鐃游戲直破雲【煙】。到處行脚天半山顛，萼開有色水流【】【聲】。</q>
+                     </note>
+                     <note anchored="true">
+                        <locus>p.12 </locus>
+                        <q>無始【】來空空色相，【】杖逰行飛扇上方。祗陀為龕須彌【】友。性壽無量萬【仞】不朽。</q>
+                     </note>
+                     <note anchored="true">
+                        <locus>p.13 </locus>
+                        <q>心不是心佛不是佛，坦【懷】相示即心即佛。【】【】河裡稻在田頭，拜佛莫去騎牛覓牛。</q>
+                     </note>
+                     <note anchored="true">
+                        <locus>P.14 </locus>
+                        <q>袒【】危【坐】百納補衣，【納】紉密綴道心惟徹，笑指童蒙引缐【有】【路】，昊正法眼】針【剋】度。</q>
+                     </note>
+                     <note anchored="true">
+                        <locus>p.15 </locus>
+                        <q>束經不觀持珠不念，【】拂搔背情怡神殮。聽衆牖閉屬坎不【】，需音遠布吾【】知之。</q>
+                     </note>
+                     <note anchored="true">
+                        <locus>p.16</locus>
+                        <q>項挂大珠手持長拂，欲求真詮話他穿握。仕途手中佛在【佇】處，一【落】語空滿天萼絮。</q>
+                     </note>
+                     <note anchored="true">
+                        <locus>P.17</locus>
+                        <q>跣坐蒲團手執靈芝，現清净【】吐廣長舌。明月滿天松影在【】，放大光明三十弍義。</q>
+                     </note>
+                     <note anchored="true">
+                        <locus>p.18</locus>
+                        <q>飛鈸於空行無【】碍，離而合之游戲三昧。智者神通無可不【】，萬慮具息何事干我。</q>
+                     </note>
+                     <note anchored="true">
+                        <locus>P.19 </locus>
+                        <q>振錫參禪明珠在手，欲制毒龍雷鳴電走。維龍念珠心為珠餌，蝘蜒視之直【】兒戲。</q>
+                     </note>
+                     <note anchored="true">
+                        <locus>p.20</locus>
+                        <q>軒者瞠目威振伏【】，猛【】濟慈揮臂疾呼，是菩薩心昊英雄膽，外道邪魔凜不敢犯。</q>
+                     </note>
+                     <note anchored="true">
+                        <locus>p.21</locus>
+                        <q>[]白之性孝友之仁，紀行本來藍生有芬，克岐【】北綏御有勛，利器不觀【】不出淵。</q>
+                     </note>
+                     <note anchored="true">
+                        <locus>p.22</locus>
+                        <q>大道【橆】名【】德不德，立功潛運機深莫測。鑿井而飲【耕】田而食，靡謝天功安知齊力。</q>
+                     </note>
+                     <filiation>An album of Chinese paintings, only surviving copy.
+                                中國畫畫冊，中外孤本</filiation>
+                  </msItem>
+                  <!-- insert further msItem elements as appropriate -->
+               </msContents>
+               <physDesc>
+                  <objectDesc form="冊"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
+                     <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
+                        <support>mulberry and bamboo mixed paper</support>
+                        <extent>twenty two folios, including twenty two paintings. 
                                     一冊共二十六開，本幅二十二幅，前副頁和后副頁各二開二幅。
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
                         https://git.io/msdescdoc#leafDimensions
-                        -->                            <height>29.2 cm</height>
-                                        <width>19 cm</width>
-                                    </dimensions>
-                                    <!-- use additional dimensions elements if necessary -->
-                                </extent>
-                                
-                                <condition>Access restricted. The album of paintings is in poor condition. Each leaf has become detached from the binding, 
+                        -->
+                              <height>29.2 cm</height>
+                              <width>19 cm</width>
+                           </dimensions>
+                           <!-- use additional dimensions elements if necessary -->
+                        </extent>
+                        <condition>Access restricted. The album of paintings is in poor condition. Each leaf has become detached from the binding, 
                                            and the binding itself is severely deteriorated or nearly non-existent. Additionally, the 
                                            inner pages exhibit signs of insect damage. The gilt shows signs of tarnish.<!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
-                            </supportDesc>
-                            <layoutDesc>
-                                <layout>人物衣紋描法(勻稱線條)</layout>
-                                
-                            </layoutDesc>
-                            
-                        </objectDesc>
-                        
-                        <handDesc><handNote>
-                            Text written in 隸書 (li shu, clerical script) calligraphic style</handNote><!-- use the @hands attribute to record the number of scribes -->
-                            <!-- <handNote> </handNote> --> 
-                            <!-- use additional handNote elements if necessary 
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>人物衣紋描法(勻稱線條)</layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote>
+                            Text written in 隸書 (li shu, clerical script) calligraphic style</handNote>
+                     <!-- use the @hands attribute to record the number of scribes -->
+                     <!-- <handNote> </handNote> -->
+                     <!-- use additional handNote elements if necessary 
                      https://git.io/msdescdoc#handdesc
                      -->
-                        </handDesc>
-                        
-                        <decoDesc>
-                            <decoNote>
+                  </handDesc>
+                  <decoDesc>
+                     <decoNote>
                             </decoNote>
-                            <!-- use additional decoNote elements if necessary 
+                     <!-- use additional decoNote elements if necessary 
                      https://git.io/msdescdoc#decodesc
                      -->
-                        </decoDesc>
-                        
-                        <bindingDesc>
-                            <binding when="1800"><!-- use dating attributes to record the date -->
-                                <p>冊</p>
-                                <decoNote>畫冊為二十六開二十二幅。經摺裝。封皮為木製。本幅為菩提葉白描畫裝裱在藍色之上，
+                  </decoDesc>
+                  <bindingDesc>
+                     <binding when="1800"><!-- use dating attributes to record the date -->
+                        <p part="N">冊</p>
+                        <decoNote>畫冊為二十六開二十二幅。經摺裝。封皮為木製。本幅為菩提葉白描畫裝裱在藍色之上，
                                           對幅為藍色紙本上寫有金色隸書。畫心裝裱在黃色絲織物上，邊為黃色，有破損。
                                          The album consists of twenty-six leaves with twenty-two paintings. 
                                          It is bound in a concertina format. The cover is made of wood. Each 
@@ -142,74 +197,77 @@
                                          The mounted pages are attached to yellow silk fabric, with yellow edges that 
                                          exhibit some damage.
                                 </decoNote>
-                            </binding>
-                        </bindingDesc>
-                        <accMat>
+                     </binding>
+                  </bindingDesc>
+                  <accMat>
                             <!-- insert if relevant, otherwise delete 
                      https://git.io/msdescdoc#accMat          
                      -->
                         </accMat>
-                    </physDesc>
-                    <history>
+               </physDesc>
+               <history>
                         <!-- see https://git.io/msdescdoc#history -->
-                        <origin>
+                  <origin instant="false">
                             <!-- see https://git.io/msdescdoc#origin -->
-                            <origPlace>
-                                <country>China</country>,
+                     <origPlace instant="false">
+                        <country>China</country>,
                                 <region>Beijing</region>
-                                <settlement><!-- insert --></settlement>,
-                                <orgName><!-- insert --></orgName>
-                            </origPlace>
-                            <origDate notAfter="1900" notBefore="1700" calendar="Gregorian">清代</origDate>
-                            <!-- use additional origPlace and origDate elements if necessary -->
-                        </origin>
-                        <provenance></provenance>
-                        
-                        
-                        <!-- use additional provenance elements if necessary -->
-                        <acquisition>Acquired in 1901 </acquisition>
-                    </history>
-                    <additional>
-                        <adminInfo>
-                            <recordHist>
-                                <source>
+                        <settlement><!-- insert --></settlement>,
+                                <orgName instant="false" full="yes"><!-- insert --></orgName>
+                     </origPlace>
+                     <origDate notAfter="1900"
+                               notBefore="1700"
+                               calendar="Gregorian"
+                               instant="false">清代</origDate>
+                     <!-- use additional origPlace and origDate elements if necessary -->
+                  </origin>
+                  <provenance/>
+                  <!-- use additional provenance elements if necessary -->
+                  <acquisition>Acquired in 1901 </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
                                     <!-- insert prose here; see https://git.io/msdescdoc#recordHist -->
-                                    <bibl><!-- insert if necesary, otherwise delete --></bibl>
-                                    <!-- links to digitized catalogues may also be provide here, e.g.: -->
-                                    <!--<listBibl>
+                           <bibl default="false" status="draft"><!-- insert if necesary, otherwise delete --></bibl>
+                           <!-- links to digitized catalogues may also be provide here, e.g.: -->
+                           <!--<listBibl>
                               <bibl type="SC" facs="aas0046.gif">Summary Catalogue, Vol. 3, p.  31</bibl>
                            </listBibl>-->
-                                </source>
-                            </recordHist>
-                        </adminInfo>
-                        <surrogates>
-                            <bibl type="digital-facsimile" subtype="full">
-                                <ref target="https://digital.bodleian.ox.ac.uk/objects/761dfa1f-d8ce-458e-b2d6-825e5fdc96b4/">
-                                    <title>Digital Bodleian</title></ref> <note>(full digital facsimile)</note>
-                            </bibl>
-                        </surrogates>
-                        <listBibl>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+                  <surrogates>
+                     <bibl type="digital-facsimile"
+                           subtype="full"
+                           default="false"
+                           status="draft">
+                        <ref target="https://digital.bodleian.ox.ac.uk/objects/761dfa1f-d8ce-458e-b2d6-825e5fdc96b4/">
+                           <title>Digital Bodleian</title>
+                        </ref>
+                        <note anchored="true">(full digital facsimile)</note>
+                     </bibl>
+                  </surrogates>
+                  <listBibl default="false">
                             <!-- a number of listBibl elements can be nested inside an outer listBibl if required -->
-                            <head><!-- use to provide a heading if required, otherwise delete --></head>
-                            <bibl><!-- insert bibliography, links to online resource, etc., otherwise delete--></bibl>
-                            
-                        </listBibl>
-                    </additional>
-                    
-                    
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <revisionDesc>
-            <change>
+                     <head><!-- use to provide a heading if required, otherwise delete --></head>
+                     <bibl default="false" status="draft"><!-- insert bibliography, links to online resource, etc., otherwise delete--></bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change status="draft">
                 <!-- insert relevant text, e.g. 'First online publication' -->
                 <!-- provide the date of the change using the @when attribute -->
             </change>
-        </revisionDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <p><!--Body paragraph provided for validation and future transcription--></p>
-        </body>
-    </text>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p part="N"><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
 </TEI>

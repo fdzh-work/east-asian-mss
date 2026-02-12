@@ -1,217 +1,213 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-
 <!-- use this template in cases where the manuscript is NOT composed of multiple codicological units. To avoid errors in the display of the record, be sure to delete elements that are not used. -->
-
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-    xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="manuscript_00000"><!-- insert the correct xmlid in the form manuscript_12345 -->
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Backhouse Rolls.a.16</title>
-                
-                <respStmt>
-                    <resp>Cataloguer</resp>
-                    <persName>Boya Zhang</persName>
-                </respStmt>
-                
-            </titleStmt>
-            <editionStmt>
-                <edition>TEI P5</edition>
-                <funder>HD Chung Fund</funder>
-            </editionStmt>
-            <publicationStmt>
-                <publisher>Special Collections, Bodleian Libraries</publisher>
-                <address>
-                    <orgName type="department">Special Collections</orgName>
-                    <orgName type="unit">Bodleian Libraries</orgName>
-                    <orgName type="institution">University of Oxford</orgName>
-                    <street>Weston Library, Broad Street</street>
-                    <settlement>Oxford</settlement>
-                    <postCode>OX1 3BG</postCode>
-                    <country>United Kingdom</country>
-                </address>
-                <distributor>
-                    <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
-                </distributor>
-                <idno type="msID"><!-- insert normalized form of shelfmark --></idno>
-                <idno type="collection"><!-- insert normalized form of collection --></idno>
-                <idno type="catalogue"><!-- insert catalogue ID --></idno>
-            </publicationStmt>
-            <sourceDesc>
-                <msDesc xml:lang="en"><!-- optionally provide xmlid should as a normalized form of the shelfmark, e.g. Merton_College_MS_10 -->
-                    <msIdentifier>
-                        <settlement><!-- insert --></settlement>
-                        <repository>Bodleian Library</repository><!-- change if necessary -->
-                        <idno type="shelfmark">Backhouse Rolls.a.16</idno>
-                        
-                        
-                    </msIdentifier>
-                    
-                    <msContents>
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xml:id="manuscript_00000"><!-- insert the correct xmlid in the form manuscript_12345 -->
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Backhouse Rolls.a.16</title>
+            <respStmt>
+               <resp>Cataloguer</resp>
+               <persName instant="false" full="yes">Boya Zhang</persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>TEI P5</edition>
+            <funder>HD Chung Fund</funder>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Special Collections, Bodleian Libraries</publisher>
+            <address>
+               <orgName type="department" instant="false" full="yes">Special Collections</orgName>
+               <orgName type="unit" instant="false" full="yes">Bodleian Libraries</orgName>
+               <orgName type="institution" instant="false" full="yes">University of Oxford</orgName>
+               <street>Weston Library, Broad Street</street>
+               <settlement>Oxford</settlement>
+               <postCode>OX1 3BG</postCode>
+               <country>United Kingdom</country>
+            </address>
+            <distributor>
+               <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+            </distributor>
+            <idno type="msID"><!-- insert normalized form of shelfmark --></idno>
+            <idno type="collection"><!-- insert normalized form of collection --></idno>
+            <idno type="catalogue"><!-- insert catalogue ID --></idno>
+         </publicationStmt>
+         <sourceDesc default="false">
+            <msDesc xml:lang="en" status="draft"><!-- optionally provide xmlid should as a normalized form of the shelfmark, e.g. Merton_College_MS_10 -->
+               <msIdentifier>
+                  <settlement><!-- insert --></settlement>
+                  <repository>Bodleian Library</repository>
+                  <!-- change if necessary -->
+                  <idno type="shelfmark">Backhouse Rolls.a.16</idno>
+               </msIdentifier>
+               <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>A hanging scroll depecting peony flowers attributed to Yun Shou Ping (惲壽平, 1633-1690) of Qing dynasty.</summary>
-                        <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
-                        
-                        <msItem n="1"><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
+                  <summary>A hanging scroll depecting peony flowers attributed to Yun Shou Ping (惲壽平, 1633-1690) of Qing dynasty.</summary>
+                  <textLang mainLang="zh">Chinese</textLang>
+                  <!-- change text and attribute if necessary -->
+                  <msItem n="1"><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
-                            <locus><!-- insert --></locus>
-                            <title key="supplied title">清惲壽平畫牡丹圖 軸</title>
-                            <title key="supplie title" xml:lang="en">A painting featuring tree peony flowers attributed to Yun Shou Ping</title>
-                            <author key="person_7207">   
-                                <persName>惲壽平</persName>
-                                <persName type="曾用名">格</persName>
-                                <persName type="字">壽平</persName>
-                                <persName type="字">正叔</persName>
-                                <persName type="號">南田</persName>
-                                <persName type="號">雲溪外史</persName>
-                                <persName type="號">白雲外史</persName>
-                                <date notAfter="1700" notBefore="1600" calendar="Gregorian">1633-1690</date>
-                            </author>  
-                            <note type="釋文">曾依瑤圃三珠樹，長護蓬萊五色雲。</note>
-                            <note type="釋文">甌香館模宋人法</note>
-                            <note  type="款識">南田惲壽平</note>
-                            <note type="印章">壽平之印</note>
-                            <note type="印章">南田小印</note>
-                            <note type="印章">正叔</note>
-                            <note type="題簽">惲壽平 畫</note>
-                         </msItem>
-                        
-                         <msItem n="2">
-                            <author key="person_5089">   
-                                <persName>王文治</persName>
-                                <persName type="字">禹卿</persName>
-                                <persName type="號">夢樓</persName>
-                                <date notAfter="1900" notBefore="1700" calendar="Gregorian">1730-1902</date>
-                            </author>
-                            <note type="釋文">白頭一倍惜年華，到處敲門只看花。紫艷紅芳三百朵，雕闌色暎日鈎斜。</note>
-                            <note type="釋文">曾賔谷為揚州都轉詠牡丹押娃字韻，一時和者多涉牽强。余有句云：“醉餘扶倩唐宮婢，貴後稀驚越國娃。”觀者咸稱歡，以爲妙得天然。</note>
-                            <note type="款識">庚戌夏四月既望 文治</note>
-                            <note type="印章">王氏禹卿</note>
-                            <note type="印章">夢樓</note>
-                        </msItem>
-                        <!-- insert further msItem elements as appropriate --> 
-                        
-                    </msContents>
-                    <physDesc>
-                        
-                        <objectDesc form="卷軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
-                            <supportDesc material="絹本"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                                <support>silk 絹本</support>
-                                <extent>1 scroll 一軸
+                     <locus><!-- insert --></locus>
+                     <title key="supplied title">清惲壽平畫牡丹圖 軸</title>
+                     <title key="supplie title" xml:lang="en">A painting featuring tree peony flowers attributed to Yun Shou Ping</title>
+                     <author key="person_7207">
+                        <persName instant="false" full="yes">惲壽平</persName>
+                        <persName type="曾用名" instant="false" full="yes">格</persName>
+                        <persName type="字" instant="false" full="yes">壽平</persName>
+                        <persName type="字" instant="false" full="yes">正叔</persName>
+                        <persName type="號" instant="false" full="yes">南田</persName>
+                        <persName type="號" instant="false" full="yes">雲溪外史</persName>
+                        <persName type="號" instant="false" full="yes">白雲外史</persName>
+                        <date notAfter="1700"
+                              notBefore="1600"
+                              calendar="Gregorian"
+                              instant="false">1633-1690</date>
+                     </author>
+                     <note type="釋文" anchored="true">曾依瑤圃三珠樹，長護蓬萊五色雲。</note>
+                     <note type="釋文" anchored="true">甌香館模宋人法</note>
+                     <note type="款識" anchored="true">南田惲壽平</note>
+                     <note type="印章" anchored="true">壽平之印</note>
+                     <note type="印章" anchored="true">南田小印</note>
+                     <note type="印章" anchored="true">正叔</note>
+                     <note type="題簽" anchored="true">惲壽平 畫</note>
+                  </msItem>
+                  <msItem n="2">
+                     <author key="person_5089">
+                        <persName instant="false" full="yes">王文治</persName>
+                        <persName type="字" instant="false" full="yes">禹卿</persName>
+                        <persName type="號" instant="false" full="yes">夢樓</persName>
+                        <date notAfter="1900"
+                              notBefore="1700"
+                              calendar="Gregorian"
+                              instant="false">1730-1902</date>
+                     </author>
+                     <note type="釋文" anchored="true">白頭一倍惜年華，到處敲門只看花。紫艷紅芳三百朵，雕闌色暎日鈎斜。</note>
+                     <note type="釋文" anchored="true">曾賔谷為揚州都轉詠牡丹押娃字韻，一時和者多涉牽强。余有句云：“醉餘扶倩唐宮婢，貴後稀驚越國娃。”觀者咸稱歡，以爲妙得天然。</note>
+                     <note type="款識" anchored="true">庚戌夏四月既望 文治</note>
+                     <note type="印章" anchored="true">王氏禹卿</note>
+                     <note type="印章" anchored="true">夢樓</note>
+                  </msItem>
+                  <!-- insert further msItem elements as appropriate -->
+               </msContents>
+               <physDesc>
+                  <objectDesc form="卷軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
+                     <supportDesc material="絹本"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
+                        <support>silk 絹本</support>
+                        <extent>1 scroll 一軸
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
                         https://git.io/msdescdoc#leafDimensions
-                        -->                           <height>135.7</height>
-                                        <width>49</width>
-                                    </dimensions>
-                                    <!-- use additional dimensions elements if necessary -->
-                                </extent>
-                                
-                                <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
-                            </supportDesc>
-                            <layoutDesc>
-                                <layout>書畫卷軸，紙本，設色。</layout>
-                                
-                            </layoutDesc>
-                            
-                        </objectDesc>
-                        
-                        <handDesc><!-- use the @hands attribute to record the number of scribes -->
-                            <handNote>
+                        -->
+                              <height>135.7</height>
+                              <width>49</width>
+                           </dimensions>
+                           <!-- use additional dimensions elements if necessary -->
+                        </extent>
+                        <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>書畫卷軸，紙本，設色。</layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc><!-- use the @hands attribute to record the number of scribes -->
+                     <handNote>
                                 Text written in 行書 (xing shu, regular) calligraphic style.
                             </handNote>
-                            <!-- use additional handNote elements if necessary 
+                     <!-- use additional handNote elements if necessary 
                      https://git.io/msdescdoc#handdesc
                      -->
-                        </handDesc>
-                        
-                        <decoDesc>
-                            <decoNote>
+                  </handDesc>
+                  <decoDesc>
+                     <decoNote>
                             </decoNote>
-                            <!-- use additional decoNote elements if necessary 
+                     <!-- use additional decoNote elements if necessary 
                      https://git.io/msdescdoc#decodesc
                      -->
-                        </decoDesc>
-                        
-                        <bindingDesc>
-                            <binding when="1800"><!-- use dating attributes to record the date -->
-                                <p>立軸</p>
-                                <decoNote>小鑲手卷，天為淺藍色絲織物，有磨損痕跡。隔水為米白色有花紋絲織物。引首為黃色紙本，拖尾為白色紙本，略有污跡。邊為淺棕色絲織物。錦包首為棕色絲織物伴有淺棕色花紋，八寶帶為紫色絲織物和別子為玉制，題簽為黃色紙本。
+                  </decoDesc>
+                  <bindingDesc>
+                     <binding when="1800"><!-- use dating attributes to record the date -->
+                        <p part="N">立軸</p>
+                        <decoNote>小鑲手卷，天為淺藍色絲織物，有磨損痕跡。隔水為米白色有花紋絲織物。引首為黃色紙本，拖尾為白色紙本，略有污跡。邊為淺棕色絲織物。錦包首為棕色絲織物伴有淺棕色花紋，八寶帶為紫色絲織物和別子為玉制，題簽為黃色紙本。
                                     Vertical scroll, mounted in the Xuānhe style. The ‘Heaven’ (天) and ‘Earth’ (地) section are adorned with blue jacquard silk fabric, while the separating strips (隔水) and floating ribbons (飄帶) are made of white silk. The upper half of the painting is composed of sprinkled gold Xuān paper, while the lower half uses silk. The title label is made of yellow Chinese paper.
                                 </decoNote>
-                            </binding>
-                        </bindingDesc>
-                        <accMat>
+                     </binding>
+                  </bindingDesc>
+                  <accMat>
                             <!-- insert if relevant, otherwise delete 
                      https://git.io/msdescdoc#accMat          
                      -->
                         </accMat>
-                    </physDesc>
-                    <history>
+               </physDesc>
+               <history>
                         <!-- see https://git.io/msdescdoc#history -->
-                        <origin>
+                  <origin instant="false">
                             <!-- see https://git.io/msdescdoc#origin -->
-                            <origPlace>
-                                <country>China</country>,
+                     <origPlace instant="false">
+                        <country>China</country>,
                                 <region><!-- insert --></region>,
                                 <settlement><!-- insert --></settlement>,
-                                <orgName><!-- insert --></orgName>
-                            </origPlace>
-                            <origDate notAfter="1700" notBefore="1600" calendar="Gregorian">1670</origDate>
-                            <!-- use additional origPlace and origDate elements if necessary -->
-                        </origin>
-                        <provenance>Donated by Sir Edmund Trelawny Backhouse, Baronet (20 October 1873 – 8 January 1944).</provenance>
-                        
-                        
-                        <!-- use additional provenance elements if necessary -->
-                        <acquisition>
+                                <orgName instant="false" full="yes"><!-- insert --></orgName>
+                     </origPlace>
+                     <origDate notAfter="1700"
+                               notBefore="1600"
+                               calendar="Gregorian"
+                               instant="false">1670</origDate>
+                     <!-- use additional origPlace and origDate elements if necessary -->
+                  </origin>
+                  <provenance>Donated by Sir Edmund Trelawny Backhouse, Baronet (20 October 1873 – 8 January 1944).</provenance>
+                  <!-- use additional provenance elements if necessary -->
+                  <acquisition>
                             <!-- insert -->
                             <!-- use dating attributes where possible -->
                         </acquisition>
-                    </history>
-                    <additional>
-                        <adminInfo>
-                            <recordHist>
-                                <source>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
                                     <!-- insert prose here; see https://git.io/msdescdoc#recordHist -->
-                                    <bibl><!-- insert if necesary, otherwise delete --></bibl>
-                                    <!-- links to digitized catalogues may also be provide here, e.g.: -->
-                                    <!--<listBibl>
+                           <bibl default="false" status="draft"><!-- insert if necesary, otherwise delete --></bibl>
+                           <!-- links to digitized catalogues may also be provide here, e.g.: -->
+                           <!--<listBibl>
                               <bibl type="SC" facs="aas0046.gif">Summary Catalogue, Vol. 3, p.  31</bibl>
                            </listBibl>-->
-                                </source>
-                            </recordHist>
-                        </adminInfo>
-                        <surrogates>
-                            <bibl type="digital-facsimile" subtype="full">
-                                <ref target="https://digital.bodleian.ox.ac.uk/objects/c5e87780-9de6-4fbc-9496-75d4333205ea/">
-                                    <title>Digital Bodleian</title></ref> <note>(full digital facsimile)</note>
-                            </bibl>
-                        </surrogates>
-                        <listBibl>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+                  <surrogates>
+                     <bibl type="digital-facsimile"
+                           subtype="full"
+                           default="false"
+                           status="draft">
+                        <ref target="https://digital.bodleian.ox.ac.uk/objects/c5e87780-9de6-4fbc-9496-75d4333205ea/">
+                           <title>Digital Bodleian</title>
+                        </ref>
+                        <note anchored="true">(full digital facsimile)</note>
+                     </bibl>
+                  </surrogates>
+                  <listBibl default="false">
                             <!-- a number of listBibl elements can be nested inside an outer listBibl if required -->
-                            <head><!-- use to provide a heading if required, otherwise delete --></head>
-                            <bibl><!-- insert bibliography, links to online resource, etc., otherwise delete--></bibl>
-                            
-                        </listBibl>
-                    </additional>
-                    
-                    
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <revisionDesc>
-            <change>
+                     <head><!-- use to provide a heading if required, otherwise delete --></head>
+                     <bibl default="false" status="draft"><!-- insert bibliography, links to online resource, etc., otherwise delete--></bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change status="draft">
                 <!-- insert relevant text, e.g. 'First online publication' -->
                 <!-- provide the date of the change using the @when attribute -->
             </change>
-        </revisionDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <p><!--Body paragraph provided for validation and future transcription--></p>
-        </body>
-    </text>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p part="N"><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
 </TEI>

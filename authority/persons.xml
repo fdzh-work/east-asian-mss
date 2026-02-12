@@ -28544,6 +28544,46 @@
                         </list>
                     </note>
                 </person>
+                <person xml:id="person_7208">
+                    <persName type="display">高其佩</persName>
+                    <persName type="variant">gao qi pei</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://www.wikidata.org/wiki/Q698454">
+                                    <title>Wikidata</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                </person>
+                <person xml:id="person_7209">
+                    <persName type="display">慈禧</persName>
+                    <persName type="variant">ci xi</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://www.wikidata.org/wiki/Q47842">
+                                    <title>Wikidata</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                </person>
+                <person xml:id="person_7210">
+                    <persName type="display">徐郙</persName>
+                    <persName type="variant">xu xiang</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://www.wikidata.org/wiki/Q45699502">
+                                    <title>Wikidata</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                </person>
+                
             </listPerson>
         </body>
     </text>

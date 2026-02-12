@@ -1,286 +1,283 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-
 <!-- use this template in cases where the manuscript is NOT composed of multiple codicological units. To avoid errors in the display of the record, be sure to delete elements that are not used. -->
-
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-    xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="manuscript_00000"><!-- insert the correct xmlid in the form manuscript_12345 -->
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>MS.Chin.d.65(R)</title>
-                
-                <respStmt>
-                    <resp>Cataloguer</resp>
-                    <persName>Boya Zhang</persName>
-                </respStmt>
-                
-            </titleStmt>
-            <editionStmt>
-                <edition>TEI P5</edition>
-                <funder>HD Chung Fund</funder>
-            </editionStmt>
-            <publicationStmt>
-                <publisher>Special Collections, Bodleian Libraries</publisher>
-                <address>
-                    <orgName type="department">Special Collections</orgName>
-                    <orgName type="unit">Bodleian Libraries</orgName>
-                    <orgName type="institution">University of Oxford</orgName>
-                    <street>Weston Library, Broad Street</street>
-                    <settlement>Oxford</settlement>
-                    <postCode>OX1 3BG</postCode>
-                    <country>United Kingdom</country>
-                </address>
-                <distributor>
-                    <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
-                </distributor>
-                <idno type="msID"><!-- insert normalized form of shelfmark --></idno>
-                <idno type="collection"><!-- insert normalized form of collection --></idno>
-                <idno type="catalogue"><!-- insert catalogue ID --></idno>
-            </publicationStmt>
-            <sourceDesc>
-                <msDesc xml:lang="en"><!-- optionally provide xmlid should as a normalized form of the shelfmark, e.g. Merton_College_MS_10 -->
-                    <msIdentifier>
-                        <settlement><!-- insert --></settlement>
-                        <repository>Bodleian Library</repository><!-- change if necessary -->
-                        <idno type="shelfmark">MS.Chin.d.65(R)</idno>
-                        
-                        
-                    </msIdentifier>
-                    
-                    <msContents>
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xml:id="manuscript_00000"><!-- insert the correct xmlid in the form manuscript_12345 -->
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>MS.Chin.d.65(R)</title>
+            <respStmt>
+               <resp>Cataloguer</resp>
+               <persName instant="false" full="yes">Boya Zhang</persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>TEI P5</edition>
+            <funder>HD Chung Fund</funder>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Special Collections, Bodleian Libraries</publisher>
+            <address>
+               <orgName type="department" instant="false" full="yes">Special Collections</orgName>
+               <orgName type="unit" instant="false" full="yes">Bodleian Libraries</orgName>
+               <orgName type="institution" instant="false" full="yes">University of Oxford</orgName>
+               <street>Weston Library, Broad Street</street>
+               <settlement>Oxford</settlement>
+               <postCode>OX1 3BG</postCode>
+               <country>United Kingdom</country>
+            </address>
+            <distributor>
+               <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+            </distributor>
+            <idno type="msID"><!-- insert normalized form of shelfmark --></idno>
+            <idno type="collection"><!-- insert normalized form of collection --></idno>
+            <idno type="catalogue"><!-- insert catalogue ID --></idno>
+         </publicationStmt>
+         <sourceDesc default="false">
+            <msDesc xml:lang="en" status="draft"><!-- optionally provide xmlid should as a normalized form of the shelfmark, e.g. Merton_College_MS_10 -->
+               <msIdentifier>
+                  <settlement><!-- insert --></settlement>
+                  <repository>Bodleian Library</repository>
+                  <!-- change if necessary -->
+                  <idno type="shelfmark">MS.Chin.d.65(R)</idno>
+               </msIdentifier>
+               <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>A set of four hanging scrolls of calligraphy, created in the late 19th century and dedicated
+                  <summary>A set of four hanging scrolls of calligraphy, created in the late 19th century and dedicated
                                  to the imperial family of the Qing Dynasty. Each scroll is created by two calligraphers, 
                                  written in Kaishu style.</summary>
-                        <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
-                        
-                        <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
+                  <textLang mainLang="zh">Chinese</textLang>
+                  <!-- change text and attribute if necessary -->
+                  <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
-                            <locus><!-- insert --></locus>
-                            <title key="supplied title">清王文錦等六人楷書四條屏 軸</title>
-                            <title key="supplie title" xml:lang="en">A set of four scrolls of calligraphy attributed to multiple authors</title>
-                            <author key="Q45607205">
-                                <persName>王文錦</persName>
-                                <persName type="字">云舫</persName>
-                                <date notAfter="1900" notBefore="1800" calendar="Gregorian">1835-1896</date>
-                            </author>
-                            <author key="Q15943465">        
-                                <persName>王仁堪</persName>
-                                <persName type="字">可庄</persName>
-                                <persName type="字">忍庵</persName>
-                                <persName type="號"> 公定</persName>
-                                <date notAfter="1900" notBefore="1800" calendar="Gregorian">1848-1893</date>
-                            </author>
-                            <author key="Q45699502">        
-                                <persName>徐郙</persName>
-                                <persName type="字">壽蘅</persName>
-                                <persName type="號">頌閣</persName>
-                                <date notAfter="2000" notBefore="1800" calendar="Gregorian">1836-1908</date>
-                            </author>
-                            <author key="Q16075982">        
-                                <persName>高釗中</persName>
-                                <persName type="字">勉之</persName>
-                            </author>
-                            <author key="_caohongxun">        
-                                <persName>曹洪勛</persName>
-                                <persName type="字">仲銘</persName>
-                                <persName type="字">竹銘</persName>
-                                <persName type="號"> 蘭生</persName>
-                            </author>
-                            <author key="Q45616720">        
-                                <persName>蔣艮</persName>
-                                <persName type="字">仲仁</persName>
-                                <persName type="號"> 後山</persName>
-                            </author>
-                        <msItem>
-                            <title type="subtitle">卷軸一</title>
-                            <incipit type="釋文">期仙磴者，蓋危磴穹窿，迥接雲路，靈仙仿彿，若可期及。</incipit>
-                            <incipit type="款識">臣王仁堪敬書</incipit>
-                            <incipit type="seal">敬書</incipit>
-                            <note type="注">該詩句摘自《草堂十志》，作者為明代文徵明</note>
-                            <incipit type="釋文">瑞露垂花綬，寒冰澈寳輪。對兹臺上月，共以慶良辰。</incipit>
-                            <incipit type="款識">臣王文錦敬書</incipit>
-                            <incipit type="seal">臣王文錦</incipit>
-                            <incipit type="seal">敬書</incipit>
-                            <note type="注">該詩句為唐代李隆基所作《千秋節賜群臣鏡》。</note>
-                            <note type="注">王仁堪（1849-1893），字可莊，又字忍菴，號公定，閩縣人，光緒三年（1877）狀元，後授翰林院修撰.歷任提督山西學政，貴州、江南、廣東鄉試副考官，後任武英殿纂修等職。
+                     <locus><!-- insert --></locus>
+                     <title key="supplied title">清王文錦等六人楷書四條屏 軸</title>
+                     <title key="supplie title" xml:lang="en">A set of four scrolls of calligraphy attributed to multiple authors</title>
+                     <author key="Q45607205">
+                        <persName instant="false" full="yes">王文錦</persName>
+                        <persName type="字" instant="false" full="yes">云舫</persName>
+                        <date notAfter="1900"
+                              notBefore="1800"
+                              calendar="Gregorian"
+                              instant="false">1835-1896</date>
+                     </author>
+                     <author key="Q15943465">
+                        <persName instant="false" full="yes">王仁堪</persName>
+                        <persName type="字" instant="false" full="yes">可庄</persName>
+                        <persName type="字" instant="false" full="yes">忍庵</persName>
+                        <persName type="號" instant="false" full="yes"> 公定</persName>
+                        <date notAfter="1900"
+                              notBefore="1800"
+                              calendar="Gregorian"
+                              instant="false">1848-1893</date>
+                     </author>
+                     <author key="Q45699502">
+                        <persName instant="false" full="yes">徐郙</persName>
+                        <persName type="字" instant="false" full="yes">壽蘅</persName>
+                        <persName type="號" instant="false" full="yes">頌閣</persName>
+                        <date notAfter="2000"
+                              notBefore="1800"
+                              calendar="Gregorian"
+                              instant="false">1836-1908</date>
+                     </author>
+                     <author key="Q16075982">
+                        <persName instant="false" full="yes">高釗中</persName>
+                        <persName type="字" instant="false" full="yes">勉之</persName>
+                     </author>
+                     <author key="_caohongxun">
+                        <persName instant="false" full="yes">曹洪勛</persName>
+                        <persName type="字" instant="false" full="yes">仲銘</persName>
+                        <persName type="字" instant="false" full="yes">竹銘</persName>
+                        <persName type="號" instant="false" full="yes"> 蘭生</persName>
+                     </author>
+                     <author key="Q45616720">
+                        <persName instant="false" full="yes">蔣艮</persName>
+                        <persName type="字" instant="false" full="yes">仲仁</persName>
+                        <persName type="號" instant="false" full="yes"> 後山</persName>
+                     </author>
+                     <msItem>
+                        <title type="subtitle">卷軸一</title>
+                        <note type="釋文" anchored="true">期仙磴者，蓋危磴穹窿，迥接雲路，靈仙仿彿，若可期及。</note>
+                        <note type="款識" anchored="true">臣王仁堪敬書</note>
+                        <note type="印章" anchored="true">敬書</note>
+                        <note type="注" anchored="true">該詩句摘自《草堂十志》，作者為明代文徵明</note>
+                        <note type="釋文" anchored="true">瑞露垂花綬，寒冰澈寳輪。對兹臺上月，共以慶良辰。</note>
+                        <note type="款識" anchored="true">臣王文錦敬書</note>
+                        <note type="印章" anchored="true">臣王文錦</note>
+                        <note type="印章" anchored="true">敬書</note>
+                        <note type="注" anchored="true">該詩句為唐代李隆基所作《千秋節賜群臣鏡》。</note>
+                        <note type="注" anchored="true">王仁堪（1849-1893），字可莊，又字忍菴，號公定，閩縣人，光緒三年（1877）狀元，後授翰林院修撰.歷任提督山西學政，貴州、江南、廣東鄉試副考官，後任武英殿纂修等職。
                                 王文錦（1835-1896），字云舫，直隸天津人同治十年（1871）進士，二甲五十三名。</note>
-                        </msItem>
-                        
-                            <msItem>   
-                            <title type="subtitle">卷軸二</title>
-                                <incipit type="釋文">《易》稱“辨物正言，斷辭則備”，《書》云“辭尚體要，弗惟好異”。</incipit>
-                            <incipit type="款識">臣徐郙敬書</incipit>
-                            <incipit type="seal">臣郙</incipit>
-                            <incipit type="seal">敬書</incipit>
-                                <note type="注">該詩句摘自《文心雕龍》第二篇徵聖第二，作者為南齊劉勰</note>
-                                <incipit type="釋文">綠淨不可唾，此語足千古。天水澹相涵，中有數聲艣。</incipit>
-                            <incipit type="款識">臣高釗中敬書</incipit>
-                            <incipit type="seal">臣高釗中</incipit>
-                            <incipit type="seal">敬書</incipit>
-                                <note type="注">該詩句為明代高珩所作《祭告南岳雜詩其四》。</note>
-                                <note type="注"> 徐郙（1836-1908），字壽蘅，號頌閣，江蘇嘉定人，同治元年（1862）狀元，先後授翰林院修撰，南書房行走，安徽學政，左都御史，兵部尚書，禮部尚書等職，拜協辦大學士，世稱徐相國。
+                     </msItem>
+                     <msItem>
+                        <title type="subtitle">卷軸二</title>
+                        <note type="釋文" anchored="true">《易》稱“辨物正言，斷辭則備”，《書》云“辭尚體要，弗惟好異”。</note>
+                        <note type="款識" anchored="true">臣徐郙敬書</note>
+                        <note type="印章" anchored="true">臣郙</note>
+                        <note type="印章" anchored="true">敬書</note>
+                        <note type="注" anchored="true">該詩句摘自《文心雕龍》第二篇徵聖第二，作者為南齊劉勰</note>
+                        <note type="釋文" anchored="true">綠淨不可唾，此語足千古。天水澹相涵，中有數聲艣。</note>
+                        <note type="款識" anchored="true">臣高釗中敬書</note>
+                        <note type="印章" anchored="true">臣高釗中</note>
+                        <note type="印章" anchored="true">敬書</note>
+                        <note type="注" anchored="true">該詩句為明代高珩所作《祭告南岳雜詩其四》。</note>
+                        <note type="注" anchored="true"> 徐郙（1836-1908），字壽蘅，號頌閣，江蘇嘉定人，同治元年（1862）狀元，先後授翰林院修撰，南書房行走，安徽學政，左都御史，兵部尚書，禮部尚書等職，拜協辦大學士，世稱徐相國。
                                 高釗中（生卒年不詳），字勉之，河南項城縣人，光緒二年（1876）丙子恩科進士。改庶吉士。光緒三年任翰林院編修，光緒八年任提督湖北學政，光緒十三年任上書房行走。光緒十五年，任授溥侗讀，次年，任提督雲南學政，
                                 光緒二十年，任翰林院侍讀。</note>
-                        </msItem> 
-                        
-                            <msItem>
-                            <title type="subtitle">卷軸三</title>
-                                <incipit type="釋文">閶闔春風起，蓬萊雪水消。相將折楊柳，爭取最長條。</incipit>
-                            <incipit type="款識">臣王文錦敬書</incipit>
-                            <incipit type="seal">臣王文錦</incipit>
-                            <incipit type="seal">敬書</incipit>
-                                <note type="注">該詩句摘自《琴曲歌辭蔡氏五弄游春辭三首》，作者為唐代令狐楚</note>
-                                <incipit type="釋文">玉砌紅花樹，像風不散吹。春光觧天意，偏發殿南枝。</incipit>
-                            <incipit type="款識">臣曹洪勛敬書</incipit>
-                            <incipit type="seal">臣曹洪勛</incipit>
-                            <incipit type="seal">敬書</incipit>
-                                <note type="注">該詩句為唐代盧綸所作《儋天長久詞》。</note>
-                                <note type="注"> 王文錦 (生卒年不詳)，字云舫，直隸天津人同治十年（1871）進士，二甲五十三名。
+                     </msItem>
+                     <msItem>
+                        <title type="subtitle">卷軸三</title>
+                        <note type="釋文" anchored="true">閶闔春風起，蓬萊雪水消。相將折楊柳，爭取最長條。</note>
+                        <note type="款識" anchored="true">臣王文錦敬書</note>
+                        <note type="印章" anchored="true">臣王文錦</note>
+                        <note type="印章" anchored="true">敬書</note>
+                        <note type="注" anchored="true">該詩句摘自《琴曲歌辭蔡氏五弄游春辭三首》，作者為唐代令狐楚</note>
+                        <note type="釋文" anchored="true">玉砌紅花樹，像風不散吹。春光觧天意，偏發殿南枝。</note>
+                        <note type="款識" anchored="true">臣曹洪勛敬書</note>
+                        <note type="印章" anchored="true">臣曹洪勛</note>
+                        <note type="印章" anchored="true">敬書</note>
+                        <note type="注" anchored="true">該詩句為唐代盧綸所作《儋天長久詞》。</note>
+                        <note type="注" anchored="true"> 王文錦 (生卒年不詳)，字云舫，直隸天津人同治十年（1871）進士，二甲五十三名。
                                     曹洪勛(生卒年不詳)，字仲銘，又字竹銘，號蘭生，濰縣人，光緒二年（1876）狀元。</note>
-                        </msItem>
-                        <msItem>
-                            <title type="subtitle">卷軸四</title>
-                            <incipit type="釋文">月彩浮鸞殿，鍾聲隔鳳樓。笙歌臨水檻，紅燭乍迎秋。</incipit>
-                            <incipit type="款識">臣曹洪勛敬書</incipit>
-                            <incipit type="seal">臣曹洪勛</incipit>
-                            <incipit type="seal">敬書</incipit>
-                            <note type="注">該詩句摘自《雜曲歌辭.宮中樂》，作者為唐代張仲素</note>
-                            <incipit type="釋文">突兀隘空虛，他山總不如。君看道傍石，總是補天餘。</incipit>
-                            <incipit type="款識">臣蔣艮敬書</incipit>
-                            <incipit type="seal">臣蔣艮</incipit>
-                            <incipit type="seal">敬書</incipit>
-                            <note type="注">該詩句為宋代蘇軾所作《儋耳山》。</note>
-                            <note type="注">蔣艮，字仲仁，號後山，商城伏山鄉人，光緒六年（1880）進士。</note>
-                         
-                            <filiation>書法卷軸，中外孤本。</filiation>  
-                         </msItem>
-                        </msItem>
-                        <!-- insert further msItem elements as appropriate --> 
-                        
-                    </msContents>
-                    <physDesc>
-                        
-                        <objectDesc form="立軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
-                            <supportDesc material="絹本"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                                <support>silk 絹本</support>
-                                <extent>4 scrolls 四軸
+                     </msItem>
+                     <msItem>
+                        <title type="subtitle">卷軸四</title>
+                        <note type="釋文" anchored="true">月彩浮鸞殿，鍾聲隔鳳樓。笙歌臨水檻，紅燭乍迎秋。</note>
+                        <note type="款識" anchored="true">臣曹洪勛敬書</note>
+                        <note type="印章" anchored="true">臣曹洪勛</note>
+                        <note type="印章" anchored="true">敬書</note>
+                        <note type="注" anchored="true">該詩句摘自《雜曲歌辭.宮中樂》，作者為唐代張仲素</note>
+                        <note type="釋文" anchored="true">突兀隘空虛，他山總不如。君看道傍石，總是補天餘。</note>
+                        <note type="款識" anchored="true">臣蔣艮敬書</note>
+                        <note type="印章" anchored="true">臣蔣艮</note>
+                        <note type="印章" anchored="true">敬書</note>
+                        <note type="注" anchored="true">該詩句為宋代蘇軾所作《儋耳山》。</note>
+                        <note type="注" anchored="true">蔣艮，字仲仁，號後山，商城伏山鄉人，光緒六年（1880）進士。</note>
+                        <filiation>書法卷軸，中外孤本。</filiation>
+                     </msItem>
+                  </msItem>
+                  <!-- insert further msItem elements as appropriate -->
+               </msContents>
+               <physDesc>
+                  <objectDesc form="立軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
+                     <supportDesc material="絹本"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
+                        <support>silk 絹本</support>
+                        <extent>4 scrolls 四軸
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
                         https://git.io/msdescdoc#leafDimensions
-                        -->                           <height>65.8 cm</height>
-                                        <width>13.2 cm</width>
-                                    </dimensions>
-                                    <!-- use additional dimensions elements if necessary -->
-                                </extent>
-                                
-                                <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
-                            </supportDesc>
-                            <layoutDesc>
-                                <layout>Vertical Chinese calligraphy scrolls, meticulously crafted on silk with black ink.
+                        -->
+                              <height>65.8 cm</height>
+                              <width>13.2 cm</width>
+                           </dimensions>
+                           <!-- use additional dimensions elements if necessary -->
+                        </extent>
+                        <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>Vertical Chinese calligraphy scrolls, meticulously crafted on silk with black ink.
                                          书法卷轴,絹本,墨色书写。</layout>
-                                
-                            </layoutDesc>
-                            
-                        </objectDesc>
-                        
-                        <handDesc><!-- use the @hands attribute to record the number of scribes -->
-                            <handNote>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc><!-- use the @hands attribute to record the number of scribes -->
+                     <handNote>
                                 Text written in 楷體 (kai shu, regular) calligraphic style</handNote>
-                            <!-- use additional handNote elements if necessary 
+                     <!-- use additional handNote elements if necessary 
                      https://git.io/msdescdoc#handdesc
                      -->
-                        </handDesc>
-                        
-                        <decoDesc>
-                            <decoNote>
+                  </handDesc>
+                  <decoDesc>
+                     <decoNote>
                             </decoNote>
-                            <!-- use additional decoNote elements if necessary 
+                     <!-- use additional decoNote elements if necessary 
                      https://git.io/msdescdoc#decodesc
                      -->
-                        </decoDesc>
-                        
-                        <bindingDesc>
-                            <binding when="1800"><!-- use dating attributes to record the date -->
-                                <p> 立軸</p>
-                                <decoNote>A set of four hanging scrolls adorned in the two-colour mount style with blue jacquard silk 
+                  </decoDesc>
+                  <bindingDesc>
+                     <binding when="1800"><!-- use dating attributes to record the date -->
+                        <p part="N"> 立軸</p>
+                        <decoNote>A set of four hanging scrolls adorned in the two-colour mount style with blue jacquard silk 
                                     as the ‘Heaven’ section (天頭) and the ‘Earth’ section (地脚). Vertical stripes (隔水) are composed 
                                     of light blue silk. The calligraphies are written on silk in beige colour.
                                     一套由四件立軸組成。每個立軸都為二色裱,天頭地脚為藍色絲織物，天頭高12.3cm，地脚高7.4cm。
                                     上下隔水為淺藍色絲織物，上隔水高18.8cm，下隔水高12.5cm。邊框寬4.5cm。畫心為米色絹本，分爲上下兩部分，
                                     分別爲不同兩位書法家書寫。每部分分爲三行，每行八字。</decoNote>
-                            </binding>
-                        </bindingDesc>
-                        <accMat>
+                     </binding>
+                  </bindingDesc>
+                  <accMat>
                             <!-- insert if relevant, otherwise delete 
                      https://git.io/msdescdoc#accMat          
                      -->
                         </accMat>
-                    </physDesc>
-                    <history>
+               </physDesc>
+               <history>
                         <!-- see https://git.io/msdescdoc#history -->
-                        <origin>
+                  <origin instant="false">
                             <!-- see https://git.io/msdescdoc#origin -->
-                            <origPlace>
-                                <country>China</country>,
+                     <origPlace instant="false">
+                        <country>China</country>,
 
                             </origPlace>
-                            <origDate notAfter="1900" notBefore="1800" calendar="Gregorian">清光緒年間</origDate>
-                            <!-- use additional origPlace and origDate elements if necessary -->
-                        </origin>
-                        <provenance>The title available from the previous catalog is 
+                     <origDate notAfter="1900"
+                               notBefore="1800"
+                               calendar="Gregorian"
+                               instant="false">清光緒年間</origDate>
+                     <!-- use additional origPlace and origDate elements if necessary -->
+                  </origin>
+                  <provenance>The title available from the previous catalog is 
                                  'WANG WEN-CHIN and Others: Four Calligraphic Scrolls.'</provenance>
-                        
-                        
-                        <!-- use additional provenance elements if necessary -->
-                        <acquisition>
+                  <!-- use additional provenance elements if necessary -->
+                  <acquisition>
                             <!-- insert -->
                             <!-- use dating attributes where possible -->
                         </acquisition>
-                    </history>
-                    <additional>
-                        <adminInfo>
-                            <recordHist>
-                                <source>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
                                     <!-- insert prose here; see https://git.io/msdescdoc#recordHist -->
-                                    <bibl><!-- insert if necesary, otherwise delete --></bibl>
-                                    <!-- links to digitized catalogues may also be provide here, e.g.: -->
-                                    <!--<listBibl>
+                           <bibl default="false" status="draft"><!-- insert if necesary, otherwise delete --></bibl>
+                           <!-- links to digitized catalogues may also be provide here, e.g.: -->
+                           <!--<listBibl>
                               <bibl type="SC" facs="aas0046.gif">Summary Catalogue, Vol. 3, p.  31</bibl>
                            </listBibl>-->
-                                </source>
-                            </recordHist>
-                        </adminInfo>
-                        <surrogates>
-                            <bibl type="digital-facsimile" subtype="full">
-                                <ref target="https://digital.bodleian.ox.ac.uk/objects/37510917-3c8f-40f9-a0d3-cf32974e6ca6/">
-                                    <title>Digital Bodleian</title></ref> <note>(full digital facsimile)</note>
-                            </bibl>
-                        </surrogates>
-                        <listBibl>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+                  <surrogates>
+                     <bibl type="digital-facsimile"
+                           subtype="full"
+                           default="false"
+                           status="draft">
+                        <ref target="https://digital.bodleian.ox.ac.uk/objects/37510917-3c8f-40f9-a0d3-cf32974e6ca6/">
+                           <title>Digital Bodleian</title>
+                        </ref>
+                        <note anchored="true">(full digital facsimile)</note>
+                     </bibl>
+                  </surrogates>
+                  <listBibl default="false">
                             <!-- a number of listBibl elements can be nested inside an outer listBibl if required -->
-                            <head><!-- use to provide a heading if required, otherwise delete --></head>
-                            <bibl><!-- insert bibliography, links to online resource, etc., otherwise delete--></bibl>
-                            
-                        </listBibl>
-                    </additional>
-                    
-                    
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <revisionDesc>
-            <change>
+                     <head><!-- use to provide a heading if required, otherwise delete --></head>
+                     <bibl default="false" status="draft"><!-- insert bibliography, links to online resource, etc., otherwise delete--></bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change status="draft">
                 <!-- insert relevant text, e.g. 'First online publication' -->
                 <!-- provide the date of the change using the @when attribute -->
             </change>
-        </revisionDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <p><!--Body paragraph provided for validation and future transcription--></p>
-        </body>
-    </text>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p part="N"><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
 </TEI>

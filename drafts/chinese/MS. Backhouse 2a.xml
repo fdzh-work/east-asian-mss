@@ -1,320 +1,596 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-
 <!-- use this template in cases where the manuscript is NOT composed of multiple codicological units. To avoid errors in the display of the record, be sure to delete elements that are not used. -->
-
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-    xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="manuscript_00000"><!-- insert the correct xmlid in the form manuscript_12345 -->
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>MS. Backhouse 2a</title>
-                
-                <respStmt>
-                    <resp>Cataloguer</resp>
-                    <persName>Boya Zhang</persName>
-                </respStmt>
-                
-            </titleStmt>
-            <editionStmt>
-                <edition>TEI P5</edition>
-                <funder>HD Chung Fund</funder>
-            </editionStmt>
-            <publicationStmt>
-                <publisher>Special Collections, Bodleian Libraries</publisher>
-                <address>
-                    <orgName type="department">Special Collections</orgName>
-                    <orgName type="unit">Bodleian Libraries</orgName>
-                    <orgName type="institution">University of Oxford</orgName>
-                    <street>Weston Library, Broad Street</street>
-                    <settlement>Oxford</settlement>
-                    <postCode>OX1 3BG</postCode>
-                    <country>United Kingdom</country>
-                </address>
-                <distributor>
-                    <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
-                </distributor>
-                <idno type="msID"><!-- insert normalized form of shelfmark --></idno>
-                <idno type="collection"><!-- insert normalized form of collection --></idno>
-                <idno type="catalogue"><!-- insert catalogue ID --></idno>
-            </publicationStmt>
-            <sourceDesc>
-                <msDesc xml:lang="en"><!-- optionally provide xmlid should as a normalized form of the shelfmark, e.g. Merton_College_MS_10 -->
-                    <msIdentifier>
-                        <settlement><!-- insert --></settlement>
-                        <repository>Bodleian Library</repository><!-- change if necessary -->
-                        <idno type="shelfmark">MS. Backhouse 2a</idno>
-                        
-                    </msIdentifier>
-                    
-                    <msContents>
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xml:id="manuscript_00000"><!-- insert the correct xmlid in the form manuscript_12345 -->
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>MS. Backhouse 2a</title>
+            <respStmt>
+               <resp>Cataloguer</resp>
+               <persName instant="false" full="yes">Boya Zhang</persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>TEI P5</edition>
+            <funder>HD Chung Fund</funder>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Special Collections, Bodleian Libraries</publisher>
+            <address>
+               <orgName type="department" instant="false" full="yes">Special Collections</orgName>
+               <orgName type="unit" instant="false" full="yes">Bodleian Libraries</orgName>
+               <orgName type="institution" instant="false" full="yes">University of Oxford</orgName>
+               <street>Weston Library, Broad Street</street>
+               <settlement>Oxford</settlement>
+               <postCode>OX1 3BG</postCode>
+               <country>United Kingdom</country>
+            </address>
+            <distributor>
+               <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+            </distributor>
+            <idno type="msID"><!-- insert normalized form of shelfmark --></idno>
+            <idno type="collection"><!-- insert normalized form of collection --></idno>
+            <idno type="catalogue"><!-- insert catalogue ID --></idno>
+         </publicationStmt>
+         <sourceDesc default="false">
+            <msDesc xml:lang="en" status="draft"><!-- optionally provide xmlid should as a normalized form of the shelfmark, e.g. Merton_College_MS_10 -->
+               <msIdentifier>
+                  <settlement><!-- insert --></settlement>
+                  <repository>Bodleian Library</repository>
+                  <!-- change if necessary -->
+                  <idno type="shelfmark">MS. Backhouse 2a</idno>
+               </msIdentifier>
+               <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                       
-                        <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
-                        
-                        <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
+                  <textLang mainLang="zh">Chinese</textLang>
+                  <!-- change text and attribute if necessary -->
+                  <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
-                            <title>簷曝雜記</title>
-                            <author key="Q4388724">        
-                                <persName>趙翼</persName>
-                                <persName type="字">雲崧</persName>
-                                <persName type="號">甌北</persName>
-                                <date notAfter="1814" notBefore="1727" calendar="Gregorian">1727-1814</date>
-                            </author>
-
-                            
-                        </msItem>
-                        <!-- insert further msItem elements as appropriate -->
-                    </msContents>
-                    <physDesc>
-                        
-                        <objectDesc form="包背裝"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
-                            <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                                <support>桑紙</support>
-                                <extent> 二冊
+                     <title>簷曝雜記</title>
+                     <author key="Q4388724">
+                        <persName instant="false" full="yes">趙翼</persName>
+                        <persName type="字" instant="false" full="yes">雲崧</persName>
+                        <persName type="號" instant="false" full="yes">甌北</persName>
+                        <date notAfter="1814"
+                              notBefore="1727"
+                              calendar="Gregorian"
+                              instant="false">1727-1814</date>
+                     </author>
+                  </msItem>
+                  <!-- insert further msItem elements as appropriate -->
+               </msContents>
+               <physDesc>
+                  <objectDesc form="包背裝"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
+                     <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
+                        <support>桑紙</support>
+                        <extent> 二冊
                                     
                                     
                                     <!-- use additional dimensions elements if necessary -->
                                 </extent>
-                                
-                                
-                            </supportDesc>
-                            <layoutDesc>
-                                <layout>内頁黑色單綫邊框，每半頁含11列每列21字。</layout>
-                                <!-- use additional layout elements if necessary 
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>内頁黑色單綫邊框，每半頁含11列每列21字。</layout>
+                        <!-- use additional layout elements if necessary 
                         https://git.io/msdescdoc#layoutdesc-->
-                            </layoutDesc>
-                        </objectDesc>
-                        
-                        <handDesc><!-- use the @hands attribute to record the number of scribes -->
-                            <handNote>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc><!-- use the @hands attribute to record the number of scribes -->
+                     <handNote>
                                 楷書抄寫</handNote>
-                            <!-- use additional handNote elements if necessary 
+                     <!-- use additional handNote elements if necessary 
                      https://git.io/msdescdoc#handdesc
                      -->
-                        </handDesc>
-                        
-                        <decoDesc>
-                            <decoNote>
+                  </handDesc>
+                  <decoDesc>
+                     <decoNote>
                                 書衣為栗色毛邊紙製成</decoNote>
-                            <!-- use additional decoNote elements if necessary 
+                     <!-- use additional decoNote elements if necessary 
                      https://git.io/msdescdoc#decodesc
                      -->
-                        </decoDesc>
-                        
-                        <bindingDesc>
-                            <binding when="1500"><!-- use dating attributes to record the date -->
-                                <p>綫裝書</p>
-                                <decoNote><!-- insert relevant information, otherwise delete --></decoNote>
-                            </binding>
-                        </bindingDesc>
-                        <accMat>
+                  </decoDesc>
+                  <bindingDesc>
+                     <binding when="1500"><!-- use dating attributes to record the date -->
+                        <p part="N">綫裝書</p>
+                        <decoNote><!-- insert relevant information, otherwise delete --></decoNote>
+                     </binding>
+                  </bindingDesc>
+                  <accMat>
                             <!-- insert if relevant, otherwise delete 
                      https://git.io/msdescdoc#accMat          
                      -->
                         </accMat>
-                    </physDesc>
-                    
-                    <history>
+               </physDesc>
+               <history>
                         <!-- see https://git.io/msdescdoc#history -->
-                        <origin>
+                  <origin instant="false">
                             <!-- see https://git.io/msdescdoc#origin -->
-                            <origPlace>
-                                <country>中國</country>,
+                     <origPlace instant="false">
+                        <country>中國</country>,
                                 <region>不詳</region>,
                                 
                             </origPlace>
-                            <origDate notAfter="1900" notBefore="1800" calendar="Gregorian">清代</origDate>
-                            <!-- use additional origPlace and origDate elements if necessary -->
-                        </origin>
-                        
-                        <!-- use additional provenance elements if necessary -->
-                        <acquisition>
+                     <origDate notAfter="1900"
+                               notBefore="1800"
+                               calendar="Gregorian"
+                               instant="false">清代</origDate>
+                     <!-- use additional origPlace and origDate elements if necessary -->
+                  </origin>
+                  <!-- use additional provenance elements if necessary -->
+                  <acquisition>
                             <!-- insert -->
                             <!-- use dating attributes where possible -->
                         </acquisition>
-                    </history>
-                    <additional>
-                        <adminInfo>
-                            <recordHist>
-                                <source>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
                                     <!-- insert prose here; see https://git.io/msdescdoc#recordHist -->
-                                    <bibl><!-- insert if necesary, otherwise delete --></bibl>
-                                    <!-- links to digitized catalogues may also be provide here, e.g.: -->
-                                    <!--<listBibl>
+                           <bibl default="false" status="draft"><!-- insert if necesary, otherwise delete --></bibl>
+                           <!-- links to digitized catalogues may also be provide here, e.g.: -->
+                           <!--<listBibl>
                               <bibl type="SC" facs="aas0046.gif">Summary Catalogue, Vol. 3, p.  31</bibl>
                            </listBibl>-->
-                                </source>
-                            </recordHist>
-                        </adminInfo>
-                        <surrogates>
-                            <bibl type="digital-facsimile" subtype="full">
-                                <ref target="https://digital.bodleian.ox.ac.uk/objects/964ca89f-c886-4d71-aeda-c701b324d7d4/">
-                                    <title>Digital Bodleian</title></ref> <note>(full digital facsimile)</note>
-                            </bibl>
-                        </surrogates>
-                        <listBibl>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+                  <surrogates>
+                     <bibl type="digital-facsimile"
+                           subtype="full"
+                           default="false"
+                           status="draft">
+                        <ref target="https://digital.bodleian.ox.ac.uk/objects/964ca89f-c886-4d71-aeda-c701b324d7d4/">
+                           <title>Digital Bodleian</title>
+                        </ref>
+                        <note anchored="true">(full digital facsimile)</note>
+                     </bibl>
+                  </surrogates>
+                  <listBibl default="false">
                             <!-- a number of listBibl elements can be nested inside an outer listBibl if required -->
-                            <head><!-- use to provide a heading if required, otherwise delete --></head>
-                            <bibl><!-- insert bibliography, links to online resource, etc., otherwise delete--></bibl>
-                            
-                        </listBibl>
-                    </additional>
-                    <msPart>
-                        <msIdentifier>
-                            <altIdentifier type="part"><idno>MS. Backhouse 2a/1 </idno></altIdentifier>
-                        </msIdentifier>
-                        <msContents>
-                            <msItem>
-                                
-                                <msItem><title>簷曝雜記</title>
-                                <note><locus>p.1</locus><q>欽賞三品職銜准重赴鹿鳴宴謝摺</q></note>
-                                
-                                <note><locus>p.3</locus><q>跋吳氏三老【圃】</q></note>
-                                <note><locus>p.4</locus><q>老境，妖民吸精髓</q></note>
-                                <note><locus>p.5</locus><q>書史印曾死孝事，書劉慕陔綿州救難民事 </q></note>
-                                <note><locus>p.6</locus><q>西山煤</q></note></msItem>
-                                <msItem>
-                                    <title type="sub">簷曝雜記卷一</title>
-                                <note><locus>p.7</locus><q>《簷曝雜記卷一》陽湖趙翼雲崧《軍機處》 </q></note>
-                                <note><locus>p.10</locus><q>廷寄，軍機大臣同進見</q></note>
-                                <note><locus>p.12</locus><q>軍機撰擬之速，軍機【值】舍</q></note>
-                                <note><locus>p.15</locus><q>聖射， 皇子讀書</q></note>
-                                <note><locus>p.16</locus><q>皇子善射</q></note>
-                                <note><locus>p.18</locus><q>【烟】火</q></note>
-                                <note><locus>p.19</locus><q>木蘭殺虎</q></note>
-                                <note><locus>p.20</locus><q>跳駝撩脚雑戯，蒙古詐馬戯</q></note>
-                                <note><locus>P.21</locus><q>犬斃虎，鷹兔</q></note>
-                                <note><locus>p.22</locus><q>木蘭物產</q></note>
-                                <note><locus>p.23</locus><q>蒙古食酪，蒙古尊奉喇嘛</q></note>
-                                <note><locus>P.24</locus><q>黃教紅教</q></note>
-                                <note><locus>p.25</locus><q>達瓦齊,黑水營之圍 </q></note>
-                                <note><locus>P.26</locus><q>俄儸斯</q></note>
-                                <note><locus>p.27</locus><q>茶葉大黃</q></note>
-                                <note><locus>p.28</locus><q>回人繩伎</q></note></msItem>
-                                <msItem>
-                                    <title type="sub">簷曝雜記卷二</title>
-                                    <note><locus>p.29</locus><q>《簷曝雜記卷二》陽湖趙翼雲崧《杭應龍先生》</q></note>
-                                    <note><locus>p.30</locus><q>汪文端公</q></note>
-                                    <note><locus>p.31</locus><q>傅文忠公愛才</q></note>
-                                    <note><locus>p.32</locus><q>関總憲愛才</q></note>
-                                    <note><locus>p.34</locus><q>辛已殿試</q></note>
-                                    <note><locus>p.37</locus><q>殿試送卷頭</q></note>
-                                    <note><locus>p.38</locus><q>武闈，汪劉二公文學，劉文正公塞陽橋決口</q></note>
-                                    <note><locus>p.39</locus><q>尹文端公肅清江南漕政，程文恭公遭遇</q></note>
-                                    <note><locus>p.40</locus><q>兩中鼎魁，相宅董仙翁 </q></note>
-                                    <note><locus>p.41</locus><q>揣骨史瞎子</q></note>
-                                    <note><locus>p.42</locus><q>兼管部務</q></note>
-                                    <note><locus>p.43</locus><q>軍需各數，京官趨勢弔喪，鐘表 </q></note>
-                                    <note><locus>p.44</locus><q>西洋千里鏡及樂器</q></note>
-                                    <note><locus>p.45</locus><q>梨園色藝，京師偷拐之技</q></note>
-                                    <note><locus>p.46</locus><q>狐祟</q></note>
-                                    <note><locus>p.47</locus><q>洪經畧行狀，李太虛戯本 </q></note>
-                                    <note><locus>p.48</locus><q>徐健【蓭】</q></note>
-                                    <note><locus>p.49</locus><q>高士奇</q></note>
-                                    <note><locus>p.50</locus><q>王雲錦</q></note>
-                            </msItem>
-                            <msItem>
-                                <title type="sub">簷曝雜記卷三</title>
-                                <note><locus>p.51</locus><q>《簷曝雜記卷三》陽湖趙翼雲崧《粵西灘峽》</q></note>
-                                <note><locus>p.52</locus><q>鎮安民俗，鎮安水土</q></note>
-                                <note><locus>p.53</locus><q>鎮安多虎</q></note>
-                                <note><locus>p.54</locus><q>獨秀山黑猿</q></note>
-                                <note><locus>p.55</locus><q>樹海，肉桂 </q></note>
-                                <note><locus>p.56</locus><q>麵木酒樹，三七鷄血藤</q></note>
-                                <note><locus>p.57</locus><q>山羊石羊， 蛤蚧，陰桫 </q></note>
-                                <note><locus>p.58</locus><q>邊郡風俗</q></note>
-                                <note><locus>p.59</locus><q>西南土音相通，緬甸之役</q></note>
-                                <note><locus>p.60</locus><q>雲南天氣之暖</q></note>
-                                <note><locus>p.61</locus><q>人變虎，象 </q></note>
-                                <note><locus>p.62</locus><q>碎蛇緬鈴，安寧州溫泉</q></note>
-                                <note><locus>p.63</locus><q>永昌府珍珠泉 響水塘瀑布</q></note>
-                                <note><locus>p.64</locus><q>寶石碧霞洗，乩仙 </q></note>
-                                <note><locus>p.65</locus><q>鎮安倉穀田照二事</q></note>
-                                <note><locus>p.67</locus><q>榕巢</q></note></msItem>
-
-                            </msItem> 
-                            
-                            
-                        </msContents>
-                        <physDesc><objectDesc><supportDesc><support><dimensions unit="cm" type="leaf" n="1"><!-- use standard attribute values, e.g. leaf, written  
+                     <head><!-- use to provide a heading if required, otherwise delete --></head>
+                     <bibl default="false" status="draft"><!-- insert bibliography, links to online resource, etc., otherwise delete--></bibl>
+                  </listBibl>
+               </additional>
+               <msPart>
+                  <msIdentifier>
+                     <altIdentifier type="part">
+                        <idno>MS. Backhouse 2a/1 </idno>
+                     </altIdentifier>
+                  </msIdentifier>
+                  <msContents>
+                     <msItem>
+                        <msItem>
+                           <title>簷曝雜記</title>
+                           <note anchored="true">
+                              <locus>p.1</locus>
+                              <q>欽賞三品職銜准重赴鹿鳴宴謝摺</q>
+                           </note>
+                           <note anchored="true">
+                              <locus>p.3</locus>
+                              <q>跋吳氏三老【圃】</q>
+                           </note>
+                           <note anchored="true">
+                              <locus>p.4</locus>
+                              <q>老境，妖民吸精髓</q>
+                           </note>
+                           <note anchored="true">
+                              <locus>p.5</locus>
+                              <q>書史印曾死孝事，書劉慕陔綿州救難民事 </q>
+                           </note>
+                           <note anchored="true">
+                              <locus>p.6</locus>
+                              <q>西山煤</q>
+                           </note>
+                        </msItem>
+                        <msItem>
+                           <title type="sub">簷曝雜記卷一</title>
+                           <note anchored="true">
+                              <locus>p.7</locus>
+                              <q>《簷曝雜記卷一》陽湖趙翼雲崧《軍機處》 </q>
+                           </note>
+                           <note anchored="true">
+                              <locus>p.10</locus>
+                              <q>廷寄，軍機大臣同進見</q>
+                           </note>
+                           <note anchored="true">
+                              <locus>p.12</locus>
+                              <q>軍機撰擬之速，軍機【值】舍</q>
+                           </note>
+                           <note anchored="true">
+                              <locus>p.15</locus>
+                              <q>聖射， 皇子讀書</q>
+                           </note>
+                           <note anchored="true">
+                              <locus>p.16</locus>
+                              <q>皇子善射</q>
+                           </note>
+                           <note anchored="true">
+                              <locus>p.18</locus>
+                              <q>【烟】火</q>
+                           </note>
+                           <note anchored="true">
+                              <locus>p.19</locus>
+                              <q>木蘭殺虎</q>
+                           </note>
+                           <note anchored="true">
+                              <locus>p.20</locus>
+                              <q>跳駝撩脚雑戯，蒙古詐馬戯</q>
+                           </note>
+                           <note anchored="true">
+                              <locus>P.21</locus>
+                              <q>犬斃虎，鷹兔</q>
+                           </note>
+                           <note anchored="true">
+                              <locus>p.22</locus>
+                              <q>木蘭物產</q>
+                           </note>
+                           <note anchored="true">
+                              <locus>p.23</locus>
+                              <q>蒙古食酪，蒙古尊奉喇嘛</q>
+                           </note>
+                           <note anchored="true">
+                              <locus>P.24</locus>
+                              <q>黃教紅教</q>
+                           </note>
+                           <note anchored="true">
+                              <locus>p.25</locus>
+                              <q>達瓦齊,黑水營之圍 </q>
+                           </note>
+                           <note anchored="true">
+                              <locus>P.26</locus>
+                              <q>俄儸斯</q>
+                           </note>
+                           <note anchored="true">
+                              <locus>p.27</locus>
+                              <q>茶葉大黃</q>
+                           </note>
+                           <note anchored="true">
+                              <locus>p.28</locus>
+                              <q>回人繩伎</q>
+                           </note>
+                        </msItem>
+                        <msItem>
+                           <title type="sub">簷曝雜記卷二</title>
+                           <note anchored="true">
+                              <locus>p.29</locus>
+                              <q>《簷曝雜記卷二》陽湖趙翼雲崧《杭應龍先生》</q>
+                           </note>
+                           <note anchored="true">
+                              <locus>p.30</locus>
+                              <q>汪文端公</q>
+                           </note>
+                           <note anchored="true">
+                              <locus>p.31</locus>
+                              <q>傅文忠公愛才</q>
+                           </note>
+                           <note anchored="true">
+                              <locus>p.32</locus>
+                              <q>関總憲愛才</q>
+                           </note>
+                           <note anchored="true">
+                              <locus>p.34</locus>
+                              <q>辛已殿試</q>
+                           </note>
+                           <note anchored="true">
+                              <locus>p.37</locus>
+                              <q>殿試送卷頭</q>
+                           </note>
+                           <note anchored="true">
+                              <locus>p.38</locus>
+                              <q>武闈，汪劉二公文學，劉文正公塞陽橋決口</q>
+                           </note>
+                           <note anchored="true">
+                              <locus>p.39</locus>
+                              <q>尹文端公肅清江南漕政，程文恭公遭遇</q>
+                           </note>
+                           <note anchored="true">
+                              <locus>p.40</locus>
+                              <q>兩中鼎魁，相宅董仙翁 </q>
+                           </note>
+                           <note anchored="true">
+                              <locus>p.41</locus>
+                              <q>揣骨史瞎子</q>
+                           </note>
+                           <note anchored="true">
+                              <locus>p.42</locus>
+                              <q>兼管部務</q>
+                           </note>
+                           <note anchored="true">
+                              <locus>p.43</locus>
+                              <q>軍需各數，京官趨勢弔喪，鐘表 </q>
+                           </note>
+                           <note anchored="true">
+                              <locus>p.44</locus>
+                              <q>西洋千里鏡及樂器</q>
+                           </note>
+                           <note anchored="true">
+                              <locus>p.45</locus>
+                              <q>梨園色藝，京師偷拐之技</q>
+                           </note>
+                           <note anchored="true">
+                              <locus>p.46</locus>
+                              <q>狐祟</q>
+                           </note>
+                           <note anchored="true">
+                              <locus>p.47</locus>
+                              <q>洪經畧行狀，李太虛戯本 </q>
+                           </note>
+                           <note anchored="true">
+                              <locus>p.48</locus>
+                              <q>徐健【蓭】</q>
+                           </note>
+                           <note anchored="true">
+                              <locus>p.49</locus>
+                              <q>高士奇</q>
+                           </note>
+                           <note anchored="true">
+                              <locus>p.50</locus>
+                              <q>王雲錦</q>
+                           </note>
+                        </msItem>
+                        <msItem>
+                           <title type="sub">簷曝雜記卷三</title>
+                           <note anchored="true">
+                              <locus>p.51</locus>
+                              <q>《簷曝雜記卷三》陽湖趙翼雲崧《粵西灘峽》</q>
+                           </note>
+                           <note anchored="true">
+                              <locus>p.52</locus>
+                              <q>鎮安民俗，鎮安水土</q>
+                           </note>
+                           <note anchored="true">
+                              <locus>p.53</locus>
+                              <q>鎮安多虎</q>
+                           </note>
+                           <note anchored="true">
+                              <locus>p.54</locus>
+                              <q>獨秀山黑猿</q>
+                           </note>
+                           <note anchored="true">
+                              <locus>p.55</locus>
+                              <q>樹海，肉桂 </q>
+                           </note>
+                           <note anchored="true">
+                              <locus>p.56</locus>
+                              <q>麵木酒樹，三七鷄血藤</q>
+                           </note>
+                           <note anchored="true">
+                              <locus>p.57</locus>
+                              <q>山羊石羊， 蛤蚧，陰桫 </q>
+                           </note>
+                           <note anchored="true">
+                              <locus>p.58</locus>
+                              <q>邊郡風俗</q>
+                           </note>
+                           <note anchored="true">
+                              <locus>p.59</locus>
+                              <q>西南土音相通，緬甸之役</q>
+                           </note>
+                           <note anchored="true">
+                              <locus>p.60</locus>
+                              <q>雲南天氣之暖</q>
+                           </note>
+                           <note anchored="true">
+                              <locus>p.61</locus>
+                              <q>人變虎，象 </q>
+                           </note>
+                           <note anchored="true">
+                              <locus>p.62</locus>
+                              <q>碎蛇緬鈴，安寧州溫泉</q>
+                           </note>
+                           <note anchored="true">
+                              <locus>p.63</locus>
+                              <q>永昌府珍珠泉 響水塘瀑布</q>
+                           </note>
+                           <note anchored="true">
+                              <locus>p.64</locus>
+                              <q>寶石碧霞洗，乩仙 </q>
+                           </note>
+                           <note anchored="true">
+                              <locus>p.65</locus>
+                              <q>鎮安倉穀田照二事</q>
+                           </note>
+                           <note anchored="true">
+                              <locus>p.67</locus>
+                              <q>榕巢</q>
+                           </note>
+                        </msItem>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc>
+                        <supportDesc>
+                           <support>
+                              <dimensions unit="cm" type="leaf" n="1"><!-- use standard attribute values, e.g. leaf, written  
                         https://git.io/msdescdoc#leafDimensions
-                        -->                           <height></height>
-                            <width> </width>
-                        </dimensions></support></supportDesc></objectDesc></physDesc>
-                        <history><provenance>Donated by Sir Edmund Trelawny Backhouse, Baronet (20 October 1873 – 8 January 1944).</provenance></history>
-                        
-                    </msPart>
-                    <msPart>
-                        <msIdentifier>
-                            <altIdentifier type="part"><idno>MS. Backhouse 2a/2</idno></altIdentifier>
-                        </msIdentifier>
-                        <msContents>
-                            <msItem>
-                                
-                                <msItem><title type="sub">簷曝雜記卷四</title>
-                                    <note><locus>p.1</locus><q>《簷曝雜記卷四》陽湖趙翼雲崧《廣東珠價》</q></note>
-                                    
-                                    <note><locus>p.3</locus><q>茭塘海盜</q></note>
-                                    <note><locus>p.5</locus><q>粵東沙田，西洋船</q></note>
-                                    <note><locus>p.6</locus><q>諸番，騾馬與人性相通</q></note>
-                                    <note><locus>p.7</locus><q>三界廟</q></note>
-                                    <note><locus>p.8</locus><q>黔粵人民，黔中猓俗</q></note>
-                                    <note><locus>p.9</locus><q>土例</q></note>
-                                    <note><locus>p.10</locus><q>滇黔民俗，苗猓陋俗</q></note>
-                                    <note><locus>p.11</locus><q>仕途豐嗇【頓】異</q></note>
-                                    <note><locus>p.12</locus><q>湖南祝由科</q></note>
-                                    <note><locus>p.13</locus><q>肩輿牽纜，緬甸安南出銀</q></note>
-                                    <note><locus>p.14</locus><q>雲南鐵索橋</q></note>
-                                    <note><locus>p.15</locus><q>榕樹黃果樹，甘肅水少 </q></note>
-                                    <note><locus>P.16</locus><q>蝦【暮】銜雹，甘省陋俗</q></note>
-                                    <note><locus>p.17</locus><q>逆向之亂，洛陽橋</q></note>
-                                    <note><locus>p.18</locus><q>閩俗好勇</q></note>
-                                    <note><locus>P.19</locus><q>井水灌田，斷水禦海寇</q></note>
-                                    <note><locus>p.20</locus><q>河底古木灰</q></note>
-                                    </msItem>
-                                <msItem>
-                                    <title type="sub">簷曝雜記卷五</title>
-                                    <note><locus>p.40</locus><q>《簷曝雜記》陽湖趙翼雲崧《高名衡》</q></note>
-                                    <note><locus>p.41</locus><q>駱養性</q></note>
-                                    <note><locus>p.42</locus><q>王承恩</q></note>
-                                    <note><locus>p.43</locus><q>張家玉，湯若望南懷仁</q></note>
-                                    <note><locus>p.44</locus><q>牛金星</q></note>
-                                    <note><locus>p.45</locus><q>洛陽伽藍記</q></note>
-                                    <note><locus>p.47</locus><q>庚申外史</q></note>
-                                    <note><locus>p.48</locus><q>綏冠紀畧</q></note>
-                                    <note><locus>p.53</locus><q>胃賑大案</q></note>
-                                    <note><locus>p.55</locus><q>銀杏樹</q></note>
-                                    <note><locus>p.56</locus><q>八仙</q></note>
-                                    <note><locus>p.57</locus><q>晏公廟，大和尚</q></note>
-                                    <note><locus>p.61</locus><q>爛眼邊單方，神效洗眼方</q></note>
-                                </msItem>  
-                            </msItem>  </msContents>
-                        <physDesc><objectDesc><supportDesc><support><dimensions unit="cm" type="leaf" n="1"><!-- use standard attribute values, e.g. leaf, written  
+                        -->
+                                 <height/>
+                                 <width> </width>
+                              </dimensions>
+                           </support>
+                        </supportDesc>
+                     </objectDesc>
+                  </physDesc>
+                  <history>
+                     <provenance>Donated by Sir Edmund Trelawny Backhouse, Baronet (20 October 1873 – 8 January 1944).</provenance>
+                  </history>
+               </msPart>
+               <msPart>
+                  <msIdentifier>
+                     <altIdentifier type="part">
+                        <idno>MS. Backhouse 2a/2</idno>
+                     </altIdentifier>
+                  </msIdentifier>
+                  <msContents>
+                     <msItem>
+                        <msItem>
+                           <title type="sub">簷曝雜記卷四</title>
+                           <note anchored="true">
+                              <locus>p.1</locus>
+                              <q>《簷曝雜記卷四》陽湖趙翼雲崧《廣東珠價》</q>
+                           </note>
+                           <note anchored="true">
+                              <locus>p.3</locus>
+                              <q>茭塘海盜</q>
+                           </note>
+                           <note anchored="true">
+                              <locus>p.5</locus>
+                              <q>粵東沙田，西洋船</q>
+                           </note>
+                           <note anchored="true">
+                              <locus>p.6</locus>
+                              <q>諸番，騾馬與人性相通</q>
+                           </note>
+                           <note anchored="true">
+                              <locus>p.7</locus>
+                              <q>三界廟</q>
+                           </note>
+                           <note anchored="true">
+                              <locus>p.8</locus>
+                              <q>黔粵人民，黔中猓俗</q>
+                           </note>
+                           <note anchored="true">
+                              <locus>p.9</locus>
+                              <q>土例</q>
+                           </note>
+                           <note anchored="true">
+                              <locus>p.10</locus>
+                              <q>滇黔民俗，苗猓陋俗</q>
+                           </note>
+                           <note anchored="true">
+                              <locus>p.11</locus>
+                              <q>仕途豐嗇【頓】異</q>
+                           </note>
+                           <note anchored="true">
+                              <locus>p.12</locus>
+                              <q>湖南祝由科</q>
+                           </note>
+                           <note anchored="true">
+                              <locus>p.13</locus>
+                              <q>肩輿牽纜，緬甸安南出銀</q>
+                           </note>
+                           <note anchored="true">
+                              <locus>p.14</locus>
+                              <q>雲南鐵索橋</q>
+                           </note>
+                           <note anchored="true">
+                              <locus>p.15</locus>
+                              <q>榕樹黃果樹，甘肅水少 </q>
+                           </note>
+                           <note anchored="true">
+                              <locus>P.16</locus>
+                              <q>蝦【暮】銜雹，甘省陋俗</q>
+                           </note>
+                           <note anchored="true">
+                              <locus>p.17</locus>
+                              <q>逆向之亂，洛陽橋</q>
+                           </note>
+                           <note anchored="true">
+                              <locus>p.18</locus>
+                              <q>閩俗好勇</q>
+                           </note>
+                           <note anchored="true">
+                              <locus>P.19</locus>
+                              <q>井水灌田，斷水禦海寇</q>
+                           </note>
+                           <note anchored="true">
+                              <locus>p.20</locus>
+                              <q>河底古木灰</q>
+                           </note>
+                        </msItem>
+                        <msItem>
+                           <title type="sub">簷曝雜記卷五</title>
+                           <note anchored="true">
+                              <locus>p.40</locus>
+                              <q>《簷曝雜記》陽湖趙翼雲崧《高名衡》</q>
+                           </note>
+                           <note anchored="true">
+                              <locus>p.41</locus>
+                              <q>駱養性</q>
+                           </note>
+                           <note anchored="true">
+                              <locus>p.42</locus>
+                              <q>王承恩</q>
+                           </note>
+                           <note anchored="true">
+                              <locus>p.43</locus>
+                              <q>張家玉，湯若望南懷仁</q>
+                           </note>
+                           <note anchored="true">
+                              <locus>p.44</locus>
+                              <q>牛金星</q>
+                           </note>
+                           <note anchored="true">
+                              <locus>p.45</locus>
+                              <q>洛陽伽藍記</q>
+                           </note>
+                           <note anchored="true">
+                              <locus>p.47</locus>
+                              <q>庚申外史</q>
+                           </note>
+                           <note anchored="true">
+                              <locus>p.48</locus>
+                              <q>綏冠紀畧</q>
+                           </note>
+                           <note anchored="true">
+                              <locus>p.53</locus>
+                              <q>胃賑大案</q>
+                           </note>
+                           <note anchored="true">
+                              <locus>p.55</locus>
+                              <q>銀杏樹</q>
+                           </note>
+                           <note anchored="true">
+                              <locus>p.56</locus>
+                              <q>八仙</q>
+                           </note>
+                           <note anchored="true">
+                              <locus>p.57</locus>
+                              <q>晏公廟，大和尚</q>
+                           </note>
+                           <note anchored="true">
+                              <locus>p.61</locus>
+                              <q>爛眼邊單方，神效洗眼方</q>
+                           </note>
+                        </msItem>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc>
+                        <supportDesc>
+                           <support>
+                              <dimensions unit="cm" type="leaf" n="1"><!-- use standard attribute values, e.g. leaf, written  
                         https://git.io/msdescdoc#leafDimensions
-                        -->                           <height></height>
-                            <width> </width>
-                        </dimensions></support></supportDesc></objectDesc></physDesc>
-                        <history><provenance>Donated by Sir Edmund Trelawny Backhouse, Baronet (20 October 1873 – 8 January 1944).</provenance></history>  
-                    </msPart>
-                    
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <revisionDesc>
-            <change>
+                        -->
+                                 <height/>
+                                 <width> </width>
+                              </dimensions>
+                           </support>
+                        </supportDesc>
+                     </objectDesc>
+                  </physDesc>
+                  <history>
+                     <provenance>Donated by Sir Edmund Trelawny Backhouse, Baronet (20 October 1873 – 8 January 1944).</provenance>
+                  </history>
+               </msPart>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change status="draft">
                 <!-- insert relevant text, e.g. 'First online publication' -->
                 <!-- provide the date of the change using the @when attribute -->
             </change>
-        </revisionDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <p><!--Body paragraph provided for validation and future transcription--></p>
-        </body>
-    </text>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p part="N"><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
 </TEI>
-
-
-

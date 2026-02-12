@@ -1,230 +1,221 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-
 <!-- use this template in cases where the manuscript is NOT composed of multiple codicological units. To avoid errors in the display of the record, be sure to delete elements that are not used. -->
-
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-    xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="manuscript_00000"><!-- insert the correct xmlid in the form manuscript_12345 -->
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>MS.Chin.a.2-5(R)</title>
-                
-                <respStmt>
-                    <resp>Cataloguer</resp>
-                    <persName>Boya Zhang</persName>
-                </respStmt>
-                
-            </titleStmt>
-            <editionStmt>
-                <edition>TEI P5</edition>
-                <funder>HD Chung Fund</funder>
-            </editionStmt>
-            <publicationStmt>
-                <publisher>Special Collections, Bodleian Libraries</publisher>
-                <address>
-                    <orgName type="department">Special Collections</orgName>
-                    <orgName type="unit">Bodleian Libraries</orgName>
-                    <orgName type="institution">University of Oxford</orgName>
-                    <street>Weston Library, Broad Street</street>
-                    <settlement>Oxford</settlement>
-                    <postCode>OX1 3BG</postCode>
-                    <country>United Kingdom</country>
-                </address>
-                <distributor>
-                    <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
-                </distributor>
-                <idno type="msID"><!-- insert normalized form of shelfmark --></idno>
-                <idno type="collection"><!-- insert normalized form of collection --></idno>
-                <idno type="catalogue"><!-- insert catalogue ID --></idno>
-            </publicationStmt>
-            <sourceDesc>
-                <msDesc xml:lang="en"><!-- optionally provide xmlid should as a normalized form of the shelfmark, e.g. Merton_College_MS_10 -->
-                    <msIdentifier>
-                        <settlement><!-- insert --></settlement>
-                        <repository>Bodleian Library</repository><!-- change if necessary -->
-                        <idno type="shelfmark">MS.Chin.a.2-5(R)</idno>
-                        
-                        
-                    </msIdentifier>
-                    
-                    <msContents>
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xml:id="manuscript_00000"><!-- insert the correct xmlid in the form manuscript_12345 -->
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>MS.Chin.a.2-5(R)</title>
+            <respStmt>
+               <resp>Cataloguer</resp>
+               <persName instant="false" full="yes">Boya Zhang</persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>TEI P5</edition>
+            <funder>HD Chung Fund</funder>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Special Collections, Bodleian Libraries</publisher>
+            <address>
+               <orgName type="department" instant="false" full="yes">Special Collections</orgName>
+               <orgName type="unit" instant="false" full="yes">Bodleian Libraries</orgName>
+               <orgName type="institution" instant="false" full="yes">University of Oxford</orgName>
+               <street>Weston Library, Broad Street</street>
+               <settlement>Oxford</settlement>
+               <postCode>OX1 3BG</postCode>
+               <country>United Kingdom</country>
+            </address>
+            <distributor>
+               <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+            </distributor>
+            <idno type="msID"><!-- insert normalized form of shelfmark --></idno>
+            <idno type="collection"><!-- insert normalized form of collection --></idno>
+            <idno type="catalogue"><!-- insert catalogue ID --></idno>
+         </publicationStmt>
+         <sourceDesc default="false">
+            <msDesc xml:lang="en" status="draft"><!-- optionally provide xmlid should as a normalized form of the shelfmark, e.g. Merton_College_MS_10 -->
+               <msIdentifier>
+                  <settlement><!-- insert --></settlement>
+                  <repository>Bodleian Library</repository>
+                  <!-- change if necessary -->
+                  <idno type="shelfmark">MS.Chin.a.2-5(R)</idno>
+               </msIdentifier>
+               <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>Four hanging scrolls featuring depictions of the underworld in traditional Chinese mythology.
+                  <summary>Four hanging scrolls featuring depictions of the underworld in traditional Chinese mythology.
                             These four scrolls are considered to be part of the same set with the two scrolls under the shelfmark MS.Chin.a.8,9(R).</summary>
-                        <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
-                        
-                        <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
+                  <textLang mainLang="zh">Chinese</textLang>
+                  <!-- change text and attribute if necessary -->
+                  <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
-                            <locus><!-- insert --></locus>
-                            <title key="supplied title">清佚名繪十殿閻王圖 軸</title>
-                            <title key="supplied title" xml:lang="en">Four hanging scrolls featuring depictions of the underworld in traditional Chinese mythology</title>
-                            <author key="_unknown">unknown</author>
-                            <msItem>
-                            <title key="subtitle">三殿宋帝王</title>
-                                <note type="注">Emperor Song of the third hall of the underworld</note>
-                            <incipit type="注">叁殿[？]誕</incipit>
-                                <incipit type="釋文">修補道路界殺放牲必得延年長生之樂</incipit>
-                                <incipit type="釋文">造千萬人來往之橋代代家有吉神穫福</incipit>
-                                <incipit type="釋文">傷殺禽獸屠財害命南托此報</incipit>
-                                <incipit type="釋文">貪屠人家財產謀妻害夫生前作業定受此獄</incipit>
-                                <explicit type="背面">MS. Chin. a. 2 (R)</explicit></msItem>
-                           
-                           <msItem>
-                               <title key="subtitle">四殿五官王</title>
-                               <note type="注">Emperor Wu Guan of the forth hall of the underworld</note>
-                               <incipit  type="注">二月十八日肆殿五官王聖誕</incipit>
-                               <incipit type="釋文">施捨棺木并葬用錢文世世子孫富厚家有吉神保佑</incipit>
-                               <incipit type="釋文">用大斗小秤出納不公難逃此獄受苦戒之戒之</incipit>
-                               <incipit type="釋文">好淫惡賭窩誘子男咒詛善人盡找血污受罪</incipit>
-                               <incipit type="釋文">生前常用砂水參糧貨賣死后地獄多受此刑</incipit>
-                               <explicit type="背面">MS. Chin. a. 3 (R)</explicit></msItem>
-                            
-                            <msItem>
-                                <title key="subtitle">八殿平等王</title>
-                                <note type="注">Emperor Ping Deng of the eighth hall of the underworld</note>
-                                <incipit  type="注">四月初八日玖殿平等王聖誕 （此畫的神像頭部上方文字“八殿平等王”有錯誤，題簽上正確，一般民間傳説應是八殿都市王，九殿平等王。）</incipit>
-                                <incipit type="釋文">凡人在世金裝佛相塑画神体捨財助善生生常得樂寿之報永遠綿綿</incipit>
-                                <incipit type="釋文">或為父母或為孝悌施齋供象永享長生安康之樂</incipit>
-                                <incipit type="釋文">施齋供像</incipit>
-                                <incipit type="釋文">多談闱闲好揚是非說己常論人短毀罵尊長咒咀天地舌地獄受苦</incipit>
-                                <incipit type="釋文">在世之人多憂父母受驚空之是虛假害人借刀刹人借口阙非今生不報來生受此</incipit>
-                                <explicit type="背面">MS. Chin. a. 4 (R)</explicit></msItem>
-                            
-                            <msItem>
-                                <title key="subtitle">十殿轉輪王</title>
-                                <note type="注">Emperor Zhuan Lun of the tenth hall of the underworld</note>
-                                <incipit  type="注">四月十七日拾殿轉輪王聖誕</incipit>
-                                <incipit type="釋文">惟善者施始度船接修橋路後代子孫登科貴顯之兆</incipit>
-                                <incipit type="釋文">印寫善書代權善經文化人成德者果報明鏡智恚不爽</incipit>
-                                <incipit type="釋文">凡人防火燒山防火害人水火無情傷生过重死后準弊火坑地獄受苦之報應</incipit>
-                                <incipit type="釋文">凡人在世多毀壞善書經文勸素吃葷改善作惡難免多為乞丐</incipit>
-                                <explicit type="背面">MS. Chin. a. 5 (R)</explicit> </msItem>
-                            
-                            <filiation>書畫卷軸，中外孤本。</filiation>  
-                        </msItem>
-                        <!-- insert further msItem elements as appropriate --> 
-                        
-                    </msContents>
-                    <physDesc>
-                        
-                        <objectDesc form="卷軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
-                            <supportDesc material="紙本"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                                <support>mulberry and bamboo mixed paper 紙本</support>
-                                <extent>4 scrolls 四軸
+                     <locus><!-- insert --></locus>
+                     <title key="supplied title">清佚名繪十殿閻王圖 軸</title>
+                     <title key="supplied title" xml:lang="en">Four hanging scrolls featuring depictions of the underworld in traditional Chinese mythology</title>
+                     <author key="_unknown">unknown</author>
+                     <msItem>
+                        <title key="subtitle">三殿宋帝王</title>
+                        <note type="注" anchored="true">Emperor Song of the third hall of the underworld</note>
+                        <note type="注" anchored="true">叁殿[？]誕</note>
+                        <note type="釋文" anchored="true">修補道路界殺放牲必得延年長生之樂</note>
+                        <note type="釋文" anchored="true">造千萬人來往之橋代代家有吉神穫福</note>
+                        <note type="釋文" anchored="true">傷殺禽獸屠財害命南托此報</note>
+                        <note type="釋文" anchored="true">貪屠人家財產謀妻害夫生前作業定受此獄</note>
+                        <note type="背面" anchored="true">MS. Chin. a. 2 (R)</note>
+                     </msItem>
+                     <msItem>
+                        <title key="subtitle">四殿五官王</title>
+                        <note type="注" anchored="true">Emperor Wu Guan of the forth hall of the underworld</note>
+                        <note type="注" anchored="true">二月十八日肆殿五官王聖誕</note>
+                        <note type="釋文" anchored="true">施捨棺木并葬用錢文世世子孫富厚家有吉神保佑</note>
+                        <note type="釋文" anchored="true">用大斗小秤出納不公難逃此獄受苦戒之戒之</note>
+                        <note type="釋文" anchored="true">好淫惡賭窩誘子男咒詛善人盡找血污受罪</note>
+                        <note type="釋文" anchored="true">生前常用砂水參糧貨賣死后地獄多受此刑</note>
+                        <note type="背面" anchored="true">MS. Chin. a. 3 (R)</note>
+                     </msItem>
+                     <msItem>
+                        <title key="subtitle">八殿平等王</title>
+                        <note type="注" anchored="true">Emperor Ping Deng of the eighth hall of the underworld</note>
+                        <note type="注" anchored="true">四月初八日玖殿平等王聖誕 （此畫的神像頭部上方文字“八殿平等王”有錯誤，題簽上正確，一般民間傳説應是八殿都市王，九殿平等王。）</note>
+                        <note type="釋文" anchored="true">凡人在世金裝佛相塑画神体捨財助善生生常得樂寿之報永遠綿綿</note>
+                        <note type="釋文" anchored="true">或為父母或為孝悌施齋供象永享長生安康之樂</note>
+                        <note type="釋文" anchored="true">施齋供像</note>
+                        <note type="釋文" anchored="true">多談闱闲好揚是非說己常論人短毀罵尊長咒咀天地舌地獄受苦</note>
+                        <note type="釋文" anchored="true">在世之人多憂父母受驚空之是虛假害人借刀刹人借口阙非今生不報來生受此</note>
+                        <note type="背面" anchored="true">MS. Chin. a. 4 (R)</note>
+                     </msItem>
+                     <msItem>
+                        <title key="subtitle">十殿轉輪王</title>
+                        <note type="注" anchored="true">Emperor Zhuan Lun of the tenth hall of the underworld</note>
+                        <note type="注" anchored="true">四月十七日拾殿轉輪王聖誕</note>
+                        <note type="釋文" anchored="true">惟善者施始度船接修橋路後代子孫登科貴顯之兆</note>
+                        <note type="釋文" anchored="true">印寫善書代權善經文化人成德者果報明鏡智恚不爽</note>
+                        <note type="釋文" anchored="true">凡人防火燒山防火害人水火無情傷生过重死后準弊火坑地獄受苦之報應</note>
+                        <note type="釋文" anchored="true">凡人在世多毀壞善書經文勸素吃葷改善作惡難免多為乞丐</note>
+                        <note type="背面" anchored="true">MS. Chin. a. 5 (R)</note>
+                     </msItem>
+                     <filiation>書畫卷軸，中外孤本。</filiation>
+                  </msItem>
+                  <!-- insert further msItem elements as appropriate -->
+               </msContents>
+               <physDesc>
+                  <objectDesc form="卷軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
+                     <supportDesc material="紙本"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
+                        <support>mulberry and bamboo mixed paper 紙本</support>
+                        <extent>4 scrolls 四軸
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
                         https://git.io/msdescdoc#leafDimensions
-                        -->                           <height>？</height>
-                                        <width>？</width>
-                                    </dimensions>
-                                    <!-- use additional dimensions elements if necessary -->
-                                </extent>
-                                
-                                <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
-                            </supportDesc>
-                            <layoutDesc>
-                                <layout>書畫卷軸，紙本，設色。</layout>
-                                
-                            </layoutDesc>
-                            
-                        </objectDesc>
-                        
-                        <handDesc><!-- use the @hands attribute to record the number of scribes -->
-                            <handNote>
+                        -->
+                              <height>？</height>
+                              <width>？</width>
+                           </dimensions>
+                           <!-- use additional dimensions elements if necessary -->
+                        </extent>
+                        <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>書畫卷軸，紙本，設色。</layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc><!-- use the @hands attribute to record the number of scribes -->
+                     <handNote>
                                 Text written in 楷書 (kai shu, regular) calligraphic style.
                             </handNote>
-                            <!-- use additional handNote elements if necessary 
+                     <!-- use additional handNote elements if necessary 
                      https://git.io/msdescdoc#handdesc
                      -->
-                        </handDesc>
-                        
-                        <decoDesc>
-                            <decoNote>
+                  </handDesc>
+                  <decoDesc>
+                     <decoNote>
                             </decoNote>
-                            <!-- use additional decoNote elements if necessary 
+                     <!-- use additional decoNote elements if necessary 
                      https://git.io/msdescdoc#decodesc
                      -->
-                        </decoDesc>
-                        
-                        <bindingDesc>
-                            <binding when="1800"><!-- use dating attributes to record the date -->
-                                <p>立軸</p>
-                                <decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <binding when="1800"><!-- use dating attributes to record the date -->
+                        <p part="N">立軸</p>
+                        <decoNote>
                                     A set of hanging scrolls, adorned in the three-color mount style, features the 'Heaven' section (天頭) 
                                     and the 'Earth' section (地脚) made of pale-blue silk. The horizontal stripes (隔水) are pale-red, and 
                                     the borders are blue. However, these scrolls show noticeable signs of bending and damage.
                                     立軸，三色裱，天頭和地脚為淺藍，隔水為朱色且有輕微褪色痕跡，邊為藍色。立軸有破損和水印，背面錦包首絲織物褪色破損嚴重。</decoNote>
-                            </binding>
-                        </bindingDesc>
-                        <accMat>
+                     </binding>
+                  </bindingDesc>
+                  <accMat>
                             <!-- insert if relevant, otherwise delete 
                      https://git.io/msdescdoc#accMat          
                      -->
                         </accMat>
-                    </physDesc>
-                    <history>
+               </physDesc>
+               <history>
                         <!-- see https://git.io/msdescdoc#history -->
-                        <origin>
+                  <origin instant="false">
                             <!-- see https://git.io/msdescdoc#origin -->
-                            <origPlace>
-                                <country>China</country>,
+                     <origPlace instant="false">
+                        <country>China</country>,
                                 <region><!-- insert --></region>,
                                 <settlement><!-- insert --></settlement>,
-                                <orgName><!-- insert --></orgName>
-                            </origPlace>
-                            <origDate notAfter="1900" notBefore="1700" calendar="Gregorian">晚清</origDate>
-                            <!-- use additional origPlace and origDate elements if necessary -->
-                        </origin>
-                        <provenance>
+                                <orgName instant="false" full="yes"><!-- insert --></orgName>
+                     </origPlace>
+                     <origDate notAfter="1900"
+                               notBefore="1700"
+                               calendar="Gregorian"
+                               instant="false">晚清</origDate>
+                     <!-- use additional origPlace and origDate elements if necessary -->
+                  </origin>
+                  <provenance>
                         </provenance>
-                        
-                        
-                        <!-- use additional provenance elements if necessary -->
-                        <acquisition>Acquired in 1906</acquisition>
-                    </history>
-                    <additional>
-                        <adminInfo>
-                            <recordHist>
-                                <source>
+                  <!-- use additional provenance elements if necessary -->
+                  <acquisition>Acquired in 1906</acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
                                     <!-- insert prose here; see https://git.io/msdescdoc#recordHist -->
-                                    <bibl><!-- insert if necesary, otherwise delete --></bibl>
-                                    <!-- links to digitized catalogues may also be provide here, e.g.: -->
-                                    <!--<listBibl>
+                           <bibl default="false" status="draft"><!-- insert if necesary, otherwise delete --></bibl>
+                           <!-- links to digitized catalogues may also be provide here, e.g.: -->
+                           <!--<listBibl>
                               <bibl type="SC" facs="aas0046.gif">Summary Catalogue, Vol. 3, p.  31</bibl>
                            </listBibl>-->
-                                </source>
-                            </recordHist>
-                        </adminInfo>
-                        <surrogates>
-                            <bibl type="digital-facsimile" subtype="full">
-                                <ref target="https://digital.bodleian.ox.ac.uk/objects/962b2726-aabd-476f-b1bd-9aa4fef07f25/">
-                                    <title>Digital Bodleian</title></ref> <note>(full digital facsimile)</note>
-                            </bibl>
-                        </surrogates>
-                        <listBibl>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+                  <surrogates>
+                     <bibl type="digital-facsimile"
+                           subtype="full"
+                           default="false"
+                           status="draft">
+                        <ref target="https://digital.bodleian.ox.ac.uk/objects/962b2726-aabd-476f-b1bd-9aa4fef07f25/">
+                           <title>Digital Bodleian</title>
+                        </ref>
+                        <note anchored="true">(full digital facsimile)</note>
+                     </bibl>
+                  </surrogates>
+                  <listBibl default="false">
                             <!-- a number of listBibl elements can be nested inside an outer listBibl if required -->
-                            <head><!-- use to provide a heading if required, otherwise delete --></head>
-                            <bibl><!-- insert bibliography, links to online resource, etc., otherwise delete--></bibl>
-                            
-                        </listBibl>
-                    </additional>
-                    
-                    
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <revisionDesc>
-            <change>
+                     <head><!-- use to provide a heading if required, otherwise delete --></head>
+                     <bibl default="false" status="draft"><!-- insert bibliography, links to online resource, etc., otherwise delete--></bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change status="draft">
                 <!-- insert relevant text, e.g. 'First online publication' -->
                 <!-- provide the date of the change using the @when attribute -->
             </change>
-        </revisionDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <p><!--Body paragraph provided for validation and future transcription--></p>
-        </body>
-    </text>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p part="N"><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
 </TEI>

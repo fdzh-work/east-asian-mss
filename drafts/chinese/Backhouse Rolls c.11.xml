@@ -1,367 +1,379 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-
 <!-- use this template in cases where the manuscript is NOT composed of multiple codicological units. To avoid errors in the display of the record, be sure to delete elements that are not used. -->
-
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-    xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="manuscript_00000"><!-- insert the correct xmlid in the form manuscript_12345 -->
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Backhouse Rolls c.11</title>
-                
-                <respStmt>
-                    <resp>Cataloguer</resp>
-                    <persName>Boya Zhang</persName>
-                </respStmt>
-                
-            </titleStmt>
-            <editionStmt>
-                <edition>TEI P5</edition>
-                <funder>HD Chung Fund</funder>
-            </editionStmt>
-            <publicationStmt>
-                <publisher>Special Collections, Bodleian Libraries</publisher>
-                <address>
-                    <orgName type="department">Special Collections</orgName>
-                    <orgName type="unit">Bodleian Libraries</orgName>
-                    <orgName type="institution">University of Oxford</orgName>
-                    <street>Weston Library, Broad Street</street>
-                    <settlement>Oxford</settlement>
-                    <postCode>OX1 3BG</postCode>
-                    <country>United Kingdom</country>
-                </address>
-                <distributor>
-                    <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
-                </distributor>
-                <idno type="msID"><!-- insert normalized form of shelfmark --></idno>
-                <idno type="collection"><!-- insert normalized form of collection --></idno>
-                <idno type="catalogue"><!-- insert catalogue ID --></idno>
-            </publicationStmt>
-            <sourceDesc>
-                <msDesc xml:lang="en"><!-- optionally provide xmlid should as a normalized form of the shelfmark, e.g. Merton_College_MS_10 -->
-                    <msIdentifier>
-                        <settlement><!-- insert --></settlement>
-                        <repository>Bodleian Library</repository><!-- change if necessary -->
-                        <idno type="shelfmark">Backhouse Rolls c.11</idno>
-                        
-                        
-                    </msIdentifier>
-                    
-                    <msContents>
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xml:id="manuscript_00000"><!-- insert the correct xmlid in the form manuscript_12345 -->
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Backhouse Rolls c.11</title>
+            <respStmt>
+               <resp>Cataloguer</resp>
+               <persName instant="false" full="yes">Boya Zhang</persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>TEI P5</edition>
+            <funder>HD Chung Fund</funder>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Special Collections, Bodleian Libraries</publisher>
+            <address>
+               <orgName type="department" instant="false" full="yes">Special Collections</orgName>
+               <orgName type="unit" instant="false" full="yes">Bodleian Libraries</orgName>
+               <orgName type="institution" instant="false" full="yes">University of Oxford</orgName>
+               <street>Weston Library, Broad Street</street>
+               <settlement>Oxford</settlement>
+               <postCode>OX1 3BG</postCode>
+               <country>United Kingdom</country>
+            </address>
+            <distributor>
+               <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+            </distributor>
+            <idno type="msID"><!-- insert normalized form of shelfmark --></idno>
+            <idno type="collection"><!-- insert normalized form of collection --></idno>
+            <idno type="catalogue"><!-- insert catalogue ID --></idno>
+         </publicationStmt>
+         <sourceDesc default="false">
+            <msDesc xml:lang="en" status="draft"><!-- optionally provide xmlid should as a normalized form of the shelfmark, e.g. Merton_College_MS_10 -->
+               <msIdentifier>
+                  <settlement><!-- insert --></settlement>
+                  <repository>Bodleian Library</repository>
+                  <!-- change if necessary -->
+                  <idno type="shelfmark">Backhouse Rolls c.11</idno>
+               </msIdentifier>
+               <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>A horizontal scroll of calligraphy featuring the Xing Shu, Cao Shu, and Kai Shu styles, attributed to various authors spanning the Jin to Qing dynasties.</summary>
-                        <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
-                        
-                        <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
+                  <summary>A horizontal scroll of calligraphy featuring the Xing Shu, Cao Shu, and Kai Shu styles, attributed to various authors spanning the Jin to Qing dynasties.</summary>
+                  <textLang mainLang="zh">Chinese</textLang>
+                  <!-- change text and attribute if necessary -->
+                  <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
-                            <locus><!-- insert --></locus>
-                            
-                            <title key="supplie title" >佚名臨王羲之書晉何劭逰仙詩 卷</title>
-                            <title key="supplie title" xml:lang="en">A calligraphy scroll attributed to Wang Xi Zhi</title>
-                            <author key="Q378564">   
-                                <persName>王羲之</persName>
-                                <persName type="字">逸少</persName>
-                                <persName type="人稱">王右軍</persName>
-                                <date notAfter="0400" notBefore="0300" calendar="Gregorian">303-361</date>
-                            </author>
-                            
-                            <author key="Q378564">   
-                                <persName>趙曙</persName>
-                                <persName type="曾用名">趙宗實</persName>
-                                <persName type="title">宋英宗</persName>
-                                <date notAfter="1100" notBefore="1000" calendar="Gregorian">1032-1067</date>
-                            </author>
-                            
-                            <author key="Q3566081">   
-                                <persName>王詵</persName>
-                                <persName type="字">晉卿</persName>
-                                <persName type="title">駙馬都尉</persName>
-                                <date notAfter="1100" notBefore="1000" calendar="Gregorian">1036-1093</date>
-                            </author>
-                            
-                            <author key="Q15904930">   
-                                <persName>王十朋</persName>
-                                <persName type="字">龜齡</persName>
-                                <persName type="號">梅溪</persName>
-                                <date notAfter="1200" notBefore="1100" calendar="Gregorian">1112-1171</date>
-                            </author>
-                            
-                            <author key="_xiehuilian">        
-                                <persName>謝惠聯</persName>
-                            </author>
-                            
-                            <author key="_dengjiuyuan">        
-                                <persName>鄧久原</persName>
-                            </author>
-                            
-                            <author key="Q2470693">   
-                                <persName>柯九思</persName>
-                                <persName type="字">敬仲</persName>
-                                <persName type="號">丹丘生</persName>
-                                <persName type="號">五雲閣吏</persName>
-                                <date notAfter="1400" notBefore="1200" calendar="Gregorian">1290-1343</date>
-                            </author>
-                            
-                            <author key="Q10943311">   
-                                <persName>姚廣孝</persName>
-                                <persName type="幼名">天僖</persName>
-                                <persName type="賜名">廣孝</persName>
-                                <persName type="法名">道衍</persName>
-                                <persName type="字">斯道</persName>
-                                <persName type="字">獨闇</persName>
-                                <persName type="號">獨庵老人</persName>
-                                <persName type="號">逃虛子</persName>
-                                <date notAfter="1500" notBefore="1300" calendar="Gregorian">1335-1418</date>
-                            </author>
-                            
-                            <author key="_zhangsu">        
-                                <persName>許明華</persName>
-                            </author>
-                            
-                            <author key="_xuminghua">        
-                                <persName>張肅</persName>
-                            </author>
-                            
-                            <author key="Q1005462">   
-                                <persName>陳繼儒</persName>
-                                <persName type="字">仲醇</persName>
-                                <persName type="號">麋公</persName>
-                                <persName type="號">白石山樵</persName>
-                                <date notAfter="1700" notBefore="1500" calendar="Gregorian">1558-1639</date>
-                            </author>
-                            
-                            <author key="Q3570960">   
-                                <persName>項聖謨</persName>
-                                <persName type="字">孔彰</persName>
-                                <persName type="號">易庵</persName>
-                                <date notAfter="1700" notBefore="1500" calendar="Gregorian">1597-1658</date>
-                            </author>
-                            
-                            <author key="Q702609">   
-                                <persName>王鐸</persName>
-                                <persName type="字">覺斯</persName>
-                                <persName type="字">覺之</persName>
-                                <persName type="號">嵩樵</persName>
-                                <persName type="號">十樵</persName>
-                                <persName type="號">石樵</persName>
-                                <persName type="號">癡庵</persName>
-                                <persName type="號">東臯長</persName>
-                                <persName type="號">癡庵道人</persName>
-                                <persName type="號">煙潭漁叟</persName>
-                                <persName type="號">雪塘漁隱</persName>
-                                <date notAfter="1700" notBefore="1500" calendar="Gregorian">1592-1652</date>
-                            </author>
-                            
-                            <author key="Q15936467">   
-                                <persName>笪重光</persName>
-                                <persName type="字">在辛</persName>
-                                <persName type="號">君宜</persName>
-                                <persName type="號">江上外史</persName>
-                                <persName type="號">郁岡掃雪道人</persName>
-                                <date notAfter="1700" notBefore="1600" calendar="Gregorian">1623-1692</date>
-                            </author>
-                            
-                            <author key="_jiangbo">   
-                                <persName>蔣薄</persName>
-                                <persName type="字">質甫</persName>
-                                <persName type="號">恆軒</persName>
-                                <date notAfter="1800" notBefore="1700" calendar="Gregorian">1708-1761</date>
-                            </author>
-                            
-                            <author key="Q10947777">   
-                                <persName>宋犖</persName>
-                                <persName type="字">牧仲</persName>
-                                <persName type="號">漫堂</persName>
-                                <persName type="號">西陂</persName>
-                                <persName type="號">綿津山人</persName>
-                                <persName type="號">滄浪㝢公</persName>
-                                <persName type="號">西陂放鴨翁</persName>
-                                <date notAfter="1800" notBefore="1600" calendar="Gregorian">1634-1714</date>
-                            </author>
-                            
-                            <author key="Q10916207">   
-                                <persName>史貽直</persName>
-                                <persName type="字">儆弦</persName>
-                                <persName type="號">鐵崖</persName>
-                                <date notAfter="1800" notBefore="1600" calendar="Gregorian">1682-1763</date>
-                            </author>
-                            <incipit type="釋文">晉囯奎章 蜀郡虞集</incipit>
-                            <incipit type="seal">日麗中原之寳</incipit>
-                            <incipit type="釋文">青青陵上松，亭亭高山柏。光色冬夏茂，根柢無凋落。吉士懷貞心，悟物思遠托。
+                     <locus><!-- insert --></locus>
+                     <title key="supplie title">佚名臨王羲之書晉何劭逰仙詩 卷</title>
+                     <title key="supplie title" xml:lang="en">A calligraphy scroll attributed to Wang Xi Zhi</title>
+                     <author key="Q378564">
+                        <persName instant="false" full="yes">王羲之</persName>
+                        <persName type="字" instant="false" full="yes">逸少</persName>
+                        <persName type="人稱" instant="false" full="yes">王右軍</persName>
+                        <date notAfter="0400"
+                              notBefore="0300"
+                              calendar="Gregorian"
+                              instant="false">303-361</date>
+                     </author>
+                     <author key="Q378564">
+                        <persName instant="false" full="yes">趙曙</persName>
+                        <persName type="曾用名" instant="false" full="yes">趙宗實</persName>
+                        <persName type="title" instant="false" full="yes">宋英宗</persName>
+                        <date notAfter="1100"
+                              notBefore="1000"
+                              calendar="Gregorian"
+                              instant="false">1032-1067</date>
+                     </author>
+                     <author key="Q3566081">
+                        <persName instant="false" full="yes">王詵</persName>
+                        <persName type="字" instant="false" full="yes">晉卿</persName>
+                        <persName type="title" instant="false" full="yes">駙馬都尉</persName>
+                        <date notAfter="1100"
+                              notBefore="1000"
+                              calendar="Gregorian"
+                              instant="false">1036-1093</date>
+                     </author>
+                     <author key="Q15904930">
+                        <persName instant="false" full="yes">王十朋</persName>
+                        <persName type="字" instant="false" full="yes">龜齡</persName>
+                        <persName type="號" instant="false" full="yes">梅溪</persName>
+                        <date notAfter="1200"
+                              notBefore="1100"
+                              calendar="Gregorian"
+                              instant="false">1112-1171</date>
+                     </author>
+                     <author key="_xiehuilian">
+                        <persName instant="false" full="yes">謝惠聯</persName>
+                     </author>
+                     <author key="_dengjiuyuan">
+                        <persName instant="false" full="yes">鄧久原</persName>
+                     </author>
+                     <author key="Q2470693">
+                        <persName instant="false" full="yes">柯九思</persName>
+                        <persName type="字" instant="false" full="yes">敬仲</persName>
+                        <persName type="號" instant="false" full="yes">丹丘生</persName>
+                        <persName type="號" instant="false" full="yes">五雲閣吏</persName>
+                        <date notAfter="1400"
+                              notBefore="1200"
+                              calendar="Gregorian"
+                              instant="false">1290-1343</date>
+                     </author>
+                     <author key="Q10943311">
+                        <persName instant="false" full="yes">姚廣孝</persName>
+                        <persName type="幼名" instant="false" full="yes">天僖</persName>
+                        <persName type="賜名" instant="false" full="yes">廣孝</persName>
+                        <persName type="法名" instant="false" full="yes">道衍</persName>
+                        <persName type="字" instant="false" full="yes">斯道</persName>
+                        <persName type="字" instant="false" full="yes">獨闇</persName>
+                        <persName type="號" instant="false" full="yes">獨庵老人</persName>
+                        <persName type="號" instant="false" full="yes">逃虛子</persName>
+                        <date notAfter="1500"
+                              notBefore="1300"
+                              calendar="Gregorian"
+                              instant="false">1335-1418</date>
+                     </author>
+                     <author key="_zhangsu">
+                        <persName instant="false" full="yes">許明華</persName>
+                     </author>
+                     <author key="_xuminghua">
+                        <persName instant="false" full="yes">張肅</persName>
+                     </author>
+                     <author key="Q1005462">
+                        <persName instant="false" full="yes">陳繼儒</persName>
+                        <persName type="字" instant="false" full="yes">仲醇</persName>
+                        <persName type="號" instant="false" full="yes">麋公</persName>
+                        <persName type="號" instant="false" full="yes">白石山樵</persName>
+                        <date notAfter="1700"
+                              notBefore="1500"
+                              calendar="Gregorian"
+                              instant="false">1558-1639</date>
+                     </author>
+                     <author key="Q3570960">
+                        <persName instant="false" full="yes">項聖謨</persName>
+                        <persName type="字" instant="false" full="yes">孔彰</persName>
+                        <persName type="號" instant="false" full="yes">易庵</persName>
+                        <date notAfter="1700"
+                              notBefore="1500"
+                              calendar="Gregorian"
+                              instant="false">1597-1658</date>
+                     </author>
+                     <author key="Q702609">
+                        <persName instant="false" full="yes">王鐸</persName>
+                        <persName type="字" instant="false" full="yes">覺斯</persName>
+                        <persName type="字" instant="false" full="yes">覺之</persName>
+                        <persName type="號" instant="false" full="yes">嵩樵</persName>
+                        <persName type="號" instant="false" full="yes">十樵</persName>
+                        <persName type="號" instant="false" full="yes">石樵</persName>
+                        <persName type="號" instant="false" full="yes">癡庵</persName>
+                        <persName type="號" instant="false" full="yes">東臯長</persName>
+                        <persName type="號" instant="false" full="yes">癡庵道人</persName>
+                        <persName type="號" instant="false" full="yes">煙潭漁叟</persName>
+                        <persName type="號" instant="false" full="yes">雪塘漁隱</persName>
+                        <date notAfter="1700"
+                              notBefore="1500"
+                              calendar="Gregorian"
+                              instant="false">1592-1652</date>
+                     </author>
+                     <author key="Q15936467">
+                        <persName instant="false" full="yes">笪重光</persName>
+                        <persName type="字" instant="false" full="yes">在辛</persName>
+                        <persName type="號" instant="false" full="yes">君宜</persName>
+                        <persName type="號" instant="false" full="yes">江上外史</persName>
+                        <persName type="號" instant="false" full="yes">郁岡掃雪道人</persName>
+                        <date notAfter="1700"
+                              notBefore="1600"
+                              calendar="Gregorian"
+                              instant="false">1623-1692</date>
+                     </author>
+                     <author key="_jiangbo">
+                        <persName instant="false" full="yes">蔣薄</persName>
+                        <persName type="字" instant="false" full="yes">質甫</persName>
+                        <persName type="號" instant="false" full="yes">恆軒</persName>
+                        <date notAfter="1800"
+                              notBefore="1700"
+                              calendar="Gregorian"
+                              instant="false">1708-1761</date>
+                     </author>
+                     <author key="Q10947777">
+                        <persName instant="false" full="yes">宋犖</persName>
+                        <persName type="字" instant="false" full="yes">牧仲</persName>
+                        <persName type="號" instant="false" full="yes">漫堂</persName>
+                        <persName type="號" instant="false" full="yes">西陂</persName>
+                        <persName type="號" instant="false" full="yes">綿津山人</persName>
+                        <persName type="號" instant="false" full="yes">滄浪㝢公</persName>
+                        <persName type="號" instant="false" full="yes">西陂放鴨翁</persName>
+                        <date notAfter="1800"
+                              notBefore="1600"
+                              calendar="Gregorian"
+                              instant="false">1634-1714</date>
+                     </author>
+                     <author key="Q10916207">
+                        <persName instant="false" full="yes">史貽直</persName>
+                        <persName type="字" instant="false" full="yes">儆弦</persName>
+                        <persName type="號" instant="false" full="yes">鐵崖</persName>
+                        <date notAfter="1800"
+                              notBefore="1600"
+                              calendar="Gregorian"
+                              instant="false">1682-1763</date>
+                     </author>
+                     <note type="釋文" anchored="true">晉囯奎章 蜀郡虞集</note>
+                     <note type="印章" anchored="true">日麗中原之寳</note>
+                     <note type="釋文" anchored="true">青青陵上松，亭亭高山柏。光色冬夏茂，根柢無凋落。吉士懷貞心，悟物思遠托。
                                 揚志玄雲際，流目矚巖石。羡昔王子喬，友道發伊洛。迢逓陵峻嶽，連翩御飛鶴。
-                                抗跡遺萬里，豈愁生人樂？長懷羡仙類，眩然心緜邈。</incipit>
-                            <note type="注">《逰仙詩》何劭</note>
-                            <incipit type="釋文">晉右軍書法不多，觀其草書，游目衆生等帖，久傳於世。按其人襟期磊落，氣宇軒昂，故其書亦矯矯不韋，向殊流俗。觀其墨飛筆舞，神動天隨，誠所謂：龍跳天門，虎臥鳳闕是也。即屢朝以來，曆有年所莫不珍藏，内府秘而寳之。籍因駙馬王詵酷嗜古蹟，朕遂以真蹟賜之。雖屬寸方不可不寳。 御筆。</incipit>
-                            <incipit type="釋文">余嘗性嗜古蹟，自漢以至唐人，詩人墨寶一片鱗甲，無不購求，以富收藏。惟晉羲之其墨蹟在當時固非甚鮮，迺自唐太宗秘得真蹟，珍藏御府，是以後世不多見也。邇奉上賜墨寶一方，倂御題一則，拜觀之下，覺此墨寳實寓森嚴于縱逸，蓄圓經于跳動，其變化倏忽莫可端倪，真令人驚嘆不已。自此世人臨學者雖積筆成山，弗能及也。故不憚裝潢藏之如寶，焚香頂供，使傳不朽云爾。</incipit>
-                            <incipit type="款識">駙馬都尉王詵敬藏</incipit>
-                            <incipit type="釋文">予觀晉右軍跡，於夕展玩[？]。既用筆之妙，並能效之去劣尺生跡輒為【峰？】【孤？】得此幅兄而擊最不置其意氣感羡是。</incipit>
-                            <incipit type="款識">謝惠聯謹跋</incipit>
-                            <incipit type="釋文">慶元二年建酉月三二日韓琦范仲淹汪應辰拜觀于凌清堂</incipit>
-                            <incipit type="款識">王十朋同觀拜手書</incipit>
-                            <incipit type="釋文">筆墨善壽世功業與並傳不然人已古及處尋遺箋我生無已晚不復觀前賢獲見右軍蹟後逸盖大年</incipit>
-                            <incipit type="款識">右涪鄧久原秘笈重裝收藏</incipit>
-                            <incipit type="釋文">書法自晉宋以及李唐，名家無不各立機高，而求一家之書.至於用筆一【求？】晉人之氣，習【詠】神【？】功，此王右軍筆法園勁，臨池之士當秘藏之。</incipit>
-                            <incipit type="款識">揭【？】斯【？】</incipit>
-                            <incipit type="釋文">右軍書為貞觀訪求殆，書惟楔帖流傳人間，頗多緣虞褚諸君摹本【散】落耳。次冊乃其真蹟，藏鋒斂鍔正中幸妙境之書，不中不寳。   </incipit>
-                            <incipit type="款識">至正元年仲春柯九思</incipit>
-                            <incipit type="釋文">右軍墨妙司晉唐而下歷世千載，惟三尺之童無動其美。按唐太宗時詔天下遍索右軍書，勒石垂世，莊之内帑，諒無遺墨，乃令復有此真蹟。豈從天而降【与】，抑從地而生【与】。見者無不驚嘆，愚謂希世之寶也。【與】天下廿之手以爲字。在天既以不泯右軍之精集使少處於世，此令見右軍書法之墨妙。斯會為以手於韓隨歷先至寳，【得】光之珠先至昭皆不得【与】。右軍並美【弗？】情【？】莊焉？此為【？】【？】換去功。</incipit>
-                            <incipit type="款識">永樂丁亥孟春上浣 太子少師姚廣孝書</incipit>
-                            <incipit type="釋文">字書云體，維有真楷行草篆隸云不同，其大致貴乎?遒勁飄逸而嫵媚作巧則【我？】所貴也，杜少俊所謂書貴瘦硬，方通神者厥呂皆歟。右軍在晉代中以文行別當世字書特餘事可種然，物以人而貴，況公筆高古優然一家仰而貴也。人或得之去尚知貴而愛之，為公胤冑寧不襲莊以為世澤之珎哉。</incipit>
-                            <incipit type="款識">皇明景泰六年春五月吉旦 庚午科鄉貢進士芝泉張肅書 </incipit>
-                            <incipit type="seal">張肅</incipit>
-                            <incipit type="釋文">予觀二王真跡十餘種矣，獨此法書心手相應自許不惑，故知唐之歐虞輩皆從此得也。</incipit>
-                            <incipit type="款識">許明華</incipit>
-                            <incipit type="釋文">王右軍書，字勢雄強，如龍跳天門，虎臥鳳闕，故歷代寳之，永以為訓。</incipit>
-                            <incipit type="款識">辛未秋【？】月 東海居士弼</incipit>
-                            <incipit type="釋文">自晉迄今改千百餘年，其間世故凡幾變滅而片紙焉能獨完？信神物【？】呵護在也。</incipit>
-                            <incipit type="款識">壬子夏初 眉公陳繼儒</incipit>
-                            <incipit type="款識">王右軍墨寳宋元國朝題跋</incipit>
-                            <incipit type="款識">庚辰冬十月三日重裝</incipit>
-                            <incipit type="釋文">化蜀秘府【金】【匱】始得見，光怪奪目其況【沉】之【日】【新】。復現人間，此書審觀各日，【鳶？】【飛】【蜍】【舞】得古法神機，在于【古】一人耳【仰】【是】玉寳。</incipit>
-                            <incipit type="款識">戊子五月 王鐸觀題</incipit>
-                            <incipit type="釋文">瀟灑山陰若士書，自不【？】蒼峯驚奮復脩稧屬雄文，坦腹無矜色，籠鵝綠夙闕悠悠千載下猶尔挹清芬。</incipit>
-                            <incipit type="款識">潤州笪重光</incipit>
-                            <incipit type="seal">笪重光印</incipit>
-                            <incipit type="seal">江上外史</incipit>
-                            <incipit type="seal">宋氏家藏書畫之印</incipit>
-                            <incipit type="釋文">蒼秀如古松知公當年【？】跌宕僅自然氣勢真磅礴寳墨價連城珎重。藏芸閣老古獲一觀五内忻然樂。</incipit>
-                            <incipit type="款識">恆軒蔣薄識</incipit>
-                            <incipit type="釋文">余見王右軍書皆刻石于此書法墨州無窮，畫以老法清【？】園熟，適古不【愛？】尤 不及得能书之士，其珎莊而寳玩之。</incipit>
-                            <incipit type="款識">牧仲宋犖</incipit>
-                            <incipit type="釋文">予宦逰有年數見右軍墨蹟，皆窘束羞澀類鈎摹而成者，決知其非真也，今觀此墨寶渾園遒勁，筆力雄偉，其起止屈轉超妙入神，又得宋元明以及國朝文人學士疏其本末，各行題跋。其贊襄助之妙無謂曲高而和寡矣。矧一人為之偈諸名家，為之佐賞玩之下，無人之愜心事也。予所尤【？】能集腋成裘使歷代名流皆收于一卷，則出人意外者，入予目中望，非一時之快覩歟，是以鄭重寳之以識其後。</incipit>
-                            <incipit type="款識">甲申春三月上浣裝 銕屋史貽直 </incipit>
-                            <incipit type="seal">江上外史</incipit>
-                            <incipit type="seal">史貽直印</incipit>
-                            <explicit type="題簽">劉石菴字</explicit>
-                            <explicit type="背面">B/342</explicit>
-                            
-                            <filiation>書法卷軸，中外孤本。</filiation>  
-                        </msItem>
-                        <!-- insert further msItem elements as appropriate --> 
-                        
-                    </msContents>
-                    <physDesc>
-                        
-                        <objectDesc form="卷軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
-                            <supportDesc material="紙本"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                                <support>mulberry and bamboo mixed paper 紙本</support>
-                                <extent>1 scroll  一卷
+                                抗跡遺萬里，豈愁生人樂？長懷羡仙類，眩然心緜邈。</note>
+                     <note type="注" anchored="true">《逰仙詩》何劭</note>
+                     <note type="釋文" anchored="true">晉右軍書法不多，觀其草書，游目衆生等帖，久傳於世。按其人襟期磊落，氣宇軒昂，故其書亦矯矯不韋，向殊流俗。觀其墨飛筆舞，神動天隨，誠所謂：龍跳天門，虎臥鳳闕是也。即屢朝以來，曆有年所莫不珍藏，内府秘而寳之。籍因駙馬王詵酷嗜古蹟，朕遂以真蹟賜之。雖屬寸方不可不寳。 御筆。</note>
+                     <note type="釋文" anchored="true">余嘗性嗜古蹟，自漢以至唐人，詩人墨寶一片鱗甲，無不購求，以富收藏。惟晉羲之其墨蹟在當時固非甚鮮，迺自唐太宗秘得真蹟，珍藏御府，是以後世不多見也。邇奉上賜墨寶一方，倂御題一則，拜觀之下，覺此墨寳實寓森嚴于縱逸，蓄圓經于跳動，其變化倏忽莫可端倪，真令人驚嘆不已。自此世人臨學者雖積筆成山，弗能及也。故不憚裝潢藏之如寶，焚香頂供，使傳不朽云爾。</note>
+                     <note type="款識" anchored="true">駙馬都尉王詵敬藏</note>
+                     <note type="釋文" anchored="true">予觀晉右軍跡，於夕展玩[？]。既用筆之妙，並能效之去劣尺生跡輒為【峰？】【孤？】得此幅兄而擊最不置其意氣感羡是。</note>
+                     <note type="款識" anchored="true">謝惠聯謹跋</note>
+                     <note type="釋文" anchored="true">慶元二年建酉月三二日韓琦范仲淹汪應辰拜觀于凌清堂</note>
+                     <note type="款識" anchored="true">王十朋同觀拜手書</note>
+                     <note type="釋文" anchored="true">筆墨善壽世功業與並傳不然人已古及處尋遺箋我生無已晚不復觀前賢獲見右軍蹟後逸盖大年</note>
+                     <note type="款識" anchored="true">右涪鄧久原秘笈重裝收藏</note>
+                     <note type="釋文" anchored="true">書法自晉宋以及李唐，名家無不各立機高，而求一家之書.至於用筆一【求？】晉人之氣，習【詠】神【？】功，此王右軍筆法園勁，臨池之士當秘藏之。</note>
+                     <note type="款識" anchored="true">揭【？】斯【？】</note>
+                     <note type="釋文" anchored="true">右軍書為貞觀訪求殆，書惟楔帖流傳人間，頗多緣虞褚諸君摹本【散】落耳。次冊乃其真蹟，藏鋒斂鍔正中幸妙境之書，不中不寳。   </note>
+                     <note type="款識" anchored="true">至正元年仲春柯九思</note>
+                     <note type="釋文" anchored="true">右軍墨妙司晉唐而下歷世千載，惟三尺之童無動其美。按唐太宗時詔天下遍索右軍書，勒石垂世，莊之内帑，諒無遺墨，乃令復有此真蹟。豈從天而降【与】，抑從地而生【与】。見者無不驚嘆，愚謂希世之寶也。【與】天下廿之手以爲字。在天既以不泯右軍之精集使少處於世，此令見右軍書法之墨妙。斯會為以手於韓隨歷先至寳，【得】光之珠先至昭皆不得【与】。右軍並美【弗？】情【？】莊焉？此為【？】【？】換去功。</note>
+                     <note type="款識" anchored="true">永樂丁亥孟春上浣 太子少師姚廣孝書</note>
+                     <note type="釋文" anchored="true">字書云體，維有真楷行草篆隸云不同，其大致貴乎?遒勁飄逸而嫵媚作巧則【我？】所貴也，杜少俊所謂書貴瘦硬，方通神者厥呂皆歟。右軍在晉代中以文行別當世字書特餘事可種然，物以人而貴，況公筆高古優然一家仰而貴也。人或得之去尚知貴而愛之，為公胤冑寧不襲莊以為世澤之珎哉。</note>
+                     <note type="款識" anchored="true">皇明景泰六年春五月吉旦 庚午科鄉貢進士芝泉張肅書 </note>
+                     <note type="印章" anchored="true">張肅</note>
+                     <note type="釋文" anchored="true">予觀二王真跡十餘種矣，獨此法書心手相應自許不惑，故知唐之歐虞輩皆從此得也。</note>
+                     <note type="款識" anchored="true">許明華</note>
+                     <note type="釋文" anchored="true">王右軍書，字勢雄強，如龍跳天門，虎臥鳳闕，故歷代寳之，永以為訓。</note>
+                     <note type="款識" anchored="true">辛未秋【？】月 東海居士弼</note>
+                     <note type="釋文" anchored="true">自晉迄今改千百餘年，其間世故凡幾變滅而片紙焉能獨完？信神物【？】呵護在也。</note>
+                     <note type="款識" anchored="true">壬子夏初 眉公陳繼儒</note>
+                     <note type="款識" anchored="true">王右軍墨寳宋元國朝題跋</note>
+                     <note type="款識" anchored="true">庚辰冬十月三日重裝</note>
+                     <note type="釋文" anchored="true">化蜀秘府【金】【匱】始得見，光怪奪目其況【沉】之【日】【新】。復現人間，此書審觀各日，【鳶？】【飛】【蜍】【舞】得古法神機，在于【古】一人耳【仰】【是】玉寳。</note>
+                     <note type="款識" anchored="true">戊子五月 王鐸觀題</note>
+                     <note type="釋文" anchored="true">瀟灑山陰若士書，自不【？】蒼峯驚奮復脩稧屬雄文，坦腹無矜色，籠鵝綠夙闕悠悠千載下猶尔挹清芬。</note>
+                     <note type="款識" anchored="true">潤州笪重光</note>
+                     <note type="印章" anchored="true">笪重光印</note>
+                     <note type="印章" anchored="true">江上外史</note>
+                     <note type="印章" anchored="true">宋氏家藏書畫之印</note>
+                     <note type="釋文" anchored="true">蒼秀如古松知公當年【？】跌宕僅自然氣勢真磅礴寳墨價連城珎重。藏芸閣老古獲一觀五内忻然樂。</note>
+                     <note type="款識" anchored="true">恆軒蔣薄識</note>
+                     <note type="釋文" anchored="true">余見王右軍書皆刻石于此書法墨州無窮，畫以老法清【？】園熟，適古不【愛？】尤 不及得能书之士，其珎莊而寳玩之。</note>
+                     <note type="款識" anchored="true">牧仲宋犖</note>
+                     <note type="釋文" anchored="true">予宦逰有年數見右軍墨蹟，皆窘束羞澀類鈎摹而成者，決知其非真也，今觀此墨寶渾園遒勁，筆力雄偉，其起止屈轉超妙入神，又得宋元明以及國朝文人學士疏其本末，各行題跋。其贊襄助之妙無謂曲高而和寡矣。矧一人為之偈諸名家，為之佐賞玩之下，無人之愜心事也。予所尤【？】能集腋成裘使歷代名流皆收于一卷，則出人意外者，入予目中望，非一時之快覩歟，是以鄭重寳之以識其後。</note>
+                     <note type="款識" anchored="true">甲申春三月上浣裝 銕屋史貽直 </note>
+                     <note type="印章" anchored="true">江上外史</note>
+                     <note type="印章" anchored="true">史貽直印</note>
+                     <note type="題簽" anchored="true">劉石菴字</note>
+                     <note type="背面" anchored="true">B/342</note>
+                     <filiation>書法卷軸，中外孤本。</filiation>
+                  </msItem>
+                  <!-- insert further msItem elements as appropriate -->
+               </msContents>
+               <physDesc>
+                  <objectDesc form="卷軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
+                     <supportDesc material="紙本"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
+                        <support>mulberry and bamboo mixed paper 紙本</support>
+                        <extent>1 scroll  一卷
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
                         https://git.io/msdescdoc#leafDimensions
-                        -->                           <height>？</height>
-                                        <width>？</width>
-                                    </dimensions>
-                                    <!-- use additional dimensions elements if necessary -->
-                                </extent>
-                                
-                                <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
-                            </supportDesc>
-                            <layoutDesc>
-                                <layout>Calligraphy written on trandtional Chinese paper of yellow colour.
+                        -->
+                              <height>？</height>
+                              <width>？</width>
+                           </dimensions>
+                           <!-- use additional dimensions elements if necessary -->
+                        </extent>
+                        <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>Calligraphy written on trandtional Chinese paper of yellow colour.
                                     書法卷軸，紙本。</layout>
-                                
-                            </layoutDesc>
-                            
-                        </objectDesc>
-                        
-                        <handDesc><!-- use the @hands attribute to record the number of scribes -->
-                            <handNote>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc><!-- use the @hands attribute to record the number of scribes -->
+                     <handNote>
                                 Text written in 行書 (xing shu, semi-cursive), 草書(cao shu, cursive) and 楷書 (kai shu, regular) calligraphic style.
                             </handNote>
-                            <!-- use additional handNote elements if necessary 
+                     <!-- use additional handNote elements if necessary 
                      https://git.io/msdescdoc#handdesc
                      -->
-                        </handDesc>
-                        
-                        <decoDesc>
-                            <decoNote>
+                  </handDesc>
+                  <decoDesc>
+                     <decoNote>
                             </decoNote>
-                            <!-- use additional decoNote elements if necessary 
+                     <!-- use additional decoNote elements if necessary 
                      https://git.io/msdescdoc#decodesc
                      -->
-                        </decoDesc>
-                        
-                        <bindingDesc>
-                            <binding when="1800"><!-- use dating attributes to record the date -->
-                                <p>卷軸</p>
-                                <decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <binding when="1800"><!-- use dating attributes to record the date -->
+                        <p part="N">卷軸</p>
+                        <decoNote>
                                     A handscroll with wide borders (大鑲手卷): The protective and decorative backing (錦包首) is crafted from yellow silk adorned with blue patterns, displaying signs of damage. The title label (題簽) is missing, while the 'Heaven' section (天) is fashioned from beige silk. Vertical stripes (隔水) and borders feature silk in white and beige. The frontispiece (引首) is made of traditional Chinese paper in white, and the colophon section (拖尾) is crafted from traditional Chinese paper.
                                     大鑲手卷，錦包首為黃色絲織物伴有藍色花紋，磨損較爲嚴重；無題簽。八寶帶為灰色絲織物，別子已丟失。天為米色絲織物，隔水和副隔水為白色和米色有花紋絲織物，引首為黃色紙本，撞邊為白色，拖尾為白色紙本。
                                 </decoNote>
-                            </binding>
-                        </bindingDesc>
-                        <accMat>
+                     </binding>
+                  </bindingDesc>
+                  <accMat>
                             <!-- insert if relevant, otherwise delete 
                      https://git.io/msdescdoc#accMat          
                      -->
                         </accMat>
-                    </physDesc>
-                    <history>
+               </physDesc>
+               <history>
                         <!-- see https://git.io/msdescdoc#history -->
-                        <origin>
+                  <origin instant="false">
                             <!-- see https://git.io/msdescdoc#origin -->
-                            <origPlace>
-                                <country>China</country>,
-                                <region></region>,
+                     <origPlace instant="false">
+                        <country>China</country>,
+                                <region/>,
                                 <settlement><!-- insert --></settlement>,
-                                <orgName><!-- insert --></orgName>
-                            </origPlace>
-                            <origDate notAfter="2000" notBefore="1600" calendar="Gregorian">年代不詳，約爲清人臨摹王羲之之作。</origDate>
-                            <!-- use additional origPlace and origDate elements if necessary -->
-                        </origin>
-                        <provenance>Donated by Sir Edmund Trelawny Backhouse, Baronet (20 October 1873 – 8 January 1944).</provenance>
-                        
-                        
-                        <!-- use additional provenance elements if necessary -->
-                        <acquisition>
+                                <orgName instant="false" full="yes"><!-- insert --></orgName>
+                     </origPlace>
+                     <origDate notAfter="2000"
+                               notBefore="1600"
+                               calendar="Gregorian"
+                               instant="false">年代不詳，約爲清人臨摹王羲之之作。</origDate>
+                     <!-- use additional origPlace and origDate elements if necessary -->
+                  </origin>
+                  <provenance>Donated by Sir Edmund Trelawny Backhouse, Baronet (20 October 1873 – 8 January 1944).</provenance>
+                  <!-- use additional provenance elements if necessary -->
+                  <acquisition>
                             <!-- insert -->
                             <!-- use dating attributes where possible -->
                         </acquisition>
-                    </history>
-                    <additional>
-                        <adminInfo>
-                            <recordHist>
-                                <source>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
                                     <!-- insert prose here; see https://git.io/msdescdoc#recordHist -->
-                                    <bibl><!-- insert if necesary, otherwise delete --></bibl>
-                                    <!-- links to digitized catalogues may also be provide here, e.g.: -->
-                                    <!--<listBibl>
+                           <bibl default="false" status="draft"><!-- insert if necesary, otherwise delete --></bibl>
+                           <!-- links to digitized catalogues may also be provide here, e.g.: -->
+                           <!--<listBibl>
                               <bibl type="SC" facs="aas0046.gif">Summary Catalogue, Vol. 3, p.  31</bibl>
                            </listBibl>-->
-                                </source>
-                            </recordHist>
-                        </adminInfo>
-                        <surrogates>
-                            <bibl type="digital-facsimile" subtype="full">
-                                <ref target="https://digital.bodleian.ox.ac.uk/objects/6aa07c40-8bf7-473c-bed1-aecf20d896ad/">
-                                    <title>Digital Bodleian</title></ref> <note>(full digital facsimile)</note>
-                            </bibl>
-                        </surrogates>
-                        <listBibl>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+                  <surrogates>
+                     <bibl type="digital-facsimile"
+                           subtype="full"
+                           default="false"
+                           status="draft">
+                        <ref target="https://digital.bodleian.ox.ac.uk/objects/6aa07c40-8bf7-473c-bed1-aecf20d896ad/">
+                           <title>Digital Bodleian</title>
+                        </ref>
+                        <note anchored="true">(full digital facsimile)</note>
+                     </bibl>
+                  </surrogates>
+                  <listBibl default="false">
                             <!-- a number of listBibl elements can be nested inside an outer listBibl if required -->
-                            <head><!-- use to provide a heading if required, otherwise delete --></head>
-                            <bibl><!-- insert bibliography, links to online resource, etc., otherwise delete--></bibl>
-                            
-                        </listBibl>
-                    </additional>
-                    
-                    
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <revisionDesc>
-            <change>
+                     <head><!-- use to provide a heading if required, otherwise delete --></head>
+                     <bibl default="false" status="draft"><!-- insert bibliography, links to online resource, etc., otherwise delete--></bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change status="draft">
                 <!-- insert relevant text, e.g. 'First online publication' -->
                 <!-- provide the date of the change using the @when attribute -->
             </change>
-        </revisionDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <p><!--Body paragraph provided for validation and future transcription--></p>
-        </body>
-    </text>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p part="N"><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
 </TEI>

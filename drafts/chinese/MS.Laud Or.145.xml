@@ -1,267 +1,342 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-
 <!-- use this template in cases where the manuscript is NOT composed of multiple codicological units. To avoid errors in the display of the record, be sure to delete elements that are not used. -->
-
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-    xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="manuscript_00001"><!-- insert the correct xmlid in the form manuscript_12345 -->
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>MS.Laud Or.145</title>
-                
-                <respStmt>
-                    <resp>Cataloguer</resp>
-                    <persName>Boya Zhang</persName>
-                </respStmt>
-                
-            </titleStmt>
-            <editionStmt>
-                <edition>TEI P5</edition>
-                <funder>HD Chung Fund</funder>
-            </editionStmt>
-            <publicationStmt>
-                <publisher>Special Collections, Bodleian Libraries</publisher>
-                <address>
-                    <orgName type="department">Special Collections</orgName>
-                    <orgName type="unit">Bodleian Libraries</orgName>
-                    <orgName type="institution">University of Oxford</orgName>
-                    <street>Weston Library, Broad Street</street>
-                    <settlement>Oxford</settlement>
-                    <postCode>OX1 3BG</postCode>
-                    <country>United Kingdom</country>
-                </address>
-                <distributor>
-                    <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
-                </distributor>
-                <idno type="msID"><!-- insert normalized form of shelfmark --></idno>
-                <idno type="collection"><!-- insert normalized form of collection --></idno>
-                <idno type="catalogue"><!-- insert catalogue ID --></idno>
-            </publicationStmt>
-            <sourceDesc>
-                <msDesc xml:lang="en"><!-- optionally provide xmlid should as a normalized form of the shelfmark, e.g. Merton_College_MS_10 -->
-                    <msIdentifier>
-                        <settlement><!-- insert --></settlement>
-                        <repository>Bodleian Library</repository><!-- change if necessary -->
-                        <idno type="shelfmark">MS.Laud Or.145</idno>
-                        <altIdentifier type="former">
-                            <idno>Arch.O.d.41</idno>
-                        </altIdentifier>
-                        
-                    </msIdentifier>
-                    
-                    <msContents>
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xml:id="manuscript_00001"><!-- insert the correct xmlid in the form manuscript_12345 -->
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>MS.Laud Or.145</title>
+            <respStmt>
+               <resp>Cataloguer</resp>
+               <persName instant="false" full="yes">Boya Zhang</persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>TEI P5</edition>
+            <funder>HD Chung Fund</funder>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Special Collections, Bodleian Libraries</publisher>
+            <address>
+               <orgName type="department" instant="false" full="yes">Special Collections</orgName>
+               <orgName type="unit" instant="false" full="yes">Bodleian Libraries</orgName>
+               <orgName type="institution" instant="false" full="yes">University of Oxford</orgName>
+               <street>Weston Library, Broad Street</street>
+               <settlement>Oxford</settlement>
+               <postCode>OX1 3BG</postCode>
+               <country>United Kingdom</country>
+            </address>
+            <distributor>
+               <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+            </distributor>
+            <idno type="msID"><!-- insert normalized form of shelfmark --></idno>
+            <idno type="collection"><!-- insert normalized form of collection --></idno>
+            <idno type="catalogue"><!-- insert catalogue ID --></idno>
+         </publicationStmt>
+         <sourceDesc default="false">
+            <msDesc xml:lang="en" status="draft"><!-- optionally provide xmlid should as a normalized form of the shelfmark, e.g. Merton_College_MS_10 -->
+               <msIdentifier>
+                  <settlement><!-- insert --></settlement>
+                  <repository>Bodleian Library</repository>
+                  <!-- change if necessary -->
+                  <idno type="shelfmark">MS.Laud Or.145</idno>
+                  <altIdentifier type="former">
+                     <idno>Arch.O.d.41</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>An anoynymous manuscript of a rutter, or manual of compass directions. 
+                  <summary>An anoynymous manuscript of a rutter, or manual of compass directions. 
                                  The title 'Shun Feng Xiang Song' can be translated as 'Favourable Winds in Escort'.</summary>
-                        <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
-                        
-                        <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
+                  <textLang mainLang="zh">Chinese</textLang>
+                  <!-- change text and attribute if necessary -->
+                  <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
-                            <locus><!-- insert --></locus>
-                            <title key="">順風相送 (不分卷)</title>
-                            <title  xml:lang="en">Shun feng xiang song，
+                     <locus><!-- insert --></locus>
+                     <title key="">順風相送 (不分卷)</title>
+                     <title xml:lang="en">Shun feng xiang song，
                                                   Laud Rutter,
                                                   Favourable Winds in Escort</title>
-                            <author key="">佚名撰</author>
-                            <author key="">Unknown</author>
-                            <incipit><locus type="folio"> fol.3v</locus>Libri Guil: Laud Archicri Cancillar: Vniursit: Oxon, 1634.</incipit>
-                            <incipit type="preface"><locus type="folio"> fol.4r</locus>昔者周公設造指南之法，通自古今流行久遠，中有山形水勢，抄描啚寫終誤，或更數增減無有之或籌頭差別，無有之其古本年深破壞有無，難以比對。後人若抄寫從真本惟恐悞事予因暇日將更籌比對稽考通行較日於</incipit>
-                            <title>地羅經下針神文<locus type="folio"> fol.5r</locus></title>
-                            <title>行船更數法<locus type="folio"> fol.6v</locus></title>
-                            <title>取水法<locus type="folio"> fol.7r</locus></title>
-                            <title>下針法<locus type="folio"> fol.7r</locus></title>
-                            <title>逐月惡風法<locus type="folio"> fol.7r</locus></title>
-                            <title>定潮水消長時候<locus type="folio"> fol.8r</locus></title>
-                            <title>論四季電歌<locus type="folio"> fol.10r</locus></title>
-                            <title>四方電候歌<locus type="folio">folio.10r</locus></title>
-                            <title>觀星法<locus type="folio">folio.10r</locus></title>
-                            <title>定太陽出沒歌<locus type="folio">folio.11r</locus></title>
-                            <title>定太陰出沒歌<locus type="folio">folio.11r</locus></title>
-                            <title>定寅時歌<locus type="folio">folio.11v</locus></title>
-                            <title>定天德方<locus type="folio">folio.11r</locus></title>
-                            <title>定三方針法<locus type="folio">folio.11r</locus></title>
-                            <title>定四方針位<locus type="folio">folio.12r</locus></title>
-                            <title>定風用針法<locus type="folio">folio.12r</locus></title>
-                            <title>各處州府山形水勢深淺泥沙地礁石之啚<locus type="folio">folio.12r</locus></title>
-                            <title>靈山往爪蛙山形水勢法啚<locus type="folio">folio.15v</locus></title>
-                            <title>爪蛙回靈山來路<locus type="folio">folio.15v</locus></title>
-                            <title>新村爪娃至瞞喇咖山形水勢之啚<locus type="folio">folio.16v</locus></title>
-                            <title>坑山形水勢之啚<locus type="folio">folio.17r</locus></title>
-                            <title>玉皇寳號<locus type="folio">folio.17r</locus></title>
-                            <title>湄州娘媽<locus type="folio">folio.18r</locus></title>
-                            <title>福建往交趾針路<locus type="folio">folio.19r</locus></title>
-                            <title>往柬埔寨針路<locus type="folio">folio.19v</locus></title>
-                            <title>福建往暹羅針路<locus type="folio">folio.20v</locus></title>
-                            <title>浯嶼往大泥吉蘭丹<locus type="folio">folio.23r</locus></title>
-                            <title>太武往彭坊針路<locus type="folio">folio.24r</locus></title>
-                            <title>廣東往磨六甲針<locus type="folio">folio.25r</locus></title>
-                            <title>滿喇咖回廣東針路<locus type="folio">folio.26r</locus></title>
-                            <title>苧盤往舊港并順塔針路<locus type="folio">folio.26v</locus></title>
-                            <title>順塔往舊港及苧盤針路<locus type="folio">folio.27r</locus></title>
-                            <title>福建往爪蛙針路<locus type="folio">folio.27v</locus></title>
-                            <title>赤坎往柬埔寨針<locus type="folio">folio.29v</locus></title>
-                            <title>柬埔寨往大泥<locus type="folio">folio.30v</locus></title>
-                            <title>暹羅往大泥彭亨磨六甲<locus type="folio">folio.31r</locus></title>
-                            <title>羅灣頭往六甲針<locus type="folio">folio.33r</locus></title>
-                            <title>苧盤往丁機宜針<locus type="folio">folio.33v</locus></title>
-                            <title>赤坎往舊港順塔<locus type="folio">folio.34r</locus></title>
-                            <title>順塔外峽<locus type="folio">folio.35v</locus></title>
-                            <title>萬丹往池汶精妙針路<locus type="folio">folio.36r</locus></title>
-                            <title>順塔往遮里問淡目<locus type="folio">folio.37v</locus></title>
-                            <title>萬丹往馬神<locus type="folio">folio.38v</locus></title>
-                            <title>舊港往杜蠻<locus type="folio">folio.39r</locus></title>
-                            <title>大泥往池汶針路<locus type="folio">folio.39v</locus></title>
-                            <title>浯嶼往杜蠻饒潼<locus type="folio">folio.40v</locus></title>
-                            <title>偖蠻饒潼回針丹詳<locus type="folio">folio.41r</locus></title>
-                            <title>浯嶼取諸葛擔藍<locus type="folio">folio.10v</locus></title>
-                            <title>浯嶼往荖維<locus type="folio">folio.40v</locus></title>
-                            <title>馬神往高兜令銀<locus type="folio">folio.42v</locus></title>
-                            <title>阿齊回萬丹<locus type="folio">folio.43r</locus></title>
-                            <title>描律回加里仔蠻<locus type="folio">folio.44r</locus></title>
-                            <title>加里仔蠻回萬丹<locus type="folio">folio.44v</locus></title>
-                            <title>磨六甲往阿齊<locus type="folio">folio.45r</locus></title>
-                            <title>阿齊往羅里<locus type="folio">folio.45v</locus></title>
-                            <title>阿齊往傍伽喇<locus type="folio">folio.46r</locus></title>
-                            <title>阿齊往古里<locus type="folio">folio.46v</locus></title>
-                            <title>古里往忽魯謨斯<locus type="folio">folio.47v</locus></title>
-                            <title>古里往阿丹<locus type="folio">folio.47v</locus></title>
-                            <title>古里往祛法兒<locus type="folio">folio.49r</locus></title>
-                            <title>柬埔寨南港往筆架幷彭坊西<locus type="folio">folio.49v</locus></title>
-                            <title>柬埔寨往鳥丁礁林<locus type="folio">folio.50v</locus></title>
-                            <title>柬埔寨往暹羅<locus type="folio">folio.51r</locus></title>
-                            <title>暹羅往馬軍<locus type="folio">folio.51v</locus></title>
-                            <title>苧盤往文萊<locus type="folio">folio.52v</locus></title>
-                            <title>瞞咖喇往舊港<locus type="folio">folio.53v</locus></title>
-                            <title>往澎湖<locus type="folio">folio.56r</locus></title>
-                            <title>南【澳】往澎湖<locus type="folio">folio.56v</locus></title>
-                            <title>呂宋往文萊<locus type="folio">folio.57v</locus></title>
-                            <title>文萊回呂宋<locus type="folio">folio.58r</locus></title>
-                            <title>松浦往呂宋<locus type="folio">folio.58v</locus></title>
-                            <title>呂宋回松浦<locus type="folio">folio.59r</locus></title>
-                            <title>泉州往勃泥即文萊<locus type="folio">folio.59v</locus></title>
-                            <title>浯嶼麻里呂<locus type="folio">folio.60r</locus></title>
-                            <title>泉州往彭家施闌<locus type="folio">folio.60v</locus></title>
-                            <title>泉州往杉木<locus type="folio">folio.61r</locus></title>
-                            <title>杉木回浯嶼<locus type="folio">folio.61v</locus></title>
-                            <title>福建往琉球("釣魚嶼"is in this part)<locus type="folio">folio.62r</locus></title>
-                            <title>琉往日本針路球<locus type="folio">folio.63r</locus></title>
-                            <title>兵庫港回琉球針路<locus type="folio">folio.63v</locus></title>
-                            <title>琉球回福建<locus type="folio">folio.64r</locus></title>
-                            <title>日本港山水形勢<locus type="folio">folio.64v</locus></title>
-        
-                            <filiation>中外孤本 only surviving copy</filiation>
-                             </msItem>
-                       
-                    </msContents>
-                    <physDesc>
-                        
-                        <objectDesc form="codex"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
-                            <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                                <support>mulbery and bamboo mix paper</support>
-                                <extent>71 leaves
+                     <author key="">佚名撰</author>
+                     <author key="">Unknown</author>
+                     <note anchored="true">
+                        <locus type="folio"> fol.3v</locus>Libri Guil: Laud Archicri Cancillar: Vniursit: Oxon, 1634.</note>
+                     <note type="preface" anchored="true">
+                        <locus type="folio"> fol.4r</locus>昔者周公設造指南之法，通自古今流行久遠，中有山形水勢，抄描啚寫終誤，或更數增減無有之或籌頭差別，無有之其古本年深破壞有無，難以比對。後人若抄寫從真本惟恐悞事予因暇日將更籌比對稽考通行較日於</note>
+                     <title>地羅經下針神文<locus type="folio"> fol.5r</locus>
+                     </title>
+                     <title>行船更數法<locus type="folio"> fol.6v</locus>
+                     </title>
+                     <title>取水法<locus type="folio"> fol.7r</locus>
+                     </title>
+                     <title>下針法<locus type="folio"> fol.7r</locus>
+                     </title>
+                     <title>逐月惡風法<locus type="folio"> fol.7r</locus>
+                     </title>
+                     <title>定潮水消長時候<locus type="folio"> fol.8r</locus>
+                     </title>
+                     <title>論四季電歌<locus type="folio"> fol.10r</locus>
+                     </title>
+                     <title>四方電候歌<locus type="folio">folio.10r</locus>
+                     </title>
+                     <title>觀星法<locus type="folio">folio.10r</locus>
+                     </title>
+                     <title>定太陽出沒歌<locus type="folio">folio.11r</locus>
+                     </title>
+                     <title>定太陰出沒歌<locus type="folio">folio.11r</locus>
+                     </title>
+                     <title>定寅時歌<locus type="folio">folio.11v</locus>
+                     </title>
+                     <title>定天德方<locus type="folio">folio.11r</locus>
+                     </title>
+                     <title>定三方針法<locus type="folio">folio.11r</locus>
+                     </title>
+                     <title>定四方針位<locus type="folio">folio.12r</locus>
+                     </title>
+                     <title>定風用針法<locus type="folio">folio.12r</locus>
+                     </title>
+                     <title>各處州府山形水勢深淺泥沙地礁石之啚<locus type="folio">folio.12r</locus>
+                     </title>
+                     <title>靈山往爪蛙山形水勢法啚<locus type="folio">folio.15v</locus>
+                     </title>
+                     <title>爪蛙回靈山來路<locus type="folio">folio.15v</locus>
+                     </title>
+                     <title>新村爪娃至瞞喇咖山形水勢之啚<locus type="folio">folio.16v</locus>
+                     </title>
+                     <title>坑山形水勢之啚<locus type="folio">folio.17r</locus>
+                     </title>
+                     <title>玉皇寳號<locus type="folio">folio.17r</locus>
+                     </title>
+                     <title>湄州娘媽<locus type="folio">folio.18r</locus>
+                     </title>
+                     <title>福建往交趾針路<locus type="folio">folio.19r</locus>
+                     </title>
+                     <title>往柬埔寨針路<locus type="folio">folio.19v</locus>
+                     </title>
+                     <title>福建往暹羅針路<locus type="folio">folio.20v</locus>
+                     </title>
+                     <title>浯嶼往大泥吉蘭丹<locus type="folio">folio.23r</locus>
+                     </title>
+                     <title>太武往彭坊針路<locus type="folio">folio.24r</locus>
+                     </title>
+                     <title>廣東往磨六甲針<locus type="folio">folio.25r</locus>
+                     </title>
+                     <title>滿喇咖回廣東針路<locus type="folio">folio.26r</locus>
+                     </title>
+                     <title>苧盤往舊港并順塔針路<locus type="folio">folio.26v</locus>
+                     </title>
+                     <title>順塔往舊港及苧盤針路<locus type="folio">folio.27r</locus>
+                     </title>
+                     <title>福建往爪蛙針路<locus type="folio">folio.27v</locus>
+                     </title>
+                     <title>赤坎往柬埔寨針<locus type="folio">folio.29v</locus>
+                     </title>
+                     <title>柬埔寨往大泥<locus type="folio">folio.30v</locus>
+                     </title>
+                     <title>暹羅往大泥彭亨磨六甲<locus type="folio">folio.31r</locus>
+                     </title>
+                     <title>羅灣頭往六甲針<locus type="folio">folio.33r</locus>
+                     </title>
+                     <title>苧盤往丁機宜針<locus type="folio">folio.33v</locus>
+                     </title>
+                     <title>赤坎往舊港順塔<locus type="folio">folio.34r</locus>
+                     </title>
+                     <title>順塔外峽<locus type="folio">folio.35v</locus>
+                     </title>
+                     <title>萬丹往池汶精妙針路<locus type="folio">folio.36r</locus>
+                     </title>
+                     <title>順塔往遮里問淡目<locus type="folio">folio.37v</locus>
+                     </title>
+                     <title>萬丹往馬神<locus type="folio">folio.38v</locus>
+                     </title>
+                     <title>舊港往杜蠻<locus type="folio">folio.39r</locus>
+                     </title>
+                     <title>大泥往池汶針路<locus type="folio">folio.39v</locus>
+                     </title>
+                     <title>浯嶼往杜蠻饒潼<locus type="folio">folio.40v</locus>
+                     </title>
+                     <title>偖蠻饒潼回針丹詳<locus type="folio">folio.41r</locus>
+                     </title>
+                     <title>浯嶼取諸葛擔藍<locus type="folio">folio.10v</locus>
+                     </title>
+                     <title>浯嶼往荖維<locus type="folio">folio.40v</locus>
+                     </title>
+                     <title>馬神往高兜令銀<locus type="folio">folio.42v</locus>
+                     </title>
+                     <title>阿齊回萬丹<locus type="folio">folio.43r</locus>
+                     </title>
+                     <title>描律回加里仔蠻<locus type="folio">folio.44r</locus>
+                     </title>
+                     <title>加里仔蠻回萬丹<locus type="folio">folio.44v</locus>
+                     </title>
+                     <title>磨六甲往阿齊<locus type="folio">folio.45r</locus>
+                     </title>
+                     <title>阿齊往羅里<locus type="folio">folio.45v</locus>
+                     </title>
+                     <title>阿齊往傍伽喇<locus type="folio">folio.46r</locus>
+                     </title>
+                     <title>阿齊往古里<locus type="folio">folio.46v</locus>
+                     </title>
+                     <title>古里往忽魯謨斯<locus type="folio">folio.47v</locus>
+                     </title>
+                     <title>古里往阿丹<locus type="folio">folio.47v</locus>
+                     </title>
+                     <title>古里往祛法兒<locus type="folio">folio.49r</locus>
+                     </title>
+                     <title>柬埔寨南港往筆架幷彭坊西<locus type="folio">folio.49v</locus>
+                     </title>
+                     <title>柬埔寨往鳥丁礁林<locus type="folio">folio.50v</locus>
+                     </title>
+                     <title>柬埔寨往暹羅<locus type="folio">folio.51r</locus>
+                     </title>
+                     <title>暹羅往馬軍<locus type="folio">folio.51v</locus>
+                     </title>
+                     <title>苧盤往文萊<locus type="folio">folio.52v</locus>
+                     </title>
+                     <title>瞞咖喇往舊港<locus type="folio">folio.53v</locus>
+                     </title>
+                     <title>往澎湖<locus type="folio">folio.56r</locus>
+                     </title>
+                     <title>南【澳】往澎湖<locus type="folio">folio.56v</locus>
+                     </title>
+                     <title>呂宋往文萊<locus type="folio">folio.57v</locus>
+                     </title>
+                     <title>文萊回呂宋<locus type="folio">folio.58r</locus>
+                     </title>
+                     <title>松浦往呂宋<locus type="folio">folio.58v</locus>
+                     </title>
+                     <title>呂宋回松浦<locus type="folio">folio.59r</locus>
+                     </title>
+                     <title>泉州往勃泥即文萊<locus type="folio">folio.59v</locus>
+                     </title>
+                     <title>浯嶼麻里呂<locus type="folio">folio.60r</locus>
+                     </title>
+                     <title>泉州往彭家施闌<locus type="folio">folio.60v</locus>
+                     </title>
+                     <title>泉州往杉木<locus type="folio">folio.61r</locus>
+                     </title>
+                     <title>杉木回浯嶼<locus type="folio">folio.61v</locus>
+                     </title>
+                     <title>福建往琉球("釣魚嶼"is in this part)<locus type="folio">folio.62r</locus>
+                     </title>
+                     <title>琉往日本針路球<locus type="folio">folio.63r</locus>
+                     </title>
+                     <title>兵庫港回琉球針路<locus type="folio">folio.63v</locus>
+                     </title>
+                     <title>琉球回福建<locus type="folio">folio.64r</locus>
+                     </title>
+                     <title>日本港山水形勢<locus type="folio">folio.64v</locus>
+                     </title>
+                     <filiation>中外孤本 only surviving copy</filiation>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="codex"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
+                     <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
+                        <support>mulbery and bamboo mix paper</support>
+                        <extent>71 leaves
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
                         https://git.io/msdescdoc#leafDimensions
-                        -->                           <height>26</height>
-                                        <width>？</width>
-                                    </dimensions>
-                                    <!-- use additional dimensions elements if necessary -->
-                                </extent>
-                                
-                                <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
-                            </supportDesc>
-                            <layoutDesc>
-                                <layout>内頁無邊框，標題與正文均小字抄寫，半頁九行，單行抄寫，每行約二十四字。</layout>
-                                <!-- use additional layout elements if necessary 
+                        -->
+                              <height>26</height>
+                              <width>？</width>
+                           </dimensions>
+                           <!-- use additional dimensions elements if necessary -->
+                        </extent>
+                        <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>内頁無邊框，標題與正文均小字抄寫，半頁九行，單行抄寫，每行約二十四字。</layout>
+                        <!-- use additional layout elements if necessary 
                         https://git.io/msdescdoc#layoutdesc-->
-                            </layoutDesc>
-                        </objectDesc>
-                        
-                        <handDesc><!-- use the @hands attribute to record the number of scribes -->
-                            <handNote>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc><!-- use the @hands attribute to record the number of scribes -->
+                     <handNote>
                                 Text written in 楷體 (kai shu, regular) calligraphic style.</handNote>
-                            <!-- use additional handNote elements if necessary 
+                     <!-- use additional handNote elements if necessary 
                      https://git.io/msdescdoc#handdesc
                      -->
-                        </handDesc>
-                        <musicNotation>
-                            <p><!-- insert if relevant, otherwise delete --></p>
-                            <!-- use additional p elements if necessary 
+                  </handDesc>
+                  <musicNotation>
+                     <p part="N"><!-- insert if relevant, otherwise delete --></p>
+                     <!-- use additional p elements if necessary 
                      https://git.io/msdescdoc#musicnotation
                      -->
-                        </musicNotation>
-                        
-                        
-                        <bindingDesc>
-                            <binding when="1600"><!-- use dating attributes to record the date -->
-                                <p>彩色硬面，缐裝改洋裝。</p>
-                                <decoNote><!-- insert relevant information, otherwise delete --></decoNote>
-                            </binding>
-                        </bindingDesc>
-                        <accMat>
+                  </musicNotation>
+                  <bindingDesc>
+                     <binding when="1600"><!-- use dating attributes to record the date -->
+                        <p part="N">彩色硬面，缐裝改洋裝。</p>
+                        <decoNote><!-- insert relevant information, otherwise delete --></decoNote>
+                     </binding>
+                  </bindingDesc>
+                  <accMat>
                             <!-- insert if relevant, otherwise delete 
                      https://git.io/msdescdoc#accMat
                      -->
                         </accMat>
-                    </physDesc>
-                    <history>
+               </physDesc>
+               <history>
                         <!-- see https://git.io/msdescdoc#history -->
-                        <origin>
+                  <origin instant="false">
                             <!-- see https://git.io/msdescdoc#origin -->
-                            <origPlace>
-                                <country>China</country>,
+                     <origPlace instant="false">
+                        <country>China</country>,
                                 <region>福建省 Fujian Province</region>,
-                                <settlement></settlement>,
+                                <settlement/>,
                                 
                             </origPlace>
-                            <origDate notAfter="1600" notBefore="1500" calendar="Gregorian">明萬曆年間[1563-1620]</origDate>
-                            <!-- use additional origPlace and origDate elements if necessary -->
-                        </origin>
-                        <provenance>
+                     <origDate notAfter="1600"
+                               notBefore="1500"
+                               calendar="Gregorian"
+                               instant="false">明萬曆年間[1563-1620]</origDate>
+                     <!-- use additional origPlace and origDate elements if necessary -->
+                  </origin>
+                  <provenance>
                             Donated by Archbishop Laud in 1634.   
                         </provenance>
-                        <!-- use additional provenance elements if necessary -->
-                        <acquisition>
+                  <!-- use additional provenance elements if necessary -->
+                  <acquisition>
                             <!-- insert -->
                             <!-- use dating attributes where possible -->
                         </acquisition>
-                    </history>
-                    <additional>
-                        <adminInfo>
-                            <recordHist>
-                                <source>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
                                     <!-- insert prose here; see https://git.io/msdescdoc#recordHist -->
-                                    <bibl><!-- insert if necesary, otherwise delete --></bibl>
-                                    <!-- links to digitized catalogues may also be provide here, e.g.: -->
-                                    <!--<listBibl>
+                           <bibl default="false" status="draft"><!-- insert if necesary, otherwise delete --></bibl>
+                           <!-- links to digitized catalogues may also be provide here, e.g.: -->
+                           <!--<listBibl>
                               <bibl type="SC" facs="aas0046.gif">Summary Catalogue, Vol. 3, p.  31</bibl>
                            </listBibl>-->
-                                </source>
-                            </recordHist>
-                        </adminInfo>
-                        <listBibl>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+                  <listBibl default="false">
                             <!-- a number of listBibl elements can be nested inside an outer listBibl if required -->
-                            <head><!-- use to provide a heading if required, otherwise delete --></head>
-                            <bibl><!-- insert bibliography, links to online resource, etc., otherwise delete--></bibl>
-                            
-                        </listBibl>
-                    </additional>
-                    
-                    
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <revisionDesc>
-            <change>
+                     <head><!-- use to provide a heading if required, otherwise delete --></head>
+                     <bibl default="false" status="draft"><!-- insert bibliography, links to online resource, etc., otherwise delete--></bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change status="draft">
                 <!-- insert relevant text, e.g. 'First online publication' -->
                 <!-- provide the date of the change using the @when attribute -->
             </change>
-        </revisionDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <p><!--Body paragraph provided for validation and future transcription--></p>
-        </body>
-    </text>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p part="N"><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
 </TEI>

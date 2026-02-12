@@ -54,14 +54,14 @@
                      <locus><!-- insert --></locus>
                      <title key="supplie title">清慈禧太后畫花草 軸</title>
                      <title key="supplie title" xml:lang="en">A scroll featuring painting attributed to Empress Dowager Cixi.</title>
-                     <author key="Q47842">
+                     <author key="person_7209">
                         <persName instant="false" full="yes">慈禧太后</persName>
                         <date notAfter="2000"
                               notBefore="1800"
                               calendar="Gregorian"
                               instant="false">1835-1908</date>
                      </author>
-                     <author key="Q45699502">
+                     <author key="person_7210">
                         <persName instant="false" full="yes">徐郙</persName>
                         <persName type="字" instant="false" full="yes">頌閣</persName>
                         <date notAfter="1900"
@@ -77,22 +77,21 @@
                               calendar="Gregorian"
                               instant="false">1852-?</date>
                      </author>
-                     <note type="釋文">一抹秋痕映曉霧，蕭蕭瘦影寫橫斜。從今蓬島三山住，江上芙蓉未足誇。</note>
-                     <note type="seal">慈禧皇太后御覽之寳</note>
-                     <note type="seal">鑑空衡平</note>
-                     <note type="seal">徐郙之印</note>
-                     <note type="seal">翰林供奉</note>
-                     <note type="款識">徐郙敬題</note>
-                     <note type="釋文">微霜天氣雁來時，老圃秋寒挺勁姿。綽約風前生意暢，汀蘭岸芷共紛披。</note>
-                     <note type="seal">萬物光輝</note>
-                     <note type="seal">長春宮精鑒璽</note>
-                     <note type="seal">御賞</note>
-                     <note type="seal">奉明受光</note>
-                     <note type="seal">吳樹梅章</note>
-                     <note type="seal">朝朝染翰</note>
-                     <note type="款識">吳樹梅敬題</note>
-                     <note type="題簽">顯皇后御筆畫 徐郙吳樹梅二公題 Picturing of Empress dowager, presents by 1 statesman.</note>
-                     <filiation>書法卷軸，中外孤本。</filiation>
+                     <note type="釋文" anchored="true">一抹秋痕映曉霧，蕭蕭瘦影寫橫斜。從今蓬島三山住，江上芙蓉未足誇。</note>
+                     <note type="印章" anchored="true">慈禧皇太后御覽之寳</note>
+                     <note type="印章" anchored="true">鑑空衡平</note>
+                     <note type="印章" anchored="true">徐郙之印</note>
+                     <note type="印章" anchored="true">翰林供奉</note>
+                     <note type="款識" anchored="true">徐郙敬題</note>
+                     <note type="釋文" anchored="true">微霜天氣雁來時，老圃秋寒挺勁姿。綽約風前生意暢，汀蘭岸芷共紛披。</note>
+                     <note type="印章" anchored="true">萬物光輝</note>
+                     <note type="印章" anchored="true">長春宮精鑒璽</note>
+                     <note type="印章" anchored="true">御賞</note>
+                     <note type="印章" anchored="true">奉明受光</note>
+                     <note type="印章" anchored="true">吳樹梅章</note>
+                     <note type="印章" anchored="true">朝朝染翰</note>
+                     <note type="款識" anchored="true">吳樹梅敬題</note>
+                     <note type="題簽" anchored="true">顯皇后御筆畫 徐郙吳樹梅二公題 Picturing of Empress dowager, presents by 1 statesman.</note>
                   </msItem>
                   <!-- insert further msItem elements as appropriate -->
                </msContents>

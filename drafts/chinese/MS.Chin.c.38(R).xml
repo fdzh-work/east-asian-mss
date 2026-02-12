@@ -1,223 +1,226 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-
 <!-- use this template in cases where the manuscript is NOT composed of multiple codicological units. To avoid errors in the display of the record, be sure to delete elements that are not used. -->
-
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-    xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="manuscript_00000"><!-- insert the correct xmlid in the form manuscript_12345 -->
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>MS.Chin.c.38(R)</title>
-                
-                <respStmt>
-                    <resp>Cataloguer</resp>
-                    <persName>Boya Zhang</persName>
-                </respStmt>
-                
-            </titleStmt>
-            <editionStmt>
-                <edition>TEI P5</edition>
-                <funder>HD Chung Fund</funder>
-            </editionStmt>
-            <publicationStmt>
-                <publisher>Special Collections, Bodleian Libraries</publisher>
-                <address>
-                    <orgName type="department">Special Collections</orgName>
-                    <orgName type="unit">Bodleian Libraries</orgName>
-                    <orgName type="institution">University of Oxford</orgName>
-                    <street>Weston Library, Broad Street</street>
-                    <settlement>Oxford</settlement>
-                    <postCode>OX1 3BG</postCode>
-                    <country>United Kingdom</country>
-                </address>
-                <distributor>
-                    <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
-                </distributor>
-                <idno type="msID"><!-- insert normalized form of shelfmark --></idno>
-                <idno type="collection"><!-- insert normalized form of collection --></idno>
-                <idno type="catalogue"><!-- insert catalogue ID --></idno>
-            </publicationStmt>
-            <sourceDesc>
-                <msDesc xml:lang="en"><!-- optionally provide xmlid should as a normalized form of the shelfmark, e.g. Merton_College_MS_10 -->
-                    <msIdentifier>
-                        <settlement><!-- insert --></settlement>
-                        <repository>Bodleian Library</repository><!-- change if necessary -->
-                        <idno type="shelfmark">MS.Chin.c.38(R)</idno>
-                        
-                        
-                    </msIdentifier>
-                    
-                    <msContents>
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xml:id="manuscript_00000"><!-- insert the correct xmlid in the form manuscript_12345 -->
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>MS.Chin.c.38(R)</title>
+            <respStmt>
+               <resp>Cataloguer</resp>
+               <persName instant="false" full="yes">Boya Zhang</persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>TEI P5</edition>
+            <funder>HD Chung Fund</funder>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Special Collections, Bodleian Libraries</publisher>
+            <address>
+               <orgName type="department" instant="false" full="yes">Special Collections</orgName>
+               <orgName type="unit" instant="false" full="yes">Bodleian Libraries</orgName>
+               <orgName type="institution" instant="false" full="yes">University of Oxford</orgName>
+               <street>Weston Library, Broad Street</street>
+               <settlement>Oxford</settlement>
+               <postCode>OX1 3BG</postCode>
+               <country>United Kingdom</country>
+            </address>
+            <distributor>
+               <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+            </distributor>
+            <idno type="msID"><!-- insert normalized form of shelfmark --></idno>
+            <idno type="collection"><!-- insert normalized form of collection --></idno>
+            <idno type="catalogue"><!-- insert catalogue ID --></idno>
+         </publicationStmt>
+         <sourceDesc default="false">
+            <msDesc xml:lang="en" status="draft"><!-- optionally provide xmlid should as a normalized form of the shelfmark, e.g. Merton_College_MS_10 -->
+               <msIdentifier>
+                  <settlement><!-- insert --></settlement>
+                  <repository>Bodleian Library</repository>
+                  <!-- change if necessary -->
+                  <idno type="shelfmark">MS.Chin.c.38(R)</idno>
+               </msIdentifier>
+               <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>Two pairs of couplets written by Zheng Xiao Xu (鄭孝胥 1860-1938).</summary>
-                        <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
-                        
-                        <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
+                  <summary>Two pairs of couplets written by Zheng Xiao Xu (鄭孝胥 1860-1938).</summary>
+                  <textLang mainLang="zh">Chinese</textLang>
+                  <!-- change text and attribute if necessary -->
+                  <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
-                            <locus><!-- insert --></locus>
-                            <title key="supplied title" xml:lang="en">Cheng Hsiao-HSÜ:[Four scrolls]
+                     <locus><!-- insert --></locus>
+                     <title key="supplied title" xml:lang="en">Cheng Hsiao-HSÜ:[Four scrolls]
                                                                       Zheng Xiao Xu: Four scrolls</title>
-                            <title key="supplied title">清鄭孝胥書法對聯兩對 軸</title>
-                            <author key="Q230200">   
-                                <persName>鄭孝胥</persName>
-                                <persName type="字">太夷</persName>
-                                <persName type="號">蘇龕</persName>
-                                <persName type="號">蘇戡</persName>
-                                <persName type="號">海藏</persName>
-                                <persName type="號">海藏楼主人</persName>
-                                <persName type="號">夜起庵叟</persName>
-                                <persName type="號">苏庵</persName>
-                                <date notAfter="2000" notBefore="1800" calendar="Gregorian">1860-1960</date></author>
-                            <note type="注">郑孝胥，字苏戡、太夷，号苏庵、海藏楼主人、夜起庵叟等，福建闽县人,光绪八年举人。</note>
-                           
-                            <msItem><title type="對聯">上聯 <note>MS.Chin.c.38-1</note></title>
-                            <incipit>魯君博覽</incipit>
-                            <incipit type="seal">海藏樓</incipit></msItem>
-                           
-                            <msItem><title type="對聯">下聯<note>MS.Chin.c.38-2</note></title>
-                            <incipit>郭揣徹言</incipit>
-                            <incipit type="seal">蘇戡</incipit>
-                            <incipit type="seal">鄭氏孝胥</incipit>
-                               <incipit type="款識">念兹仁兄大人雅正庚戌三月<persName>孝胥</persName></incipit></msItem>
-                           
-                            <msItem><title type="對聯">上聯<note>MS.Chin.c.38-3</note></title>
-                                <incipit>提壺勸酒意雖重</incipit>
-                                <incipit type="款識">念兹仁兄大人雅鑒</incipit></msItem>
-                            
-                            <msItem><title type="對聯">下聯<note>MS.Chin.c.38-4</note></title>
-                                <incipit>救月裁詩語最真</incipit>
-                                <incipit type="seal">蘇戡</incipit>
-                                <incipit type="seal">鄭氏孝胥</incipit>
-                                <incipit type="款識">孝胥</incipit>
-                                <explicit type="錦包首">孝胥 於十三</explicit></msItem>
-                            
-                            <filiation>書法卷軸，中外孤本。</filiation>  
-                        </msItem>
-                        <!-- insert further msItem elements as appropriate --> 
-                        
-                    </msContents>
-                    <physDesc>
-                        
-                        <objectDesc form="卷軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
-                            <supportDesc material="紙本"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                                <support>mulberry and bamboo mixed paper 紙本</support>
-                                <extent>4 scrolls 四軸
+                     <title key="supplied title">清鄭孝胥書法對聯兩對 軸</title>
+                     <author key="Q230200">
+                        <persName instant="false" full="yes">鄭孝胥</persName>
+                        <persName type="字" instant="false" full="yes">太夷</persName>
+                        <persName type="號" instant="false" full="yes">蘇龕</persName>
+                        <persName type="號" instant="false" full="yes">蘇戡</persName>
+                        <persName type="號" instant="false" full="yes">海藏</persName>
+                        <persName type="號" instant="false" full="yes">海藏楼主人</persName>
+                        <persName type="號" instant="false" full="yes">夜起庵叟</persName>
+                        <persName type="號" instant="false" full="yes">苏庵</persName>
+                        <date notAfter="2000"
+                              notBefore="1800"
+                              calendar="Gregorian"
+                              instant="false">1860-1960</date>
+                     </author>
+                     <note type="注" anchored="true">郑孝胥，字苏戡、太夷，号苏庵、海藏楼主人、夜起庵叟等，福建闽县人,光绪八年举人。</note>
+                     <msItem>
+                        <title type="對聯">上聯 <note anchored="true">MS.Chin.c.38-1</note>
+                        </title>
+                        <note anchored="true">魯君博覽</note>
+                        <note type="印章" anchored="true">海藏樓</note>
+                     </msItem>
+                     <msItem>
+                        <title type="對聯">下聯<note anchored="true">MS.Chin.c.38-2</note>
+                        </title>
+                        <note anchored="true">郭揣徹言</note>
+                        <note type="印章" anchored="true">蘇戡</note>
+                        <note type="印章" anchored="true">鄭氏孝胥</note>
+                        <note type="款識" anchored="true">念兹仁兄大人雅正庚戌三月<persName instant="false" full="yes">孝胥</persName>
+                        </note>
+                     </msItem>
+                     <msItem>
+                        <title type="對聯">上聯<note anchored="true">MS.Chin.c.38-3</note>
+                        </title>
+                        <note anchored="true">提壺勸酒意雖重</note>
+                        <note type="款識" anchored="true">念兹仁兄大人雅鑒</note>
+                     </msItem>
+                     <msItem>
+                        <title type="對聯">下聯<note anchored="true">MS.Chin.c.38-4</note>
+                        </title>
+                        <note anchored="true">救月裁詩語最真</note>
+                        <note type="印章" anchored="true">蘇戡</note>
+                        <note type="印章" anchored="true">鄭氏孝胥</note>
+                        <note type="款識" anchored="true">孝胥</note>
+                        <note type="錦包首" anchored="true">孝胥 於十三</note>
+                     </msItem>
+                     <filiation>書法卷軸，中外孤本。</filiation>
+                  </msItem>
+                  <!-- insert further msItem elements as appropriate -->
+               </msContents>
+               <physDesc>
+                  <objectDesc form="卷軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
+                     <supportDesc material="紙本"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
+                        <support>mulberry and bamboo mixed paper 紙本</support>
+                        <extent>4 scrolls 四軸
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
                         https://git.io/msdescdoc#leafDimensions
-                        -->                           <height>？</height>
-                                        <width>？</width>
-                                    </dimensions>
-                                    <!-- use additional dimensions elements if necessary -->
-                                </extent>
-                                
-                                <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
-                            </supportDesc>
-                            <layoutDesc>
-                                <layout>书法卷轴，墨色书写。
+                        -->
+                              <height>？</height>
+                              <width>？</width>
+                           </dimensions>
+                           <!-- use additional dimensions elements if necessary -->
+                        </extent>
+                        <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>书法卷轴，墨色书写。
                                         calligraphy on paper.</layout>
-                                
-                            </layoutDesc>
-                            
-                        </objectDesc>
-                        
-                        <handDesc><!-- use the @hands attribute to record the number of scribes -->
-                            <handNote>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc><!-- use the @hands attribute to record the number of scribes -->
+                     <handNote>
                                 Text written in 楷體 (kai shu, regular) calligraphic style</handNote>
-                            <!-- use additional handNote elements if necessary 
+                     <!-- use additional handNote elements if necessary 
                      https://git.io/msdescdoc#handdesc
                      -->
-                        </handDesc>
-                        
-                        <decoDesc>
-                            <decoNote>
+                  </handDesc>
+                  <decoDesc>
+                     <decoNote>
                             </decoNote>
-                            <!-- use additional decoNote elements if necessary 
+                     <!-- use additional decoNote elements if necessary 
                      https://git.io/msdescdoc#decodesc
                      -->
-                        </decoDesc>
-                        
-                        <bindingDesc>
-                            <binding when="1800"><!-- use dating attributes to record the date -->
-                                <p>立軸</p>
-                                <decoNote>立軸，一色裱，邊框為藍色絲織物。天杆処有破損,背面錦綉包首処有污跡。
+                  </decoDesc>
+                  <bindingDesc>
+                     <binding when="1800"><!-- use dating attributes to record the date -->
+                        <p part="N">立軸</p>
+                        <decoNote>立軸，一色裱，邊框為藍色絲織物。天杆処有破損,背面錦綉包首処有污跡。
                                     Hanging scrolls adorned in the one-colour mount style 
                                     with blue silk as the ‘Heaven’ section (天頭), the ‘Earth’ section 
                                     (地脚) and the borders. The ‘Heaven’ section shows signs of damage. 
                                 </decoNote>
-                            </binding>
-                        </bindingDesc>
-                        <accMat>
+                     </binding>
+                  </bindingDesc>
+                  <accMat>
                             <!-- insert if relevant, otherwise delete 
                      https://git.io/msdescdoc#accMat          
                      -->
                         </accMat>
-                    </physDesc>
-                    <history>
+               </physDesc>
+               <history>
                         <!-- see https://git.io/msdescdoc#history -->
-                        <origin>
+                  <origin instant="false">
                             <!-- see https://git.io/msdescdoc#origin -->
-                            <origPlace>
-                                <country>China</country>,
+                     <origPlace instant="false">
+                        <country>China</country>,
                                 <region><!-- insert --></region>,
                                 <settlement><!-- insert --></settlement>,
-                                <orgName><!-- insert --></orgName>
-                            </origPlace>
-                            <origDate notAfter="1900" notBefore="1800" calendar="Gregorian">1910</origDate>
-                            <!-- use additional origPlace and origDate elements if necessary -->
-                        </origin>
-                        <provenance> </provenance>
-                        
-                        
-                        <!-- use additional provenance elements if necessary -->
-                        <acquisition>
+                                <orgName instant="false" full="yes"><!-- insert --></orgName>
+                     </origPlace>
+                     <origDate notAfter="1900"
+                               notBefore="1800"
+                               calendar="Gregorian"
+                               instant="false">1910</origDate>
+                     <!-- use additional origPlace and origDate elements if necessary -->
+                  </origin>
+                  <provenance> </provenance>
+                  <!-- use additional provenance elements if necessary -->
+                  <acquisition>
                             <!-- insert -->
                             <!-- use dating attributes where possible -->
                         </acquisition>
-                    </history>
-                    <additional>
-                        <adminInfo>
-                            <recordHist>
-                                <source>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
                                     <!-- insert prose here; see https://git.io/msdescdoc#recordHist -->
-                                    <bibl><!-- insert if necesary, otherwise delete --></bibl>
-                                    <!-- links to digitized catalogues may also be provide here, e.g.: -->
-                                    <!--<listBibl>
+                           <bibl default="false" status="draft"><!-- insert if necesary, otherwise delete --></bibl>
+                           <!-- links to digitized catalogues may also be provide here, e.g.: -->
+                           <!--<listBibl>
                               <bibl type="SC" facs="aas0046.gif">Summary Catalogue, Vol. 3, p.  31</bibl>
                            </listBibl>-->
-                                </source>
-                            </recordHist>
-                        </adminInfo>
-                        <surrogates>
-                            <bibl type="digital-facsimile" subtype="full">
-                                <ref target="https://digital.bodleian.ox.ac.uk/objects/77007088-cea0-4a31-9c89-b2be4627529d/">
-                                    <title>Digital Bodleian</title></ref> <note>(full digital facsimile)</note>
-                            </bibl>
-                        </surrogates>
-                        <listBibl>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+                  <surrogates>
+                     <bibl type="digital-facsimile"
+                           subtype="full"
+                           default="false"
+                           status="draft">
+                        <ref target="https://digital.bodleian.ox.ac.uk/objects/77007088-cea0-4a31-9c89-b2be4627529d/">
+                           <title>Digital Bodleian</title>
+                        </ref>
+                        <note anchored="true">(full digital facsimile)</note>
+                     </bibl>
+                  </surrogates>
+                  <listBibl default="false">
                             <!-- a number of listBibl elements can be nested inside an outer listBibl if required -->
-                            <head><!-- use to provide a heading if required, otherwise delete --></head>
-                            <bibl><!-- insert bibliography, links to online resource, etc., otherwise delete--></bibl>
-                            
-                        </listBibl>
-                    </additional>
-                    
-                    
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <revisionDesc>
-            <change>
+                     <head><!-- use to provide a heading if required, otherwise delete --></head>
+                     <bibl default="false" status="draft"><!-- insert bibliography, links to online resource, etc., otherwise delete--></bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change status="draft">
                 <!-- insert relevant text, e.g. 'First online publication' -->
                 <!-- provide the date of the change using the @when attribute -->
             </change>
-        </revisionDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <p><!--Body paragraph provided for validation and future transcription--></p>
-        </body>
-    </text>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p part="N"><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
 </TEI>

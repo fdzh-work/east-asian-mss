@@ -1,90 +1,92 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-
 <!-- use this template in cases where the manuscript is NOT composed of multiple codicological units. To avoid errors in the display of the record, be sure to delete elements that are not used. -->
-
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-    xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="manuscript_00000"><!-- insert the correct xmlid in the form manuscript_12345 -->
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>MS. Backhouse 11</title>
-                
-                <respStmt>
-                    <resp>Cataloguer</resp>
-                    <persName>Boya Zhang</persName>
-                </respStmt>
-                
-            </titleStmt>
-            <editionStmt>
-                <edition>TEI P5</edition>
-                <funder>HD Chung Fund</funder>
-            </editionStmt>
-            <publicationStmt>
-                <publisher>Special Collections, Bodleian Libraries</publisher>
-                <address>
-                    <orgName type="department">Special Collections</orgName>
-                    <orgName type="unit">Bodleian Libraries</orgName>
-                    <orgName type="institution">University of Oxford</orgName>
-                    <street>Weston Library, Broad Street</street>
-                    <settlement>Oxford</settlement>
-                    <postCode>OX1 3BG</postCode>
-                    <country>United Kingdom</country>
-                </address>
-                <distributor>
-                    <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
-                </distributor>
-                <idno type="msID"><!-- insert normalized form of shelfmark --></idno>
-                <idno type="collection"><!-- insert normalized form of collection --></idno>
-                <idno type="catalogue"><!-- insert catalogue ID --></idno>
-            </publicationStmt>
-            <sourceDesc>
-                <msDesc xml:lang="en"><!-- optionally provide xmlid should as a normalized form of the shelfmark, e.g. Merton_College_MS_10 -->
-                    <msIdentifier>
-                        <settlement><!-- insert --></settlement>
-                        <repository>Bodleian Library</repository><!-- change if necessary -->
-                        <idno type="shelfmark">MS. Backhouse 11</idno>
-                        
-                        
-                    </msIdentifier>
-                    
-                    <msContents>
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xml:id="manuscript_00000"><!-- insert the correct xmlid in the form manuscript_12345 -->
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>MS. Backhouse 11</title>
+            <respStmt>
+               <resp>Cataloguer</resp>
+               <persName instant="false" full="yes">Boya Zhang</persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>TEI P5</edition>
+            <funder>HD Chung Fund</funder>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Special Collections, Bodleian Libraries</publisher>
+            <address>
+               <orgName type="department" instant="false" full="yes">Special Collections</orgName>
+               <orgName type="unit" instant="false" full="yes">Bodleian Libraries</orgName>
+               <orgName type="institution" instant="false" full="yes">University of Oxford</orgName>
+               <street>Weston Library, Broad Street</street>
+               <settlement>Oxford</settlement>
+               <postCode>OX1 3BG</postCode>
+               <country>United Kingdom</country>
+            </address>
+            <distributor>
+               <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+            </distributor>
+            <idno type="msID"><!-- insert normalized form of shelfmark --></idno>
+            <idno type="collection"><!-- insert normalized form of collection --></idno>
+            <idno type="catalogue"><!-- insert catalogue ID --></idno>
+         </publicationStmt>
+         <sourceDesc default="false">
+            <msDesc xml:lang="en" status="draft"><!-- optionally provide xmlid should as a normalized form of the shelfmark, e.g. Merton_College_MS_10 -->
+               <msIdentifier>
+                  <settlement><!-- insert --></settlement>
+                  <repository>Bodleian Library</repository>
+                  <!-- change if necessary -->
+                  <idno type="shelfmark">MS. Backhouse 11</idno>
+               </msIdentifier>
+               <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>Twenty poems, authored by Emperor Qianlong (1736-1796), are presented in the 
+                  <summary>Twenty poems, authored by Emperor Qianlong (1736-1796), are presented in the 
                             calligraphy of the scholar-official Liu Lun (1711-1773)</summary>
-                        <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
-                        
-                        <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
+                  <textLang mainLang="zh">Chinese</textLang>
+                  <!-- change text and attribute if necessary -->
+                  <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
-                            <locus><!-- insert --></locus>
-                            <title>御製漁樵二十詠有序臣劉綸敬書並恭跋</title>
-                            <author key="Q10900280">   
-                                <persName>劉綸</persName>
-                                <persName type="字">如叔</persName>
-                                <persName type="字">眘涵</persName>
-                                <persName type="字">宸翰</persName>
-                                <persName type="字">慎涵</persName>
-                                <persName type="字">慎翰</persName>
-                                <persName type="號">繩菴</persName>
-                                <persName type="號">繩庵</persName>
-                                <persName type="號">春涵</persName>
-                                <date notAfter="1800" notBefore="1700" calendar="Gregorian">1711-1773</date>
-                            </author> 
-                            <author key="Q19133">   
-                                <persName>愛新覺羅弘歷</persName>
-                                <persName type="title">乾隆皇帝</persName>
-                                <date notAfter="1800" notBefore="1700" calendar="Gregorian">1711-1799</date>
-                            </author> 
-                            <msItem n="1"><locus from="pp.[5]-[6]" to="pp.[7]-[8]">(pp.[5]-[6], line 1 - pp.[7]-[8], line 4)</locus>
-                                <title>Part 1: 御製漁樵二十詠有序</title>
-                                
-                            <incipit type="釋文">御製漁樵二十詠有序
-                                            昔陸龜蒙皮日休相與倡和，為漁樵詩。樵祇十首，而漁乃增至二十。多寡不倫，且網𠉁滬𥶠。雖殊製而其為捕魚具，則一也。因刪複取，獨亦存其十，為漁樵二十詠。俾眉目清，而體製合，且使設色繪事者，易於取裁也。若夫龜蒙所云：“失民之具也，如彼誰其嗣之。”吾當引以爲愧，又何能措一辭哉。</incipit></msItem>
-                            
-                            <msItem n="2"><locus from="pp.[7]-[8]" to="pp.[17]-[18]">(pp.[7]-[8], line 5 - pp.[17]-[18], line 8)</locus>
-                                <title>Part 2: 漁具十詠</title>
-                               <incipit type="釋文">
+                     <locus><!-- insert --></locus>
+                     <title>御製漁樵二十詠有序臣劉綸敬書並恭跋</title>
+                     <author key="Q10900280">
+                        <persName instant="false" full="yes">劉綸</persName>
+                        <persName type="字" instant="false" full="yes">如叔</persName>
+                        <persName type="字" instant="false" full="yes">眘涵</persName>
+                        <persName type="字" instant="false" full="yes">宸翰</persName>
+                        <persName type="字" instant="false" full="yes">慎涵</persName>
+                        <persName type="字" instant="false" full="yes">慎翰</persName>
+                        <persName type="號" instant="false" full="yes">繩菴</persName>
+                        <persName type="號" instant="false" full="yes">繩庵</persName>
+                        <persName type="號" instant="false" full="yes">春涵</persName>
+                        <date notAfter="1800"
+                              notBefore="1700"
+                              calendar="Gregorian"
+                              instant="false">1711-1773</date>
+                     </author>
+                     <author key="Q19133">
+                        <persName instant="false" full="yes">愛新覺羅弘歷</persName>
+                        <persName type="title" instant="false" full="yes">乾隆皇帝</persName>
+                        <date notAfter="1800"
+                              notBefore="1700"
+                              calendar="Gregorian"
+                              instant="false">1711-1799</date>
+                     </author>
+                     <msItem n="1">
+                        <locus from="pp.[5]-[6]" to="pp.[7]-[8]">(pp.[5]-[6], line 1 - pp.[7]-[8], line 4)</locus>
+                        <title>Part 1: 御製漁樵二十詠有序</title>
+                        <note type="釋文" anchored="true">御製漁樵二十詠有序
+                                            昔陸龜蒙皮日休相與倡和，為漁樵詩。樵祇十首，而漁乃增至二十。多寡不倫，且網𠉁滬𥶠。雖殊製而其為捕魚具，則一也。因刪複取，獨亦存其十，為漁樵二十詠。俾眉目清，而體製合，且使設色繪事者，易於取裁也。若夫龜蒙所云：“失民之具也，如彼誰其嗣之。”吾當引以爲愧，又何能措一辭哉。</note>
+                     </msItem>
+                     <msItem n="2">
+                        <locus from="pp.[7]-[8]" to="pp.[17]-[18]">(pp.[7]-[8], line 5 - pp.[17]-[18], line 8)</locus>
+                        <title>Part 2: 漁具十詠</title>
+                        <note type="釋文" anchored="true">
                                   
                                 漁網 
                                 大者為攔河，小者為袖手。 
@@ -177,11 +179,12 @@
                                 
                                 還嗤彼逸少，竟著二梁冠。（末句即用皮日休語刺之） 
                                 
-                                右漁具十詠 </incipit></msItem>
-                            
-                            <msItem n="3"> <locus from="pp.[17]-[18]" to="pp.[27]-[28]">(pp.[17]-[18], line 9 - pp.[27]-[28], line 9)</locus>
-                                <title>Part 3: 樵具十詠</title>
-                               <incipit type="釋文">
+                                右漁具十詠 </note>
+                     </msItem>
+                     <msItem n="3">
+                        <locus from="pp.[17]-[18]" to="pp.[27]-[28]">(pp.[17]-[18], line 9 - pp.[27]-[28], line 9)</locus>
+                        <title>Part 3: 樵具十詠</title>
+                        <note type="釋文" anchored="true">
                                 樵谿 
                                 峯髙谿必深，陟髙由深進。 
                                 
@@ -272,11 +275,12 @@
                                 
                                 古音誰所傳，依稀皮與陸。 
                                 
-                                右樵具十詠 </incipit> </msItem> 
-                               
-                            <msItem n="4">  <locus from="pp.[27]-[28]" to="pp.[35]-[36]">(pp.[27]-[28], line 10 - pp.[35]-[36], line 10)</locus>
-                                <title>Part 4: 跋</title>
-                                <incipit type="釋文">
+                                右樵具十詠 </note>
+                     </msItem>
+                     <msItem n="4">
+                        <locus from="pp.[27]-[28]" to="pp.[35]-[36]">(pp.[27]-[28], line 10 - pp.[35]-[36], line 10)</locus>
+                        <title>Part 4: 跋</title>
+                        <note type="釋文" anchored="true">
                                 臣向誦《魯論》仁智山 
                                 
                                 水之說，以人心動靜 
@@ -353,139 +357,133 @@
                                 
                                 不知量之甚也。 
                                 
-                                臣劉綸敬書並恭跋 </incipit>
-                               
-                            <incipit type="seal">臣</incipit>
-                               <incipit type="seal">綸</incipit></msItem>
-                            
-                            <filiation>中外孤本</filiation>  </msItem></msContents>
-
-                        
-                    
-                    <physDesc>
-                        
-                        <objectDesc form="經摺裝"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
-                            <supportDesc material="紙本"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                                <support>mulberry and bamboo mixed paper 紙本</support>
-                                <extent>1 volume 一冊
+                                臣劉綸敬書並恭跋 </note>
+                        <note type="印章" anchored="true">臣</note>
+                        <note type="印章" anchored="true">綸</note>
+                     </msItem>
+                     <filiation>中外孤本</filiation>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="經摺裝"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
+                     <supportDesc material="紙本"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
+                        <support>mulberry and bamboo mixed paper 紙本</support>
+                        <extent>1 volume 一冊
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
                         https://git.io/msdescdoc#leafDimensions
-                        -->                           <height>？</height>
-                                        <width>？</width>
-                                    </dimensions>
-                                    <!-- use additional dimensions elements if necessary -->
-                                </extent>
-                                
-                                <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
-                            </supportDesc>
-                            <layoutDesc>
-                                <layout>concertina style binding (經摺裝)
+                        -->
+                              <height>？</height>
+                              <width>？</width>
+                           </dimensions>
+                           <!-- use additional dimensions elements if necessary -->
+                        </extent>
+                        <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>concertina style binding (經摺裝)
                                        Manuscript, calligraphy written in black ink.
                                        Five columns per half-folio; eleven characters per column. </layout>
-                                
-                            </layoutDesc>
-                            
-                        </objectDesc>
-                        
-                        <handDesc><!-- use the @hands attribute to record the number of scribes -->
-                            <handNote>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc><!-- use the @hands attribute to record the number of scribes -->
+                     <handNote>
                                 Text written in 楷書 （kai Shu, regular) calligraphic style.
                             </handNote>
-                            <!-- use additional handNote elements if necessary 
+                     <!-- use additional handNote elements if necessary 
                      https://git.io/msdescdoc#handdesc
                      -->
-                        </handDesc>
-                        
-                        <decoDesc>
-                            <decoNote>
+                  </handDesc>
+                  <decoDesc>
+                     <decoNote>
                             </decoNote>
-                            <!-- use additional decoNote elements if necessary 
+                     <!-- use additional decoNote elements if necessary 
                      https://git.io/msdescdoc#decodesc
                      -->
-                        </decoDesc>
-                        
-                        <bindingDesc>
-                            <binding when="1800"><!-- use dating attributes to record the date -->
-                                <p>經摺裝</p>
-                                <decoNote>A concertina-style binding with a hardback cover crafted from white jade, 
+                  </decoDesc>
+                  <bindingDesc>
+                     <binding when="1800"><!-- use dating attributes to record the date -->
+                        <p part="N">經摺裝</p>
+                        <decoNote>A concertina-style binding with a hardback cover crafted from white jade, 
                                     featuring engravings of the title and authorship details. The endpapers, made 
                                     of traditional Chinese paper in navy, are adorned with gilt cloud patterns.
                                     
                                     經摺裝，封面封底為和田白玉製成，並刻有題名及作者信息。卷首及卷尾空白頁由深藍色燙金祥雲紋
                                     紙張製成，做工精美，保存良好。 </decoNote>
-                            </binding>
-                        </bindingDesc>
-                        <accMat>
+                     </binding>
+                  </bindingDesc>
+                  <accMat>
                             <!-- insert if relevant, otherwise delete 
                      https://git.io/msdescdoc#accMat          
                      -->
                         </accMat>
-                    </physDesc>
-                    <history>
+               </physDesc>
+               <history>
                         <!-- see https://git.io/msdescdoc#history -->
-                        <origin>
+                  <origin instant="false">
                             <!-- see https://git.io/msdescdoc#origin -->
-                            <origPlace>
-                                <country>China</country>,
+                     <origPlace instant="false">
+                        <country>China</country>,
                                 <region>Beijing</region>,
                                 <settlement><!-- insert --></settlement>,
-                                <orgName><!-- insert --></orgName>
-                            </origPlace>
-                            <origDate notAfter="1800" notBefore="1700" calendar="Gregorian">清中期</origDate>
-                            <!-- use additional origPlace and origDate elements if necessary -->
-                        </origin>
-                        <provenance>Donated by Sir Edmund Trelawny Backhouse, 2nd Baronet (20 October 1873 – 8 January 1944). </provenance>
-                          
-                        
-                        
-                        <!-- use additional provenance elements if necessary -->
-                        <acquisition>
+                                <orgName instant="false" full="yes"><!-- insert --></orgName>
+                     </origPlace>
+                     <origDate notAfter="1800"
+                               notBefore="1700"
+                               calendar="Gregorian"
+                               instant="false">清中期</origDate>
+                     <!-- use additional origPlace and origDate elements if necessary -->
+                  </origin>
+                  <provenance>Donated by Sir Edmund Trelawny Backhouse, 2nd Baronet (20 October 1873 – 8 January 1944). </provenance>
+                  <!-- use additional provenance elements if necessary -->
+                  <acquisition>
                             <!-- insert -->
                             <!-- use dating attributes where possible -->
                         </acquisition>
-                    </history>
-                    <additional>
-                        <adminInfo>
-                            <recordHist>
-                                <source>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
                                     <!-- insert prose here; see https://git.io/msdescdoc#recordHist -->
-                                    <bibl><!-- insert if necesary, otherwise delete --></bibl>
-                                    <!-- links to digitized catalogues may also be provide here, e.g.: -->
-                                    <!--<listBibl>
+                           <bibl default="false" status="draft"><!-- insert if necesary, otherwise delete --></bibl>
+                           <!-- links to digitized catalogues may also be provide here, e.g.: -->
+                           <!--<listBibl>
                               <bibl type="SC" facs="aas0046.gif">Summary Catalogue, Vol. 3, p.  31</bibl>
                            </listBibl>-->
-                                </source>
-                            </recordHist>
-                        </adminInfo>
-                        <surrogates>
-                            <bibl type="digital-facsimile" subtype="full">
-                                <ref target="https://digital.bodleian.ox.ac.uk/objects/d4628f98-1193-41b5-995c-f765a0b9123e/">
-                                    <title>Digital Bodleian</title></ref> <note>(full digital facsimile)</note>
-                            </bibl>
-                        </surrogates>
-                        <listBibl>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+                  <surrogates>
+                     <bibl type="digital-facsimile"
+                           subtype="full"
+                           default="false"
+                           status="draft">
+                        <ref target="https://digital.bodleian.ox.ac.uk/objects/d4628f98-1193-41b5-995c-f765a0b9123e/">
+                           <title>Digital Bodleian</title>
+                        </ref>
+                        <note anchored="true">(full digital facsimile)</note>
+                     </bibl>
+                  </surrogates>
+                  <listBibl default="false">
                             <!-- a number of listBibl elements can be nested inside an outer listBibl if required -->
-                            <head><!-- use to provide a heading if required, otherwise delete --></head>
-                            <bibl><!-- insert bibliography, links to online resource, etc., otherwise delete--></bibl>
-                            
-                        </listBibl>
-                    </additional>
-                    
-                    
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <revisionDesc>
-            <change>
+                     <head><!-- use to provide a heading if required, otherwise delete --></head>
+                     <bibl default="false" status="draft"><!-- insert bibliography, links to online resource, etc., otherwise delete--></bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change status="draft">
                 <!-- insert relevant text, e.g. 'First online publication' -->
                 <!-- provide the date of the change using the @when attribute -->
             </change>
-        </revisionDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <p><!--Body paragraph provided for validation and future transcription--></p>
-        </body>
-    </text>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p part="N"><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
 </TEI>

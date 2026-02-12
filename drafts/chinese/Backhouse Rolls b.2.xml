@@ -1,259 +1,247 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-
 <!-- use this template in cases where the manuscript is NOT composed of multiple codicological units. To avoid errors in the display of the record, be sure to delete elements that are not used. -->
-
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-    xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="manuscript_00000"><!-- insert the correct xmlid in the form manuscript_12345 -->
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Backhouse Rolls b.2</title>
-                
-                <respStmt>
-                    <resp>Cataloguer</resp>
-                    <persName>Boya Zhang</persName>
-                </respStmt>
-                
-            </titleStmt>
-            <editionStmt>
-                <edition>TEI P5</edition>
-                <funder>HD Chung Fund</funder>
-            </editionStmt>
-            <publicationStmt>
-                <publisher>Special Collections, Bodleian Libraries</publisher>
-                <address>
-                    <orgName type="department">Special Collections</orgName>
-                    <orgName type="unit">Bodleian Libraries</orgName>
-                    <orgName type="institution">University of Oxford</orgName>
-                    <street>Weston Library, Broad Street</street>
-                    <settlement>Oxford</settlement>
-                    <postCode>OX1 3BG</postCode>
-                    <country>United Kingdom</country>
-                </address>
-                <distributor>
-                    <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
-                </distributor>
-                <idno type="msID"><!-- insert normalized form of shelfmark --></idno>
-                <idno type="collection"><!-- insert normalized form of collection --></idno>
-                <idno type="catalogue"><!-- insert catalogue ID --></idno>
-            </publicationStmt>
-            <sourceDesc>
-                <msDesc xml:lang="en"><!-- optionally provide xmlid should as a normalized form of the shelfmark, e.g. Merton_College_MS_10 -->
-                    <msIdentifier>
-                        <settlement><!-- insert --></settlement>
-                        <repository>Bodleian Library</repository><!-- change if necessary -->
-                        <idno type="shelfmark">Backhouse Rolls b.2</idno>
-                        
-                        
-                    </msIdentifier>
-                    
-                    <msContents>
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xml:id="manuscript_00000"><!-- insert the correct xmlid in the form manuscript_12345 -->
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Backhouse Rolls b.2</title>
+            <respStmt>
+               <resp>Cataloguer</resp>
+               <persName instant="false" full="yes">Boya Zhang</persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>TEI P5</edition>
+            <funder>HD Chung Fund</funder>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Special Collections, Bodleian Libraries</publisher>
+            <address>
+               <orgName type="department" instant="false" full="yes">Special Collections</orgName>
+               <orgName type="unit" instant="false" full="yes">Bodleian Libraries</orgName>
+               <orgName type="institution" instant="false" full="yes">University of Oxford</orgName>
+               <street>Weston Library, Broad Street</street>
+               <settlement>Oxford</settlement>
+               <postCode>OX1 3BG</postCode>
+               <country>United Kingdom</country>
+            </address>
+            <distributor>
+               <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+            </distributor>
+            <idno type="msID"><!-- insert normalized form of shelfmark --></idno>
+            <idno type="collection"><!-- insert normalized form of collection --></idno>
+            <idno type="catalogue"><!-- insert catalogue ID --></idno>
+         </publicationStmt>
+         <sourceDesc default="false">
+            <msDesc xml:lang="en" status="draft"><!-- optionally provide xmlid should as a normalized form of the shelfmark, e.g. Merton_College_MS_10 -->
+               <msIdentifier>
+                  <settlement><!-- insert --></settlement>
+                  <repository>Bodleian Library</repository>
+                  <!-- change if necessary -->
+                  <idno type="shelfmark">Backhouse Rolls b.2</idno>
+               </msIdentifier>
+               <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>A set of five scrolls of Chinese calligraphy, attributed to Liu Yong (1719-1805), 
+                  <summary>A set of five scrolls of Chinese calligraphy, attributed to Liu Yong (1719-1805), 
                             imitating the calligraphy styles of Wang Xi Zhi (303-361) and Wang Xian Zhi (344-386), 
                             two famous calligraphers of the Jin Dynasty (266-420). </summary>
-                        <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
-                        
-                        <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
+                  <textLang mainLang="zh">Chinese</textLang>
+                  <!-- change text and attribute if necessary -->
+                  <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
-                            <locus><!-- insert --></locus>
-                            <title key="supplie title">清劉墉臨王羲之父子十帖 軸</title>
-                            <title key="supplie title" xml:lang="en">A set of five scrolls featuring calligraphy that imitates the style of Wang Xi Zhi, attributed to Liu Yong</title>
-                            <author key="Q6653873">   
-                                <persName>劉墉</persName>
-                                <persName type="字">崇如</persName>
-                                <persName type="號">石庵</persName>
-                                <persName type="號">青原</persName>
-                                <persName type="號">香岩</persName>
-                                <persName type="號">東武</persName>
-                                <persName type="號">穆庵</persName>
-                                <persName type="號">溟華</persName>
-                                <persName type="號">日觀峰道人</persName>
-                                <date notAfter="1900" notBefore="1700" calendar="Gregorian">1719-1805</date>
-                            </author> 
-                            <msItem>
-                            <title type="desc">一軸</title>
-                                <incipit type="釋文">獻之白奉別告承安和慶慰極冷不審尊體復何如獻之比日如復小勝因夜行忽復下如欲作㿃今服藥盡温燥理冀當可耳</incipit>
-                                <note type="注">出自王獻之《安和帖》又名《奉別帖》</note>
-                                <incipit type="釋文">獻之白承姑比日復小進退其尔不得一極知憂懸猶深</incipit>
-                                <note type="注">出自王獻之法帖錄于《欽定四庫全書法帖釋文卷九》</note>
-                            <incipit type="seal">日觀峰道人</incipit>
-                            <explicit type="題簽">王羲之字屏五塊</explicit>
-                            </msItem>
-                           
-                           <msItem>
-                            <title type="desc">二軸</title>
-                               <incipit type="釋文">不審阿姨所患得差否令懸惻想東陽諸妹當復平安不審頃者情事漸差耶彼郡今載甚不能佳不知早晚至當遂至郡深想望</incipit>
-                               <note type="注">出自王羲之《阿姨帖》</note>
-                            <incipit type="款識">嘉慶辛酉仲冬 石菴劉墉</incipit>
-                            <incipit type="seal">劉墉之印</incipit>
-                            <incipit type="seal">石盦</incipit>
-                           </msItem>
-                           
-                           <msItem>
-                            <title type="desc">三軸</title>
-                               <incipit type="釋文">適太常司州領軍諸人廿五六書皆佳司州以爲平復此慶慶可言余親親皆佳大奴以還吳也冀或見之</incipit>
-                               <note type="注">出自王羲之《適太常帖》</note>
-                               <incipit type="釋文">噉豆鼠傷如佳今送能噉</incipit>
-                               <note type="注">出自王羲之《噉豆鼠帖》</note>
-                               <incipit type="釋文">夫人遂善平康也足下各可不異行復面王羲之頓</incipit>
-                               <note type="注">出自王羲之《平康帖》</note>
-                            <incipit type="seal">御賜清愛堂</incipit>
-                           </msItem>
-                            
-                           <msItem>
-                            <title type="desc">四軸</title>
-                               <incipit type="釋文">司州供給寥落去無期也不果者（一釋「去」）公私之望無理或復是福得大等書慰心今因書也墅數言疏平安定太宰中郎</incipit>
-                               <note type="注">出自王羲之《司州帖》</note>
-                               <incipit type="釋文">昨得熙廿六日書云患氣懸情小佳更致問一一適修載書平安</incipit> 
-                               <note type="注">出自王羲之法帖錄于《昨得熙帖》</note>
-                               <incipit type="釋文">廿四日臨</incipit>
-                            <incipit type="seal">石盦</incipit>
-                           </msItem> 
-                           
-                           <msItem>
-                            <title type="desc">五軸</title>
-                               <incipit type="釋文">适者十五日问清和为慰复得南后问不想二康（一釋「庾」）速至之始兴奴长就令人邑邑想无所至耳还具示问</incipit>
-                               <note type="注">出自王羲之《適者帖》</note>
-                               <incipit type="釋文">想小大悉佳蔡家賔至君情感益深唯當撥攝遣之耳</incipit>
-                               <note type="注">出自王羲之《蔡家帖》</note>
-                               <incipit type="釋文">此書似李懷琳所作也 燈下臨</incipit>
-                            <incipit type="seal">日觀峰道人</incipit>
-                           </msItem>
-
-                            <filiation>手繪卷軸，中外孤本。</filiation>
-                            
-                        </msItem>
-                        <!-- insert further msItem elements as appropriate -->
-                    </msContents>
-                    <physDesc>
-                        
-                        <objectDesc form="立軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
-                            <supportDesc material="紙本"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                                <support>mulberry and bamboo mixed paper 紙本</support>
-                                <extent>5 scrolls 五軸
+                     <locus><!-- insert --></locus>
+                     <title key="supplie title">清劉墉臨王羲之父子十帖 軸</title>
+                     <title key="supplie title" xml:lang="en">A set of five scrolls featuring calligraphy that imitates the style of Wang Xi Zhi, attributed to Liu Yong</title>
+                     <author key="Q6653873">
+                        <persName instant="false" full="yes">劉墉</persName>
+                        <persName type="字" instant="false" full="yes">崇如</persName>
+                        <persName type="號" instant="false" full="yes">石庵</persName>
+                        <persName type="號" instant="false" full="yes">青原</persName>
+                        <persName type="號" instant="false" full="yes">香岩</persName>
+                        <persName type="號" instant="false" full="yes">東武</persName>
+                        <persName type="號" instant="false" full="yes">穆庵</persName>
+                        <persName type="號" instant="false" full="yes">溟華</persName>
+                        <persName type="號" instant="false" full="yes">日觀峰道人</persName>
+                        <date notAfter="1900"
+                              notBefore="1700"
+                              calendar="Gregorian"
+                              instant="false">1719-1805</date>
+                     </author>
+                     <msItem>
+                        <title type="desc">一軸</title>
+                        <note type="釋文" anchored="true">獻之白奉別告承安和慶慰極冷不審尊體復何如獻之比日如復小勝因夜行忽復下如欲作㿃今服藥盡温燥理冀當可耳</note>
+                        <note type="注" anchored="true">出自王獻之《安和帖》又名《奉別帖》</note>
+                        <note type="釋文" anchored="true">獻之白承姑比日復小進退其尔不得一極知憂懸猶深</note>
+                        <note type="注" anchored="true">出自王獻之法帖錄于《欽定四庫全書法帖釋文卷九》</note>
+                        <note type="印章" anchored="true">日觀峰道人</note>
+                        <note type="題簽" anchored="true">王羲之字屏五塊</note>
+                     </msItem>
+                     <msItem>
+                        <title type="desc">二軸</title>
+                        <note type="釋文" anchored="true">不審阿姨所患得差否令懸惻想東陽諸妹當復平安不審頃者情事漸差耶彼郡今載甚不能佳不知早晚至當遂至郡深想望</note>
+                        <note type="注" anchored="true">出自王羲之《阿姨帖》</note>
+                        <note type="款識" anchored="true">嘉慶辛酉仲冬 石菴劉墉</note>
+                        <note type="印章" anchored="true">劉墉之印</note>
+                        <note type="印章" anchored="true">石盦</note>
+                     </msItem>
+                     <msItem>
+                        <title type="desc">三軸</title>
+                        <note type="釋文" anchored="true">適太常司州領軍諸人廿五六書皆佳司州以爲平復此慶慶可言余親親皆佳大奴以還吳也冀或見之</note>
+                        <note type="注" anchored="true">出自王羲之《適太常帖》</note>
+                        <note type="釋文" anchored="true">噉豆鼠傷如佳今送能噉</note>
+                        <note type="注" anchored="true">出自王羲之《噉豆鼠帖》</note>
+                        <note type="釋文" anchored="true">夫人遂善平康也足下各可不異行復面王羲之頓</note>
+                        <note type="注" anchored="true">出自王羲之《平康帖》</note>
+                        <note type="印章" anchored="true">御賜清愛堂</note>
+                     </msItem>
+                     <msItem>
+                        <title type="desc">四軸</title>
+                        <note type="釋文" anchored="true">司州供給寥落去無期也不果者（一釋「去」）公私之望無理或復是福得大等書慰心今因書也墅數言疏平安定太宰中郎</note>
+                        <note type="注" anchored="true">出自王羲之《司州帖》</note>
+                        <note type="釋文" anchored="true">昨得熙廿六日書云患氣懸情小佳更致問一一適修載書平安</note>
+                        <note type="注" anchored="true">出自王羲之法帖錄于《昨得熙帖》</note>
+                        <note type="釋文" anchored="true">廿四日臨</note>
+                        <note type="印章" anchored="true">石盦</note>
+                     </msItem>
+                     <msItem>
+                        <title type="desc">五軸</title>
+                        <note type="釋文" anchored="true">适者十五日问清和为慰复得南后问不想二康（一釋「庾」）速至之始兴奴长就令人邑邑想无所至耳还具示问</note>
+                        <note type="注" anchored="true">出自王羲之《適者帖》</note>
+                        <note type="釋文" anchored="true">想小大悉佳蔡家賔至君情感益深唯當撥攝遣之耳</note>
+                        <note type="注" anchored="true">出自王羲之《蔡家帖》</note>
+                        <note type="釋文" anchored="true">此書似李懷琳所作也 燈下臨</note>
+                        <note type="印章" anchored="true">日觀峰道人</note>
+                     </msItem>
+                     <filiation>手繪卷軸，中外孤本。</filiation>
+                  </msItem>
+                  <!-- insert further msItem elements as appropriate -->
+               </msContents>
+               <physDesc>
+                  <objectDesc form="立軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
+                     <supportDesc material="紙本"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
+                        <support>mulberry and bamboo mixed paper 紙本</support>
+                        <extent>5 scrolls 五軸
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
                         https://git.io/msdescdoc#leafDimensions
-                        -->                           <height>？</height>
-                                        <width>？</width>
-                                    </dimensions>
-                                    <!-- use additional dimensions elements if necessary -->
-                                </extent>
-                                
-                                <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
-                            </supportDesc>
-                            <layoutDesc>
-                                <layout>calligraphy written on traditional Chinese paper.
+                        -->
+                              <height>？</height>
+                              <width>？</width>
+                           </dimensions>
+                           <!-- use additional dimensions elements if necessary -->
+                        </extent>
+                        <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>calligraphy written on traditional Chinese paper.
                                         卷軸，紙本，墨色書寫。</layout>
-                                
-                            </layoutDesc>
-                        </objectDesc>
-                        
-                        <handDesc><!-- use the @hands attribute to record the number of scribes -->
-                            <handNote>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc><!-- use the @hands attribute to record the number of scribes -->
+                     <handNote>
                                 Text written in 行書 (xing shu, semi-cursive) calligraphic style.</handNote>
-                            <!-- use additional handNote elements if necessary 
+                     <!-- use additional handNote elements if necessary 
                      https://git.io/msdescdoc#handdesc
                      -->
-                        </handDesc>
-                        <musicNotation>
-                            <p><!-- insert if relevant, otherwise delete --></p>
-                            <!-- use additional p elements if necessary 
+                  </handDesc>
+                  <musicNotation>
+                     <p part="N"><!-- insert if relevant, otherwise delete --></p>
+                     <!-- use additional p elements if necessary 
                      https://git.io/msdescdoc#musicnotation
                      -->
-                        </musicNotation>
-                        <decoDesc>
-                            <decoNote>
+                  </musicNotation>
+                  <decoDesc>
+                     <decoNote>
                             </decoNote>
-                            <!-- use additional decoNote elements if necessary 
+                     <!-- use additional decoNote elements if necessary 
                      https://git.io/msdescdoc#decodesc
                      -->
-                        </decoDesc>
-                        
-                        <bindingDesc>
-                            <binding when="1800"><!-- use dating attributes to record the date -->
-                                <p>立軸</p>
-                                <decoNote>A set of five hanging scrolls adorned in the one-color mount style 
+                  </decoDesc>
+                  <bindingDesc>
+                     <binding when="1800"><!-- use dating attributes to record the date -->
+                        <p part="N">立軸</p>
+                        <decoNote>A set of five hanging scrolls adorned in the one-color mount style 
                                     with blue jacquard silk. The calligraphies are written on traditional 
                                     Chinese paper in yellow, embellished with gilt decorations.
                                     立軸,裝裱方式為一色裱，天頭、地脚及邊框為淺藍色有花紋絲織物，書法寫在黃色灑金紙本上。</decoNote>
-                            </binding>
-                        </bindingDesc>
-                        <accMat>
+                     </binding>
+                  </bindingDesc>
+                  <accMat>
                             <!-- insert if relevant, otherwise delete 
                      https://git.io/msdescdoc#accMat          
                      -->
                         </accMat>
-                    </physDesc>
-                    <history>
+               </physDesc>
+               <history>
                         <!-- see https://git.io/msdescdoc#history -->
-                        <origin>
+                  <origin instant="false">
                             <!-- see https://git.io/msdescdoc#origin -->
-                            <origPlace>
-                                <country>China</country>,
+                     <origPlace instant="false">
+                        <country>China</country>,
                                 <region>Beijing</region>,
                                 <settlement><!-- insert --></settlement>,
-                                <orgName><!-- insert --></orgName>
-                            </origPlace>
-                            <origDate notAfter="1900" notBefore="1800" calendar="Gregorian">1801</origDate>
-                            <!-- use additional origPlace and origDate elements if necessary -->
-                        </origin>
-                        <provenance>Donated by Sir Edmund Trelawny Backhouse, Baronet (20 October 1873 – 8 January 1944).</provenance>
-                        
-                        
-                        <!-- use additional provenance elements if necessary -->
-                        <acquisition>
+                                <orgName instant="false" full="yes"><!-- insert --></orgName>
+                     </origPlace>
+                     <origDate notAfter="1900"
+                               notBefore="1800"
+                               calendar="Gregorian"
+                               instant="false">1801</origDate>
+                     <!-- use additional origPlace and origDate elements if necessary -->
+                  </origin>
+                  <provenance>Donated by Sir Edmund Trelawny Backhouse, Baronet (20 October 1873 – 8 January 1944).</provenance>
+                  <!-- use additional provenance elements if necessary -->
+                  <acquisition>
                             <!-- insert -->
                             <!-- use dating attributes where possible -->
                         </acquisition>
-                    </history>
-                    <additional>
-                        <adminInfo>
-                            <recordHist>
-                                <source>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
                                     <!-- insert prose here; see https://git.io/msdescdoc#recordHist -->
-                                    <bibl><!-- insert if necesary, otherwise delete --></bibl>
-                                    <!-- links to digitized catalogues may also be provide here, e.g.: -->
-                                    <!--<listBibl>
+                           <bibl default="false" status="draft"><!-- insert if necesary, otherwise delete --></bibl>
+                           <!-- links to digitized catalogues may also be provide here, e.g.: -->
+                           <!--<listBibl>
                               <bibl type="SC" facs="aas0046.gif">Summary Catalogue, Vol. 3, p.  31</bibl>
                            </listBibl>-->
-                                </source>
-                            </recordHist>
-                        </adminInfo>
-                        <surrogates>
-                            <bibl type="digital-facsimile" subtype="full">
-                                <ref target="https://digital.bodleian.ox.ac.uk/objects/fcd210e8-0dd8-4f06-955e-0e92977d144d/">
-                                    <title>Digital Bodleian</title></ref> <note>(full digital facsimile)</note>
-                            </bibl>
-                        </surrogates>
-                        <listBibl>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+                  <surrogates>
+                     <bibl type="digital-facsimile"
+                           subtype="full"
+                           default="false"
+                           status="draft">
+                        <ref target="https://digital.bodleian.ox.ac.uk/objects/fcd210e8-0dd8-4f06-955e-0e92977d144d/">
+                           <title>Digital Bodleian</title>
+                        </ref>
+                        <note anchored="true">(full digital facsimile)</note>
+                     </bibl>
+                  </surrogates>
+                  <listBibl default="false">
                             <!-- a number of listBibl elements can be nested inside an outer listBibl if required -->
-                            <head><!-- use to provide a heading if required, otherwise delete --></head>
-                            <bibl><!-- insert bibliography, links to online resource, etc., otherwise delete--></bibl>
-                            
-                        </listBibl>
-                    </additional>
-                    
-                    
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <revisionDesc>
-            <change>
+                     <head><!-- use to provide a heading if required, otherwise delete --></head>
+                     <bibl default="false" status="draft"><!-- insert bibliography, links to online resource, etc., otherwise delete--></bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change status="draft">
                 <!-- insert relevant text, e.g. 'First online publication' -->
                 <!-- provide the date of the change using the @when attribute -->
             </change>
-        </revisionDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <p><!--Body paragraph provided for validation and future transcription--></p>
-        </body>
-    </text>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p part="N"><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
 </TEI>
-
-
-

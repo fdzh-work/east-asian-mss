@@ -1,290 +1,350 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-
 <!-- use this template in cases where the manuscript is NOT composed of multiple codicological units. To avoid errors in the display of the record, be sure to delete elements that are not used. -->
-
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-    xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="manuscript_00000"><!-- insert the correct xmlid in the form manuscript_12345 -->
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Backhouse Rolls a.39(1-6)</title>
-                
-                <respStmt>
-                    <resp>Cataloguer</resp>
-                    <persName>Boya Zhang</persName>
-                </respStmt>
-                
-            </titleStmt>
-            <editionStmt>
-                <edition>TEI P5</edition>
-                <funder>HD Chung Fund</funder>
-            </editionStmt>
-            <publicationStmt>
-                <publisher>Special Collections, Bodleian Libraries</publisher>
-                <address>
-                    <orgName type="department">Special Collections</orgName>
-                    <orgName type="unit">Bodleian Libraries</orgName>
-                    <orgName type="institution">University of Oxford</orgName>
-                    <street>Weston Library, Broad Street</street>
-                    <settlement>Oxford</settlement>
-                    <postCode>OX1 3BG</postCode>
-                    <country>United Kingdom</country>
-                </address>
-                <distributor>
-                    <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
-                </distributor>
-                <idno type="msID"><!-- insert normalized form of shelfmark --></idno>
-                <idno type="collection"><!-- insert normalized form of collection --></idno>
-                <idno type="catalogue"><!-- insert catalogue ID --></idno>
-            </publicationStmt>
-            <sourceDesc>
-                <msDesc xml:lang="en"><!-- optionally provide xmlid should as a normalized form of the shelfmark, e.g. Merton_College_MS_10 -->
-                    <msIdentifier>
-                        <settlement><!-- insert --></settlement>
-                        <repository>Bodleian Library</repository><!-- change if necessary -->
-                        <idno type="shelfmark">Backhouse Rolls a.39(1-6)</idno>
-                        
-                        
-                    </msIdentifier>
-                    
-                    <msContents>
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xml:id="manuscript_00000"><!-- insert the correct xmlid in the form manuscript_12345 -->
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Backhouse Rolls a.39(1-6)</title>
+            <respStmt>
+               <resp>Cataloguer</resp>
+               <persName instant="false" full="yes">Boya Zhang</persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>TEI P5</edition>
+            <funder>HD Chung Fund</funder>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Special Collections, Bodleian Libraries</publisher>
+            <address>
+               <orgName type="department" instant="false" full="yes">Special Collections</orgName>
+               <orgName type="unit" instant="false" full="yes">Bodleian Libraries</orgName>
+               <orgName type="institution" instant="false" full="yes">University of Oxford</orgName>
+               <street>Weston Library, Broad Street</street>
+               <settlement>Oxford</settlement>
+               <postCode>OX1 3BG</postCode>
+               <country>United Kingdom</country>
+            </address>
+            <distributor>
+               <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+            </distributor>
+            <idno type="msID"><!-- insert normalized form of shelfmark --></idno>
+            <idno type="collection"><!-- insert normalized form of collection --></idno>
+            <idno type="catalogue"><!-- insert catalogue ID --></idno>
+         </publicationStmt>
+         <sourceDesc default="false">
+            <msDesc xml:lang="en" status="draft"><!-- optionally provide xmlid should as a normalized form of the shelfmark, e.g. Merton_College_MS_10 -->
+               <msIdentifier>
+                  <settlement><!-- insert --></settlement>
+                  <repository>Bodleian Library</repository>
+                  <!-- change if necessary -->
+                  <idno type="shelfmark">Backhouse Rolls a.39(1-6)</idno>
+               </msIdentifier>
+               <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>A set of six calligraphy scrolls attributed to Wang Xi Zhi, though it is highly probable that they are replicas or forgeries.</summary>
-                        <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
-                        
-                        <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. --> 
+                  <summary>A set of six calligraphy scrolls attributed to Wang Xi Zhi, though it is highly probable that they are replicas or forgeries.</summary>
+                  <textLang mainLang="zh">Chinese</textLang>
+                  <!-- change text and attribute if necessary -->
+                  <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. --> 
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
-                            <locus><!-- insert --></locus>
-                            <title key="supplied title">佚名仿晉王羲之書法 六軸<note>疑爲贋品</note></title>
-                            
-                            <msItem>
-                            <title type="shelfmark">Backhouse Rolls a. 39 (1)</title>
-                            <incipit type="題跋">古人所有傳授筆法？？？傳於崔瑗及女文姬之傳之鍾繇之傳之御古人御傳之右軍與獻之獻之傳於羊欣欣傳於王僧處傳？？?傳之虞世南及歐陽詢輩十餘人皆揚名？於世爭見此屏而論之<date>崇禎十二年七月</date><persName>妼紹基</persName>題</incipit>
-                            <incipit type="題跋"><date>康熙壬辰秋七月六日</date><persName>王時敏</persName>觀于<placeName>西田艸盧</placeName></incipit>
-                            <incipit type="題跋"><date>元嘉二十七年秋七月七夕</date><persName>崔浩</persName>觀</incipit>
-                            <incipit type="題跋">吳苑闘鷄侈金碧矣魏宮銅雀爛雲霞矣冰井高寒崇輪煥矣乾谿壯麗絢丹華矣遐方之文木遙徵貢珍杞梓内府之水衡可貸棄等泥沙方教攻木攻金惟取資乎六府誰念飭材飭力苦徭役於千家兹何以民依是念儉節留貽慚德猶虞守文無愧</incipit>
-                            <incipit type="題跋">及觀是屏具蹟展至？而與稜？而肖？？一為求傳？？<date>天寶癸未年十月之？</date><persName>顧昇仰</persName>題</incipit>
-                            <incipit type="題跋">屏？師衛夫人筆法無一雜筆具殆由工入造化左右逢原之境自黨為世至寶觀者亦有幸於翰墨也<date>孝昌二年七月</date><persName>房景伯</persName>題</incipit>
-                            <incipit type="正文">但奉高皇之宮室祇修五帝之墰祠推之罷盜鑄而政興錢幣罷祖稅而民樂耕耔罷秘祝之官而虛誣是斥罷孥坐之令而刑賞無私莫不興利除弊俗易風移所以嗣大統於二十年矣茂矣美矣基漢祚於四百餘載經之營之書漢文帝罷露臺賦二則</incipit>
-                            <incipit type="題跋"><date>大元十卯年己丑三月朔旦</date><persName>陸納</persName>觀于寄盧</incipit>
-                            <incipit type="題跋"><date>崇禎九年八月中秋後四日</date><persName>詹爾陞</persName>觀記</incipit>
-                            <incipit type="題跋">逸少書蹟世爭寳之今觀是屏秀挺異常不愧名冠古今自當寳之<persName>岑文本</persName></incipit>
-                            <incipit type="題跋">右軍之書為舜窮逰天老宏越海鍾/絕？人力寳上天資豈臨夢家所能夢見乎爰識數重以誌之<persName>吳道之</persName>据題</incipit>
-                            <incipit type="題跋">余素好書法粗識其中三昧然初猶私心自今每見人美右軍書轍為意平今於友人處潯見此屏媚秀自然筆法不讓鍾衛敢不作下風拜哉<date>開元四年五月</date><persName>李世鳳</persName>題</incipit>
-                            <incipit type="題跋">書法一道心正則氣定則始活始活則筆端筆端則墨法墨法則神凝神凝則象滋此皆書中之要訣也精熟于？訣自然筆妙而化右軍之書？意加意不法自法遂有名重於今未嘗敗言？？<date>正統辛酉二月</date><persName>劉球</persName>識</incipit>
-                            </msItem>
-                            
-                            <msItem>
-                            <title type="shelfmark">Backhouse Rolls a. 39 (2)</title>
-                            <incipit type="題跋">逸少書妙獨絕無人出其右者世人皆？之火或鍾衛而出加之天質頡敏是以古今之冠<placeName>元照</placeName><persName>王鑬</persName>題於<placeName>廉州官舎</placeName></incipit>
-                            <incipit type="題跋">萬世無匹<date>雍正五年葭月</date><persName>黃鼎</persName>題</incipit>
-                            <incipit type="題跋">筆禿千管墨磨三？以研四之功用之於此則自有妙趣機微則不徒勞用之鐡硯磨穿不未能為此名根专不可畏矣<date>乾隆二十七年二月</date><persName>姜斌高</persName>題</incipit>
-                            <incipit type="題跋"><date>正德二年春三月上浣</date><placeName>長州</placeName><persName>沈固</persName>觀</incipit>
-                            <incipit type="題跋">嘗觀逸少書帖每喜學之不意今觀此屏乃墨蹟更為喜之憧惜友人所珎未能朝夕展玩細撫至法既肖憾焉<placeName>吳趨</placeName><persName>唐寅</persName>題于<placeName>學圃</placeName></incipit>
-                            <incipit type="題跋">百釣弩慶高峰墮石萬歲以騰祐驚陀入草右軍之書是也<persName>芾</persName>題</incipit>
-                            <incipit type="題跋"><date>乾興元年十月六日</date><persName>江彬</persName>觀</incipit>
-                            <incipit type="正文">凌霄崛岉累土崚增控燕山而嶂疉俯渤海而波澄接薊門之繚繞瞰異野之驤騰勢聳雄都眺山河其永固名留 霸國感事業之中與攬名勝於遺墟萬山環供數英賢于襄日幾輩齊登昔燕昭王之志圖復興也近畏趙圍遠憂齊伐擁萬乘而勢孤</incipit>
-                            <incipit type="題跋">右軍書法千載名傳每以代遠年湮不能賞目不意潯獲是屏蹟為欣章爰此誌之<persName>蘇軾</persName>題識</incipit>
-                            <incipit type="題跋">東坡居士得此屏示余俾得展玩不勝忻甚自然天骨猶千里之跡邈不可追斯謂萬世獨步矣賞餘題此<persName>山谷老人</persName>識</incipit>
-                            <incipit type="正文">獻五城而立竭國恥未平雄  難歇將欲業鞏金甌名岳金碣則必陳厚幣之璘彬米崇基之崆屼歆臺成靈囿文王所以造周鄰思金鑄良臣句踐從兹霸趨從觀其飛觀流丹家檐映碧東則遼右連疆西則雲中接迹南瞻而易水流長北眺而樓煩境闢</incipit>
-                            <incipit type="題跋">右軍書黃庭經年三十七嵗此冊屏當在像件之年矣<persName>蕭元麟</persName>題</incipit>
-                            <incipit type="題跋">古人用筆之術每於永也取法以其脩八法之勢右軍點與是圖羞用此術與此精妙<date>咸通癸未四月</date><persName>王式</persName>題</incipit>
-                            <incipit type="題跋">讀右軍文知為才子聞右軍名知為大將觀右軍書知為書家今見右軍是屏知為世寳可謂古今之罕見也<date>寳歴丙午九月九日</date><persName>王守澄</persName>題</incipit>
-                            <incipit type="題跋">忠信貫千煉書名百世況拜觀宇數幅悅興古同游<persName>張昌達</persName>題</incipit>
-                            <incipit type="題跋">右軍沈滋戎事明日作方子厭不卷乃有是必耳<date>乾隆三十四年七月</date><persName>趙文琪</persName>觀</incipit>
-                            </msItem>
-                            
-                            <msItem>
-                            <title type="shelfmark">Backhouse Rolls a. 39 (3)</title>
-                            <incipit type="題跋">洵觀此屏不勝忻？細展？筆法工韻獨勝世之學書去？不失此規自然名聖未識此言賢之書家以爲何乃耶賞餘爰識數言以誌之<placeName>石為</placeName><persName>王翬</persName>題</incipit>
-                            <incipit type="題跋">雲影于重主異筆峰之寸倘學專似此屏使恆管可洵重名真收腕底之全功胸中之生趣也能勿貴乎<date>丙申之秋</date><persName>麓？祁</persName>題</incipit>
-                            <incipit type="題跋">天無意處仍商何此有心人悠結會之興對筆蕩意到筆隨弓此之言別書時矣子佳之<date>德佑元年十月</date><persName>德佑元年十月張世俁</persName>識</incipit>
-                            <incipit type="題跋">書家自古以來名重之至莫如乎王右軍筆法盖其精勁遺跡尤為罕見故此無人出其右者今偶於友人處得此跡展玩之餘雅秀異常人莫能撫之足稱至寳焉<persName>吳潛</persName>拜題</incipit>
-                            <incipit type="題跋"><date>景主四二年癸亥冬日</date><persName>馬光祖</persName>觀於<placeName>臨雨樓</placeName></incipit>
-                            <incipit type="題跋">右軍將軍王逸少所書諸蹟人皆寳之年久而湮沒者多故世人尤罕見之則更寳也<placeName>色山</placeName><persName>陸治</persName>識</incipit>
-                            <incipit type="正文">則嘗訪古蹟於中陽尋遺踪於舊沛緬秦漢之盛衰溯項劉之運會在昔廓清海宇巳徵風勁四方至今俯仰山川猶覺風號萬籟故臺則巍峩矗聳洵堪遠矚高瞻而歌亦悲壯淋漓想見才雄畧大方高祖之擊黥布而還也凱旋淮浦酒置沛宮</incipit>
-                            <incipit type="正文">敘游子別離之情溥天家恩誼之隆關心馬齒已增兒童倏看漸長回首鴻門竟脫父老共話深衷萬歲猶樂舊邦劇憐暮景五年遂成帝業早建豐功念故人鑿井相嘻羣游化日惟大王披襟而賦此有雄風夫念其結鄉園情深桑梓節歌風臺賦二則</incipit>
-                            <incipit type="題跋">前見逸少書東方朔茵賞一則支此泣折<persName>陸贄</persName>題</incipit>
-                            <incipit type="題跋"><date>元符戊寅冬十一月冬至後一日</date><persName>鄒浩</persName>觀于<placeName>靜怡山房</placeName></incipit>
-                            <incipit type="題跋"><date>嘉靖庚寅冬一月</date>行往<placeName>吳門</placeName>觀此<persName>王瓊</persName>記</incipit>
-                            <incipit type="題跋"><date>景泰六年乙亥正月</date><persName>于謙</persName>觀于<placeName>東麓草庵</placeName></incipit>
-                            <incipit type="題跋">逸少真蹟予前任待詔時所見不少官歸後實難覆見不意今適友人携此屏來示余囑為題記遂得重玩其跡深幸之至因限於地窄未能細述其妙只得聊誌數言以識之<persName>徵明</persName>題</incipit>
-                            <incipit type="題跋">所藏右軍書跡數体以爲寳貴不意今又得此屏更屬忻幸何余之有緣於右軍抑有緣於翰墨耶自爲識之<date>治平乙巳春日</date><persName>司馬光</persName>謹題</incipit>
-                            <incipit type="題跋">相國潯此屏蹟以示舍展玩之餘？重筆法似喜虹飲澗蕩霰浮浦寳有緣於筠墨以陖遇之舟遇耳<persName>富弼</persName>拜題</incipit>
-                            <incipit type="題跋">逸少生平所以蘭亭沒禪黃庭經道德經樂毅論為最妙？者難不及此然頗子揭洵今觀是屏見是筆法妔若銀鈎飄若騖鶯香當典為最者？妙也 <persName>葉朝棟</persName>題</incipit>
-                            <incipit type="題跋"><date>順始六年夔卯月上現</date>觀於<placeName>>西冷之聼潮樓</placeName>邘上<placeName></placeName><persName>宗濂</persName>題記</incipit>
-                            </msItem>
-                            
-                            <msItem>
-                            <title type="shelfmark">Backhouse Rolls a. 39 (4)</title>
-                            <incipit type="題跋">張兰綞奇鍾繇特纏逸少昇能献之冠世前推為世之考聖耳此屏逸少真蹟自及拱望視之<persName>金仁毅</persName>提</incipit>
-                            <incipit type="題跋">丰神標格筆韵獨絕可謂盖世無雙也<persName>韓菼</persName>提</incipit>
-                            <incipit type="正文">天梯石棧平分乎一十二重朱欄畫檻招邀乎三千餘客輝煌王霸之圖仿佛神仙之宅不謂傾囊慾贈志擬揖山請看布地皆珍術非點石想其老結繆綢誠通悃款恐貧賤之交疏惜英雄之氣短除是金酬聶政劍術誰知劇憐金盡蘇秦裘裝不暖</incipit>
-                            <incipit type="題跋">右軍書稱世之罕巧因被唐太宗收貯宮中沒後易數代所穫尽出遂乃復見此屏展玩而構幸也 <persName>鄧綰</persName>題</incipit>
-                            <incipit type="題跋">余宦沒歸軍最愛考凴新獲名蹟自詔不少獨右軍遺墨祗有一卷一冊無不甚精妙新以之自詡也會思此屏玩竟日神駭意勤不料又有此希寳較余即獲搖出數倍矣<date>大觀丁亥七月之春</date><persName>趙挺之</persName>題</incipit>
-                            <incipit type="題跋">右軍之書傳師術古人最為潯其妙境是屏筆法娟秀尤如古人齊下所出不愧為高弟子也<date>寳祐之春三月</date><persName>天祥</persName>識</incipit>
-                            <incipit type="正文">爾乃呼鷹接武戯馬成？纓裙交拂履舄廽翔骨市涓人隗先發策邑對上客恢亦稱艮騶爽發琅琊之麓？辛踰博闕之鄉蘇倵以逰士參謀能修宋好？毅以亞卿建策不畏齊掘喜豪傑之歸心聯鑣滋集慕君王之下士引領相？錄黃金臺賦</incipit>
-                            <incipit type="題跋">偶觀是屏甚妍美風流婉約可謂柔而常？真妙入古人之境矣<persName>李晟</persName>題於旅次</incipit>
-                            <incipit type="題跋">風勁之象態超抄每費筆墨之前緣聰酌第一<date>孟德二年三月</date><persName>張鎬</persName>題</incipit>
-                            <incipit type="題跋">氷雪澄心鬼神通思筆端之妙化也<persName>王縉觀</persName>題</incipit>
-                            <incipit type="題跋">晉庾翼書法口時占右軍齋名後因人皆喜右軍書而憎庾翼也遂右都下人云小兒厭家鷄愛野驚之語自此論之凿右軍？之是屏高是十月彌觀之天登五年夏四月既望 <date>天登五年夏四月既望</date><persName>徐兆</persName><placeName>增林</placeName>題</incipit>
-                            <incipit type="題跋">書法以二王為極則蘭亭洛神尤為楷法極則此屏評之亦為極則矣 萬曆癸未孟冬之日漫題於寄寓<date>天順己卯四月</date><placeName>太原</placeName><persName>王錫舜</persName></incipit>
-                            <incipit type="題跋">嘗觀右軍隷字實滋鍾繇之法楷書乃由衛夫人之格不夫前人體格加之天機聰穎遂得名冠蓋世而謂？匠美 <persName>李賢</persName>題</incipit>
-                            <incipit type="題跋"><date>成化卯李三月端陽後二日</date><persName>江淦</persName>題</incipit>
-                            <incipit type="題跋"><persName>歐陽</persName>借觀於東林草舎</incipit>
-                            </msItem>
-                            
-                            <msItem>
-                            <title type="shelfmark">Backhouse Rolls a. 39 (5)</title>
-                            <incipit type="題跋">是屏十二方裝成六幅上有歷朝諸名家跋殊為世寶罕見之物也珎藏家當采知若何貴重因呂識之<persName>王時敏</persName>所題</incipit>
-                            <incipit type="題跋">吾嘗觀歷代書家之名重罕少則逸少為最也此屏真跡可愛之至借觀竟日題此識之<persName type="號">甌香閣主</persName><persName>壽平</persName></incipit>
-                            <incipit type="題跋">逸少書黃庭綞時天上神仙亦有感動其精妙可想而知也<persName>柳公權</persName>題</incipit>
-                            <incipit type="正文">於是潛跡水國絕踪塵寰舉手江邊頻看鯉躍畫眉聲裏細數鷗還何事投竿一片之閒雲自在有時意釣半鈎之新月灣環當年好句流傳長占烟波風月此日新詩送祝猶歌江雲山倘其不待峻節稍貶清操謝富春之隱遯侶中夏之賢豪</incipit>
-                            <incipit type="題跋">右軍書法名冠古今遺留不多故世人咸為寶貴今得展此屏煙飛霧結鳳煮龍蟠令人玩之愈精愈妙洵為寳焉<persName>柳公權</persName>題</incipit>
-                            <incipit type="題跋">逸少書黃庭綞時天上神仙亦有感動其精妙可想而知也<persName>高超模</persName>識</incipit>
-                            <incipit type="題跋">蓋世之寳<date>長慶三年癸卯秋日</date><persName>顧大承</persName>觀</incipit>
-                            <incipit type="正文">則黨赤伏中興不數諸公袞袞底事紅塵大隱偏憐斯世滔滔戯馬異項王之地觀魚同太公之濠泠看孺子劉嬰塵世之分爭不少回想婦翁梅福神仙之蹤跡尤高所以甘處隱淪願辤祿仕堅君則賢網恢弘此老則魚竿徙倚節嚴于陵釣臺賦二則</incipit>
-                            <incipit type="題跋">每讀右軍傳其一生事蹟信可令人欣羡不意今閲是屏遺跡為見其人矣特此誌之<date>天禧定酉春三月</date><placeName>上浣 </placeName><persName>桑維翰</persName>据題</incipit>
-                            <incipit type="題跋">逸少書蹟首推蘭亭為最今得展此屏亦不以為次惟筆法稍變耳<date>開成五年二月花朝日</date><persName>李玨</persName>提</incipit>
-                            <incipit type="題跋">嘗觀逸少真蹟行草多而正體少是幅行楷精妙勝於前觀者<persName>顔真卿</persName>觀記</incipit>
-                            <incipit type="題跋">嘗觀逸少真跡勝于前觀者召此記之<date>洪武二十九年三月</date><persName>方孝孺</persName>題</incipit>
-                            <incipit type="題跋"><date>天啓甲子春正月</date><placeName>下浣</placeName><persName>李國榗</persName>觀</incipit>
-                            </msItem> 
-                          
-                            <msItem>
-                            <title type="shelfmark">Backhouse Rolls a. 39 (6)</title>
-                            <incipit type="題跋">右軍傳云當下筆時先以運氣則力自隨矣是以所書或千百字或萬餘字自朝操筆至暮竟首尾如一此亦不易摹之然亦湏究其原盖腕力之足而工夫深自然到此境地觀其字而知其言矣<date>康熙己亥</date><persName>蔣廷鈞</persName>所題</incipit>
-                            <incipit type="題跋">超工八法盡奇六文王逸少書偏工書永以真八法之勢能通一切字格是以所書皆入妙懷名滿於天下偶觀此屏所？學法？秀字體穩遲必是真績無疑矣愛題數言以誌之<persName>虞世南</persName></incipit>
-                            <incipit type="正文">竿投別浦綸繫平矼劍光 欲暗箎吹無腔不同蒼？碭 龍潛送徒大澤絕似淮南 豹隱擊楫橫江誰吹麥飯 相餽蓬牎憐才嫗老望報 心降早知虎帳宏開佐金刀而混一應笑鴻門高會 碎玉斗以成雙厥後丞相追亡漢中應名扶高帝以龍興謝剻通而鷃笑</incipit>
-                            <incipit type="題跋">觀是屏王右軍真蹟身為武將筆墨一道名足過人歷代呂來禾有之也特誌數言呂識之<persName>李淦</persName></incipit>
-                            <incipit type="正文">奉廉無奔楚厚不呼嘯轉眼真王初徙開府丕州遙思游子重來建旂每徵故鄉撫景而如新諸母臨流而徜漂則有躑躅徘徊登高凴眺悵身世之升沈憤貧時之漁釣者矣即淮陰侯釣臺賦二則於<placeName>蘅秋軒</placeName><date>隆和壬戌之春</date>臨<persName>衛夫人</persName>筆法<persName type="號">逸少</persName><persName>王羲之</persName></incipit>
-                            <incipit type="題跋">余幼時喜習王字每尋遺跡苦無所得及後畧得數冊是當寳之朝夕臨撫稍有進境今偶觀是屏乃冊頁所成字體較之余藏者勝矣想前後分別也敬題數言<placeName>信本</placeName><persName>歐陽詢</persName>題</incipit>
-                            <incipit type="題跋">善笔力者多骨 不善笔力者多肉 多力豐筋者聖，无力无筋者病 斯言信能义墨屏多少书蹟而謂余以筋骨為之臨洵名世<date>貞觀五年四月</date><persName>杜如晦</persName>題</incipit>
-                            <incipit type="題跋">余向潯逸少隷字如奏喜之不勝以爲奇峯也不意今又見是屏乃行楷十二方裝成六幅更屬佳妙使人展之不勝駭異又為之奇幸遂出潰購之與？字卷弦藏庶莪自謂？？<persName>色仁鈺</persName>識</incipit>
-                            </msItem>
-                            
-                            <filiation>書法卷軸，中外孤本。</filiation>  
-                        </msItem>
-                        <!-- insert further msItem elements as appropriate --> 
-                        
-                    </msContents>
-                    <physDesc>
-                        
-                        <objectDesc form="卷軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
-                            <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                                <support>mulberry and bamboo mixed paper</support>
-                                <extent>6 scrolls 六軸
+                     <locus><!-- insert --></locus>
+                     <title key="supplied title">佚名仿晉王羲之書法 六軸<note anchored="true">疑爲贋品</note>
+                     </title>
+                     <msItem>
+                        <title type="shelfmark">Backhouse Rolls a. 39 (1)</title>
+                        <note type="題跋" anchored="true">古人所有傳授筆法？？？傳於崔瑗及女文姬之傳之鍾繇之傳之御古人御傳之右軍與獻之獻之傳於羊欣欣傳於王僧處傳？？?傳之虞世南及歐陽詢輩十餘人皆揚名？於世爭見此屏而論之<date instant="false">崇禎十二年七月</date>
+                           <persName instant="false" full="yes">妼紹基</persName>題</note>
+                        <note type="題跋" anchored="true">
+                           <date instant="false">康熙壬辰秋七月六日</date>
+                           <persName instant="false" full="yes">王時敏</persName>觀于<placeName instant="false" full="yes">西田艸盧</placeName>
+                        </note>
+                        <note type="題跋" anchored="true">
+                           <date instant="false">元嘉二十七年秋七月七夕</date>
+                           <persName instant="false" full="yes">崔浩</persName>觀</note>
+                        <note type="題跋" anchored="true">吳苑闘鷄侈金碧矣魏宮銅雀爛雲霞矣冰井高寒崇輪煥矣乾谿壯麗絢丹華矣遐方之文木遙徵貢珍杞梓内府之水衡可貸棄等泥沙方教攻木攻金惟取資乎六府誰念飭材飭力苦徭役於千家兹何以民依是念儉節留貽慚德猶虞守文無愧</note>
+                        <note type="題跋" anchored="true">及觀是屏具蹟展至？而與稜？而肖？？一為求傳？？<date instant="false">天寶癸未年十月之？</date>
+                           <persName instant="false" full="yes">顧昇仰</persName>題</note>
+                        <note type="題跋" anchored="true">屏？師衛夫人筆法無一雜筆具殆由工入造化左右逢原之境自黨為世至寶觀者亦有幸於翰墨也<date instant="false">孝昌二年七月</date>
+                           <persName instant="false" full="yes">房景伯</persName>題</note>
+                        <note type="正文" anchored="true">但奉高皇之宮室祇修五帝之墰祠推之罷盜鑄而政興錢幣罷祖稅而民樂耕耔罷秘祝之官而虛誣是斥罷孥坐之令而刑賞無私莫不興利除弊俗易風移所以嗣大統於二十年矣茂矣美矣基漢祚於四百餘載經之營之書漢文帝罷露臺賦二則</note>
+                        <note type="題跋" anchored="true">
+                           <date instant="false">大元十卯年己丑三月朔旦</date>
+                           <persName instant="false" full="yes">陸納</persName>觀于寄盧</note>
+                        <note type="題跋" anchored="true">
+                           <date instant="false">崇禎九年八月中秋後四日</date>
+                           <persName instant="false" full="yes">詹爾陞</persName>觀記</note>
+                        <note type="題跋" anchored="true">逸少書蹟世爭寳之今觀是屏秀挺異常不愧名冠古今自當寳之<persName instant="false" full="yes">岑文本</persName>
+                        </note>
+                        <note type="題跋" anchored="true">右軍之書為舜窮逰天老宏越海鍾/絕？人力寳上天資豈臨夢家所能夢見乎爰識數重以誌之<persName instant="false" full="yes">吳道之</persName>据題</note>
+                        <note type="題跋" anchored="true">余素好書法粗識其中三昧然初猶私心自今每見人美右軍書轍為意平今於友人處潯見此屏媚秀自然筆法不讓鍾衛敢不作下風拜哉<date instant="false">開元四年五月</date>
+                           <persName instant="false" full="yes">李世鳳</persName>題</note>
+                        <note type="題跋" anchored="true">書法一道心正則氣定則始活始活則筆端筆端則墨法墨法則神凝神凝則象滋此皆書中之要訣也精熟于？訣自然筆妙而化右軍之書？意加意不法自法遂有名重於今未嘗敗言？？<date instant="false">正統辛酉二月</date>
+                           <persName instant="false" full="yes">劉球</persName>識</note>
+                     </msItem>
+                     <msItem>
+                        <title type="shelfmark">Backhouse Rolls a. 39 (2)</title>
+                        <note type="題跋" anchored="true">逸少書妙獨絕無人出其右者世人皆？之火或鍾衛而出加之天質頡敏是以古今之冠<placeName instant="false" full="yes">元照</placeName>
+                           <persName instant="false" full="yes">王鑬</persName>題於<placeName instant="false" full="yes">廉州官舎</placeName>
+                        </note>
+                        <note type="題跋" anchored="true">萬世無匹<date instant="false">雍正五年葭月</date>
+                           <persName instant="false" full="yes">黃鼎</persName>題</note>
+                        <note type="題跋" anchored="true">筆禿千管墨磨三？以研四之功用之於此則自有妙趣機微則不徒勞用之鐡硯磨穿不未能為此名根专不可畏矣<date instant="false">乾隆二十七年二月</date>
+                           <persName instant="false" full="yes">姜斌高</persName>題</note>
+                        <note type="題跋" anchored="true">
+                           <date instant="false">正德二年春三月上浣</date>
+                           <placeName instant="false" full="yes">長州</placeName>
+                           <persName instant="false" full="yes">沈固</persName>觀</note>
+                        <note type="題跋" anchored="true">嘗觀逸少書帖每喜學之不意今觀此屏乃墨蹟更為喜之憧惜友人所珎未能朝夕展玩細撫至法既肖憾焉<placeName instant="false" full="yes">吳趨</placeName>
+                           <persName instant="false" full="yes">唐寅</persName>題于<placeName instant="false" full="yes">學圃</placeName>
+                        </note>
+                        <note type="題跋" anchored="true">百釣弩慶高峰墮石萬歲以騰祐驚陀入草右軍之書是也<persName instant="false" full="yes">芾</persName>題</note>
+                        <note type="題跋" anchored="true">
+                           <date instant="false">乾興元年十月六日</date>
+                           <persName instant="false" full="yes">江彬</persName>觀</note>
+                        <note type="正文" anchored="true">凌霄崛岉累土崚增控燕山而嶂疉俯渤海而波澄接薊門之繚繞瞰異野之驤騰勢聳雄都眺山河其永固名留 霸國感事業之中與攬名勝於遺墟萬山環供數英賢于襄日幾輩齊登昔燕昭王之志圖復興也近畏趙圍遠憂齊伐擁萬乘而勢孤</note>
+                        <note type="題跋" anchored="true">右軍書法千載名傳每以代遠年湮不能賞目不意潯獲是屏蹟為欣章爰此誌之<persName instant="false" full="yes">蘇軾</persName>題識</note>
+                        <note type="題跋" anchored="true">東坡居士得此屏示余俾得展玩不勝忻甚自然天骨猶千里之跡邈不可追斯謂萬世獨步矣賞餘題此<persName instant="false" full="yes">山谷老人</persName>識</note>
+                        <note type="正文" anchored="true">獻五城而立竭國恥未平雄  難歇將欲業鞏金甌名岳金碣則必陳厚幣之璘彬米崇基之崆屼歆臺成靈囿文王所以造周鄰思金鑄良臣句踐從兹霸趨從觀其飛觀流丹家檐映碧東則遼右連疆西則雲中接迹南瞻而易水流長北眺而樓煩境闢</note>
+                        <note type="題跋" anchored="true">右軍書黃庭經年三十七嵗此冊屏當在像件之年矣<persName instant="false" full="yes">蕭元麟</persName>題</note>
+                        <note type="題跋" anchored="true">古人用筆之術每於永也取法以其脩八法之勢右軍點與是圖羞用此術與此精妙<date instant="false">咸通癸未四月</date>
+                           <persName instant="false" full="yes">王式</persName>題</note>
+                        <note type="題跋" anchored="true">讀右軍文知為才子聞右軍名知為大將觀右軍書知為書家今見右軍是屏知為世寳可謂古今之罕見也<date instant="false">寳歴丙午九月九日</date>
+                           <persName instant="false" full="yes">王守澄</persName>題</note>
+                        <note type="題跋" anchored="true">忠信貫千煉書名百世況拜觀宇數幅悅興古同游<persName instant="false" full="yes">張昌達</persName>題</note>
+                        <note type="題跋" anchored="true">右軍沈滋戎事明日作方子厭不卷乃有是必耳<date instant="false">乾隆三十四年七月</date>
+                           <persName instant="false" full="yes">趙文琪</persName>觀</note>
+                     </msItem>
+                     <msItem>
+                        <title type="shelfmark">Backhouse Rolls a. 39 (3)</title>
+                        <note type="題跋" anchored="true">洵觀此屏不勝忻？細展？筆法工韻獨勝世之學書去？不失此規自然名聖未識此言賢之書家以爲何乃耶賞餘爰識數言以誌之<placeName instant="false" full="yes">石為</placeName>
+                           <persName instant="false" full="yes">王翬</persName>題</note>
+                        <note type="題跋" anchored="true">雲影于重主異筆峰之寸倘學專似此屏使恆管可洵重名真收腕底之全功胸中之生趣也能勿貴乎<date instant="false">丙申之秋</date>
+                           <persName instant="false" full="yes">麓？祁</persName>題</note>
+                        <note type="題跋" anchored="true">天無意處仍商何此有心人悠結會之興對筆蕩意到筆隨弓此之言別書時矣子佳之<date instant="false">德佑元年十月</date>
+                           <persName instant="false" full="yes">德佑元年十月張世俁</persName>識</note>
+                        <note type="題跋" anchored="true">書家自古以來名重之至莫如乎王右軍筆法盖其精勁遺跡尤為罕見故此無人出其右者今偶於友人處得此跡展玩之餘雅秀異常人莫能撫之足稱至寳焉<persName instant="false" full="yes">吳潛</persName>拜題</note>
+                        <note type="題跋" anchored="true">
+                           <date instant="false">景主四二年癸亥冬日</date>
+                           <persName instant="false" full="yes">馬光祖</persName>觀於<placeName instant="false" full="yes">臨雨樓</placeName>
+                        </note>
+                        <note type="題跋" anchored="true">右軍將軍王逸少所書諸蹟人皆寳之年久而湮沒者多故世人尤罕見之則更寳也<placeName instant="false" full="yes">色山</placeName>
+                           <persName instant="false" full="yes">陸治</persName>識</note>
+                        <note type="正文" anchored="true">則嘗訪古蹟於中陽尋遺踪於舊沛緬秦漢之盛衰溯項劉之運會在昔廓清海宇巳徵風勁四方至今俯仰山川猶覺風號萬籟故臺則巍峩矗聳洵堪遠矚高瞻而歌亦悲壯淋漓想見才雄畧大方高祖之擊黥布而還也凱旋淮浦酒置沛宮</note>
+                        <note type="正文" anchored="true">敘游子別離之情溥天家恩誼之隆關心馬齒已增兒童倏看漸長回首鴻門竟脫父老共話深衷萬歲猶樂舊邦劇憐暮景五年遂成帝業早建豐功念故人鑿井相嘻羣游化日惟大王披襟而賦此有雄風夫念其結鄉園情深桑梓節歌風臺賦二則</note>
+                        <note type="題跋" anchored="true">前見逸少書東方朔茵賞一則支此泣折<persName instant="false" full="yes">陸贄</persName>題</note>
+                        <note type="題跋" anchored="true">
+                           <date instant="false">元符戊寅冬十一月冬至後一日</date>
+                           <persName instant="false" full="yes">鄒浩</persName>觀于<placeName instant="false" full="yes">靜怡山房</placeName>
+                        </note>
+                        <note type="題跋" anchored="true">
+                           <date instant="false">嘉靖庚寅冬一月</date>行往<placeName instant="false" full="yes">吳門</placeName>觀此<persName instant="false" full="yes">王瓊</persName>記</note>
+                        <note type="題跋" anchored="true">
+                           <date instant="false">景泰六年乙亥正月</date>
+                           <persName instant="false" full="yes">于謙</persName>觀于<placeName instant="false" full="yes">東麓草庵</placeName>
+                        </note>
+                        <note type="題跋" anchored="true">逸少真蹟予前任待詔時所見不少官歸後實難覆見不意今適友人携此屏來示余囑為題記遂得重玩其跡深幸之至因限於地窄未能細述其妙只得聊誌數言以識之<persName instant="false" full="yes">徵明</persName>題</note>
+                        <note type="題跋" anchored="true">所藏右軍書跡數体以爲寳貴不意今又得此屏更屬忻幸何余之有緣於右軍抑有緣於翰墨耶自爲識之<date instant="false">治平乙巳春日</date>
+                           <persName instant="false" full="yes">司馬光</persName>謹題</note>
+                        <note type="題跋" anchored="true">相國潯此屏蹟以示舍展玩之餘？重筆法似喜虹飲澗蕩霰浮浦寳有緣於筠墨以陖遇之舟遇耳<persName instant="false" full="yes">富弼</persName>拜題</note>
+                        <note type="題跋" anchored="true">逸少生平所以蘭亭沒禪黃庭經道德經樂毅論為最妙？者難不及此然頗子揭洵今觀是屏見是筆法妔若銀鈎飄若騖鶯香當典為最者？妙也 <persName instant="false" full="yes">葉朝棟</persName>題</note>
+                        <note type="題跋" anchored="true">
+                           <date instant="false">順始六年夔卯月上現</date>觀於<placeName instant="false" full="yes">&gt;西冷之聼潮樓</placeName>邘上<placeName instant="false" full="yes"/>
+                           <persName instant="false" full="yes">宗濂</persName>題記</note>
+                     </msItem>
+                     <msItem>
+                        <title type="shelfmark">Backhouse Rolls a. 39 (4)</title>
+                        <note type="題跋" anchored="true">張兰綞奇鍾繇特纏逸少昇能献之冠世前推為世之考聖耳此屏逸少真蹟自及拱望視之<persName instant="false" full="yes">金仁毅</persName>提</note>
+                        <note type="題跋" anchored="true">丰神標格筆韵獨絕可謂盖世無雙也<persName instant="false" full="yes">韓菼</persName>提</note>
+                        <note type="正文" anchored="true">天梯石棧平分乎一十二重朱欄畫檻招邀乎三千餘客輝煌王霸之圖仿佛神仙之宅不謂傾囊慾贈志擬揖山請看布地皆珍術非點石想其老結繆綢誠通悃款恐貧賤之交疏惜英雄之氣短除是金酬聶政劍術誰知劇憐金盡蘇秦裘裝不暖</note>
+                        <note type="題跋" anchored="true">右軍書稱世之罕巧因被唐太宗收貯宮中沒後易數代所穫尽出遂乃復見此屏展玩而構幸也 <persName instant="false" full="yes">鄧綰</persName>題</note>
+                        <note type="題跋" anchored="true">余宦沒歸軍最愛考凴新獲名蹟自詔不少獨右軍遺墨祗有一卷一冊無不甚精妙新以之自詡也會思此屏玩竟日神駭意勤不料又有此希寳較余即獲搖出數倍矣<date instant="false">大觀丁亥七月之春</date>
+                           <persName instant="false" full="yes">趙挺之</persName>題</note>
+                        <note type="題跋" anchored="true">右軍之書傳師術古人最為潯其妙境是屏筆法娟秀尤如古人齊下所出不愧為高弟子也<date instant="false">寳祐之春三月</date>
+                           <persName instant="false" full="yes">天祥</persName>識</note>
+                        <note type="正文" anchored="true">爾乃呼鷹接武戯馬成？纓裙交拂履舄廽翔骨市涓人隗先發策邑對上客恢亦稱艮騶爽發琅琊之麓？辛踰博闕之鄉蘇倵以逰士參謀能修宋好？毅以亞卿建策不畏齊掘喜豪傑之歸心聯鑣滋集慕君王之下士引領相？錄黃金臺賦</note>
+                        <note type="題跋" anchored="true">偶觀是屏甚妍美風流婉約可謂柔而常？真妙入古人之境矣<persName instant="false" full="yes">李晟</persName>題於旅次</note>
+                        <note type="題跋" anchored="true">風勁之象態超抄每費筆墨之前緣聰酌第一<date instant="false">孟德二年三月</date>
+                           <persName instant="false" full="yes">張鎬</persName>題</note>
+                        <note type="題跋" anchored="true">氷雪澄心鬼神通思筆端之妙化也<persName instant="false" full="yes">王縉觀</persName>題</note>
+                        <note type="題跋" anchored="true">晉庾翼書法口時占右軍齋名後因人皆喜右軍書而憎庾翼也遂右都下人云小兒厭家鷄愛野驚之語自此論之凿右軍？之是屏高是十月彌觀之天登五年夏四月既望 <date instant="false">天登五年夏四月既望</date>
+                           <persName instant="false" full="yes">徐兆</persName>
+                           <placeName instant="false" full="yes">增林</placeName>題</note>
+                        <note type="題跋" anchored="true">書法以二王為極則蘭亭洛神尤為楷法極則此屏評之亦為極則矣 萬曆癸未孟冬之日漫題於寄寓<date instant="false">天順己卯四月</date>
+                           <placeName instant="false" full="yes">太原</placeName>
+                           <persName instant="false" full="yes">王錫舜</persName>
+                        </note>
+                        <note type="題跋" anchored="true">嘗觀右軍隷字實滋鍾繇之法楷書乃由衛夫人之格不夫前人體格加之天機聰穎遂得名冠蓋世而謂？匠美 <persName instant="false" full="yes">李賢</persName>題</note>
+                        <note type="題跋" anchored="true">
+                           <date instant="false">成化卯李三月端陽後二日</date>
+                           <persName instant="false" full="yes">江淦</persName>題</note>
+                        <note type="題跋" anchored="true">
+                           <persName instant="false" full="yes">歐陽</persName>借觀於東林草舎</note>
+                     </msItem>
+                     <msItem>
+                        <title type="shelfmark">Backhouse Rolls a. 39 (5)</title>
+                        <note type="題跋" anchored="true">是屏十二方裝成六幅上有歷朝諸名家跋殊為世寶罕見之物也珎藏家當采知若何貴重因呂識之<persName instant="false" full="yes">王時敏</persName>所題</note>
+                        <note type="題跋" anchored="true">吾嘗觀歷代書家之名重罕少則逸少為最也此屏真跡可愛之至借觀竟日題此識之<persName type="號" instant="false" full="yes">甌香閣主</persName>
+                           <persName instant="false" full="yes">壽平</persName>
+                        </note>
+                        <note type="題跋" anchored="true">逸少書黃庭綞時天上神仙亦有感動其精妙可想而知也<persName instant="false" full="yes">柳公權</persName>題</note>
+                        <note type="正文" anchored="true">於是潛跡水國絕踪塵寰舉手江邊頻看鯉躍畫眉聲裏細數鷗還何事投竿一片之閒雲自在有時意釣半鈎之新月灣環當年好句流傳長占烟波風月此日新詩送祝猶歌江雲山倘其不待峻節稍貶清操謝富春之隱遯侶中夏之賢豪</note>
+                        <note type="題跋" anchored="true">右軍書法名冠古今遺留不多故世人咸為寶貴今得展此屏煙飛霧結鳳煮龍蟠令人玩之愈精愈妙洵為寳焉<persName instant="false" full="yes">柳公權</persName>題</note>
+                        <note type="題跋" anchored="true">逸少書黃庭綞時天上神仙亦有感動其精妙可想而知也<persName instant="false" full="yes">高超模</persName>識</note>
+                        <note type="題跋" anchored="true">蓋世之寳<date instant="false">長慶三年癸卯秋日</date>
+                           <persName instant="false" full="yes">顧大承</persName>觀</note>
+                        <note type="正文" anchored="true">則黨赤伏中興不數諸公袞袞底事紅塵大隱偏憐斯世滔滔戯馬異項王之地觀魚同太公之濠泠看孺子劉嬰塵世之分爭不少回想婦翁梅福神仙之蹤跡尤高所以甘處隱淪願辤祿仕堅君則賢網恢弘此老則魚竿徙倚節嚴于陵釣臺賦二則</note>
+                        <note type="題跋" anchored="true">每讀右軍傳其一生事蹟信可令人欣羡不意今閲是屏遺跡為見其人矣特此誌之<date instant="false">天禧定酉春三月</date>
+                           <placeName instant="false" full="yes">上浣 </placeName>
+                           <persName instant="false" full="yes">桑維翰</persName>据題</note>
+                        <note type="題跋" anchored="true">逸少書蹟首推蘭亭為最今得展此屏亦不以為次惟筆法稍變耳<date instant="false">開成五年二月花朝日</date>
+                           <persName instant="false" full="yes">李玨</persName>提</note>
+                        <note type="題跋" anchored="true">嘗觀逸少真蹟行草多而正體少是幅行楷精妙勝於前觀者<persName instant="false" full="yes">顔真卿</persName>觀記</note>
+                        <note type="題跋" anchored="true">嘗觀逸少真跡勝于前觀者召此記之<date instant="false">洪武二十九年三月</date>
+                           <persName instant="false" full="yes">方孝孺</persName>題</note>
+                        <note type="題跋" anchored="true">
+                           <date instant="false">天啓甲子春正月</date>
+                           <placeName instant="false" full="yes">下浣</placeName>
+                           <persName instant="false" full="yes">李國榗</persName>觀</note>
+                     </msItem>
+                     <msItem>
+                        <title type="shelfmark">Backhouse Rolls a. 39 (6)</title>
+                        <note type="題跋" anchored="true">右軍傳云當下筆時先以運氣則力自隨矣是以所書或千百字或萬餘字自朝操筆至暮竟首尾如一此亦不易摹之然亦湏究其原盖腕力之足而工夫深自然到此境地觀其字而知其言矣<date instant="false">康熙己亥</date>
+                           <persName instant="false" full="yes">蔣廷鈞</persName>所題</note>
+                        <note type="題跋" anchored="true">超工八法盡奇六文王逸少書偏工書永以真八法之勢能通一切字格是以所書皆入妙懷名滿於天下偶觀此屏所？學法？秀字體穩遲必是真績無疑矣愛題數言以誌之<persName instant="false" full="yes">虞世南</persName>
+                        </note>
+                        <note type="正文" anchored="true">竿投別浦綸繫平矼劍光 欲暗箎吹無腔不同蒼？碭 龍潛送徒大澤絕似淮南 豹隱擊楫橫江誰吹麥飯 相餽蓬牎憐才嫗老望報 心降早知虎帳宏開佐金刀而混一應笑鴻門高會 碎玉斗以成雙厥後丞相追亡漢中應名扶高帝以龍興謝剻通而鷃笑</note>
+                        <note type="題跋" anchored="true">觀是屏王右軍真蹟身為武將筆墨一道名足過人歷代呂來禾有之也特誌數言呂識之<persName instant="false" full="yes">李淦</persName>
+                        </note>
+                        <note type="正文" anchored="true">奉廉無奔楚厚不呼嘯轉眼真王初徙開府丕州遙思游子重來建旂每徵故鄉撫景而如新諸母臨流而徜漂則有躑躅徘徊登高凴眺悵身世之升沈憤貧時之漁釣者矣即淮陰侯釣臺賦二則於<placeName instant="false" full="yes">蘅秋軒</placeName>
+                           <date instant="false">隆和壬戌之春</date>臨<persName instant="false" full="yes">衛夫人</persName>筆法<persName type="號" instant="false" full="yes">逸少</persName>
+                           <persName instant="false" full="yes">王羲之</persName>
+                        </note>
+                        <note type="題跋" anchored="true">余幼時喜習王字每尋遺跡苦無所得及後畧得數冊是當寳之朝夕臨撫稍有進境今偶觀是屏乃冊頁所成字體較之余藏者勝矣想前後分別也敬題數言<placeName instant="false" full="yes">信本</placeName>
+                           <persName instant="false" full="yes">歐陽詢</persName>題</note>
+                        <note type="題跋" anchored="true">善笔力者多骨 不善笔力者多肉 多力豐筋者聖，无力无筋者病 斯言信能义墨屏多少书蹟而謂余以筋骨為之臨洵名世<date instant="false">貞觀五年四月</date>
+                           <persName instant="false" full="yes">杜如晦</persName>題</note>
+                        <note type="題跋" anchored="true">余向潯逸少隷字如奏喜之不勝以爲奇峯也不意今又見是屏乃行楷十二方裝成六幅更屬佳妙使人展之不勝駭異又為之奇幸遂出潰購之與？字卷弦藏庶莪自謂？？<persName instant="false" full="yes">色仁鈺</persName>識</note>
+                     </msItem>
+                     <filiation>書法卷軸，中外孤本。</filiation>
+                  </msItem>
+                  <!-- insert further msItem elements as appropriate -->
+               </msContents>
+               <physDesc>
+                  <objectDesc form="卷軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
+                     <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
+                        <support>mulberry and bamboo mixed paper</support>
+                        <extent>6 scrolls 六軸
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
                         https://git.io/msdescdoc#leafDimensions
-                        -->                           <height>？</height>
-                                        <width>？</width>
-                                    </dimensions>
-                                    <!-- use additional dimensions elements if necessary -->
-                                </extent>
-                                
-                                <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
-                            </supportDesc>
-                            <layoutDesc>
-                                <layout>书法卷轴，墨色书写。</layout>
-                                
-                            </layoutDesc>
-                            
-                        </objectDesc>
-                        
-                        <handDesc><!-- use the @hands attribute to record the number of scribes -->
-                            <handNote>
+                        -->
+                              <height>？</height>
+                              <width>？</width>
+                           </dimensions>
+                           <!-- use additional dimensions elements if necessary -->
+                        </extent>
+                        <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>书法卷轴，墨色书写。</layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc><!-- use the @hands attribute to record the number of scribes -->
+                     <handNote>
                                 Text written in 楷體 (kai shu, regular) calligraphic style</handNote>
-                            <!-- use additional handNote elements if necessary 
+                     <!-- use additional handNote elements if necessary 
                      https://git.io/msdescdoc#handdesc
                      -->
-                        </handDesc>
-                        
-                        <decoDesc>
-                            <decoNote>
+                  </handDesc>
+                  <decoDesc>
+                     <decoNote>
                             </decoNote>
-                            <!-- use additional decoNote elements if necessary 
+                     <!-- use additional decoNote elements if necessary 
                      https://git.io/msdescdoc#decodesc
                      -->
-                        </decoDesc>
-                        
-                        <bindingDesc>
-                            <binding when="1800"><!-- use dating attributes to record the date -->
-                                <p>卷軸</p>
-                                <decoNote>立軸，二色裱，天頭地脚為深棕色帶黃色提花絲織物，上下隔水為藍色絲織物，每段書法分別爲不同作者書寫，也可能是一人以不同字體書寫。</decoNote>
-                            </binding>
-                        </bindingDesc>
-                        <accMat>
+                  </decoDesc>
+                  <bindingDesc>
+                     <binding when="1800"><!-- use dating attributes to record the date -->
+                        <p part="N">卷軸</p>
+                        <decoNote>立軸，二色裱，天頭地脚為深棕色帶黃色提花絲織物，上下隔水為藍色絲織物，每段書法分別爲不同作者書寫，也可能是一人以不同字體書寫。</decoNote>
+                     </binding>
+                  </bindingDesc>
+                  <accMat>
                             <!-- insert if relevant, otherwise delete 
                      https://git.io/msdescdoc#accMat          
                      -->
                         </accMat>
-                    </physDesc>
-                    <history>
+               </physDesc>
+               <history>
                         <!-- see https://git.io/msdescdoc#history -->
-                        <origin>
+                  <origin instant="false">
                             <!-- see https://git.io/msdescdoc#origin -->
-                            <origPlace>
-                                <country>China</country>,
+                     <origPlace instant="false">
+                        <country>China</country>,
                                 <region><!-- insert --></region>,
                                 <settlement><!-- insert --></settlement>,
-                                <orgName><!-- insert --></orgName>
-                            </origPlace>
-                            <origDate notAfter="1900" notBefore="1800" calendar="Gregorian">約爲晚清</origDate>
-                            <!-- use additional origPlace and origDate elements if necessary -->
-                        </origin>
-                        <provenance>Donated by Sir Edmund Trelawny Backhouse, Baronet (20 October 1873 – 8 January 1944).</provenance>
-                        
-                        
-                        <!-- use additional provenance elements if necessary -->
-                        <acquisition>
+                                <orgName instant="false" full="yes"><!-- insert --></orgName>
+                     </origPlace>
+                     <origDate notAfter="1900"
+                               notBefore="1800"
+                               calendar="Gregorian"
+                               instant="false">約爲晚清</origDate>
+                     <!-- use additional origPlace and origDate elements if necessary -->
+                  </origin>
+                  <provenance>Donated by Sir Edmund Trelawny Backhouse, Baronet (20 October 1873 – 8 January 1944).</provenance>
+                  <!-- use additional provenance elements if necessary -->
+                  <acquisition>
                             <!-- insert -->
                             <!-- use dating attributes where possible -->
                         </acquisition>
-                    </history>
-                    <additional>
-                        <adminInfo>
-                            <recordHist>
-                                <source>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
                                     <!-- insert prose here; see https://git.io/msdescdoc#recordHist -->
-                                    <bibl><!-- insert if necesary, otherwise delete --></bibl>
-                                    <!-- links to digitized catalogues may also be provide here, e.g.: -->
-                                    <!--<listBibl>
+                           <bibl default="false" status="draft"><!-- insert if necesary, otherwise delete --></bibl>
+                           <!-- links to digitized catalogues may also be provide here, e.g.: -->
+                           <!--<listBibl>
                               <bibl type="SC" facs="aas0046.gif">Summary Catalogue, Vol. 3, p.  31</bibl>
                            </listBibl>-->
-                                </source>
-                            </recordHist>
-                        </adminInfo>
-                        <surrogates>
-                            <bibl type="digital-facsimile" subtype="full">
-                                <ref target="https://digital.bodleian.ox.ac.uk/objects/97611b5a-c786-4336-b532-e6eb28aa27de/">
-                                    <title>Digital Bodleian</title></ref> <note>(full digital facsimile)</note>
-                            </bibl>
-                        </surrogates>
-                        <listBibl>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+                  <surrogates>
+                     <bibl type="digital-facsimile"
+                           subtype="full"
+                           default="false"
+                           status="draft">
+                        <ref target="https://digital.bodleian.ox.ac.uk/objects/97611b5a-c786-4336-b532-e6eb28aa27de/">
+                           <title>Digital Bodleian</title>
+                        </ref>
+                        <note anchored="true">(full digital facsimile)</note>
+                     </bibl>
+                  </surrogates>
+                  <listBibl default="false">
                             <!-- a number of listBibl elements can be nested inside an outer listBibl if required -->
-                            <head><!-- use to provide a heading if required, otherwise delete --></head>
-                            <bibl><!-- insert bibliography, links to online resource, etc., otherwise delete--></bibl>
-                            
-                        </listBibl>
-                    </additional>
-                    
-                    
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <revisionDesc>
-            <change>
+                     <head><!-- use to provide a heading if required, otherwise delete --></head>
+                     <bibl default="false" status="draft"><!-- insert bibliography, links to online resource, etc., otherwise delete--></bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change status="draft">
                 <!-- insert relevant text, e.g. 'First online publication' -->
                 <!-- provide the date of the change using the @when attribute -->
             </change>
-        </revisionDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <p><!--Body paragraph provided for validation and future transcription--></p>
-        </body>
-    </text>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p part="N"><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
 </TEI>

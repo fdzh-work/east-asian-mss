@@ -1,205 +1,204 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-
 <!-- use this template in cases where the manuscript is NOT composed of multiple codicological units. To avoid errors in the display of the record, be sure to delete elements that are not used. -->
-
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-    xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="manuscript_00000"><!-- insert the correct xmlid in the form manuscript_12345 -->
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Sinica 3244</title>
-                
-                <respStmt>
-                    <resp>Cataloguer</resp>
-                    <persName>Boya Zhang</persName>
-                </respStmt>
-                
-            </titleStmt>
-            <editionStmt>
-                <edition>TEI P5</edition>
-                <funder>HD Chung Fund</funder>
-            </editionStmt>
-            <publicationStmt>
-                <publisher>Special Collections, Bodleian Libraries</publisher>
-                <address>
-                    <orgName type="department">Special Collections</orgName>
-                    <orgName type="unit">Bodleian Libraries</orgName>
-                    <orgName type="institution">University of Oxford</orgName>
-                    <street>Weston Library, Broad Street</street>
-                    <settlement>Oxford</settlement>
-                    <postCode>OX1 3BG</postCode>
-                    <country>United Kingdom</country>
-                </address>
-                <distributor>
-                    <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
-                </distributor>
-                <idno type="msID"><!-- insert normalized form of shelfmark --></idno>
-                <idno type="collection"><!-- insert normalized form of collection --></idno>
-                <idno type="catalogue"><!-- insert catalogue ID --></idno>
-            </publicationStmt>
-            <sourceDesc>
-                <msDesc xml:lang="en"><!-- optionally provide xmlid should as a normalized form of the shelfmark, e.g. Merton_College_MS_10 -->
-                    <msIdentifier>
-                        <settlement><!-- insert --></settlement>
-                        <repository>Bodleian Library</repository><!-- change if necessary -->
-                        <idno type="shelfmark">Sinica 3244</idno>
-                        
-                        
-                    </msIdentifier>
-                    
-                    <msContents>
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xml:id="manuscript_00000"><!-- insert the correct xmlid in the form manuscript_12345 -->
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sinica 3244</title>
+            <respStmt>
+               <resp>Cataloguer</resp>
+               <persName instant="false" full="yes">Boya Zhang</persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>TEI P5</edition>
+            <funder>HD Chung Fund</funder>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Special Collections, Bodleian Libraries</publisher>
+            <address>
+               <orgName type="department" instant="false" full="yes">Special Collections</orgName>
+               <orgName type="unit" instant="false" full="yes">Bodleian Libraries</orgName>
+               <orgName type="institution" instant="false" full="yes">University of Oxford</orgName>
+               <street>Weston Library, Broad Street</street>
+               <settlement>Oxford</settlement>
+               <postCode>OX1 3BG</postCode>
+               <country>United Kingdom</country>
+            </address>
+            <distributor>
+               <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+            </distributor>
+            <idno type="msID"><!-- insert normalized form of shelfmark --></idno>
+            <idno type="collection"><!-- insert normalized form of collection --></idno>
+            <idno type="catalogue"><!-- insert catalogue ID --></idno>
+         </publicationStmt>
+         <sourceDesc default="false">
+            <msDesc xml:lang="en" status="draft"><!-- optionally provide xmlid should as a normalized form of the shelfmark, e.g. Merton_College_MS_10 -->
+               <msIdentifier>
+                  <settlement><!-- insert --></settlement>
+                  <repository>Bodleian Library</repository>
+                  <!-- change if necessary -->
+                  <idno type="shelfmark">Sinica 3244</idno>
+               </msIdentifier>
+               <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>標題不明，該手抄本内容為道教相關内容，包含口訣和符籙</summary>
-                        <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
-                        
-                        <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
+                  <summary>標題不明，該手抄本内容為道教相關内容，包含口訣和符籙</summary>
+                  <textLang mainLang="zh">Chinese</textLang>
+                  <!-- change text and attribute if necessary -->
+                  <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
-                            <locus><!-- insert --></locus>
-                            <title key="" type="desc">Sinica 3244</title>
-                            
-                            
-                            <incipit>敕發雷声發鼓，如今声壹声敕答朝天兵入魂速鬼魂遠行凖吾奉太上老君令敕<locus type="page"> p.1</locus></incipit>
-                            <rubric>咄：謹请東方天门<locus type="page"> p.1</locus></rubric>
-                            <rubric>咄：謹请東方五雷来<locus type="page"> pp.2-3</locus></rubric>
-                            <rubric>咄：謹请東方大吉利<locus type="page"> pp.2-3</locus></rubric>
-                            <rubric>咄：謹请東方天门<locus type="page"> pp.6-7</locus></rubric>
-                            <rubric>咄：壹变脚底為鉄版<locus type="page"> pp.8-9</locus></rubric>
-                            <rubric>咄：藏身法用<locus type="page"> pp.10-11</locus></rubric>
-                            <rubric>咄：变身梯柱用<locus type="page"> pp.12-13</locus></rubric>
-                            <rubric>咄：剉刀口法用<locus type="page"> pp.12-13</locus></rubric>
-                            <rubric>咄：藏变梯用<locus type="page"> pp.14-15</locus></rubric>
-                            <rubric>咄：又变刀口用<locus type="page"> pp.16-17</locus></rubric>
-                            <rubric>咄：又变身上刀山法用<locus type="page"> pp.18-19</locus></rubric>
-                            <rubric>咄：变犁頭火磗用<locus type="page"> pp.20-21</locus></rubric>
-                            <rubric>師：師变二分速变速化吾奉太上老君急急如敕令<locus type="page"> pp.20-21</locus></rubric>
-                            <rubric>咄：含犁頭法用<locus type="page"> pp.28-29</locus></rubric>
-                            <rubric>咄：变角用<locus type="page"> pp.34-35</locus></rubric>
-                            <rubric>咄：又大变法<locus type="page"> pp.38-39</locus></rubric>
-                            
-                    
-                            
-                            
-                            
-                            <explicit type="desc">道家符籙圖示，有磨損痕跡<locus type="page"> p.42</locus></explicit>
-                            
-                        </msItem>
-                        <!-- insert further msItem elements as appropriate -->
-                    </msContents>
-                    <physDesc>
-                        
-                        <objectDesc form="包背裝"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
-                            <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                                <support>mulberry and bamboo mixed paper</support>
-                                <extent>66 pages
+                     <locus><!-- insert --></locus>
+                     <title key="" type="desc">Sinica 3244</title>
+                     <note anchored="true">敕發雷声發鼓，如今声壹声敕答朝天兵入魂速鬼魂遠行凖吾奉太上老君令敕<locus type="page"> p.1</locus>
+                     </note>
+                     <rubric>咄：謹请東方天门<locus type="page"> p.1</locus>
+                     </rubric>
+                     <rubric>咄：謹请東方五雷来<locus type="page"> pp.2-3</locus>
+                     </rubric>
+                     <rubric>咄：謹请東方大吉利<locus type="page"> pp.2-3</locus>
+                     </rubric>
+                     <rubric>咄：謹请東方天门<locus type="page"> pp.6-7</locus>
+                     </rubric>
+                     <rubric>咄：壹变脚底為鉄版<locus type="page"> pp.8-9</locus>
+                     </rubric>
+                     <rubric>咄：藏身法用<locus type="page"> pp.10-11</locus>
+                     </rubric>
+                     <rubric>咄：变身梯柱用<locus type="page"> pp.12-13</locus>
+                     </rubric>
+                     <rubric>咄：剉刀口法用<locus type="page"> pp.12-13</locus>
+                     </rubric>
+                     <rubric>咄：藏变梯用<locus type="page"> pp.14-15</locus>
+                     </rubric>
+                     <rubric>咄：又变刀口用<locus type="page"> pp.16-17</locus>
+                     </rubric>
+                     <rubric>咄：又变身上刀山法用<locus type="page"> pp.18-19</locus>
+                     </rubric>
+                     <rubric>咄：变犁頭火磗用<locus type="page"> pp.20-21</locus>
+                     </rubric>
+                     <rubric>師：師变二分速变速化吾奉太上老君急急如敕令<locus type="page"> pp.20-21</locus>
+                     </rubric>
+                     <rubric>咄：含犁頭法用<locus type="page"> pp.28-29</locus>
+                     </rubric>
+                     <rubric>咄：变角用<locus type="page"> pp.34-35</locus>
+                     </rubric>
+                     <rubric>咄：又大变法<locus type="page"> pp.38-39</locus>
+                     </rubric>
+                     <note type="desc" anchored="true">道家符籙圖示，有磨損痕跡<locus type="page"> p.42</locus>
+                     </note>
+                  </msItem>
+                  <!-- insert further msItem elements as appropriate -->
+               </msContents>
+               <physDesc>
+                  <objectDesc form="包背裝"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
+                     <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
+                        <support>mulberry and bamboo mixed paper</support>
+                        <extent>66 pages
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
                         https://git.io/msdescdoc#leafDimensions
-                        -->                           <height>16.7</height>
-                                        <width>9.2</width>
-                                    </dimensions>
-                                    <!-- use additional dimensions elements if necessary -->
-                                </extent>
-                                
-                                <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
-                            </supportDesc>
-                            <layoutDesc>
-                                <layout>手抄本，無邊框。無標題，每半頁分七行，每行約含十七字，正文黑色墨水小字單行抄寫。頁面上端有用黑色筆跡圈上的“咄”字，用以提示口訣的開始。部分口訣的開頭也同時配合紅色及黑色的折綫狀標記。</layout>
-                                
-                            </layoutDesc>
-                        </objectDesc>
-                        
-                        <handDesc><!-- use the @hands attribute to record the number of scribes -->
-                            <handNote>
+                        -->
+                              <height>16.7</height>
+                              <width>9.2</width>
+                           </dimensions>
+                           <!-- use additional dimensions elements if necessary -->
+                        </extent>
+                        <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>手抄本，無邊框。無標題，每半頁分七行，每行約含十七字，正文黑色墨水小字單行抄寫。頁面上端有用黑色筆跡圈上的“咄”字，用以提示口訣的開始。部分口訣的開頭也同時配合紅色及黑色的折綫狀標記。</layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc><!-- use the @hands attribute to record the number of scribes -->
+                     <handNote>
                                 Text written in 楷書 (kai shu, regular) calligraphic style</handNote>
-                            <!-- use additional handNote elements if necessary 
+                     <!-- use additional handNote elements if necessary 
                      https://git.io/msdescdoc#handdesc
                      -->
-                        </handDesc>
-                        <musicNotation>
-                            <p><!-- insert if relevant, otherwise delete --></p>
-                            <!-- use additional p elements if necessary 
+                  </handDesc>
+                  <musicNotation>
+                     <p part="N"><!-- insert if relevant, otherwise delete --></p>
+                     <!-- use additional p elements if necessary 
                      https://git.io/msdescdoc#musicnotation
                      -->
-                        </musicNotation>
-                        <decoDesc>
-                            <decoNote>
+                  </musicNotation>
+                  <decoDesc>
+                     <decoNote>
                                 無封皮無封底，頁面有缺損。</decoNote>
-                            <!-- use additional decoNote elements if necessary 
+                     <!-- use additional decoNote elements if necessary 
                      https://git.io/msdescdoc#decodesc
                      -->
-                        </decoDesc>
-                        
-                        <bindingDesc>
-                            <binding when="1900"><!-- use dating attributes to record the date -->
-                                <p>綫裝書</p>
-                                <decoNote><!-- insert relevant information, otherwise delete --></decoNote>
-                            </binding>
-                        </bindingDesc>
-                        <accMat>
+                  </decoDesc>
+                  <bindingDesc>
+                     <binding when="1900"><!-- use dating attributes to record the date -->
+                        <p part="N">綫裝書</p>
+                        <decoNote><!-- insert relevant information, otherwise delete --></decoNote>
+                     </binding>
+                  </bindingDesc>
+                  <accMat>
                             <!-- insert if relevant, otherwise delete 
                      https://git.io/msdescdoc#accMat          
                      -->
                         </accMat>
-                    </physDesc>
-                    <history>
+               </physDesc>
+               <history>
                         <!-- see https://git.io/msdescdoc#history -->
-                        <origin>
+                  <origin instant="false">
                             <!-- see https://git.io/msdescdoc#origin -->
-                            <origPlace>
-                                <country>China</country>,
+                     <origPlace instant="false">
+                        <country>China</country>,
                                 <region><!-- insert --></region>,
                                 <settlement><!-- insert --></settlement>,
-                                <orgName><!-- insert --></orgName>
-                            </origPlace>
-                            <origDate notAfter="2000" notBefore="1900" calendar="Gregorian">年代不詳 unknown date</origDate>
-                            <!-- use additional origPlace and origDate elements if necessary -->
-                        </origin>
-                        <provenance> </provenance>
-                        
-                        
-                        <!-- use additional provenance elements if necessary -->
-                        <acquisition>
+                                <orgName instant="false" full="yes"><!-- insert --></orgName>
+                     </origPlace>
+                     <origDate notAfter="2000"
+                               notBefore="1900"
+                               calendar="Gregorian"
+                               instant="false">年代不詳 unknown date</origDate>
+                     <!-- use additional origPlace and origDate elements if necessary -->
+                  </origin>
+                  <provenance> </provenance>
+                  <!-- use additional provenance elements if necessary -->
+                  <acquisition>
                             <!-- insert -->
                             <!-- use dating attributes where possible -->
                         </acquisition>
-                    </history>
-                    <additional>
-                        <adminInfo>
-                            <recordHist>
-                                <source>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
                                     <!-- insert prose here; see https://git.io/msdescdoc#recordHist -->
-                                    <bibl><!-- insert if necesary, otherwise delete --></bibl>
-                                    <!-- links to digitized catalogues may also be provide here, e.g.: -->
-                                    <!--<listBibl>
+                           <bibl default="false" status="draft"><!-- insert if necesary, otherwise delete --></bibl>
+                           <!-- links to digitized catalogues may also be provide here, e.g.: -->
+                           <!--<listBibl>
                               <bibl type="SC" facs="aas0046.gif">Summary Catalogue, Vol. 3, p.  31</bibl>
                            </listBibl>-->
-                                </source>
-                            </recordHist>
-                        </adminInfo>
-                        <listBibl>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+                  <listBibl default="false">
                             <!-- a number of listBibl elements can be nested inside an outer listBibl if required -->
-                            <head><!-- use to provide a heading if required, otherwise delete --></head>
-                            <bibl><!-- insert bibliography, links to online resource, etc., otherwise delete--></bibl>
-                            
-                        </listBibl>
-                    </additional>
-                    
-                    
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <revisionDesc>
-            <change>
+                     <head><!-- use to provide a heading if required, otherwise delete --></head>
+                     <bibl default="false" status="draft"><!-- insert bibliography, links to online resource, etc., otherwise delete--></bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change status="draft">
                 <!-- insert relevant text, e.g. 'First online publication' -->
                 <!-- provide the date of the change using the @when attribute -->
             </change>
-        </revisionDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <p><!--Body paragraph provided for validation and future transcription--></p>
-        </body>
-    </text>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p part="N"><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
 </TEI>

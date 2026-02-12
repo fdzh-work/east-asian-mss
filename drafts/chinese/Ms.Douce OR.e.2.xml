@@ -1,347 +1,393 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-
 <!-- use this template in cases where the manuscript is NOT composed of multiple codicological units. To avoid errors in the display of the record, be sure to delete elements that are not used. -->
-
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-    xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="manuscript_00000"><!-- insert the correct xmlid in the form manuscript_12345 -->
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Ms.Douce OR.e.2</title>
-                
-                <respStmt>
-                    <resp>Cataloguer</resp>
-                    <persName>Boya Zhang</persName>
-                </respStmt>
-                
-            </titleStmt>
-            <editionStmt>
-                <edition>TEI P5</edition>
-                <funder>HD Chung Fund</funder>
-            </editionStmt>
-            <publicationStmt>
-                <publisher>Special Collections, Bodleian Libraries</publisher>
-                <address>
-                    <orgName type="department">Special Collections</orgName>
-                    <orgName type="unit">Bodleian Libraries</orgName>
-                    <orgName type="institution">University of Oxford</orgName>
-                    <street>Weston Library, Broad Street</street>
-                    <settlement>Oxford</settlement>
-                    <postCode>OX1 3BG</postCode>
-                    <country>United Kingdom</country>
-                </address>
-                <distributor>
-                    <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
-                </distributor>
-                <idno type="msID"><!-- insert normalized form of shelfmark --></idno>
-                <idno type="collection"><!-- insert normalized form of collection --></idno>
-                <idno type="catalogue"><!-- insert catalogue ID --></idno>
-            </publicationStmt>
-            <sourceDesc>
-                <msDesc xml:lang="en"><!-- optionally provide xmlid should as a normalized form of the shelfmark, e.g. Merton_College_MS_10 -->
-                    <msIdentifier>
-                        <settlement><!-- insert --></settlement>
-                        <repository>Bodleian Library</repository><!-- change if necessary -->
-                        <idno type="shelfmark">Ms.Douce OR.e.2</idno>
-                        
-                    </msIdentifier>
-                    
-                    <msContents>
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xml:id="manuscript_00000"><!-- insert the correct xmlid in the form manuscript_12345 -->
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ms.Douce OR.e.2</title>
+            <respStmt>
+               <resp>Cataloguer</resp>
+               <persName instant="false" full="yes">Boya Zhang</persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>TEI P5</edition>
+            <funder>HD Chung Fund</funder>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Special Collections, Bodleian Libraries</publisher>
+            <address>
+               <orgName type="department" instant="false" full="yes">Special Collections</orgName>
+               <orgName type="unit" instant="false" full="yes">Bodleian Libraries</orgName>
+               <orgName type="institution" instant="false" full="yes">University of Oxford</orgName>
+               <street>Weston Library, Broad Street</street>
+               <settlement>Oxford</settlement>
+               <postCode>OX1 3BG</postCode>
+               <country>United Kingdom</country>
+            </address>
+            <distributor>
+               <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+            </distributor>
+            <idno type="msID"><!-- insert normalized form of shelfmark --></idno>
+            <idno type="collection"><!-- insert normalized form of collection --></idno>
+            <idno type="catalogue"><!-- insert catalogue ID --></idno>
+         </publicationStmt>
+         <sourceDesc default="false">
+            <msDesc xml:lang="en" status="draft"><!-- optionally provide xmlid should as a normalized form of the shelfmark, e.g. Merton_College_MS_10 -->
+               <msIdentifier>
+                  <settlement><!-- insert --></settlement>
+                  <repository>Bodleian Library</repository>
+                  <!-- change if necessary -->
+                  <idno type="shelfmark">Ms.Douce OR.e.2</idno>
+               </msIdentifier>
+               <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>This is a handwritten dictionary of Chinese vocabularies featuring colored illustrations. 
+                  <summary>This is a handwritten dictionary of Chinese vocabularies featuring colored illustrations. 
                                 It is likely to have been created during the Qianlong period (1735-1796) of the Qing Dynasty.</summary>
-                        <textLang mainLang="zh">Chinese </textLang><!-- change text and attribute if necessary -->
-                        
-                        <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
+                  <textLang mainLang="zh">Chinese </textLang>
+                  <!-- change text and attribute if necessary -->
+                  <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
-                            <title key="supplied title">【繪圖華夷譯語彙編 / 無名氏編纂】</title>
-                            <author key="_unknown">unknown</author>
-                            <note><locus>fol. ii recto</locus><q>For this very curious and valuable Chinese vocabulary I am indebted to my worthy friend Mr.W. Alexander who brought it from China. E.D.</q> </note>
-                           
-                            
-                        <msItem>
-                            <locus>fol. 1r</locus><title>圖書、鷄毛撣、印色、钑剪、文具、筆筒</title>
-                        </msItem>
-                        <msItem>
-                            <locus>fol. 1v</locus><title>【算】盤、剪刀、天平、熨斗、法馬、水盅</title>
-                        </msItem>
-                        <msItem>
-                            <locus>fol. 2r</locus><title>蓋碗、銅包、茶壺、茶盤、茶瓶、茶盅</title>
-                        </msItem>
-                        <msItem>
-                            <locus>fol. 2v</locus><title>扁挑、馬槽、吊桶、钑刀、火爐、水桶</title>
-                        </msItem>
-                        <msItem>
-                            <locus>fol. 3r</locus><title>銀窩、雨傘、風箱、雨帽罩、銀【槽】、雨褂</title>
-                        </msItem>
-                        <msItem>
-                            <locus>fol. 3v</locus><title>雙六、象棋、蟋蟀、鵪鶉袋、天【窗】、竹簾</title>
-                        </msItem>
-                        <msItem>
-                            <locus>fol. 4r</locus><title>戟磬、漁鼓、帽盒、簡板、帽架、頭繩</title>
-                        </msItem>
-                        <msItem>
-                            <locus>fol. 4v</locus><title>髻、雲板、鳳冠、雲肩、圓脖領、披風</title>
-                        </msItem>
-                        <msItem>
-                            <locus>fol. 5r</locus><title>塔香、手鏡、紙錢、琉璃、元寶、蠟燭</title>
-                        </msItem>
-                        <msItem>
-                            <locus>fol. 5v</locus><title>胭脂、梳、粉盒、篦、香油罐、膠抿碗</title>
-                        </msItem>
-                        <msItem>
-                            <locus>fol. 6r</locus><title>虎頭牌、了嘴棍、籐牌、皮鞭、牌刀、枷</title>
-                        </msItem>
-                        <msItem>
-                            <locus>fol. 6v</locus><title>鎖鏈、竹板、杻【銬】、挾棍、皮掌、【揝】子</title>
-                        </msItem>
-                        <msItem>
-                            <locus>fol. 7r</locus><title>令箭、朝珠、紅黑冠、朝簡、【釵】、如意</title>
-                        </msItem>
-                        <msItem>
-                            <locus>fol. 7v</locus><title>緯帽、印、暖帽、敕、披肩、硯</title>
-                        </msItem>
-                        <msItem>
-                            <locus>fol. 8r</locus><title>【鑔】、嗩呐、大鑼、喇叭、銅鼓、【號】銅</title>
-                        </msItem>
-                        <msItem>
-                            <locus>fol. 8v</locus><title>錫杖、鍾、道冠、蒲團、烽火扇、較杯</title>
-                        </msItem>
-                        <msItem>
-                            <locus>fol. 9r</locus><title>擊、寶蓋、磬、和尚、僧帽、木魚</title>
-                        </msItem>
-                        <msItem>
-                            <locus>fol. 9v</locus><title>宮燈、紗帽、紗燈、圓領、幡、角帶</title>
-                        </msItem>
-                        <msItem>
-                            <locus>fol. 10r</locus><title>條棹、飯盂、圈椅、蠟臺、板凳、燈盞</title>
-                        </msItem>
-                        <msItem>
-                            <locus>fol. 10v</locus><title>盤、快、【暖】鍋、調羹、酒壺、碗</title>
-                        </msItem>
-                        <msItem>
-                            <locus>fol. 11r</locus><title>痰盒、竹夫人、鞋刷、靠枕、尿壺、撣箒</title>
-                        </msItem>
-                        <msItem>
-                            <locus>fol. 11v</locus><title>被窩、蚊帳、褥子、席、枕頭、【氈】條</title>
-                        </msItem>
-                        <msItem>
-                            <locus>fol. 12r</locus><title>眼鏡、面盆、鎮紙、澡盆、紙牌、骨牌</title>
-                        </msItem>
-                        <msItem>
-                            <locus>fol. 12v</locus><title>香几、馬杌、對聯、石鼓、畫、床</title>
-                        </msItem>
-                        <msItem>
-                            <locus>fol. 13r</locus><title>平口、藥箱、草紙袋、烟荷包、鑰匙筒、烟袋</title>
-                        </msItem>
-                        <msItem>
-                            <locus>fol. 13v</locus><title>簸箕、鉄杓、手磨、漏杓、研船、米篩</title></msItem>
-                       
-                        <msItem>
-                            <locus>fol. 14r</locus><title>罩哩、砧板、菜框、飯層、鍋刷、鍋【蓋】</title>
-                        </msItem>
-                        <msItem>
-                            <locus>fol. 14v</locus><title>鍋鏟、鐵鍋、鍋刷、鍋【蓋】、火鉗、灶</title>
-                        </msItem> 
-                        <msItem>
-                            <locus>fol. 15r</locus><title>斗、碓、鐮刀、磨、刀、梯</title>
-                        </msItem>
-                        <msItem>
-                            <locus>fol. 15v</locus><title>雨帽、犁、牛欄、耙、鷄籠、蓑衣</title>
-                        </msItem>
-                        <msItem>
-                            <locus>fol. 16r</locus><title>鯉魚、劍、鱔、箭、蝦、船</title>
-                        </msItem>
-                        <msItem>
-                            <locus>fol. 16v</locus><title>旗、弓袋、弓、斧、弩、戟</title>
-                        </msItem>
-                        <msItem>
-                            <locus>fol. 17r</locus><title>鶴、麒麟、錦鷄、鵪鶉、孔雀、鳳</title>
-                        </msItem>
-                        <msItem>
-                            <locus>fol. 17v</locus><title>天官、竹、松、打鞦韆、麻姑、梧桐</title>
-                        </msItem>
-                        <msItem>
-                            <locus>fol. 18r</locus><title>板、琴、笙、雲鑼、三弦、笛</title>
-                        </msItem>
-                        <msItem>
-                            <locus>fol. 18v</locus><title>硯、畫、書、筆、碁、墨</title>
-                        </msItem>
-                        <msItem>
-                            <locus>fol. 19r</locus><title>爐、筆架、瓶、涼傘、箭筒、屏</title>
-                        </msItem>
-                        <msItem>
-                            <locus>fol. 19v</locus><title>燈籠、二弦、葵扇、琵琶、骰子、蕭</title>
-                        </msItem>
-                        <msItem>
-                            <locus>fol. 20r</locus><title>鏡、銀鏨、掙、銅錢、懷鼓、冠</title>
-                        </msItem>
-                        <msItem>
-                            <locus>fol. 20v</locus><title>鋤頭、秤、鋸、尺、【漏】斗、厘戥</title>
-                        </msItem>
-                        <msItem>
-                            <locus>fol. 21r</locus><title>圓眼、蓮房、紅梨、【桃】、山茶、芙蓉</title>
-                        </msItem>
-                        <msItem>
-                            <locus>fol. 21v</locus><title>石榴、柳、牡丹、梅、荔枝、錦菊</title>
-                        </msItem>
-                        <msItem>
-                            <locus>fol. 22r</locus><title>蜂、【鵝】、蛾、雞、蝶、鴨</title>
-                        </msItem>
-                        <msItem>
-                            <locus>fol. 22v</locus><title>猴、鹿、鷹、鼠、鵲、狗</title>
-                        </msItem>
-                        <msItem>
-                            <locus>fol. 23r</locus><title>猿、獅、兔、牛、羊、豬</title>
-                        </msItem>
-                        <msItem>
-                            <locus>fol. 23v</locus><title>虎、龍、象、龜、馬、蛇</title>
-                        </msItem>
-                        <msItem>
-                            <locus>fol. 24r</locus><title>轎子、裙、車、木屐、棹園、油靴</title>
-                        </msItem>
-                        <msItem>
-                            <locus>fol. 24v</locus><title>鞋、廟、褲、道、襪、袍</title>
-                        </msItem>
-                        <msItem>
-                            <locus>fol. 25r</locus><title>商、城、樓、工、儒、橋</title>
-                        </msItem>
-                        <msItem>
-                            <locus>fol. 25v</locus><title>仕、日、山、月、農、星</title>
-                        </msItem>
-                        <!-- insert further msItem elements as appropriate -->
-                        
-                            <filiation>手抄本,中外孤本。 only surviving copy.</filiation> </msItem>
-                    </msContents>
-                    <physDesc>
-                        
-                        <objectDesc form="包背裝"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
-                            <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                                <support>mulberry and bamboo mixed paper</support>
-                                <extent>一冊 one volume
+                     <title key="supplied title">【繪圖華夷譯語彙編 / 無名氏編纂】</title>
+                     <author key="_unknown">unknown</author>
+                     <note anchored="true">
+                        <locus>fol. ii recto</locus>
+                        <q>For this very curious and valuable Chinese vocabulary I am indebted to my worthy friend Mr.W. Alexander who brought it from China. E.D.</q>
+                     </note>
+                     <msItem>
+                        <locus>fol. 1r</locus>
+                        <title>圖書、鷄毛撣、印色、钑剪、文具、筆筒</title>
+                     </msItem>
+                     <msItem>
+                        <locus>fol. 1v</locus>
+                        <title>【算】盤、剪刀、天平、熨斗、法馬、水盅</title>
+                     </msItem>
+                     <msItem>
+                        <locus>fol. 2r</locus>
+                        <title>蓋碗、銅包、茶壺、茶盤、茶瓶、茶盅</title>
+                     </msItem>
+                     <msItem>
+                        <locus>fol. 2v</locus>
+                        <title>扁挑、馬槽、吊桶、钑刀、火爐、水桶</title>
+                     </msItem>
+                     <msItem>
+                        <locus>fol. 3r</locus>
+                        <title>銀窩、雨傘、風箱、雨帽罩、銀【槽】、雨褂</title>
+                     </msItem>
+                     <msItem>
+                        <locus>fol. 3v</locus>
+                        <title>雙六、象棋、蟋蟀、鵪鶉袋、天【窗】、竹簾</title>
+                     </msItem>
+                     <msItem>
+                        <locus>fol. 4r</locus>
+                        <title>戟磬、漁鼓、帽盒、簡板、帽架、頭繩</title>
+                     </msItem>
+                     <msItem>
+                        <locus>fol. 4v</locus>
+                        <title>髻、雲板、鳳冠、雲肩、圓脖領、披風</title>
+                     </msItem>
+                     <msItem>
+                        <locus>fol. 5r</locus>
+                        <title>塔香、手鏡、紙錢、琉璃、元寶、蠟燭</title>
+                     </msItem>
+                     <msItem>
+                        <locus>fol. 5v</locus>
+                        <title>胭脂、梳、粉盒、篦、香油罐、膠抿碗</title>
+                     </msItem>
+                     <msItem>
+                        <locus>fol. 6r</locus>
+                        <title>虎頭牌、了嘴棍、籐牌、皮鞭、牌刀、枷</title>
+                     </msItem>
+                     <msItem>
+                        <locus>fol. 6v</locus>
+                        <title>鎖鏈、竹板、杻【銬】、挾棍、皮掌、【揝】子</title>
+                     </msItem>
+                     <msItem>
+                        <locus>fol. 7r</locus>
+                        <title>令箭、朝珠、紅黑冠、朝簡、【釵】、如意</title>
+                     </msItem>
+                     <msItem>
+                        <locus>fol. 7v</locus>
+                        <title>緯帽、印、暖帽、敕、披肩、硯</title>
+                     </msItem>
+                     <msItem>
+                        <locus>fol. 8r</locus>
+                        <title>【鑔】、嗩呐、大鑼、喇叭、銅鼓、【號】銅</title>
+                     </msItem>
+                     <msItem>
+                        <locus>fol. 8v</locus>
+                        <title>錫杖、鍾、道冠、蒲團、烽火扇、較杯</title>
+                     </msItem>
+                     <msItem>
+                        <locus>fol. 9r</locus>
+                        <title>擊、寶蓋、磬、和尚、僧帽、木魚</title>
+                     </msItem>
+                     <msItem>
+                        <locus>fol. 9v</locus>
+                        <title>宮燈、紗帽、紗燈、圓領、幡、角帶</title>
+                     </msItem>
+                     <msItem>
+                        <locus>fol. 10r</locus>
+                        <title>條棹、飯盂、圈椅、蠟臺、板凳、燈盞</title>
+                     </msItem>
+                     <msItem>
+                        <locus>fol. 10v</locus>
+                        <title>盤、快、【暖】鍋、調羹、酒壺、碗</title>
+                     </msItem>
+                     <msItem>
+                        <locus>fol. 11r</locus>
+                        <title>痰盒、竹夫人、鞋刷、靠枕、尿壺、撣箒</title>
+                     </msItem>
+                     <msItem>
+                        <locus>fol. 11v</locus>
+                        <title>被窩、蚊帳、褥子、席、枕頭、【氈】條</title>
+                     </msItem>
+                     <msItem>
+                        <locus>fol. 12r</locus>
+                        <title>眼鏡、面盆、鎮紙、澡盆、紙牌、骨牌</title>
+                     </msItem>
+                     <msItem>
+                        <locus>fol. 12v</locus>
+                        <title>香几、馬杌、對聯、石鼓、畫、床</title>
+                     </msItem>
+                     <msItem>
+                        <locus>fol. 13r</locus>
+                        <title>平口、藥箱、草紙袋、烟荷包、鑰匙筒、烟袋</title>
+                     </msItem>
+                     <msItem>
+                        <locus>fol. 13v</locus>
+                        <title>簸箕、鉄杓、手磨、漏杓、研船、米篩</title>
+                     </msItem>
+                     <msItem>
+                        <locus>fol. 14r</locus>
+                        <title>罩哩、砧板、菜框、飯層、鍋刷、鍋【蓋】</title>
+                     </msItem>
+                     <msItem>
+                        <locus>fol. 14v</locus>
+                        <title>鍋鏟、鐵鍋、鍋刷、鍋【蓋】、火鉗、灶</title>
+                     </msItem>
+                     <msItem>
+                        <locus>fol. 15r</locus>
+                        <title>斗、碓、鐮刀、磨、刀、梯</title>
+                     </msItem>
+                     <msItem>
+                        <locus>fol. 15v</locus>
+                        <title>雨帽、犁、牛欄、耙、鷄籠、蓑衣</title>
+                     </msItem>
+                     <msItem>
+                        <locus>fol. 16r</locus>
+                        <title>鯉魚、劍、鱔、箭、蝦、船</title>
+                     </msItem>
+                     <msItem>
+                        <locus>fol. 16v</locus>
+                        <title>旗、弓袋、弓、斧、弩、戟</title>
+                     </msItem>
+                     <msItem>
+                        <locus>fol. 17r</locus>
+                        <title>鶴、麒麟、錦鷄、鵪鶉、孔雀、鳳</title>
+                     </msItem>
+                     <msItem>
+                        <locus>fol. 17v</locus>
+                        <title>天官、竹、松、打鞦韆、麻姑、梧桐</title>
+                     </msItem>
+                     <msItem>
+                        <locus>fol. 18r</locus>
+                        <title>板、琴、笙、雲鑼、三弦、笛</title>
+                     </msItem>
+                     <msItem>
+                        <locus>fol. 18v</locus>
+                        <title>硯、畫、書、筆、碁、墨</title>
+                     </msItem>
+                     <msItem>
+                        <locus>fol. 19r</locus>
+                        <title>爐、筆架、瓶、涼傘、箭筒、屏</title>
+                     </msItem>
+                     <msItem>
+                        <locus>fol. 19v</locus>
+                        <title>燈籠、二弦、葵扇、琵琶、骰子、蕭</title>
+                     </msItem>
+                     <msItem>
+                        <locus>fol. 20r</locus>
+                        <title>鏡、銀鏨、掙、銅錢、懷鼓、冠</title>
+                     </msItem>
+                     <msItem>
+                        <locus>fol. 20v</locus>
+                        <title>鋤頭、秤、鋸、尺、【漏】斗、厘戥</title>
+                     </msItem>
+                     <msItem>
+                        <locus>fol. 21r</locus>
+                        <title>圓眼、蓮房、紅梨、【桃】、山茶、芙蓉</title>
+                     </msItem>
+                     <msItem>
+                        <locus>fol. 21v</locus>
+                        <title>石榴、柳、牡丹、梅、荔枝、錦菊</title>
+                     </msItem>
+                     <msItem>
+                        <locus>fol. 22r</locus>
+                        <title>蜂、【鵝】、蛾、雞、蝶、鴨</title>
+                     </msItem>
+                     <msItem>
+                        <locus>fol. 22v</locus>
+                        <title>猴、鹿、鷹、鼠、鵲、狗</title>
+                     </msItem>
+                     <msItem>
+                        <locus>fol. 23r</locus>
+                        <title>猿、獅、兔、牛、羊、豬</title>
+                     </msItem>
+                     <msItem>
+                        <locus>fol. 23v</locus>
+                        <title>虎、龍、象、龜、馬、蛇</title>
+                     </msItem>
+                     <msItem>
+                        <locus>fol. 24r</locus>
+                        <title>轎子、裙、車、木屐、棹園、油靴</title>
+                     </msItem>
+                     <msItem>
+                        <locus>fol. 24v</locus>
+                        <title>鞋、廟、褲、道、襪、袍</title>
+                     </msItem>
+                     <msItem>
+                        <locus>fol. 25r</locus>
+                        <title>商、城、樓、工、儒、橋</title>
+                     </msItem>
+                     <msItem>
+                        <locus>fol. 25v</locus>
+                        <title>仕、日、山、月、農、星</title>
+                     </msItem>
+                     <!-- insert further msItem elements as appropriate -->
+                     <filiation>手抄本,中外孤本。 only surviving copy.</filiation>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="包背裝"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
+                     <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
+                        <support>mulberry and bamboo mixed paper</support>
+                        <extent>一冊 one volume
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         https://git.io/msdescdoc#leafDimensions
-                        -->                           <height>22.6 cm</height>
-                                        <width>19.8 cm </width>
-                                    </dimensions>
-                                    <!-- use additional dimensions elements if necessary -->
-                                </extent>
-                                
-                                <condition>The spine is slightly damaged, and the edges of the covers and back cover are slightly worn and faded. The edges of the inner pages are slightly yellowed, and the illustrations inside the pages are slightly faded.
+                        -->
+                              <height>22.6 cm</height>
+                              <width>19.8 cm </width>
+                           </dimensions>
+                           <!-- use additional dimensions elements if necessary -->
+                        </extent>
+                        <condition>The spine is slightly damaged, and the edges of the covers and back cover are slightly worn and faded. The edges of the inner pages are slightly yellowed, and the illustrations inside the pages are slightly faded.
                                     書脊処略有破損，封皮和封底的邊緣略有磨損褪色。内頁邊緣略有汎黃，頁内插圖略有褪色。</condition>
-                            </supportDesc>
-                            <layoutDesc>
-                                <layout>The inner pages are divided into left and right halves, each half is further divided into two columns; one column is slightly wider and contains illustrations, while the other column is narrower and contains Chinese vocabulary. Each column is divided into three lines, thus each page contains six sets of Chinese vocabulary along with their Romanized pronunciation annotations.
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>The inner pages are divided into left and right halves, each half is further divided into two columns; one column is slightly wider and contains illustrations, while the other column is narrower and contains Chinese vocabulary. Each column is divided into three lines, thus each page contains six sets of Chinese vocabulary along with their Romanized pronunciation annotations.
                                     内頁分爲左右兩半，沒半邊分爲兩列，一列略寬内含插圖，一列略窄，内含中文詞匯。每列分爲三行，故每頁有六組中文詞匯及羅馬字注音對照。</layout>
-                                <!-- use additional layout elements if necessary 
+                        <!-- use additional layout elements if necessary 
                         https://git.io/msdescdoc#layoutdesc-->
-                            </layoutDesc>
-                        </objectDesc>
-                        
-                        <handDesc><!-- use the @hands attribute to record the number of scribes -->
-                            <handNote>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc><!-- use the @hands attribute to record the number of scribes -->
+                     <handNote>
                                 Text written in 楷書 (kai shu, regular) calligraphic style</handNote>
-                            <!-- use additional handNote elements if necessary 
+                     <!-- use additional handNote elements if necessary 
                      https://git.io/msdescdoc#handdesc
                      -->
-                        </handDesc>
-                        <musicNotation>
-                            <p><!-- insert if relevant, otherwise delete --></p>
-                            <!-- use additional p elements if necessary 
+                  </handDesc>
+                  <musicNotation>
+                     <p part="N"><!-- insert if relevant, otherwise delete --></p>
+                     <!-- use additional p elements if necessary 
                      https://git.io/msdescdoc#musicnotation
                      -->
-                        </musicNotation>
-                        <decoDesc>
-                            <decoNote>
+                  </musicNotation>
+                  <decoDesc>
+                     <decoNote>
                                 西式硬皮裝訂，棕色封皮和封底，配合有燙金的花紋在邊緣一圈。
                                 Hardcover binding, with brown covers and back, complemented by a circle of gold-stamped patterns along the edges.</decoNote>
-                            <!-- use additional decoNote elements if necessary 
+                     <!-- use additional decoNote elements if necessary 
                      https://git.io/msdescdoc#decodesc
                      -->
-                        </decoDesc>
-                        
-                        <bindingDesc>
-                            <binding when="1500"><!-- use dating attributes to record the date -->
-                                <p> Hardcover binding</p>
-                                <decoNote><!-- insert relevant information, otherwise delete --></decoNote>
-                            </binding>
-                        </bindingDesc>
-                        <accMat>
+                  </decoDesc>
+                  <bindingDesc>
+                     <binding when="1500"><!-- use dating attributes to record the date -->
+                        <p part="N"> Hardcover binding</p>
+                        <decoNote><!-- insert relevant information, otherwise delete --></decoNote>
+                     </binding>
+                  </bindingDesc>
+                  <accMat>
                             <!-- insert if relevant, otherwise delete 
                      https://git.io/msdescdoc#accMat          
                      -->
                         </accMat>
-                    </physDesc>
-                    
-                    <history>
+               </physDesc>
+               <history>
                         <!-- see https://git.io/msdescdoc#history -->
-                        <origin>
+                  <origin instant="false">
                             <!-- see https://git.io/msdescdoc#origin -->
-                            <origPlace>
-                                <country>China</country>,
+                     <origPlace instant="false">
+                        <country>China</country>,
                                 
                             </origPlace>
-                            <origDate notAfter="1796" notBefore="1735" calendar="Gregorian">1735-1796</origDate>
-                            <!-- use additional origPlace and origDate elements if necessary -->
-                        </origin>
-                        <provenance>
+                     <origDate notAfter="1796"
+                               notBefore="1735"
+                               calendar="Gregorian"
+                               instant="false">1735-1796</origDate>
+                     <!-- use additional origPlace and origDate elements if necessary -->
+                  </origin>
+                  <provenance>
                             language:	Chinese
                             shelfmark:	MS.Douce Or.e.2
                             content:	Chinese vocabulary, illustrated
                             date:	n.d..
                             phys. descr:
                         </provenance>
-                        <provenance>previous catalogue reference number: S.C.22045</provenance>
-                        <provenance><locus>fol. 20r</locus>Based on the illustrations of coins [乾隆通寶], it is likely that this book was created during or after the reign of the Qianlong Emperor of the Qing Dynasty (1735-1796).</provenance>
-                        <!-- use additional provenance elements if necessary -->
-                        <acquisition>1834</acquisition>
-                    </history>
-                    <additional>
-                        <adminInfo>
-                            <recordHist>
-                                <source>
+                  <provenance>previous catalogue reference number: S.C.22045</provenance>
+                  <provenance>
+                     <locus>fol. 20r</locus>Based on the illustrations of coins [乾隆通寶], it is likely that this book was created during or after the reign of the Qianlong Emperor of the Qing Dynasty (1735-1796).</provenance>
+                  <!-- use additional provenance elements if necessary -->
+                  <acquisition>1834</acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
                                     <!-- insert prose here; see https://git.io/msdescdoc#recordHist -->
-                                    <bibl><!-- insert if necesary, otherwise delete --></bibl>
-                                    <!-- links to digitized catalogues may also be provide here, e.g.: -->
-                                    <!--<listBibl>
+                           <bibl default="false" status="draft"><!-- insert if necesary, otherwise delete --></bibl>
+                           <!-- links to digitized catalogues may also be provide here, e.g.: -->
+                           <!--<listBibl>
                               <bibl type="SC" facs="aas0046.gif">Summary Catalogue, Vol. 3, p.  31</bibl>
                            </listBibl>-->
-                                </source>
-                            </recordHist>
-                        </adminInfo>
-                        <surrogates>
-                            <bibl type="digital-facsimile" subtype="full">
-                                <ref target="https://digital.bodleian.ox.ac.uk/objects/29989cd0-f05f-44d2-9a12-dc1e9f38eae1/">
-                                    <title>Digital Bodleian</title></ref> <note>(full digital facsimile)</note>
-                            </bibl>
-                        </surrogates>
-                        <listBibl>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+                  <surrogates>
+                     <bibl type="digital-facsimile"
+                           subtype="full"
+                           default="false"
+                           status="draft">
+                        <ref target="https://digital.bodleian.ox.ac.uk/objects/29989cd0-f05f-44d2-9a12-dc1e9f38eae1/">
+                           <title>Digital Bodleian</title>
+                        </ref>
+                        <note anchored="true">(full digital facsimile)</note>
+                     </bibl>
+                  </surrogates>
+                  <listBibl default="false">
                             <!-- a number of listBibl elements can be nested inside an outer listBibl if required -->
-                            <head><!-- use to provide a heading if required, otherwise delete --></head>
-                            <bibl><!-- insert bibliography, links to online resource, etc., otherwise delete--></bibl>
-                            
-                        </listBibl>
-                    </additional>
-                    
-                    
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <revisionDesc>
-            <change>
+                     <head><!-- use to provide a heading if required, otherwise delete --></head>
+                     <bibl default="false" status="draft"><!-- insert bibliography, links to online resource, etc., otherwise delete--></bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change status="draft">
                 <!-- insert relevant text, e.g. 'First online publication' -->
                 <!-- provide the date of the change using the @when attribute -->
             </change>
-        </revisionDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <p><!--Body paragraph provided for validation and future transcription--></p>
-        </body>
-    </text>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p part="N"><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
 </TEI>
-
-
-

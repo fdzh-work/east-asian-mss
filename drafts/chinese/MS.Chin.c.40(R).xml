@@ -1,129 +1,126 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-
 <!-- use this template in cases where the manuscript is NOT composed of multiple codicological units. To avoid errors in the display of the record, be sure to delete elements that are not used. -->
-
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-    xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="manuscript_00000"><!-- insert the correct xmlid in the form manuscript_12345 -->
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>MS.Chin.c.40(R)</title>
-                
-                <respStmt>
-                    <resp>Cataloguer</resp>
-                    <persName>Boya Zhang</persName>
-                </respStmt>
-                
-            </titleStmt>
-            <editionStmt>
-                <edition>TEI P5</edition>
-                <funder>HD Chung Fund</funder>
-            </editionStmt>
-            <publicationStmt>
-                <publisher>Special Collections, Bodleian Libraries</publisher>
-                <address>
-                    <orgName type="department">Special Collections</orgName>
-                    <orgName type="unit">Bodleian Libraries</orgName>
-                    <orgName type="institution">University of Oxford</orgName>
-                    <street>Weston Library, Broad Street</street>
-                    <settlement>Oxford</settlement>
-                    <postCode>OX1 3BG</postCode>
-                    <country>United Kingdom</country>
-                </address>
-                <distributor>
-                    <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
-                </distributor>
-                <idno type="msID"><!-- insert normalized form of shelfmark --></idno>
-                <idno type="collection"><!-- insert normalized form of collection --></idno>
-                <idno type="catalogue"><!-- insert catalogue ID --></idno>
-            </publicationStmt>
-            <sourceDesc>
-                <msDesc xml:lang="en"><!-- optionally provide xmlid should as a normalized form of the shelfmark, e.g. Merton_College_MS_10 -->
-                    <msIdentifier>
-                        <settlement><!-- insert --></settlement>
-                        <repository>Bodleian Library</repository><!-- change if necessary -->
-                        <idno type="shelfmark">MS.Chin.c.40(R)</idno>
-                        
-                        
-                    </msIdentifier>
-                    
-                    <msContents>
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xml:id="manuscript_00000"><!-- insert the correct xmlid in the form manuscript_12345 -->
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>MS.Chin.c.40(R)</title>
+            <respStmt>
+               <resp>Cataloguer</resp>
+               <persName instant="false" full="yes">Boya Zhang</persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>TEI P5</edition>
+            <funder>HD Chung Fund</funder>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Special Collections, Bodleian Libraries</publisher>
+            <address>
+               <orgName type="department" instant="false" full="yes">Special Collections</orgName>
+               <orgName type="unit" instant="false" full="yes">Bodleian Libraries</orgName>
+               <orgName type="institution" instant="false" full="yes">University of Oxford</orgName>
+               <street>Weston Library, Broad Street</street>
+               <settlement>Oxford</settlement>
+               <postCode>OX1 3BG</postCode>
+               <country>United Kingdom</country>
+            </address>
+            <distributor>
+               <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+            </distributor>
+            <idno type="msID"><!-- insert normalized form of shelfmark --></idno>
+            <idno type="collection"><!-- insert normalized form of collection --></idno>
+            <idno type="catalogue"><!-- insert catalogue ID --></idno>
+         </publicationStmt>
+         <sourceDesc default="false">
+            <msDesc xml:lang="en" status="draft"><!-- optionally provide xmlid should as a normalized form of the shelfmark, e.g. Merton_College_MS_10 -->
+               <msIdentifier>
+                  <settlement><!-- insert --></settlement>
+                  <repository>Bodleian Library</repository>
+                  <!-- change if necessary -->
+                  <idno type="shelfmark">MS.Chin.c.40(R)</idno>
+               </msIdentifier>
+               <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>A horizontal scroll featuring Chinese calligraphy and painting attributed to multiple authors; however, the authenticity of this scroll is doubted.</summary>
-                        <textLang mainLang="zh">Chinese</textLang><!-- change text and attribute if necessary -->
-                        
-                        <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
+                  <summary>A horizontal scroll featuring Chinese calligraphy and painting attributed to multiple authors; however, the authenticity of this scroll is doubted.</summary>
+                  <textLang mainLang="zh">Chinese</textLang>
+                  <!-- change text and attribute if necessary -->
+                  <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
-                            <locus><!-- insert --></locus>
-                            <title key="supplie title">清佚名仿元趙孟頫羲獻像書畫 卷</title>
-                            <title key="supplie title" xml:lang="en">A horizontal scroll featuring Chinese calligraphy and painting attributed to multiple authors</title>
-                          
-                            <author key="Q197461">   
-                                <persName>趙孟頫</persName>
-                                <persName type="字">子昂</persName>
-                                <persName type="號">松雪道人</persName>
-                                <persName type="號">鷗波</persName>
-                                <persName type="號">水精宮道人</persName>
-                                <date notAfter="1400" notBefore="1200" calendar="Gregorian">1254-1322</date>
-                            </author>
-                            <author key="_mengqianqiu">        
-                                <persName>孟千秋</persName>
-                            </author>
-                            <author key="_liuxun">        
-                                <persName>劉勲</persName>
-                            </author>
-                            <author key="_zhangbao">        
-                                <persName>張褒</persName>
-                            </author>
-                            <author key="_wuzhaorong">        
-                                <persName>吳肇榮</persName>
-                            </author>
-                          <msItem n="1">
-                              <title>其一</title>
-                            <incipit type="釋文">僕於京師見周文矩畫羲獻像歸而摹之時皇慶二年夏五月也</incipit>
-                            <incipit type="款識">吳興趙孟頫</incipit>
-                            <incipit type="seal">松雪齋</incipit>
-                            <incipit type="seal">馮仙湜印</incipit>
-                            <incipit type="seal">程光國珍賞印</incipit>
-                            <incipit type="seal">趙氏子昂</incipit>
-                            <incipit type="seal">孟頫</incipit>
-                            <incipit type="seal">魏之璜印</incipit>
-                            <incipit type="seal">成親王</incipit>
-                            <incipit type="seal">墨林項氏家藏</incipit>
-                              <incipit type="seal">善學古人</incipit> </msItem>
-                           
-                            <msItem n="2">
-                               <title>其二</title>
-                            <incipit type="釋文">王逸少善書，為古今之冠。論者稱爲，筆勢飄若浮雲矯若驚龍。子敬書不減其父，
+                     <locus><!-- insert --></locus>
+                     <title key="supplie title">清佚名仿元趙孟頫羲獻像書畫 卷</title>
+                     <title key="supplie title" xml:lang="en">A horizontal scroll featuring Chinese calligraphy and painting attributed to multiple authors</title>
+                     <author key="Q197461">
+                        <persName instant="false" full="yes">趙孟頫</persName>
+                        <persName type="字" instant="false" full="yes">子昂</persName>
+                        <persName type="號" instant="false" full="yes">松雪道人</persName>
+                        <persName type="號" instant="false" full="yes">鷗波</persName>
+                        <persName type="號" instant="false" full="yes">水精宮道人</persName>
+                        <date notAfter="1400"
+                              notBefore="1200"
+                              calendar="Gregorian"
+                              instant="false">1254-1322</date>
+                     </author>
+                     <author key="_mengqianqiu">
+                        <persName instant="false" full="yes">孟千秋</persName>
+                     </author>
+                     <author key="_liuxun">
+                        <persName instant="false" full="yes">劉勲</persName>
+                     </author>
+                     <author key="_zhangbao">
+                        <persName instant="false" full="yes">張褒</persName>
+                     </author>
+                     <author key="_wuzhaorong">
+                        <persName instant="false" full="yes">吳肇榮</persName>
+                     </author>
+                     <msItem n="1">
+                        <title>其一</title>
+                        <note type="釋文" anchored="true">僕於京師見周文矩畫羲獻像歸而摹之時皇慶二年夏五月也</note>
+                        <note type="款識" anchored="true">吳興趙孟頫</note>
+                        <note type="印章" anchored="true">松雪齋</note>
+                        <note type="印章" anchored="true">馮仙湜印</note>
+                        <note type="印章" anchored="true">程光國珍賞印</note>
+                        <note type="印章" anchored="true">趙氏子昂</note>
+                        <note type="印章" anchored="true">孟頫</note>
+                        <note type="印章" anchored="true">魏之璜印</note>
+                        <note type="印章" anchored="true">成親王</note>
+                        <note type="印章" anchored="true">墨林項氏家藏</note>
+                        <note type="印章" anchored="true">善學古人</note>
+                     </msItem>
+                     <msItem n="2">
+                        <title>其二</title>
+                        <note type="釋文" anchored="true">王逸少善書，為古今之冠。論者稱爲，筆勢飄若浮雲矯若驚龍。子敬書不減其父，
                                 袁昂乃謂：“如河朔少年充悅舉禮，杳拖而不可耐。“謝安石嘗問子敬：“君書何如君家尊？”答曰：“故黨不同。“
                                 則其父子鑒裁優劣，【概】可見矣。趙魏之研精，翰墨兼得，二王法擅美一時，相玄上下千餘年而人品風流醖藉。
                                 無足相當益書者心畫也，潯之心應之乎始。克臻其妙，後難以形似言也，令觀魏公所寫羲獻像，誰自謂摹周文矩
                                 作。熟視其神情超邁飄飄晉人襟韻，非有潯於心術之微者，烏能及此，又豈若優孟襲叔敖衣冠，徒效其抵掌談笑
-                                而口者哉。</incipit>
-                            <incipit type="款識">乙酉嵗正月二十七日壬戍淳安孟千秋書</incipit>
-                               <incipit type="seal">孟千秋印</incipit></msItem>
-                           
-                            <msItem n="3">
-                                <title>其三</title>
-                            <incipit type="釋文">蘭亭千載求真跡，藻鑑令朝覩右軍。晉代衣冠【？】素練，周家喬梓接青雲。風流如在人空羡，
-                                筆陣通神【去？】莫羣。卻憶吳興趙學士，妙將妙手寫人文。</incipit>
-                            <incipit type="款識">文溪劉勲題</incipit>
-                            <incipit type="seal">劉勲</incipit></msItem>
-                           
-                            <msItem n="4">
-                                <title>其四</title>
-                            <incipit type="釋文">子昂旅京師，皇慶二年夏游神翰墨間入趣，用即畫濟之晉衣冠風流加蘊藉，而見白鵝群清風動
+                                而口者哉。</note>
+                        <note type="款識" anchored="true">乙酉嵗正月二十七日壬戍淳安孟千秋書</note>
+                        <note type="印章" anchored="true">孟千秋印</note>
+                     </msItem>
+                     <msItem n="3">
+                        <title>其三</title>
+                        <note type="釋文" anchored="true">蘭亭千載求真跡，藻鑑令朝覩右軍。晉代衣冠【？】素練，周家喬梓接青雲。風流如在人空羡，
+                                筆陣通神【去？】莫羣。卻憶吳興趙學士，妙將妙手寫人文。</note>
+                        <note type="款識" anchored="true">文溪劉勲題</note>
+                        <note type="印章" anchored="true">劉勲</note>
+                     </msItem>
+                     <msItem n="4">
+                        <title>其四</title>
+                        <note type="釋文" anchored="true">子昂旅京師，皇慶二年夏游神翰墨間入趣，用即畫濟之晉衣冠風流加蘊藉，而見白鵝群清風動
                                 林野。臨摹入生綃，金玉偕儒稚故此安及之【？】【岱？】傯下愚泉題黨此連城假。莆田孟君拜題時？？十年？正月
-                                二十七也游泮鎮之清觀丹房偕游此黃伯厚</incipit>
-                            <incipit type="款識">刋江張褒</incipit>
-                            <incipit type="seal">張褒</incipit>
-                                <incipit type="seal">梁清標印</incipit> </msItem>
-                            
-                            <msItem n="5">
-                                <title>其五</title>
-                            <incipit type="釋文">羲之小傳
+                                二十七也游泮鎮之清觀丹房偕游此黃伯厚</note>
+                        <note type="款識" anchored="true">刋江張褒</note>
+                        <note type="印章" anchored="true">張褒</note>
+                        <note type="印章" anchored="true">梁清標印</note>
+                     </msItem>
+                     <msItem n="5">
+                        <title>其五</title>
+                        <note type="釋文" anchored="true">羲之小傳
                                        羲之，字逸少，晉司徒導之從子，尚書郎正之孫，淮南太守曠之子。幼納於言年，十三謁周顗，察而異之。
                                        及長，辨贍，以骨鯁稱，擊書冠古今。論者稱其：飄若浮雲，矯若驚龍。深為諸父敦、導所器重。主薄阮
                                        裕常目，承、悅與羲之為王氏三少，太尉郗鋻使門生求婿於導，令就東廂遍觀，後謁鋻曰：“王氏諸少並佳，
@@ -163,11 +160,11 @@
                                        下觀既石刻，遒勁正健，即生人欤，所惜溺意，東土適性山水不顯，居内倨傲王述功各及業止是而已，亦無晉室
                                        之氣，數有在也，晉之政無足言表，【濟？】世曰寳晉政以羲之書跡耳。黃庭蘭亭霜密墓田裏鮓等貼，墨跡已不
                                        可及，若唐之褚權宋之米蔡照本之二不可潯也，更有百代後而寶晉之名猶一【日？】也，其重于人之國也，為專
-                                       授因前元趙承旨孟頫摹像竊附此論。</incipit></msItem>
-                            
-                            <msItem n="6">
-                                <title>其六</title>
-                                <incipit type="釋文">
+                                       授因前元趙承旨孟頫摹像竊附此論。</note>
+                     </msItem>
+                     <msItem n="6">
+                        <title>其六</title>
+                        <note type="釋文" anchored="true">
                                        獻之小傳
                                        獻之字子敬，羲之第五子，少有盛名而高邁不羈，雖閑居，終日容止不殆。年數嵗，觀門生樗蒲因其愛窺之誚怒，
                                        曰：“遠塹荀奉倩，近愧劉真長”。遂拂衣去。與兄【徽】之操之俱詣謝安。二兄多言，獻之寒溫而已。既出，客
@@ -192,61 +189,54 @@
                                        右松雪翁摹周文矩羲獻像，衣紋染色越二伯，餘年為出，今日不意唐人畫三復及見也，羲獻書名冠晉時，松雪自幼臨摹，
                                        壯而書，老且及黃庭三昧，則其當古人非一朝夕宜其見之，必摹之妙未，後文矩所畫者，何為綬私【淑】於翁，恨人品
                                        庸下，不能妙人，不能等而上之，謹攝晉傳之要。為二小傳，附諸像末，遺之後人，故夾識松雪翁數語，見其勤法晉唐，
-                                       豈遂世好也哉。</incipit>
-                                   <incipit type="款識">成化十六年壬寅秋日皖南吳肇榮書</incipit>
-                                   <incipit type="seal">吳肇榮印</incipit>
-                                   <incipit type="seal">中憲大夫之章</incipit>
-                                <incipit type="seal">梁清標</incipit></msItem>
-
-                            <filiation>書畫卷軸，中外孤本。</filiation>  
-                        </msItem>
-                        <!-- insert further msItem elements as appropriate --> 
-                        
-                    </msContents>
-                    <physDesc>
-                        
-                        <objectDesc form="卷軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
-                            <supportDesc material="絹本"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                                <support>silk 絹本</support>
-                                <extent>1 scroll 一軸
+                                       豈遂世好也哉。</note>
+                        <note type="款識" anchored="true">成化十六年壬寅秋日皖南吳肇榮書</note>
+                        <note type="印章" anchored="true">吳肇榮印</note>
+                        <note type="印章" anchored="true">中憲大夫之章</note>
+                        <note type="印章" anchored="true">梁清標</note>
+                     </msItem>
+                     <filiation>書畫卷軸，中外孤本。</filiation>
+                  </msItem>
+                  <!-- insert further msItem elements as appropriate -->
+               </msContents>
+               <physDesc>
+                  <objectDesc form="卷軸"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
+                     <supportDesc material="絹本"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
+                        <support>silk 絹本</support>
+                        <extent>1 scroll 一軸
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         
                         https://git.io/msdescdoc#leafDimensions
-                        -->                           <height>？</height>
-                                        <width>？</width>
-                                    </dimensions>
-                                    <!-- use additional dimensions elements if necessary -->
-                                </extent>
-                                
-                                <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
-                            </supportDesc>
-                            <layoutDesc>
-                                <layout>书法卷轴，墨色书写。</layout>
-                                
-                            </layoutDesc>
-                            
-                        </objectDesc>
-                        
-                        <handDesc><!-- use the @hands attribute to record the number of scribes -->
-                            <handNote>
+                        -->
+                              <height>？</height>
+                              <width>？</width>
+                           </dimensions>
+                           <!-- use additional dimensions elements if necessary -->
+                        </extent>
+                        <condition> <!-- insert if necessary, otherwise delete  https://git.io/msdescdoc#condition --></condition>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>书法卷轴，墨色书写。</layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc><!-- use the @hands attribute to record the number of scribes -->
+                     <handNote>
                                 Text written in 行書 (xing shu, semi-cursive) calligraphic style</handNote>
-                            <!-- use additional handNote elements if necessary 
+                     <!-- use additional handNote elements if necessary 
                      https://git.io/msdescdoc#handdesc
                      -->
-                        </handDesc>
-                        
-                        <decoDesc>
-                            <decoNote>
+                  </handDesc>
+                  <decoDesc>
+                     <decoNote>
                             </decoNote>
-                            <!-- use additional decoNote elements if necessary 
+                     <!-- use additional decoNote elements if necessary 
                      https://git.io/msdescdoc#decodesc
                      -->
-                        </decoDesc>
-                        
-                        <bindingDesc>
-                            <binding when="1800"><!-- use dating attributes to record the date -->
-                                <p>卷軸</p>
-                                <decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <binding when="1800"><!-- use dating attributes to record the date -->
+                        <p part="N">卷軸</p>
+                        <decoNote>
                                     Handscroll with wide borders (大鑲手卷): The protective and decorative backing (錦包首)
                                     is crafted from brown silk adorned with blue and green patterns. The title label (題簽) 
                                     is composed of light-brown Chinese paper. The 'Heaven' section (天) is fashioned from 
@@ -256,77 +246,80 @@
                                     卷軸,大鑲手卷。錦包首為棕色帶藍色綠色花紋絲織物，題簽為淺棕色紙本。天為淺藍色絲織物，隔水與副隔水為白色
                                     和淺黃色絲織物，邊為白色絲織物，引首和拖尾為米白色紙本。
                                 </decoNote>
-                            </binding>
-                        </bindingDesc>
-                        <accMat>
+                     </binding>
+                  </bindingDesc>
+                  <accMat>
                             <!-- insert if relevant, otherwise delete 
                      https://git.io/msdescdoc#accMat          
                      -->
                         </accMat>
-                    </physDesc>
-                    <history>
+               </physDesc>
+               <history>
                         <!-- see https://git.io/msdescdoc#history -->
-                        <origin>
+                  <origin instant="false">
                             <!-- see https://git.io/msdescdoc#origin -->
-                            <origPlace>
-                                <country>China</country>,
+                     <origPlace instant="false">
+                        <country>China</country>,
                                 <region><!-- insert --></region>,
                                 <settlement><!-- insert --></settlement>,
-                                <orgName><!-- insert --></orgName>
-                            </origPlace>
-                            <origDate notAfter="1900" notBefore="1800" calendar="Gregorian">年代待考證，約爲1600以後作品。</origDate>
-                            <!-- use additional origPlace and origDate elements if necessary -->
-                        </origin>
-                        <provenance> </provenance>
-                        
-                        
-                        <!-- use additional provenance elements if necessary -->
-                        <acquisition>
+                                <orgName instant="false" full="yes"><!-- insert --></orgName>
+                     </origPlace>
+                     <origDate notAfter="1900"
+                               notBefore="1800"
+                               calendar="Gregorian"
+                               instant="false">年代待考證，約爲1600以後作品。</origDate>
+                     <!-- use additional origPlace and origDate elements if necessary -->
+                  </origin>
+                  <provenance> </provenance>
+                  <!-- use additional provenance elements if necessary -->
+                  <acquisition>
                             <!-- insert -->
                             <!-- use dating attributes where possible -->
                         </acquisition>
-                    </history>
-                    <additional>
-                        <adminInfo>
-                            <recordHist>
-                                <source>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
                                     <!-- insert prose here; see https://git.io/msdescdoc#recordHist -->
-                                    <bibl><!-- insert if necesary, otherwise delete --></bibl>
-                                    <!-- links to digitized catalogues may also be provide here, e.g.: -->
-                                    <!--<listBibl>
+                           <bibl default="false" status="draft"><!-- insert if necesary, otherwise delete --></bibl>
+                           <!-- links to digitized catalogues may also be provide here, e.g.: -->
+                           <!--<listBibl>
                               <bibl type="SC" facs="aas0046.gif">Summary Catalogue, Vol. 3, p.  31</bibl>
                            </listBibl>-->
-                                </source>
-                            </recordHist>
-                        </adminInfo>
-                        <surrogates>
-                            <bibl type="digital-facsimile" subtype="full">
-                                <ref target="https://digital.bodleian.ox.ac.uk/objects/33760f83-6507-418f-b8a9-0215ff101986/">
-                                    <title>Digital Bodleian</title></ref> <note>(full digital facsimile)</note>
-                            </bibl>
-                        </surrogates>
-                        <listBibl>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+                  <surrogates>
+                     <bibl type="digital-facsimile"
+                           subtype="full"
+                           default="false"
+                           status="draft">
+                        <ref target="https://digital.bodleian.ox.ac.uk/objects/33760f83-6507-418f-b8a9-0215ff101986/">
+                           <title>Digital Bodleian</title>
+                        </ref>
+                        <note anchored="true">(full digital facsimile)</note>
+                     </bibl>
+                  </surrogates>
+                  <listBibl default="false">
                             <!-- a number of listBibl elements can be nested inside an outer listBibl if required -->
-                            <head><!-- use to provide a heading if required, otherwise delete --></head>
-                            <bibl><!-- insert bibliography, links to online resource, etc., otherwise delete--></bibl>
-                            
-                        </listBibl>
-                    </additional>
-                    
-                    
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <revisionDesc>
-            <change>
+                     <head><!-- use to provide a heading if required, otherwise delete --></head>
+                     <bibl default="false" status="draft"><!-- insert bibliography, links to online resource, etc., otherwise delete--></bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change status="draft">
                 <!-- insert relevant text, e.g. 'First online publication' -->
                 <!-- provide the date of the change using the @when attribute -->
             </change>
-        </revisionDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <p><!--Body paragraph provided for validation and future transcription--></p>
-        </body>
-    </text>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p part="N"><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
 </TEI>

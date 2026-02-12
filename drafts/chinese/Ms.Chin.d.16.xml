@@ -1,231 +1,293 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-
 <!-- use this template in cases where the manuscript is NOT composed of multiple codicological units. To avoid errors in the display of the record, be sure to delete elements that are not used. -->
-
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-    xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="manuscript_00000"><!-- insert the correct xmlid in the form manuscript_12345 -->
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Ms.Chin.d.16</title>
-                
-                <respStmt>
-                    <resp>Cataloguer</resp>
-                    <persName>Boya Zhang</persName>
-                </respStmt>
-                
-            </titleStmt>
-            <editionStmt>
-                <edition>TEI P5</edition>
-                <funder>HD Chung Fund</funder>
-            </editionStmt>
-            <publicationStmt>
-                <publisher>Special Collections, Bodleian Libraries</publisher>
-                <address>
-                    <orgName type="department">Special Collections</orgName>
-                    <orgName type="unit">Bodleian Libraries</orgName>
-                    <orgName type="institution">University of Oxford</orgName>
-                    <street>Weston Library, Broad Street</street>
-                    <settlement>Oxford</settlement>
-                    <postCode>OX1 3BG</postCode>
-                    <country>United Kingdom</country>
-                </address>
-                <distributor>
-                    <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
-                </distributor>
-                <idno type="msID"><!-- insert normalized form of shelfmark --></idno>
-                <idno type="collection"><!-- insert normalized form of collection --></idno>
-                <idno type="catalogue"><!-- insert catalogue ID --></idno>
-            </publicationStmt>
-            <sourceDesc>
-                <msDesc xml:lang="en"><!-- optionally provide xmlid should as a normalized form of the shelfmark, e.g. Merton_College_MS_10 -->
-                    <msIdentifier>
-                        <settlement><!-- insert --></settlement>
-                        <repository>Bodleian Library</repository><!-- change if necessary -->
-                        <idno type="shelfmark">Ms.Chin.d.16</idno>
-                        
-                    </msIdentifier>
-                    
-                    <msContents>
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xml:id="manuscript_00000"><!-- insert the correct xmlid in the form manuscript_12345 -->
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ms.Chin.d.16</title>
+            <respStmt>
+               <resp>Cataloguer</resp>
+               <persName instant="false" full="yes">Boya Zhang</persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>TEI P5</edition>
+            <funder>HD Chung Fund</funder>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Special Collections, Bodleian Libraries</publisher>
+            <address>
+               <orgName type="department" instant="false" full="yes">Special Collections</orgName>
+               <orgName type="unit" instant="false" full="yes">Bodleian Libraries</orgName>
+               <orgName type="institution" instant="false" full="yes">University of Oxford</orgName>
+               <street>Weston Library, Broad Street</street>
+               <settlement>Oxford</settlement>
+               <postCode>OX1 3BG</postCode>
+               <country>United Kingdom</country>
+            </address>
+            <distributor>
+               <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+            </distributor>
+            <idno type="msID"><!-- insert normalized form of shelfmark --></idno>
+            <idno type="collection"><!-- insert normalized form of collection --></idno>
+            <idno type="catalogue"><!-- insert catalogue ID --></idno>
+         </publicationStmt>
+         <sourceDesc default="false">
+            <msDesc xml:lang="en" status="draft"><!-- optionally provide xmlid should as a normalized form of the shelfmark, e.g. Merton_College_MS_10 -->
+               <msIdentifier>
+                  <settlement><!-- insert --></settlement>
+                  <repository>Bodleian Library</repository>
+                  <!-- change if necessary -->
+                  <idno type="shelfmark">Ms.Chin.d.16</idno>
+               </msIdentifier>
+               <msContents>
                         <!-- intellectual content of the ms. See https://git.io/msdescdoc#mscontents -->
-                        <summary>The content is about regulations for the conveyance of copper from Yünnan to the capital, 
+                  <summary>The content is about regulations for the conveyance of copper from Yünnan to the capital, 
                                  with itinerary from Hangchow to Yünnan.</summary>
-                        <textLang mainLang="zh">Chinese </textLang><!-- change text and attribute if necessary -->
-                        
-                        <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
+                  <textLang mainLang="zh">Chinese </textLang>
+                  <!-- change text and attribute if necessary -->
+                  <msItem><!-- optionally provide xml:id and n attributes, n=1, n=2 etc. -->
                             <!-- use as many of the following elements as are relevant, and delete those that are not used. See https://git.io/msdescdoc#msitem  -->
-                            <title key="supplied title">砝碼</title>
-                            <author>unknown</author>
-                            <note><locus>upper cover: </locus><q>Regulations for the conveyance of copper from Yünnan to the capital, with itinerary from Hangchow to Yünnan.</q></note>
-                            <msItem><locus>p.i</locus><title type="sub">砝碼</title><note><q>S.C.30869n</q></note></msItem>
-                            <msItem><locus>p.1</locus><title type="sub">銅運升官訣</title></msItem>
-                            <msItem><locus>p.11</locus><title type="sub">瀘州</title></msItem>
-                            <msItem><locus>f.12</locus><title type="sub">要二十把橈二把撤</title><title type="sub">漢口</title></msItem>
-                            <msItem><locus>p.13</locus><title type="sub">領解銅觔定額</title></msItem>
-                            <msItem><locus>p.14</locus><title type="sub">運銅限期</title></msItem>
-                            <msItem><locus>p.15</locus><title type="sub">奏銷定例</title><title type="sub">運銅章程</title></msItem>
-                            <msItem><locus>p.16</locus><title type="sub">應買土儀</title></msItem>
-                            <msItem><locus>p.17</locus><title type="sub">承攔式</title></msItem>
-                            <msItem><locus>p.44</locus><title type="sub">神聖也大吉，逐月風暴日期</title></msItem>
-                            <msItem><locus>p.45</locus><title type="sub">每日空亡時</title><title type="sub">雲南至永寧路程計二十三站</title></msItem>
-                            <msItem><locus>p.46</locus><title type="sub">貴州回至雲南路程計十八站</title><title type="sub">川河險灘</title></msItem>
-                            <msItem><locus>p.51</locus><title type="sub">各關查騐准限</title></msItem>
-                            <msItem><locus>p.65</locus><title type="sub">運銅定例</title></msItem>
-                            <msItem><locus>p.68</locus><title type="sub">正運加運在長船紅船之分後奏銷冊係加運冊式</title></msItem>
-        
-                            <filiation>手抄本,中外孤本。 only surviving copy.</filiation>
-                            <note type="批注"><locus>p.9: </locus><q>不借为妙</q>Additions in a later hand.</note>
-                            <note type="批注"><locus>p.15: </locus>Additions in a later hand.</note>
-                            <note type="批注"><locus>p.17: </locus>Two annotations in different hands.</note>
-                            <note type="批注"><locus>p.19: </locus>Additions in a later hand.</note>
-                            <note type="批注"><locus>p.20: </locus>Annotations in the same handwriting as the main content of this manuscript.</note>
-                            <note type="批注"><locus>p.24: </locus>Additions in a later hand.</note>
-                            <note type="批注"><locus>p.28: </locus>Additions in a later hand.</note>
-                            <note type="批注"><locus>p.32: </locus>Annotations in the same handwriting as the main content of this manuscript.</note>
-                            <note type="批注"><locus>p.33: </locus>Annotations in the same handwriting as the main content of this manuscript.</note>
-                            <note type="批注"><locus>p.34: </locus>Annotations in the same handwriting as the main content of this manuscript.</note>
-                            <note type="批注"><locus>p.35: </locus>Annotations in the same handwriting as the main content of this manuscript.</note>
-                            <note type="批注"><locus>p.36: </locus>Annotations in the same handwriting as the main content of this manuscript.</note>
-                            
-                            <note type="批注"><locus>p.42: </locus>Additions in a later hand.</note>
-                            <note type="批注"><locus>p.43: </locus>Annotations in the same handwriting as the main content of this manuscript.</note>
-                            <note type="批注"><locus>p.74: </locus>Additions in a later hand.</note>
-                            <note type="批注"><locus>p.76: </locus>Additions in a later hand.</note>
-                        </msItem>
-                            
-                      
-                        <!-- insert further msItem elements as appropriate -->
-                    </msContents>
-                    <physDesc>
-                        
-                        <objectDesc form="綫裝"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
-                            <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
-                                <support>mulberry and bamboo mixed paper</support>
-                                <extent>一冊,共81頁
+                     <title key="supplied title">砝碼</title>
+                     <author>unknown</author>
+                     <note anchored="true">
+                        <locus>upper cover: </locus>
+                        <q>Regulations for the conveyance of copper from Yünnan to the capital, with itinerary from Hangchow to Yünnan.</q>
+                     </note>
+                     <msItem>
+                        <locus>p.i</locus>
+                        <title type="sub">砝碼</title>
+                        <note anchored="true">
+                           <q>S.C.30869n</q>
+                        </note>
+                     </msItem>
+                     <msItem>
+                        <locus>p.1</locus>
+                        <title type="sub">銅運升官訣</title>
+                     </msItem>
+                     <msItem>
+                        <locus>p.11</locus>
+                        <title type="sub">瀘州</title>
+                     </msItem>
+                     <msItem>
+                        <locus>f.12</locus>
+                        <title type="sub">要二十把橈二把撤</title>
+                        <title type="sub">漢口</title>
+                     </msItem>
+                     <msItem>
+                        <locus>p.13</locus>
+                        <title type="sub">領解銅觔定額</title>
+                     </msItem>
+                     <msItem>
+                        <locus>p.14</locus>
+                        <title type="sub">運銅限期</title>
+                     </msItem>
+                     <msItem>
+                        <locus>p.15</locus>
+                        <title type="sub">奏銷定例</title>
+                        <title type="sub">運銅章程</title>
+                     </msItem>
+                     <msItem>
+                        <locus>p.16</locus>
+                        <title type="sub">應買土儀</title>
+                     </msItem>
+                     <msItem>
+                        <locus>p.17</locus>
+                        <title type="sub">承攔式</title>
+                     </msItem>
+                     <msItem>
+                        <locus>p.44</locus>
+                        <title type="sub">神聖也大吉，逐月風暴日期</title>
+                     </msItem>
+                     <msItem>
+                        <locus>p.45</locus>
+                        <title type="sub">每日空亡時</title>
+                        <title type="sub">雲南至永寧路程計二十三站</title>
+                     </msItem>
+                     <msItem>
+                        <locus>p.46</locus>
+                        <title type="sub">貴州回至雲南路程計十八站</title>
+                        <title type="sub">川河險灘</title>
+                     </msItem>
+                     <msItem>
+                        <locus>p.51</locus>
+                        <title type="sub">各關查騐准限</title>
+                     </msItem>
+                     <msItem>
+                        <locus>p.65</locus>
+                        <title type="sub">運銅定例</title>
+                     </msItem>
+                     <msItem>
+                        <locus>p.68</locus>
+                        <title type="sub">正運加運在長船紅船之分後奏銷冊係加運冊式</title>
+                     </msItem>
+                     <filiation>手抄本,中外孤本。 only surviving copy.</filiation>
+                     <note type="批注" anchored="true">
+                        <locus>p.9: </locus>
+                        <q>不借为妙</q>Additions in a later hand.</note>
+                     <note type="批注" anchored="true">
+                        <locus>p.15: </locus>Additions in a later hand.</note>
+                     <note type="批注" anchored="true">
+                        <locus>p.17: </locus>Two annotations in different hands.</note>
+                     <note type="批注" anchored="true">
+                        <locus>p.19: </locus>Additions in a later hand.</note>
+                     <note type="批注" anchored="true">
+                        <locus>p.20: </locus>Annotations in the same handwriting as the main content of this manuscript.</note>
+                     <note type="批注" anchored="true">
+                        <locus>p.24: </locus>Additions in a later hand.</note>
+                     <note type="批注" anchored="true">
+                        <locus>p.28: </locus>Additions in a later hand.</note>
+                     <note type="批注" anchored="true">
+                        <locus>p.32: </locus>Annotations in the same handwriting as the main content of this manuscript.</note>
+                     <note type="批注" anchored="true">
+                        <locus>p.33: </locus>Annotations in the same handwriting as the main content of this manuscript.</note>
+                     <note type="批注" anchored="true">
+                        <locus>p.34: </locus>Annotations in the same handwriting as the main content of this manuscript.</note>
+                     <note type="批注" anchored="true">
+                        <locus>p.35: </locus>Annotations in the same handwriting as the main content of this manuscript.</note>
+                     <note type="批注" anchored="true">
+                        <locus>p.36: </locus>Annotations in the same handwriting as the main content of this manuscript.</note>
+                     <note type="批注" anchored="true">
+                        <locus>p.42: </locus>Additions in a later hand.</note>
+                     <note type="批注" anchored="true">
+                        <locus>p.43: </locus>Annotations in the same handwriting as the main content of this manuscript.</note>
+                     <note type="批注" anchored="true">
+                        <locus>p.74: </locus>Additions in a later hand.</note>
+                     <note type="批注" anchored="true">
+                        <locus>p.76: </locus>Additions in a later hand.</note>
+                  </msItem>
+                  <!-- insert further msItem elements as appropriate -->
+               </msContents>
+               <physDesc>
+                  <objectDesc form="綫裝"><!-- change if necessary: use standard attribute values, e.g. codex, roll, sheet   https://git.io/msdescdoc#objectdescBook -->
+                     <supportDesc material="桑紙"><!-- change if necessary: use standard attribute values, e.g. perg, chart, mixed   https://git.io/msdescdoc#supportdesc -->
+                        <support>mulberry and bamboo mixed paper</support>
+                        <extent>一冊,共81頁
                                         one volume 81 ff.
                                     
                                     <dimensions unit="cm" type="leaf"><!-- use standard attribute values, e.g. leaf, written  
                         https://git.io/msdescdoc#leafDimensions
-                        -->                           <height>27.1 cm</height>
-                                        <width>18.1 cm </width>
-                                    </dimensions>
-                                    <!-- use additional dimensions elements if necessary -->
-                                </extent>
-                                
-                                <condition>封面污跡彎折明顯，邊緣磨損，内頁有水印，略有污跡 </condition>
-                            </supportDesc>
-                            <layoutDesc>
-                                <layout>内頁無邊框，每頁分十行單列抄寫，每行約三十字。墨色書寫並用黑色圈標示句讀和重點字句。</layout>
-                                <!-- use additional layout elements if necessary 
+                        -->
+                              <height>27.1 cm</height>
+                              <width>18.1 cm </width>
+                           </dimensions>
+                           <!-- use additional dimensions elements if necessary -->
+                        </extent>
+                        <condition>封面污跡彎折明顯，邊緣磨損，内頁有水印，略有污跡 </condition>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>内頁無邊框，每頁分十行單列抄寫，每行約三十字。墨色書寫並用黑色圈標示句讀和重點字句。</layout>
+                        <!-- use additional layout elements if necessary 
                         https://git.io/msdescdoc#layoutdesc-->
-                            </layoutDesc>
-                        </objectDesc>
-                        
-                        <handDesc><!-- use the @hands attribute to record the number of scribes -->
-                            <handNote>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc><!-- use the @hands attribute to record the number of scribes -->
+                     <handNote>
                                 Text written in 楷書 (kai shu, regular) calligraphic style</handNote>
-                            <!-- use additional handNote elements if necessary 
+                     <!-- use additional handNote elements if necessary 
                      https://git.io/msdescdoc#handdesc
                      -->
-                        </handDesc>
-                        <musicNotation>
-                            <p><!-- insert if relevant, otherwise delete --></p>
-                            <!-- use additional p elements if necessary 
+                  </handDesc>
+                  <musicNotation>
+                     <p part="N"><!-- insert if relevant, otherwise delete --></p>
+                     <!-- use additional p elements if necessary 
                      https://git.io/msdescdoc#musicnotation
                      -->
-                        </musicNotation>
-                        <decoDesc>
-                            <decoNote>
+                  </musicNotation>
+                  <decoDesc>
+                     <decoNote>
                                 The book cover is crafted from traditional yellow Chinese paper, 
                                 which exhibits signs of fading and staining. Additionally, the 
                                 binding thread used is made of paper.</decoNote>
-                            <!-- use additional decoNote elements if necessary 
+                     <!-- use additional decoNote elements if necessary 
                      https://git.io/msdescdoc#decodesc
                      -->
-                        </decoDesc>
-                        
-                        <bindingDesc>
-                            <binding when="1500"><!-- use dating attributes to record the date -->
-                                <p> a thread-bound book with covers of traditional Chinese paper.</p>
-                                <decoNote><!-- insert relevant information, otherwise delete --></decoNote>
-                            </binding>
-                        </bindingDesc>
-                        <accMat>
+                  </decoDesc>
+                  <bindingDesc>
+                     <binding when="1500"><!-- use dating attributes to record the date -->
+                        <p part="N"> a thread-bound book with covers of traditional Chinese paper.</p>
+                        <decoNote><!-- insert relevant information, otherwise delete --></decoNote>
+                     </binding>
+                  </bindingDesc>
+                  <accMat>
                             <!-- insert if relevant, otherwise delete 
                      https://git.io/msdescdoc#accMat          
                      -->
                         </accMat>
-                    </physDesc>
-                    
-                    <history>
+               </physDesc>
+               <history>
                         <!-- see https://git.io/msdescdoc#history -->
-                        <origin>
+                  <origin instant="false">
                             <!-- see https://git.io/msdescdoc#origin -->
-                            <origPlace>
-                                <country>China</country>,
+                     <origPlace instant="false">
+                        <country>China</country>,
                                 
                             </origPlace>
-                            <origDate notAfter="1700" notBefore="1500" calendar="Gregorian">1573-1620</origDate>
-                            <!-- use additional origPlace and origDate elements if necessary -->
-                        </origin>
-                        <provenance>In the previous catalogue, it is recorded that:
+                     <origDate notAfter="1700"
+                               notBefore="1500"
+                               calendar="Gregorian"
+                               instant="false">1573-1620</origDate>
+                     <!-- use additional origPlace and origDate elements if necessary -->
+                  </origin>
+                  <provenance>In the previous catalogue, it is recorded that:
                                     language:	Chinese
                                     shelfmark:	MS.Chin.d.16
                                     content:	Regulations for the conveyance of copper from Yünnan to the capital, with itinerary from Hangchow to Yünnan.
                                     phys. descr:	81 ff.
                                     acquired:	earlier than 1855.'
                                     On the inside of upper cover, a tag is showing the list number: S.C.30869n</provenance>
-                        <!-- use additional provenance elements if necessary -->
-                        <acquisition>
+                  <!-- use additional provenance elements if necessary -->
+                  <acquisition>
                             earlier than 1855
                         </acquisition>
-                    </history>
-                    <additional>
-                        <adminInfo>
-                            <recordHist>
-                                <source>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>
                                     <!-- insert prose here; see https://git.io/msdescdoc#recordHist -->
-                                    <bibl><!-- insert if necesary, otherwise delete --></bibl>
-                                    <!-- links to digitized catalogues may also be provide here, e.g.: -->
-                                    <!--<listBibl>
+                           <bibl default="false" status="draft"><!-- insert if necesary, otherwise delete --></bibl>
+                           <!-- links to digitized catalogues may also be provide here, e.g.: -->
+                           <!--<listBibl>
                               <bibl type="SC" facs="aas0046.gif">Summary Catalogue, Vol. 3, p.  31</bibl>
                            </listBibl>-->
-                                </source>
-                            </recordHist>
-                        </adminInfo>
-                        <surrogates>
-                            <bibl type="digital-facsimile" subtype="full">
-                                <ref target="https://digital.bodleian.ox.ac.uk/objects/4343e124-cf8d-46e5-aa26-102521389395/">
-                                    <title>Digital Bodleian</title></ref> <note>(full digital facsimile)</note>
-                            </bibl>
-                        </surrogates>
-                        <listBibl>
+                        </source>
+                     </recordHist>
+                  </adminInfo>
+                  <surrogates>
+                     <bibl type="digital-facsimile"
+                           subtype="full"
+                           default="false"
+                           status="draft">
+                        <ref target="https://digital.bodleian.ox.ac.uk/objects/4343e124-cf8d-46e5-aa26-102521389395/">
+                           <title>Digital Bodleian</title>
+                        </ref>
+                        <note anchored="true">(full digital facsimile)</note>
+                     </bibl>
+                  </surrogates>
+                  <listBibl default="false">
                             <!-- a number of listBibl elements can be nested inside an outer listBibl if required -->
-                            <head><!-- use to provide a heading if required, otherwise delete --></head>
-                            <bibl><!-- insert bibliography, links to online resource, etc., otherwise delete--></bibl>
-                            
-                        </listBibl>
-                    </additional>
-                    
-                    
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <revisionDesc>
-            <change>
+                     <head><!-- use to provide a heading if required, otherwise delete --></head>
+                     <bibl default="false" status="draft"><!-- insert bibliography, links to online resource, etc., otherwise delete--></bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc status="draft">
+         <change status="draft">
                 <!-- insert relevant text, e.g. 'First online publication' -->
                 <!-- provide the date of the change using the @when attribute -->
             </change>
-        </revisionDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <p><!--Body paragraph provided for validation and future transcription--></p>
-        </body>
-    </text>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p part="N"><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
 </TEI>
-
-
-
