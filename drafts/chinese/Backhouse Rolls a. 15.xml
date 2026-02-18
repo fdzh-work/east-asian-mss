@@ -54,7 +54,7 @@
                      <locus><!-- insert --></locus>
                      <title key="supplied title">民國盧學溥畫花鳥 軸</title>
                      <title key="supplie title" xml:lang="en">A scroll of painting attributed to Lu Xue Pu</title>
-                     <author key="Q45578122">
+                     <author key="person_7214">
                         <persName instant="false" full="yes">盧學溥</persName>
                         <persName type="字" instant="false" full="yes">鑑泉</persName>
                         <date notAfter="2000"
@@ -66,7 +66,6 @@
                      <note type="印章" anchored="true">盧鑑泉印</note>
                      <note type="印章" anchored="true">星橋</note>
                      <note type="題簽" anchored="true">盧星橋畫 B/308</note>
-                     <filiation>書法卷軸，中外孤本。</filiation>
                   </msItem>
                   <!-- insert further msItem elements as appropriate -->
                </msContents>

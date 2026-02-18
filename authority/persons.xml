@@ -18287,7 +18287,16 @@
                 </person>
                 <person xml:id="person_4563">
                     <persName type="display">(清)李鴻章</persName>
-                    <persName type="variant">li hong zhang</persName>
+                    <persName type="variant">li hong zhang</persName>              
+                        <note type="links">
+                            <list type="links">
+                                <item>
+                                    <ref target="https://www.wikidata.org/wiki/Q378517">
+                                        <title>Wikidata</title>
+                                    </ref>
+                                </item>
+                            </list>
+                        </note>
                 </person>
                 <person xml:id="person_4564">
                     <persName type="display">(清)李黼平</persName>
@@ -22165,6 +22174,15 @@
                 <person xml:id="person_5530">
                     <persName type="display">(清)董誥</persName>
                     <persName type="variant">dong gao</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://www.wikidata.org/wiki/Q15725501">
+                                    <title>Wikidata</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
                 </person>
                 <person xml:id="person_5531">
                     <persName type="display">(清)董說</persName>
@@ -23277,6 +23295,15 @@
                 <person xml:id="person_5808">
                     <persName type="display">(清)鄒一桂</persName>
                     <persName type="variant">zou yi gui</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://www.wikidata.org/wiki/Q3576147">
+                                    <title>Wikidata</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
                 </person>
                 <person xml:id="person_5809">
                     <persName type="display">(清)鄒代鈞</persName>
@@ -28583,7 +28610,102 @@
                         </list>
                     </note>
                 </person>
-                
+                <person xml:id="person_7211">
+                    <persName type="display">吳樹梅</persName>
+                    <persName type="variant">wu shu mei</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://www.wikidata.org/wiki/Q10918953">
+                                    <title>Wikidata</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                </person>
+                <person xml:id="person_7212">
+                    <persName type="display">愛新覺羅顒琰</persName>
+                    <persName type="title">嘉慶帝</persName>
+                    <persName type="variant">ai xin jue luo yong yan</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://www.wikidata.org/wiki/Q333178">
+                                    <title>Wikidata</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                </person>
+                <person xml:id="person_7213">
+                    <persName type="display">愛新覺羅弘歷</persName>
+                    <persName type="title">乾隆皇帝</persName>
+                    <persName type="variant">ai xin jue luo hong li</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://www.wikidata.org/wiki/Q19133">
+                                    <title>Wikidata</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                </person>
+                <person xml:id="person_7214">
+                    <persName type="display">盧學溥</persName>
+                    <persName type="variant">lu xue pu</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://www.wikidata.org/wiki/Q45578122">
+                                    <title>Wikidata</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                </person>
+                <person xml:id="person_7215">
+                    <persName type="display">愛新覺羅旻寧</persName>
+                    <persName type="variant">ai xin jue luo min ning</persName>
+                    <persName type="title">道光帝</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://www.wikidata.org/wiki/Q334351">
+                                    <title>Wikidata</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                </person>
+                <person xml:id="person_7216">
+                    <persName type="display">愛新覺羅玄燁</persName>
+                    <persName type="variant">ai xin jue luo xuan ye</persName>
+                    <persName type="title">康熙帝</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://www.wikidata.org/wiki/Q17790">
+                                    <title>Wikidata</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                </person>
+                <person xml:id="person_7217">
+                    <persName type="display">愛新覺羅奕詝</persName>
+                    <persName type="variant">ai xin jue luo yi zhu</persName>
+                    <persName type="title">咸豐皇帝</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://www.wikidata.org/wiki/Q334452">
+                                    <title>Wikidata</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                </person>
             </listPerson>
         </body>
     </text>

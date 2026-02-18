@@ -54,7 +54,7 @@
                      <locus><!-- insert --></locus>
                      <title key="supplied title">清董誥書李白南軒松 軸</title>
                      <title key="supplie title" xml:lang="en">A scroll of calligraphy attributed to Dong Gao</title>
-                     <author key="Q15725501">
+                     <author key="person_5530">
                         <persName instant="false" full="yes">董誥</persName>
                         <persName type="字" instant="false" full="yes">雅倫</persName>
                         <persName type="號" instant="false" full="yes">蔗林</persName>
@@ -67,7 +67,6 @@
                      <note type="款識" anchored="true">柘林董誥</note>
                      <note type="注" anchored="true">兩枚印章模糊</note>
                      <note type="題簽" anchored="true">B/291 m catalogue scroll of stateman Tung Kao</note>
-                     <filiation>書法卷軸，中外孤本。</filiation>
                   </msItem>
                   <!-- insert further msItem elements as appropriate -->
                </msContents>
